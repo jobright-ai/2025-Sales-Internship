@@ -157,7 +157,7 @@ For a complete list, see the full spreadsheet below:
 | **[MathWorks](http://www.mathworks.com)** | **[University of Southern California MATLAB Student Ambassador](https://jobright.ai/jobs/info/66327b03f20ca69f599603c3?utm_source=1051&utm_campaign=git)** | Natick, MA | Hybrid | Jul 09 |
 | **[Kaplan](http://www.kaplan.com)** | **[Student Brand Ambassador - University of Washington (Seattle)](https://jobright.ai/jobs/info/668868bb0681494788888351?utm_source=1051&utm_campaign=git)** | Seattle, WA | Hybrid | Jul 09 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Marketing Student Internship](https://jobright.ai/jobs/info/668cf7b8433c315ce7c2570a?utm_source=1051&utm_campaign=git)** | Waukesha, WI | On Site | Jul 09 |
-| **[Malibu Events Promotions](https://www.malibueventspromo.com/)** | **[Paid Internship](https://jobright.ai/jobs/info/668d22b4e99837e100f919a0?utm_source=1051&utm_campaign=git)** | San Antonio, TX | On Site | Jul 09 |
+| **[Malibu Events Promotions](https://www.malibueventspromo.com/)** | **[Paid Internship](https://jobright.ai/jobs/info/668d22b4e99837e100f9199e?utm_source=1051&utm_campaign=git)** | San Antonio, TX | On Site | Jul 09 |
 | **[Miracom Hive](https://www.miracomhive.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/668ce9c62defd50983433746?utm_source=1051&utm_campaign=git)** | Houston, TX | On Site | Jul 09 |
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Social Media Internship](https://jobright.ai/jobs/info/668cf460af8e1cb2e44b3a5e?utm_source=1051&utm_campaign=git)** | Brooklyn, NY | On Site | Jul 09 |
 | **[Miracom Hive](https://www.miracomhive.com/)** | **[Paid Internship Program (ASAP)](https://jobright.ai/jobs/info/668ce9c62defd50983433749?utm_source=1051&utm_campaign=git)** | Santa Ana, CA | On Site | Jul 09 |
@@ -200,8 +200,8 @@ For a complete list, see the full spreadsheet below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Microenterprise Development (MED) Intern](https://jobright.ai/jobs/info/668688a59db87c158112a6bf?utm_source=1051&utm_campaign=git)** | Atlanta, GA | Hybrid | Jul 08 |
 | **[Caterpillar](https://www.caterpillar.com)** | **[2025 Summer Corporate Intern - Marketing](https://jobright.ai/jobs/info/668c6bb659b1963e7b946c71?utm_source=1051&utm_campaign=git)** | Peoria, IL | On Site | Jul 08 |
 | **[Endevor](https://www.endevorllc.com/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/668c616f980e9b9331fff0f4?utm_source=1051&utm_campaign=git)** | Wilmington, DE | Hybrid | Jul 08 |
-| **[Lutheran Social Ministries of Maryland](https://lsmmd.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6675abef6d8340c59f8e42b4?utm_source=1051&utm_campaign=git)** | Westminster, CO | On Site | Jul 08 |
 | **[The Fashion Foundation](http://www.thefashionfoundation.org)** | **[Fashion Merchandising and Marketing Internship - Long Island, NY](https://jobright.ai/jobs/info/668c59e8d12005586108e7fa?utm_source=1051&utm_campaign=git)** | Suffolk County, NY | On Site | Jul 08 |
+| **[Lutheran Social Ministries of Maryland](https://lsmmd.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/668c5de2a0bdbc20c7ddcf33?utm_source=1051&utm_campaign=git)** | Westminster, CO | On Site | Jul 08 |
 | **[Awesome Inc](https://www.awesomeinc.org/links)** | **[Fall Internship (Marketing, Design, Video, Development)](https://jobright.ai/jobs/info/668c560e6d9edb82d509e2c2?utm_source=1051&utm_campaign=git)** | Lexington, KY | On Site | Jul 08 |
 | **[Cobblestone 13](www.cobblestone13.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6682c7477dca0508fd29f433?utm_source=1051&utm_campaign=git)** | Savannah, GA | On Site | Jul 08 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship (Training + Mentorship Provided)](https://jobright.ai/jobs/info/668c618b980e9b9331fff306?utm_source=1051&utm_campaign=git)** | Schaumburg, IL | On Site | Jul 08 |
@@ -221,8 +221,8 @@ For a complete list, see the full spreadsheet below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative](https://jobright.ai/jobs/info/668c618b980e9b9331fff2d5?utm_source=1051&utm_campaign=git)** | Baltimore, MD | On Site | Jul 08 |
 | **[Oakview Group](http://www.oakviewgroup.com)** | **[Marketing & Sales Intern / Augusta Entertainment Complex](https://jobright.ai/jobs/info/668c44ad998303acf288f9e7?utm_source=1051&utm_campaign=git)** | Augusta, GA | On Site | Jul 08 |
 | **[Native Instruments](http://www.native-instruments.com)** | **[Working Student - Content Marketing](https://jobright.ai/jobs/info/668c2960dbe1aedcdfe00a43?utm_source=1051&utm_campaign=git)** | United States | Remote | Jul 08 |
-| **[Greysteel](https://www.greysteel.com/)** | **[CRE Sales Intern](https://jobright.ai/jobs/info/668c22cc42557af01ff61495?utm_source=1051&utm_campaign=git)** | Dallas, TX | Hybrid | Jul 08 |
-| ↳ | **[CRE Sales Intern](https://jobright.ai/jobs/info/668c22cc42557af01ff61496?utm_source=1051&utm_campaign=git)** | Bethesda, MD | Hybrid | Jul 08 |
+| **[Greysteel](https://www.greysteel.com/)** | **[CRE Sales Intern](https://jobright.ai/jobs/info/668c22cc42557af01ff61496?utm_source=1051&utm_campaign=git)** | Bethesda, MD | Hybrid | Jul 08 |
+| ↳ | **[CRE Sales Intern](https://jobright.ai/jobs/info/668c22cc42557af01ff61495?utm_source=1051&utm_campaign=git)** | Dallas, TX | Hybrid | Jul 08 |
 | **[Enlightened ATL](https://enlightened-atl.com)** | **[Sales And Marketing Representative](https://jobright.ai/jobs/info/668c18749ed01f6719df2f55?utm_source=1051&utm_campaign=git)** | Atlanta, GA | On Site | Jul 08 |
 | **[Electric Picks Jewelry](http://electricpicks.com)** | **[Marketing & Social Media Interns (Fall)](https://jobright.ai/jobs/info/668c13e09156a36052676c5a?utm_source=1051&utm_campaign=git)** | Hoboken, NJ | On Site | Jul 08 |
 | **[Greysteel](https://www.greysteel.com/)** | **[CRE Sales Intern](https://jobright.ai/jobs/info/668c1d7c1c630cef6f193496?utm_source=1051&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 08 |
@@ -279,7 +279,7 @@ For a complete list, see the full spreadsheet below:
 | **[Service 1st](https://service1.org)** | **[Marketing & Communications Specialist](https://jobright.ai/jobs/info/668a0c8abf7fc69959dbc217?utm_source=1051&utm_campaign=git)** | Danville, PA | On Site | Jul 07 |
 | **[People 1st](https://ourpeople1st.com/)** | **[REMOTE Sales Manager](https://jobright.ai/jobs/info/6689f53dd900c6999637b5c7?utm_source=1051&utm_campaign=git)** | Denver, CO | On Site | Jul 07 |
 | ↳ | **[REMOTE Sales Leader](https://jobright.ai/jobs/info/6689f53dd900c6999637b65b?utm_source=1051&utm_campaign=git)** | Scottsdale, AZ | Hybrid | Jul 07 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Strategic Communications Intern: Development of social media content](https://jobright.ai/jobs/info/668a89dbf1daf4dd47883fff?utm_source=1051&utm_campaign=git)** | New York, United States | Hybrid | Jul 06 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Strategic Communications Intern: Development of social media content](https://jobright.ai/jobs/info/6689dc42333bfeef5d36ae17?utm_source=1051&utm_campaign=git)** | New York, United States | Hybrid | Jul 06 |
 | **[The TCW Group](http://www.tcw.com)** | **[Internal Sales Associate](https://jobright.ai/jobs/info/668986e6901ddeae0f94042b?utm_source=1051&utm_campaign=git)** | LA Metro Area | On Site | Jul 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/668636eac3a227946a5ec3c3?utm_source=1051&utm_campaign=git)** | Fort Wayne, IN | On Site | Jul 06 |
 | **[MotionPoint](https://www.motionpoint.com)** | **[Junior Sales Development Representative](https://jobright.ai/jobs/info/66896f4b668c74e8a00ec0bd?utm_source=1051&utm_campaign=git)** | Coconut Creek, FL | Hybrid | Jul 06 |
@@ -363,7 +363,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668835b8bc9ee9c419e9a094?utm_source=1051&utm_campaign=git)** | Bismarck, ND | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668835b8bc9ee9c419e9a093?utm_source=1051&utm_campaign=git)** | Sherman, TX | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668835b8bc9ee9c419e9a095?utm_source=1051&utm_campaign=git)** | Billings, MT | On Site | Jul 05 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831d3267b613d19e45cd4?utm_source=1051&utm_campaign=git)** | San Antonio, TX | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831d3267b613d19e45cd5?utm_source=1051&utm_campaign=git)** | Houma, LA | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831d3267b613d19e45cd3?utm_source=1051&utm_campaign=git)** | Chandler, AZ | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831d3267b613d19e45cd0?utm_source=1051&utm_campaign=git)** | St George, UT | On Site | Jul 05 |
@@ -372,6 +371,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831d3267b613d19e45cd6?utm_source=1051&utm_campaign=git)** | Boardman, OH | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831d3267b613d19e45cd7?utm_source=1051&utm_campaign=git)** | Bakersfield, CA | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668835b8bc9ee9c419e9a097?utm_source=1051&utm_campaign=git)** | Saginaw, MI | On Site | Jul 05 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668835b8bc9ee9c419e9a096?utm_source=1051&utm_campaign=git)** | Bridgeport, WV | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831dd267b613d19e45cdf?utm_source=1051&utm_campaign=git)** | Vestavia Hills, AL | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831dd267b613d19e45cda?utm_source=1051&utm_campaign=git)** | Toledo, OH | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831dd267b613d19e45cdc?utm_source=1051&utm_campaign=git)** | Springfield, MO | On Site | Jul 05 |
@@ -381,7 +381,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831dd267b613d19e45cd9?utm_source=1051&utm_campaign=git)** | Davenport, IA | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831dd267b613d19e45cde?utm_source=1051&utm_campaign=git)** | Schaumburg, IL | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831dd267b613d19e45cdd?utm_source=1051&utm_campaign=git)** | Garden City, KS | On Site | Jul 05 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668835b8bc9ee9c419e9a096?utm_source=1051&utm_campaign=git)** | Bridgeport, WV | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668835c1bc9ee9c419e9a09a?utm_source=1051&utm_campaign=git)** | Paducah, KY | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668835b8bc9ee9c419e9a098?utm_source=1051&utm_campaign=git)** | Chattanooga, TN | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668831dd267b613d19e45ce3?utm_source=1051&utm_campaign=git)** | Fort Wayne, IN | On Site | Jul 05 |
@@ -421,6 +420,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687eaed6a69f3e10ab454d7?utm_source=1051&utm_campaign=git)** | Buford, GA | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687eaed6a69f3e10ab454d1?utm_source=1051&utm_campaign=git)** | Estero, FL | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687eaed6a69f3e10ab454cf?utm_source=1051&utm_campaign=git)** | Wauwatosa, WI | On Site | Jul 05 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687eaed6a69f3e10ab454d5?utm_source=1051&utm_campaign=git)** | San Antonio, TX | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687eaed6a69f3e10ab454d9?utm_source=1051&utm_campaign=git)** | Gilbert, AZ | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687eaed6a69f3e10ab454da?utm_source=1051&utm_campaign=git)** | Des Peres, MO | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687eaed6a69f3e10ab454db?utm_source=1051&utm_campaign=git)** | Mankato, MN | On Site | Jul 05 |
@@ -449,8 +449,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687e5ccf5423f35e4cce6cd?utm_source=1051&utm_campaign=git)** | Tallahassee, FL | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687e5ccf5423f35e4cce6cc?utm_source=1051&utm_campaign=git)** | Kennewick, WA | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687e5ccf5423f35e4cce6d0?utm_source=1051&utm_campaign=git)** | El Paso, TX | On Site | Jul 05 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687fdc591d12b5974c704c5?utm_source=1051&utm_campaign=git)** | Augusta, GA | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687fdc591d12b5974c704c6?utm_source=1051&utm_campaign=git)** | Fresno, CA | On Site | Jul 05 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687fdc591d12b5974c704c5?utm_source=1051&utm_campaign=git)** | Augusta, GA | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern (Woodland Mall)](https://jobright.ai/jobs/info/6687fdc591d12b5974c704c7?utm_source=1051&utm_campaign=git)** | Grand Rapids, MI | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687efc28d77caa13731f481?utm_source=1051&utm_campaign=git)** | Kokomo, IN | On Site | Jul 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6687efc28d77caa13731f483?utm_source=1051&utm_campaign=git)** | Riverton, UT | On Site | Jul 05 |
@@ -589,8 +589,8 @@ For a complete list, see the full spreadsheet below:
 | **[X-Camp Academy](https://x-camp.org)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/668659749291a12ee2aa83cc?utm_source=1051&utm_campaign=git)** | San Francisco Bay Area | Hybrid | Jul 04 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/668633c0cde4220425047c26?utm_source=1051&utm_campaign=git)** | Stockton, CA | On Site | Jul 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668636eac3a227946a5ec3c8?utm_source=1051&utm_campaign=git)** | Pearland, TX | On Site | Jul 04 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668636eac3a227946a5ec3c4?utm_source=1051&utm_campaign=git)** | Happy Valley, OR | On Site | Jul 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668636eac3a227946a5ec3c9?utm_source=1051&utm_campaign=git)** | Fayetteville, AR | On Site | Jul 04 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/668636eac3a227946a5ec3c4?utm_source=1051&utm_campaign=git)** | Happy Valley, OR | On Site | Jul 04 |
 | **[First American Equipment Finance](http://faef.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6686277019c3e9af76ad5ab9?utm_source=1051&utm_campaign=git)** | Rochester, NY | Hybrid | Jul 04 |
 | **[Parkhurst Dining Services](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6686262e5a1b884a286faaeb?utm_source=1051&utm_campaign=git)** | Baltimore, MD | On Site | Jul 04 |
 | **[IBEX IT Business Experts](https://ibexexperts.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6686185cd181b6a415d8233b?utm_source=1051&utm_campaign=git)** | Norcross, GA | On Site | Jul 04 |
@@ -609,7 +609,6 @@ For a complete list, see the full spreadsheet below:
 | **[American University](http://american.edu)** | **[Development Operations Assistant (Student)](https://jobright.ai/jobs/info/6685f2ecc18bebcab14e3dd9?utm_source=1051&utm_campaign=git)** | Washington, DC | On Site | Jul 03 |
 | **[EquiTrust](https://www.equitrust.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6685e1c2adbfe96e189b6f4f?utm_source=1051&utm_campaign=git)** | Atlanta, GA | On Site | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Creator Strategy Intern (Global E-commerce) - 2024 Fall (BS/MS)](https://jobright.ai/jobs/info/66860469da5ea22bb3d0f323?utm_source=1051&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 03 |
-| **[Hydrow](https://hydrow.com)** | **[Social Content Intern](https://jobright.ai/jobs/info/6685e1c2adbfe96e189b6f05?utm_source=1051&utm_campaign=git)** | Boston, MA | Hybrid | Jul 03 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2024 Intern - Artist Marketing](https://jobright.ai/jobs/info/6685e49c07f6cebc7f826445?utm_source=1051&utm_campaign=git)** | New York, NY | On Site | Jul 03 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Undergraduate Intern: Walmart Merchandising](https://jobright.ai/jobs/info/6685e4a807f6cebc7f8264fe?utm_source=1051&utm_campaign=git)** | Bentonville, AR | On Site | Jul 03 |
 | **[Acutis Diagnostics](https://www.acutis.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6685e1e5adbfe96e189b70f9?utm_source=1051&utm_campaign=git)** | Hicksville, NY | Hybrid | Jul 03 |
@@ -640,5 +639,4 @@ For a complete list, see the full spreadsheet below:
 | **[SSBH](https://ssbendurehartwig.com)** | **[Sales Intern](https://jobright.ai/jobs/info/668589fa0ae1f988330e0066?utm_source=1051&utm_campaign=git)** | United States | Remote | Jul 03 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Marketing Intern - South Park Mall](https://jobright.ai/jobs/info/6685a4338e86a0cdfea62057?utm_source=1051&utm_campaign=git)** | Charlotte, NC | On Site | Jul 03 |
 | **[IAV Automotive Engineering, Inc.](http://www.iav.com/us)** | **[Student - External Communication](https://jobright.ai/jobs/info/6685839e798cca6c3817352e?utm_source=1051&utm_campaign=git)** | Novi, MI | Hybrid | Jul 03 |
-| **[LEDVANCE](https://www.ledvance.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/668573555c487336af023c1d?utm_source=1051&utm_campaign=git)** | Wilmington, MA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
