@@ -175,13 +175,12 @@ For a complete list, see the full spreadsheet below:
 | **[Skyepack](http://www.skyepack.com)** | **[Part-Time SDR Internship](https://jobright.ai/jobs/info/668beff37960e12240ab7683?utm_source=1051&utm_campaign=git)** | United States | Remote | Jul 08 |
 | **[BPK Tech](http://www.bpktech.com/)** | **[Sales Executive and Business Development Associate (Fresher)](https://jobright.ai/jobs/info/6686b8b5d3ab724e3f97f377?utm_source=1051&utm_campaign=git)** | Minnetonka, MN | On Site | Jul 08 |
 | **[New SCUBA Marketing](http://newscubamarketing.com)** | **[Internet Sales Associate](https://jobright.ai/jobs/info/668bcbd4c0120707fc153d1d?utm_source=1051&utm_campaign=git)** | Phoenix, AZ | On Site | Jul 08 |
-| **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[2025 Guggenheim Securities Investment Banking Summer Associate – Chicago](https://jobright.ai/jobs/info/668bcbfcc0120707fc15410e?utm_source=1051&utm_campaign=git)** | Chicago, IL | On Site | Jul 08 |
+| **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[2025 Guggenheim Securities Investment Banking Summer Associate – Chicago](https://jobright.ai/jobs/info/663283a481eae8d373613f48?utm_source=1051&utm_campaign=git)** | Chicago, IL | On Site | Jul 08 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern-Avalanche Ticket Sales](https://jobright.ai/jobs/info/668c6f5d722799dac22804e6?utm_source=1051&utm_campaign=git)** | Denver, CO | Hybrid | Jul 08 |
 | **[Dishefs](https://www.dishefs.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/668b4a4a31b621abadc215ed?utm_source=1051&utm_campaign=git)** | Charlotte, NC | Hybrid | Jul 07 |
 | **[Northwestern Mutual - Philadelphia](https://www.northwesternmutual.com/office/pa/philadelphia/20692040/)** | **[Fall 2024 Internship/Post-Grad Apprenticeship Financial Representative](https://jobright.ai/jobs/info/668aeab30d5452f9a84ae59d?utm_source=1051&utm_campaign=git)** | Philadelphia, PA | Hybrid | Jul 07 |
 | **[AutoZone](http://www.autozone.com/)** | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/668b5ed101f9e63b4378326d?utm_source=1051&utm_campaign=git)** | Waipahu, HI | On Site | Jul 07 |
 | ↳ | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/668b5ee501f9e63b437833b0?utm_source=1051&utm_campaign=git)** | Kailua-Kona, HI | On Site | Jul 07 |
-| ↳ | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/668b5f2e01f9e63b43783966?utm_source=1051&utm_campaign=git)** | Honolulu, HI | On Site | Jul 07 |
 | ↳ | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/668b5f4301f9e63b43783a80?utm_source=1051&utm_campaign=git)** | Kapaa, HI | On Site | Jul 07 |
 | ↳ | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/668b56ee27834c5081097107?utm_source=1051&utm_campaign=git)** | Lihue, HI | On Site | Jul 07 |
 | ↳ | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/668b571227834c5081097419?utm_source=1051&utm_campaign=git)** | Mililani Town, HI | On Site | Jul 07 |
@@ -192,6 +191,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/668b56ee27834c50810970bc?utm_source=1051&utm_campaign=git)** | Washington, DC | On Site | Jul 07 |
 | ↳ | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/668b577827834c5081097d6f?utm_source=1051&utm_campaign=git)** | Ewa Beach, HI | On Site | Jul 07 |
 | ↳ | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/668b56ee27834c50810970aa?utm_source=1051&utm_campaign=git)** | Jersey City, NJ | On Site | Jul 07 |
+| ↳ | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/668b579b27834c50810980ee?utm_source=1051&utm_campaign=git)** | Honolulu, HI | On Site | Jul 07 |
 | **[The TCW Group](http://www.tcw.com)** | **[Internal Sales Associate](https://jobright.ai/jobs/info/668986e6901ddeae0f94042b?utm_source=1051&utm_campaign=git)** | LA Metro Area | On Site | Jul 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/668636eac3a227946a5ec3c3?utm_source=1051&utm_campaign=git)** | Fort Wayne, IN | On Site | Jul 06 |
 | **[MotionPoint](https://www.motionpoint.com)** | **[Junior Sales Development Representative](https://jobright.ai/jobs/info/66896f4b668c74e8a00ec0bd?utm_source=1051&utm_campaign=git)** | Coconut Creek, FL | Hybrid | Jul 06 |
