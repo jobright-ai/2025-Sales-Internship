@@ -57,10 +57,13 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[3rd Degree Solutions](https://www.thirddegreesolutions.com)** | **[Business Manager Internship](https://jobright.ai/jobs/info/6696202ccc281e8b4fa2b874?utm_source=1051&utm_campaign=git)** | Sacramento, CA | On Site | Jul 16 |
+| **[Atlas Marketing Solutions](https://www.atlasmktgsolutions.com/)** | **[Business Management Internship](https://jobright.ai/jobs/info/669615c66f49d42edbe41314?utm_source=1051&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 16 |
 | **[Alliance Management Group](https://www.alliancemanagementinc.com/)** | **[Entry Level Sales and Marketing](https://jobright.ai/jobs/info/6695ed9ccaae57904cca2014?utm_source=1051&utm_campaign=git)** | Boulder, CO | On Site | Jul 16 |
 | **[Royal United Mortgage](https://royalunitedmortgage.com)** | **[Inside Sales Representative – Great Entry Level Opportunity](https://jobright.ai/jobs/info/6695e6f58d2977e4b2ac0cf7?utm_source=1051&utm_campaign=git)** | Schaumburg, IL | Hybrid | Jul 16 |
 | **[Boost Organic Inc.](www.boost-organic.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6695bdd857849631a44cef56?utm_source=1051&utm_campaign=git)** | Silver Spring, MD | On Site | Jul 16 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Case Ready Value Added Sales Intern (Year-Round)](https://jobright.ai/jobs/info/6695af5f2df2ab0e7200ebe7?utm_source=1051&utm_campaign=git)** | Springdale, AR | On Site | Jul 15 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Development Intern](https://jobright.ai/jobs/info/668f499c478c8663838f2841?utm_source=1051&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 15 |
 | **[1904Group](http://www.1904group.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/6695a0cdc508bc0fadf563f1?utm_source=1051&utm_campaign=git)** | St Louis, MO | On Site | Jul 15 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship (Undergraduate and Post-Graduate)](https://jobright.ai/jobs/info/66958ae78c82d15a242a00df?utm_source=1051&utm_campaign=git)** | Miami-FTL Area | Hybrid | Jul 15 |
 | ↳ | **[Fall Financial Representative Intern](https://jobright.ai/jobs/info/66957ae4b28fd0f5b93548e6?utm_source=1051&utm_campaign=git)** | Greater Chicago Area | Hybrid | Jul 15 |
@@ -147,7 +150,6 @@ For a complete list, see the full spreadsheet below:
 | **[Fenwick & West](http://www.fenwick.com)** | **[2025 2L Corporate Summer Associate (Seattle)](https://jobright.ai/jobs/info/66328f844e52af55c64b264f?utm_source=1051&utm_campaign=git)** | Seattle, WA | On Site | Jul 13 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/65e07badf35e5843fa780839?utm_source=1051&utm_campaign=git)** | Greenville, SC | On Site | Jul 13 |
 | **[Risk Placement Services](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/65f2f3054cbdbc4d17f767f1?utm_source=1051&utm_campaign=git)** | Portland, ME | On Site | Jul 13 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern ** Bilingual English/Mandarin](https://jobright.ai/jobs/info/664d113885131f6ba8ec2a60?utm_source=1051&utm_campaign=git)** | Pasadena, CA | On Site | Jul 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Machinery Trader Sales Intern](https://jobright.ai/jobs/info/6677104cf278834492d876fb?utm_source=1051&utm_campaign=git)** | Lincoln, NE | On Site | Jul 13 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/664e403e403c20224e70eb11?utm_source=1051&utm_campaign=git)** | Pittsburg, KS | On Site | Jul 13 |
 | **[Matthews Real Estate Investment Services](https://www.matthews.com/)** | **[Sales Intern (PHX)](https://jobright.ai/jobs/info/65075712eaf48ebc56d7374c?utm_source=1051&utm_campaign=git)** | Phoenix, AZ | On Site | Jul 13 |
@@ -164,6 +166,7 @@ For a complete list, see the full spreadsheet below:
 | **[Capsicum Reinsurance Brokers](https://www.capsicumre.com/)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6676d92c4ffdc62f7b67a560?utm_source=1051&utm_campaign=git)** | New York, NY | On Site | Jul 13 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[2025 Virtual Client Solutions Summer Professional Intern Program - Alpharetta, GA](https://jobright.ai/jobs/info/6675be0b6f7095ca90c070fd?utm_source=1051&utm_campaign=git)** | Alpharetta, GA | On Site | Jul 13 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship](https://jobright.ai/jobs/info/66577180865ef7357af15838?utm_source=1051&utm_campaign=git)** | Charleston, SC | On Site | Jul 13 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern ** Bilingual English/Mandarin](https://jobright.ai/jobs/info/66768e923924a645d1123550?utm_source=1051&utm_campaign=git)** | Pasadena, CA | On Site | Jul 13 |
 | **[Swipe Say Easy](https://www.swipesayeasy.com/)** | **[Summer Sales & Marketing Internship](https://jobright.ai/jobs/info/66924addf9dc21f2239becc6?utm_source=1051&utm_campaign=git)** | Los Angeles County, CA | On Site | Jul 13 |
 | **[Access](https://www.accesscommunity.org)** | **[Development Assistant (Paid Internship)](https://jobright.ai/jobs/info/66923203c8ad7f2b70953476?utm_source=1051&utm_campaign=git)** | Dearborn, MI | On Site | Jul 13 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern**](https://jobright.ai/jobs/info/669212635ebe408cdf67e845?utm_source=1051&utm_campaign=git)** | LA Metro Area | On Site | Jul 13 |
@@ -192,8 +195,7 @@ For a complete list, see the full spreadsheet below:
 | **[SSBH](https://ssbendurehartwig.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6642b905c06a0b349da43dea?utm_source=1051&utm_campaign=git)** | United States | Remote | Jul 11 |
 | **[Aspire Team](https://aspireteamsd.com/)** | **[Marketing & Sales Representative - Start ASAP](https://jobright.ai/jobs/info/6690b5721acf37e6b248051a?utm_source=1051&utm_campaign=git)** | Chula Vista, CA | On Site | Jul 11 |
 | **[InComm Payments](https://www.incomm.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6690a0a843cab07c25cd067b?utm_source=1051&utm_campaign=git)** | Atlanta, GA | On Site | Jul 11 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative Intern](https://jobright.ai/jobs/info/6690bf9b555345cb31084092?utm_source=1051&utm_campaign=git)** | Greater Chicago Area | Hybrid | Jul 11 |
-| ↳ | **[Fall Financial Representative Internship](https://jobright.ai/jobs/info/66905d3b759f226286d9111b?utm_source=1051&utm_campaign=git)** | Greater Chicago Area | On Site | Jul 11 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall Financial Representative Internship](https://jobright.ai/jobs/info/66905d3b759f226286d9111b?utm_source=1051&utm_campaign=git)** | Greater Chicago Area | On Site | Jul 11 |
 | **[Carlton Fields](https://www.carltonfields.com)** | **[2L Summer Associate - All Offices](https://jobright.ai/jobs/info/6690cfddb9480c9896c8f0f2?utm_source=1051&utm_campaign=git)** | Tampa, FL | On Site | Jul 11 |
 | **[Network Doctor](http://networkdr.com/)** | **[Account Management and Marketing Intern](https://jobright.ai/jobs/info/6690c94c50a8322cf99b8a28?utm_source=1051&utm_campaign=git)** | Englewood Cliffs, NJ | On Site | Jul 11 |
 | **[Bridgepointe Technologies](https://bridgepointetechnologies.com)** | **[Intern, Pre-Sales](https://jobright.ai/jobs/info/669120a061b6573a52caa883?utm_source=1051&utm_campaign=git)** | United States | Remote | Jul 11 |
@@ -208,7 +210,6 @@ For a complete list, see the full spreadsheet below:
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Sales Analyst](https://jobright.ai/jobs/info/66907b3ae8abc66bd080b7c1?utm_source=1051&utm_campaign=git)** | Parsippany, NJ | On Site | Jul 11 |
 | **[LeadRush Labs](https://leadrushlabs.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6690900d16c57e0605199f42?utm_source=1051&utm_campaign=git)** | United States | Remote | Jul 11 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Assistant Relationship Manager](https://jobright.ai/jobs/info/668f41e2e74ffdb5b62619a6?utm_source=1051&utm_campaign=git)** | New York, United States | Hybrid | Jul 10 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Development Intern](https://jobright.ai/jobs/info/668f499c478c8663838f2841?utm_source=1051&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Sales Intern - Internship Fall 2024 (Paid)](https://jobright.ai/jobs/info/6662feb20239284ea14f3d85?utm_source=1051&utm_campaign=git)** | Florham Park, NJ | Hybrid | Jul 10 |
 | **[Jess Jarmo](https://www.jessjarmo.com)** | **[Internship Sales Development Representative (SDR) Position](https://jobright.ai/jobs/info/669030d0a9f0fa8f5274b1c0?utm_source=1051&utm_campaign=git)** | United States | Remote | Jul 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[FALL 2024: Financial Representative Internship (Part-Time)](https://jobright.ai/jobs/info/669029926f438a3944c8676d?utm_source=1051&utm_campaign=git)** | Wellesley Hills, MA | On Site | Jul 10 |
@@ -221,7 +222,6 @@ For a complete list, see the full spreadsheet below:
 | **[State Farm](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6692725d4513eee4ec006d20?utm_source=1051&utm_campaign=git)** | Miami, FL | On Site | Jul 10 |
 | **[Interim Healthcare](http://www.interimhealthcare.com/)** | **[Business Development/Sales Intern](https://jobright.ai/jobs/info/66912472965cf02f7528b5c7?utm_source=1051&utm_campaign=git)** | Columbia, MD | On Site | Jul 10 |
 | **[NICE Systems](http://nice.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/653961e0f22a77ab28155792?utm_source=1051&utm_campaign=git)** | Sandy, UT | Hybrid | Jul 10 |
-| **[3rd Degree Solutions](https://www.thirddegreesolutions.com)** | **[Business Manager Internship](https://jobright.ai/jobs/info/668ece468ce0244c48c5616b?utm_source=1051&utm_campaign=git)** | Sacramento, CA | On Site | Jul 10 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Part-Time Sales Associate](https://jobright.ai/jobs/info/668e8a5906f3000f3f21237e?utm_source=1051&utm_campaign=git)** | Camas, WA | On Site | Jul 09 |
 | **[Regional Finance](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/668e8a0006f3000f3f211cc7?utm_source=1051&utm_campaign=git)** | San Bernardino, CA | On Site | Jul 09 |
 | **[PADF](https://www.padf.org/)** | **[Partnerships and Sustainable Finance Internship, Washington, D.C.](https://jobright.ai/jobs/info/668deb746da13c2496823be9?utm_source=1051&utm_campaign=git)** | Washington, DC | On Site | Jul 09 |
