@@ -57,15 +57,18 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MVPR](http://mvpr.ro/)** | **[Business Development Intern](https://jobright.ai/jobs/info/66aeafaf4da707945bb64691?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 03 |
+| **[Equity Hammer](https://equityhammer.com/)** | **[Entrepreneur's Sales Apprentice Internship](https://jobright.ai/jobs/info/66aeaae5e1bacd87b2ef710c?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Acosta Sales & Marketing](https://www.acosta.com)** | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66aea592b37c10a71ab78980?utm_campaign=1051&utm_source=git)** | Happy Valley, OR | On Site | Aug 03 |
 | **[Social High Rise](https://socialhighrise.com)** | **[Inside Sales Intern - FALL 2024](https://jobright.ai/jobs/info/66ae88c9e8c338b0cc615978?utm_campaign=1051&utm_source=git)** | Chico, CA | On Site | Aug 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ae60840a42327500bf0482?utm_campaign=1051&utm_source=git)** | Noblesville, IN | On Site | Aug 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ae60840a42327500bf048e?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Aug 03 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/66ae5beffcefb3c69a02a453?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 03 |
-| **[Acosta Sales & Marketing](https://www.acosta.com)** | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66ae7086feaba6d2ba5d5191?utm_campaign=1051&utm_source=git)** | Olathe, KS | On Site | Aug 03 |
+| **[Acosta Sales & Marketing](https://www.acosta.com)** | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66ae7086feaba6d2ba5d5182?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Aug 03 |
+| ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66ae7086feaba6d2ba5d5191?utm_campaign=1051&utm_source=git)** | Olathe, KS | On Site | Aug 03 |
 | ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66ae5e29e64ce1f842d8cf9f?utm_campaign=1051&utm_source=git)** | Longview, WA | On Site | Aug 03 |
 | ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66ae5e29e64ce1f842d8cfb2?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Aug 03 |
 | ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66ae5303527116e1f6a24dbd?utm_campaign=1051&utm_source=git)** | Orem, UT | On Site | Aug 03 |
-| **[IBM](http://www.ibm.com)** | **[2025 Sales Returning Intern – IBM Early Sales Professional](https://jobright.ai/jobs/info/66ae1c88e092dbf2fe31ed2f?utm_campaign=1051&utm_source=git)** | Brookhaven, GA | On Site | Aug 03 |
 | **[Taulia](http://www.taulia.com)** | **[Sales Intern](https://jobright.ai/jobs/info/66ae1aa647d782bc5640147c?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Aug 03 |
 | **[IBM](http://www.ibm.com)** | **[2025 Sales Trainee (Intern Conversion) – IBM Early Sales Professional](https://jobright.ai/jobs/info/66ae164c9f89968713ebed25?utm_campaign=1051&utm_source=git)** | Brookhaven, GA | On Site | Aug 03 |
 | **[Matthews Real Estate Investment Services](https://www.matthews.com/)** | **[Sales Intern (CLE)](https://jobright.ai/jobs/info/650775081a2511901e370c47?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Aug 03 |
@@ -73,17 +76,18 @@ For a complete list, see the full spreadsheet below:
 | **[Matthews Real Estate Investment Services](https://www.matthews.com/)** | **[Sales Intern (PHX)](https://jobright.ai/jobs/info/65075712eaf48ebc56d7374c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Aug 03 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66a65d6b3f810de12e22db0f?utm_campaign=1051&utm_source=git)** | Midvale, UT | On Site | Aug 03 |
 | **[Matthews Real Estate Investment Services](https://www.matthews.com/)** | **[Sales Intern (ENC)](https://jobright.ai/jobs/info/65075e8278de930024e36b96?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 03 |
-| ↳ | **[Sales Intern (AUS)](https://jobright.ai/jobs/info/65072f6a03f004792465917c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 03 |
+| **[SYNNEX](http://www.synnexcorp.com/)** | **[Internship / Technical Scholar Program / Clearwater, FL](https://jobright.ai/jobs/info/6676e0e3c909276a3772e23d?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Aug 03 |
+| **[Matthews Real Estate Investment Services](https://www.matthews.com/)** | **[Sales Intern (AUS)](https://jobright.ai/jobs/info/65072f6a03f004792465917c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 03 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6691a3704c7d2eb620a7c06f?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Aug 03 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - JR Home Loan Advisor](https://jobright.ai/jobs/info/6691b902cc90539b64763a09?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 03 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern**](https://jobright.ai/jobs/info/669212635ebe408cdf67e845?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Aug 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/66adb91f54197cc38de8e982?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Aug 03 |
-| **[Acosta Sales & Marketing](https://www.acosta.com)** | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9dd130c91e23dad7e8d?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Aug 03 |
-| ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9dd130c91e23dad7e8e?utm_campaign=1051&utm_source=git)** | Blue Springs, MO | On Site | Aug 03 |
+| **[IBM](http://www.ibm.com)** | **[2025 Sales Returning Intern – IBM Early Sales Professional](https://jobright.ai/jobs/info/66adc2d959afc077d659db21?utm_campaign=1051&utm_source=git)** | Brookhaven, GA | On Site | Aug 03 |
+| **[Acosta Sales & Marketing](https://www.acosta.com)** | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9dd130c91e23dad7e8e?utm_campaign=1051&utm_source=git)** | Blue Springs, MO | On Site | Aug 03 |
 | ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9dd130c91e23dad7e98?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Aug 03 |
 | ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9dd130c91e23dad7e96?utm_campaign=1051&utm_source=git)** | Albany, OR | On Site | Aug 03 |
 | ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9b5130c91e23dad7b6a?utm_campaign=1051&utm_source=git)** | Springfield, OR | On Site | Aug 03 |
 | ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9b5130c91e23dad7b80?utm_campaign=1051&utm_source=git)** | West Jordan, UT | On Site | Aug 03 |
-| ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9dd130c91e23dad7e9a?utm_campaign=1051&utm_source=git)** | Happy Valley, OR | On Site | Aug 03 |
 | ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9b5130c91e23dad7ba5?utm_campaign=1051&utm_source=git)** | Eugene, OR | On Site | Aug 03 |
 | ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9dd130c91e23dad7ea4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Aug 03 |
 | ↳ | **[Internet TV Sales Expert](https://jobright.ai/jobs/info/66add9dd130c91e23dad7eaa?utm_campaign=1051&utm_source=git)** | Orem, UT | On Site | Aug 03 |
@@ -109,9 +113,9 @@ For a complete list, see the full spreadsheet below:
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern - Fall 2024 (Los Angeles)](https://jobright.ai/jobs/info/66ad1957849f465eaf1ab7f4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 02 |
 | **[Canterbury Park Holdings](https://www.canterburypark.com)** | **[Corporate Partnership Internship](https://jobright.ai/jobs/info/66a820a70ea73e0b8debf3a5?utm_campaign=1051&utm_source=git)** | Shakopee, MN | On Site | Aug 02 |
 | **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Part Time - Student (Graduate) - Athletics Business Operations and Development](https://jobright.ai/jobs/info/66ad1c3f83e3e6458cea893d?utm_campaign=1051&utm_source=git)** | Fayette, PA | On Site | Aug 02 |
-| ↳ | **[Part Time - Student (Graduate) - Athletics Business Operations and Development](https://jobright.ai/jobs/info/66ad71ae632dc39a96d16403?utm_campaign=1051&utm_source=git)** | Lemont Furnace, PA | On Site | Aug 02 |
+| **[Armani](http://www.armani.com)** | **[Intern CRM](https://jobright.ai/jobs/info/66ad16d0f3a6da900346727f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 02 |
+| **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Part Time - Student (Graduate) - Athletics Business Operations and Development](https://jobright.ai/jobs/info/66ad71ae632dc39a96d16403?utm_campaign=1051&utm_source=git)** | Lemont Furnace, PA | On Site | Aug 02 |
 | **[Armani](http://www.armani.com)** | **[CRM Intern](https://jobright.ai/jobs/info/66ad10169f1b6ca2ffec8d4d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 02 |
-| ↳ | **[Intern CRM](https://jobright.ai/jobs/info/66ad16def3a6da90034672c2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/66ad091f2400944c2cb6dd3b?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | Hybrid | Aug 02 |
 | **[Ameriprise Financial](https://www.ameriprise.com/)** | **[Private Wealth Management Intern](https://jobright.ai/jobs/info/66ad07efd0461d6e3b7be795?utm_campaign=1051&utm_source=git)** | Naples, FL | On Site | Aug 02 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: eCommerce Sales/Marketing](https://jobright.ai/jobs/info/66ad01c8b37b0ddddc713b01?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 02 |
@@ -120,7 +124,7 @@ For a complete list, see the full spreadsheet below:
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2025 Investments, Sales Internship Program](https://jobright.ai/jobs/info/66ad9c5c444603496b49a723?utm_campaign=1051&utm_source=git)** | Newark, NJ | Hybrid | Aug 02 |
 | **[The Carlyle Group](http://www.carlyle.com)** | **[Internal Sales Analyst, Carlyle Private Wealth](https://jobright.ai/jobs/info/66acdc47d6d678557d6edd45?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Brilliant PR & Marketing](https://brilliantprandmarketing.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/66acd6a4023ab8e33129c1ab?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 02 |
-| **[Accessus Security](http://www.accessus-security.nl)** | **[Inside Sales Co-Op](https://jobright.ai/jobs/info/66acede536684485e69744b3?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Aug 02 |
+| **[Accessus Security](http://www.accessus-security.nl)** | **[Inside Sales Co-Op](https://jobright.ai/jobs/info/66addccb13a250c5bb47259a?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Aug 02 |
 | **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[BBW Key Holder-INTERNATIONAL PLAZA](https://jobright.ai/jobs/info/66908a4160a291b68c8fec2b?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Aug 02 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/66ab9b83bd80a589bfcbd027?utm_campaign=1051&utm_source=git)** | Warwick, RI | On Site | Aug 02 |
 | **[Prime Tech Enterprise](https://www.primetechenterprise.com/)** | **[Entry Level  Internship - Sales Management](https://jobright.ai/jobs/info/66acca5b9712cc56724c7f86?utm_campaign=1051&utm_source=git)** | Fullerton, CA | On Site | Aug 02 |
@@ -132,8 +136,8 @@ For a complete list, see the full spreadsheet below:
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Business Development Internship](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad63f?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | ↳ | **[Business Development Internship](https://jobright.ai/jobs/info/66ad454c6b65339a1425182d?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Aug 02 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/66ad62b20cda0fa23ff644cd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 02 |
-| **[Confidential](http://confidential-company.com/)** | **[Transfer Pricing Japanese Business Network (JBN) Intern - Summer 2025](https://jobright.ai/jobs/info/66ad7d400a560769c7482361?utm_campaign=1051&utm_source=git)** | IL-Rosemont | On Site | Aug 02 |
-| ↳ | **[Master Limited Partnership (MLP) Tech Intern - Summer 2025](https://jobright.ai/jobs/info/66ad7d400a560769c748236d?utm_campaign=1051&utm_source=git)** | IL-Rosemont | On Site | Aug 02 |
+| **[Confidential](http://confidential-company.com/)** | **[Master Limited Partnership (MLP) Tech Intern - Summer 2025](https://jobright.ai/jobs/info/66ad7d400a560769c748236d?utm_campaign=1051&utm_source=git)** | IL-Rosemont | On Site | Aug 02 |
+| ↳ | **[Transfer Pricing Japanese Business Network (JBN) Intern - Summer 2025](https://jobright.ai/jobs/info/66ad7d400a560769c7482361?utm_campaign=1051&utm_source=git)** | IL-Rosemont | On Site | Aug 02 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern**](https://jobright.ai/jobs/info/66ac1d56dfc1a01719e75263?utm_campaign=1051&utm_source=git)** | Wellesley, MA | On Site | Aug 01 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/66ac133d6f9c2ad28c4147fe?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Aug 01 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern- UNPAID](https://jobright.ai/jobs/info/66a46a443d73b8ffff0c4193?utm_campaign=1051&utm_source=git)** | Glendale, CA | Hybrid | Aug 01 |
@@ -154,10 +158,10 @@ For a complete list, see the full spreadsheet below:
 | **[Rural Utilities Service](https://www.rd.usda.gov/about-rd/agencies/rural-utilities-service)** | **[Pathways Student Trainee - Loan Assistant/Specialist (Realty)](https://jobright.ai/jobs/info/66abb27fcdf3f5cef04076d2?utm_campaign=1051&utm_source=git)** | Kinston, NC | Hybrid | Aug 01 |
 | **[Commvault](https://www.commvault.com)** | **[Corporate Development Temp](https://jobright.ai/jobs/info/66ababdeeecaaff94a977c03?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Aug 01 |
 | **[Confidential](http://confidential-company.com/)** | **[Brand Sales Ambassador](https://jobright.ai/jobs/info/66ac8e856042bfa4fa02e3cf?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
-| **[Elevation Capital](https://elevationcapital.com)** | **[Territory Manager - Austin, TX](https://jobright.ai/jobs/info/66abb6ed66141a94cff29137?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 01 |
+| **[Elevation Capital](https://elevationcapital.com)** | **[Territory Manager - Tampa, FL](https://jobright.ai/jobs/info/66abb6ed66141a94cff2913f?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Aug 01 |
 | ↳ | **[Territory Manager - Baton Rouge, LA](https://jobright.ai/jobs/info/66abb6ed66141a94cff2913b?utm_campaign=1051&utm_source=git)** | LA | On Site | Aug 01 |
+| ↳ | **[Territory Manager - Austin, TX](https://jobright.ai/jobs/info/66abb6ed66141a94cff29137?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 01 |
 | ↳ | **[Territory Manager - St. Louis, MO](https://jobright.ai/jobs/info/66abb6ed66141a94cff2913c?utm_campaign=1051&utm_source=git)** | St. Louis, MO | On Site | Aug 01 |
-| ↳ | **[Territory Manager - Tampa, FL](https://jobright.ai/jobs/info/66abb6ed66141a94cff2913f?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Aug 01 |
 | **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Sales Development Internship (Nationwide - Summer '25)](https://jobright.ai/jobs/info/66acf208c6a232dd294e0c41?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Aug 01 |
 | **[Sennovate](https://sennovate.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/66ab8bde67fe5b7eb6a47810?utm_campaign=1051&utm_source=git)** | San Ramon, CA | On Site | Aug 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab7cd8ef78025e0c37b669?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Aug 01 |
@@ -171,10 +175,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab68b2665ebbd4c2364bbf?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab68b2665ebbd4c2364bc1?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab68b2665ebbd4c2364bc2?utm_campaign=1051&utm_source=git)** | Norton Shores, MI | On Site | Aug 01 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab6be916d01cd0b2ab2c51?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Aug 01 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab68aa665ebbd4c2364ad0?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Aug 01 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab68b2665ebbd4c2364bc3?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab6be916d01cd0b2ab2c52?utm_campaign=1051&utm_source=git)** | Pueblo, CO | On Site | Aug 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab6be916d01cd0b2ab2c51?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Aug 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab68b2665ebbd4c2364bc3?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Aug 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab68aa665ebbd4c2364ad0?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab68b2665ebbd4c2364bc4?utm_campaign=1051&utm_source=git)** | Casper, WY | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab6be916d01cd0b2ab2c53?utm_campaign=1051&utm_source=git)** | Great Falls, MT | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab6be916d01cd0b2ab2c54?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Aug 01 |
@@ -213,8 +217,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab2d19ce526790a3420646?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab2d19ce526790a3420647?utm_campaign=1051&utm_source=git)** | Pittsburg, KS | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab2d19ce526790a3420657?utm_campaign=1051&utm_source=git)** | Jackson, MI | On Site | Aug 01 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab46de12f81459cf4dc787?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern (Woodland Mall)](https://jobright.ai/jobs/info/66ab46de12f81459cf4dc6f0?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Aug 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab46de12f81459cf4dc787?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab46de12f81459cf4dc789?utm_campaign=1051&utm_source=git)** | Ridgeland, MS | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab7cddef78025e0c37b6ca?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab7cddef78025e0c37b6cb?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Aug 01 |
@@ -232,7 +236,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab181f937a1213c67b8f0c?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab181f937a1213c67b8f0d?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Aug 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ab160a453b14b922f83a1f?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 01 |
-| **[BioTrillion](https://www.biotrillion.com)** | **[Intern](https://jobright.ai/jobs/info/66ab160a453b14b922f83a0e?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Babylon Management](https://www.babylonmanagementinc.com)** | **[Sales & Marketing Business Internship](https://jobright.ai/jobs/info/66ab0b646d0826a127224aad?utm_campaign=1051&utm_source=git)** | Chula Vista, CA | On Site | Aug 01 |
 | **[Brilliant PR & Marketing](https://brilliantprandmarketing.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/66ac1726d38694918881f83a?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Aug 01 |
 | **[Outfront Media](http://cbsoutdoorinternational.com)** | **[Intern](https://jobright.ai/jobs/info/66abd6f255358858ba9c3ec7?utm_campaign=1051&utm_source=git)** | Flint, MI | On Site | Aug 01 |
@@ -308,8 +311,8 @@ For a complete list, see the full spreadsheet below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2025 Consumer Lending Internship Program - Early Careers](https://jobright.ai/jobs/info/66a877474d8168cda832c2a8?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Jul 30 |
 | **[Workiva](http://www.workiva.com)** | **[Fall 2024 Intern Sales Operations](https://jobright.ai/jobs/info/66a98aa9d67c0b8d3702f011?utm_campaign=1051&utm_source=git)** | Ames | On Site | Jul 30 |
 | **[Shearer's Foods](http://shearers.com)** | **[Sales Temp ](https://jobright.ai/jobs/info/66a94f1baa707341f03e5507?utm_campaign=1051&utm_source=git)** | Bentonville, Arkansas | On Site | Jul 30 |
-| **[Confluent](https://confluent.io/)** | **[Federal Engagement Manager](https://jobright.ai/jobs/info/66a9317ec00b278a2713e1a1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 30 |
-| ↳ | **[Strategic CSM, Public Sector](https://jobright.ai/jobs/info/66a831dd2426082a9b42c6b0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Confluent](https://confluent.io/)** | **[Strategic CSM, Public Sector](https://jobright.ai/jobs/info/66a831dd2426082a9b42c6b0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 30 |
+| ↳ | **[Federal Engagement Manager](https://jobright.ai/jobs/info/66a9317ec00b278a2713e1a1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee - San Francisco/Los Angeles Summer 2025](https://jobright.ai/jobs/info/66a83b68e09293cbe7e9fe60?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jul 29 |
 | ↳ | **[Market Facing Underwriting Trainee - Philadelphia Summer 2025](https://jobright.ai/jobs/info/66a82d43ad54f2c437df4013?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 29 |
 | ↳ | **[Market Facing Underwriting Trainee - Chicago Summer 2025](https://jobright.ai/jobs/info/66a82d43ad54f2c437df4015?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jul 29 |
