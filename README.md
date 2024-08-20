@@ -16,7 +16,7 @@
     <br>
     <br>
     <a href="https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git">
-        <img src="./static/img/airtable.jpg" alt="jobright.ai">
+        <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
     <br>
@@ -46,8 +46,7 @@ For a complete list, see the full spreadsheet below:
 </h4>
 <a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Sales">
 <a href="https://intern-list.com/?selectedKey=🛒%20Sales&utm_source=&utm_campaign={utm_campaign_str}">
-<a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign={utm_campaign_str}">
-    <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
+    <img src="./static/img/airtable.pjg" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
 </div>
 
@@ -287,5 +286,4 @@ For a complete list, see the full spreadsheet below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Spring 2025)](https://jobright.ai/jobs/info/66bbba4e40dda951a43b91d5?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Aug 13 |
 | **[PURPLE](https://intl.purple-brand.com/en-in)** | **[Showroom Internship](https://jobright.ai/jobs/info/66bbb4bb58a3982445a6789d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 13 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Business Development Intern (Fall '24)](https://jobright.ai/jobs/info/66bbbd3d2eb2d4af8aa557fc?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Aug 13 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing](https://jobright.ai/jobs/info/66bba6346ed261830cac6793?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
