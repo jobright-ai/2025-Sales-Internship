@@ -46,7 +46,7 @@ For a complete list, see the full spreadsheet below:
 </h4>
 <a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Sales">
 <a href="https://intern-list.com/?selectedKey=🛒%20Sales&utm_source=&utm_campaign={utm_campaign_str}">
-    <img src="./static/img/airtable.jpg" alt="excel_icon", style="width: 20%; height: 20%;">
+    <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
 
@@ -61,22 +61,22 @@ For a complete list, see the full spreadsheet below:
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/66c3eafed0002deda2e5a40d?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af083f3?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Aug 19 |
 | **[Risk Placement Services](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f955?utm_campaign=1051&utm_source=git)** | Williamsville, NY | On Site | Aug 19 |
-| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08510?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | On Site | Aug 19 |
-| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af083ec?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Aug 19 |
-| **[Risk Placement Services](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f957?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Aug 19 |
-| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f959?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | On Site | Aug 19 |
-| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08511?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Aug 19 |
-| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08512?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
-| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08513?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Aug 19 |
+| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af083ec?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Aug 19 |
+| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08510?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | On Site | Aug 19 |
+| **[Risk Placement Services](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f959?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | On Site | Aug 19 |
+| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f957?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Aug 19 |
+| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08512?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
+| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08511?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Aug 19 |
 | ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af083f2?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Aug 19 |
+| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08513?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Aug 19 |
 | ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08514?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Aug 19 |
 | ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af083f8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08515?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Aug 19 |
-| **[Risk Placement Services](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f961?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Aug 19 |
-| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f960?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
+| **[Risk Placement Services](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f960?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
+| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f961?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Aug 19 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08516?utm_campaign=1051&utm_source=git)** | McLean, VA | On Site | Aug 19 |
-| **[Risk Placement Services](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f96a?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 19 |
-| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f969?utm_campaign=1051&utm_source=git)** | Federal Way, WA | On Site | Aug 19 |
+| **[Risk Placement Services](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f969?utm_campaign=1051&utm_source=git)** | Federal Way, WA | On Site | Aug 19 |
+| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f96a?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 19 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af083f4?utm_campaign=1051&utm_source=git)** | Humble, TX | On Site | Aug 19 |
 | ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08517?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Aug 19 |
 | **[Risk Placement Services](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e8a8c8b7e5901021f96d?utm_campaign=1051&utm_source=git)** | Fair Lawn, NJ | On Site | Aug 19 |
@@ -89,14 +89,14 @@ For a complete list, see the full spreadsheet below:
 | **[PwC](http://pwc.com)** | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3c5b0a0df62a1f4aae2c2?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3cf30ceceb596817c31de?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e4128?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
-| ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e4129?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Aug 19 |
-| ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e412b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e412c?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Aug 19 |
-| ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e4132?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
+| ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e412b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 19 |
+| ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e4129?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e4135?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e4131?utm_campaign=1051&utm_source=git)** | Silicon Valley, CA | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e4134?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e4130?utm_campaign=1051&utm_source=git)** | Florham Park, NJ | On Site | Aug 19 |
+| ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e4132?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e413c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | ↳ | **[Deals - Data & Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e3f7e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e413f?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Aug 19 |
@@ -104,8 +104,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e414d?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3b3dd21c150ca6e7e414c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
 | **[Newlin](http://newlin.vc)** | **[Deals Team (MBA / Graduate Internship) - Fall '24; Chicago / Austin / Sao Paulo / Remote](https://jobright.ai/jobs/info/66c3a41c45d3a100561e8c73?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Aug 19 |
-| **[PwC](http://pwc.com)** | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3bc823e168aa394695eac?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Aug 19 |
-| ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3bc823e168aa394695eab?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 19 |
+| **[PwC](http://pwc.com)** | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3bc823e168aa394695eab?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 19 |
+| ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3bc823e168aa394695eac?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Summer 2025](https://jobright.ai/jobs/info/66c3a41c45d3a100561e8d26?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | ↳ | **[Deals - Capital Markets Advisory (CMAAS) Intern - Winter 2025](https://jobright.ai/jobs/info/66c3a41c45d3a100561e8d17?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Aug 19 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/66c3a7ad8b016b905cffa187?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 19 |
@@ -118,13 +118,13 @@ For a complete list, see the full spreadsheet below:
 | **[TikTok](https://www.tiktok.com)** | **[Risk Investigations Specialist Intern (Global E-Commerce-Governance and Experience-AMS-Creator and Content Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66c35920f98441b686c8e5d1?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | **[Sodexo Live!](https://us.sodexo.com/industry/sodexo-live.html)** | **[Indianapolis Manager in Training Sales](https://jobright.ai/jobs/info/66c3652359164a576f07331d?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Aug 19 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/66c34be6890b324733d32425?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Aug 19 |
-| **[Regional Finance](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/66c3207134ed86f68375e785?utm_campaign=1051&utm_source=git)** | Kannapolis, NC | On Site | Aug 19 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66c3207134ed86f68375e788?utm_campaign=1051&utm_source=git)** | Conway, SC | On Site | Aug 19 |
+| **[Regional Finance](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/66c3207134ed86f68375e788?utm_campaign=1051&utm_source=git)** | Conway, SC | On Site | Aug 19 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2025 Summer Internship - Asset Management Operations Intern - St. Peterburg, FL](https://jobright.ai/jobs/info/66c2e75fad75c352f8d5c3dd?utm_campaign=1051&utm_source=git)** | St Petersburg, FL | Hybrid | Aug 18 |
 | ↳ | **[2025 Summer Internship - Asset Management Sales Intern - St. Petersburg, FL](https://jobright.ai/jobs/info/66c2e75fad75c352f8d5c3dc?utm_campaign=1051&utm_source=git)** | St Petersburg, FL | Hybrid | Aug 18 |
 | ↳ | **[2025 Equity Capital Markets Summer Internship](https://jobright.ai/jobs/info/66c2e75fad75c352f8d5c3df?utm_campaign=1051&utm_source=git)** | St Petersburg, FL | Hybrid | Aug 18 |
 | **[Bayer](https://www.bayer.com)** | **[Sales Analyst Walmart Intern](https://jobright.ai/jobs/info/66c2ddc6db23091e416c726e?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Aug 18 |
 | **[Merchants Bank of Indiana](http://merchantsbankofindiana.com)** | **[Business Banking Intern](https://jobright.ai/jobs/info/66c2acbddaec29a1368fb255?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Aug 18 |
+| **[Regional Finance](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/66c2ebd3f89bec9e8f29de0c?utm_campaign=1051&utm_source=git)** | Kannapolis, NC | On Site | Aug 18 |
 | **[Curriculum Associates](http://www.curriculumassociates.com)** | **[Sales Development Trainee](https://jobright.ai/jobs/info/66c39ac08cb89964f0946e76?utm_campaign=1051&utm_source=git)** | US AZ Tucson | Hybrid | Aug 18 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Retail Operations Internship](https://jobright.ai/jobs/info/66c2482b48e15555abb30651?utm_campaign=1051&utm_source=git)** | Ohio, United States | On Site | Aug 18 |
 | **[People 1st](https://ourpeople1st.com/)** | **[Sales Leader](https://jobright.ai/jobs/info/66c20ddf4e69e4f2f00fc10d?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Aug 18 |
@@ -247,8 +247,8 @@ For a complete list, see the full spreadsheet below:
 | **[Betr](https://www.betr.app)** | **[Media Revenue Internship](https://jobright.ai/jobs/info/66bd7a2a05910d2bdc1547c2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 14 |
 | **[Heka Works](https://heka.works)** | **[Business Development Intern](https://jobright.ai/jobs/info/66bd86f010700f472e206ce5?utm_campaign=1051&utm_source=git)** | Melbourne, FL | On Site | Aug 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Deal Operation Intern (E-Commerce Campaign-US) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66bd6c674b17ff9b90cc7985?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
-| **[PIMCO](http://www.pimco.com)** | **[2025 Summer Intern - Global Wealth Management, Sales Analyst](https://jobright.ai/jobs/info/66be4c3a2472b8d42d8d60d6?utm_campaign=1051&utm_source=git)** | Austin, TX USA | On Site | Aug 14 |
-| ↳ | **[2025 Summer Intern - Business Development Support Analyst](https://jobright.ai/jobs/info/66be4c3a2472b8d42d8d60d9?utm_campaign=1051&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 14 |
+| **[PIMCO](http://www.pimco.com)** | **[2025 Summer Intern - Business Development Support Analyst](https://jobright.ai/jobs/info/66be4c3a2472b8d42d8d60d9?utm_campaign=1051&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 14 |
+| ↳ | **[2025 Summer Intern - Global Wealth Management, Sales Analyst](https://jobright.ai/jobs/info/66be4c3a2472b8d42d8d60d6?utm_campaign=1051&utm_source=git)** | Austin, TX USA | On Site | Aug 14 |
 | **[Nalco Water, An Ecolab Company](http://ecolab.com/nalco-water)** | **[Sales Development Program Internship](https://jobright.ai/jobs/info/66be4c3a2472b8d42d8d60af?utm_campaign=1051&utm_source=git)** | USA - Minnesota - Saint Paul | On Site | Aug 14 |
 | **[REVELxp](https://revelxp.com)** | **[REVELxp - Sales Operations and Fulfillment Intern, State College](https://jobright.ai/jobs/info/66bd537178845cb0e396da61?utm_campaign=1051&utm_source=git)** | Bellefonte, PA | On Site | Aug 14 |
 | **[AMOREPACIFIC Ventures](https://ventures.amorepacific.com/index.do)** | **[E-commerce Intern](https://jobright.ai/jobs/info/66bd0ca32e9776e6016fc1ee?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
