@@ -63,7 +63,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66f4ce522b947c98ad980649?utm_campaign=1051&utm_source=git)** | Kalispell, MT | On Site | Sep 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66f4ce522b947c98ad980653?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Sep 25 |
 | **[ComposeVC](https://www.composevc.com/)** | **[Venture Capital Intern](https://jobright.ai/jobs/info/66f4ce522b947c98ad9805c8?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Sep 25 |
-| **[Myriad Genetics](http://www.myriad.com)** | **[Sales Co-op - Biotech](https://jobright.ai/jobs/info/66f4cb830764ab22aa196a01?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 25 |
+| **[Myriad Genetics](http://www.myriad.com)** | **[Sales Co-op - Biotech](https://jobright.ai/jobs/info/66f4d8affd3644d0b5a6b1c2?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Sep 25 |
+| ↳ | **[Sales Co-op - Biotech](https://jobright.ai/jobs/info/66f4cb830764ab22aa196a01?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 25 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship](https://jobright.ai/jobs/info/66f4c6ce8fdbebc6f6db7aba?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Sep 25 |
 | ↳ | **[Sales Management Trainee Internship](https://jobright.ai/jobs/info/66f4c3a697db4190eeeaf330?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 25 |
 | ↳ | **[Sales Management Trainee Internship](https://jobright.ai/jobs/info/66f4c3a697db4190eeeaf357?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Sep 25 |
@@ -103,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[XIAOCUN | Muncho](http://www.muncho.io)** | **[Sales Specialist](https://jobright.ai/jobs/info/66f47b70ed5281cf376f4232?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Sep 25 |
 | **[Lochness Medical Supplies](https://www.lochnessmedical.com/)** | **[Medical Device Sales Internship](https://jobright.ai/jobs/info/66f47b70ed5281cf376f4262?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Sep 25 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer Sales Intern - Automotive](https://jobright.ai/jobs/info/66f478bff7f9c83b935ed199?utm_campaign=1051&utm_source=git)** | Arlington Heights, IL | On Site | Sep 25 |
-| ↳ | **[Summer Sales Intern - Automotive](https://jobright.ai/jobs/info/66f478bff7f9c83b935ed20f?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Sep 25 |
-| ↳ | **[Summer Sales Intern - Automotive](https://jobright.ai/jobs/info/66f478bff7f9c83b935ed20e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
 | ↳ | **[Summer Sales Intern - Automotive](https://jobright.ai/jobs/info/66f478bff7f9c83b935ed194?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Sep 25 |
+| ↳ | **[Summer Sales Intern - Automotive](https://jobright.ai/jobs/info/66f478bff7f9c83b935ed20e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
+| ↳ | **[Summer Sales Intern - Automotive](https://jobright.ai/jobs/info/66f478bff7f9c83b935ed20f?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Sep 25 |
 | ↳ | **[Summer Sales Intern - Automotive](https://jobright.ai/jobs/info/66f47d4b3ec3b7b1a83f5e31?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Sep 25 |
 | ↳ | **[Management and Sales Summer Internship](https://jobright.ai/jobs/info/66f47d4b3ec3b7b1a83f5e33?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Sep 25 |
 | ↳ | **[Management and Sales Summer Internship](https://jobright.ai/jobs/info/66f478bff7f9c83b935ed14c?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Sep 25 |
@@ -133,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern](https://jobright.ai/jobs/info/66f462d907e17ad7328dfe0a?utm_campaign=1051&utm_source=git)** | Perrysburg, OH | On Site | Sep 25 |
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/66f462d907e17ad7328dfe21?utm_campaign=1051&utm_source=git)** | Delphos, OH | On Site | Sep 25 |
 | **[Gearsupply](https://www.gearsupply.com)** | **[Part-Time Sales Internship](https://jobright.ai/jobs/info/66f46e5e456314045b517781?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 25 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Vendor Relationship Management](https://jobright.ai/jobs/info/66f44f928a53efb98d7218e0?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Vendor Relationship Management](https://jobright.ai/jobs/info/66f44f928a53efb98d72178f?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
 | **[Johnsonville Sausage](http://www.johnsonville.com/)** | **[Demand Planning Analyst Internship](https://jobright.ai/jobs/info/66f44f928a53efb98d72178d?utm_campaign=1051&utm_source=git)** | Sheboygan Falls, WI | On Site | Sep 25 |
 | **[Syngenta](http://www.syngenta.com)** | **[Crop Protection Sales Intern](https://jobright.ai/jobs/info/66f4420d6cb6339400cb1e06?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Sep 25 |
 | **[Aptiv](http://www.aptiv.com)** | **[Sales Intern](https://jobright.ai/jobs/info/66f43ef0a3fdb7a860a7f050?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Sep 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Remote Sales Professional](https://jobright.ai/jobs/info/66f45ab841b34b909f8a71d7?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Remote | Sep 25 |
 | ↳ | **[Remote Sales Professional](https://jobright.ai/jobs/info/66f45ab841b34b909f8a71d9?utm_campaign=1051&utm_source=git)** | Aloha, OR | Remote | Sep 25 |
 | **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[Equity & Inclusion Intern](https://jobright.ai/jobs/info/66f41875529f6deb5cd0b071?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Remote | Sep 25 |
-| **[Divergent Marketing Solutions Inc.](https://www.divergentmktgsolutions.com/)** | **[Business & Sales Internship](https://jobright.ai/jobs/info/66f4162868257d2ee2cb1df4?utm_campaign=1051&utm_source=git)** | Chula Vista, CA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
