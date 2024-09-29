@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern (Customer Account Specialist)](https://jobright.ai/jobs/info/66f8b8ba78fbf24d6322feab?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 28 |
+| **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/66f90d11f4f115a3b6775cd5?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Sep 29 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern (Customer Account Specialist)](https://jobright.ai/jobs/info/66f8e5ca3acc9c19aa464cdd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 28 |
+| ↳ | **[Intern (Customer Account Specialist)](https://jobright.ai/jobs/info/66f8b8ba78fbf24d6322feab?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 28 |
 | **[EIG | Equity Insurance Group](www.equityinsgroup.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/66f8ab9d55ccecde25461d49?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Sep 28 |
 | **[Heidelberg Materials](https://www.heidelbergmaterials.de)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/66f8b99407524579e2f1c529?utm_campaign=1051&utm_source=git)** | Emmaus, PA | On Site | Sep 28 |
 | ↳ | **[Technical Sales Intern](https://jobright.ai/jobs/info/66f8b99407524579e2f1c5a4?utm_campaign=1051&utm_source=git)** | Quakertown, PA | On Site | Sep 28 |
@@ -75,23 +77,26 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/66f8088cffd3f0a0f67ccfbf?utm_campaign=1051&utm_source=git)** | Magnolia, MN | On Site | Sep 28 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/66f8088cffd3f0a0f67ccfa7?utm_campaign=1051&utm_source=git)** | Quinter, KS | On Site | Sep 28 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/66f8088cffd3f0a0f67ccf7e?utm_campaign=1051&utm_source=git)** | Dixon, NE | On Site | Sep 28 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/66f8088cffd3f0a0f67ccf6f?utm_campaign=1051&utm_source=git)** | Lemmon, SD | On Site | Sep 28 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/66f8088cffd3f0a0f67ccf83?utm_campaign=1051&utm_source=git)** | Elgin, ND | On Site | Sep 28 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/66f8088cffd3f0a0f67ccf6f?utm_campaign=1051&utm_source=git)** | Lemmon, SD | On Site | Sep 28 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/66f8088cffd3f0a0f67ccf6e?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Sep 28 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/66f8088cffd3f0a0f67ccf7d?utm_campaign=1051&utm_source=git)** | Dickinson, ND | On Site | Sep 28 |
 | **[Starbucks](https://www.starbucks.com)** | **[Store Development & Design Intern](https://jobright.ai/jobs/info/66f80356ace7cedb81300af8?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Sep 28 |
 | ↳ | **[Store Development Planning & Business Integration Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80eb?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Sep 28 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Inside Sales Summer Intern](https://jobright.ai/jobs/info/66f80356ace7cedb81300bb3?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Sep 28 |
-| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/66f80356ace7cedb81300b0f?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Sep 28 |
 | ↳ | **[Inside Sales Summer Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80ec?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Sep 28 |
+| ↳ | **[Sales Internship](https://jobright.ai/jobs/info/66f80356ace7cedb81300b0f?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Sep 28 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/66f7e90a2c270ee0e8e74c2d?utm_campaign=1051&utm_source=git)** | Orange, CA | Hybrid | Sep 28 |
 | **[Grande Cheese](https://www.grande.com/)** | **[Foodservice Sales Intern](https://jobright.ai/jobs/info/66dbabda5063fd6dac886c6a?utm_campaign=1051&utm_source=git)** | Fond du Lac, WI | On Site | Sep 28 |
+| **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/66db3b6201017d946d8b75c6?utm_campaign=1051&utm_source=git)** | Kentwood, MI | On Site | Sep 28 |
+| **[Matthews Real Estate Investment Services](https://www.matthews.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/666a317290feb1bdec571e13?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 28 |
 | **[PIMCO](http://www.pimco.com)** | **[2025 Summer Intern - Global Wealth Management, Private Client Group](https://jobright.ai/jobs/info/66beac00f20fa2478415814e?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Sep 28 |
 | ↳ | **[Global Wealth Management, Internal Sales Summer Analyst](https://jobright.ai/jobs/info/66beb1240d75d206d9739da9?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 28 |
 | **[RDO Equipment](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/66db2722e513cf581c084bb4?utm_campaign=1051&utm_source=git)** | Hewitt, TX | On Site | Sep 28 |
 | **[Matthews Real Estate Investment Services](https://www.matthews.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/666a2844e606c79653b24b03?utm_campaign=1051&utm_source=git)** | Hackensack, NJ | On Site | Sep 28 |
 | **[Paycom](http://www.paycom.com)** | **[Junior Executive Sales Intern](https://jobright.ai/jobs/info/66db350ceb40c69729d319cf?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 28 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Intern](https://jobright.ai/jobs/info/66db3360b7f20accc5ec0e00?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 28 |
+| **[Paycom](http://www.paycom.com)** | **[Junior Executive Sales Intern](https://jobright.ai/jobs/info/66db239ee9e819e6b046fd7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Sep 28 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Merchant & Network Services Business Development & Product Summer Internship](https://jobright.ai/jobs/info/66db89d5b212bb26738cd897?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | **[RDO Equipment](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/66db791dbf940017c209c6e3?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Sep 28 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Intern](https://jobright.ai/jobs/info/66db3360b7f20accc5ec0e04?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 28 |
@@ -110,9 +115,11 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/66db791dbf940017c209c6e2?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 28 |
 | **[Paycom](http://www.paycom.com)** | **[Junior Executive Sales Intern](https://jobright.ai/jobs/info/66db791dbf940017c209c652?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef57090a9?utm_campaign=1051&utm_source=git)** | Pine Brook, NJ | Hybrid | Sep 28 |
-| ↳ | **[Technical Sales Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef57090c0?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT | Hybrid | Sep 28 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Intern](https://jobright.ai/jobs/info/66db3360b7f20accc5ec0d76?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Sep 28 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef57090c0?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT | Hybrid | Sep 28 |
 | **[Paycom](http://www.paycom.com)** | **[Junior Executive Sales Intern](https://jobright.ai/jobs/info/66db350ceb40c69729d319c5?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Sep 28 |
-| ↳ | **[Junior Executive Sales Intern](https://jobright.ai/jobs/info/66db791dbf940017c209c677?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Sep 28 |
+| **[W.W. Grainger](https://www.grainger.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/66bfd481962034e119a70859?utm_campaign=1051&utm_source=git)** | Lake Forest, IL | On Site | Sep 28 |
+| **[Paycom](http://www.paycom.com)** | **[Junior Executive Sales Intern](https://jobright.ai/jobs/info/66db791dbf940017c209c677?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Sep 28 |
 | **[Commvault](https://www.commvault.com)** | **[Sales Intern - Field Sales](https://jobright.ai/jobs/info/66db86926f8b7f0196e69221?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Hybrid | Sep 28 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66a3230d3f4bc81fa98d3834?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Sep 28 |
 | **[Paycom](http://www.paycom.com)** | **[Junior Executive Sales Intern](https://jobright.ai/jobs/info/66db791dbf940017c209c659?utm_campaign=1051&utm_source=git)** | Clayton, MO | On Site | Sep 28 |
@@ -122,10 +129,10 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Junior Executive Sales Intern](https://jobright.ai/jobs/info/66db350ceb40c69729d319bf?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Sep 28 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Intern - Sales Operation, Projects](https://jobright.ai/jobs/info/66db9a6a2ee503e9996c6fd2?utm_campaign=1051&utm_source=git)** | Redmond, WA | On Site | Sep 28 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/66c51ecb8dcc81aef5709090?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Sep 28 |
+| **[Paycom](http://www.paycom.com)** | **[Junior Executive Sales Intern](https://jobright.ai/jobs/info/66db350ceb40c69729d319c1?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 28 |
 | **[Silicon Valley Bank](https://www.svb.com)** | **[Commercial Bank Immersion Intern](https://jobright.ai/jobs/info/66db6adfd78c096d44ffb77c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Sep 28 |
 | **[The Scoular Company](http://www.scoular.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/66db2728753bd19f03138d82?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Sep 28 |
 | **[Paycom](http://www.paycom.com)** | **[Junior Executive Sales Intern](https://jobright.ai/jobs/info/66db239ee9e819e6b046fd58?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 28 |
-| **[Aptiv](http://www.aptiv.com)** | **[Sales Intern](https://jobright.ai/jobs/info/66dba364703e180a3ec62692?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Sep 28 |
 | **[IBM](http://www.ibm.com)** | **[Sr. Brand Sales Specialist Intern](https://jobright.ai/jobs/info/66f7ca6ab7479f513f875ca1?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Sep 28 |
 | **[WEB2ATTRACT](https://web2attract.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/66f7cc286d9284e6e00ab3a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 28 |
 | **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/66f7cc286d9284e6e00ab3b8?utm_campaign=1051&utm_source=git)** | Des Moines, IA | Hybrid | Sep 28 |
@@ -134,8 +141,10 @@ For a complete list, click the following sortable link below:
 | **[Fidelity](https://www.fidelity.com)** | **[Summer 2025 Undergraduate Internship - Client Relations](https://jobright.ai/jobs/info/66e8c072aeef697399c54cb1?utm_campaign=1051&utm_source=git)** | Covington, KY | Hybrid | Sep 28 |
 | ↳ | **[Summer 2025 Undergraduate Internship - Client Relations](https://jobright.ai/jobs/info/66e8c619935aba7b8f7c0cba?utm_campaign=1051&utm_source=git)** | Smithfield, RI | Hybrid | Sep 28 |
 | **[Fidelity](https://www.fidelity.com)** | **[Client Relations Internship](https://jobright.ai/jobs/info/66e8c072aeef697399c54c89?utm_campaign=1051&utm_source=git)** | Durham, NC | Hybrid | Sep 27 |
+| **[VersanteConnect.AI](http://www.versanteconnect.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/66f8e2ee630c4d3d84e383dd?utm_campaign=1051&utm_source=git)** | Carmel, IN | Hybrid | Sep 27 |
 | **[Molson Coors](http://www.molsoncoors.com/en/)** | **[Guest Relations Finance & Operations Intern](https://jobright.ai/jobs/info/66f7a568de08d88ac9946fc6?utm_campaign=1051&utm_source=git)** | Golden, CO | On Site | Sep 27 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern (Capacity Portfolio Representative) - Summer 2025](https://jobright.ai/jobs/info/66f7a568de08d88ac9946fd5?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Sep 27 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef57090f7?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | Hybrid | Sep 27 |
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa28528a5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | ↳ | **[Delivering Deal Value Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa28528a8?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 27 |
 | ↳ | **[Delivering Deal Value Senior Associate Intern](https://jobright.ai/jobs/info/66f790ee31a38afc68468f34?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Sep 27 |
@@ -143,18 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Delivering Deal Value Senior Associate Intern](https://jobright.ai/jobs/info/66f790ee31a38afc68468f5b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
 | **[Raytheon BBN Technologies](http://www.bbn.com)** | **[Intern – Acquisitions Intern](https://jobright.ai/jobs/info/66f77d748b9f01743bd92a16?utm_campaign=1051&utm_source=git)** | Andover, MA | Hybrid | Sep 27 |
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value Senior Associate Intern](https://jobright.ai/jobs/info/66f797a645123c1ecc9dd852?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
-| ↳ | **[Delivering Deal Value Senior Associate Intern](https://jobright.ai/jobs/info/66f777dde2b64659fbe9b378?utm_campaign=1051&utm_source=git)** | Silicon Valley, CA | On Site | Sep 27 |
 | ↳ | **[Delivering Deal Value Senior Associate Intern](https://jobright.ai/jobs/info/66f777dde2b64659fbe9b403?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 27 |
+| ↳ | **[Delivering Deal Value Senior Associate Intern](https://jobright.ai/jobs/info/66f777dde2b64659fbe9b378?utm_campaign=1051&utm_source=git)** | Silicon Valley, CA | On Site | Sep 27 |
 | ↳ | **[Delivering Deal Value Senior Associate Intern](https://jobright.ai/jobs/info/66f777dde2b64659fbe9b409?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
 | ↳ | **[Delivering Deal Value Senior Associate Intern](https://jobright.ai/jobs/info/66f777dde2b64659fbe9b413?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 27 |
 | **[Beacon Building Products](https://www.becn.com)** | **[Representante de Ventas Interno](https://jobright.ai/jobs/info/66f7a868817b1e00ae4cca0b?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Sep 27 |
-| **[Raytheon BBN Technologies](http://www.bbn.com)** | **[Intern – Acquisitions Intern](https://jobright.ai/jobs/info/66f768530b156ebdc64e0353?utm_campaign=1051&utm_source=git)** | El Segundo, CA | Hybrid | Sep 27 |
-| **[Samsara](http://www.samsara.com)** | **[Summer 2025 Sales Intern](https://jobright.ai/jobs/info/66f7a868817b1e00ae4ccadd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 27 |
-| ↳ | **[Summer 2025 Sales Intern](https://jobright.ai/jobs/info/66f7a868817b1e00ae4ccad6?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Sep 27 |
-| **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Pricing](https://jobright.ai/jobs/info/66f765f9ee74ebc35fe57b3c?utm_campaign=1051&utm_source=git)** | Renton, WA | On Site | Sep 27 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Consumer Lending Internship Program - Early Careers](https://jobright.ai/jobs/info/66f7a9a7735f98eaaf132eb7?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Sep 27 |
-| **[Subaru of America](http://www.subaru.com)** | **[Sales Internships](https://jobright.ai/jobs/info/66f75c29af928d0ef31ee043?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Sep 27 |
-| **[Raytheon BBN Technologies](http://www.bbn.com)** | **[Intern – Acquisitions Intern](https://jobright.ai/jobs/info/66f765f9ee74ebc35fe57c1b?utm_campaign=1051&utm_source=git)** | Tucson, AZ | Hybrid | Sep 27 |
-| **[Anglicotech, LLC](http://www.anglicotech.com)** | **[Anglicotech Internship Opportunity](https://jobright.ai/jobs/info/66f77a7535e5f4d980f80328?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Sep 27 |
-| **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Sales Intern](https://jobright.ai/jobs/info/66f7ac5c0ea40f940f6d35d9?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
