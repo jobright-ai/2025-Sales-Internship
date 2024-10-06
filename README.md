@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Community Partnerships Intern (Global E-Commerce-Governance and Experience-AMS-Community Engagement) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e56e39ea13aabd5fc14f75?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 06 |
+| **[Origami Risk](http://www.origamirisk.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/66ad542c02fa3dbe7a3b3849?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 06 |
+| **[Baird](http://www.rwbaird.com)** | **[Institutional Equities Sales & Trading Shadow Week (August 2025) - Milwaukee](https://jobright.ai/jobs/info/67026816fa8777f74f998e1a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 06 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee - Maitland Summer 2025](https://jobright.ai/jobs/info/66c8ec03a22afd22e8f62d3c?utm_campaign=1051&utm_source=git)** | Maitland, FL | Hybrid | Oct 06 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Sales Intern (Fall 2024)](https://jobright.ai/jobs/info/66ca7d1e38d9bb3d52f1c9d3?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 06 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Success (Summer 2025)](https://jobright.ai/jobs/info/67022062974723ecbd6f0ca1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Origination](https://jobright.ai/jobs/info/67020858b95466b7f9a45e39?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
@@ -132,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Vista Host Hotels Management & Development](https://www.vistahost.com/)** | **[Internship](https://jobright.ai/jobs/info/66ff91bc56e8c44001402382?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | Oct 03 |
 | **[C & B Equipment](https://cbeuptime.com/)** | **[John Deere Internet Sales Representative](https://jobright.ai/jobs/info/66ff8b59e5e16db89a348a21?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Oct 03 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Business Development Intern (Cape Town-Remote)](https://jobright.ai/jobs/info/66ffe70628f8369ce2deee39?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Oct 03 |
-| ↳ | **[Crypto Business Development Intern (London- Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b82535?utm_campaign=1051&utm_source=git)** | Oregon, United States | Remote | Oct 03 |
 | ↳ | **[Crypto Business Development Intern (Wellington-Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b8252e?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Oct 03 |
+| ↳ | **[Crypto Business Development Intern (London- Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b82535?utm_campaign=1051&utm_source=git)** | Oregon, United States | Remote | Oct 03 |
 | ↳ | **[Crypto Business Development Intern (Sydney-Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b8253c?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Oct 03 |
 | ↳ | **[Crypto Business Development Intern (Ottawa-Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b8253f?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Oct 03 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Altamonte Springs, FL](https://jobright.ai/jobs/info/66ff7501fedf04adbe46fcdf?utm_campaign=1051&utm_source=git)** | Altamonte Springs, FL | Hybrid | Oct 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Corporate Risk and Broking Internship- Client Advocacy, Commercial Lines- Summer 2025 - NYC](https://jobright.ai/jobs/info/66ff51f860c175547590400c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2025](https://jobright.ai/jobs/info/670031e7602abbba32919ea7?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 03 |
 | **[The Hartford](http://www.thehartford.com)** | **[2025 Summer Intern - Internal Sales and Business Intelligence](https://jobright.ai/jobs/info/670032e8e392c9ef397664ec?utm_campaign=1051&utm_source=git)** | Wayne, PA | Hybrid | Oct 03 |
-| **[M&T Bank](https://www3.mtb.com/)** | **[2025 Community Branch Internship Program - Syracuse East](https://jobright.ai/jobs/info/67000d7ae074b78c496d6fee?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Oct 03 |
-| ↳ | **[2025 Community Branch Internship Program - Rochester](https://jobright.ai/jobs/info/67000d7ae074b78c496d6f37?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
-| ↳ | **[2025 Community Branch Internship Program - Syracuse West](https://jobright.ai/jobs/info/67000d7ae074b78c496d6f89?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Oct 03 |
-| ↳ | **[2025 Community Branch Internship Program - Buffalo](https://jobright.ai/jobs/info/67000d7ae074b78c496d6f29?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
