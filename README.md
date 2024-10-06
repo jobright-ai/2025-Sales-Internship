@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net)** | **[Sales Intern (Fall 2024)](https://jobright.ai/jobs/info/66ca7d1e38d9bb3d52f1c9d3?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 06 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Success (Summer 2025)](https://jobright.ai/jobs/info/67022062974723ecbd6f0ca1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Origination](https://jobright.ai/jobs/info/67020858b95466b7f9a45e39?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Success (Summer 2025)](https://jobright.ai/jobs/info/670203b5da481651712a8656?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 05 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/670157a8363a77ecaae2757a?utm_campaign=1051&utm_source=git)** | St Charles, MN | On Site | Oct 05 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern Sales Operations](https://jobright.ai/jobs/info/670154f2102b347ce4f2127d?utm_campaign=1051&utm_source=git)** | Eagan, MN | Hybrid | Oct 05 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee - Cleveland Summer 2025](https://jobright.ai/jobs/info/66c8ec03a22afd22e8f62d39?utm_campaign=1051&utm_source=git)** | Independence, OH | On Site | Oct 05 |
 | ↳ | **[Market Facing Underwriting Trainee - DC Summer 2025](https://jobright.ai/jobs/info/66da0a36cd1e53831aa5eed0?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Oct 05 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Strategic Sales and Credit](https://jobright.ai/jobs/info/66e4cffacfa609ea8c297a5c?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 05 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Retail Sales - Indochino Shop Salesperson - International Plaza](https://jobright.ai/jobs/info/67022f9c5681da3e3aaade45?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Oct 04 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6700cb94a8f84665ccbc9f1d?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Hybrid | Oct 04 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Palm Beach Gardens, FL](https://jobright.ai/jobs/info/67014b80a9027b141d0bea4d?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Oct 04 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Technical Sales Intern -Controls](https://jobright.ai/jobs/info/6700bdbe019b2547e5d0a38a?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Hybrid | Oct 04 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Corporate Risk and Broking Internship- Client Advocacy, Commercial Lines- Summer 2025 - NYC](https://jobright.ai/jobs/info/66ff51f860c175547590400c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2025](https://jobright.ai/jobs/info/670031e7602abbba32919ea7?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 03 |
 | **[The Hartford](http://www.thehartford.com)** | **[2025 Summer Intern - Internal Sales and Business Intelligence](https://jobright.ai/jobs/info/670032e8e392c9ef397664ec?utm_campaign=1051&utm_source=git)** | Wayne, PA | Hybrid | Oct 03 |
-| **[M&T Bank](https://www3.mtb.com/)** | **[2025 Community Branch Internship Program - Mohawk Valley](https://jobright.ai/jobs/info/67000d7ae074b78c496d6f2b?utm_campaign=1051&utm_source=git)** | Utica, NY | On Site | Oct 03 |
-| ↳ | **[2025 Community Branch Internship Program - Buffalo](https://jobright.ai/jobs/info/67000d7ae074b78c496d6f29?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
-| ↳ | **[2025 Community Branch Internship Program - Syracuse West](https://jobright.ai/jobs/info/67000d7ae074b78c496d6f89?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Oct 03 |
+| **[M&T Bank](https://www3.mtb.com/)** | **[2025 Community Branch Internship Program - Syracuse East](https://jobright.ai/jobs/info/67000d7ae074b78c496d6fee?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Oct 03 |
 | ↳ | **[2025 Community Branch Internship Program - Rochester](https://jobright.ai/jobs/info/67000d7ae074b78c496d6f37?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
-| ↳ | **[2025 Community Branch Internship Program - Syracuse East](https://jobright.ai/jobs/info/67000d7ae074b78c496d6fee?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Oct 03 |
-| **[Citi](https://www.citi.com)** | **[Client - Citi Research, Global Strategy & Macro Group, Summer Analyst, New York City - US 2025](https://jobright.ai/jobs/info/670058941a319d14d5af7cc2?utm_campaign=1051&utm_source=git)** | New York New York United States | On Site | Oct 03 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Success (Summer 2025)](https://jobright.ai/jobs/info/6700664292cddaa33c80aefa?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 03 |
-| **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[2025 Summer Analyst, Institutional Client Group-2](https://jobright.ai/jobs/info/67002fcfcf2c3aa1fffe34d7?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Oct 03 |
+| ↳ | **[2025 Community Branch Internship Program - Syracuse West](https://jobright.ai/jobs/info/67000d7ae074b78c496d6f89?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Oct 03 |
+| ↳ | **[2025 Community Branch Internship Program - Buffalo](https://jobright.ai/jobs/info/67000d7ae074b78c496d6f29?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
