@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6702e0bb633a0b597d952756?utm_campaign=1051&utm_source=git)** | Virginia, United States | On Site | Oct 06 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6702dd919792740675389946?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Oct 06 |
+| **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR](https://jobright.ai/jobs/info/6702b9c7f4a912f0d220656c?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Oct 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Community Partnerships Intern (Global E-Commerce-Governance and Experience-AMS-Community Engagement) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e56e39ea13aabd5fc14f75?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 06 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/66ad542c02fa3dbe7a3b3849?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 06 |
 | **[Baird](http://www.rwbaird.com)** | **[Institutional Equities Sales & Trading Shadow Week (August 2025) - Milwaukee](https://jobright.ai/jobs/info/67026816fa8777f74f998e1a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 06 |
@@ -72,14 +75,12 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern - Business Insurance](https://jobright.ai/jobs/info/66e4dd5733a88141338b788e?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 05 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Fall Intern](https://jobright.ai/jobs/info/66e491ec5012cd11a9fe845b?utm_campaign=1051&utm_source=git)** | Boulder, CO | Hybrid | Oct 05 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Field Operations Summer 2025 Internship - Illinois](https://jobright.ai/jobs/info/67011977e7447dc568fcfd31?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 05 |
-| **[Baird](http://www.rwbaird.com)** | **[Institutional Equities Sales & Trading Shadow Week (May 2025) – New York City](https://jobright.ai/jobs/info/6701e490875b3abb2d4bd6fc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Sales Trainee](https://jobright.ai/jobs/info/66e4c4b2ce1d5622f44ba405?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 05 |
 | ↳ | **[2025 Guardian Summer Intern, Group Benefits Enrollment](https://jobright.ai/jobs/info/66e4c4b2ce1d5622f44ba42d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Oct 05 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Strategic Commercial Real Estate Intern](https://jobright.ai/jobs/info/66e529b126e17054f0f5102e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Oct 05 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee - Cleveland Summer 2025](https://jobright.ai/jobs/info/66c8ec03a22afd22e8f62d39?utm_campaign=1051&utm_source=git)** | Independence, OH | On Site | Oct 05 |
 | ↳ | **[Market Facing Underwriting Trainee - DC Summer 2025](https://jobright.ai/jobs/info/66da0a36cd1e53831aa5eed0?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Oct 05 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Strategic Sales and Credit](https://jobright.ai/jobs/info/66e4cffacfa609ea8c297a5c?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 05 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Retail Sales - Indochino Shop Salesperson - International Plaza](https://jobright.ai/jobs/info/67022f9c5681da3e3aaade45?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Oct 04 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6700cb94a8f84665ccbc9f1d?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Hybrid | Oct 04 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Palm Beach Gardens, FL](https://jobright.ai/jobs/info/67014b80a9027b141d0bea4d?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Oct 04 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Technical Sales Intern -Controls](https://jobright.ai/jobs/info/6700bdbe019b2547e5d0a38a?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Hybrid | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking Internship- Client Advocacy, Personal Lines - Summer 2025 - NYC](https://jobright.ai/jobs/info/66ff51f860c1755475903fda?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | ↳ | **[Early Careers: Corporate Risk and Broking Internship- Client Advocacy, Commercial Lines- Summer 2025 - NYC](https://jobright.ai/jobs/info/66ff51f860c175547590400c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2025](https://jobright.ai/jobs/info/670031e7602abbba32919ea7?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 03 |
-| **[The Hartford](http://www.thehartford.com)** | **[2025 Summer Intern - Internal Sales and Business Intelligence](https://jobright.ai/jobs/info/670032e8e392c9ef397664ec?utm_campaign=1051&utm_source=git)** | Wayne, PA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
