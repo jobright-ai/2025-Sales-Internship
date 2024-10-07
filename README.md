@@ -57,7 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kia Georgia, Inc.](http://www.kmmgusa.com)** | **[Sales and Export Intern (Supply Chain)](https://jobright.ai/jobs/info/67043486681591ef829afce8?utm_campaign=1051&utm_source=git)** | West Point, GA | On Site | Oct 07 |
+| **[Schroders](https://www.schroders.com/)** | **[2025 Client Group Intern](https://jobright.ai/jobs/info/67041635c20db877e677e883?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Oct 07 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67041c328d27ef13b81c450b?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Oct 07 |
+| **[Microsoft](https://www.microsoft.com)** | **[[US Federal] Customer Success Account Management: Internship Opportunities](https://jobright.ai/jobs/info/6704244ef92f683a97aa62b6?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Oct 07 |
+| **[Amtrak](https://amtrakstations.com/)** | **[Summer 2025 - Demand Forecasting Intern - 90345543 - Washington](https://jobright.ai/jobs/info/6703fb2a6d359de618236fb4?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Oct 07 |
+| **[Green Bay Packaging](http://gbp.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6703f7211a686c01bb6463eb?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Oct 07 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship - Spring 2025](https://jobright.ai/jobs/info/6703f7211a686c01bb646403?utm_campaign=1051&utm_source=git)** | Farmingdale, NY | Hybrid | Oct 07 |
+| **[Blue Cross and Blue Shield of Alabama](https://www.bcbsal.org)** | **[Intern - Consumer Insurance Sales](https://jobright.ai/jobs/info/6703fcf058b9fef342fcddef?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Oct 07 |
+| ↳ | **[Intern- Sales- Birmingham District](https://jobright.ai/jobs/info/6703fcf058b9fef342fcddf3?utm_campaign=1051&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Oct 07 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/6703f3a7d89cafaea3c3fe12?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Oct 07 |
+| ↳ | **[Sales, Strategy, & Planning Internship](https://jobright.ai/jobs/info/6703f3a7d89cafaea3c3fe10?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Oct 07 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative - Kempf District Office](https://jobright.ai/jobs/info/6703e63fe6387a5a9104f917?utm_campaign=1051&utm_source=git)** | Stevens Point, WI | On Site | Oct 07 |
 | **[National Basketball Association (NBA)](http://www.nba.com)** | **[Graduate - MBA Intern](https://jobright.ai/jobs/info/6703e2e0213ae94a653b0a0d?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 07 |
+| ↳ | **[Undergraduate - Media, Partnerships, and Content Intern](https://jobright.ai/jobs/info/6703eeb2805699324270de44?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 07 |
+| **[SEPHORA](https://www.sephora.com)** | **[Intern, Retail Strategy - Sephora at Kohl's](https://jobright.ai/jobs/info/6703eeb2805699324270de12?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Oct 07 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Professional Development Intern](https://jobright.ai/jobs/info/6703fcf058b9fef342fcdfa7?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Summer 2025 Intern - Sales](https://jobright.ai/jobs/info/6703daeed7005c374de6675e?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Oct 07 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703c0217dd020c6682b1a42?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Oct 07 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/66ad544002fa3dbe7a3b3a81?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
@@ -67,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Partner Ecosystem Success Revenue Office](https://jobright.ai/jobs/info/6703a7c4d3d825ede54d75a0?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Oct 07 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a368f23e2c3ce5680fcd?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Oct 07 |
 | ↳ | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a368f23e2c3ce5680fce?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Oct 07 |
-| ↳ | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a368f23e2c3ce5680fd0?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Oct 07 |
 | ↳ | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a368f23e2c3ce5680fcf?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
+| ↳ | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a368f23e2c3ce5680fd0?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Oct 07 |
 | ↳ | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a368f23e2c3ce5680fd1?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Oct 07 |
 | ↳ | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a0993498ffcfa9bfa7b6?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Oct 07 |
 | **[Dirk Rossmann GmbH](https://www.rossmann.de)** | **[Ausbildung zum Verkäufer (m/w/d) / Einzelhandelskaufmann (m/w/d) – 2025](https://jobright.ai/jobs/info/6703a0ef35ef475ed75064e7?utm_campaign=1051&utm_source=git)** | Trier, ND | On Site | Oct 07 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/66e2de5a56bc504c283c4a79?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 04 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/66e2de5a56bc504c283c4a77?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Oct 04 |
 | **[AvidXchange, Inc.](http://www.avidxchange.com)** | **[2025 Undergraduate Summer Intern: Business Development](https://jobright.ai/jobs/info/66ffc9db70cd358b6e2e2af6?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Oct 04 |
-| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Sales Intern - Summer 2025](https://jobright.ai/jobs/info/66c6901316aa30f5ffb57688?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 04 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/66e2de5a56bc504c283c4a7b?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Oct 04 |
-| **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Commercial (Sales & Marketing)](https://jobright.ai/jobs/info/66aae8f7b8ce90c2f6c196b9?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | Oct 04 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/66e2de5a56bc504c283c4901?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
-| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/66e2de5a56bc504c283c4a7d?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Oct 04 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Account Specialist Intern - Summer](https://jobright.ai/jobs/info/66ffb9dd3c387a6f81989311?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Oct 04 |
-| **[NetJets](https://www.netjets.com/)** | **[Sales Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d050836353?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
-| **[CITGO](https://www.citgo.com/Home.jsp)** | **[CC Buyer Intern/CO-OP](https://jobright.ai/jobs/info/66ffd50299b8dd2587b8dedd?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Oct 04 |
-| **[Boomi](http://www.boomi.com)** | **[Sales Strategy & Operations Summer 2025 Intern](https://jobright.ai/jobs/info/66ff8b59e5e16db89a348a01?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Oct 03 |
-| **[Vista Host Hotels Management & Development](https://www.vistahost.com/)** | **[Internship](https://jobright.ai/jobs/info/66ff91bc56e8c44001402382?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | Oct 03 |
-| **[C & B Equipment](https://cbeuptime.com/)** | **[John Deere Internet Sales Representative](https://jobright.ai/jobs/info/66ff8b59e5e16db89a348a21?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Oct 03 |
-| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Business Development Intern (Cape Town-Remote)](https://jobright.ai/jobs/info/66ffe70628f8369ce2deee39?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Oct 03 |
-| ↳ | **[Crypto Business Development Intern (Wellington-Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b8252e?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Oct 03 |
-| ↳ | **[Crypto Business Development Intern (London- Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b82535?utm_campaign=1051&utm_source=git)** | Oregon, United States | Remote | Oct 03 |
-| ↳ | **[Crypto Business Development Intern (Sydney-Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b8253c?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
