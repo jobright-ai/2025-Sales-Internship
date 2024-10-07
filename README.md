@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Graduate - MBA Intern](https://jobright.ai/jobs/info/6703e2e0213ae94a653b0a0d?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 07 |
+| **[FlightSafety International](https://www.flightsafety.com/)** | **[Summer 2025 Intern - Sales](https://jobright.ai/jobs/info/6703daeed7005c374de6675e?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Oct 07 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703c0217dd020c6682b1a42?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Oct 07 |
+| **[Origami Risk](http://www.origamirisk.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/66ad544002fa3dbe7a3b3a81?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
+| **[Winland Foods](https://winlandfoods.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6703ce676024274b8965ef98?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | Hybrid | Oct 07 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Sales Intern - Summer 2025](https://jobright.ai/jobs/info/6703ad28c6c963ecbc78523d?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Oct 07 |
+| ↳ | **[Sales Intern - Summer 2025](https://jobright.ai/jobs/info/6703ad28c6c963ecbc78523e?utm_campaign=1051&utm_source=git)** | Medina, MN | On Site | Oct 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Partner Ecosystem Success Revenue Office](https://jobright.ai/jobs/info/6703a7c4d3d825ede54d75a0?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Oct 07 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a368f23e2c3ce5680fcd?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Oct 07 |
 | ↳ | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a368f23e2c3ce5680fce?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Oct 07 |
@@ -65,12 +72,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a368f23e2c3ce5680fd1?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Oct 07 |
 | ↳ | **[Management and Sales Internship](https://jobright.ai/jobs/info/6703a0993498ffcfa9bfa7b6?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Oct 07 |
 | **[Dirk Rossmann GmbH](https://www.rossmann.de)** | **[Ausbildung zum Verkäufer (m/w/d) / Einzelhandelskaufmann (m/w/d) – 2025](https://jobright.ai/jobs/info/6703a0ef35ef475ed75064e7?utm_campaign=1051&utm_source=git)** | Trier, ND | On Site | Oct 07 |
+| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6703b5ea62d77334eab6a56c?utm_campaign=1051&utm_source=git)** | Cottage Grove, MN | Hybrid | Oct 07 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Business Development Intern - Unpaid](https://jobright.ai/jobs/info/67035e4ec59fb5e42c87f644?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Oct 06 |
 | ↳ | **[Financial Coaching Intern](https://jobright.ai/jobs/info/67035e4ec59fb5e42c87f66b?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Oct 06 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6702e0bb633a0b597d952756?utm_campaign=1051&utm_source=git)** | Virginia, United States | On Site | Oct 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6702dd919792740675389946?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Oct 06 |
 | **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR](https://jobright.ai/jobs/info/6702b9c7f4a912f0d220656c?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Oct 06 |
-| **[Baird](http://www.rwbaird.com)** | **[Institutional Equities Sales & Trading Shadow Week (August 2025) - Milwaukee](https://jobright.ai/jobs/info/6703a4d0daaf3e5bae375898?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Community Partnerships Intern (Global E-Commerce-Governance and Experience-AMS-Community Engagement) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e56e39ea13aabd5fc14f75?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 06 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/66ad542c02fa3dbe7a3b3849?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 06 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee - Maitland Summer 2025](https://jobright.ai/jobs/info/66c8ec03a22afd22e8f62d3c?utm_campaign=1051&utm_source=git)** | Maitland, FL | Hybrid | Oct 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Crypto Business Development Intern (Wellington-Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b8252e?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Oct 03 |
 | ↳ | **[Crypto Business Development Intern (London- Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b82535?utm_campaign=1051&utm_source=git)** | Oregon, United States | Remote | Oct 03 |
 | ↳ | **[Crypto Business Development Intern (Sydney-Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b8253c?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Oct 03 |
-| ↳ | **[Crypto Business Development Intern (Ottawa-Remote)](https://jobright.ai/jobs/info/66ff85a544ca2de672b8253f?utm_campaign=1051&utm_source=git)** | Oregon, United States | On Site | Oct 03 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Altamonte Springs, FL](https://jobright.ai/jobs/info/66ff7501fedf04adbe46fcdf?utm_campaign=1051&utm_source=git)** | Altamonte Springs, FL | Hybrid | Oct 03 |
-| **[Edge Concepts Inc.](https://www.edgeconceptsinc.com)** | **[Sales & Marketing Trainee](https://jobright.ai/jobs/info/66ff8d516811eb17977449b6?utm_campaign=1051&utm_source=git)** | Falls Church, VA | On Site | Oct 03 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 ESG Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/66ff70bd9252952acaaa35f2?utm_campaign=1051&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 03 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Innovations Business Development and Licensing Intern](https://jobright.ai/jobs/info/66ff8b59e5e16db89a348aee?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Oct 03 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Technical Sales Intern - Controls](https://jobright.ai/jobs/info/66ff6c42bca09d92532a344c?utm_campaign=1051&utm_source=git)** | Arden Hills, MN | Hybrid | Oct 03 |
-| **[The SpyGlass Group, LLC](https://www.spyglass.net/)** | **[Business Development Internship](https://jobright.ai/jobs/info/66ff7345fe82b0055f6e7a6d?utm_campaign=1051&utm_source=git)** | Ohio, United States | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
