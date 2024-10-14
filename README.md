@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primerica](https://www.primerica.com)** | **[Financial Services Representative](https://jobright.ai/jobs/info/670c73905011ccf53e8301fc?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 13 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Macon, GA - Summer 2025)](https://jobright.ai/jobs/info/670c4db2e3447ee3dc727fad?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Oct 13 |
 | **[Custom Brands Group](https://www.vistaproducts.com)** | **[Intern _Sales](https://jobright.ai/jobs/info/670c48d68a18a9404067c2a4?utm_campaign=1051&utm_source=git)** | Ohio, United States | On Site | Oct 13 |
 | **[HP](http://www.hp.com)** | **[Year-round Sales Intern](https://jobright.ai/jobs/info/67065b770a6f2a2db4f538a3?utm_campaign=1051&utm_source=git)** | Rio Rancho, NM | Hybrid | Oct 13 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/66eebf00720d2e54c45dd87c?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 13 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/66eebf00720d2e54c45dd887?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Oct 13 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66eebf00720d2e54c45dd875?utm_campaign=1051&utm_source=git)** | Humble, TX | On Site | Oct 13 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66eebf00720d2e54c45dd87c?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 13 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66eebf00720d2e54c45dd865?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Oct 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ef112b36d22739274e5006?utm_campaign=1051&utm_source=git)** | Woodbury, MN | On Site | Oct 13 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative – Summer 2025](https://jobright.ai/jobs/info/66efaa6adee9b86420a5fa79?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Oct 13 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/66eebf00720d2e54c45dd85e?utm_campaign=1051&utm_source=git)** | Salina, KS | On Site | Oct 13 |
@@ -76,12 +80,14 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66bf4fcb5a35909648e1837e?utm_campaign=1051&utm_source=git)** | North Aurora, IL | On Site | Oct 13 |
 | ↳ | **[Sales Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66fcb3ca904db4134cc46073?utm_campaign=1051&utm_source=git)** | Apopka, FL | On Site | Oct 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Consumer Products Softlines Licensing (Home) Intern, Spring 2025](https://jobright.ai/jobs/info/670bb19d4e9030ec6437d663?utm_campaign=1051&utm_source=git)** | Glendale, CA | Hybrid | Oct 13 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Total Delivered Cost Intern - Summer 2025 - Farmington Hills, MI](https://jobright.ai/jobs/info/670b9c64aa1c6b391d0467b3?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | On Site | Oct 13 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ea767ce2fec785f1943d80?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Oct 12 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/66eac73e5639ab30cc61fda5?utm_campaign=1051&utm_source=git)** | Riverton, UT | On Site | Oct 12 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ea767ce2fec785f1943d80?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Oct 12 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66eb85f8c2296c114b2c6173?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Oct 12 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ea213c9f5f9c9a4fb97f4a?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Oct 12 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ea7d5321939b4200d8a790?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 12 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ea767ce2fec785f1943d79?utm_campaign=1051&utm_source=git)** | Coralville, IA | On Site | Oct 12 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/66d0e2a81337b911efaee7b7?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 12 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Sales Summer Internship - Mansfield, MA](https://jobright.ai/jobs/info/66ee76e318376b4d39481613?utm_campaign=1051&utm_source=git)** | Mansfield, MA | On Site | Oct 12 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Buyer - Summer 2025](https://jobright.ai/jobs/info/66fc4b15ad75812d82565d70?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Oct 12 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/66ee6fdec9a4cf01879b26a2?utm_campaign=1051&utm_source=git)** | Temecula, CA | On Site | Oct 12 |
 | ↳ | **[Men's Buying Internship (Summer 2025)](https://jobright.ai/jobs/info/66df5e9dfebfcdfb79c41311?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Oct 12 |
@@ -108,11 +114,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/66dc735377050414170031be?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Oct 12 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2025 Charles Schwab Operations Internship - Orlando, FL](https://jobright.ai/jobs/info/670ab2153c0d014c8c60a980?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Oct 12 |
 | ↳ | **[2025 Charles Schwab Operations Internship - Omaha, NE](https://jobright.ai/jobs/info/670aa33e9b6a33c542d47953?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Oct 12 |
-| ↳ | **[2025 Charles Schwab Operations Internship - Westlake, TX](https://jobright.ai/jobs/info/670aa33e9b6a33c542d47955?utm_campaign=1051&utm_source=git)** | Westlake, TX | On Site | Oct 12 |
 | ↳ | **[2025 Charles Schwab Operations Internship - El Paso, TX](https://jobright.ai/jobs/info/670aa33e9b6a33c542d47951?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Oct 12 |
-| ↳ | **[2025 Charles Schwab Operations Internship - Denver, CO](https://jobright.ai/jobs/info/670aa33e9b6a33c542d4794f?utm_campaign=1051&utm_source=git)** | Lone Tree, CO | On Site | Oct 12 |
+| ↳ | **[2025 Charles Schwab Operations Internship - Westlake, TX](https://jobright.ai/jobs/info/670aa33e9b6a33c542d47955?utm_campaign=1051&utm_source=git)** | Westlake, TX | On Site | Oct 12 |
 | ↳ | **[2025 Charles Schwab Operations Internship - Phoenix, AZ](https://jobright.ai/jobs/info/670aa33e9b6a33c542d47950?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 12 |
-| ↳ | **[2025 Charles Schwab Financial Service & Support Internship - Phoenix, AZ](https://jobright.ai/jobs/info/670aa33e9b6a33c542d47b8e?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 12 |
+| ↳ | **[2025 Charles Schwab Operations Internship - Denver, CO](https://jobright.ai/jobs/info/670aa33e9b6a33c542d4794f?utm_campaign=1051&utm_source=git)** | Lone Tree, CO | On Site | Oct 12 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Sales Intern, Spring 2025 - Bentonville, AR (part-time)](https://jobright.ai/jobs/info/670b7cf1d948157cc76a37e4?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Oct 12 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/66d0e2a81337b911efaee7b6?utm_campaign=1051&utm_source=git)** | Woburn, MA | On Site | Oct 12 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Sales Intern, Spring 2025 (part-time) - Minneapolis](https://jobright.ai/jobs/info/670b59efc8e886fe5eecf2dd?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7c9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 12 |
 | **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66c08218c3b5c7bd10717de3?utm_campaign=1051&utm_source=git)** | Brookfield, WI | On Site | Oct 12 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Pharma Sales Intern (Summer 2025)](https://jobright.ai/jobs/info/66edcdccf8642d817640e8a3?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 12 |
-| **[Syngenta](http://www.syngenta.com)** | **[Seed Sales Intern](https://jobright.ai/jobs/info/66d0e27a1337b911efaee0d4?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 12 |
-| **[L’OCCITANE Group](https://group.loccitane.com/)** | **[Retail Operations Coordinator (Contract)](https://jobright.ai/jobs/info/66ee394dd602414e8d9ec724?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 12 |
-| **[Motion](https://www.motionindustries.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/670b3e6ed8fb10b794ee6b4f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 12 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[P&A Business Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/66ee101fc0460047a614fe82?utm_campaign=1051&utm_source=git)** | Fond du Lac, WI | Hybrid | Oct 12 |
-| **[Universal Robots](http://www.universal-robots.com)** | **[Inside Service Sales Intern](https://jobright.ai/jobs/info/66ee28ae8daf78cc7f9d8cf1?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
