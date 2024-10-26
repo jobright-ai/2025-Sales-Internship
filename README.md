@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Carcass Sales/Merchandiser Summer 2025 Internship](https://jobright.ai/jobs/info/671c32549e6de935f97ce875?utm_campaign=1051&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | On Site | Oct 25 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Carcass Sales/Merchandiser Summer 2025 Internship](https://jobright.ai/jobs/info/671c531fb549fd9ef8ca7ef8?utm_campaign=1051&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
+| **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Life Sciences-related Sales Intern - Kansas](https://jobright.ai/jobs/info/671c4fdac17a89e1da89baf0?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Oct 25 |
+| **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[E-Commerce Internship](https://jobright.ai/jobs/info/671c42cf73f494c443dacfa2?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 25 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Carcass Sales/Merchandiser Summer 2025 Internship](https://jobright.ai/jobs/info/671c32549e6de935f97ce885?utm_campaign=1051&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | On Site | Oct 25 |
 | **[ADP](http://www.adp.com)** | **[Winter Sales Intern](https://jobright.ai/jobs/info/671c2c458d8ea0679492c412?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Oct 25 |
 | **[Beacon Building Products](https://www.becn.com)** | **[Representante de Ventas Interno](https://jobright.ai/jobs/info/671c2f55a84258966f417587?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Oct 25 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Business Development – Lifestyle Spring Intern](https://jobright.ai/jobs/info/671c1bdd27e38f20215216ba?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Oct 25 |
@@ -70,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Eggs Unlimited](http://www.eggsunlimited.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/671c1bdd27e38f2021521822?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Oct 25 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Account Operations Management Intern (AOM)](https://jobright.ai/jobs/info/671c17ad8ee585060dd51809?utm_campaign=1051&utm_source=git)** | Spring, TX | On Site | Oct 25 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[E-Commerce Fraud Prevention Internship – Summer 2025](https://jobright.ai/jobs/info/671c18897b324d50973cd046?utm_campaign=1051&utm_source=git)** | Lititz, PA | Remote | Oct 25 |
+| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[2025 Summer Intern, Partnership Strategy](https://jobright.ai/jobs/info/671c134ae30ab2148149d762?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[Winged Keel Group](http://wingedkeel.com)** | **[Insurance Intern (Summer 2025)](https://jobright.ai/jobs/info/671c0163220c014c82f08fca?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[DL1961](https://www.dl1961.com)** | **[Showroom Internship Experience (Spring)](https://jobright.ai/jobs/info/671c0163220c014c82f08fcd?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[Fox Motors](https://www.foxmotors.com)** | **[Internet Sales Representative](https://jobright.ai/jobs/info/671c0b38346faa4396531050?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 25 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Kemper](http://kemper.com)** | **[Sales Operations Intern - Spring 2025](https://jobright.ai/jobs/info/671bb8032cf75b3dd445b610?utm_campaign=1051&utm_source=git)** | McAllen, TX | Hybrid | Oct 25 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern-Customer Success Management-Alpharetta, GA-2025](https://jobright.ai/jobs/info/671bb8032cf75b3dd445b63c?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Oct 25 |
 | **[CVS Health](http://cvshealth.com)** | **[Pharmacy Growth and Innovation Corporate Intern (Graduate) – Summer 2025](https://jobright.ai/jobs/info/671babd9cefd0c9f33d296fe?utm_campaign=1051&utm_source=git)** | RI - Woonsocket | Hybrid | Oct 25 |
-| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[2025 Summer Intern, Business Development](https://jobright.ai/jobs/info/671bb53596a6b4abc4fb7e74?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 25 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern-Customer Success Management-Alpharetta, GA-2025](https://jobright.ai/jobs/info/671ba34dad77cfd89f167734?utm_campaign=1051&utm_source=git)** | Alpharetta | On Site | Oct 25 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/671be7544d5ee378a902c0d3?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Oct 25 |
 | **[Infosys](http://www.infosys.com)** | **[Summer 2025 InStep Business Development MBA Intern](https://jobright.ai/jobs/info/671b93efdd471a736a94c28e?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 25 |
@@ -123,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[HCSS](http://hcss.nl)** | **[Sales Development Intern](https://jobright.ai/jobs/info/671b6d5890e74cab83529b2b?utm_campaign=1051&utm_source=git)** | Sugar Land, TX | On Site | Oct 25 |
 | ↳ | **[Inside Sales Intern](https://jobright.ai/jobs/info/671b6d5890e74cab83529b31?utm_campaign=1051&utm_source=git)** | Sugar Land, TX | On Site | Oct 25 |
 | **[Aspire Team](https://aspireteamsd.com/)** | **[Marketing & Sales Representative - Start ASAP](https://jobright.ai/jobs/info/671b6d5890e74cab83529cd2?utm_campaign=1051&utm_source=git)** | National City, CA | On Site | Oct 25 |
-| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[2025 Summer Intern, Partnership Strategy](https://jobright.ai/jobs/info/671b3d1874d7b40f5b8946db?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 24 |
+| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[2025 Summer Intern, Business Development](https://jobright.ai/jobs/info/671b3d1874d7b40f5b8946eb?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Small Business Development Spring Intern](https://jobright.ai/jobs/info/671b3c626a4cb29b71adc96c?utm_campaign=1051&utm_source=git)** | Tucson, AZ | Hybrid | Oct 24 |
 | **[Sennovate](https://sennovate.com)** | **[Sales Intern](https://jobright.ai/jobs/info/671b245bd65f6f0249d9626c?utm_campaign=1051&utm_source=git)** | San Ramon, CA | On Site | Oct 24 |
 | **[Jooble](https://jooble.org/)** | **[Sales Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/671bca08c38ab5102863a758?utm_campaign=1051&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Oct 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern/ Sales / Summer 2025](https://jobright.ai/jobs/info/671ac1fe4386b63e4a3268dd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
 | **[Voltus](https://www.voltus.co)** | **[Sales Analytics Intern](https://jobright.ai/jobs/info/671acd7727b6650d89eded2e?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Aftermarket Business Intern (Summer 2025)(Onsite)](https://jobright.ai/jobs/info/671ac9d8029908701ac12bc1?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Oct 24 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Strategic Initiatives & Partnerships Intern, Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c6715db?utm_campaign=1051&utm_source=git)** | Miami, Florida | Hybrid | Oct 24 |
-| ↳ | **[Sales Intern, Sony Classics – Spring 2025](https://jobright.ai/jobs/info/671addc92cd987a02c6715ba?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Oct 24 |
-| **[3M](https://www.3m.com)** | **[Internship - 2025 MBA Business Development Intern - Transportation & Electronics Business Group (TEBG)](https://jobright.ai/jobs/info/671addc92cd987a02c6715d2?utm_campaign=1051&utm_source=git)** | Remote-United States | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
