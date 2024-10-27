@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whirlpool Corporation](http://www.whirlpoolcorp.com/)** | **[Real Whirled Sales Development Program Intern, May 2025](https://jobright.ai/jobs/info/66c7d020f834463987c8070f?utm_campaign=1051&utm_source=git)** | Benton Harbor, MI | On Site | Oct 27 |
+| **[Security Benefit](https://securitybenefit.com)** | **[Internal Sales Associate](https://jobright.ai/jobs/info/671e16186a0fb88880c97a57?utm_campaign=1051&utm_source=git)** | Topeka, KS | On Site | Oct 27 |
 | **[Hunch](https://hunch.in)** | **[Customer Success Intern (USA)](https://jobright.ai/jobs/info/671de2f853b21257c3edd86d?utm_campaign=1051&utm_source=git)** | Texas City, TX | On Site | Oct 26 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[International Returns Representative](https://jobright.ai/jobs/info/671d7a8942218e97a9b94569?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Oct 26 |
 | **[Jooble](https://jooble.org/)** | **[Sales Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/671d28ddf48a73898ddd3f04?utm_campaign=1051&utm_source=git)** | Orange Park, FL | On Site | Oct 26 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[ADP](http://www.adp.com)** | **[Winter Sales Intern](https://jobright.ai/jobs/info/671cd5ad00168418f6027424?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 26 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/671ccbaaf7809b25d944e805?utm_campaign=1051&utm_source=git)** | Carlisle, PA | On Site | Oct 26 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/66c8c23d7b91efd36d23d6b4?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Oct 26 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Credit Analyst Intern](https://jobright.ai/jobs/info/66c81874d3f480ec8c06d356?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Oct 26 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/66e38760e303c5aab111acfe?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Oct 26 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c7431aa51caef1fc209bd3?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | Hybrid | Oct 26 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Administrator, International Sales](https://jobright.ai/jobs/info/6700a4d0fd5656cec3f096c9?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | Oct 26 |
@@ -90,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Demand Planning Internship](https://jobright.ai/jobs/info/671c5eda9fa1f205dd26ee30?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 25 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Life Sciences-related Sales Intern - Kansas](https://jobright.ai/jobs/info/671c4fdac17a89e1da89baf0?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Oct 25 |
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[E-Commerce Internship](https://jobright.ai/jobs/info/671c42cf73f494c443dacfa2?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 25 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Carcass Sales/Merchandiser Summer 2025 Internship](https://jobright.ai/jobs/info/671c32549e6de935f97ce8ca?utm_campaign=1051&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | On Site | Oct 25 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Carcass Sales/Merchandiser Summer 2025 Internship](https://jobright.ai/jobs/info/671c32549e6de935f97ce885?utm_campaign=1051&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | On Site | Oct 25 |
 | **[L’OCCITANE Group](https://group.loccitane.com/)** | **[Retail Operations Coordinator (Contract)](https://jobright.ai/jobs/info/66ee394dd602414e8d9ec724?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[ADP](http://www.adp.com)** | **[Winter Sales Intern](https://jobright.ai/jobs/info/671c2c458d8ea0679492c412?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Oct 25 |
 | **[Beacon Building Products](https://www.becn.com)** | **[Representante de Ventas Interno](https://jobright.ai/jobs/info/671c2f55a84258966f417587?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Oct 25 |
@@ -122,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/671bd8f94dea2b8ac87ecc85?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Oct 25 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern//College Financial Representative Spring 2025// Summer 2025](https://jobright.ai/jobs/info/671bc7f6d5675bc73d4301c5?utm_campaign=1051&utm_source=git)** | Clayton, MO | Hybrid | Oct 25 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Account Specialist Intern - Summer](https://jobright.ai/jobs/info/66e3da864bd7b684b97ba17c?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Oct 25 |
-| **[PUMA Group](http://us.puma.com/)** | **[Apprentice LA Showroom](https://jobright.ai/jobs/info/671bc524896aa75b20b383b2?utm_campaign=1051&utm_source=git)** | PUMA Los Angeles Office | On Site | Oct 25 |
+| **[PUMA Group](http://us.puma.com/)** | **[Apprentice LA Showroom](https://jobright.ai/jobs/info/671bc524896aa75b20b383d0?utm_campaign=1051&utm_source=git)** | PUMA Los Angeles Office | On Site | Oct 25 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/66e38760e303c5aab111addb?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Oct 25 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Student Worker - Advertising Account Executive](https://jobright.ai/jobs/info/671bcae2776275bb8166f089?utm_campaign=1051&utm_source=git)** | University, MS | On Site | Oct 25 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Client Management (SPRING) - DETROIT METRO](https://jobright.ai/jobs/info/671bbb4e79d6d972e1245986?utm_campaign=1051&utm_source=git)** | Remote/Homebased | Remote | Oct 25 |
@@ -131,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Kemper](http://kemper.com)** | **[Sales Operations Intern - Spring 2025](https://jobright.ai/jobs/info/671bb8032cf75b3dd445b610?utm_campaign=1051&utm_source=git)** | McAllen, TX | Hybrid | Oct 25 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Sales Internship](https://jobright.ai/jobs/info/66e1fc6e80d4a533347cc412?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 25 |
 | **[CVS Health](http://cvshealth.com)** | **[Pharmacy Growth and Innovation Corporate Intern (Graduate) – Summer 2025](https://jobright.ai/jobs/info/671babd9cefd0c9f33d296fe?utm_campaign=1051&utm_source=git)** | RI - Woonsocket | Hybrid | Oct 25 |
-| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[2025 Summer Intern, Business Development](https://jobright.ai/jobs/info/671bb53596a6b4abc4fb7e74?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 25 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern-Customer Success Management-Alpharetta, GA-2025](https://jobright.ai/jobs/info/671ba34dad77cfd89f167734?utm_campaign=1051&utm_source=git)** | Alpharetta | On Site | Oct 25 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/671be7544d5ee378a902c0d3?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Oct 25 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Technical Sales Intern - Services](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bf72?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | On Site | Oct 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Principal Financial Group](https://principaletfs.com/)** | **[Sales Internship - Group Benefits (Summer 2025)](https://jobright.ai/jobs/info/66ff2e4e6a4087a55d9d6b72?utm_campaign=1051&utm_source=git)** | Woodcliff Lake, NJ | On Site | Oct 25 |
 | ↳ | **[Sales Internship - Group Benefits (Summer 2025)](https://jobright.ai/jobs/info/66ff2e4e6a4087a55d9d6b71?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | Oct 25 |
 | ↳ | **[Sales Internship - Group Benefits (Summer 2025)](https://jobright.ai/jobs/info/66ff1304eb3b39677db94d57?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Oct 25 |
-| **[NetJets](https://www.netjets.com/)** | **[Sales Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d050836353?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 25 |
-| **[AssuredPartners](https://www.assuredpartners.com)** | **[Sales Executive Intern- Summer 2025](https://jobright.ai/jobs/info/66e1fc6e80d4a533347cc551?utm_campaign=1051&utm_source=git)** | Dubuque, IA | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
