@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[2025 Spring Intern (Procurement) - San Antonio, TX](https://jobright.ai/jobs/info/6722f2a85b16d8304967cd31?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Oct 30 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Sales Content Development Intern (Summer 2025)(Hybrid)](https://jobright.ai/jobs/info/6722fa1e375b961082492b3f?utm_campaign=1051&utm_source=git)** | Annapolis, MD | Hybrid | Oct 30 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Healthcare Market (HCM) Sales Intern - Charlotte](https://jobright.ai/jobs/info/6722ece65288faf37fabf8fd?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Oct 30 |
+| **[Woodward, Inc.](https://www.woodward.com/en/careers)** | **[Corporate Strategy and Business Development Internship Summer 2025](https://jobright.ai/jobs/info/6722d95bb35036e2922ef1a4?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Oct 30 |
+| **[Primient](https://primient.com)** | **[Grain Merchandising Internship - Summer 2025 - Watseka, IL](https://jobright.ai/jobs/info/6722d62a8208deb93f682c6d?utm_campaign=1051&utm_source=git)** | Watseka, IL | On Site | Oct 30 |
+| **[DRB](https://drb.com)** | **[Sales Intern - Summer 2025](https://jobright.ai/jobs/info/6722dcda845209242e80f8f9?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Oct 30 |
 | **[Swank Motion Pictures, Inc.](https://www.swank.com)** | **[Sales Development Representative Intern Summer 2025 - Hybrid](https://jobright.ai/jobs/info/6722c303ffff7b142144f7ca?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Oct 30 |
 | ↳ | **[Sales Support Intern Summer 2025 - Hybrid](https://jobright.ai/jobs/info/6722c303ffff7b142144f7d2?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Oct 30 |
 | **[Graybar](http://www.graybar.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/6722b29adb3f65bfa9e5dbab?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 30 |
@@ -80,16 +86,16 @@ For a complete list, click the following sortable link below:
 | **[GAF](http://www.gaf.com/)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/672299fd0535c02786d6e972?utm_campaign=1051&utm_source=git)** | Remote, US | On Site | Oct 30 |
 | ↳ | **[Sales Intern - Southwest Retail](https://jobright.ai/jobs/info/672299fd0535c02786d6e971?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 30 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2025 Internship Program - R&D Women's Health - Shelton, CT - Hybrid](https://jobright.ai/jobs/info/6722a4c933589a4c596845a5?utm_campaign=1051&utm_source=git)** | Cromwell, CT | Hybrid | Oct 30 |
-| **[Primient](https://primient.com)** | **[Grain Merchandising Internship - Summer 2025 - Watseka, IL](https://jobright.ai/jobs/info/672299fd0535c02786d6e965?utm_campaign=1051&utm_source=git)** | Wapella, IL | On Site | Oct 30 |
-| ↳ | **[Grain Merchandising Internship - Summer 2025 - Watseka, IL](https://jobright.ai/jobs/info/672299fd0535c02786d6e9c0?utm_campaign=1051&utm_source=git)** | Watseka, IL | On Site | Oct 30 |
+| **[Primient](https://primient.com)** | **[Grain Merchandising Internship - Summer 2025 - Watseka, IL](https://jobright.ai/jobs/info/672299fd0535c02786d6e9c0?utm_campaign=1051&utm_source=git)** | Watseka, IL | On Site | Oct 30 |
 | ↳ | **[Grain Merchandising Internship - Summer 2025 - Watseka, IL](https://jobright.ai/jobs/info/672299fd0535c02786d6e9bf?utm_campaign=1051&utm_source=git)** | Heyworth, IL | On Site | Oct 30 |
+| ↳ | **[Grain Merchandising Internship - Summer 2025 - Watseka, IL](https://jobright.ai/jobs/info/672299fd0535c02786d6e965?utm_campaign=1051&utm_source=git)** | Wapella, IL | On Site | Oct 30 |
+| **[CIM Group](https://www.cimgroup.com)** | **[Intern, Private Wealth Internal Sales](https://jobright.ai/jobs/info/67229b18ec78f787af0c42f0?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 30 |
 | **[Housing Partnership Network](https://www.housingpartnership.net)** | **[Capital Markets Associate (Spring Co-Op 2025)](https://jobright.ai/jobs/info/6722a8434ae25b6080b686cb?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 30 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Customer Success Analyst](https://jobright.ai/jobs/info/6722a09764f619d915f987ab?utm_campaign=1051&utm_source=git)** | Lincolnshire, IL | On Site | Oct 30 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Purchasing Intern (Summer 2025)](https://jobright.ai/jobs/info/6722ac8f194ec3b59f6e1259?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Oct 30 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2025 Retail Performance & CRM Intern / NYC](https://jobright.ai/jobs/info/67229065b01e2d2ed4cbe4c2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[The SpyGlass Group, LLC](https://www.spyglass.net/)** | **[Business Development Intern](https://jobright.ai/jobs/info/67229065b01e2d2ed4cbe514?utm_campaign=1051&utm_source=git)** | Westlake, OH | On Site | Oct 30 |
-| **[CIM Group](https://www.cimgroup.com)** | **[Intern, Private Wealth Internal Sales](https://jobright.ai/jobs/info/672295b5343eef61ef987a62?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 30 |
-| **[Voya Financial](https://www.voya.com/)** | **[Summer Student - Intermediary Distribution](https://jobright.ai/jobs/info/67229b18ec78f787af0c430f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
+| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Sales Administration Intern](https://jobright.ai/jobs/info/6722dcda845209242e80fa3d?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | On Site | Oct 30 |
 | **[Citi](https://www.citi.com)** | **[Client - Citi Research, Global Strategy & Macro Group, Summer Analyst, New York City - US 2025](https://jobright.ai/jobs/info/672295b5343eef61ef987aab?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2025 ) - Central FL](https://jobright.ai/jobs/info/67228670d46465f79a011fdc?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Oct 30 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[CRM Digital Technology Intern (Salesforce)](https://jobright.ai/jobs/info/6722a3b607be15f439f1fd78?utm_campaign=1051&utm_source=git)** | Hagerstown, MD | On Site | Oct 30 |
@@ -119,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/6705992dc600e9a3639d03d7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Field Sales](https://jobright.ai/jobs/info/66e894bda7f164158f8da1ab?utm_campaign=1051&utm_source=git)** | Johnstown, CO | On Site | Oct 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Beauty) - 2025 Summer Start (BS/MS)](https://jobright.ai/jobs/info/670666178a9e246051942360?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 30 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern – Sales Support – Nashville, TN – Summer 2025](https://jobright.ai/jobs/info/6722ce6cc6e9ff39ef64fead?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 30 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Client Partnership & Inclusion Solutions MBA Intern: NYC - Summer 2025](https://jobright.ai/jobs/info/67053d09e96d8f4c85aa2066?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Commercial Property Intern](https://jobright.ai/jobs/info/672214b343f407158db193a2?utm_campaign=1051&utm_source=git)** | California, United States | Hybrid | Oct 30 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Client Management (SPRING) - Conway, AR](https://jobright.ai/jobs/info/672214b343f407158db193ad?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 30 |
@@ -142,19 +149,12 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/670f35e53efb0085bfa59ebb?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Oct 29 |
 | **[JLL](http://www.jll.com/)** | **[Leasing Summer 2025 Internship - San Francisco, CA](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c0f2?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 29 |
 | ↳ | **[Leasing Summer 2025 Internship - Seattle, WA](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c0fc?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 29 |
+| ↳ | **[Leasing Summer 2025 Internship - Nashville, TN](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c103?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 29 |
 | ↳ | **[Leasing Summer 2025 Internship - Denver, CO](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c0f7?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 29 |
 | ↳ | **[Leasing Summer 2025 Internship - Portland, OR](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c104?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Oct 29 |
 | ↳ | **[Leasing Summer 2025 Internship - Charlotte, NC](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c101?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 29 |
-| ↳ | **[Leasing Summer 2025 Internship - Salt Lake City, UT](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c0ef?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 29 |
 | ↳ | **[Leasing Summer 2025 Internship - Walnut Creek, CA](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c0f6?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Oct 29 |
 | ↳ | **[Leasing Summer 2025 Internship - San Diego, CA](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c0fe?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
 | ↳ | **[Leasing Summer 2025 Internship - New York, NY](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c10b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 29 |
-| ↳ | **[Leasing Summer 2025 Internship - Los Angeles, CA](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c106?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 29 |
-| ↳ | **[Leasing Summer 2025 Internship - Orange County, CA](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c102?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Oct 29 |
 | ↳ | **[Leasing Summer 2025 Internship - Stamford, CT](https://jobright.ai/jobs/info/6721b8b0448fcbf8a488c105?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Oct 29 |
-| **[PitchBook](http://www.pitchbook.com)** | **[Sales Development Summer Intern](https://jobright.ai/jobs/info/6721abb475f8025c0efab909?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 29 |
-| **[JLL](http://www.jll.com/)** | **[Leasing Summer 2025 Internship - Parsippany, NJ](https://jobright.ai/jobs/info/6722029e884d8f433922ae45?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | On Site | Oct 29 |
-| **[Moody's Corporation](https://about.moodys.io/)** | **[Insurance Sales Internship](https://jobright.ai/jobs/info/6721a15e51639352eeeff1c8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 29 |
-| **[Schneider Electric](https://www.se.com)** | **[Inside Sales Enablement Internship](https://jobright.ai/jobs/info/6721abb475f8025c0efab9e8?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 29 |
-| **[Highgate](https://www.highgate.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6721bd72c4f2d769cc6e6d61?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
