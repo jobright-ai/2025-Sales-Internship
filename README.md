@@ -57,9 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6728905e26104d191ec462c1?utm_campaign=1051&utm_source=git)** | Carbondale, IL | On Site | Nov 04 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6728926bbb61a3a944ae42a2?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Nov 04 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6728905e26104d191ec462c8?utm_campaign=1051&utm_source=git)** | South Charleston, WV | On Site | Nov 04 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6728905e26104d191ec462cd?utm_campaign=1051&utm_source=git)** | Coeur d'Alene, ID | On Site | Nov 04 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67288c95299a731202e865b5?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Nov 04 |
+| **[Flashpoint](https://www.flashpoint.io)** | **[DOD Skillbridge - FNSS Customer Success](https://jobright.ai/jobs/info/67288c95299a731202e86534?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Nov 03 |
+| **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Life Sciences-related Sales Intern - Kansas](https://jobright.ai/jobs/info/672888f6b35e35cc325b9172?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Nov 03 |
+| ↳ | **[Life Sciences-related Sales Intern - Kansas](https://jobright.ai/jobs/info/6728804b2f1503cc3c221d6b?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Nov 03 |
+| ↳ | **[Life Sciences-related Sales Intern - Kansas](https://jobright.ai/jobs/info/6728804b2f1503cc3c221d6e?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 03 |
+| **[NinjaTrader](http://www.ninjatrader.com)** | **[Business Development Intern - Summer 2025](https://jobright.ai/jobs/info/67287e0bf3296ffeaca41c1a?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
+| **[DV Trading LLC](https://www.dvtrading.co)** | **[2025 Summer Internship - Trader (DV Energy)](https://jobright.ai/jobs/info/67287af4c0de1a3fc9682265?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
+| **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (For Summer 2025)](https://jobright.ai/jobs/info/672870ebdbab8b7d51f98626?utm_campaign=1051&utm_source=git)** | Urbandale, IA | On Site | Nov 03 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern – Sales Support – Nashville, TN – Summer 2025](https://jobright.ai/jobs/info/67288fe757106cb6a51e2c6c?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67283c07a32709659416d070?utm_campaign=1051&utm_source=git)** | Douglasville, GA | On Site | Nov 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67283c07a32709659416d078?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Nov 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67283db8091bcc582462791d?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Nov 03 |
+| **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Sales and Customer Experience](https://jobright.ai/jobs/info/6728926bbb61a3a944ae428f?utm_campaign=1051&utm_source=git)** | Chanhassen, MN | Hybrid | Nov 03 |
 | **[Retrofête](https://retrofete.com/)** | **[Showroom Internship](https://jobright.ai/jobs/info/6727fe4bf1a5ecf8ee9b02a0?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Nov 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6727f4c52dfc5cfd9020e12c?utm_campaign=1051&utm_source=git)** | Merrillville, IN | On Site | Nov 03 |
 | ↳ | **[Sales and Management Intern (Woodland Mall)](https://jobright.ai/jobs/info/6727e7f3f0db0538fa2690ed?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 03 |
@@ -72,6 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6727e7f3f0db0538fa26910a?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO | On Site | Nov 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6727e2c317b28421aeeff3c2?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Nov 03 |
 | **[Battle Motors](https://www.battlemotors.com/)** | **[Internal Parts Representative - West Coast](https://jobright.ai/jobs/info/66d1d86408742cfc073a3d73?utm_campaign=1051&utm_source=git)** | New Philadelphia, OH | On Site | Nov 03 |
+| **[Jooble](https://jooble.org/)** | **[Sales Intern](https://jobright.ai/jobs/info/67284bf75d2ab950de2e3831?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Nov 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6727937a81d6755998e2f384?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Nov 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6727937a81d6755998e2f385?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Nov 03 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/672788b3d771c6e7a8dccd1a?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Nov 03 |
@@ -88,10 +103,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6710e11161d3320da5e3a3ec?utm_campaign=1051&utm_source=git)** | Salina, KS | On Site | Nov 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6710e11161d3320da5e3a3e8?utm_campaign=1051&utm_source=git)** | Humble, TX | On Site | Nov 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672744b55ee62ea792af028a?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Nov 03 |
+| **[Ecolab](http://www.ecolab.com)** | **[Technical Sales Internship](https://jobright.ai/jobs/info/66ec7ba3c413563debb50347?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Nov 03 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Cleveland](https://jobright.ai/jobs/info/6709b12e242cba51dd884882?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/672744b55ee62ea792af02d4?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672744b55ee62ea792af02d9?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672744b55ee62ea792af02dd?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Nov 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6727a133af6e4c0448af8e32?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485da1?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dac?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485db2?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Nov 02 |
@@ -100,9 +116,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dbf?utm_campaign=1051&utm_source=git)** | Manhattan, KS | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dc2?utm_campaign=1051&utm_source=git)** | Palmdale, CA | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dc3?utm_campaign=1051&utm_source=git)** | Sedalia, MO | On Site | Nov 02 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dcc?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dd0?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dd1?utm_campaign=1051&utm_source=git)** | Paducah, KY | On Site | Nov 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dcc?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dcd?utm_campaign=1051&utm_source=git)** | Pittsburg, KS | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dc9?utm_campaign=1051&utm_source=git)** | Pueblo, CO | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dd4?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Nov 02 |
@@ -131,30 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Sharp HealthCare](http://www.sharp.com)** | **[Sales Associate Intern - Business Development - Tech Way - Day Shift - Per Diem](https://jobright.ai/jobs/info/6726465fe001f1be359760f4?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 02 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/672643e683c35f0a0ee533bc?utm_campaign=1051&utm_source=git)** | Wichita Falls, TX | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672643e683c35f0a0ee533bd?utm_campaign=1051&utm_source=git)** | Concord, NC | On Site | Nov 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672642ab48e2a2d21ddba771?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672642ab48e2a2d21ddba770?utm_campaign=1051&utm_source=git)** | Sparks, NV | On Site | Nov 02 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672642ab48e2a2d21ddba771?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672642ab48e2a2d21ddba77d?utm_campaign=1051&utm_source=git)** | Noblesville, IN | On Site | Nov 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672643e683c35f0a0ee533c6?utm_campaign=1051&utm_source=git)** | Victoria, TX | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672643e683c35f0a0ee533c7?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672643e683c35f0a0ee533c8?utm_campaign=1051&utm_source=git)** | Great Falls, MT | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672642ab48e2a2d21ddba77f?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Nov 02 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672643e683c35f0a0ee533c6?utm_campaign=1051&utm_source=git)** | Victoria, TX | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672642ab48e2a2d21ddba78b?utm_campaign=1051&utm_source=git)** | Stephenville, TX | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672642ab48e2a2d21ddba78c?utm_campaign=1051&utm_source=git)** | Orem, UT | On Site | Nov 02 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672643e683c35f0a0ee533d0?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/672643e683c35f0a0ee533d2?utm_campaign=1051&utm_source=git)** | Logan, UT | On Site | Nov 02 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67263b6d99d2933851558229?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Nov 02 |
-| **[Siemens](https://www.siemens.com)** | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67264c3d3ef5d52bbacc61f0?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Nov 02 |
-| ↳ | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67264c3d3ef5d52bbacc61f2?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA | On Site | Nov 02 |
-| ↳ | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67264c3d3ef5d52bbacc61f1?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Nov 02 |
-| ↳ | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67264c3d3ef5d52bbacc61f3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
-| ↳ | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67264c3d3ef5d52bbacc61f6?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 02 |
-| ↳ | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67264c3d3ef5d52bbacc61f5?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 02 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- New York City](https://jobright.ai/jobs/info/6709b12e242cba51dd88486a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 02 |
-| **[Siemens](https://www.siemens.com)** | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67262ebb337f857a172e6654?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 02 |
-| ↳ | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67262ebb337f857a172e667d?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Nov 02 |
-| ↳ | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67262ebb337f857a172e667f?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 02 |
-| ↳ | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67262ebb337f857a172e667e?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 02 |
-| **[Sharp HealthCare](http://www.sharp.com)** | **[Sales Associate Intern - Business Development - Tech Way - Day Shift - Per Diem](https://jobright.ai/jobs/info/672625a5e7ee10b8668d785d?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 02 |
-| **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Sales Intern I - Summer 2025](https://jobright.ai/jobs/info/66d0f63dd06f7bb5368d2297?utm_campaign=1051&utm_source=git)** | Temple, TX | On Site | Nov 02 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Sales Summer Internship - Tallahassee, FL](https://jobright.ai/jobs/info/66ee76e318376b4d394816ba?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
