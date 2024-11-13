@@ -57,6 +57,32 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alcon](http://www.alcon.com)** | **[Summer 2025 Intern – Key Accounts + Practice Solutions](https://jobright.ai/jobs/info/6734abb9183a6986bb838058?utm_campaign=1051&utm_source=git)** | Fort Worth, Texas | On Site | Nov 13 |
+| **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Kent State University](https://jobright.ai/jobs/info/66fbe811ad63c8f1709df966?utm_campaign=1051&utm_source=git)** | Kent, OH | On Site | Nov 13 |
+| ↳ | **[Semester Sales Internship - Central Michigan University](https://jobright.ai/jobs/info/66fbe811ad63c8f1709df96c?utm_campaign=1051&utm_source=git)** | Mount Pleasant, MI | On Site | Nov 13 |
+| ↳ | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/66fc68b309764d7a809d4381?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Nov 13 |
+| ↳ | **[Semester Sales Internship - Bloomsburg](https://jobright.ai/jobs/info/66fbe811ad63c8f1709df984?utm_campaign=1051&utm_source=git)** | Bloomsburg, PA | On Site | Nov 13 |
+| ↳ | **[Semester Sales Internship - Florida State University](https://jobright.ai/jobs/info/66fbe811ad63c8f1709df982?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Nov 13 |
+| ↳ | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/66fbe811ad63c8f1709df97a?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Nov 13 |
+| ↳ | **[Semester Sales Internship - Texas A&M](https://jobright.ai/jobs/info/66fbe811ad63c8f1709df96a?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Nov 13 |
+| ↳ | **[Semester Sales Internship - University of South Carolina](https://jobright.ai/jobs/info/66fbe811ad63c8f1709df972?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Nov 13 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Sales Incentives and Performance](https://jobright.ai/jobs/info/67182a10c5a25701e3a5c0f2?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Nov 13 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6734abf905915ad98a75a248?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Nov 13 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6734abf905915ad98a75a251?utm_campaign=1051&utm_source=git)** | Jackson, MI | On Site | Nov 13 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6734abf905915ad98a75a255?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Nov 13 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6734a4e1d61d352e05a7c010?utm_campaign=1051&utm_source=git)** | Orange Park, FL | On Site | Nov 13 |
+| **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Appalachian State University](https://jobright.ai/jobs/info/66fbe811ad63c8f1709df965?utm_campaign=1051&utm_source=git)** | Boone, NC | On Site | Nov 13 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Regional Sales Strategy College Associate](https://jobright.ai/jobs/info/6717d81a850554eefb2d0ff8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 13 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6718be320813abfc7674ddf5?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Nov 13 |
+| **[Align Technology](http://www.aligntech.com)** | **[Commercial Summer Internship- Undergraduate- San Jose, CA](https://jobright.ai/jobs/info/66e0a227984af37749dbb759?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
+| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Training & Development, Sales & Product Education CO-OP](https://jobright.ai/jobs/info/67348daf4cfdfafb6209fddf?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 13 |
+| **[TotalEnergies](https://ventures.totalenergies.com)** | **[Vendedor Interno - Araxá](https://jobright.ai/jobs/info/66fc9e77b641f2c1f48715db?utm_campaign=1051&utm_source=git)** | Montandon, PA | On Site | Nov 13 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6734861344a5a9c971fb9d3c?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Nov 13 |
+| **[PMG](http://www.pmg.com)** | **[Interested in future Client Strategy opportunities?](https://jobright.ai/jobs/info/67183f2dd2e16f7c2c0d0d1e?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 13 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/6734abc33f8200c8c7070e8c?utm_campaign=1051&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Nov 13 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Sales Strategy & Business Development College Associate](https://jobright.ai/jobs/info/6717d81a850554eefb2d101b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 13 |
+| **[SAS](http://www.sas.com)** | **[Revenue Operations Intern (Year-Round)](https://jobright.ai/jobs/info/672e8044a6e4dff671f0429f?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Nov 13 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Business Development Representative](https://jobright.ai/jobs/info/67348b9335ac65a518fe058a?utm_campaign=1051&utm_source=git)** | San Francisco, California, United States of America | On Site | Nov 12 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Sales Intern - Summer 2025](https://jobright.ai/jobs/info/673458c3eaf3721e5f997a69?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/673452c86051e91c10666f7c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Knoxville, TN](https://jobright.ai/jobs/info/67346b12f9d1bc722336fc3b?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Hybrid | Nov 12 |
@@ -96,24 +122,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61dffd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61dffe?utm_campaign=1051&utm_source=git)** | Ontario, CA | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61dfff?utm_campaign=1051&utm_source=git)** | Waukegan, IL | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e001?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e000?utm_campaign=1051&utm_source=git)** | Woodbury, MN | On Site | Nov 12 |
+| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e001?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e002?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e003?utm_campaign=1051&utm_source=git)** | Easton, PA | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e004?utm_campaign=1051&utm_source=git)** | Etna, OH | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e006?utm_campaign=1051&utm_source=git)** | Addison, IL | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e005?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e008?utm_campaign=1051&utm_source=git)** | Springfield, PA | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e007?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Nov 12 |
+| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e008?utm_campaign=1051&utm_source=git)** | Springfield, PA | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e009?utm_campaign=1051&utm_source=git)** | Racine, WI | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e00a?utm_campaign=1051&utm_source=git)** | Franklin, WI | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e00b?utm_campaign=1051&utm_source=git)** | Newark, OH | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e00c?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e00f?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e00e?utm_campaign=1051&utm_source=git)** | Lake Forest, IL | On Site | Nov 12 |
+| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e00f?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e00d?utm_campaign=1051&utm_source=git)** | Paramus, NJ | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e011?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e010?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Nov 12 |
+| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e011?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67340f1066520aa2a129f0aa?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Nov 12 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Beef & Pork Boxed Sales Intern (Summer 2025)](https://jobright.ai/jobs/info/6733fcfd05c78e9eeb44eac3?utm_campaign=1051&utm_source=git)** | Springdale, AR | On Site | Nov 12 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern - Paid](https://jobright.ai/jobs/info/6733fcfd05c78e9eeb44eb0d?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 12 |
@@ -130,31 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a07?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a08?utm_campaign=1051&utm_source=git)** | Davie, FL | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a09?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a0a?utm_campaign=1051&utm_source=git)** | Monroeville, PA | On Site | Nov 12 |
 | ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a0b?utm_campaign=1051&utm_source=git)** | Dublin, OH | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a0e?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a0d?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a0f?utm_campaign=1051&utm_source=git)** | Reading, MA | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a15?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a12?utm_campaign=1051&utm_source=git)** | East Point, GA | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a13?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4a14?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733f9737d6ad94406b39b89?utm_campaign=1051&utm_source=git)** | Burlington, MA | On Site | Nov 12 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Business Development Representative](https://jobright.ai/jobs/info/6733eb1d1ec48d56b6f33aad?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733ec7c497aa959fc66daca?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733ec7c497aa959fc66dae8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733ec7c497aa959fc66dae5?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | Hybrid | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068bde?utm_campaign=1051&utm_source=git)** | Bethlehem, PA | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068be1?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068be0?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068bf5?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068be7?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068be8?utm_campaign=1051&utm_source=git)** | Hudson, WI | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068bfa?utm_campaign=1051&utm_source=git)** | Billerica, MA | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068be6?utm_campaign=1051&utm_source=git)** | Forest Park, GA | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068bf4?utm_campaign=1051&utm_source=git)** | Clifton, NJ | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068be9?utm_campaign=1051&utm_source=git)** | Golden, CO | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068be4?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068bec?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Nov 12 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068bf6?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
