@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Strategy Group](http://globalstrategygroup.com)** | **[2025 Internship, Business Development](https://jobright.ai/jobs/info/67390fbc93e603c981bea7c5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 16 |
+| **[Kiva](http://kiva.org)** | **[Strategic Partnerships intern](https://jobright.ai/jobs/info/673900c3977a1e5960f31f89?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
 | **[Protective Life](http://www.protective.com/)** | **[Internal Sales Broker Representative (Shelter Point)](https://jobright.ai/jobs/info/6738f043965a0b9515357376?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 16 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Merchandising Internship - Center Store Intern](https://jobright.ai/jobs/info/6738a110e9f15c8a0777e80d?utm_campaign=1051&utm_source=git)** | Carlisle, PA | Hybrid | Nov 16 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Retail Supervisor, Product Operations - Miami International](https://jobright.ai/jobs/info/6738851616ef5bae9cbe31fd?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 16 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Strategic Initiatives & Partnerships Intern, Spring 2025](https://jobright.ai/jobs/info/671c0b38346faa439653109f?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Nov 16 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Summer Intern, IMA Retirement Services - IMA Financial](https://jobright.ai/jobs/info/671bf2313fd7ed48b62dcf36?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 16 |
 | **[Inari](http://www.inari.com)** | **[Intern - Commercial Operations](https://jobright.ai/jobs/info/671bcefc027f7470a9bf648f?utm_campaign=1051&utm_source=git)** | West Lafayette, IN | On Site | Nov 16 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c63575253de7f409d17f4d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 16 |
@@ -67,28 +70,21 @@ For a complete list, click the following sortable link below:
 | **[Trophy Nissan](https://www.trophynissan.com/)** | **[Internet Sales Director](https://jobright.ai/jobs/info/67386a9d84c7628fe07fa31a?utm_campaign=1051&utm_source=git)** | Mesquite, TX | On Site | Nov 16 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Retail Sales Intern (West Division)](https://jobright.ai/jobs/info/67385cbcf52f034903368aaa?utm_campaign=1051&utm_source=git)** | Livermore, CA | On Site | Nov 16 |
 | **[Aspire Team](https://www.aspireteamsd.com)** | **[Marketing & Sales Representative - Start ASAP](https://jobright.ai/jobs/info/673863276d9b7f69b9db70f1?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 16 |
-| **[Textron](http://textron.com)** | **[2025 Internship - Sales Operations - Aftermarket](https://jobright.ai/jobs/info/67386fe3e881c1486efebb39?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Nov 16 |
-| ↳ | **[2025 Internship - Customer Support Associate (Greensboro, NC)](https://jobright.ai/jobs/info/67386fe3e881c1486efebb45?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 16 |
-| ↳ | **[2025 Sales Intern GSE](https://jobright.ai/jobs/info/67386fe3e881c1486efebb33?utm_campaign=1051&utm_source=git)** | Cartersville, GA | On Site | Nov 16 |
-| **[Textron](http://textron.com)** | **[2025 Internship - Customer Support Associate (Milwaukee, WI)](https://jobright.ai/jobs/info/67386fe3e881c1486efebb43?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Nov 15 |
-| ↳ | **[2025 Internship - CAM Coordinator](https://jobright.ai/jobs/info/67386fe3e881c1486efebb4a?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Nov 15 |
-| ↳ | **[2025 Internship - Sales Operations (ABLE - Mesa, AZ)](https://jobright.ai/jobs/info/67386fe3e881c1486efebb41?utm_campaign=1051&utm_source=git)** | Mesa, AZ | On Site | Nov 15 |
-| ↳ | **[2025 Internship - Sales Operations](https://jobright.ai/jobs/info/67386fe3e881c1486efebb2d?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Nov 15 |
-| ↳ | **[2025 E-Z-GO Sales Intern](https://jobright.ai/jobs/info/6738916a022df7c91acdc93d?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Nov 15 |
+| **[Textron](http://textron.com)** | **[2025 Internship - Customer Support Associate (Greensboro, NC)](https://jobright.ai/jobs/info/67386fe3e881c1486efebb45?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 16 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Asset Manager Intern - Summer 2025](https://jobright.ai/jobs/info/673857edbf862905be81c7e9?utm_campaign=1051&utm_source=git)** | Chandler, AZ | Hybrid | Nov 15 |
 | **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/673830730674ae8d48dc71e5?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 15 |
 | **[CBRE](https://www.cbre.com)** | **[2025 Sales/Brokerage Intern - Summer (Pittsburgh, PA)](https://jobright.ai/jobs/info/6738339f1928d360adb9884d?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Sales Support Representative Intern](https://jobright.ai/jobs/info/6738278e59eb43cfe8a96e51?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Nov 15 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut Sales Intern - Spring 2025](https://jobright.ai/jobs/info/673824bbaade8bd98190d7ea?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/67383144053baff6855d785c?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Ticket Sales & Services Apprentice - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/673822325fe32628d92b86b1?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Nov 15 |
-| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/67381f2c4a87ff10e4b6efb3?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
 | **[Visa](https://www.visa.com)** | **[North America Fintech Intern – Summer 2025](https://jobright.ai/jobs/info/6738109a28357be48e7b748c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Nov 15 |
 | **[Moody's Corporation](www.moodys.com)** | **[Customer Success Summer Internship](https://jobright.ai/jobs/info/67381425fa84ca9317059df4?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/67381425fa84ca9317059f9c?utm_campaign=1051&utm_source=git)** | Cottage Grove, MN | On Site | Nov 15 |
 | **[DriveTime](https://www.drivetime.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/6738112bb8eb951ca6ca2ad1?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Nov 15 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277d?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
-| ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277e?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
+| ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c42780?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Nov 15 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[2025 Internship, Business Development](https://jobright.ai/jobs/info/6737e18e419be929e5b0ebdb?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/6737dd55b732429229d5cf9d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 15 |
@@ -157,4 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Milton, FL - Summer 2023)](https://jobright.ai/jobs/info/6736cd5f01b445790ec787b8?utm_campaign=1051&utm_source=git)** | Bliss, ID | On Site | Nov 14 |
 | ↳ | **[Retail Management Intern (Idaho Falls, ID - Summer 2025)](https://jobright.ai/jobs/info/6736e0e6104a03f301274979?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Nov 14 |
 | **[Amazon](https://amazon.com)** | **[2025 MBA Intern (Summer), Corporate Business Development (Corp BD)](https://jobright.ai/jobs/info/673805ff11f4ca8142b8268f?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Nov 14 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Fargo, ND - Summer 2025)](https://jobright.ai/jobs/info/6736d2e04056999c0a979dcc?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Nov 14 |
+| ↳ | **[Retail Management Intern (Brigham City, UT - Summer 2025)](https://jobright.ai/jobs/info/6736d2e04056999c0a979ddf?utm_campaign=1051&utm_source=git)** | Brigham City, UT | On Site | Nov 14 |
+| **[Delaware North](http://www.delawarenorth.com/)** | **[Retail Management Internship, Target Field](https://jobright.ai/jobs/info/6736d03db73c11624ccd95cc?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 14 |
+| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66fdc4d962b9a54198144d61?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
