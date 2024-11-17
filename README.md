@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Sales Intern](https://jobright.ai/jobs/info/6739657b7a4a7c39d5893eb2?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Nov 16 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[2025 Internship, Business Development](https://jobright.ai/jobs/info/67390fbc93e603c981bea7c5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | **[Kiva](http://kiva.org)** | **[Strategic Partnerships intern](https://jobright.ai/jobs/info/673900c3977a1e5960f31f89?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
 | **[Protective Life](http://www.protective.com/)** | **[Internal Sales Broker Representative (Shelter Point)](https://jobright.ai/jobs/info/6738f043965a0b9515357376?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 16 |
@@ -70,21 +71,20 @@ For a complete list, click the following sortable link below:
 | **[Trophy Nissan](https://www.trophynissan.com/)** | **[Internet Sales Director](https://jobright.ai/jobs/info/67386a9d84c7628fe07fa31a?utm_campaign=1051&utm_source=git)** | Mesquite, TX | On Site | Nov 16 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Retail Sales Intern (West Division)](https://jobright.ai/jobs/info/67385cbcf52f034903368aaa?utm_campaign=1051&utm_source=git)** | Livermore, CA | On Site | Nov 16 |
 | **[Aspire Team](https://www.aspireteamsd.com)** | **[Marketing & Sales Representative - Start ASAP](https://jobright.ai/jobs/info/673863276d9b7f69b9db70f1?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 16 |
-| **[Textron](http://textron.com)** | **[2025 Internship - Customer Support Associate (Greensboro, NC)](https://jobright.ai/jobs/info/67386fe3e881c1486efebb45?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 16 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Asset Manager Intern - Summer 2025](https://jobright.ai/jobs/info/673857edbf862905be81c7e9?utm_campaign=1051&utm_source=git)** | Chandler, AZ | Hybrid | Nov 15 |
 | **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/673830730674ae8d48dc71e5?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 15 |
 | **[CBRE](https://www.cbre.com)** | **[2025 Sales/Brokerage Intern - Summer (Pittsburgh, PA)](https://jobright.ai/jobs/info/6738339f1928d360adb9884d?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Sales Support Representative Intern](https://jobright.ai/jobs/info/6738278e59eb43cfe8a96e51?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Nov 15 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut Sales Intern - Spring 2025](https://jobright.ai/jobs/info/673824bbaade8bd98190d7ea?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
-| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/67383144053baff6855d785c?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Ticket Sales & Services Apprentice - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/673822325fe32628d92b86b1?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Nov 15 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/67381f2c4a87ff10e4b6efb3?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
 | **[Visa](https://www.visa.com)** | **[North America Fintech Intern – Summer 2025](https://jobright.ai/jobs/info/6738109a28357be48e7b748c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Nov 15 |
 | **[Moody's Corporation](www.moodys.com)** | **[Customer Success Summer Internship](https://jobright.ai/jobs/info/67381425fa84ca9317059df4?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/67381425fa84ca9317059f9c?utm_campaign=1051&utm_source=git)** | Cottage Grove, MN | On Site | Nov 15 |
 | **[DriveTime](https://www.drivetime.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/6738112bb8eb951ca6ca2ad1?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Nov 15 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277d?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
-| ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277e?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 15 |
+| ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277e?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c42780?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Nov 15 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[2025 Internship, Business Development](https://jobright.ai/jobs/info/6737e18e419be929e5b0ebdb?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/6737dd55b732429229d5cf9d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 15 |
@@ -145,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[The Russ Darrow Group](https://www.russdarrow.com/)** | **[Customer Service & Internet Sales (BDC) Representative](https://jobright.ai/jobs/info/67371d470ca46b075815a524?utm_campaign=1051&utm_source=git)** | West Bend, WI | On Site | Nov 14 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2025-Store Management/Leadership Essentials Intern- Cincinnati Division](https://jobright.ai/jobs/info/6736f167e1877ce75702830f?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Nov 14 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern - Sales](https://jobright.ai/jobs/info/6738448a2d920ec67f232c52?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 14 |
-| **[Lennox National Account Services](http://www.lennox.com)** | **[Sales Development Co-Op](https://jobright.ai/jobs/info/6737a41b13997bec4933100f?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Nov 14 |
+| **[Lennox National Account Services](http://www.lennox.com)** | **[Sales Development Co-Op](https://jobright.ai/jobs/info/6737a41b13997bec49331017?utm_campaign=1051&utm_source=git)** | Richardson, TX, US | On Site | Nov 14 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management and Insurance Summer 2025 Internship - Manchester, NH](https://jobright.ai/jobs/info/6736d2e04056999c0a979ca8?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | Nov 14 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Customer Experience Business Intern](https://jobright.ai/jobs/info/6736e6c2fbad6d79b524bc01?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | Hybrid | Nov 14 |
 | ↳ | **[Customer Experience Business Intern](https://jobright.ai/jobs/info/6736d7bc0bfa6154cc89eef9?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 14 |
