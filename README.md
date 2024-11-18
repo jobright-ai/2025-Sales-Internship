@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Seller Growth Ops MBA Intern (TikTok Shop - Product) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a7910817a1f6fff6a042c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
-| ↳ | **[Deal Operation Intern (TikTok Shop - Operations) - 2025 Summer Start (BS/MS)](https://jobright.ai/jobs/info/673a7910817a1f6fff6a040c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
+| **[LOFT](http://anninc.com/)** | **[Spring Retail Management Internship / Hamilton Town Center](https://jobright.ai/jobs/info/673aaa1a6dd091362236b3be?utm_campaign=1051&utm_source=git)** | Noblesville, IN | Hybrid | Nov 17 |
+| **[TikTok](https://www.tiktok.com)** | **[Deal Operation Intern (TikTok Shop - Operations) - 2025 Summer Start (BS/MS)](https://jobright.ai/jobs/info/673a7910817a1f6fff6a040c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
+| ↳ | **[Seller Growth Ops MBA Intern (TikTok Shop - Product) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a7910817a1f6fff6a042c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
 | **[Coinbase](http://www.coinbase.com)** | **[Sales Intern](https://jobright.ai/jobs/info/673a2318ea249081c0977cf2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Creator Strategy Intern (Global E-commerce) - 2024 Fall (BS/MS)](https://jobright.ai/jobs/info/673a24aae5228b8986f45fe4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 17 |
 | ↳ | **[TikTok Shop - Strategy & Analytics Lead, Internal E-Commerce](https://jobright.ai/jobs/info/673a24aae5228b8986f46081?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
@@ -112,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Gallagher Re](https://www.capsicumre.com/)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6737bd1519e0150aaba6fb66?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 15 |
 | **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6737c069c473cff78d05444d?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 15 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Development Intern - Summer 2025](https://jobright.ai/jobs/info/6737c53ce12bd1bd242ddfd8?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
-| **[Lennox](http://www.lennox.com)** | **[Sales Development Co-Op](https://jobright.ai/jobs/info/6737b969242b801a42bf2ee6?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Nov 15 |
+| **[Lennox](http://www.lennox.com)** | **[Sales Development Co-Op](https://jobright.ai/jobs/info/6737b969242b801a42bf2ee0?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Nov 15 |
 | **[Centene Corporation](http://www.centene.com)** | **[Specialty Pharmacy Account Management Intern (Undergraduate - Summer 2025)](https://jobright.ai/jobs/info/6738007b47aaa020aba9a98b?utm_campaign=1051&utm_source=git)** | Florida, United States | On Site | Nov 15 |
 | ↳ | **[Specialty Pharmacy Account Management Intern (Undergraduate - Summer 2025)](https://jobright.ai/jobs/info/6738007b47aaa020aba9a9f8?utm_campaign=1051&utm_source=git)** | Michigan, United States | On Site | Nov 15 |
 | **[ACCO Engineered Systems](http://www.accoes.com)** | **[Service Group - Intern](https://jobright.ai/jobs/info/6737b704a38ce1e28b5259db?utm_campaign=1051&utm_source=git)** | San Leandro, CA | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Commercial (Summer 2025)](https://jobright.ai/jobs/info/6737363394a8f5a951823cfa?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 15 |
 | ↳ | **[Intern/Co-op - Commercial (Fall 2025)](https://jobright.ai/jobs/info/6737363394a8f5a951823cfc?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sales Representative Intern](https://jobright.ai/jobs/info/6737363394a8f5a951823cfe?utm_campaign=1051&utm_source=git)** | East Hanover, NJ | On Site | Nov 15 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/66feab9d4a03eeb86d5dcbb2?utm_campaign=1051&utm_source=git)** | Sycamore, IL | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
