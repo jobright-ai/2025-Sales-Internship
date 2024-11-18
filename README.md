@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Origami Risk](http://www.origamirisk.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/66ad542c02fa3dbe7a3b3849?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/673af2e8fdfe081929e45e19?utm_campaign=1051&utm_source=git)** | Lincolnshire, IL | On Site | Nov 17 |
 | ↳ | **[eCommerce Sales Intern](https://jobright.ai/jobs/info/673af2e8fdfe081929e45e1b?utm_campaign=1051&utm_source=git)** | Lincolnshire, IL | On Site | Nov 17 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[2025 Advancing Black Pathways Fellowship Program – Financial Advisor Development Track](https://jobright.ai/jobs/info/673ae72945b27eac6376cfc4?utm_campaign=1051&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 17 |
@@ -98,16 +99,16 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[2025 Sales/Brokerage Intern - Summer (Pittsburgh, PA)](https://jobright.ai/jobs/info/6738339f1928d360adb9884d?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Sales Support Representative Intern](https://jobright.ai/jobs/info/6738278e59eb43cfe8a96e51?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Nov 15 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[NBC Telemundo Connecticut Sales Intern - Spring 2025](https://jobright.ai/jobs/info/673824bbaade8bd98190d7ea?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Nov 15 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/67383144053baff6855d785c?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/66ff0f927062262b2082a63c?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 15 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Ticket Sales & Services Apprentice - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/673822325fe32628d92b86b1?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Nov 15 |
-| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/67381f2c4a87ff10e4b6efb3?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
 | **[Visa](https://www.visa.com)** | **[North America Fintech Intern – Summer 2025](https://jobright.ai/jobs/info/6738109a28357be48e7b748c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Nov 15 |
 | **[Moody's Corporation](www.moodys.com)** | **[Customer Success Summer Internship](https://jobright.ai/jobs/info/67381425fa84ca9317059df4?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/67381425fa84ca9317059f9c?utm_campaign=1051&utm_source=git)** | Cottage Grove, MN | On Site | Nov 15 |
 | **[DriveTime](https://www.drivetime.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/6738112bb8eb951ca6ca2ad1?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Nov 15 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277d?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
-| ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277e?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
+| ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c4277f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | ↳ | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/673802dd214c484711c42780?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Nov 15 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[2025 Internship, Business Development](https://jobright.ai/jobs/info/6737e18e419be929e5b0ebdb?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Regional Sales Manager - Regional 4](https://jobright.ai/jobs/info/6737dd55b732429229d5cf9d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 15 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Reyes Coca-Cola Bottling](https://www.reyescocacola.com/)** | **[Sales Internship (Foodservice & On Premise, Mackinac Island)](https://jobright.ai/jobs/info/6737db23b5876c43c9ac6329?utm_campaign=1051&utm_source=git)** | Traverse City, MI | On Site | Nov 15 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Property & Casualty Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6737c766bd921fa97341f9e9?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
 | **[Kapnick Insurance](https://kapnick.com)** | **[Insurance Sales Internship Summer 2025](https://jobright.ai/jobs/info/67380c06095229369c4aded9?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Nov 15 |
-| ↳ | **[Insurance Sales Internship Summer 2025](https://jobright.ai/jobs/info/67380c06095229369c4ae287?utm_campaign=1051&utm_source=git)** | Adrian, MI | On Site | Nov 15 |
 | ↳ | **[Insurance Sales Internship Summer 2025](https://jobright.ai/jobs/info/67380c06095229369c4ae288?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Nov 15 |
 | **[Gallagher Re](https://www.capsicumre.com/)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6737bd1519e0150aaba6fb66?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 15 |
 | **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6737c069c473cff78d05444d?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 15 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Business Development Sales Intern - Summer 2025](https://jobright.ai/jobs/info/66c6901316aa30f5ffb57688?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 15 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/671ac76657722dde609de374?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 15 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Excellence Elite Intern](https://jobright.ai/jobs/info/66e23468592241bcadb2b24e?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 15 |
+| **[Principal Financial Group](https://principaletfs.com/)** | **[Sales Internship - Group Benefits (Summer 2025)](https://jobright.ai/jobs/info/66ff1babef54870a43129e32?utm_campaign=1051&utm_source=git)** | Downers Grove, IL | On Site | Nov 15 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c689d7f77343dedc957356?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | Hybrid | Nov 15 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2025)](https://jobright.ai/jobs/info/673739fea442b7ba1e46686f?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Nov 15 |
 | ↳ | **[Intern/Co-op - Commercial (Fall 2025)](https://jobright.ai/jobs/info/673739fea442b7ba1e466871?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Nov 15 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist – Summer 2025](https://jobright.ai/jobs/info/66e2904c77a0b0b793192f3c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2025)](https://jobright.ai/jobs/info/673739fea442b7ba1e466885?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 15 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist – Summer 2025](https://jobright.ai/jobs/info/673732a96f8079474943defd?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Nov 15 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Salt Lake City, UT - Summer 2025)](https://jobright.ai/jobs/info/673b1fde092ab3667ce1c665?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
