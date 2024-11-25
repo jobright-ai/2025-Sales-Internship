@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6743eb1a6b7f0e0bd0375900?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Nov 24 |
 | **[Macy's](http://www.macysjobs.com)** | **[Retail Cosmetics Sales Beauty Advisor, West Dade Miami International - Flex](https://jobright.ai/jobs/info/6743c269339006165e8009f9?utm_campaign=1051&utm_source=git)** | Doral, FL | Hybrid | Nov 24 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Corporate Development Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/67436eef4aaad03a81e47f2c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[Vendor Management Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/67436c8fc5efd13122f2c3d0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
@@ -137,12 +138,10 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6742703442ab868e52e283bf?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Nov 23 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6742703442ab868e52e283cf?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 23 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/671a8de11c867d1a37677c54?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 23 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6719bc6541000c9fa9ebb279?utm_campaign=1051&utm_source=git)** | Wausau, WI | On Site | Nov 23 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/674282406354ce836ea9195f?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 23 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67424604fea7e9e0867c1897?utm_campaign=1051&utm_source=git)** | Buford, GA | On Site | Nov 23 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67424604fea7e9e0867c189b?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Nov 23 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67424604fea7e9e0867c189f?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Nov 23 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/671a8de11c867d1a37677c14?utm_campaign=1051&utm_source=git)** | Greensburg, PA | On Site | Nov 23 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6741ef73710bd9bc500d6211?utm_campaign=1051&utm_source=git)** | Cedar Hill, TX | On Site | Nov 23 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6741ef73710bd9bc500d6222?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 23 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6741ef73710bd9bc500d6224?utm_campaign=1051&utm_source=git)** | Pineville, NC | On Site | Nov 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2025](https://jobright.ai/jobs/info/67427613e26f5793c2691f46?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 23 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- New York City (Brooklyn)](https://jobright.ai/jobs/info/6709b12e242cba51dd88486a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 23 |
 | **[Pontera](http://www.pontera.com)** | **[Internal Sales Associate](https://jobright.ai/jobs/info/67255d0ec132fdd07f16c406?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 23 |
+| **[Ecolab](http://www.ecolab.com)** | **[Technical Sales Internship](https://jobright.ai/jobs/info/66ec6c09611da98b4c5a3346?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
