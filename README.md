@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6747cb8c39c598b73ef18d47?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 27 |
+| **[UNICO Group](http://unicogroup.com)** | **[Insurance Sales Internship](https://jobright.ai/jobs/info/6747d6b4107109ebb3a7d030?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Nov 27 |
+| **[UBS](https://www.ubs.com)** | **[2025 Summer Internship Program - Global Banking - San Francisco](https://jobright.ai/jobs/info/6747b994acd4bd5ead035078?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 27 |
 | **[Beacon Building Products](https://www.becn.com)** | **[Representante de Ventas Interno](https://jobright.ai/jobs/info/6747a90c759bc2f8712aaca6?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Nov 27 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Filmed Entertainment Global Distribution Internships - Summer 2025](https://jobright.ai/jobs/info/6747ac708a9982adad286a09?utm_campaign=1051&utm_source=git)** | Universal City, CA | On Site | Nov 27 |
 | **[Living Spaces Furniture](https://www.livingspaces.com/)** | **[Retail Internship (Winter/Spring 2025)](https://jobright.ai/jobs/info/67479e7a40064f018331201b?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 27 |
 | ↳ | **[Retail Internship (Winter/Spring 2025)](https://jobright.ai/jobs/info/6747a5a09b4663e8065e2a24?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 27 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Intern](https://jobright.ai/jobs/info/6747a7b7d4ce2e6e20e187e4?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Nov 27 |
 | **[Visa](https://www.visa.com)** | **[Product Partnerships, MBA Intern - Summer 2025](https://jobright.ai/jobs/info/6747a425299de1d749c6cc66?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67479dccc30b83f56507f9c0?utm_campaign=1051&utm_source=git)** | Bellevue, WA | Hybrid | Nov 27 |
 | **[Lexmark](http://www.lexmark.com)** | **[Channel Sales Intern - Spring 2025](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1c69?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Nov 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Sales Associate Intern - Starts Summer 2025](https://jobright.ai/jobs/info/6745dae1ad91172edb0df9d1?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Nov 26 |
 | **[Windermere Real Estate](https://www.windermere.com/)** | **[Real Estate Agent](https://jobright.ai/jobs/info/6745e5b352f397e09743f5f4?utm_campaign=1051&utm_source=git)** | Wenatchee, WA | Hybrid | Nov 26 |
 | **[Trumid](https://www.trumid.com)** | **[2025 Summer Intern - Sales Rotation](https://jobright.ai/jobs/info/6745cc783bd8d4645b611248?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Nov 26 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Sales Training (Product)](https://jobright.ai/jobs/info/6745cc783bd8d4645b611293?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Nov 26 |
-| **[Galaxy](https://www.galaxy.com)** | **[2025 Sales & Trading Intern - NYC](https://jobright.ai/jobs/info/674705737c24c5e22f40a316?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
