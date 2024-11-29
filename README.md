@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Applied Industrial Technologies LP - Canada](https://appliedcanada.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6748c51bd132fa3682abd00c?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Nov 28 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Internship #164](https://jobright.ai/jobs/info/6748feca0c8608972988799c?utm_campaign=1051&utm_source=git)** | Menomonie, WI | On Site | Nov 28 |
+| ↳ | **[Retail Management Internship #175](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec1cc?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Nov 28 |
+| ↳ | **[Retail Management Internship #681](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec19c?utm_campaign=1051&utm_source=git)** | St Michael, MN | On Site | Nov 28 |
 | **[LifeQuotes.com](http://www.lifequotes.com)** | **[Paid Business Major Internship, Cust Service & Sales, $23/Hr.](https://jobright.ai/jobs/info/6748b5c0e61494c557e38d9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/67489b83fe648fc370435e2e?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Nov 28 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/67488585b69e5134b87c36a4?utm_campaign=1051&utm_source=git)** | South Hackensack, NJ | On Site | Nov 28 |
@@ -96,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Filmed Entertainment Global Distribution Internships - Summer 2025](https://jobright.ai/jobs/info/6747ac708a9982adad286a09?utm_campaign=1051&utm_source=git)** | Universal City, CA | On Site | Nov 27 |
 | **[Living Spaces Furniture](https://www.livingspaces.com/)** | **[Retail Internship (Winter/Spring 2025)](https://jobright.ai/jobs/info/67479e7a40064f018331201b?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 27 |
 | ↳ | **[Retail Internship (Winter/Spring 2025)](https://jobright.ai/jobs/info/6747a5a09b4663e8065e2a24?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 27 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Intern](https://jobright.ai/jobs/info/6747a7b7d4ce2e6e20e187e4?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Nov 27 |
 | **[Visa](https://www.visa.com)** | **[Product Partnerships, MBA Intern - Summer 2025](https://jobright.ai/jobs/info/6747a425299de1d749c6cc66?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Nov 27 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67479dccc30b83f56507f9c0?utm_campaign=1051&utm_source=git)** | Bellevue, WA | Hybrid | Nov 27 |
 | **[Lexmark](http://www.lexmark.com)** | **[Channel Sales Intern - Spring 2025](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1c69?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Nov 27 |
@@ -106,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Pre-Owned Business Intern](https://jobright.ai/jobs/info/6747940d82cb281bbaa6a3ea?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 | **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2025 Summer Internship / Inside Sales - Wilsonville, OR](https://jobright.ai/jobs/info/673f9e80e81b07f5ebc65afe?utm_campaign=1051&utm_source=git)** | Wilsonville, OR | On Site | Nov 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Revenue Operations Intern (Digital Demand Management)](https://jobright.ai/jobs/info/673391c3e57acd035a2ccb9c?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 27 |
+| **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2025 Summer Internship / Sales - Orlando, FL](https://jobright.ai/jobs/info/673cf77c5286654a6f5b8244?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Nov 27 |
 | **[Risk Strategies Company](http://www.risk-strategies.com)** | **[2025 Internship -  New York, NY (On-Site)](https://jobright.ai/jobs/info/6747729339e6e2dcc54a741e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Media & Global Partnerships](https://jobright.ai/jobs/info/6747801e6cf420d72385d4f4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 27 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2025 Business Development Associate Internship](https://jobright.ai/jobs/info/67476956501f8c118c405266?utm_campaign=1051&utm_source=git)** | USA VA Falls Church | On Site | Nov 27 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[ADP](http://www.adp.com)** | **[Summer Sales Internship - Dec '25 & May '26 Grads!](https://jobright.ai/jobs/info/672b048cf3f8c7da842ad649?utm_campaign=1051&utm_source=git)** | Fairport, NY | On Site | Nov 27 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Investor Relations & Business Development Intern](https://jobright.ai/jobs/info/672a56fc4b39d5bb91ec9347?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Nov 27 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[Sales Intern](https://jobright.ai/jobs/info/672a56fc4b39d5bb91ec9449?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 27 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/674701fff7a4f57dfb665b04?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Nov 27 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6746eb63b3f8e91fc5bfd937?utm_campaign=1051&utm_source=git)** | Mound, MN | On Site | Nov 27 |
 | **[WillowTree](http://www.willowtreeapps.com)** | **[Commercial Strategy Intern (US) - Summer 2025](https://jobright.ai/jobs/info/6746eb63b3f8e91fc5bfd955?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | Hybrid | Nov 27 |
 | ↳ | **[Commercial Strategy Intern (US) - Summer 2025](https://jobright.ai/jobs/info/6746eb63b3f8e91fc5bfda45?utm_campaign=1051&utm_source=git)** | Durham, NC | Hybrid | Nov 27 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[IRONSCALES](http://ironscales.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6746c194c3bbeafbfd7b7dbd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[Synergy Fiber](https://synergyfiber.com)** | **[Sales and Marketing Associate (Intern)](https://jobright.ai/jobs/info/6746ba8a720f2013c1709bed?utm_campaign=1051&utm_source=git)** | College Station, TX | Hybrid | Nov 26 |
 | **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6746a85f28cffcc63cb28ca6?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Nov 26 |
-| **[Trumid](https://www.trumid.com)** | **[2025 Summer Intern - Sales Rotation](https://jobright.ai/jobs/info/6747e89b14e8b18840965b23?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Nov 26 |
-| **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67469e0e3471b345491c71bb?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 26 |
+| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67469e0e3471b345491c71bb?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2025 Summer Internship / Sales - Miami, FL & West Palm Beach, FL](https://jobright.ai/jobs/info/673e66e961b2c2d395555cc3?utm_campaign=1051&utm_source=git)** | Hollywood, FL | On Site | Nov 26 |
 | **[UiPath](https://www.uipath.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/673e65173f8b6b231d17a995?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Global Impex USA](https://www.globalimpexusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/674671c9e820c79fe4cf481c?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Studio71, LP](https://www.studio71.com/us)** | **[Business Development, FB Internship](https://jobright.ai/jobs/info/674669a0247208a341e5eeb3?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Nov 26 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Strategic Commercial Real Estate Intern](https://jobright.ai/jobs/info/6746666b767ba4c245fbc3d7?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Nov 26 |
-| **[Athene](https://www.athene.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/67465c58918327a4b64d1af5?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Nov 26 |
-| **[Ansys](http://www.ansys.com)** | **[Summer 2025 Sales Intern (West Coast - Irvine, CA)](https://jobright.ai/jobs/info/67465e865876fa6ea7f38508?utm_campaign=1051&utm_source=git)** | Canonsburg, PA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
