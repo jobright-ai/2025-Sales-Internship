@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Bearkat Course-Golf Shop](https://jobright.ai/jobs/info/67490e2a0233923d3b8d9dc6?utm_campaign=1051&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Internship #164](https://jobright.ai/jobs/info/6748feca0c8608972988799c?utm_campaign=1051&utm_source=git)** | Menomonie, WI | On Site | Nov 28 |
 | ↳ | **[Retail Management Internship #175](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec1cc?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Nov 28 |
 | ↳ | **[Retail Management Internship #681](https://jobright.ai/jobs/info/6748f263a3df05a1f63ec19c?utm_campaign=1051&utm_source=git)** | St Michael, MN | On Site | Nov 28 |
@@ -69,10 +70,10 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Sales Intern](https://jobright.ai/jobs/info/67107541b31e97324d698d11?utm_campaign=1051&utm_source=git)** | Freehold, NJ | On Site | Nov 28 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - San Diego](https://jobright.ai/jobs/info/66d8d88a1ba8582d36a597fc?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 28 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[Sales Intern](https://jobright.ai/jobs/info/672b9f07ca95167292ef18a1?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 28 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/67489e15bf7c89f1239bd990?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Nov 28 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/67107541b31e97324d698d25?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Nov 28 |
 | **[Ecolab](http://www.ecolab.com)** | **[Technical Sales Internship](https://jobright.ai/jobs/info/67484cc3825dcbf98fb843f9?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 28 |
 | **[Mars](https://www.mars.com)** | **[Summer 2025 Mars Wrigley Strategic Sales Internship Newark, NJ](https://jobright.ai/jobs/info/674854b66f9ff59149e1b47a?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Nov 28 |
+| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Minneapolis](https://jobright.ai/jobs/info/66d8d88a1ba8582d36a597d9?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Nov 28 |
 | **[Myriad Genetics](http://www.myriad.com)** | **[Sales Co-op - Biotech - **Onsite Mason, Ohio Office** Spring 2025](https://jobright.ai/jobs/info/66f4cb830764ab22aa196a01?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Nov 28 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/67107541b31e97324d698d1e?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Nov 28 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Management and Sales Summer Internship- Tampa, FL](https://jobright.ai/jobs/info/66f478bff7f9c83b935ed14c?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 28 |
@@ -86,6 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6747fa64b91a45c865e48d13?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Nov 27 |
 | ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6747f73918e954fff74f2768?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Nov 27 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/6747f53ef5571486d735ab31?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Nov 27 |
+| **[RF-SMART](http://rfsmart.com/)** | **[SaaS Sales Internship- Summer 2025](https://jobright.ai/jobs/info/67492f7a3b02e7c60e9d3dec?utm_campaign=1051&utm_source=git)** | Highlands Ranch, CO | On Site | Nov 27 |
+| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Corporate Development & Ventures Summer Intern](https://jobright.ai/jobs/info/66f2629558b6548927b75627?utm_campaign=1051&utm_source=git)** | Framingham, MA | On Site | Nov 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6747cb8c39c598b73ef18d47?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 27 |
 | **[UNICO Group](http://unicogroup.com)** | **[Insurance Sales Internship](https://jobright.ai/jobs/info/6747d6b4107109ebb3a7d030?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Nov 27 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 Sales Summer Internship - Tallahassee, FL](https://jobright.ai/jobs/info/6747fa64b91a45c865e48d27?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Nov 27 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[IRONSCALES](http://ironscales.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6746c194c3bbeafbfd7b7dbd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[Synergy Fiber](https://synergyfiber.com)** | **[Sales and Marketing Associate (Intern)](https://jobright.ai/jobs/info/6746ba8a720f2013c1709bed?utm_campaign=1051&utm_source=git)** | College Station, TX | Hybrid | Nov 26 |
 | **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6746a85f28cffcc63cb28ca6?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Nov 26 |
-| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67469e0e3471b345491c71bb?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 26 |
+| **[Trumid](https://www.trumid.com)** | **[2025 Summer Intern - Sales Rotation](https://jobright.ai/jobs/info/67493818af7babdce63d0866?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Nov 26 |
+| **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67469e0e3471b345491c71bb?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2025 Summer Internship / Sales - Miami, FL & West Palm Beach, FL](https://jobright.ai/jobs/info/673e66e961b2c2d395555cc3?utm_campaign=1051&utm_source=git)** | Hollywood, FL | On Site | Nov 26 |
-| **[UiPath](https://www.uipath.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/673e65173f8b6b231d17a995?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[Global Impex USA](https://www.globalimpexusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/674671c9e820c79fe4cf481c?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 26 |
-| **[Studio71, LP](https://www.studio71.com/us)** | **[Business Development, FB Internship](https://jobright.ai/jobs/info/674669a0247208a341e5eeb3?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Nov 26 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Strategic Commercial Real Estate Intern](https://jobright.ai/jobs/info/6746666b767ba4c245fbc3d7?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
