@@ -75,18 +75,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ed1?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Dec 07 |
 | ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ed5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10ef9?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Dec 07 |
+| ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10eec?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Portfolio Executive](https://jobright.ai/jobs/info/6754747f843c3e4867c10ee1?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Dec 07 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10eda?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
-| ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10eec?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
 | ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10eeb?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Dec 07 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ede?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 07 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Portfolio Executive](https://jobright.ai/jobs/info/6754747f843c3e4867c10ed7?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Dec 07 |
-| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10ee7?utm_campaign=1051&utm_source=git)** | Orange, CA | Hybrid | Dec 07 |
 | ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ec5?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Dec 07 |
+| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10ee7?utm_campaign=1051&utm_source=git)** | Orange, CA | Hybrid | Dec 07 |
 | ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ed0?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Dec 07 |
+| ↳ | **[Intern - Capacity Portfolio Representative- Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ecd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 07 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ec4?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Dec 07 |
 | ↳ | **[Intern - Less-than-Truckload Pricing Analyst - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ec7?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
-| ↳ | **[Intern - Capacity Portfolio Representative- Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ecd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 07 |
 | ↳ | **[Intern (Capacity Portfolio Representative) - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ecc?utm_campaign=1051&utm_source=git)** | Orange, CA | Hybrid | Dec 07 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10edb?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Dec 07 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Portfolio Executive](https://jobright.ai/jobs/info/6754747f843c3e4867c10ec3?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Dec 07 |
@@ -113,6 +113,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Commercial (Fall 2025)](https://jobright.ai/jobs/info/6737363394a8f5a951823cfc?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/675416cad7e71514675d3fc0?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Dec 07 |
 | **[Syngenta Group](https://www.syngentagroup.com/)** | **[Crop Protection Sales Intern](https://jobright.ai/jobs/info/67541166e4d2db3dd9a63d2f?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Dec 06 |
+| **[ABB](https://global.abb/group/en)** | **[Sales Enablement Intern - Summer 2025](https://jobright.ai/jobs/info/6735ed9edf6a0bccded932ae?utm_campaign=1051&utm_source=git)** | New Berlin, WI | On Site | Dec 06 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6755306369d1b30d491a5366?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Dec 06 |
+| ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/67552845a656e538afac39a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 06 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Sales Executive Intern- Summer 2025](https://jobright.ai/jobs/info/6753e3ab245a63ad43af2cbf?utm_campaign=1051&utm_source=git)** | Dyersville, IA | On Site | Dec 06 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Customer Experience Business Intern](https://jobright.ai/jobs/info/6753e0fe2c710ecea1ecdbfc?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Dec 06 |
 | **[Snowflake](https://www.snowflake.com)** | **[Sales Development Representative Intern- Summer 2025](https://jobright.ai/jobs/info/6753c98329e70e3e7d944332?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 06 |
@@ -133,12 +136,12 @@ For a complete list, click the following sortable link below:
 | **[Legends](http://legends.net)** | **[Intern, Global Sales (STRATEGY)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5c8?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
 | ↳ | **[Intern, Global Sales (New Business)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5c9?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | ↳ | **[Intern, Global Sales (New Business)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5ca?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | Dec 06 |
-| ↳ | **[Intern, Global Sales (New Business)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5cb?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
 | ↳ | **[Intern, Global Sales (STRATEGY)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5cc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| ↳ | **[Intern, Global Sales (New Business)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5cb?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
 | ↳ | **[Intern, Global Sales (STRATEGY)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5cd?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | Dec 06 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754e7b2bde4798a0a23eda9?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Dec 06 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754e7b2bde4798a0a23edac?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA | On Site | Dec 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754e7b2bde4798a0a23edab?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Dec 06 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754e7b2bde4798a0a23edac?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA | On Site | Dec 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754e7b2bde4798a0a23edb4?utm_campaign=1051&utm_source=git)** | Frederick, MD | On Site | Dec 06 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Freight Brokerage Inside Sales Intern - Part Time](https://jobright.ai/jobs/info/67539ceb41bc7f37f25531e9?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Dec 06 |
 | **[Legends](http://legends.net)** | **[Intern, Global Sales (New Business)](https://jobright.ai/jobs/info/67538fb858d9b0cf50b4ec34?utm_campaign=1051&utm_source=git)** | DFW Metroplex | Remote | Dec 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754da3d899bbe185026cc15?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Dec 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754da3d899bbe185026cc1a?utm_campaign=1051&utm_source=git)** | Onalaska, WI | On Site | Dec 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754da3d899bbe185026cc19?utm_campaign=1051&utm_source=git)** | Aberdeen, SD | On Site | Dec 06 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754da3d899bbe185026cc1b?utm_campaign=1051&utm_source=git)** | Skokie, IL | On Site | Dec 06 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754da3d899bbe185026cc1e?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Dec 06 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754da3d899bbe185026cc21?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
