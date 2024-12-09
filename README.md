@@ -74,24 +74,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10ee3?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Dec 07 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10ec6?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 07 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10eca?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Dec 07 |
-| ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ee5?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Dec 07 |
 | ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ec1?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Dec 07 |
+| ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ee5?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Dec 07 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ed1?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Dec 07 |
 | ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ed5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10ef9?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Dec 07 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10eda?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
-| ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10eec?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Portfolio Executive](https://jobright.ai/jobs/info/6754747f843c3e4867c10ee1?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Dec 07 |
+| ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10eec?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
 | ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10eeb?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Dec 07 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ede?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 07 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10ee7?utm_campaign=1051&utm_source=git)** | Orange, CA | Hybrid | Dec 07 |
 | ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ec5?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Dec 07 |
+| ↳ | **[Intern - Capacity Portfolio Representative- Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ecd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 07 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ec4?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Dec 07 |
 | ↳ | **[Intern - Less-than-Truckload Pricing Analyst - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ec7?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 07 |
 | ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ed0?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Dec 07 |
-| ↳ | **[Intern - Capacity Portfolio Representative- Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ecd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 07 |
-| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10edb?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Dec 07 |
 | ↳ | **[Intern (Capacity Portfolio Representative) - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ecc?utm_campaign=1051&utm_source=git)** | Orange, CA | Hybrid | Dec 07 |
+| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10edb?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Dec 07 |
 | ↳ | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/6754747f843c3e4867c10ed4?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Dec 07 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Portfolio Executive](https://jobright.ai/jobs/info/6754747f843c3e4867c10ec3?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Dec 07 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6754747f843c3e4867c10ebe?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 07 |
@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2025)](https://jobright.ai/jobs/info/673739fea442b7ba1e466871?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Dec 07 |
 | ↳ | **[Intern/Co-op - Commercial (Fall 2025)](https://jobright.ai/jobs/info/6737363394a8f5a951823cfc?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/675416cad7e71514675d3fc0?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Dec 07 |
-| **[Syngenta Group](https://www.syngentagroup.com/)** | **[Crop Protection Sales Intern](https://jobright.ai/jobs/info/67541166e4d2db3dd9a63d2f?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Dec 06 |
 | **[ABB](https://global.abb/group/en)** | **[Sales Enablement Intern - Summer 2025](https://jobright.ai/jobs/info/6735ed9edf6a0bccded932ae?utm_campaign=1051&utm_source=git)** | New Berlin, WI | On Site | Dec 06 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6755306369d1b30d491a5366?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Dec 06 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/67552845a656e538afac39a4?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 06 |
@@ -140,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754ec5f1326cc2302b584b7?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Dec 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754ec5f1326cc2302b584b9?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
 | **[Legends](http://legends.net)** | **[Intern, Global Sales (STRATEGY)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5c8?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
-| ↳ | **[Intern, Global Sales (New Business)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5c9?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | ↳ | **[Intern, Global Sales (New Business)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5ca?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | Dec 06 |
+| ↳ | **[Intern, Global Sales (New Business)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5c9?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | ↳ | **[Intern, Global Sales (STRATEGY)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5cc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | ↳ | **[Intern, Global Sales (New Business)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5cb?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
 | ↳ | **[Intern, Global Sales (STRATEGY)](https://jobright.ai/jobs/info/6753a7e072dd018d005ae5cd?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | Dec 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Traditional Foods (Tlingit & Haida - Native Lands Div)](https://jobright.ai/jobs/info/675395ea938a78c26faf5d24?utm_campaign=1051&utm_source=git)** | Hydaburg, AK | Hybrid | Dec 06 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754da3d899bbe185026cc0d?utm_campaign=1051&utm_source=git)** | Hoover, AL | On Site | Dec 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754da3d899bbe185026cc10?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Dec 06 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6754da3d899bbe185026cc11?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
