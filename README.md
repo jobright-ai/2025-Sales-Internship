@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoetis](https://www.zoetis.com)** | **[Global Commercial ZTD Intern – Commercial Capabilities](https://jobright.ai/jobs/info/675832afb956942241d1705b?utm_campaign=1051&utm_source=git)** | US Remote | On Site | Dec 10 |
+| ↳ | **[Global Commercial ZTD Intern – Commercial Capabilities](https://jobright.ai/jobs/info/675832afb956942241d17065?utm_campaign=1051&utm_source=git)** | US Remote | On Site | Dec 10 |
+| **[Spire](https://www.spireenergy.com/)** | **[Intern, Business and Economic Dev](https://jobright.ai/jobs/info/673bd27be52d546dbcd78e41?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Dec 10 |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Sales Intern - Summer 2025](https://jobright.ai/jobs/info/673be1a4164e60b35a4cad08?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Bass Pro Shops 2025 Internship](https://jobright.ai/jobs/info/675825c079d133ee92adf25d?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Dec 10 |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[VIC/CRM Intern (Spring 2025)](https://jobright.ai/jobs/info/673bb34e85052391fd33e568?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Dec 10 |
+| **[Aptiv](http://www.aptiv.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6758259c621281a1a4610cdc?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 10 |
+| **[Syngenta Group](https://www.syngentagroup.com/)** | **[Crop Protection Sales Intern](https://jobright.ai/jobs/info/675810dc6f7dcdc3034e73ab?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Dec 09 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST HVAC Sales Intern](https://jobright.ai/jobs/info/675809b22bd17e4a7cc68f89?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Dec 09 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/6757eff2e74a64885709ec37?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 09 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Client Relations Specialist - Fast Track Opportunity to Portfolio Executive](https://jobright.ai/jobs/info/6757e39cbd4c78f71fdb6a96?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Dec 09 |
@@ -67,7 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6757b5e9b1361ea11c273679?utm_campaign=1051&utm_source=git)** | Bellevue, WA | Hybrid | Dec 09 |
 | **[Gallagher Re](https://www.capsicumre.com/)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6757b6c1306729074582c25f?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | Hybrid | Dec 09 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6757b5e9b1361ea11c27367a?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Hybrid | Dec 09 |
-| **[CivicScience](http://civicscience.com)** | **[CivicScience is hiring: Business Development Intern (Media Partnerships) in Pitt](https://jobright.ai/jobs/info/6757c1dbf76c7a05ad81ffa4?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
+| **[CivicScience](http://civicscience.com)** | **[CivicScience is hiring: Business Development Intern (Media Partnerships) in Pitt](https://jobright.ai/jobs/info/6757c1dbf76c7a05ad81ff95?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 | **[Fish Window Cleaning](https://www.fishwindowcleaning.com/)** | **[Entry Level Sales Representative / Paid Intern](https://jobright.ai/jobs/info/6757bdbda424688f7d663066?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | Dec 09 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[Private Wealth Family Office - 2025 Summer Intern](https://jobright.ai/jobs/info/6757ae0e754d305c8c7813ce?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Corporate Development (Acquisitions)](https://jobright.ai/jobs/info/6757a21ea33cd40820069372?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 09 |
@@ -113,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Financial Representative Internship](https://jobright.ai/jobs/info/67571f100581f2146ddd6da4?utm_campaign=1051&utm_source=git)** | Dawsonville, GA | On Site | Dec 09 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship - Summer](https://jobright.ai/jobs/info/6757283648aaff84e60d1988?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Dec 09 |
 | ↳ | **[Financial Representative Internship](https://jobright.ai/jobs/info/67571f100581f2146ddd6f4e?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Dec 09 |
-| **[CIBC](https://www.cibc.com)** | **[Private Wealth Family Office - 2025 Summer Intern](https://jobright.ai/jobs/info/67571b3c0942126d0a998908?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Summer 2025 Sales Intern](https://jobright.ai/jobs/info/67571b3c0942126d0a99890b?utm_campaign=1051&utm_source=git)** | Neenah, Wisconsin | On Site | Dec 09 |
+| **[CIBC](https://www.cibc.com)** | **[Private Wealth Family Office - 2025 Summer Intern](https://jobright.ai/jobs/info/67571b3c0942126d0a9989bf?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Management Internship - Long Island, NY](https://jobright.ai/jobs/info/6757116358ca103357715c4a?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Dec 09 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship Dallas](https://jobright.ai/jobs/info/67571202335821b21633ebd8?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Homestead High School Career Internship program - Spring](https://jobright.ai/jobs/info/67570b4a04700ab36f38c378?utm_campaign=1051&utm_source=git)** | CAI19: UTEC-Huntington, IN 111 E Wayne St Suite 800, Fort Wayne, IN, 46802 USA | On Site | Dec 09 |
@@ -125,9 +133,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Intern- Summer- Lawrenceville](https://jobright.ai/jobs/info/6757326a458658f178d96f65?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Dec 09 |
 | **[BlueGrace Logistics](http://www.mybluegrace.com)** | **[Carrier Sales Internship - Summer 2025 - Phoenix, AZ](https://jobright.ai/jobs/info/6733b3125b3068349c7090e4?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 09 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/67570efe2edf5c4a71ce8c44?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Dec 09 |
+| ↳ | **[Sales, Strategy, & Planning Internship](https://jobright.ai/jobs/info/67570efe2edf5c4a71ce8c45?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Dec 09 |
 | ↳ | **[Professional Development Intern](https://jobright.ai/jobs/info/67570efe2edf5c4a71ce8c47?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Dec 09 |
 | ↳ | **[Sales, Strategy & Planning Internship (Summer 2024)](https://jobright.ai/jobs/info/67570efe2edf5c4a71ce8c46?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 09 |
-| ↳ | **[Sales, Strategy, & Planning Internship](https://jobright.ai/jobs/info/67570efe2edf5c4a71ce8c45?utm_campaign=1051&utm_source=git)** | New Castle, DE | On Site | Dec 09 |
 | ↳ | **[Supply Chain Wholesale Internship (Summer 2024)](https://jobright.ai/jobs/info/67570efe2edf5c4a71ce8c48?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 09 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[E-Commerce Fraud Prevention Internship – Summer 2025](https://jobright.ai/jobs/info/67570efe2edf5c4a71ce8ab5?utm_campaign=1051&utm_source=git)** | Lititz, PA | Remote | Dec 09 |
 | **[Entegral](https://Entegral.com)** | **[Sales Management Trainee Intern- Summer- Duluth](https://jobright.ai/jobs/info/675738f8eb06b7418afcc189?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Dec 09 |
@@ -147,14 +155,6 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/67022062974723ecbd6f0ca3?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 09 |
 | **[American AgCredit](http://www.agloan.com/)** | **[Intern-Credit/Lending](https://jobright.ai/jobs/info/6756cf63b3cf1d8971670607?utm_campaign=1051&utm_source=git)** | Salinas, CA | Hybrid | Dec 09 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6756ce112a1966bbf367f659?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Commercial/Customer Strategy (Summer 2025)](https://jobright.ai/jobs/info/675814cca91cbb0e9048ebf1?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 09 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c73ad34b81eabf8c173ec1?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | Hybrid | Dec 08 |
-| **[Rolls-Royce](http://www.rolls-royce.com)** | **[Purchasing Summer Intern](https://jobright.ai/jobs/info/67568127762114a1ff4d5c61?utm_campaign=1051&utm_source=git)** | Aiken | Hybrid | Dec 08 |
-| **[USAble Life](https://www.usablelife.com)** | **[Intern - Sales & Business Support - Remote in Jacksonville, FL](https://jobright.ai/jobs/info/67566e0bf6ff962e02856451?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Remote | Dec 08 |
-| **[Versant Power](http://www.versantpower.com)** | **[INTERN - REAL ESTATE](https://jobright.ai/jobs/info/67577966070e32baa167f960?utm_campaign=1051&utm_source=git)** | Hampden, ME | On Site | Dec 08 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2025 Account Management Intern](https://jobright.ai/jobs/info/66e23b49247f205586185820?utm_campaign=1051&utm_source=git)** | Shakopee, MN | On Site | Dec 08 |
-| **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/675761011acd18cb3c7651ba?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 08 |
-| **[Splunk](https://www.splunk.com)** | **[Solutions Engineer Intern (Boulder, CO - Summer 2025)](https://jobright.ai/jobs/info/67573360a9649eb87aa5545f?utm_campaign=1051&utm_source=git)** | Colorado | On Site | Dec 08 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Sales Intern](https://jobright.ai/jobs/info/67527f92590934997eb16c72?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 08 |
-| **[BioSpace](http://www.biospace.com/)** | **[2025 Pharmaceutical Sales Externship](https://jobright.ai/jobs/info/6755c78fadc0f65b07c11b37?utm_campaign=1051&utm_source=git)** | North Chicago, IL | On Site | Dec 08 |
-| **[Giorgio Armani](http://www.armani.com)** | **[Giorgio Armani / CRM Internship: Spring 2025 / new york city, ny](https://jobright.ai/jobs/info/6755c78fadc0f65b07c11a53?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
