@@ -57,10 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Industrial Technologies - Canada](https://appliedcanada.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/67602a60f8a9ba32ae08b07a?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Dec 16 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/67602558ba55f21471ab03d3?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
+| **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/67601f785aacca50feda4d2c?utm_campaign=1051&utm_source=git)** | New York, US, New York | On Site | Dec 16 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/66efaa6adee9b86420a5fa79?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Dec 16 |
+| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/66f0030a14493850a0ca76fb?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Dec 16 |
+| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/676021ed2d2994b27d2eb43c?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Dec 16 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6760218f0d8595b5337b4442?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/676019f4eeb66444fe2b5186?utm_campaign=1051&utm_source=git)** | Bridgeport, WV | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/676019f4eeb66444fe2b518a?utm_campaign=1051&utm_source=git)** | Friendswood, TX | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/676019f4eeb66444fe2b518d?utm_campaign=1051&utm_source=git)** | St Peters, MO | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/676019f4eeb66444fe2b518e?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/676019f4eeb66444fe2b518f?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/676019f4eeb66444fe2b5191?utm_campaign=1051&utm_source=git)** | Piqua, OH | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67283c07a32709659416d078?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Dec 16 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/66ee5ac0aaf9600dd3d541f0?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Dec 16 |
+| **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/67600d4e6bbb4e1ba04f8a3e?utm_campaign=1051&utm_source=git)** | Georgia, United States | On Site | Dec 16 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/67600d4e6bbb4e1ba04f8a3c?utm_campaign=1051&utm_source=git)** | Missouri, United States | On Site | Dec 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/675ff01e1816de91ac0fc36a?utm_campaign=1051&utm_source=git)** | Mountain View City Hall | On Site | Dec 16 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Internship](https://jobright.ai/jobs/info/675f66e0b7c3a7c6cb1f79da?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Dec 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6742703442ab868e52e283cf?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Dec 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6743109ec45bb549c28c665c?utm_campaign=1051&utm_source=git)** | Ridgeland, MS | On Site | Dec 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/674358b6c71498036908df83?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Dec 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6743109ec45bb549c28c6654?utm_campaign=1051&utm_source=git)** | Orange Park, FL | On Site | Dec 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67429856469aad400c0a305b?utm_campaign=1051&utm_source=git)** | Medford, OR | On Site | Dec 15 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2025 - Orlando, FL](https://jobright.ai/jobs/info/67253603f600f026c1f341c1?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Dec 15 |
@@ -74,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/674267a146145fa7b6688d31?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Dec 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Buyer](https://jobright.ai/jobs/info/6741c467f0de61dff6d3df0a?utm_campaign=1051&utm_source=git)** | Poway, CA | On Site | Dec 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67429856469aad400c0a3047?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Dec 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6743109ec45bb549c28c6603?utm_campaign=1051&utm_source=git)** | Ashland, KY | On Site | Dec 15 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- New York City (Brooklyn)](https://jobright.ai/jobs/info/6709b12e242cba51dd88486a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[Ecolab](http://www.ecolab.com)** | **[Sales Development Program Internship](https://jobright.ai/jobs/info/66ec6c09611da98b4c5a335b?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 15 |
 | ↳ | **[Technical Sales Internship](https://jobright.ai/jobs/info/66ec6c09611da98b4c5a3346?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 15 |
@@ -111,6 +130,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/674322e04e6e372add55a677?utm_campaign=1051&utm_source=git)** | Stockton, CA | On Site | Dec 14 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative (Temperature Control) - Summer 2025](https://jobright.ai/jobs/info/67076b041d5e21bd90a6f73f?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Dec 14 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/6707c6f7129598fd355b0a59?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 14 |
+| **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Kent State University](https://jobright.ai/jobs/info/66fbe811ad63c8f1709df966?utm_campaign=1051&utm_source=git)** | Kent, OH | On Site | Dec 14 |
 | **[Ecolab](http://www.ecolab.com)** | **[Technical Sales Internship](https://jobright.ai/jobs/info/66ec7ba3c413563debb50347?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 14 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/66fc68b309764d7a809d4381?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Dec 14 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Management and Sales Summer Internship](https://jobright.ai/jobs/info/6709b12e242cba51dd8848d5?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Dec 14 |
@@ -137,24 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Foodservice Channel Sales/Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/674157a2beacf96c4df537e3?utm_campaign=1051&utm_source=git)** | White Marsh Station, MD | Hybrid | Dec 14 |
 | **[EnergySage](http://www.energysage.com)** | **[Marketplace Intern (Spring 2025)](https://jobright.ai/jobs/info/6740ca28a9c970781c48c841?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Dec 14 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/66ee5ac0aaf9600dd3d5427b?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Dec 14 |
-| **[Ecolab](http://www.ecolab.com)** | **[Sales Development Program Internship](https://jobright.ai/jobs/info/66ec6c09611da98b4c5a3297?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 14 |
-| ↳ | **[Sales Development Program Internship](https://jobright.ai/jobs/info/66ec7ba3c413563debb50343?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 14 |
-| ↳ | **[Sales Development Program Internship](https://jobright.ai/jobs/info/66ec7ba3c413563debb5034a?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Dec 14 |
-| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/6724074b4abfffbd2d3b4267?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Dec 14 |
-| **[EyeMed Vision Care](https://gethealth24.com/buy-sight-care/)** | **[EyeMed Account Management Summer 2025 Intern](https://jobright.ai/jobs/info/671f3d7e001e2de68edce542?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Dec 14 |
-| **[ADP](http://www.adp.com)** | **[Winter Sales Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6bb1?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 14 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Intern](https://jobright.ai/jobs/info/67414809264f95f458007980?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 14 |
-| ↳ | **[Management and Sales Internship- San Antonio](https://jobright.ai/jobs/info/66ec78ae2e0338c647d01633?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Dec 14 |
-| **[Financial Times](http://ft.com)** | **[Advertising Sales Summer Intern](https://jobright.ai/jobs/info/674973e29a71c8abf49863d1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 14 |
-| **[PTC](http://www.ptc.com)** | **[Arena Sales Operations Intern](https://jobright.ai/jobs/info/6725600e586f7923dc486b0d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 14 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part Time Sales Intern - Spring 2025 Semester Start](https://jobright.ai/jobs/info/675d6b29167e5c5ef971c3c1?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | Hybrid | Dec 14 |
-| **[Brother USA](https://brother-usa.com)** | **[Inside Sales Prospecting (Public Sector) Intern – Summer 2025 Internship Program](https://jobright.ai/jobs/info/6752c8538ec36f832aeba6da?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 14 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Internship- Texas Coast](https://jobright.ai/jobs/info/66ec78ae2e0338c647d01650?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Dec 14 |
-| **[Moody's Corporation](www.moodys.com)** | **[Customer Success Summer Internship](https://jobright.ai/jobs/info/6740f6724c6a74ed354c87f2?utm_campaign=1051&utm_source=git)** | Hoboken, NJ | On Site | Dec 14 |
-| **[Syngenta Group](https://www.syngentagroup.com/)** | **[Crop Protection Sales Intern](https://jobright.ai/jobs/info/675d4f059ef583a6f2d3e27d?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Dec 13 |
-| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Partnerships Intern](https://jobright.ai/jobs/info/675008076a0cd6e06cb61df3?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 13 |
-| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[2025 Internship Program - Fragrance Development Intern - New York, NY](https://jobright.ai/jobs/info/674055a58fda03530576f0c6?utm_campaign=1051&utm_source=git)** | Queens County, NY | On Site | Dec 13 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6740112c69699fd38edb9d75?utm_campaign=1051&utm_source=git)** | Vestavia Hills, AL | On Site | Dec 13 |
-| **[Social High Rise](https://socialhighrise.com)** | **[Inside Sales Intern - SPRING 2025](https://jobright.ai/jobs/info/675d1a38723ab0adf62a10eb?utm_campaign=1051&utm_source=git)** | Chico, CA | On Site | Dec 13 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Channel Sales Intern](https://jobright.ai/jobs/info/675f9f97d988d041554bb738?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
