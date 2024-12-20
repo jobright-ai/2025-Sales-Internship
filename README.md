@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Commercial and CX Intern (Early Careers)](https://jobright.ai/jobs/info/6764db5253b4f7c7695a6110?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 19 |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Sales and Reporting Intern](https://jobright.ai/jobs/info/6764d3fb7cfb6d4f33324940?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - E-Commerce Designer - Moline, IL](https://jobright.ai/jobs/info/6764c692db6a3318d0cf2172?utm_campaign=1051&utm_source=git)** | Moline, IL | Hybrid | Dec 19 |
+| **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Education (SHI)](https://jobright.ai/jobs/info/6764c9262515819128a764ed?utm_campaign=1051&utm_source=git)** | Sealaska Heritage Institute, Juneau, Alaska, United States of America | On Site | Dec 19 |
+| **[Oxfam America](http://www.oxfamamerica.org/)** | **[Intern, Individual Giving and Engagement Team](https://jobright.ai/jobs/info/6764bd0ce5a3a932f100f163?utm_campaign=1051&utm_source=git)** | Boston, MA, USA | On Site | Dec 19 |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Proposal Management Intern](https://jobright.ai/jobs/info/6764c6b4d18324dfc2372cac?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Dec 19 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6764c6b4d18324dfc2372db3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 19 |
+| **[Fairview Health Services](http://www.fairview.org/)** | **[Pharmacy Intern - Retail; 1st Year](https://jobright.ai/jobs/info/6764cba73ac09376bd2ba398?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 19 |
+| **[Boll & Branch](https://www.bollandbranch.com)** | **[Business Development & Partnerships Intern](https://jobright.ai/jobs/info/6764b358de5de22bcf91b9aa?utm_campaign=1051&utm_source=git)** | Summit, NJ | Hybrid | Dec 19 |
+| **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Education (SHI)](https://jobright.ai/jobs/info/6764bba662795f5ff50cc3b1?utm_campaign=1051&utm_source=git)** | Juneau, AK | On Site | Dec 19 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6764a68f7b2b1922f206582f?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Dec 19 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[U.S. Institutional Sales - Undergrad Intern](https://jobright.ai/jobs/info/6764a435afbb90e249eb68bc?utm_campaign=1051&utm_source=git)** | New York, New York, United States of America | On Site | Dec 19 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[SALES SUPPORT - PAID INTERNSHIP](https://jobright.ai/jobs/info/6764a8eeb4e76ee02d6121ee?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Dec 19 |
@@ -66,13 +76,18 @@ For a complete list, click the following sortable link below:
 | **[Graybar](http://www.graybar.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/6764a13e822e7be8e35c8a7f?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Dec 19 |
 | ↳ | **[Summer 2025 Intern](https://jobright.ai/jobs/info/67649b75c5792d74f76b3cf3?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 19 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Loyalty Intern](https://jobright.ai/jobs/info/6764a3b7f50accb7ad722683?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Dec 19 |
-| **[Boll & Branch](https://www.bollandbranch.com)** | **[Business Development & Partnerships Intern](https://jobright.ai/jobs/info/67649312ec6af0003766c566?utm_campaign=1051&utm_source=git)** | Summit, NJ | Hybrid | Dec 19 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Ft. Worth](https://jobright.ai/jobs/info/67649d2a598961c42a95db55?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Dec 19 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Tulsa](https://jobright.ai/jobs/info/6764be234d3c7c49633fe8e7?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Ft. Worth](https://jobright.ai/jobs/info/67649d2a598961c42a95db55?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Sacramento](https://jobright.ai/jobs/info/67649d2a598961c42a95db54?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Dec 19 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Chicago Loop](https://jobright.ai/jobs/info/67649d2a598961c42a95db81?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Silicon Valley](https://jobright.ai/jobs/info/67649d2a598961c42a95db8a?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Chicago Loop](https://jobright.ai/jobs/info/67649d2a598961c42a95db81?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Salt Lake City](https://jobright.ai/jobs/info/6764c692db6a3318d0cf2148?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Oklahoma City](https://jobright.ai/jobs/info/6764c692db6a3318d0cf214b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - New Orleans](https://jobright.ai/jobs/info/6764c692db6a3318d0cf2156?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Dallas](https://jobright.ai/jobs/info/6764c692db6a3318d0cf2158?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 19 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Anaheim, CA  (Starting Summer 2025)](https://jobright.ai/jobs/info/6764b768f1bf9e385dcf03d2?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Hybrid | Dec 19 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Austin](https://jobright.ai/jobs/info/676492a07357e7064d3ce0cf?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 19 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Chicago West](https://jobright.ai/jobs/info/6764d36ce04f943f1a1435c8?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Austin](https://jobright.ai/jobs/info/676492a07357e7064d3ce0cf?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Portland](https://jobright.ai/jobs/info/676492a07357e7064d3ce0df?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Houston](https://jobright.ai/jobs/info/676492a07357e7064d3ce11e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - San Francisco](https://jobright.ai/jobs/info/676492a07357e7064d3ce0f7?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 19 |
@@ -115,12 +130,12 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2025](https://jobright.ai/jobs/info/6710f4875b89768bf6b27a85?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Dec 19 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Ryder Rental Sales Internship](https://jobright.ai/jobs/info/67643d2ede758cb55f9b95dc?utm_campaign=1051&utm_source=git)** | USA - Forest Park GA 30297 | On Site | Dec 19 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Columbus](https://jobright.ai/jobs/info/67644a801dbe6beec263e2a1?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 19 |
-| ↳ | **[Summer Jr. Executive Sales Intern - St. Louis](https://jobright.ai/jobs/info/67644a801dbe6beec263e2ab?utm_campaign=1051&utm_source=git)** | Clayton, MO | On Site | Dec 19 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/67644a801dbe6beec263e2bb?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/67644a801dbe6beec263e299?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 19 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/67644a801dbe6beec263e2ac?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern -Los Angeles](https://jobright.ai/jobs/info/67644a801dbe6beec263e28d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/67644a801dbe6beec263e2bb?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - St. Louis](https://jobright.ai/jobs/info/67644a801dbe6beec263e2ab?utm_campaign=1051&utm_source=git)** | Clayton, MO | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Denver](https://jobright.ai/jobs/info/67644a801dbe6beec263e2be?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/67644a801dbe6beec263e2ac?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Dec 19 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Waco, TX](https://jobright.ai/jobs/info/676448d2c2fc44fee8af673f?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Dec 19 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - New Jersey](https://jobright.ai/jobs/info/676437abd2437c9a29dcd503?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Detroit](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8ed?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 19 |
@@ -128,33 +143,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Pasadena](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8e6?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - South Jersey](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8db?utm_campaign=1051&utm_source=git)** | Mt. Laurel, NJ | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Indianapolis](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8e0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Dec 19 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8e3?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern -Orange County Irvine](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8f1?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - San Diego](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8de?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8d3?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8e3?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Dec 19 |
 | ↳ | **[Summer Jr. Executive Sales Intern -Las Vegas](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8d2?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 19 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/6764462f6ff0cdc52412764b?utm_campaign=1051&utm_source=git)** | Pennsauken, NJ | On Site | Dec 19 |
 | **[Voya Financial](https://www.voya.com/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/67642abc97d05b8ffa3e11af?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Dec 19 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Intern](https://jobright.ai/jobs/info/6763f9351a5f8c0c2a67e3db?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 19 |
 | **[SAP](https://www.sap.com)** | **[SAP SuccessFactors iXp Intern - Data Analytics and Operations](https://jobright.ai/jobs/info/6763cc794fd203977cf40df6?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6763cedb1df6f2422ace91cd?utm_campaign=1051&utm_source=git)** | Suwanee, GA | On Site | Dec 18 |
 | **[Gallagher](http://www.ajg.com)** | **[Gallagher Partnership Internship Program](https://jobright.ai/jobs/info/6763a868c215a26453dc3fd1?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Dec 18 |
-| ↳ | **[Gallagher Partnership Internship Program](https://jobright.ai/jobs/info/6763963587df174a91f64ec1?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 18 |
 | ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/676398af411bcf109df07098?utm_campaign=1051&utm_source=git)** | Little Rock, AR | Hybrid | Dec 18 |
+| ↳ | **[Gallagher Partnership Internship Program](https://jobright.ai/jobs/info/6763963587df174a91f64ec1?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 18 |
 | ↳ | **[Gallagher Partnership Internship Program](https://jobright.ai/jobs/info/6763963587df174a91f64f2d?utm_campaign=1051&utm_source=git)** | Brentwood, TN | Hybrid | Dec 18 |
 | ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67639305beded7e6506b6233?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Dec 18 |
-| **[JLS Trading Co.](https://www.jlstradingco.com/)** | **[High-Growth Technical VA / Paid Amazon PPC Apprenticeship @ Fun Ecom Co](https://jobright.ai/jobs/info/6763a0d86687020ea3511ea6?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Dec 18 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Stamford](https://jobright.ai/jobs/info/67639f1241f242f7d376d79c?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Miami](https://jobright.ai/jobs/info/67639f1241f242f7d376d7b1?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Tampa](https://jobright.ai/jobs/info/67639f1241f242f7d376d7ff?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - New England](https://jobright.ai/jobs/info/67639f1241f242f7d376d7bb?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Cincinnati](https://jobright.ai/jobs/info/67639f1241f242f7d376d7ab?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Rochester](https://jobright.ai/jobs/info/67639f1241f242f7d376d7aa?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Nashville](https://jobright.ai/jobs/info/676390d58de402f5081c530d?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - New York FiDi](https://jobright.ai/jobs/info/676390d58de402f5081c52fa?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Jacksonville](https://jobright.ai/jobs/info/676390d58de402f5081c52f4?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - DC](https://jobright.ai/jobs/info/67639305beded7e6506b61f3?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - New York City](https://jobright.ai/jobs/info/67639305beded7e6506b6205?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Atlanta North](https://jobright.ai/jobs/info/67639305beded7e6506b61cf?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Atlanta Buckhead](https://jobright.ai/jobs/info/67639305beded7e6506b6230?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
