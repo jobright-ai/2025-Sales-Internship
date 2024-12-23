@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba117?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 21 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6767cdfb79abdf9aee8e2cc5?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 21 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2025 - Industry & Sales](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba18f?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Dec 21 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Commercial - Market Access Strategy, Oncology](https://jobright.ai/jobs/info/673bb13fa8dcabe18128e9f3?utm_campaign=1051&utm_source=git)** | Foster City, CA | On Site | Dec 21 |
 | **[Talbots](http://www.talbots.com)** | **[Summer 2025 Retail Internship](https://jobright.ai/jobs/info/6767274294392919d360adca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 21 |
 | **[Radio Flyer](http://radioflyer.com)** | **[E-Commerce Sales Intern - Summer 2025](https://jobright.ai/jobs/info/67673fa00cd691df893358b0?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 21 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/66d8d88a1ba8582d36a597c8?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 21 |
@@ -103,9 +104,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Branch Administration Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a8205ab?utm_campaign=1051&utm_source=git)** | 288 Union St, Rockland, MA, 02370, US | On Site | Dec 20 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/676607ec233c3bb0273e1e76?utm_campaign=1051&utm_source=git)** | Northborough, MA | Hybrid | Dec 20 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[US Sales Strategy & Enablement - Undergrad Intern](https://jobright.ai/jobs/info/6765e74e732bd1a70eb79921?utm_campaign=1051&utm_source=git)** | Rancho Cordova, California, United States of America | On Site | Dec 20 |
-| ↳ | **[Retirement, Insurance, & 529 - Undergrad Intern](https://jobright.ai/jobs/info/6765e74e732bd1a70eb79931?utm_campaign=1051&utm_source=git)** | St. Petersburg, Florida, United States of America | On Site | Dec 20 |
 | ↳ | **[Retirement, Insurance, & 529 - Undergrad Intern](https://jobright.ai/jobs/info/6765e74e732bd1a70eb79932?utm_campaign=1051&utm_source=git)** | USA-BOS100-Boston | On Site | Dec 20 |
 | ↳ | **[Retirement, Insurance, & 529 - Undergrad Intern](https://jobright.ai/jobs/info/6765e74e732bd1a70eb79933?utm_campaign=1051&utm_source=git)** | New York, New York, United States of America | On Site | Dec 20 |
+| ↳ | **[Retirement, Insurance, & 529 - Undergrad Intern](https://jobright.ai/jobs/info/6765e74e732bd1a70eb79931?utm_campaign=1051&utm_source=git)** | St. Petersburg, Florida, United States of America | On Site | Dec 20 |
 | ↳ | **[Retirement, Insurance, & 529 - Undergrad Intern](https://jobright.ai/jobs/info/6765e74e732bd1a70eb7991d?utm_campaign=1051&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Dec 20 |
 | **[XPO](https://www.xpo.com)** | **[Intern - Sales Operation](https://jobright.ai/jobs/info/6765f1026e5f0c50725a8ac3?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Dec 20 |
 | ↳ | **[Intern - Sales Operation](https://jobright.ai/jobs/info/6765f1026e5f0c50725a8b51?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Dec 20 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[CompanyCam](https://www.companycam.com)** | **[Customer Retention Specialist Intern](https://jobright.ai/jobs/info/6765d5b1681fd7ee4fc18be7?utm_campaign=1051&utm_source=git)** | Lincoln, NE or Remote (U.S.) | Remote | Dec 20 |
 | **[Element Biosciences](https://www.elementbiosciences.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6765d5b1681fd7ee4fc18c0c?utm_campaign=1051&utm_source=git)** | San Diego - Headquarters | On Site | Dec 20 |
 | **[Conexus Credit Union](https://www.conexus.ca/Business/)** | **[Summer Student - Financial Services Representative](https://jobright.ai/jobs/info/67664d6df50c045a3b910678?utm_campaign=1051&utm_source=git)** | Humboldt, IA | On Site | Dec 20 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6765f7857597ae3b8f279f3d?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Dec 20 |
 | **[The Variable](https://thevariable.com/)** | **[Growth & Operations Intern](https://jobright.ai/jobs/info/6765cf457e28baf35cbd8f48?utm_campaign=1051&utm_source=git)** | Triad Area | On Site | Dec 20 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/6765e221c2db5c63796e625b?utm_campaign=1051&utm_source=git)** | Charleston, SC | Hybrid | Dec 20 |
 | **[The Variable](https://thevariable.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/6765cf457e28baf35cbd8f66?utm_campaign=1051&utm_source=git)** | Triad Area | On Site | Dec 20 |
@@ -132,10 +132,10 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Connecticut](https://jobright.ai/jobs/info/6765c38b19f4f1aa339d2594?utm_campaign=1051&utm_source=git)** | Wallingford, CT | On Site | Dec 20 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/67664d2f7514e1885799a6ff?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Dec 20 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6765cb630789f736863d134e?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 20 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6765cb630789f736863d1338?utm_campaign=1051&utm_source=git)** | SeaTac, WA | Hybrid | Dec 20 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6765cb630789f736863d133c?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Dec 20 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6765cb630789f736863d1334?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6765cb630789f736863d1338?utm_campaign=1051&utm_source=git)** | SeaTac, WA | Hybrid | Dec 20 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6765cb630789f736863d1351?utm_campaign=1051&utm_source=git)** | Annapolis, MD | Hybrid | Dec 20 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6765cb630789f736863d1334?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6765cb630789f736863d1336?utm_campaign=1051&utm_source=git)** | Madison, WI | Hybrid | Dec 20 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6765cb630789f736863d1339?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Hybrid | Dec 20 |
 | **[Evolv Technology](http://www.evolvtechnology.com)** | **[Corporate Development Intern (Summer '25)](https://jobright.ai/jobs/info/6765bd6bdd8bfa76dab02656?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Dec 20 |
@@ -144,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[PSC Biotech Corporation](http://biotech.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/672ac57816ae4835afbfd15e?utm_campaign=1051&utm_source=git)** | York, PA | On Site | Dec 20 |
 | **[WM](https://www.wm.com/)** | **[Intern - Residential Sales](https://jobright.ai/jobs/info/6765b86a630721dffc3e0d0d?utm_campaign=1051&utm_source=git)** | Plymouth, MI | Hybrid | Dec 20 |
 | **[Multivista](http://www.multivista.com/)** | **[Inside Sales Representative - Intern](https://jobright.ai/jobs/info/6765aac2085e798ceeadedef?utm_campaign=1051&utm_source=git)** | Issaquah, WA | Hybrid | Dec 20 |
-| **[S&P Global](https://www.spglobal.com)** | **[Polk Automotive Solution Sales Intern (Early Careers)](https://jobright.ai/jobs/info/6765a9220739d678a0556472?utm_campaign=1051&utm_source=git)** | Michigan, US | On Site | Dec 20 |
-| ↳ | **[Polk Auto Solutions Customer Success Intern (Early Careers)](https://jobright.ai/jobs/info/6765a9220739d678a0556471?utm_campaign=1051&utm_source=git)** | Michigan, US | On Site | Dec 20 |
+| **[S&P Global](https://www.spglobal.com)** | **[Polk Auto Solutions Customer Success Intern (Early Careers)](https://jobright.ai/jobs/info/6765a9220739d678a0556450?utm_campaign=1051&utm_source=git)** | Michigan, US | On Site | Dec 20 |
+| ↳ | **[Polk Automotive Solution Sales Intern (Early Careers)](https://jobright.ai/jobs/info/6765a9220739d678a0556472?utm_campaign=1051&utm_source=git)** | Michigan, US | On Site | Dec 20 |
 | **[Global Partners LP](http://www.globalp.com)** | **[Retail Pricing Intern](https://jobright.ai/jobs/info/6765aebfb68df18d3bea3a55?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Dec 20 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's Internship Program - Merchandising, Herald Square - Full Time](https://jobright.ai/jobs/info/6765a5ad7aa1385786227e48?utm_campaign=1051&utm_source=git)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Dec 20 |
 | **[WM](https://www.wm.com/)** | **[Intern - Residential Sales](https://jobright.ai/jobs/info/6765a5ad7aa1385786227e29?utm_campaign=1051&utm_source=git)** | 41100 PLYMOUTH RD STE 170, PLYMOUTH, MI, 48170, US | Hybrid | Dec 20 |
