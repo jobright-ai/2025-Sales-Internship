@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trumid](https://www.trumid.com)** | **[2025 Summer Intern - Sales Rotation](https://jobright.ai/jobs/info/67493818af7babdce63d0866?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Dec 24 |
+| **[Deutsche Bank](https://www.db.com)** | **[Deutsche Bank Internship Program - Investment Bank: Origination and Advisory - New York 2026](https://jobright.ai/jobs/info/674deb5aa4c1936c9214b6c1?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
+| **[Lufthansa Technik Component Services](http://ltcs.com)** | **[Intern Business Development & Digital Strategy](https://jobright.ai/jobs/info/676a85a18d3e000b9b4bcd78?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Dec 24 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Healthcare Market (HCM) Sales Intern - Mid-Atlantic](https://jobright.ai/jobs/info/676a8619c8973310fec5f02c?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Dec 24 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676a77a39c0e81fa32baa5a7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 24 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Summer Intern, Open Innovation, Visual Display Partnerships](https://jobright.ai/jobs/info/676a40ac6ef5f92908eb2711?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Dec 23 |
 | ↳ | **[2025 Summer Intern, Open Innovation, Partnerships](https://jobright.ai/jobs/info/676a40ac6ef5f92908eb271b?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Dec 23 |
@@ -66,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Business Development Intern - Summer 2025](https://jobright.ai/jobs/info/676a3707863d720902c9d33b?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Dec 23 |
 | **[Little Words Project](https://littlewordsproject.com/)** | **[Wholesale Team Summer Intern](https://jobright.ai/jobs/info/676a1ca975c73be8bf65227c?utm_campaign=1051&utm_source=git)** | Mountainside, NJ | On Site | Dec 23 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Asset & Wealth Management Global Private Bank LatAm Summer Associate Program](https://jobright.ai/jobs/info/66c0d149f1bc29b2dd299d49?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Summer Intern, Open Innovation, Visual Display Partnerships](https://jobright.ai/jobs/info/676a0013fe7652095af7ccc3?utm_campaign=1051&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Dec 23 |
-| ↳ | **[2025 Summer Intern, Open Innovation, Partnerships](https://jobright.ai/jobs/info/676a0013fe7652095af7ccbd?utm_campaign=1051&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Dec 23 |
+| **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Summer Intern, Open Innovation, Partnerships](https://jobright.ai/jobs/info/676a0013fe7652095af7ccbd?utm_campaign=1051&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Dec 23 |
+| ↳ | **[2025 Summer Intern, Open Innovation, Visual Display Partnerships](https://jobright.ai/jobs/info/676a0013fe7652095af7ccc3?utm_campaign=1051&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Dec 23 |
 | **[Global Partners LP](http://www.globalp.com)** | **[National Wholesale Intern](https://jobright.ai/jobs/info/676a14c0df4334b14c493ba7?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Dec 23 |
 | ↳ | **[Wholesale Intern](https://jobright.ai/jobs/info/676a14c0df4334b14c493bdd?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Dec 23 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Store Planning & Allocation Intern - Summer 2025](https://jobright.ai/jobs/info/6769f3551d484916f87fe4a9?utm_campaign=1051&utm_source=git)** | Anaheim, CA | Hybrid | Dec 23 |
@@ -75,50 +79,50 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Merchandise Planning Intern - Summer 2025](https://jobright.ai/jobs/info/6769eede74cf3b18c5a83fee?utm_campaign=1051&utm_source=git)** | Anaheim, CA | Hybrid | Dec 23 |
 | ↳ | **[Store Operations Intern - Summer 2025](https://jobright.ai/jobs/info/6769eede74cf3b18c5a8415f?utm_campaign=1051&utm_source=git)** | Anaheim, CA | Hybrid | Dec 23 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Forecast Analyst](https://jobright.ai/jobs/info/6769eb44e2c74c27807c15e3?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Dec 23 |
-| **[Graco](http://graco.com/in/en/)** | **[Field Sales Intern - Atlanta](https://jobright.ai/jobs/info/6769e5f5334f131b93092969?utm_campaign=1051&utm_source=git)** | Atlanta, Georgia, USA | On Site | Dec 23 |
-| ↳ | **[Field Sales Intern - Dallas](https://jobright.ai/jobs/info/6769e5f5334f131b93092964?utm_campaign=1051&utm_source=git)** | Dallas, Texas, USA | On Site | Dec 23 |
+| **[Graco](http://graco.com/in/en/)** | **[Field Sales Intern - Atlanta](https://jobright.ai/jobs/info/6769e5f5334f131b93092961?utm_campaign=1051&utm_source=git)** | Atlanta, Georgia, USA | On Site | Dec 23 |
 | ↳ | **[Field Sales Intern - Lexington](https://jobright.ai/jobs/info/6769e5f5334f131b93092966?utm_campaign=1051&utm_source=git)** | Kentucky, USA | On Site | Dec 23 |
+| ↳ | **[Field Sales Intern - Dallas](https://jobright.ai/jobs/info/6769e5f5334f131b93092964?utm_campaign=1051&utm_source=git)** | Dallas, Texas, USA | On Site | Dec 23 |
 | ↳ | **[Field Sales Intern - Ocala/Gainesville, FL](https://jobright.ai/jobs/info/6769e5f5334f131b93092973?utm_campaign=1051&utm_source=git)** | Florida, USA | On Site | Dec 23 |
 | ↳ | **[Field Sales Intern - Seattle](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c05?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Dallas](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2bff?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Austin/San Antonio](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c0c?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Dec 23 |
-| ↳ | **[Field Sales Intern - Denver](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c07?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Phoenix](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c00?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Dec 23 |
+| ↳ | **[Field Sales Intern - Denver](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c07?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Atlanta](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c1d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Chicago](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c09?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Portland](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c1b?utm_campaign=1051&utm_source=git)** | Portland, OR | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - St. Louis MO](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c0f?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Hartford CT](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c0d?utm_campaign=1051&utm_source=git)** | Hartford, CT | Remote | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[AWS Sales Representative Intern, Worldwide Public Sector, Spanish/Portuguese, Global Lead Development - Worldwide Public Sector](https://jobright.ai/jobs/info/6769e31c98d3344138d7ba4d?utm_campaign=1051&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 23 |
-| ↳ | **[AWS Sales Representative Intern, Public Sector, Global Lead Development - Worldwide Public Sector](https://jobright.ai/jobs/info/6769e31c98d3344138d7ba4c?utm_campaign=1051&utm_source=git)** | Austin, Texas, USA | On Site | Dec 23 |
 | ↳ | **[AWS Sales Representative Intern, Public Sector, Global Lead Development - Worldwide Public Sector](https://jobright.ai/jobs/info/6769e31c98d3344138d7bb2b?utm_campaign=1051&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 23 |
+| ↳ | **[AWS Sales Representative Intern, Public Sector, Global Lead Development - Worldwide Public Sector](https://jobright.ai/jobs/info/6769e31c98d3344138d7ba4c?utm_campaign=1051&utm_source=git)** | Austin, Texas, USA | On Site | Dec 23 |
 | **[Graco](http://graco.com/in/en/)** | **[Field Sales Intern - Minneapolis](https://jobright.ai/jobs/info/6769df82f084906ddbf863dd?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Lexington](https://jobright.ai/jobs/info/6769df82f084906ddbf863cd?utm_campaign=1051&utm_source=git)** | Kentucky, United States | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Ocala/Gainesville, FL](https://jobright.ai/jobs/info/6769e530cbca5f4d8925dae5?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Los Angeles](https://jobright.ai/jobs/info/6769e530cbca5f4d8925dacf?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - Chicago](https://jobright.ai/jobs/info/6769df82f084906ddbf863d4?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Dec 23 |
-| ↳ | **[Field Sales Intern - Denver](https://jobright.ai/jobs/info/6769df82f084906ddbf863d3?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Dec 23 |
 | ↳ | **[Field Sales Intern - New Jersey](https://jobright.ai/jobs/info/6769df82f084906ddbf863d7?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Remote | Dec 23 |
+| ↳ | **[Field Sales Intern - Denver](https://jobright.ai/jobs/info/6769df82f084906ddbf863d3?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Dec 23 |
 | **[New York Power Authority](http://www.nypa.gov)** | **[Project and Business Development, Developmental Intern](https://jobright.ai/jobs/info/6769e0a5b216aafa8031e1d9?utm_campaign=1051&utm_source=git)** | White Plains, NY | On Site | Dec 23 |
 | **[The AZEK Company](https://azekco.com/)** | **[Inside Sales Intern- Azek](https://jobright.ai/jobs/info/6769e530cbca5f4d8925dae4?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 23 |
 | **[Graco](http://graco.com/in/en/)** | **[Field Sales Intern - Denver](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9dc?utm_campaign=1051&utm_source=git)** | Colorado, USA | On Site | Dec 23 |
 | ↳ | **[Field Sales Intern - New Jersey](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9c2?utm_campaign=1051&utm_source=git)** | New Jersey, USA | On Site | Dec 23 |
 | ↳ | **[Field Sales Intern - Phoenix](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9b1?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona, USA | On Site | Dec 23 |
-| ↳ | **[Field Sales Intern -  Austin/San Antonio](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9ee?utm_campaign=1051&utm_source=git)** | Austin, Texas, USA | On Site | Dec 23 |
+| ↳ | **[Field Sales Intern - Portland](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9bd?utm_campaign=1051&utm_source=git)** | Portland, Oregon, USA | On Site | Dec 23 |
 | ↳ | **[Field Sales Intern - Hartford CT](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9c1?utm_campaign=1051&utm_source=git)** | Hartford, Connecticut, USA | On Site | Dec 23 |
 | ↳ | **[Field Sales Intern - Seattle](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9d1?utm_campaign=1051&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 23 |
-| ↳ | **[Field Sales Intern - St. Louis MO](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9bc?utm_campaign=1051&utm_source=git)** | St. Louis, Missouri, USA | On Site | Dec 23 |
 | ↳ | **[Field Sales Intern - Chicago](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9b8?utm_campaign=1051&utm_source=git)** | Illinois, USA | On Site | Dec 23 |
-| ↳ | **[Field Sales Intern - Portland](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9bd?utm_campaign=1051&utm_source=git)** | Portland, Oregon, USA | On Site | Dec 23 |
-| ↳ | **[Field Sales Intern - Los Angeles](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9c3?utm_campaign=1051&utm_source=git)** | Los Angeles, California, USA | On Site | Dec 23 |
+| ↳ | **[Field Sales Intern -  Austin/San Antonio](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9ee?utm_campaign=1051&utm_source=git)** | Austin, Texas, USA | On Site | Dec 23 |
+| ↳ | **[Field Sales Intern - St. Louis MO](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9bc?utm_campaign=1051&utm_source=git)** | St. Louis, Missouri, USA | On Site | Dec 23 |
 | ↳ | **[Field Sales Intern - Minneapolis](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9e7?utm_campaign=1051&utm_source=git)** | Minneapolis, Minnesota, USA | On Site | Dec 23 |
+| ↳ | **[Field Sales Intern - Los Angeles](https://jobright.ai/jobs/info/6769d789d1c3bd73f368f9c3?utm_campaign=1051&utm_source=git)** | Los Angeles, California, USA | On Site | Dec 23 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Renewal Representative Intern](https://jobright.ai/jobs/info/676a21facd51ae5a98b8f6c8?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Dec 23 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd563?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Dec 23 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Lead Development Representative Intern](https://jobright.ai/jobs/info/676a77a39c0e81fa32baa5b1?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Dec 23 |
 | **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Intern - Mergers and Acquisitions (Summer 2025)](https://jobright.ai/jobs/info/6769c76b31b928f984025e30?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 23 |
 | **[Little Words Project](https://littlewordsproject.com/)** | **[Wholesale Team Summer Intern](https://jobright.ai/jobs/info/6769c4fcce959d15cde3f30e?utm_campaign=1051&utm_source=git)** | Mountainside, NJ | On Site | Dec 23 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Automotive OEM Sales and Marketing Intern](https://jobright.ai/jobs/info/6769d2a2648f6b58fd42687e?utm_campaign=1051&utm_source=git)** | Olathe, KS | On Site | Dec 23 |
-| **[Feeding America](http://feedingamerica.org)** | **[Partner State Association Operations Intern](https://jobright.ai/jobs/info/676a6ddcc4ea1d16b72d4d56?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 23 |
+| **[Feeding America](http://feedingamerica.org)** | **[Partner State Association Operations Intern](https://jobright.ai/jobs/info/676a98f6becac32007f29247?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 23 |
 | **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6769ae629fd3a4d58f9ab859?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 23 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Spring 2025 Intern - Procurement](https://jobright.ai/jobs/info/6769aab57a3f72f95600dfbf?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  Business Development (Summer 2025)](https://jobright.ai/jobs/info/67699de45c9183499fbabf2e?utm_campaign=1051&utm_source=git)** | Thousand Oaks, CA | On Site | Dec 23 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Graybar](http://www.graybar.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/672e8ee7dddbbb46f3c5718f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 22 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/672df6dcd1f9110fc55d2b44?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 22 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/66d8d88a1ba8582d36a59799?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Dec 22 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Technical Sales Intern - Services](https://jobright.ai/jobs/info/676a7d48b9b410fa1035c127?utm_campaign=1051&utm_source=git)** | Towson, MD | Hybrid | Dec 22 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Research Intern](https://jobright.ai/jobs/info/6767d172e6fd76d7e75456b9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 22 |
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Enterprise Sales Intern](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba16d?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 21 |
 | ↳ | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba117?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 21 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6767cdfb79abdf9aee8e2cc5?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 21 |
-| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2025 - Industry & Sales](https://jobright.ai/jobs/info/6767c8ae8e731c44083ba18f?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Dec 21 |
-| **[Siemens](https://www.siemens.com/)** | **[DoD SkillBridge Internship - Sales Development Program Construction Sales - Open to multiple US Locations(Active-Duty US Military)](https://jobright.ai/jobs/info/67264c3d3ef5d52bbacc61f3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 21 |
-| **[Talbots](http://www.talbots.com)** | **[Summer 2025 Retail Internship](https://jobright.ai/jobs/info/6767274294392919d360adca?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
