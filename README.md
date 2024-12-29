@@ -62,7 +62,8 @@ For a complete list, click the following sortable link below:
 | **[Coloplast](https://www.coloplast.com)** | **[Sales Intern (Interventional Urology) - Los Angeles](https://jobright.ai/jobs/info/67710e32bb4f7dc0b4d02777?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 29 |
 | **[Fives Intralogistics ](https://www.fivesgroup.com/smart-automation-solutions)** | **[Business Development Internship](https://jobright.ai/jobs/info/67710b8e357f97593c6e283a?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Dec 28 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6770654842be77737bdad891?utm_campaign=1051&utm_source=git)** | South Hackensack, NJ | On Site | Dec 28 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Aftersales Supply Chain](https://jobright.ai/jobs/info/67700b8236a3ffc078e37919?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Dec 28 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733f9737d6ad94406b39b89?utm_campaign=1051&utm_source=git)** | Burlington, MA | On Site | Dec 28 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Internship Summer 2025](https://jobright.ai/jobs/info/66fd6b8f31765a67ce1d853e?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 28 |
 | **[KeHE Distributors](https://www.kehe.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/675360af9e9f23b863d39e7c?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Dec 28 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern - Insurance Sales](https://jobright.ai/jobs/info/67518aed14e8042d94e1a0c8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 28 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Peoria, IL Summer 2025 Internship](https://jobright.ai/jobs/info/6753b88ac0b82779c5682168?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Dec 28 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Illumio](http://www.illumio.com)** | **[Account Development Representative Intern (Summer 2025)](https://jobright.ai/jobs/info/67649cd5aa457da3fcc30c6f?utm_campaign=1051&utm_source=git)** | Sunnyvale, California | Hybrid | Dec 26 |
 | **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/676dca3cc1fc94f623f70f5c?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Dec 26 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr Business Strategy Specialist Intern - MBA](https://jobright.ai/jobs/info/676dc932ad05241e6ed04d90?utm_campaign=1051&utm_source=git)** | Waltham, MA | Remote | Dec 26 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/676dc6d315e0ae8bbe49e2a3?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Dec 26 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Real Estate Operations](https://jobright.ai/jobs/info/676dc932ad05241e6ed04d9f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 26 |
 | **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/673278d5b66f3c08ab3700bd?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Dec 26 |
 | **[Pella Windows and Doors | Gunton Corporation](https://guntonpella.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/676ddc987044075df1809300?utm_campaign=1051&utm_source=git)** | Pottstown, PA | On Site | Dec 26 |
@@ -126,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern - Wealth Management](https://jobright.ai/jobs/info/676d97327443e5ad7c38ac62?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Dec 26 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (LOU)](https://jobright.ai/jobs/info/666a2844e606c79653b24b09?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Dec 26 |
 | **[Hughes](http://www.hughes.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/676d8a919a6ad543736aead0?utm_campaign=1051&utm_source=git)** | Germantown, MD | On Site | Dec 26 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/676d8acb702c70c8df369b6f?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Dec 26 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Distribution and Logistics](https://jobright.ai/jobs/info/676d86d7a9feed2642d804b0?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Dec 26 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Indianapolis](https://jobright.ai/jobs/info/66d8d88a1ba8582d36a597e0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Dec 26 |
 | **[Lennox](http://www.lennox.com)** | **[Pricing Intern](https://jobright.ai/jobs/info/676d75b0c03730940d317211?utm_campaign=1051&utm_source=git)** | West Columbia, SC | On Site | Dec 26 |
@@ -135,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Encino Commercial Real Estate Investment Sales Intern - Summer 2025](https://jobright.ai/jobs/info/66fa8febc1e45620c3e2aef3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
 | **[Cintas](https://www.cintas.com)** | **[Sales Intern](https://jobright.ai/jobs/info/676d65ccb003e2792be9fa1a?utm_campaign=1051&utm_source=git)** | Milford, OH | On Site | Dec 26 |
 | **[Ørsted](https://orsted.com)** | **[M&A and Business Development - Intern 2025](https://jobright.ai/jobs/info/676d58ecffea27c798c880c6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Program- Tyler, TX](https://jobright.ai/jobs/info/674f7b429a0bad68d64540b7?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Dec 26 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Boston Commercial Real Estate Investment Sales Intern - Summer 2025](https://jobright.ai/jobs/info/6733d79d63abd8eccbb6db2b?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Management and Sales Summer Internship- Jacksonville, FL](https://jobright.ai/jobs/info/66f47d4b3ec3b7b1a83f5e33?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e004?utm_campaign=1051&utm_source=git)** | Etna, OH | On Site | Dec 26 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Tampa Commercial Real Estate Investment Sales Intern - Summer 2025](https://jobright.ai/jobs/info/66fa8c0cd351005cf25c6d08?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Dec 26 |
 | **[Ecolab](http://www.ecolab.com)** | **[Sales Development Program Internship](https://jobright.ai/jobs/info/6750d424a1db6d4ef030b8dd?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Dec 26 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/67505538607e29c8c09aecb5?utm_campaign=1051&utm_source=git)** | Pleasant Hill, CA | On Site | Dec 26 |
-| ↳ | **[Sales Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/675596d0ffb8760d0d044e7a?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 26 |
 | ↳ | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d57?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 26 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/674f56066e6c9e3e6a282f09?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Dec 25 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e00f?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Dec 25 |
-| ↳ | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068be3?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
