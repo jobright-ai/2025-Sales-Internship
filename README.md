@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/676385b4636eb03e31ab3fea?utm_campaign=1051&utm_source=git)** | Golden Valley, MN | On Site | Dec 31 |
+| ↳ | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/67636b37f6bef962d99fcea9?utm_campaign=1051&utm_source=git)** | Apopka, FL | On Site | Dec 31 |
+| ↳ | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/676385b4636eb03e31ab3fe1?utm_campaign=1051&utm_source=git)** | Delavan, WI | On Site | Dec 31 |
 | **[Unum](http://www.unum.com)** | **[Sales Intern – Atlanta, GA](https://jobright.ai/jobs/info/67736f2c4781ecb1f0c75b85?utm_campaign=1051&utm_source=git)** | Georgia Field - Atlanta | Hybrid | Dec 30 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern - Forestar - Huntsville](https://jobright.ai/jobs/info/6773735975633b376229eba2?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 30 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern - Forestar - Huntsville](https://jobright.ai/jobs/info/6773735975633b376229eba2?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 30 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Intern-Enterprise Sales](https://jobright.ai/jobs/info/677347af0762b72d475dec04?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern - Forestar - Huntsville](https://jobright.ai/jobs/info/67733dabbe3e363848dc2aba?utm_campaign=1051&utm_source=git)** | AL-Huntsville | On Site | Dec 30 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern - Forestar - Huntsville](https://jobright.ai/jobs/info/67733dabbe3e363848dc2aba?utm_campaign=1051&utm_source=git)** | AL-Huntsville | On Site | Dec 30 |
 | **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/67733836e1efb0a4f870e755?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 30 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Internship](https://jobright.ai/jobs/info/6773494041dcb41d972452ee?utm_campaign=1051&utm_source=git)** | Chisago City, MN | On Site | Dec 30 |
 | ↳ | **[Retail Management Internship #681](https://jobright.ai/jobs/info/67734fb279f991294821a648?utm_campaign=1051&utm_source=git)** | St Michael, MN | On Site | Dec 30 |
@@ -86,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Supply Chain Wholesale Internship (Summer 2024)](https://jobright.ai/jobs/info/6772bd47c7f548fe2877bce0?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Sales Velocity Analyst](https://jobright.ai/jobs/info/673f3a70b1ad2905df3fdb05?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative / Internship / King of Prussia](https://jobright.ai/jobs/info/6772a911f6592b7a056b4567?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | Hybrid | Dec 30 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/673d406fe17d31780ea327a3?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Dec 30 |
 | **[Marsh McLennan](http://www.mmc.com/)** | **[Apprentice Insurance Advisor](https://jobright.ai/jobs/info/6772a1b5bd37b20e921e4045?utm_campaign=1051&utm_source=git)** | Worcester - Acorn | Hybrid | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Order Management Analyst](https://jobright.ai/jobs/info/673f154bd7d3ec929f79f89f?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | Dec 30 |
 | **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[Retail Seasonal Sales Associate-INTERNATIONAL PLAZA](https://jobright.ai/jobs/info/67664320d8e7c31c9ac3aa3d?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Dec 30 |
@@ -104,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern - Insurance Sales](https://jobright.ai/jobs/info/67518aed14e8042d94e1a0c8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 28 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Peoria, IL Summer 2025 Internship](https://jobright.ai/jobs/info/6753b88ac0b82779c5682168?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Dec 28 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068bed?utm_campaign=1051&utm_source=git)** | South Milwaukee, WI | On Site | Dec 28 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Sales Intern](https://jobright.ai/jobs/info/66f5e9e3705f0014d2e4910b?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Dec 28 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Sales Intern](https://jobright.ai/jobs/info/66f5e9e3705f0014d2e4910b?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Dec 28 |
 | **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/675285ec9e24f32eaf1cddce?utm_campaign=1051&utm_source=git)** | Wilmington, NC | Hybrid | Dec 28 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c540a617e670de8122cb24?utm_campaign=1051&utm_source=git)** | Midvale, UT | Hybrid | Dec 27 |
 | **[Aspire Team](https://www.aspireteamsd.com)** | **[Marketing & Sales Representative - Start ASAP](https://jobright.ai/jobs/info/676fba5e73987aa89e921773?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Dec 27 |
@@ -112,8 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Regional Sales Strategy College Associate](https://jobright.ai/jobs/info/6717d81a850554eefb2d0ff8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[Windermere Real Estate](https://www.windermere.com/)** | **[Real Estate Agent](https://jobright.ai/jobs/info/676f9403424d2ce4ef664636?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | Hybrid | Dec 27 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6733c34f339292c91932af0c?utm_campaign=1051&utm_source=git)** | Abilene, TX | On Site | Dec 27 |
-| **[Central Bank](https://www.centralbank.net/)** | **[Business Solutions Intern - Summer 2025](https://jobright.ai/jobs/info/676f6ae312b21670f287a09d?utm_campaign=1051&utm_source=git)** | Lees Summit, MO | On Site | Dec 27 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Sales Intern](https://jobright.ai/jobs/info/670debadce5ab939651f04dc?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Dec 27 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Sales Intern](https://jobright.ai/jobs/info/670debadce5ab939651f04dc?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Dec 27 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern (Woodland Mall)](https://jobright.ai/jobs/info/6750c6a2712417332dae74c1?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Dec 27 |
 | **[International Business & Technical Consultants, Inc. (IBTCI)](http://ibtci.com)** | **[Intern-International Project Support (IPS)-Business Development](https://jobright.ai/jobs/info/676f64c6011330b17f735266?utm_campaign=1051&utm_source=git)** | Vienna, VA | On Site | Dec 27 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Management and Sales Summer Internship](https://jobright.ai/jobs/info/66fc1da845c25482b332cfb8?utm_campaign=1051&utm_source=git)** | Plainview, NY | On Site | Dec 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Summer Internship 2025](https://jobright.ai/jobs/info/676e1ccd4647566b7d0f950d?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 26 |
 | **[Pristine Management Group Inc](https://pristinemanagementgroupinc.com)** | **[Business Development Trainee](https://jobright.ai/jobs/info/676e1939ce6777f4b6dc6f00?utm_campaign=1051&utm_source=git)** | Hackensack, NJ | On Site | Dec 26 |
 | **[PRIAM Inc.](https://www.priamincorporated.com)** | **[Business Development Trainee](https://jobright.ai/jobs/info/676e0a1a41299871972ec9d7?utm_campaign=1051&utm_source=git)** | Hawthorne, CA | On Site | Dec 26 |
-| **[Edge Concepts Inc.](https://www.edgeconceptsinc.com)** | **[Sales & Marketing Trainee](https://jobright.ai/jobs/info/676e0a1a41299871972ec9eb?utm_campaign=1051&utm_source=git)** | Falls Church, VA | On Site | Dec 26 |
-| **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/676a77a39c0e81fa32baa5a7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 26 |
-| **[Lennar](http://lennar.com)** | **[Sales Intern](https://jobright.ai/jobs/info/676de97300d8ce4e666bee6b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
