@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Leasing (Summer 2025)](https://jobright.ai/jobs/info/6774706006cabdff71c800e4?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Dec 31 |
+| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, IT Sales and Marketing](https://jobright.ai/jobs/info/677457c764e3ae0c9e1b49d4?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
+| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/677452fb77e280b0d340a58e?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Dec 31 |
 | **[Meijer](https://www.meijer.com/)** | **[Retail Pharmacy Grad Intern](https://jobright.ai/jobs/info/67743f1f49c648314c28bdb3?utm_campaign=1051&utm_source=git)** | Richmond, IN | On Site | Dec 31 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, IT Sales and Marketing](https://jobright.ai/jobs/info/67743809b92e4004659fa72d?utm_campaign=1051&utm_source=git)** | San Jose, California, United States | On Site | Dec 31 |
-| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Fall Intern](https://jobright.ai/jobs/info/67742e2107d3d180ef06c797?utm_campaign=1051&utm_source=git)** | Boulder, CO | Hybrid | Dec 31 |
 | **[Staples](http://www.staples.com)** | **[Customer Analyst Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/6774193c5f3a3f32c96c2536?utm_campaign=1051&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 31 |
+| **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/676385b4636eb03e31ab3fe2?utm_campaign=1051&utm_source=git)** | Ashland, OH | On Site | Dec 31 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **['25 Summer Associate (MBA) - Real Estate Development](https://jobright.ai/jobs/info/66c8aca3ffb02eafa7d26792?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Celebrity Operations Strategy Intern (Global E-commerce) - 2024 Off-Cycle (BS/MS)](https://jobright.ai/jobs/info/673dd10b4c90de90310674e0?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 31 |
 | **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/676385b4636eb03e31ab3fe3?utm_campaign=1051&utm_source=git)** | Apex, NC | On Site | Dec 31 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern - Forestar - Huntsville](https://jobright.ai/jobs/info/6773735975633b376229eba2?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 30 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Intern-Enterprise Sales](https://jobright.ai/jobs/info/677347af0762b72d475dec04?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern - Forestar - Huntsville](https://jobright.ai/jobs/info/67733dabbe3e363848dc2aba?utm_campaign=1051&utm_source=git)** | AL-Huntsville | On Site | Dec 30 |
+| **[Glenmede](http://www.glenmede.com/)** | **[2025 Summer Intern, Business Development](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b25b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
 | **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/67733836e1efb0a4f870e755?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 30 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Internship](https://jobright.ai/jobs/info/6773494041dcb41d972452ee?utm_campaign=1051&utm_source=git)** | Chisago City, MN | On Site | Dec 30 |
 | ↳ | **[Retail Management Internship #681](https://jobright.ai/jobs/info/67734fb279f991294821a648?utm_campaign=1051&utm_source=git)** | St Michael, MN | On Site | Dec 30 |
@@ -89,7 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 MBA Intern - Payments Partnerships](https://jobright.ai/jobs/info/673f2a9ad70ba267a339fa76?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[The Chefs'​ Warehouse](http://www.chefswarehouse.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6772f054af2c94e098beb4cf?utm_campaign=1051&utm_source=git)** | Hanover, MD | Hybrid | Dec 30 |
 | **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Global Client Group - Operations (Undergraduate & Master's)](https://jobright.ai/jobs/info/6772f947348a012a1727f7f3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
-| ↳ | **[Internship in Global Client Group - Operations (Undergraduate & Master's)](https://jobright.ai/jobs/info/6772edc45fdfb6ab7d24a038?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 30 |
+| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c73ad34b81eabf8c173ec1?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | Hybrid | Dec 30 |
+| **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Global Client Group - Operations (Undergraduate & Master's)](https://jobright.ai/jobs/info/6772edc45fdfb6ab7d24a038?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 30 |
 | **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/674df2910eef1268d589dc29?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Dec 30 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[SALES SUPPORT - PAID INTERNSHIP](https://jobright.ai/jobs/info/6772dd917ab2fe96e52b677d?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Dec 30 |
 | **[Lids](https://www.lids.com)** | **[Summer Internship - Private Label Admin (Supply Chain Major)](https://jobright.ai/jobs/info/6772bd47c7f548fe2877bc0b?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Clayton](http://www.claytonhomes.com/)** | **[Clayton Homes Summer Intern - Opelika, AL](https://jobright.ai/jobs/info/676f0a60308052eda9b7588f?utm_campaign=1051&utm_source=git)** | Opelika, AL | On Site | Dec 27 |
 | ↳ | **[Clayton Homes Summer Intern - Hammond, LA](https://jobright.ai/jobs/info/676f0a60308052eda9b75897?utm_campaign=1051&utm_source=git)** | Hammond, LA | On Site | Dec 27 |
 | ↳ | **[Clayton Homes Summer Intern - Panama City, FL](https://jobright.ai/jobs/info/676f0a60308052eda9b7587a?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Dec 27 |
+| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c4eabf1fb71a7206ca9fca?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Dec 27 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/66fc0f88bcd17641b8ee5675?utm_campaign=1051&utm_source=git)** | South Portland, ME | On Site | Dec 27 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Retail Management Internship, Target Field](https://jobright.ai/jobs/info/676efd4e47e5bbd26188e63a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 27 |
 | ↳ | **[Retail Internship, Comerica Park](https://jobright.ai/jobs/info/676ef17076fd369c16e9ab00?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Dec 27 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-Op or Intern-Sales Rep](https://jobright.ai/jobs/info/676ee643ba816e8d305db297?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Dec 27 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern-Westminster, CA](https://jobright.ai/jobs/info/676ec854b8214942ff1c32ab?utm_campaign=1051&utm_source=git)** | Huntington Beach, CA | On Site | Dec 27 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Sales Training (Product)](https://jobright.ai/jobs/info/676e9f6f260802c583a127a8?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Dec 27 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy Intern - Peoria, IL Area](https://jobright.ai/jobs/info/676e881a5d3cdcfec867de96?utm_campaign=1051&utm_source=git)** | 200 Carver Ln, East Peoria, IL, 61611, US | On Site | Dec 27 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Sales Summer Internship - Felton, CA](https://jobright.ai/jobs/info/675387dec296e49efebb48ae?utm_campaign=1051&utm_source=git)** | Felton, CA | On Site | Dec 27 |
-| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Columbus Commercial Real Estate Investment Sales Intern - Summer 2025](https://jobright.ai/jobs/info/66fc179bee6704beb5389b33?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 27 |
-| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67528373b6f03addf82d1d67?utm_campaign=1051&utm_source=git)** | Brentwood, TN | Hybrid | Dec 27 |
-| ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c3e6a0b651c2964af08511?utm_campaign=1051&utm_source=git)** | Fresno, CA | Hybrid | Dec 27 |
-| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2025 Assistant Buyer Intern - Los Angeles](https://jobright.ai/jobs/info/66fd257fd455ac9ac21d91a2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67342155622f520e717b3efc?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
