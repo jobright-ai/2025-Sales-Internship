@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern- Summer- College Park](https://jobright.ai/jobs/info/6774a3230e20d1618cfa5aea?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Leasing (Summer 2025)](https://jobright.ai/jobs/info/6774706006cabdff71c800e4?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Dec 31 |
+| **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67749ed56658b85a073bb200?utm_campaign=1051&utm_source=git)** | Staten Island, NY | Hybrid | Dec 31 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, IT Sales and Marketing](https://jobright.ai/jobs/info/677457c764e3ae0c9e1b49d4?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
+| **[Legrand, North America](http://www.legrand.us)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/6774aef982641cc182328189?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Dec 31 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/677452fb77e280b0d340a58e?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Dec 31 |
 | **[Meijer](https://www.meijer.com/)** | **[Retail Pharmacy Grad Intern](https://jobright.ai/jobs/info/67743f1f49c648314c28bdb3?utm_campaign=1051&utm_source=git)** | Richmond, IN | On Site | Dec 31 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, IT Sales and Marketing](https://jobright.ai/jobs/info/67743809b92e4004659fa72d?utm_campaign=1051&utm_source=git)** | San Jose, California, United States | On Site | Dec 31 |
@@ -70,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Strategic Alliance Intern](https://jobright.ai/jobs/info/674d8f24a6c4447bbeda6683?utm_campaign=1051&utm_source=git)** | Birmingham, MI | Hybrid | Dec 31 |
 | **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/67636b37f6bef962d99fceb1?utm_campaign=1051&utm_source=git)** | Brookfield, WI | On Site | Dec 31 |
 | ↳ | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/67636b37f6bef962d99fceac?utm_campaign=1051&utm_source=git)** | Conroe, TX | On Site | Dec 31 |
-| ↳ | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/676385b4636eb03e31ab3fea?utm_campaign=1051&utm_source=git)** | Golden Valley, MN | On Site | Dec 31 |
 | ↳ | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/67636b37f6bef962d99fcea9?utm_campaign=1051&utm_source=git)** | Apopka, FL | On Site | Dec 31 |
+| ↳ | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/676385b4636eb03e31ab3fea?utm_campaign=1051&utm_source=git)** | Golden Valley, MN | On Site | Dec 31 |
 | ↳ | **[Sales Leadership Development Program Internship -  Summer 2025](https://jobright.ai/jobs/info/676385b4636eb03e31ab3fe1?utm_campaign=1051&utm_source=git)** | Delavan, WI | On Site | Dec 31 |
 | **[Unum](http://www.unum.com)** | **[Sales Intern – Atlanta, GA](https://jobright.ai/jobs/info/67736f2c4781ecb1f0c75b85?utm_campaign=1051&utm_source=git)** | Georgia Field - Atlanta | Hybrid | Dec 30 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern - Forestar - Huntsville](https://jobright.ai/jobs/info/6773735975633b376229eba2?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/66fc0f88bcd17641b8ee5675?utm_campaign=1051&utm_source=git)** | South Portland, ME | On Site | Dec 27 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Retail Management Internship, Target Field](https://jobright.ai/jobs/info/676efd4e47e5bbd26188e63a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 27 |
 | ↳ | **[Retail Internship, Comerica Park](https://jobright.ai/jobs/info/676ef17076fd369c16e9ab00?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Dec 27 |
-| **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-Op or Intern-Sales Rep](https://jobright.ai/jobs/info/676ee643ba816e8d305db297?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Dec 27 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern-Westminster, CA](https://jobright.ai/jobs/info/676ec854b8214942ff1c32ab?utm_campaign=1051&utm_source=git)** | Huntington Beach, CA | On Site | Dec 27 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Sales Training (Product)](https://jobright.ai/jobs/info/676e9f6f260802c583a127a8?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
