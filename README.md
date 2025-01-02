@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coloplast](https://www.coloplast.com)** | **[Sales Intern (Interventional Urology) - Los Angeles](https://jobright.ai/jobs/info/677655e4c18b894f351a7da4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jan 02 |
 | **[Smart Source, LLC](http://www.smartsourcellc.com/)** | **[Sales Business Developement](https://jobright.ai/jobs/info/6775d497622a64677f03f60f?utm_campaign=1051&utm_source=git)** | South Bend, IN | On Site | Jan 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/6775c2065d91eeb196620406?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Jan 01 |
 | **[NetApp](http://netapp.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/6775a2d4000418068ce1ba93?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 01 |
 | ↳ | **[Intern - Sales](https://jobright.ai/jobs/info/6775a2d4000418068ce1baa6?utm_campaign=1051&utm_source=git)** | Triangle, NC | On Site | Jan 01 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Sales & Marketing, Rebyota](https://jobright.ai/jobs/info/6767e09ea7518ef178fdc12d?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
 | **[Staples](http://www.staples.com)** | **[Customer Analyst Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/677549dc7da063486a826646?utm_campaign=1051&utm_source=git)** | Framingham, MA | Hybrid | Jan 01 |
+| **[J.R. Simplot Company](http://www.simplot.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/675789b2d2fc3be881e9670a?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Jan 01 |
 | **[adidas](https://www.adidas-group.com)** | **[2025 US Undergraduate Internship - North America Wholesale](https://jobright.ai/jobs/info/677528ba73b7c3283b469731?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dd0?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jan 01 |
 | **[AutoZone](http://www.autozone.com/)** | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/66573697e3d4e0f1e6a7263b?utm_campaign=1051&utm_source=git)** | Beacon, NY | On Site | Jan 01 |
 | **[Fives](http://www.fivesgroup.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/6732902719ace41b225b8b13?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jan 01 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/673d3aba1097243e86ee4396?utm_campaign=1051&utm_source=git)** | Edina, MN | Hybrid | Dec 31 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)–Tri-Valley & NE San Jose Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6774e06d6d4b2df7b9692c80?utm_campaign=1051&utm_source=git)** | Dublin, CA | Hybrid | Dec 31 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Denver, CO (Starting Summer 2025)](https://jobright.ai/jobs/info/6774e06d6d4b2df7b9692c85?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Dec 31 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Fargo, ND (Starting Summer 2025)](https://jobright.ai/jobs/info/6774e06d6d4b2df7b9692c83?utm_campaign=1051&utm_source=git)** | Fargo, ND | Hybrid | Dec 31 |
@@ -75,10 +78,12 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Business Development Intern-Corporate](https://jobright.ai/jobs/info/6774fdd76a4b5966733098ed?utm_campaign=1051&utm_source=git)** | Rochester, NH | On Site | Dec 31 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)– Boise, ID (Starting Summer 2025)](https://jobright.ai/jobs/info/6775646f90cd3ce5a0b48416?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Dec 31 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Sioux Falls, SD (Starting Summer 2025)](https://jobright.ai/jobs/info/6775646f90cd3ce5a0b48415?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | Hybrid | Dec 31 |
+| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c7431aa51caef1fc209bd3?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | Hybrid | Dec 31 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern- Summer- Thornton Rd.](https://jobright.ai/jobs/info/6774e5c0830c36943c42e77c?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Dec 31 |
 | ↳ | **[Sales Management Trainee Intern- Summer- Union City](https://jobright.ai/jobs/info/677529867d391ad6ceae500f?utm_campaign=1051&utm_source=git)** | Union City, GA | On Site | Dec 31 |
 | ↳ | **[Sales Management Trainee Intern- Summer- Buckhead Piedmont Rd.](https://jobright.ai/jobs/info/67753905c7b5485885dc12d1?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
-| ↳ | **[Sales Management Trainee Intern- Summer- College Park](https://jobright.ai/jobs/info/6774a3230e20d1618cfa5aea?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
+| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2025 Internship Program - Strategic Transformation, Taste Texture & Health - Plainsboro, NJ](https://jobright.ai/jobs/info/6736cad35a392bc151e2f092?utm_campaign=1051&utm_source=git)** | Princeton, NJ | Hybrid | Dec 31 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern- Summer- College Park](https://jobright.ai/jobs/info/6774a3230e20d1618cfa5aea?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 | **[The Venetian Resort Las Vegas](https://www.venetianlasvegas.com)** | **[INTERN - REVENUE MANAGEMENT](https://jobright.ai/jobs/info/677549dc7da063486a826749?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 31 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6727e2c317b28421aeeff3c2?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 31 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[HFC - Foodservice Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/6775b46713d2b2a216570ef4?utm_campaign=1051&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Dec 31 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Aftersales Supply Chain](https://jobright.ai/jobs/info/6771411966149287739d4ce1?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Dec 29 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c689d7f77343dedc957355?utm_campaign=1051&utm_source=git)** | Carmel, IN | Hybrid | Dec 29 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Underwriting Business Development](https://jobright.ai/jobs/info/66fee6532564211df498182f?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Dec 29 |
-| **[Coloplast](https://www.coloplast.com)** | **[Sales Intern (Interventional Urology) - Los Angeles](https://jobright.ai/jobs/info/67710e32bb4f7dc0b4d02777?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 29 |
 | **[The Duracell Company](http://www.duracell.com)** | **[Sales - Intern](https://jobright.ai/jobs/info/67536e59f53141500761f3cf?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6770654842be77737bdad891?utm_campaign=1051&utm_source=git)** | South Hackensack, NJ | On Site | Dec 28 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733f9737d6ad94406b39b89?utm_campaign=1051&utm_source=git)** | Burlington, MA | On Site | Dec 28 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Internship Summer 2025](https://jobright.ai/jobs/info/66fd6b8f31765a67ce1d853e?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 28 |
-| ↳ | **[2025 Management and Sales Summer Internship (Metro NJ)](https://jobright.ai/jobs/info/66fc0f88bcd17641b8ee55df?utm_campaign=1051&utm_source=git)** | Warren, NJ | On Site | Dec 28 |
-| **[Carters Inc.](https://www.carters.com/)** | **[New Store Operations Intern, Summer 2025](https://jobright.ai/jobs/info/66df7f82f43e5c11a72a7cd8?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
-| **[KeHE Distributors](https://www.kehe.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/675360af9e9f23b863d39e7c?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
