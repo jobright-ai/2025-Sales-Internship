@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[adidas](https://www.adidas-group.com)** | **[2025 US Undergraduate Internship - North America Wholesale](https://jobright.ai/jobs/info/677528ba73b7c3283b469731?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6726ea0c43e2aa1de9485dd0?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jan 01 |
 | **[AutoZone](http://www.autozone.com/)** | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/66573697e3d4e0f1e6a7263b?utm_campaign=1051&utm_source=git)** | Beacon, NY | On Site | Jan 01 |
+| **[Fives](http://www.fivesgroup.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/6732902719ace41b225b8b13?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jan 01 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)–Tri-Valley & NE San Jose Area, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6774e06d6d4b2df7b9692c80?utm_campaign=1051&utm_source=git)** | Dublin, CA | Hybrid | Dec 31 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– East Denver, CO (Starting Summer 2025)](https://jobright.ai/jobs/info/6774e06d6d4b2df7b9692c85?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Dec 31 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern)– Fargo, ND (Starting Summer 2025)](https://jobright.ai/jobs/info/6774e06d6d4b2df7b9692c83?utm_campaign=1051&utm_source=git)** | Fargo, ND | Hybrid | Dec 31 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Intern- Summer- Buckhead Piedmont Rd.](https://jobright.ai/jobs/info/67753905c7b5485885dc12d1?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 | ↳ | **[Sales Management Trainee Intern- Summer- College Park](https://jobright.ai/jobs/info/6774a3230e20d1618cfa5aea?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 | **[The Venetian Resort Las Vegas](https://www.venetianlasvegas.com)** | **[INTERN - REVENUE MANAGEMENT](https://jobright.ai/jobs/info/677549dc7da063486a826749?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 31 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6727e2c317b28421aeeff3c2?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 31 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[HFC - Foodservice Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/6775b46713d2b2a216570ef4?utm_campaign=1051&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Dec 31 |
 | ↳ | **[HFC - Retail Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/67757bf5447770af8c0e068e?utm_campaign=1051&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Dec 31 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Leasing (Summer 2025)](https://jobright.ai/jobs/info/6774706006cabdff71c800e4?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Dec 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Management and Sales Summer Internship (Metro NJ)](https://jobright.ai/jobs/info/66fc0f88bcd17641b8ee55df?utm_campaign=1051&utm_source=git)** | Warren, NJ | On Site | Dec 28 |
 | **[Carters Inc.](https://www.carters.com/)** | **[New Store Operations Intern, Summer 2025](https://jobright.ai/jobs/info/66df7f82f43e5c11a72a7cd8?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
 | **[KeHE Distributors](https://www.kehe.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/675360af9e9f23b863d39e7c?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Dec 28 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern - Insurance Sales](https://jobright.ai/jobs/info/67518aed14e8042d94e1a0c8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 28 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Peoria, IL Summer 2025 Internship](https://jobright.ai/jobs/info/6753b88ac0b82779c5682168?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
