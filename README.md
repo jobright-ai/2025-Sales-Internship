@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smart Source, LLC](http://www.smartsourcellc.com/)** | **[Sales Business Developement](https://jobright.ai/jobs/info/6775d497622a64677f03f60f?utm_campaign=1051&utm_source=git)** | South Bend, IN | On Site | Jan 01 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/6775c2065d91eeb196620406?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Jan 01 |
+| **[NetApp](http://netapp.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/6775a2d4000418068ce1ba93?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 01 |
+| ↳ | **[Intern - Sales](https://jobright.ai/jobs/info/6775a2d4000418068ce1baa6?utm_campaign=1051&utm_source=git)** | Triangle, NC | On Site | Jan 01 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Sales & Marketing, Rebyota](https://jobright.ai/jobs/info/6767e09ea7518ef178fdc12d?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
 | **[Staples](http://www.staples.com)** | **[Customer Analyst Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/677549dc7da063486a826646?utm_campaign=1051&utm_source=git)** | Framingham, MA | Hybrid | Jan 01 |
 | **[adidas](https://www.adidas-group.com)** | **[2025 US Undergraduate Internship - North America Wholesale](https://jobright.ai/jobs/info/677528ba73b7c3283b469731?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
@@ -75,7 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Intern- Summer- Buckhead Piedmont Rd.](https://jobright.ai/jobs/info/67753905c7b5485885dc12d1?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 | ↳ | **[Sales Management Trainee Intern- Summer- College Park](https://jobright.ai/jobs/info/6774a3230e20d1618cfa5aea?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 | **[The Venetian Resort Las Vegas](https://www.venetianlasvegas.com)** | **[INTERN - REVENUE MANAGEMENT](https://jobright.ai/jobs/info/677549dc7da063486a826749?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 31 |
-| **[Hormel Foods](http://www.hormelfoods.com/)** | **[HFC - Retail Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/67757bf5447770af8c0e068e?utm_campaign=1051&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Dec 31 |
+| **[Hormel Foods](http://www.hormelfoods.com/)** | **[HFC - Foodservice Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/6775b46713d2b2a216570ef4?utm_campaign=1051&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Dec 31 |
+| ↳ | **[HFC - Retail Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/67757bf5447770af8c0e068e?utm_campaign=1051&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Dec 31 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Leasing (Summer 2025)](https://jobright.ai/jobs/info/6774706006cabdff71c800e4?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Dec 31 |
 | **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67749ed56658b85a073bb200?utm_campaign=1051&utm_source=git)** | Staten Island, NY | Hybrid | Dec 31 |
 | **[Entegral](https://Entegral.com)** | **[Sales Management Trainee Intern- Summer- Union City](https://jobright.ai/jobs/info/677549dc7da063486a8266ec?utm_campaign=1051&utm_source=git)** | Union City, GA | On Site | Dec 31 |
@@ -87,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Legrand, North America](http://www.legrand.us)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/6774aef982641cc182328189?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Dec 31 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/677452fb77e280b0d340a58e?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Dec 31 |
 | **[Meijer](https://www.meijer.com/)** | **[Retail Pharmacy Grad Intern](https://jobright.ai/jobs/info/67743f1f49c648314c28bdb3?utm_campaign=1051&utm_source=git)** | Richmond, IN | On Site | Dec 31 |
+| **[Aptiv](http://www.aptiv.com)** | **[Sales Intern](https://jobright.ai/jobs/info/675831caa3c5349f74cb9b1f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 31 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, IT Sales and Marketing](https://jobright.ai/jobs/info/67743809b92e4004659fa72d?utm_campaign=1051&utm_source=git)** | San Jose, California, United States | On Site | Dec 31 |
 | **[Staples](http://www.staples.com)** | **[Customer Analyst Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/6774193c5f3a3f32c96c2536?utm_campaign=1051&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 31 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Proposals (Tlingit & Haida Tribal Business Council)](https://jobright.ai/jobs/info/67753905c7b5485885dc13be?utm_campaign=1051&utm_source=git)** | Juneau, AK | On Site | Dec 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KeHE Distributors](https://www.kehe.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/675360af9e9f23b863d39e7c?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Dec 28 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern - Insurance Sales](https://jobright.ai/jobs/info/67518aed14e8042d94e1a0c8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 28 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Peoria, IL Summer 2025 Internship](https://jobright.ai/jobs/info/6753b88ac0b82779c5682168?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Dec 28 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/6733e9b7ea71ff365b068bed?utm_campaign=1051&utm_source=git)** | South Milwaukee, WI | On Site | Dec 28 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Sales Intern](https://jobright.ai/jobs/info/66f5e9e3705f0014d2e4910b?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Dec 28 |
-| **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/675285ec9e24f32eaf1cddce?utm_campaign=1051&utm_source=git)** | Wilmington, NC | Hybrid | Dec 28 |
-| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c540a617e670de8122cb24?utm_campaign=1051&utm_source=git)** | Midvale, UT | Hybrid | Dec 27 |
-| **[Aspire Team](https://www.aspireteamsd.com)** | **[Marketing & Sales Representative - Start ASAP](https://jobright.ai/jobs/info/676fba5e73987aa89e921773?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Dec 27 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61dffc?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
