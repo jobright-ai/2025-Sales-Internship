@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Chefs'​ Warehouse](http://www.chefswarehouse.com)** | **[Sales Intern](https://jobright.ai/jobs/info/674e0ee4b1e0826d2cd2b97b?utm_campaign=1051&utm_source=git)** | New Bedford, MA | Hybrid | Jan 04 |
+| **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Internship](https://jobright.ai/jobs/info/6779131fbbf7ec332c09b09c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 04 |
+| ↳ | **[Technical Sales Internship](https://jobright.ai/jobs/info/67484cc3825dcbf98fb843f9?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 04 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Sales Enablement Specialist - 2025 Summer Intern](https://jobright.ai/jobs/info/6744bf48487b58e52f080aae?utm_campaign=1051&utm_source=git)** | Southlake, TX | Hybrid | Jan 04 |
+| **[CSC](http://www.cscglobal.com)** | **[Finance Business Partner Intern](https://jobright.ai/jobs/info/6753a45499bec8a92ebc9ca1?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Jan 04 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/677902690f9d35fc9785e4ca?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 04 |
+| ↳ | **[Real Estate Development Intern](https://jobright.ai/jobs/info/677902690f9d35fc9785e4e0?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 04 |
 | **[Aspire Team](https://www.aspireteamsd.com)** | **[Marketing & Sales Representative - Start ASAP](https://jobright.ai/jobs/info/6778f35f84221478d5405075?utm_campaign=1051&utm_source=git)** | El Cajon, CA | On Site | Jan 03 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Sales Engineer Internship](https://jobright.ai/jobs/info/6735437bbab6d70b6f63aeba?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
 | **[Oldcastle Infrastructure](https://oldcastleinfrastructure.com)** | **[Sales Coordinator Intern - Lexington, KY](https://jobright.ai/jobs/info/6778e3bb2270fb394ccb4834?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Jan 03 |
@@ -81,9 +88,9 @@ For a complete list, click the following sortable link below:
 | **[Olin](http://www.olin.com/)** | **[Business Commercial Development Intern 2025](https://jobright.ai/jobs/info/677876c2c270cafe1987bc4b?utm_campaign=1051&utm_source=git)** | McIntosh, AL | On Site | Jan 03 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - East Florida](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd7bf?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jan 03 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d868?utm_campaign=1051&utm_source=git)** | US - CO, Westminster | On Site | Jan 03 |
-| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d866?utm_campaign=1051&utm_source=git)** | US - OR, Lake Oswego | On Site | Jan 03 |
 | ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d867?utm_campaign=1051&utm_source=git)** | US - Remote, CO | Remote | Jan 03 |
 | ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d81a?utm_campaign=1051&utm_source=git)** | US - Remote, OR | Remote | Jan 03 |
+| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d866?utm_campaign=1051&utm_source=git)** | US - OR, Lake Oswego | On Site | Jan 03 |
 | **[Force Factor](https://forcefactor.com/)** | **[Sales & Business Development Fall Co-Op](https://jobright.ai/jobs/info/67787f2ff890158c9c126849?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 03 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/67786b3f76a78662044c2b70?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 03 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - Professional and Executive](https://jobright.ai/jobs/info/67786d85c046903f1cb2e233?utm_campaign=1051&utm_source=git)** | St Petersburg, FL | On Site | Jan 03 |
@@ -93,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Commercial Banking - Commercial Real Estate](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3a35?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Jan 03 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[TEST - Purchasing Agent Intern – Summer 2025](https://jobright.ai/jobs/info/6778c4d92a3187adba1f611c?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jan 03 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Sales Executive Intern-Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3d11?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 03 |
-| ↳ | **[401k Risk Management, Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3a73?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 03 |
 | ↳ | **[Risk Management, Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3a38?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 03 |
+| ↳ | **[401k Risk Management, Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3a73?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 03 |
 | ↳ | **[Risk Management, Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3e59?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 03 |
 | ↳ | **[Sales Executive Intern-Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3d17?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Jan 03 |
 | ↳ | **[Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3a7c?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Jan 03 |
@@ -124,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Sales Intern, Summer 2025](https://jobright.ai/jobs/info/675b4e27b250c441eb75bab5?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 03 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Business Development Internship - Summer 2025](https://jobright.ai/jobs/info/6759d44e9ecf22ad85608459?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Jan 03 |
 | **[Advantage Unified Commerce](https://advantageunifiedcommerce.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/67786985a698357e05e83e5c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 03 |
+| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/67649e15b126d690350ae36f?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Jan 03 |
 | **[Amwins](http://www.amwins.com)** | **[Brokerage Internship](https://jobright.ai/jobs/info/6778d98c81fb411e68561e04?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Jan 03 |
 | **[Corsair](http://www.corsair.com)** | **[Partnerships Operations Intern - CORSAIR](https://jobright.ai/jobs/info/67783cfe99a663aca3febbc2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 03 |
 | ↳ | **[Partnerships Operations Intern - Elgato](https://jobright.ai/jobs/info/67783cfe99a663aca3febbc7?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2025 Operational Risk Management Intern - Hermitage, PA](https://jobright.ai/jobs/info/6777f9e4cf16108927b0d1f5?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jan 03 |
 | **[Anywhere Real Estate Inc.](https://www.anywhere.re/)** | **[Intern for Business Development Support (Independence Title - Shepherd Mountain Cove Office)](https://jobright.ai/jobs/info/6777f9e4cf16108927b0d16d?utm_campaign=1051&utm_source=git)** | 5900 Shepherd Mountain Cove, Austin, TX, 78730, US | On Site | Jan 03 |
 | **[Intermountain Farmers Association (IFA)](https://ifacountrystores.com)** | **[Management Trainee/Agronomist](https://jobright.ai/jobs/info/67780807f2a1555ae1f1c893?utm_campaign=1051&utm_source=git)** | Price, UT | On Site | Jan 03 |
-| **[ChemTreat](http://www.chemtreat.com/)** | **[Water Treatment Intern](https://jobright.ai/jobs/info/6752ce95784e09a183d5e3ff?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Jan 03 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Internship](https://jobright.ai/jobs/info/6777e740ab70f1b52cc8e213?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
-| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (SD)](https://jobright.ai/jobs/info/65075e8278de930024e36c0b?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 03 |
-| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern - Wealth Management](https://jobright.ai/jobs/info/6777d7c9a6c7dd43ea28835b?utm_campaign=1051&utm_source=git)** | Morristown, NJ | Hybrid | Jan 03 |
-| **[Ecolab](http://www.ecolab.com)** | **[Technical Sales Internship](https://jobright.ai/jobs/info/673d58203c08d3775355a824?utm_campaign=1051&utm_source=git)** | El Centro, CA | On Site | Jan 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6777eeebd3b17fa10ca44bdf?utm_campaign=1051&utm_source=git)** | Poplar Bluff, MO | On Site | Jan 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6777eeebd3b17fa10ca44be9?utm_campaign=1051&utm_source=git)** | Farmington, NM | On Site | Jan 03 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Sales Support Intern - Multiple Locations Nationwide](https://jobright.ai/jobs/info/677805f253664e68c461b67f?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
