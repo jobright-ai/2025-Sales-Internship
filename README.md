@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Business Development Internship - Summer 2025](https://jobright.ai/jobs/info/677881a119264d02a68419db?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Jan 03 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Commercial Real Estate (Summer 2025)](https://jobright.ai/jobs/info/67787f2ff890158c9c126791?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Jan 03 |
+| **[Fairview Health Services](http://www.fairview.org/)** | **[Pharmacy Intern, 2nd Year - Retail](https://jobright.ai/jobs/info/677882351464a795e5d36b48?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Jan 03 |
+| **[Amcor](http://www.amcor.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/677881a119264d02a68419d1?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 03 |
 | **[Olin](http://www.olin.com/)** | **[Business Commercial Development Intern 2025](https://jobright.ai/jobs/info/677876c2c270cafe1987bc4b?utm_campaign=1051&utm_source=git)** | McIntosh, AL | On Site | Jan 03 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d866?utm_campaign=1051&utm_source=git)** | US - OR, Lake Oswego | On Site | Jan 03 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - East Florida](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd7bf?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jan 03 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d867?utm_campaign=1051&utm_source=git)** | US - Remote, CO | Remote | Jan 03 |
+| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d866?utm_campaign=1051&utm_source=git)** | US - OR, Lake Oswego | On Site | Jan 03 |
 | ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d868?utm_campaign=1051&utm_source=git)** | US - CO, Westminster | On Site | Jan 03 |
 | ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d81a?utm_campaign=1051&utm_source=git)** | US - Remote, OR | Remote | Jan 03 |
-| ↳ | **[Sales Enablement Intern](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d867?utm_campaign=1051&utm_source=git)** | US - Remote, CO | Remote | Jan 03 |
 | **[Force Factor](https://forcefactor.com/)** | **[Sales & Business Development Fall Co-Op](https://jobright.ai/jobs/info/67787f2ff890158c9c126849?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 03 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/67786b3f76a78662044c2b70?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 03 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - Professional and Executive](https://jobright.ai/jobs/info/67786d85c046903f1cb2e233?utm_campaign=1051&utm_source=git)** | St Petersburg, FL | On Site | Jan 03 |
@@ -70,11 +74,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Commercial Banking - East Florida](https://jobright.ai/jobs/info/67786d85c046903f1cb2e588?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Jan 03 |
 | ↳ | **[Intern - Commercial Banking - Commercial Real Estate](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3a35?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Jan 03 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Sales Executive Intern-Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3d11?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 03 |
-| ↳ | **[401k Risk Management, Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3a73?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 03 |
 | ↳ | **[Risk Management, Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3a38?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 03 |
+| ↳ | **[401k Risk Management, Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3a73?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 03 |
 | ↳ | **[Risk Management, Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3e59?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 03 |
 | ↳ | **[Sales Executive Intern-Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3d17?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Jan 03 |
 | ↳ | **[Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3a7c?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Jan 03 |
+| ↳ | **[Personal Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/677884182274cb9baaf8dabb?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 03 |
 | **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Field Sales Intern](https://jobright.ai/jobs/info/67786512cdf653ceea79e81e?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 03 |
 | ↳ | **[Field Sales Intern](https://jobright.ai/jobs/info/67786512cdf653ceea79e81f?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 03 |
 | **[OmniMax](https://omnimax.com/)** | **[Corporate Development Intern - Peachtree Corners, GA (Summer 2025)](https://jobright.ai/jobs/info/677874d0e3f3cee275df190b?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA | On Site | Jan 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6758cfe33b67e8435ae0898f?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Jan 03 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer Sales Intern - Automotive](https://jobright.ai/jobs/info/6777cd72c24e9bbba6f361ad?utm_campaign=1051&utm_source=git)** | Arlington Heights, IL | On Site | Jan 03 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/66f73ad60182de365c3934ed?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 03 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/67107541b31e97324d698d21?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Jan 03 |
-| **[Risk Placement Services, Inc.](https://www.rpsins.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67464f4681cc97c8a0796cd7?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jan 03 |
-| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Las Vegas Commercial Real Estate Investment Sales Intern - Summer 2025](https://jobright.ai/jobs/info/66fa8febc1e45620c3e2aef2?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jan 03 |
-| **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Demand Planning Internship](https://jobright.ai/jobs/info/671c5eda9fa1f205dd26ee30?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Jan 03 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Sales Support Intern - Minnetonka, MN](https://jobright.ai/jobs/info/6777d0eb12406e99a377b3e5?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
