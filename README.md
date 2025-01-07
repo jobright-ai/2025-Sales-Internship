@@ -57,13 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phoenix Suns](https://suns.nba.com)** | **[Phoenix Mercury Partnership Strategy & Service Intern](https://jobright.ai/jobs/info/677c8f164cb8edbe9dcf1e1b?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 06 |
+| **[Corsair](http://www.corsair.com)** | **[E-commerce Intern](https://jobright.ai/jobs/info/677c96012770ee935b65ed5c?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 06 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Development Intern](https://jobright.ai/jobs/info/677c8f164cb8edbe9dcf1dea?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Jan 06 |
+| **[Little Words Project](https://littlewordsproject.com/)** | **[Retail Team Summer Intern](https://jobright.ai/jobs/info/677c941e38776008520ea839?utm_campaign=1051&utm_source=git)** | Mountainside, NJ | On Site | Jan 06 |
+| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Purchasing (Summer 2025)](https://jobright.ai/jobs/info/677c8f164cb8edbe9dcf1fb6?utm_campaign=1051&utm_source=git)** | Hagerstown, MD | On Site | Jan 06 |
+| ↳ | **[Intern: Purchasing (Summer 2025)](https://jobright.ai/jobs/info/677c80d58719ab2ffb0bddde?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Jan 06 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Summer 2025 - Honolulu)](https://jobright.ai/jobs/info/677c7df6c8f34506ecc0d7cc?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Jan 06 |
+| **[Corsair](http://www.corsair.com)** | **[E-commerce Intern](https://jobright.ai/jobs/info/677c796c9f98272da9131303?utm_campaign=1051&utm_source=git)** | 2100 Evergreen Blvd., Duluth, GA, 30096, US | On Site | Jan 06 |
 | **[Legends](http://legends.net)** | **[Intern, Legends Global Partnerships](https://jobright.ai/jobs/info/677c704ba4a6427558d5e68f?utm_campaign=1051&utm_source=git)** | Culver City, CA | Hybrid | Jan 06 |
+| ↳ | **[Intern, Legends Global Partnerships](https://jobright.ai/jobs/info/677c77f0847511921996ef32?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
 | **[Young Life](https://sworlando.younglife.org)** | **[Malibu Club - Spring Intern](https://jobright.ai/jobs/info/677c6bfb0b8114a3d5ab3fd2?utm_campaign=1051&utm_source=git)** | US Malibu Club | On Site | Jan 06 |
+| **[ADP](http://www.adp.com)** | **[Summer Sales Intern- May 2026 grads](https://jobright.ai/jobs/info/677c7705e820222f8f523c76?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jan 06 |
 | **[160over90](http://160over90.com/)** | **[Intern, Partnerships - 160over90](https://jobright.ai/jobs/info/677c6a3dbe387dc0bcea5a03?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 06 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Account Analyst Intern Summer 2025](https://jobright.ai/jobs/info/677c688e2e6167f1ce2b954a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Sales Intern](https://jobright.ai/jobs/info/677c63c664520b1b673b7c11?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Jan 06 |
 | **[BSE Global](https://www.bseglobal.net)** | **[Long Island Nets Summer Internship 2025](https://jobright.ai/jobs/info/677c704ba4a6427558d5e784?utm_campaign=1051&utm_source=git)** | Uniondale, NY | On Site | Jan 06 |
-| **[Transwestern](https://transwestern.com)** | **[Summer Intern 2025](https://jobright.ai/jobs/info/677c6e1a713c569f0550df32?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
+| **[Transwestern](https://transwestern.com)** | **[Summer Intern 2025](https://jobright.ai/jobs/info/677c6121d7ab569f755e7245?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Print Intern](https://jobright.ai/jobs/info/677c614d0f6a2583737d4922?utm_campaign=1051&utm_source=git)** | USA-MSP-2900 Ames Crossing Road | Hybrid | Jan 06 |
 | **[Swank Motion Pictures, Inc.](https://www.swank.com)** | **[Sales Development Representative Intern Summer 2025 - Public Libraries Streaming](https://jobright.ai/jobs/info/677c5ad72f0c037cd3da104f?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Jan 06 |
 | **[BSE Global](https://www.bseglobal.net)** | **[Long Island Nets Summer Internship 2025](https://jobright.ai/jobs/info/677c5ad72f0c037cd3da10cf?utm_campaign=1051&utm_source=git)** | Uniondale, NY 11553 | On Site | Jan 06 |
@@ -82,21 +92,20 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Digital Health Partnership](https://jobright.ai/jobs/info/677c57393cb3db4e34cbcac0?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 06 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Portland](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970ec?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 06 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Global Sourcing Internship - Summer 2025](https://jobright.ai/jobs/info/677c57b2dff3f7a042e57b47?utm_campaign=1051&utm_source=git)** | Lancaster, PA | Hybrid | Jan 06 |
-| ↳ | **[Purchasing Internship - Summer 2025](https://jobright.ai/jobs/info/677c57b2dff3f7a042e57b4a?utm_campaign=1051&utm_source=git)** | Lancaster, PA | Hybrid | Jan 06 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[2025 Summer Internship-Sales Operations Intern-New York, NY.](https://jobright.ai/jobs/info/677c4716c5c50c483be554a6?utm_campaign=1051&utm_source=git)** | East River, NY | On Site | Jan 06 |
 | **[Lactalis U.S. Yogurt](https://lactalisyogurtusa.com/)** | **[Revenue Growth Management Internship](https://jobright.ai/jobs/info/677c4b87025e7ed0f3b58cbe?utm_campaign=1051&utm_source=git)** | Bedford, NH | On Site | Jan 06 |
 | **[Aura Finance](https://www.aurafinance.io/)** | **[Student Internship - Business Development](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c3dd?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 06 |
 | **[The Chefs'​ Warehouse](http://www.chefswarehouse.com)** | **[Sales Intern](https://jobright.ai/jobs/info/677c357e04de1ece8dd61a12?utm_campaign=1051&utm_source=git)** | Hanover, MD | Hybrid | Jan 06 |
-| **[Abt Global](http://www.abtassociates.com)** | **[Client Engagement & Growth – Resilient Economies Intern (Global Development)](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c516?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
-| ↳ | **[US Domestic Business Development and Strategy Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c472?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
+| **[Abt Global](http://www.abtassociates.com)** | **[US Domestic Business Development and Strategy Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c472?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
+| ↳ | **[Client Engagement & Growth – Resilient Economies Intern (Global Development)](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c516?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
+| ↳ | **[US Domestic Business Development and Strategy Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c65c?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Jan 06 |
 | ↳ | **[US Domestic Business Development and Strategy Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c659?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Jan 06 |
 | ↳ | **[Client Engagement & Growth – Resilient Economies Intern (Global Development)](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c65b?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Jan 06 |
-| ↳ | **[US Domestic Business Development and Strategy Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c65c?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Jan 06 |
-| ↳ | **[Proposal Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c665?utm_campaign=1051&utm_source=git)** | Rockville, MD | Remote | Jan 06 |
 | ↳ | **[Client Engagement & Growth – Resilient Economies Intern (Global Development)](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c661?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Jan 06 |
 | ↳ | **[Global Health Business Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c664?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
-| ↳ | **[Proposal Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c4bb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
 | ↳ | **[Global Health Business Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c494?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Jan 06 |
+| ↳ | **[Proposal Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c665?utm_campaign=1051&utm_source=git)** | Rockville, MD | Remote | Jan 06 |
+| ↳ | **[Proposal Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c4bb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
 | ↳ | **[US Domestic Business Development and Strategy Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c668?utm_campaign=1051&utm_source=git)** | Rockville, MD | Remote | Jan 06 |
 | ↳ | **[Public Health Portfolio Business Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c48f?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Jan 06 |
 | ↳ | **[Global Health Business Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c66f?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Jan 06 |
@@ -126,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Stout](http://www.stout.com)** | **[Intern Summer 2025, Real Estate (Chicago)](https://jobright.ai/jobs/info/677c1a887f5d038377268299?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 06 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Merchandise Control Internship / Woburn, MA](https://jobright.ai/jobs/info/677c1ae065ad9f57e441d6c9?utm_campaign=1051&utm_source=git)** | Woburn, MA | Hybrid | Jan 06 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Purchasing Internship - Summer 2025](https://jobright.ai/jobs/info/677c18368b5f9638da759859?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Jan 06 |
+| **[Lumber](https://www.lumberfi.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/677c124b93c521b2a59caa0b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 06 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative](https://jobright.ai/jobs/info/677c124b93c521b2a59cab15?utm_campaign=1051&utm_source=git)** | Ogden, UT | On Site | Jan 06 |
-| **[Lumber](https://www.lumberfi.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/677c1af82a83b28d802389c6?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 06 |
 | **[AvalonBay Communities](https://www.avaloncommunities.com/)** | **[Real Estate Development Intern 2025 (Bellevue)](https://jobright.ai/jobs/info/677c1007da2fbff9e7c7603f?utm_campaign=1051&utm_source=git)** | LOC-10010-Bellevue Office | On Site | Jan 06 |
 | **[Loeffler Randall](https://loefflerrandall.com)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/677c0f8dc6ed795fe3fe37c3?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 06 |
 | **[Yahoo](http://www.yahoo.com)** | **[Sports Sales Strategy Intern](https://jobright.ai/jobs/info/677c0c9c2f2d90665e80acde?utm_campaign=1051&utm_source=git)** | United States of America | On Site | Jan 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Wholesale Distribution Leadership Intern](https://jobright.ai/jobs/info/677c0418c09165e70c985350?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Jan 06 |
 | ↳ | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/677c0418c09165e70c985351?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Jan 06 |
 | **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Sales Summer Intern](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a46ad?utm_campaign=1051&utm_source=git)** | Doral, FL, USA | On Site | Jan 06 |
-| **[NEOGOV](http://www.neogov.com)** | **[Internship with Purchasing & Logistics (Summer 2025)](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a46eb?utm_campaign=1051&utm_source=git)** | Wake County, NC | On Site | Jan 06 |
-| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/677bf9df39decce729d9988e?utm_campaign=1051&utm_source=git)** | Camp Hill, PA | On Site | Jan 06 |
-| ↳ | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/677bf28cb6bf6bb0472ed271?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Jan 06 |
-| ↳ | **[Sales, Strategy, and Planning Internship](https://jobright.ai/jobs/info/677bf28cb6bf6bb0472ed273?utm_campaign=1051&utm_source=git)** | Gwynn Oak, MD | On Site | Jan 06 |
-| ↳ | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/677bf9df39decce729d99893?utm_campaign=1051&utm_source=git)** | Bensalem, PA | On Site | Jan 06 |
-| ↳ | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/677bf9df39decce729d99895?utm_campaign=1051&utm_source=git)** | Camp Hill, PA | On Site | Jan 06 |
-| **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Retail Assistant Buyer](https://jobright.ai/jobs/info/677bf28cb6bf6bb0472ed0ea?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 06 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/677be7f73e1151a6a684f9e3?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Jan 06 |
-| **[Siemens](https://www.siemens.com/)** | **[Sales Development Program (Construction Sales) Internship](https://jobright.ai/jobs/info/677bda939a42f59ef130540e?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
