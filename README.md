@@ -57,15 +57,36 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2025 Summer Internship Program: Corporate Opportunities: Operations (CA, NY)](https://jobright.ai/jobs/info/6760a338243be51140e09365?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Jan 07 |
+| **[InComm Payments](https://www.incomm.com/)** | **[Digital Operations Intern](https://jobright.ai/jobs/info/6760ba871ff8529699c829a9?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Sales Intern (Global Business Solutions - US Commerce - Retail) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/677d200981edbc066458cd24?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jan 07 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/674055a58fda03530576f64e?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Jan 07 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/677d200981edbc066458cecc?utm_campaign=1051&utm_source=git)** | Niles, OH | On Site | Jan 07 |
+| **[TikTok](https://www.tiktok.com)** | **[E-commerce Fulfillment Governance Program Management MBA Intern (TikTok Shop - Governance and Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/677d1cbaf9ce273d74535b8c?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 International Store Operations Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/6705ee413da889969b1353d9?utm_campaign=1051&utm_source=git)** | Reynoldsburg, OH | Hybrid | Jan 07 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Excellence Elite Intern](https://jobright.ai/jobs/info/66e23468592241bcadb2b24e?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Jan 07 |
+| **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Internship](https://jobright.ai/jobs/info/677d0c703927e55163374d28?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Jan 07 |
+| ↳ | **[Technical Sales Internship](https://jobright.ai/jobs/info/66ec6c09611da98b4c5a3346?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 07 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Internship](https://jobright.ai/jobs/info/677d0c703927e55163374d2a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 07 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Internship](https://jobright.ai/jobs/info/677d0c703927e55163374d2d?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
+| ↳ | **[Sales Development Program Internship](https://jobright.ai/jobs/info/66ec7ba3c413563debb50343?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 07 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Management and Sales Summer Internship](https://jobright.ai/jobs/info/677d05f950126a7856ff3041?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | On Site | Jan 07 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Professional Commercial Real Estate](https://jobright.ai/jobs/info/6760ba871ff8529699c8299b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 07 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Sales Platform Intern (Remote)](https://jobright.ai/jobs/info/677d14b604f253525f2d98d3?utm_campaign=1051&utm_source=git)** | Greater Cleveland | Remote | Jan 07 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship](https://jobright.ai/jobs/info/67044cb11b18945edbb4ee3f?utm_campaign=1051&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 07 |
+| **[Legends](http://legends.net)** | **[Ohio State Athletics- Retail Summer Internship](https://jobright.ai/jobs/info/674f9f25513e3a21064501c5?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 07 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Business Operations and Leadership Internship - Summer 2025](https://jobright.ai/jobs/info/677d05f11fcb44cb690232fa?utm_campaign=1051&utm_source=git)** | Brentwood, TN | Hybrid | Jan 07 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Sales Analyst Student Experience](https://jobright.ai/jobs/info/66d73591a3618aa441399bfb?utm_campaign=1051&utm_source=git)** | West Fargo, ND | On Site | Jan 07 |
+| **[CareSource](https://www.caresource.com/)** | **[REMOTE - Summer Internship 2025 - Sales - R8034](https://jobright.ai/jobs/info/66fc73faae7542c2786fa9a5?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 07 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67341afc4a64a6603c61e006?utm_campaign=1051&utm_source=git)** | Addison, IL | On Site | Jan 07 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Print Intern](https://jobright.ai/jobs/info/677ce8b6bc27b0496e63c995?utm_campaign=1051&utm_source=git)** | Eagan, MN | Hybrid | Jan 06 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa954?utm_campaign=1051&utm_source=git)** | Pennsauken, NJ | On Site | Jan 06 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa970?utm_campaign=1051&utm_source=git)** | Linthicum, MD | On Site | Jan 06 |
-| ↳ | **[Electronic Security Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa959?utm_campaign=1051&utm_source=git)** | Horsham, PA | On Site | Jan 06 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa968?utm_campaign=1051&utm_source=git)** | Chantilly, VA | On Site | Jan 06 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa970?utm_campaign=1051&utm_source=git)** | Linthicum, MD | On Site | Jan 06 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa954?utm_campaign=1051&utm_source=git)** | Pennsauken, NJ | On Site | Jan 06 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa951?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | On Site | Jan 06 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa968?utm_campaign=1051&utm_source=git)** | Chantilly, VA | On Site | Jan 06 |
+| ↳ | **[Electronic Security Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa959?utm_campaign=1051&utm_source=git)** | Horsham, PA | On Site | Jan 06 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa950?utm_campaign=1051&utm_source=git)** | Canton, MA | On Site | Jan 06 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa956?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 06 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677cd3d79c2f266c42daa997?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 06 |
 | **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/677cdf8b35dce1b798dd52f2?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 06 |
 | **[USAble Life](https://www.usablelife.com)** | **[Intern - Sales &amp; Business Support - Remote in Jacksonville, FL](https://jobright.ai/jobs/info/677cdf8b35dce1b798dd5350?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Remote | Jan 06 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Property & Casualty Account Management Intern- Summer 2025](https://jobright.ai/jobs/info/677cc39b87308d3db2870fec?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Jan 06 |
@@ -77,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Intern (Heyburn, ID - Summer 2025)](https://jobright.ai/jobs/info/677cb28cde977a792937fa99?utm_campaign=1051&utm_source=git)** | Heyburn, ID | On Site | Jan 06 |
 | ↳ | **[Retail Management Intern (Box Elder, SD - Summer 2025)](https://jobright.ai/jobs/info/677cb28cde977a792937fa95?utm_campaign=1051&utm_source=git)** | Box Elder, SD | On Site | Jan 06 |
 | ↳ | **[Retail Management Intern (Milton, FL - Summer 2023)](https://jobright.ai/jobs/info/677cb28cde977a792937faa5?utm_campaign=1051&utm_source=git)** | Bliss, ID | On Site | Jan 06 |
-| ↳ | **[Retail Management Intern (Salt Lake City, UT - Summer 2025)](https://jobright.ai/jobs/info/677cb28cde977a792937fa9b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 06 |
 | ↳ | **[Retail Management Intern (Idaho Falls, ID - Summer 2025)](https://jobright.ai/jobs/info/677cb28cde977a792937fa9a?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Jan 06 |
+| ↳ | **[Retail Management Intern (Salt Lake City, UT - Summer 2025)](https://jobright.ai/jobs/info/677cb28cde977a792937fa9b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 06 |
 | ↳ | **[Retail Management Intern (Sioux Falls, SD - Summer 2025)](https://jobright.ai/jobs/info/677cb28cde977a792937fabf?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Jan 06 |
 | **[Northwood Ravin](http://nwrliving.com)** | **[2025 NWR Development Intern - Charlotte Corporate](https://jobright.ai/jobs/info/677cb28cde977a792937fac0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 06 |
 | **[Ecolab](http://www.ecolab.com)** | **[Sales Development Program Internship](https://jobright.ai/jobs/info/677caa774e38575917c1f1dd?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 06 |
@@ -119,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[STERIS](http://steris.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/677c57393cb3db4e34cbcae2?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Jan 06 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Retail Operations (Spring 2025)](https://jobright.ai/jobs/info/677c4b87025e7ed0f3b58b6b?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jan 06 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/677c57393cb3db4e34cbcb9e?utm_campaign=1051&utm_source=git)** | Berwyn, PA | Hybrid | Jan 06 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Digital Health Partnership](https://jobright.ai/jobs/info/677c57393cb3db4e34cbcac0?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jan 06 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Portland](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970ec?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 06 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Global Sourcing Internship - Summer 2025](https://jobright.ai/jobs/info/677c57b2dff3f7a042e57b47?utm_campaign=1051&utm_source=git)** | Lancaster, PA | Hybrid | Jan 06 |
 | ↳ | **[Purchasing Internship - Summer 2025](https://jobright.ai/jobs/info/677c57b2dff3f7a042e57b4a?utm_campaign=1051&utm_source=git)** | Lancaster, PA | Hybrid | Jan 06 |
@@ -130,31 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Abt Global](http://www.abtassociates.com)** | **[US Domestic Business Development and Strategy Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c472?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
 | ↳ | **[Client Engagement & Growth – Resilient Economies Intern (Global Development)](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c516?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
 | ↳ | **[US Domestic Business Development and Strategy Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c659?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Jan 06 |
-| ↳ | **[Client Engagement & Growth – Resilient Economies Intern (Global Development)](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c65b?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Jan 06 |
 | ↳ | **[US Domestic Business Development and Strategy Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c65c?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Jan 06 |
+| ↳ | **[Client Engagement & Growth – Resilient Economies Intern (Global Development)](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c65b?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Jan 06 |
+| ↳ | **[Proposal Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c665?utm_campaign=1051&utm_source=git)** | Rockville, MD | Remote | Jan 06 |
+| ↳ | **[Global Health Business Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c664?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
+| ↳ | **[Proposal Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c4bb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
 | ↳ | **[Client Engagement & Growth – Resilient Economies Intern (Global Development)](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c661?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Jan 06 |
 | ↳ | **[Global Health Business Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c494?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Jan 06 |
-| ↳ | **[Proposal Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c665?utm_campaign=1051&utm_source=git)** | Rockville, MD | Remote | Jan 06 |
-| ↳ | **[Proposal Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c4bb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
-| ↳ | **[Global Health Business Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c664?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
-| ↳ | **[US Domestic Business Development and Strategy Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c668?utm_campaign=1051&utm_source=git)** | Rockville, MD | Remote | Jan 06 |
-| ↳ | **[Global Health Business Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c66f?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Jan 06 |
-| ↳ | **[Client Engagement & Growth – Resilient Economies Intern (Global Development)](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c66d?utm_campaign=1051&utm_source=git)** | Rockville, MD | Remote | Jan 06 |
-| ↳ | **[Public Health Portfolio Business Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c66c?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Jan 06 |
-| ↳ | **[Public Health Portfolio Business Development Intern](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c48f?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Jan 06 |
-| ↳ | **[Proposal Development Intern](https://jobright.ai/jobs/info/677c5dd98dad8e008683cea3?utm_campaign=1051&utm_source=git)** | Durham, NC | Remote | Jan 06 |
-| ↳ | **[Public Health Portfolio Business Development Intern](https://jobright.ai/jobs/info/677c5dd98dad8e008683cea2?utm_campaign=1051&utm_source=git)** | Rockville, MD | Remote | Jan 06 |
-| ↳ | **[Global Health Business Development Intern](https://jobright.ai/jobs/info/677c5dd98dad8e008683cea4?utm_campaign=1051&utm_source=git)** | Rockville, MD | Remote | Jan 06 |
-| ↳ | **[Public Health Portfolio Business Development Intern](https://jobright.ai/jobs/info/677c5dd98dad8e008683cea6?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jan 06 |
-| ↳ | **[Proposal Development Intern](https://jobright.ai/jobs/info/677c5dd98dad8e008683cea5?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Remote | Jan 06 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern **](https://jobright.ai/jobs/info/677c357e04de1ece8dd61a1b?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jan 06 |
-| **[Textron](http://textron.com)** | **[2025 E-Z-GO Sales Intern](https://jobright.ai/jobs/info/677c3a73d76414159ac3c519?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Jan 06 |
-| ↳ | **[2025 Sales Intern GSE](https://jobright.ai/jobs/info/677c3a73d76414159ac3c516?utm_campaign=1051&utm_source=git)** | Cartersville, GA | On Site | Jan 06 |
-| **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Sales Development Internship](https://jobright.ai/jobs/info/677c2caa75388548aeb7d2dd?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Jan 06 |
-| **[IEX](https://iex.io/)** | **[Exchange Generalist Intern](https://jobright.ai/jobs/info/677c49ccff023826e2c666b9?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 06 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[CVS Health Retail Management Internship - Chicago/Central Illinois](https://jobright.ai/jobs/info/677c2958a77535fdfd47d980?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 06 |
-| **[Aflac](http://www.aflac.com)** | **[Sales Intern](https://jobright.ai/jobs/info/677c2e5663bd6280d8188559?utm_campaign=1051&utm_source=git)** | McCandless, PA | On Site | Jan 06 |
-| **[Medicus Healthcare Solutions](https://medicushcs.com/)** | **[Sales Intern (Summer 2025 start)](https://jobright.ai/jobs/info/672bb39f15b272559cd7a4ca?utm_campaign=1051&utm_source=git)** | Windham, NH | On Site | Jan 06 |
-| **[Lactalis U.S. Yogurt](https://lactalisyogurtusa.com/)** | **[Revenue Growth Management Internship](https://jobright.ai/jobs/info/677c22d2e78ead1a4e3c7a39?utm_campaign=1051&utm_source=git)** | Bedford, NH, USA | On Site | Jan 06 |
-| **[Abt Global](http://www.abtassociates.com)** | **[Public Health Portfolio Business Development Intern](https://jobright.ai/jobs/info/677c22d2e78ead1a4e3c7a2f?utm_campaign=1051&utm_source=git)** | Rockville, MD, United States | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
