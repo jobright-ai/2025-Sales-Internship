@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Small Business Underwriting Trainee](https://jobright.ai/jobs/info/677e786396321c3fdfbc136c?utm_campaign=1051&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | On Site | Jan 08 |
+| ↳ | **[Agribusiness Underwriting Trainee](https://jobright.ai/jobs/info/677e786396321c3fdfbc1370?utm_campaign=1051&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | On Site | Jan 08 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Services Intern- Summer 2025- Franklin, TN](https://jobright.ai/jobs/info/677e7531dbad72822198c529?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Jan 08 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/674055a58fda03530576f637?utm_campaign=1051&utm_source=git)** | Maple Grove, MN | On Site | Jan 08 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67437398160e7cb7054f4680?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Jan 08 |
+| **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Sales Intern (Kennesaw/Marietta)](https://jobright.ai/jobs/info/6758fd9517082d9d21d444f9?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Jan 08 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Business Strategy Specialist Intern - MBA](https://jobright.ai/jobs/info/677e46f50c1c1fef654d6a6c?utm_campaign=1051&utm_source=git)** | Waltham, MA | Remote | Jan 08 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Engineer Intern - HVAC](https://jobright.ai/jobs/info/677e229cf846f2879cd3ba63?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 07 |
 | **[Cox Communications](http://www.cox.com)** | **[Sales Business Development Intern- Summer 2025](https://jobright.ai/jobs/info/677e2da950d0c64e507dfecb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 07 |
@@ -78,11 +84,12 @@ For a complete list, click the following sortable link below:
 | **[TZ Medical](http://tzmedical.com)** | **[TZ Medical-Medical Device Sales Internship Program](https://jobright.ai/jobs/info/677dca0816bbe711ac5b6eb9?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 07 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Junior Business Development Data Analyst (Intern)](https://jobright.ai/jobs/info/677dcfeb8a65809bfc29f875?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Jan 07 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Merchandise Control Internship / Charlotte, NC](https://jobright.ai/jobs/info/677dea379d0b559c81f717c7?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jan 07 |
+| **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Sales Internship](https://jobright.ai/jobs/info/67776e528fdb37de99c8ce30?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Jan 07 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Pricing and Contracts](https://jobright.ai/jobs/info/677dbd8ff3efbd68212f785e?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 07 |
 | **[Veeam Software](http://www.veeam.com)** | **[Customer Success Intern (Bilingual Spanish) - Summer 2025](https://jobright.ai/jobs/info/677dd3089ea54e3c37b0f19b?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 07 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/677dc1ce9eee6363976108a4?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Jan 07 |
-| ↳ | **[Sales Executive Intern - Summer 2025](https://jobright.ai/jobs/info/677dc1ce9eee6363976108bc?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Jan 07 |
 | ↳ | **[Commercial Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/677dc1ce9eee6363976108b9?utm_campaign=1051&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 07 |
+| ↳ | **[Sales Executive Intern - Summer 2025](https://jobright.ai/jobs/info/677dc1ce9eee6363976108bc?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Jan 07 |
 | ↳ | **[Personal Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/677dc1ce9eee6363976108c3?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Jan 07 |
 | ↳ | **[Sales Executive Intern - Summer 2025](https://jobright.ai/jobs/info/677dc1ce9eee6363976108a8?utm_campaign=1051&utm_source=git)** | Cranford, NJ | On Site | Jan 07 |
 | ↳ | **[Personal Lines Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/677dc1ce9eee6363976108b4?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Jan 07 |
@@ -110,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[CLEAR](http://www.clearme.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/677d9f639591d09260c2fc3f?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Global Business Sales Co-op](https://jobright.ai/jobs/info/677d95501a28a17060c1271a?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
 | ↳ | **[Comcast RISE Co-op](https://jobright.ai/jobs/info/677d95501a28a17060c1272c?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
-| ↳ | **[Comcast Customer Retention Co-op](https://jobright.ai/jobs/info/677d95501a28a17060c126f5?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
 | ↳ | **[Comcast Analyst, NOW Growth Operations Co-op](https://jobright.ai/jobs/info/677d95501a28a17060c126fc?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
+| ↳ | **[Comcast Customer Retention Co-op](https://jobright.ai/jobs/info/677d95501a28a17060c126f5?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
 | **[Boston Red Sox](http://www.redsox.com)** | **[2025 FSM Associate Program](https://jobright.ai/jobs/info/677d931598c357fbe91e1d14?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | On Site | Jan 07 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/677d8e84a4e5161ccb5779f4?utm_campaign=1051&utm_source=git)** | Madison, WI | Hybrid | Jan 07 |
 | **[Mylo](https://choosemylo.com)** | **[Sales Intern- Summer 2025](https://jobright.ai/jobs/info/67586a51a41b020453dcdef0?utm_campaign=1051&utm_source=git)** | KC Metro Area | On Site | Jan 07 |
@@ -120,6 +127,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/677d89966a1ec27b5eceef07?utm_campaign=1051&utm_source=git)** | Oakwood, GA | On Site | Jan 07 |
 | **[Cencora](http://www.cencora.com)** | **[Consumer Strategic Accounts Intern](https://jobright.ai/jobs/info/677d9434e6373cf79d0ab53d?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Jan 07 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Sales Business Development Intern- Summer 2025](https://jobright.ai/jobs/info/677d8789589bbac0c03567a0?utm_campaign=1051&utm_source=git)** | Atlanta GA | On Site | Jan 07 |
+| **[Techtronic Industries - TTI](http://ttigroup.com/)** | **[Field Sales & Marketing Representative Intern](https://jobright.ai/jobs/info/6733d79d63abd8eccbb6dae1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast National Account Management and Sales Co-op](https://jobright.ai/jobs/info/677d83c10fc1904e737f2bb8?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
 | ↳ | **[Comcast Impact & Inclusion Strategic Partnerships and Philanthropy Co-op](https://jobright.ai/jobs/info/677d83c10fc1904e737f2b9e?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern**](https://jobright.ai/jobs/info/677d8b86fdb5ce13253dd375?utm_campaign=1051&utm_source=git)** | SC-DuBois Area | On Site | Jan 07 |
@@ -135,26 +143,18 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Management and Sales Summer Internship](https://jobright.ai/jobs/info/677d7b882402775db5bf112d?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jan 07 |
 | **[Bosch](http://www.bosch.com)** | **[Sales Engineer(Distribution)Intern](https://jobright.ai/jobs/info/677d76fde33f40db229159e6?utm_campaign=1051&utm_source=git)** | 700 Woodlands Pkwy, Vernon Hills, IL 60061, USA | On Site | Jan 07 |
 | ↳ | **[Sales Engineer(OEM) Intern](https://jobright.ai/jobs/info/677d76fde33f40db229159db?utm_campaign=1051&utm_source=git)** | 700 Woodlands Pkwy, Vernon Hills, IL 60061, USA | On Site | Jan 07 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec239?utm_campaign=1051&utm_source=git)** | West Creek-Richmond Corp (0999) | On Site | Jan 07 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec0c5?utm_campaign=1051&utm_source=git)** | 12500 West Creek Pkwy | On Site | Jan 07 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec234?utm_campaign=1051&utm_source=git)** | Montgomery, Illinois (IL) | On Site | Jan 07 |
-| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec0b6?utm_campaign=1051&utm_source=git)** | Virginia | On Site | Jan 07 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec235?utm_campaign=1051&utm_source=git)** | Virginia | On Site | Jan 07 |
-| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec236?utm_campaign=1051&utm_source=git)** | Oakwood, Georgia (GA) | On Site | Jan 07 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec237?utm_campaign=1051&utm_source=git)** | 12500 West Creek Pkwy | On Site | Jan 07 |
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec23b?utm_campaign=1051&utm_source=git)** | West Creek-Richmond Corp (0999) | On Site | Jan 07 |
-| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec237?utm_campaign=1051&utm_source=git)** | 12500 West Creek Pkwy | On Site | Jan 07 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec0c6?utm_campaign=1051&utm_source=git)** | 12500 West Creek Pkwy | On Site | Jan 07 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec241?utm_campaign=1051&utm_source=git)** | West Creek-Richmond Corp (0999) | On Site | Jan 07 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec235?utm_campaign=1051&utm_source=git)** | Virginia | On Site | Jan 07 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec239?utm_campaign=1051&utm_source=git)** | West Creek-Richmond Corp (0999) | On Site | Jan 07 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec0c5?utm_campaign=1051&utm_source=git)** | 12500 West Creek Pkwy | On Site | Jan 07 |
+| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec0b6?utm_campaign=1051&utm_source=git)** | Virginia | On Site | Jan 07 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec234?utm_campaign=1051&utm_source=git)** | Montgomery, Illinois (IL) | On Site | Jan 07 |
+| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec236?utm_campaign=1051&utm_source=git)** | Oakwood, Georgia (GA) | On Site | Jan 07 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec242?utm_campaign=1051&utm_source=git)** | City of Industry, California (CA) | On Site | Jan 07 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec241?utm_campaign=1051&utm_source=git)** | West Creek-Richmond Corp (0999) | On Site | Jan 07 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec243?utm_campaign=1051&utm_source=git)** | Virginia | On Site | Jan 07 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec0c6?utm_campaign=1051&utm_source=git)** | 12500 West Creek Pkwy | On Site | Jan 07 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer 2025 College Financial Representative Internship](https://jobright.ai/jobs/info/677d655cd67d7e8df13a191e?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Jan 07 |
 | **[CrossLink](https://www.crosslinklifesciences.com/)** | **[Intern](https://jobright.ai/jobs/info/677d733f53e1143ba1bec13e?utm_campaign=1051&utm_source=git)** | Norcross, GA, USA | On Site | Jan 07 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Business Strategy Specialist Intern - MBA](https://jobright.ai/jobs/info/677d6e40af916605d28af898?utm_campaign=1051&utm_source=git)** | 275 Wyman Street 275 Wyman Street 2nd Floor, Waltham, Massachusetts, United States | On Site | Jan 07 |
-| **[Giorgio Armani](http://www.armani.com)** | **[CRM Intern](https://jobright.ai/jobs/info/677d800a3969246896e97785?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 07 |
-| ↳ | **[E-Commerce Intern (Merchandising/Digital Marketing)](https://jobright.ai/jobs/info/677d800a3969246896e97787?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 07 |
-| **[OpenSponsorship](http://www.opensponsorship.com)** | **[Sales Intern](https://jobright.ai/jobs/info/677d7c4601f2be7d1ea170b3?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 07 |
-| **[Giorgio Armani](http://www.armani.com)** | **[CRM Internship: Spring 2025](https://jobright.ai/jobs/info/677d6b21c73951a3c6a80c38?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 07 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative](https://jobright.ai/jobs/info/677d655cd67d7e8df13a191e?utm_campaign=1051&utm_source=git)** | Tulsa, OK | Hybrid | Jan 07 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2025 Intern - Sales](https://jobright.ai/jobs/info/677d5ca629a2c6d0afeb3cbe?utm_campaign=1051&utm_source=git)** | Tower 500 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Jan 07 |
-| **[Laird Plastics](http://www.lairdplastics.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6759f97b2c1b4b44e76fc0d2?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 07 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/677d648cd36fa35462415ecb?utm_campaign=1051&utm_source=git)** | Inver Grove Heights, MN | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
