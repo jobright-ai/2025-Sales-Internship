@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Opendorse](http://opendorse.com)** | **[Commercial Services Intern](https://jobright.ai/jobs/info/6782efae5757295c596e975d?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jan 11 |
+| ↳ | **[Collegiate Partnerships Sales Intern](https://jobright.ai/jobs/info/6782efae5757295c596e9752?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Commercial Sales Execution - South](https://jobright.ai/jobs/info/6782a607b950c9bb99317fd7?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - National Commercial Execution & Operations](https://jobright.ai/jobs/info/6782933fc94f4f5a9ffdb071?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | **[WOW Payments](http://wowpayments.com)** | **[Business Development Intern - New York Office](https://jobright.ai/jobs/info/67827bc675a1fe88b81bb04b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 11 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6765ef7875b93d2604f2148e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aefa?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Jan 11 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/676597447045e0e45147817a?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Jan 11 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Intern](https://jobright.ai/jobs/info/6782446195a57c0d6b7e465d?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Jan 11 |
 | **[XPO](https://www.xpo.com)** | **[Intern - Sales Operation](https://jobright.ai/jobs/info/67826a9448382c38ad6c63d3?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 11 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Internship- Enterprise Car Sales](https://jobright.ai/jobs/info/6782346e0ba4815cad2dd82d?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Jan 10 |
 | **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/6781ffd1718f4b7b4b84f7af?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Jan 10 |
@@ -81,10 +84,8 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857be?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 10 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857b8?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857b5?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 10 |
-| ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857b1?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 10 |
-| ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857aa?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Jan 10 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857b6?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Jan 10 |
-| ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857b4?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jan 10 |
+| ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857b1?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 10 |
 | **[Principal Financial Group](https://principaletfs.com/)** | **[Internal Sales Specialist](https://jobright.ai/jobs/info/6781e5bfb553cae58485ffaa?utm_campaign=1051&utm_source=git)** | Wayne, PA | Hybrid | Jan 10 |
 | ↳ | **[Internal Sales Specialist](https://jobright.ai/jobs/info/6781e5bfb553cae58485ffa9?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jan 10 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542ad1?utm_campaign=1051&utm_source=git)** | Traverse City, MI | On Site | Jan 10 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2024 Summer Intern Conversions](https://jobright.ai/jobs/info/6781d3351bfdfdbb2ae164ca?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | Jan 10 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Commercial Underwriting – Boston](https://jobright.ai/jobs/info/6781cf9aa1293344aee4201a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 10 |
 | **[Erin Hills Golf Course](http://erinhills.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/6781d17524b3a2c4c02dc787?utm_campaign=1051&utm_source=git)** | Hartford Town, WI | On Site | Jan 10 |
+| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Commercial Banking - Oyster Point](https://jobright.ai/jobs/info/674f457849d8a628fb0ffa81?utm_campaign=1051&utm_source=git)** | Newport News, VA | On Site | Jan 10 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Customer Success Internship](https://jobright.ai/jobs/info/677db275e019d8d1a782a476?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Jan 10 |
 | **[PEAK6](https://www.peak6.com)** | **[Trading Internship for Women+](https://jobright.ai/jobs/info/6781b386557ce9ace3a2e7e1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2ce?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Jan 10 |
@@ -120,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[When I Work](http://wheniwork.com)** | **[Product Sales Specialist Intern](https://jobright.ai/jobs/info/6781a0e8ee4c417beeb07a73?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/6781c874b2b916def5e295cd?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/67818f7bf83f99b126091672?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Buyer](https://jobright.ai/jobs/info/67484e70f03fcc58f4246e55?utm_campaign=1051&utm_source=git)** | Poway, CA | Hybrid | Jan 10 |
 | **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Commercial Lines Underwriting Intern](https://jobright.ai/jobs/info/6781969950ee66a6a1eddf55?utm_campaign=1051&utm_source=git)** | Bedford, NH | On Site | Jan 10 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/67819bef6982f190969f47e2?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jan 10 |
 | **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Personal Lines Underwriting Intern](https://jobright.ai/jobs/info/6781969950ee66a6a1ede026?utm_campaign=1051&utm_source=git)** | Bedford, NH | On Site | Jan 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4fd?utm_campaign=1051&utm_source=git)** | Golden Valley, MN | On Site | Jan 10 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc506?utm_campaign=1051&utm_source=git)** | Onalaska, WI | On Site | Jan 10 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc508?utm_campaign=1051&utm_source=git)** | Sunset Hills, MO | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc50a?utm_campaign=1051&utm_source=git)** | Ellicott City, MD | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc50c?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc513?utm_campaign=1051&utm_source=git)** | Hunt Valley, MD | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
