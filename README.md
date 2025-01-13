@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/66efaa6adee9b86420a5fa79?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Jan 13 |
+| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Sales Intern](https://jobright.ai/jobs/info/6784f8d8448d566810f2e75e?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Jan 13 |
+| **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Internship](https://jobright.ai/jobs/info/6784f82b1f8e00c1ce7edab3?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aef1?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jan 13 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/6765a82a1c6e61383f87e446?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Jan 13 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/66f64af8203cb5235c4ed501?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 13 |
+| **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Internship](https://jobright.ai/jobs/info/6784f82b1f8e00c1ce7edacb?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jan 13 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer Sales Intern - Automotive](https://jobright.ai/jobs/info/67777ea1871ee05b890d115a?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Jan 13 |
+| **[Boll & Branch](https://www.bollandbranch.com)** | **[Business Development & Partnerships Intern](https://jobright.ai/jobs/info/6764b358de5de22bcf91b9aa?utm_campaign=1051&utm_source=git)** | Summit, NJ | Hybrid | Jan 13 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Professional Commercial Real Estate](https://jobright.ai/jobs/info/6760c24d212a4518247eb9d4?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 13 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Sales Operations Analyst - 2025 Summer Intern](https://jobright.ai/jobs/info/6744b7005310f40420a10808?utm_campaign=1051&utm_source=git)** | Southlake, TX | Hybrid | Jan 13 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6784e8c3c79f07e4115077a5?utm_campaign=1051&utm_source=git)** | York, SC | On Site | Jan 13 |
+| **[Roche](http://www.roche.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6784e24f832b24076f862733?utm_campaign=1051&utm_source=git)** | Shanghai, VA | On Site | Jan 13 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Field Sales Internship](https://jobright.ai/jobs/info/6784dbb6c893e10a8cdd3c00?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | On Site | Jan 13 |
 | **[Crane Company](https://www.craneco.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6784c62cf511ae6580ce1031?utm_campaign=1051&utm_source=git)** | Lynnwood, WA | On Site | Jan 12 |
 | **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/6784a152b0bb4c562b5c1025?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Jan 12 |
@@ -71,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern -Orange County Irvine](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8f1?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jan 12 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Mentorship Program - New Jersey](https://jobright.ai/jobs/info/66eb1fcb677087f8da69ca7a?utm_campaign=1051&utm_source=git)** | Saddle Brook, NJ | On Site | Jan 12 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/66e3824af5b0e0bd9bd87934?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Jan 12 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Richmond](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8ee?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Jan 12 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Loyalty Intern](https://jobright.ai/jobs/info/6764a3b7f50accb7ad722683?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Jan 11 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Sales Executive Intern](https://jobright.ai/jobs/info/678340c06046c8082e5ef76f?utm_campaign=1051&utm_source=git)** | Sterling Heights, MI | On Site | Jan 11 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[CRM, Personalization, and Loyalty Summer (STAR) Intern](https://jobright.ai/jobs/info/67833af76f2c04321faf88cd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
@@ -106,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/6781ebbb8395d3826b2a9695?utm_campaign=1051&utm_source=git)** | Spanish Fort, AL | On Site | Jan 10 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2024 Summer Intern Conversions](https://jobright.ai/jobs/info/6781ebbb8395d3826b2a9447?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | Jan 10 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[SHOWROOM INTERNSHIP](https://jobright.ai/jobs/info/6781fa91710886a62f4f7df6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857be?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 10 |
-| ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857b5?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 10 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857b5?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 10 |
+| ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/6781f44d09ad6096289857be?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jan 10 |
 | **[Principal Financial Group](https://principaletfs.com/)** | **[Internal Sales Specialist](https://jobright.ai/jobs/info/6781e5bfb553cae58485ffaa?utm_campaign=1051&utm_source=git)** | Wayne, PA | Hybrid | Jan 10 |
 | ↳ | **[Internal Sales Specialist](https://jobright.ai/jobs/info/6781e5bfb553cae58485ffa9?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jan 10 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542ad1?utm_campaign=1051&utm_source=git)** | Traverse City, MI | On Site | Jan 10 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/6781c874b2b916def5e295cd?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/67818f7bf83f99b126091672?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Buyer](https://jobright.ai/jobs/info/67484e70f03fcc58f4246e55?utm_campaign=1051&utm_source=git)** | Poway, CA | Hybrid | Jan 10 |
-| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Commercial Lines Underwriting Intern](https://jobright.ai/jobs/info/6781969950ee66a6a1eddf55?utm_campaign=1051&utm_source=git)** | Bedford, NH | On Site | Jan 10 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Summer 2025](https://jobright.ai/jobs/info/67819bef6982f190969f47e2?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jan 10 |
-| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Personal Lines Underwriting Intern](https://jobright.ai/jobs/info/6781969950ee66a6a1ede026?utm_campaign=1051&utm_source=git)** | Bedford, NH | On Site | Jan 10 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc498?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4a0?utm_campaign=1051&utm_source=git)** | North Palm Beach, FL | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4a2?utm_campaign=1051&utm_source=git)** | Chesterfield, MO | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4a4?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4a5?utm_campaign=1051&utm_source=git)** | Westlake Village, CA | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4a6?utm_campaign=1051&utm_source=git)** | Vestavia Hills, AL | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4a7?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4a9?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4b1?utm_campaign=1051&utm_source=git)** | Quincy, IL | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4b2?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4be?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
