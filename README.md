@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking Internship- Client Advocacy, Commercial Lines- Summer 2025 - NYC](https://jobright.ai/jobs/info/678463913b1959989f0818d2?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 12 |
 | **[Atmosfy](https://atmosfy.io)** | **[Account Executive Intern](https://jobright.ai/jobs/info/67844360f7376757c75a25ff?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 12 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #662](https://jobright.ai/jobs/info/678449e4e6e5dd87d7b83c1e?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Jan 12 |
 | **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/6783ef610b6461f5cca0e281?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Jan 12 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern -Orange County Irvine](https://jobright.ai/jobs/info/6764429839ffdd57b54ed8f1?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jan 12 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Mentorship Program - New Jersey](https://jobright.ai/jobs/info/66eb1fcb677087f8da69ca7a?utm_campaign=1051&utm_source=git)** | Saddle Brook, NJ | On Site | Jan 12 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Sales Executive Intern](https://jobright.ai/jobs/info/678340c06046c8082e5ef76f?utm_campaign=1051&utm_source=git)** | Sterling Heights, MI | On Site | Jan 11 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Alternate Sales Summer (STAR) Intern](https://jobright.ai/jobs/info/67833af76f2c04321faf88bb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
-| ↳ | **[CRM, Personalization, and Loyalty Summer (STAR) Intern](https://jobright.ai/jobs/info/67833af76f2c04321faf88cd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[CRM, Personalization, and Loyalty Summer (STAR) Intern](https://jobright.ai/jobs/info/67833af76f2c04321faf88cd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
+| ↳ | **[Alternate Sales Summer (STAR) Intern](https://jobright.ai/jobs/info/67833af76f2c04321faf88bb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
 | ↳ | **[Auction Inventory Summer (STAR) Intern](https://jobright.ai/jobs/info/67833af76f2c04321faf889a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/676597447045e0e451478181?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jan 11 |
 | **[Evolv Technology](http://www.evolvtechnology.com)** | **[Corporate Development Intern (Summer '25)](https://jobright.ai/jobs/info/6765bd6bdd8bfa76dab02656?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jan 11 |
@@ -129,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Entegral](https://Entegral.com)** | **[Sales Internship- Enterprise Car Sales](https://jobright.ai/jobs/info/67820ea400ac92e3af87801c?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Jan 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Milwaukee](https://jobright.ai/jobs/info/6759e8c570a920a4ac444151?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | **[King](https://www.king.com/)** | **[2024 Summer Intern Conversions](https://jobright.ai/jobs/info/6781980b248284566e141d5f?utm_campaign=1051&utm_source=git)** | Santa Monica | On Site | Jan 10 |
+| **[XPO](https://www.xpo.com)** | **[Intern - Sales Operation](https://jobright.ai/jobs/info/6781a4b1e37dc4f395e7bd1e?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jan 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Sacramento/Redding/Chico](https://jobright.ai/jobs/info/6781ca871842f8d6575e7671?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 10 |
 | **[When I Work](http://wheniwork.com)** | **[Product Sales Specialist Intern](https://jobright.ai/jobs/info/6781a0e8ee4c417beeb07a73?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/6781c874b2b916def5e295cd?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4cb?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Jan 10 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4cf?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Jan 10 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4d6?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4d7?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Jan 10 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/67819413718f32bf6e7cc4e4?utm_campaign=1051&utm_source=git)** | Ormond Beach, FL | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
