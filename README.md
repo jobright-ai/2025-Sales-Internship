@@ -84,11 +84,12 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Sales Intern](https://jobright.ai/jobs/info/678b029b523846b083689200?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 17 |
 | **[Legends](http://legends.net)** | **[Merchandise Internship -2025 CINCINNATI OPEN](https://jobright.ai/jobs/info/678af62bb3f558bc73ac4ef7?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Jan 17 |
 | **[American National](https://www.americannational.com)** | **[Agency Owner](https://jobright.ai/jobs/info/678b06859fe8192195549059?utm_campaign=1051&utm_source=git)** | Terre Haute, IN | On Site | Jan 17 |
+| ↳ | **[Agency Owner](https://jobright.ai/jobs/info/678b06859fe819219554905a?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Jan 17 |
 | ↳ | **[Agency Owner](https://jobright.ai/jobs/info/678b06859fe819219554905c?utm_campaign=1051&utm_source=git)** | Valparaiso, IN | On Site | Jan 17 |
 | ↳ | **[Agency Owner](https://jobright.ai/jobs/info/678b06859fe819219554905b?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Jan 17 |
-| ↳ | **[Agency Owner](https://jobright.ai/jobs/info/678b06859fe819219554905a?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Jan 17 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Land Development Intern](https://jobright.ai/jobs/info/678ae7124ae8e2aa0f5e1ee8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 17 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Outreach (International Sales)](https://jobright.ai/jobs/info/678af62bb3f558bc73ac52a7?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 17 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Business to Business Sales Internship](https://jobright.ai/jobs/info/674e2518a5dc411694ec1d3e?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Jan 17 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[Global Material Sales Intern (Summer 2025)](https://jobright.ai/jobs/info/678ae4d090f104b969d7a19e?utm_campaign=1051&utm_source=git)** | Chaska, MN | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Digital Seller Intern– Entry Level Sales Program 2025](https://jobright.ai/jobs/info/678ae4d090f104b969d7a1e8?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship](https://jobright.ai/jobs/info/678aee5441240f32e1253bbf?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Jan 17 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Best Sales Intern - Baltimore/Washington DC](https://jobright.ai/jobs/info/678ad4981095e1af8934e0e8?utm_campaign=1051&utm_source=git)** | Linthicum-Maryland-United States of America | On Site | Jan 17 |
 | ↳ | **[BEST - Sales Engineer Intern](https://jobright.ai/jobs/info/678ad4981095e1af8934e0fd?utm_campaign=1051&utm_source=git)** | Indianapolis-Indiana-United States of America | On Site | Jan 17 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Internship - Sales Ops Boston, MA](https://jobright.ai/jobs/info/678ad4981095e1af8934e12d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 17 |
+| **[TikTok](https://www.tiktok.com)** | **[Sales Intern (Global Business Solutions - US Enterprise -Tech Telcom & Travel) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/677e0af29fae9cead8651786?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales intern](https://jobright.ai/jobs/info/678ad9b648418799c85b6fe5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Business Summer 2025 Internship -  Global Enterprise Strategic Planning Analyst](https://jobright.ai/jobs/info/678ade853cf4853b1f58287d?utm_campaign=1051&utm_source=git)** | Lone Tree, CO | On Site | Jan 17 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Intern, Sourcing - Ann Taylor](https://jobright.ai/jobs/info/678ae6547791999c9b480006?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 17 |
@@ -111,19 +113,21 @@ For a complete list, click the following sortable link below:
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Corporate Partnerships](https://jobright.ai/jobs/info/678ad53b2ef675b65243b46b?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 17 |
 | **[Samsara](http://www.samsara.com)** | **[Sales Engineer (New Grad)](https://jobright.ai/jobs/info/678abaea1f9060529990b770?utm_campaign=1051&utm_source=git)** | Remote - US | Hybrid | Jan 17 |
 | ↳ | **[Sales Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/678abaea1f9060529990b77f?utm_campaign=1051&utm_source=git)** | Remote - US | Hybrid | Jan 17 |
-| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/678aefd941240f32e1254484?utm_campaign=1051&utm_source=git)** | South Bend, IN | On Site | Jan 17 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678aefd941240f32e1254486?utm_campaign=1051&utm_source=git)** | West Allis, WI | On Site | Jan 17 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678aefd941240f32e1254485?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Jan 17 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/678aefd941240f32e1254485?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Jan 17 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678aefd941240f32e1254487?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Jan 17 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678aefd941240f32e1254486?utm_campaign=1051&utm_source=git)** | West Allis, WI | On Site | Jan 17 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678aefd941240f32e1254484?utm_campaign=1051&utm_source=git)** | South Bend, IN | On Site | Jan 17 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678aefd941240f32e1254488?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Jan 17 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678aefd941240f32e1254489?utm_campaign=1051&utm_source=git)** | Madison Heights, MI | On Site | Jan 17 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678aefd941240f32e125448a?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Jan 17 |
+| **[ParetoHealth](https://paretohealth.com)** | **[Sales Associate Interns](https://jobright.ai/jobs/info/674d06ac483648bb2375ff29?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | Hybrid | Jan 17 |
 | **[Ryerson](https://www.ryerson.com)** | **[Intern - Livermore, CA](https://jobright.ai/jobs/info/678816b5bc11229f145da8ad?utm_campaign=1051&utm_source=git)** | Livermore, CA | On Site | Jan 17 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/678abde5339bec8d24846e48?utm_campaign=1051&utm_source=git)** | Bolingbrook, IL | On Site | Jan 17 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678abde5339bec8d24846e49?utm_campaign=1051&utm_source=git)** | Earth City, MO | On Site | Jan 17 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678abde5339bec8d24846e4a?utm_campaign=1051&utm_source=git)** | West Chicago, IL | On Site | Jan 17 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/678abde5339bec8d24846e4b?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Jan 17 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern **](https://jobright.ai/jobs/info/6788841c3ea8774b9b61f009?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | Jan 17 |
+| **[Michigan Millers Mutual Insurance Company](http://mimillers.com)** | **[Insurance Operations Intern](https://jobright.ai/jobs/info/67882e7d32f192eebe7bbf48?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Jan 17 |
 | **[RangeWater Real Estate](https://liverangewater.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/678aac680870dc0dd6ceb10a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
 | **[Pennrose](https://www.pennrose.com/)** | **[Development and Acquisitions Intern](https://jobright.ai/jobs/info/678abde5339bec8d24846982?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Jan 17 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/678ac55f2ebe47a6694fe723?utm_campaign=1051&utm_source=git)** | Marlborough, MA | Hybrid | Jan 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern (Franchise)](https://jobright.ai/jobs/info/678a72d0768191a9da9c3dfe?utm_campaign=1051&utm_source=git)** | Stafford, VA | On Site | Jan 17 |
 | **[Tanium](http://www.tanium.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/66d0f34a142c70a88003ac66?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Jan 17 |
 | **[Lennar](http://lennar.com)** | **[Sales Intern](https://jobright.ai/jobs/info/678a6154d0c2063164826506?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Jan 17 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN Perrysburg, OH](https://jobright.ai/jobs/info/678a4e64eeb07d91e2e9714e?utm_campaign=1051&utm_source=git)** | 27322 Carronade Drive, Perrysburg, OH, 43551, US | On Site | Jan 17 |
-| **[HP](http://www.hp.com)** | **[Year-round Sales Intern](https://jobright.ai/jobs/info/677b485964b046cd1270c4f3?utm_campaign=1051&utm_source=git)** | Rio Rancho, NM | On Site | Jan 17 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Toledo, OH (Starting Summer 2025)](https://jobright.ai/jobs/info/66d112cacffc3355260a7562?utm_campaign=1051&utm_source=git)** | Toledo, OH | Hybrid | Jan 17 |
-| **[TikTok](https://www.tiktok.com)** | **[E-commerce Operations Intern (TikTok Shop - Global Selling) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6749e4a9cb1cf12dd0cd8af4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
