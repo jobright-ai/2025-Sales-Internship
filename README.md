@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Santander CIB 2026 Global Markets (Sales & Trading) Summer Analyst Program - US](https://jobright.ai/jobs/info/6790db20feac3d8ee981987f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/67659206526076a419fea424?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Jan 22 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/67606c1f63bdcec0d1de39e5?utm_campaign=1051&utm_source=git)** | Columbia, MO | Hybrid | Jan 22 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2025](https://jobright.ai/jobs/info/6707c6f7129598fd355b0a41?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 22 |
+| **[Howmet Aerospace](https://www.howmet.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/675099231d709c23fbe59747?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jan 22 |
+| **[Graco](http://graco.com/in/en/)** | **[Field Sales Intern - Denver](https://jobright.ai/jobs/info/6769df82f084906ddbf863d3?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Jan 22 |
+| ↳ | **[Field Sales Intern - Phoenix](https://jobright.ai/jobs/info/6769f0ad85dcc81a4b2a2c00?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Jan 22 |
+| **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/66c4dc8024a2f6df82cabf49?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | Hybrid | Jan 22 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6790c67ebe292b37b684280b?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 22 |
+| **[Port Houston](https://porthouston.com/)** | **[Intern, Real Estate](https://jobright.ai/jobs/info/6790f29cafb403c002a725cf?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2025 Retail Banking Intern - Erie, PA](https://jobright.ai/jobs/info/6790b9c38a387a8a3d550656?utm_campaign=1051&utm_source=git)** | Erie, PA | On Site | Jan 22 |
-| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition Intern](https://jobright.ai/jobs/info/6790b9c38a387a8a3d550666?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
-| ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/6790a6c3f377fd8a07fcf05b?utm_campaign=1051&utm_source=git)** | Riverview, FL | On Site | Jan 21 |
+| **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition Intern](https://jobright.ai/jobs/info/6790a6c3f377fd8a07fcf05b?utm_campaign=1051&utm_source=git)** | Riverview, FL | On Site | Jan 21 |
 | ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/6790a6c3f377fd8a07fcf05e?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jan 21 |
+| ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/6790a6c3f377fd8a07fcf05f?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
 | **[Esri](https://www.esri.com)** | **[GIS Sales Internship](https://jobright.ai/jobs/info/67908e4936493d01dddfdfa6?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 21 |
 | ↳ | **[GIS Sales Internship](https://jobright.ai/jobs/info/6790900236493d01dddfeacc?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Snowflake](https://www.snowflake.com)** | **[Sales Engineering Intern - (Financial Services - PbS) - Summer 2025](https://jobright.ai/jobs/info/679073609069f6185cb24d45?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 21 |
@@ -85,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Sales Market Research Intern](https://jobright.ai/jobs/info/67902e0417663e3eca246063?utm_campaign=1051&utm_source=git)** | Heath, OH | On Site | Jan 21 |
 | **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/67903a62ed60566cd7d41250?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 21 |
 | **[Santander](https://www.santander.com/)** | **[Santander CIB 2026 Global Markets (Sales & Trading) Summer Analyst Program - US](https://jobright.ai/jobs/info/679044387abfbd7c8dd227f0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 21 |
-| **[First American](http://www.firstam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/67901d3e7574956e1f2ddeaf?utm_campaign=1051&utm_source=git)** | USA, New York, Rochester | On Site | Jan 21 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/67901d3e7574956e1f2ddfb0?utm_campaign=1051&utm_source=git)** | USA, California, Santa Ana | On Site | Jan 21 |
+| **[First American](http://www.firstam.com)** | **[Sales Intern](https://jobright.ai/jobs/info/67901d3e7574956e1f2ddfb0?utm_campaign=1051&utm_source=git)** | USA, California, Santa Ana | On Site | Jan 21 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/67901d3e7574956e1f2ddeaf?utm_campaign=1051&utm_source=git)** | USA, New York, Rochester | On Site | Jan 21 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/67903a62ed60566cd7d4127e?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Jan 21 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/679023522c944d23590ad90f?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 21 |
 | **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Sales Intern](https://jobright.ai/jobs/info/67902a44a3cfcab2a0f58de7?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 21 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Global Sales (Summer 2025)](https://jobright.ai/jobs/info/67906ab617a7ec4ea42b8cd2?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | **[ITW](http://www.itw.com/)** | **[Treasury & Business Development Intern](https://jobright.ai/jobs/info/678f1cbb6e537cac62aa4b28?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Jan 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/678f1112076d914301b5c767?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Jan 20 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Management and Sales Summer Intern](https://jobright.ai/jobs/info/66d842f3c5260d8864df0ef6?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | Jan 20 |
-| **[UNICO Group](http://unicogroup.com)** | **[Insurance Sales Internship](https://jobright.ai/jobs/info/677f41f896c07c9b4d6d4a70?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jan 20 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/678efd96f2ad8436d861dddb?utm_campaign=1051&utm_source=git)** | Lincoln, NE | Hybrid | Jan 20 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)- Ft. Myers/Naples, FL (Starting Summer 2025)](https://jobright.ai/jobs/info/673e6dcafa519389f2d83aa5?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Hybrid | Jan 20 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Maryland/DC (Starting Summer 2025)](https://jobright.ai/jobs/info/66d627e7bd24a6747e1aebfd?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | Hybrid | Jan 20 |
-| **[First Southern National Bank](https://www.fsnb.net)** | **[Banking Intern](https://jobright.ai/jobs/info/678f1f7c1c14d8298c1557d3?utm_campaign=1051&utm_source=git)** | Bowling Green, KY | On Site | Jan 20 |
-| ↳ | **[Banking Intern](https://jobright.ai/jobs/info/678f1f7c1c14d8298c1557ca?utm_campaign=1051&utm_source=git)** | Stanford, KY | On Site | Jan 20 |
-| ↳ | **[Banking Intern](https://jobright.ai/jobs/info/678f1f7c1c14d8298c1557c6?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Jan 20 |
-| ↳ | **[Banking Intern](https://jobright.ai/jobs/info/678f1f7c1c14d8298c1557cf?utm_campaign=1051&utm_source=git)** | Somerset, KY | On Site | Jan 20 |
-| ↳ | **[Banking Intern](https://jobright.ai/jobs/info/678f1f7c1c14d8298c155843?utm_campaign=1051&utm_source=git)** | Richmond, KY | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
