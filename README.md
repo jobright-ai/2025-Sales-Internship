@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ArcBest](http://www.arcb.com)** | **[Intern, Account Development (Truckload)](https://jobright.ai/jobs/info/66ea2a1ca26edaaf3801a955?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 25 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Pricing](https://jobright.ai/jobs/info/6794839c2a8ae407881279d0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6794739fe420f255b80159bf?utm_campaign=1051&utm_source=git)** | Twin Cities Area | On Site | Jan 24 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Pricing](https://jobright.ai/jobs/info/6794739fe420f255b80159a5?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jan 24 |
-| ↳ | **[Intern - Pricing](https://jobright.ai/jobs/info/679474d9e420f255b801652a?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jan 24 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Pricing](https://jobright.ai/jobs/info/679474d9e420f255b801652a?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jan 24 |
+| ↳ | **[Intern - Pricing](https://jobright.ai/jobs/info/6794739fe420f255b80159a5?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jan 24 |
 | **[AARP](http://www.aarp.org)** | **[Business Development Intern (Summer)](https://jobright.ai/jobs/info/6794739fe420f255b80159c0?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jan 24 |
 | **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/6794787a6bb5a14fdb642162?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Jan 24 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Asset Management](https://jobright.ai/jobs/info/67945eb1df0af28d08434917?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 24 |
@@ -74,28 +75,26 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Sales Development Intern (Summer 2025)](https://jobright.ai/jobs/info/67946794a82df47306dccfb1?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | ↳ | **[Sales Development Intern (Summer 2025)](https://jobright.ai/jobs/info/67946917a82df47306dcd8fc?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jan 24 |
 | **[Boncom](https://www.boncom.com/)** | **[2025 Account Management Intern](https://jobright.ai/jobs/info/679453dbdd489fbbc79a65d6?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 24 |
+| **[Magna International](http://www.magna.com/)** | **[Innovation Ventures Intern](https://jobright.ai/jobs/info/6794e784ba8ced0af4142f1d?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 24 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Sales Management Trainee Intern](https://jobright.ai/jobs/info/679458bfff32dd79fcd37a38?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | Jan 24 |
 | ↳ | **[Summer 2025 Sales Management Trainee Intern](https://jobright.ai/jobs/info/679458bfff32dd79fcd3794c?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Jan 24 |
 | ↳ | **[Summer 2025 Sales Management Trainee Intern](https://jobright.ai/jobs/info/679458bfff32dd79fcd37978?utm_campaign=1051&utm_source=git)** | Lawrenceville, NJ | On Site | Jan 24 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/679450fe473be2b547bd98a3?utm_campaign=1051&utm_source=git)** | Landover, MD | On Site | Jan 24 |
 | **[Magna International](http://www.magna.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/67944a75b3a1d3cc67ca60f8?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 24 |
-| ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/67944a75b3a1d3cc67ca615b?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Jan 24 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/67944a75b3a1d3cc67ca6100?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 24 |
-| ↳ | **[Innovation Ventures Intern](https://jobright.ai/jobs/info/67944a75b3a1d3cc67ca610e?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jan 24 |
+| ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/67944a75b3a1d3cc67ca615b?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Jan 24 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Built Environment Transformation](https://jobright.ai/jobs/info/679447a2c28bf124d21a3d3a?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jan 24 |
 | **[Magna International](http://www.magna.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6794441eb7295d867fc5bf76?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Jan 24 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Built Environment Transformation](https://jobright.ai/jobs/info/67943d075312f4af9b00cbdd?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 24 |
-| ↳ | **[Intern, Built Environment Transformation](https://jobright.ai/jobs/info/67943d075312f4af9b00cbd7?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 24 |
-| ↳ | **[Intern, Built Environment Transformation](https://jobright.ai/jobs/info/67943d075312f4af9b00cbd8?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jan 24 |
-| ↳ | **[Intern, Built Environment Transformation](https://jobright.ai/jobs/info/67943d075312f4af9b00cbe8?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 24 |
-| ↳ | **[Intern, Built Environment Transformation](https://jobright.ai/jobs/info/67944278c789ae32afe3b340?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Built Environment Transformation](https://jobright.ai/jobs/info/6794376c3960e09a52aadd14?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jan 24 |
+| ↳ | **[Intern, Built Environment Transformation](https://jobright.ai/jobs/info/67943d075312f4af9b00cbdd?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 24 |
+| ↳ | **[Intern, Built Environment Transformation](https://jobright.ai/jobs/info/67943d075312f4af9b00cbea?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 24 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sales Representative Intern](https://jobright.ai/jobs/info/67943315e79289671a95cb70?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
 | ↳ | **[Sales Representative Intern](https://jobright.ai/jobs/info/6794300450a6ee83f08c7711?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Jan 24 |
 | **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2025 - Truck Tire](https://jobright.ai/jobs/info/679422e5b547a8d646cda835?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Jan 24 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Sales Engineer Intern](https://jobright.ai/jobs/info/67942e1a53f1edad570ebf7c?utm_campaign=1051&utm_source=git)** | Eagan, MN | On Site | Jan 24 |
 | **[PwC](http://pwc.com)** | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Winter 2026](https://jobright.ai/jobs/info/67942c2ad1dcabad0906118a?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 24 |
-| ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Winter 2026](https://jobright.ai/jobs/info/67942c2ad1dcabad0906118b?utm_campaign=1051&utm_source=git)** | Buffalo-Niagara Area | On Site | Jan 24 |
 | ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Winter 2026](https://jobright.ai/jobs/info/67942c2ad1dcabad0906118e?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jan 24 |
+| ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Winter 2026](https://jobright.ai/jobs/info/67942c2ad1dcabad0906118b?utm_campaign=1051&utm_source=git)** | Buffalo-Niagara Area | On Site | Jan 24 |
 | ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Winter 2026](https://jobright.ai/jobs/info/6794270af43679dbcd7f574c?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 24 |
 | ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Winter 2026](https://jobright.ai/jobs/info/6794270af43679dbcd7f5751?utm_campaign=1051&utm_source=git)** | Los Angeles County, CA | On Site | Jan 24 |
 | ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Winter 2026](https://jobright.ai/jobs/info/6794270af43679dbcd7f575e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
@@ -114,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Cincinnati, OH (Starting Summer 2025)](https://jobright.ai/jobs/info/67940d1a0b73ada6c6b109b0?utm_campaign=1051&utm_source=git)** | Florence, KY | Hybrid | Jan 24 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, Sales](https://jobright.ai/jobs/info/67940dae744ad27536ce6e89?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jan 24 |
 | **[AutoZone](http://www.autozone.com/)** | **[Part Time Sales (16 and 17 Years Old)](https://jobright.ai/jobs/info/67940a6a2cbf26af60eafe3c?utm_campaign=1051&utm_source=git)** | Wappingers Falls, NY | On Site | Jan 24 |
+| **[Samsara](http://www.samsara.com)** | **[Summer 2025 Sales Intern](https://jobright.ai/jobs/info/6794d84a0f769fabcf9c1f14?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Property & Casualty Account Management Intern- Summer 2025](https://jobright.ai/jobs/info/678bb1e777a8119c0081dfd5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jan 24 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Columbia, SC](https://jobright.ai/jobs/info/6705a1d0811fe46a3ec0f7d8?utm_campaign=1051&utm_source=git)** | Columbia, SC | Hybrid | Jan 24 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Gas Power Carbon Solutions Partnerships Intern - Summer 2025](https://jobright.ai/jobs/info/67940a6a2cbf26af60eafdbc?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
@@ -145,16 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Barchart](https://www.barchart.com)** | **[Advertising Sales Internship](https://jobright.ai/jobs/info/6793d14cc971d747df4f2a40?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Jan 24 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Engineer Intern - HVAC - Boston](https://jobright.ai/jobs/info/6793ce56badcd2fd1ecc8584?utm_campaign=1051&utm_source=git)** | Lynnfield-Massachusetts-United States of America | On Site | Jan 24 |
 | **[Gap Inc.](https://www.gapinc.com/en-us/)** | **[Brand Associate Internship - SEED Scholars Program](https://jobright.ai/jobs/info/6793d14cc971d747df4f2a37?utm_campaign=1051&utm_source=git)** | Vacaville, CA | On Site | Jan 24 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Engineer Intern - HVAC - North New Jersey](https://jobright.ai/jobs/info/6793ce56badcd2fd1ecc8616?utm_campaign=1051&utm_source=git)** | Edison-New Jersey-United States of America | On Site | Jan 24 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Engineer Intern - HVAC - Albany](https://jobright.ai/jobs/info/6793ce56badcd2fd1ecc8592?utm_campaign=1051&utm_source=git)** | Clifton Park-New York-United States of America | On Site | Jan 24 |
+| ↳ | **[BEST Sales Engineer Intern - HVAC - North New Jersey](https://jobright.ai/jobs/info/6793ce56badcd2fd1ecc8616?utm_campaign=1051&utm_source=git)** | Edison-New Jersey-United States of America | On Site | Jan 24 |
 | ↳ | **[BEST Sales Engineer Intern - HVAC - New York City](https://jobright.ai/jobs/info/6793ce56badcd2fd1ecc858a?utm_campaign=1051&utm_source=git)** | New York-New York-United States of America | On Site | Jan 24 |
 | ↳ | **[BEST Sales Engineer Intern - HVAC - Philadelphia](https://jobright.ai/jobs/info/6793ce56badcd2fd1ecc8586?utm_campaign=1051&utm_source=git)** | Cranberry Township-Pennsylvania-United States of America | On Site | Jan 24 |
-| ↳ | **[BEST Sales Engineer Intern - HVAC - Albany](https://jobright.ai/jobs/info/6793ce56badcd2fd1ecc8592?utm_campaign=1051&utm_source=git)** | Clifton Park-New York-United States of America | On Site | Jan 24 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Internal Sales Intern](https://jobright.ai/jobs/info/6793ce76ca80a222f95f006a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 24 |
 | **[Topgolf](https://topgolf.com/us/)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/6793cacdab0b817c62bd5599?utm_campaign=1051&utm_source=git)** | CG NADC - Dallas, Texas | On Site | Jan 24 |
 | **[Reser's Fine Foods](http://www.resers.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6793dc698c360b7d93c455a2?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Jan 24 |
 | **[Robinhood](https://www.robinhood.com)** | **[Business Development & Partnerships, MBA Intern](https://jobright.ai/jobs/info/6793c74a506110ac603a61ec?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jan 24 |
-| **[CAPTRUST](https://www.captrust.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6793cb73f1b7df53b5d6dcc8?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Jan 24 |
 | **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Purchaser Intern- Summer 2025](https://jobright.ai/jobs/info/6793e252b92b7192109f1200?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Hybrid | Jan 24 |
 | ↳ | **[Purchaser Intern- Summer 2025](https://jobright.ai/jobs/info/6793e252b92b7192109f136e?utm_campaign=1051&utm_source=git)** | Rock Hill, NY | Hybrid | Jan 24 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Internship](https://jobright.ai/jobs/info/6793d56ccdcbe20678c1fc12?utm_campaign=1051&utm_source=git)** | Mississippi, United States | Hybrid | Jan 24 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Less-than-Truckload Pricing Analyst](https://jobright.ai/jobs/info/6793c12c696d8ae7548616cf?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
