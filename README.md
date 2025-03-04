@@ -57,17 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Sales (Tennessee ONLY)](https://jobright.ai/jobs/info/67c701314cebe4bf47a843dd?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Mar 04 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast Sales Internship (MA, CT, NH, RI, ME) - Summer 2025](https://jobright.ai/jobs/info/679370d4a52afdfdf1a41424?utm_campaign=1051&utm_source=git)** | Augusta, ME | On Site | Mar 04 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Management and Sales Summer Internship](https://jobright.ai/jobs/info/678a44521aad504719833585?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Mar 04 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2025)](https://jobright.ai/jobs/info/6737363394a8f5a951823cc8?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Mar 04 |
+| ↳ | **[Intern/Co-op - Commercial (Summer 2025)](https://jobright.ai/jobs/info/672f3e91df8a0ce73080ecea?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Mar 04 |
+| **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/67c6e06bbfc39253308dd38c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
+| **[Simmons Bank](https://www.simmonsbank.com/)** | **[Community Banking Internship - Stillwater, OK](https://jobright.ai/jobs/info/67c6d695d9da5cce55fdfe71?utm_campaign=1051&utm_source=git)** | Stillwater, OK | On Site | Mar 04 |
+| **[McLeod Software](http://www.mcleodsoftware.com/)** | **[Vendor Partner Alliances Intern](https://jobright.ai/jobs/info/67c6cd6dbac83ad26fef2701?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Mar 04 |
 | **[WWE](http://wwe.com)** | **[Intern, Global Partnerships](https://jobright.ai/jobs/info/67c6ba36b501af409b5c60c4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 04 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Sales Management Trainee Intern](https://jobright.ai/jobs/info/67c6c378b60a6f63033e5bd0?utm_campaign=1051&utm_source=git)** | Rehoboth Beach, DE | On Site | Mar 03 |
 | ↳ | **[Summer 2025 Sales Management Trainee Intern](https://jobright.ai/jobs/info/67c6c378b60a6f63033e5cd5?utm_campaign=1051&utm_source=git)** | Atlantic City, NJ | On Site | Mar 03 |
+| **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/67c6cd6dbac83ad26fef2827?utm_campaign=1051&utm_source=git)** | Burbank, CA | On Site | Mar 03 |
 | **[Redstone Residential](https://redstoneresidential.com/)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/67c6c378b60a6f63033e5d2c?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | Mar 03 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Milton, FL - Summer 2023)](https://jobright.ai/jobs/info/67c6bb2c6dc6916f2767fb19?utm_campaign=1051&utm_source=git)** | West Memphis, AR | On Site | Mar 03 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern **](https://jobright.ai/jobs/info/67c6a0d4457b174329ea1a7e?utm_campaign=1051&utm_source=git)** | Manchester, NH | On Site | Mar 03 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/67c6ab9c60809c5fa6c7b974?utm_campaign=1051&utm_source=git)** | Milpitas, CA | On Site | Mar 03 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Milton, FL - Summer 2023)](https://jobright.ai/jobs/info/67c6b0dc61dff9376dd48768?utm_campaign=1051&utm_source=git)** | Denton, TX | On Site | Mar 03 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer 2025 Intern Supply Chain Planning](https://jobright.ai/jobs/info/679c26986587864b140894fb?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Mar 03 |
 | **[Leidos](https://www.leidos.com/)** | **[Practice Area Intern](https://jobright.ai/jobs/info/67c695a21d27d06f0d2f7550?utm_campaign=1051&utm_source=git)** | Reston, VA | Hybrid | Mar 03 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Customer Enablement Intern](https://jobright.ai/jobs/info/67c6933ffe18e9915d93df75?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Mar 03 |
-| **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/67c6a201d6161fe042d61217?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 03 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Business Development Sales Hub](https://jobright.ai/jobs/info/67c684823b1d46cc90ee0ee3?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Mar 03 |
 | **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/67c68934caa1cc0b19d3aaf6?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Mar 03 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Sales (Arkansas ONLY)](https://jobright.ai/jobs/info/67c6761fab119d5739583943?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Mar 03 |
@@ -93,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Grainger](https://www.grainger.com)** | **[On-Campus Sales Intern - University of Wisconsin - Madison](https://jobright.ai/jobs/info/67c639f141ab93a72b53cd8f?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Mar 03 |
 | ↳ | **[On-Campus Sales Intern - University of Arizona](https://jobright.ai/jobs/info/67c639f141ab93a72b53cd5b?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Mar 03 |
 | ↳ | **[On-Campus Sales Intern - University of Michigan](https://jobright.ai/jobs/info/67c639f141ab93a72b53cd8c?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Mar 03 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern **](https://jobright.ai/jobs/info/67c6678e1301b071eaf227a6?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Mar 03 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern **](https://jobright.ai/jobs/info/67c6678e1301b071eaf227a5?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Mar 03 |
 | **[Emerson](http://www.emerson.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/67c62d5639a5506c37eaac36?utm_campaign=1051&utm_source=git)** | 6005 Rogerdale Road, Houston, TX, 77072, US | On Site | Mar 03 |
 | **[LAIKA Studios](https://laika.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/67c6319a23b2c0176e57c689?utm_campaign=1051&utm_source=git)** | Hillsboro, OR | On Site | Mar 03 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Advanced Intern - Market Research & Business Development](https://jobright.ai/jobs/info/67c62cc48af0979b5861fbc8?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | Hybrid | Mar 03 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/677bd425125f8b2f99a00417?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Mar 02 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/67107541b31e97324d698d21?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Mar 02 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Houston Commercial Real Estate Investment Sales Intern - Summer 2025](https://jobright.ai/jobs/info/66fa91a1470601109c5822a0?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Mar 02 |
-| ↳ | **[Phoenix Commercial Real Estate Investment Sales Intern - Summer 2025](https://jobright.ai/jobs/info/66fa91a1470601109c5822a4?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 02 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Management and Sales Intern](https://jobright.ai/jobs/info/6790775aff9a6eb5eeed4e43?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Mar 02 |
-| ↳ | **[Management and Sales Internship Summer 2025](https://jobright.ai/jobs/info/66fd627f7d676ff613e61f9b?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Mar 02 |
-| ↳ | **[Management and Sales Internship Summer 2025](https://jobright.ai/jobs/info/66fd627f7d676ff613e61f64?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Mar 02 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6788d670076d0223277dbfce?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Mar 02 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast Sales Internship (MA, CT, NH, RI, ME) - Summer 2025](https://jobright.ai/jobs/info/67b084379677fc09a89c31a4?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Mar 02 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6781e66aef69c8b14442bfe8?utm_campaign=1051&utm_source=git)** | Langhorne, PA | On Site | Mar 02 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/678a93d7f6aae203107ffaab?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Mar 02 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast Sales Internship (MA, CT, NH, RI, ME) - Summer 2025](https://jobright.ai/jobs/info/67c5638cc89c767b2c43918f?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
