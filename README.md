@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/67e0ee6bfb2bd9703011958b?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Mar 23 |
+| **[Macy's](http://www.macysjobs.com)** | **[Macy's Internship Program - Merchandising, Herald Square - Full Time](https://jobright.ai/jobs/info/67e0deab9e3193e6574d5edc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/67e092c14a9723c52fd60581?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Mar 23 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Business Development](https://jobright.ai/jobs/info/67e097f952d4ba69f002c400?utm_campaign=1051&utm_source=git)** | Port Washington, NY | On Site | Mar 23 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/67e06dc0750cea46a398ad5b?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | On Site | Mar 23 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[Intern - Assistant Golf Professional](https://jobright.ai/jobs/info/67194d85ac0181daee8eb81c?utm_campaign=1051&utm_source=git)** | Lahaina, HI | On Site | Mar 23 |
 | **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/67e0399ec65ede993368cff1?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Mar 23 |
 | **[Flowcode](https://www.flowcode.com/)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/67e028d68e910db812e73dd3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Mar 23 |
+| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/66f6bf05698d7d861599183e?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Mar 23 |
 | **[LTK](http://rewardstyle.com)** | **[Creator Success Intern](https://jobright.ai/jobs/info/67a69d1e116e63b58239074f?utm_campaign=1051&utm_source=git)** | United States | Remote | Mar 23 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Sales Executive Intern- Summer 2025](https://jobright.ai/jobs/info/67a6f0683e929b51a30ec1ac?utm_campaign=1051&utm_source=git)** | Metairie, LA | On Site | Mar 23 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2025](https://jobright.ai/jobs/info/66cf0c0427ea042cb7efe489?utm_campaign=1051&utm_source=git)** | Burlington, NJ | Hybrid | Mar 23 |
@@ -73,12 +76,17 @@ For a complete list, click the following sortable link below:
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6764836242061e276c8a5a6e?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Mar 23 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer Internship - Sales Management Trainee](https://jobright.ai/jobs/info/66deb2ab29753ce79f7352c3?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Mar 23 |
 | ↳ | **[Summer 2025 Truck Rental Account Specialist Internship](https://jobright.ai/jobs/info/66f51ca4a23df6db3bce3e0c?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Mar 23 |
+| **[IGT](http://igt.com)** | **[Strategic Sales Intern](https://jobright.ai/jobs/info/67a67871e02c178401dffaf8?utm_campaign=1051&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 23 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/67519028426986c69e5e2014?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | Mar 23 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Internship (Summer 2025)](https://jobright.ai/jobs/info/67dfebec04c3bbee2a2f5833?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Mar 23 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Rotating Summer Internship - Sales & Operations](https://jobright.ai/jobs/info/66cf0c0427ea042cb7efe4ef?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Mar 23 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast Sales Internship (MA, CT, NH, RI, ME) - Summer 2025](https://jobright.ai/jobs/info/67dfe7ebfe8190f97504322a?utm_campaign=1051&utm_source=git)** | Cranston, RI | On Site | Mar 23 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Group Benefit Solutions (GBS) Sales Summer Internship Program](https://jobright.ai/jobs/info/67a6875d770f053dbb0f63a7?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Mar 23 |
 | **[Bone Dry Roofing](https://www.bonedry.com/indianapolis/)** | **[Sales Internship - Summer 2025](https://jobright.ai/jobs/info/67dfd6530bb3cf79c0d7af03?utm_campaign=1051&utm_source=git)** | Indiana, United States | On Site | Mar 23 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Pittsburgh](https://jobright.ai/jobs/info/67c2cefb97bd8741f89c2b61?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Mar 22 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Charlotte](https://jobright.ai/jobs/info/67c2eeb8f8f49950029fe8d9?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Mar 22 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast Sales Internship (MA, CT, NH, RI, ME) - Summer 2025](https://jobright.ai/jobs/info/67e0e6289bb4a85ab2bca362?utm_campaign=1051&utm_source=git)** | South Portland, ME | On Site | Mar 22 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6781e66aef69c8b14442bfd7?utm_campaign=1051&utm_source=git)** | Collegeville, PA | On Site | Mar 22 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/67df80572a687a8f76ec7704?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Mar 22 |
 | ↳ | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/67df36d23329d0c217fc942b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Mar 22 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/67c2eeb8f8f49950029fe8d7?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Mar 22 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Internship / Sales-Houston, TX](https://jobright.ai/jobs/info/67de0d2b0a8756902046bd0e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Mar 21 |
 | **[Kapitus](https://kapitus.com/)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/67de0add3bd0b896121af846?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Mar 21 |
 | **[WEX](http://www.wexinc.com)** | **[Intern- Small Business Customer Growth & Development](https://jobright.ai/jobs/info/67de095031bbf200320b591b?utm_campaign=1051&utm_source=git)** | Maine, United States | On Site | Mar 21 |
-| **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/67de0add3bd0b896121af851?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Mar 21 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern**](https://jobright.ai/jobs/info/67de05d6977493812f00c138?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Mar 21 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern**](https://jobright.ai/jobs/info/67de15bf8bcf23d7e7afc055?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Mar 21 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-Op or Intern - Sales](https://jobright.ai/jobs/info/67de12fe5e1e9756ba540cce?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Mar 21 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Summer 2025 - Honolulu)](https://jobright.ai/jobs/info/67b8d76b008cd5df56055eb9?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Mar 21 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Real Estate Management Internship - Jackson, MS](https://jobright.ai/jobs/info/67de06d5c83f9b0552a751c5?utm_campaign=1051&utm_source=git)** | Jackson, Mississippi | On Site | Mar 21 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Pricing Intern](https://jobright.ai/jobs/info/67de01ed6efee23d378f57ad?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Mar 21 |
-| **[Viega LLC](https://viega.us)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/67de08b06659c3e6feb1c969?utm_campaign=1051&utm_source=git)** | Broomfield, CO | On Site | Mar 21 |
-| **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/67ddf8161c27c0b48ab24399?utm_campaign=1051&utm_source=git)** | Elk Grove Village, IL | On Site | Mar 21 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67de0502d7319f0f6bfdfef2?utm_campaign=1051&utm_source=git)** | Abingdon, VA | On Site | Mar 21 |
-| **[Gallagher Bassett](https://www.robanda.com/)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67c0aa8521e88db573846c9e?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | Hybrid | Mar 21 |
-| **[ArcBest](http://www.arcb.com)** | **[Intern, Truckload Account Development](https://jobright.ai/jobs/info/67ddfda36292891b775b5858?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 21 |
-| ↳ | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/67dde795fa68ee12b05594da?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
