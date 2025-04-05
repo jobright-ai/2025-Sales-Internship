@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetApp](http://netapp.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/67f15e1a22926dbe2664c620?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Apr 05 |
+| **[DDB Health New York](http://www.ddbhealth.com/#a-force-for-good-health)** | **[Account Service Intern](https://jobright.ai/jobs/info/67b8f20790567a1457f6590f?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 05 |
+| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Account Service Intern](https://jobright.ai/jobs/info/67f143526748e9475cf08b4a?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 05 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2025 (Evergreen)](https://jobright.ai/jobs/info/67b9b891a1733e0a9ceffccd?utm_campaign=1051&utm_source=git)** | Orange, CA | Hybrid | Apr 05 |
+| **[Leavitt Machinery](https://www.leavittmachinery.com/)** | **[Sales Intern (May to August)](https://jobright.ai/jobs/info/67d4abddc0894411ebf21588?utm_campaign=1051&utm_source=git)** | Tualatin, OR | On Site | Apr 05 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - Commercial Real Estate](https://jobright.ai/jobs/info/67ad83573b84aa2b355a828b?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Apr 05 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Internship](https://jobright.ai/jobs/info/67f11919b4df8b5669ea0cc2?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Apr 05 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern](https://jobright.ai/jobs/info/679a9b60ba5f5c567622ba76?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
 | **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/67610af2f6723fe6c0e2734d?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Apr 05 |
 | **[SonicWall](http://www.sonicwall.com)** | **[Sales Enablement Operations Intern](https://jobright.ai/jobs/info/67d4abddc0894411ebf2153c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 05 |
+| **[Legends](http://legends.net)** | **[Merchandise Intern- 2025 PGA Championship](https://jobright.ai/jobs/info/67bc26c8a34969af9db963d3?utm_campaign=1051&utm_source=git)** | Waxhaw, NC | On Site | Apr 05 |
 | **[ModMed](https://www.modmed.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/67d52ee7d60cb1480b891588?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | Hybrid | Apr 05 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Sales Internship (Colfax, WA)](https://jobright.ai/jobs/info/67f10549b380263660409342?utm_campaign=1051&utm_source=git)** | Colfax, WA | On Site | Apr 05 |
 | **[Emerson](http://www.emerson.com)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/67b788787a612f77b6ddeb5c?utm_campaign=1051&utm_source=git)** | Marshalltown, IA | On Site | Apr 05 |
@@ -120,10 +128,12 @@ For a complete list, click the following sortable link below:
 | **[Stream Realty Partners](http://streamrealty.com)** | **[2025 Summer Analyst](https://jobright.ai/jobs/info/67d352974ca8a344b43fb906?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Apr 04 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/67229e49d13b87dfa69e42f5?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
 | **[Stream Realty Partners](http://streamrealty.com)** | **[Analyst Intern](https://jobright.ai/jobs/info/67d362043520244d3a6c797e?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Apr 04 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d3a37a95f9cfc4eaad4b90?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Apr 04 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Global Category Planner Co-op](https://jobright.ai/jobs/info/67d376d7d8001ff257787dd2?utm_campaign=1051&utm_source=git)** | Needham, MA | On Site | Apr 04 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d3a37a95f9cfc4eaad4b6f?utm_campaign=1051&utm_source=git)** | Mount Pleasant, SC | On Site | Apr 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d30c8c8d2a14f2b6ce0574?utm_campaign=1051&utm_source=git)** | Mason City, IA | On Site | Apr 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d3a37a95f9cfc4eaad4ba6?utm_campaign=1051&utm_source=git)** | Noblesville, IN | On Site | Apr 04 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/67d3fcb50506b03ad76f03f4?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Apr 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d3a37a95f9cfc4eaad4b9f?utm_campaign=1051&utm_source=git)** | Saginaw, MI | On Site | Apr 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d3fcb50506b03ad76f035f?utm_campaign=1051&utm_source=git)** | Fenton, MO | On Site | Apr 04 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (MSP)](https://jobright.ai/jobs/info/64dbc09d96534863c0ac5a96?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/67999d33c11838347cd47d39?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 04 |
 | ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/67999d33c11838347cd47d35?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 04 |
 | ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/67999d33c11838347cd47d3d?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 04 |
-| ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/67999d33c11838347cd47d2d?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Apr 04 |
-| ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/67999d33c11838347cd47d3a?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Apr 04 |
-| ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/6799bb034ec5940299175eae?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 04 |
-| ↳ | **[Distribution Sales Intern](https://jobright.ai/jobs/info/67999d33c11838347cd47d36?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Apr 04 |
-| **[Community Options, Inc.](https://www.comop.org/)** | **[Development Intern](https://jobright.ai/jobs/info/67d36f649fbcb447d6b49d57?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Apr 04 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Relationship Development Sales Intern](https://jobright.ai/jobs/info/67d31f340af373beeab57192?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | Apr 04 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d25009aa92b87604981c3b?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Apr 04 |
-| **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2025 Summer Internship / Commercial Strategy - Syosset, NY](https://jobright.ai/jobs/info/67dc74e0353fe1d9a67a27e9?utm_campaign=1051&utm_source=git)** | Syosset, NY | On Site | Apr 04 |
-| **[Sage Hospitality Group](https://www.sagehospitalitygroup.com/)** | **[Sales and Catering Intern - Hotel Commonwealth](https://jobright.ai/jobs/info/67efa76fde60ac569bbf46a2?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 04 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/66f25abb7c663e9667571a79?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
