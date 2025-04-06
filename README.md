@@ -57,17 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VML](https://www.vmlyr.com/)** | **[Intern - Account Management (Ford)](https://jobright.ai/jobs/info/67f2d6bfeb853ef4f8b9a330?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Apr 06 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[High School Intern - Summer 2025](https://jobright.ai/jobs/info/67f2a7fb878c0e59f6c6c839?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Apr 06 |
+| ↳ | **[High School Intern - Summer 2025](https://jobright.ai/jobs/info/67f2a2795f39de4119638a90?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 06 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/66da2b6a1ac52d8a8432f637?utm_campaign=1051&utm_source=git)** | Tennessee, United States | On Site | Apr 06 |
+| **[Stellar Solutions](http://www.stellarsolutions.com)** | **[Intern – Business Operations](https://jobright.ai/jobs/info/67f28d289dabb8356d7bc18d?utm_campaign=1051&utm_source=git)** | Chantilly, VA | On Site | Apr 06 |
 | **[HP](http://www.hp.com)** | **[U.S Consumer Channel Sales Coordinator – Internship](https://jobright.ai/jobs/info/67d5784c956e2e9b9d541528?utm_campaign=1051&utm_source=git)** | Spring, TX | Hybrid | Apr 06 |
 | **[Gator Bio](https://gatorbio.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/67f25b4afbbc9682b1effbf6?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | On Site | Apr 06 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/67f21e1174f2a1a4de1b7154?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 05 |
-| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/67f21e1174f2a1a4de1b7155?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Apr 05 |
-| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/67f21852ea225511d18630fa?utm_campaign=1051&utm_source=git)** | Orange, CA | Hybrid | Apr 05 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/67f21852ea225511d18630fd?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Apr 05 |
+| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/67f21852ea225511d18630fa?utm_campaign=1051&utm_source=git)** | Orange, CA | Hybrid | Apr 05 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Mgmt & Sales Trainees - Management Trainee Intern](https://jobright.ai/jobs/info/67f215973aad5dd4f91e4a32?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Apr 05 |
 | **[CBRE](https://www.cbre.com)** | **[2025 Sales/Brokerage Intern - Summer (Indianapolis, IN)](https://jobright.ai/jobs/info/67f20c8e53e45b5f466689c7?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 05 |
 | ↳ | **[HOH Program Intern - Sales Associate](https://jobright.ai/jobs/info/67f21852ea225511d18630f9?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 05 |
 | **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/67f20e23c8a9a40b7f483e4a?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 05 |
 | **[NetApp](http://netapp.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/67f1eaaf2f704bd0264a660f?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Apr 05 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Sales Intern (Summer 2025)](https://jobright.ai/jobs/info/67ee04c60762f1e6907cc12d?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 05 |
 | **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/67f166adc8cf3cb45e8624bf?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 05 |
 | **[Lexmark](http://www.lexmark.com)** | **[Enterprise Sales Intern - Summer 2025](https://jobright.ai/jobs/info/67b8a466361c38690de724bb?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Apr 05 |
 | **[DDB Health New York](http://www.ddbhealth.com/#a-force-for-good-health)** | **[Account Service Intern](https://jobright.ai/jobs/info/67b8f20790567a1457f6590f?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amtrak](https://amtrakstations.com/)** | **[Real Estate Intern - 90390628 - Philadelphia](https://jobright.ai/jobs/info/67d358a2d62724735d996730?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 04 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/67d35589757f619e923af143?utm_campaign=1051&utm_source=git)** | Glendale, CA | Hybrid | Apr 04 |
 | **[UDR - Opening Doors to your future](http://www.udr.com/)** | **[Intern - Property Operations](https://jobright.ai/jobs/info/67eff8f90ed2fbc9d52ec0ab?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Apr 04 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2025 Summer Applied Ventures Intern (Advanced Degree)](https://jobright.ai/jobs/info/67dd1b6b006639b16a214fa5?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Account Intern](https://jobright.ai/jobs/info/67b7cb2b6ae01bcdc053f987?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
-| **[Patients & Purpose](http://patientsandpurpose.com)** | **[Account Intern](https://jobright.ai/jobs/info/67f0031b1d84821d9cd7e400?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2025](https://jobright.ai/jobs/info/67eff8f90ed2fbc9d52ec078?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 04 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2025](https://jobright.ai/jobs/info/67b7b9ef83f28d603be4add6?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
