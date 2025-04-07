@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/67f36512d9bb15f647c061ad?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 06 |
 | **[Culture Pop Soda](https://drinkculturepop.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/67f3125f6b554fe0bb80ae52?utm_campaign=1051&utm_source=git)** | Greater Boston | Remote | Apr 06 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/67f30c8842d3d5b00957c5dd?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 06 |
-| **[Republic National Distributing Company](http://www.rndc-usa.com/)** | **[College Intern, Sales](https://jobright.ai/jobs/info/67f2f305b64d8f15a16e5156?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Apr 06 |
 | **[RouteOne](https://www.routeone.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/67f2f305b64d8f15a16e51ab?utm_campaign=1051&utm_source=git)** | Farmington, MI | On Site | Apr 06 |
 | **[VML](https://www.vmlyr.com/)** | **[Intern - Account Management (Ford)](https://jobright.ai/jobs/info/67f2d6bfeb853ef4f8b9a330?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Apr 06 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[High School Intern - Summer 2025](https://jobright.ai/jobs/info/67f2a7fb878c0e59f6c6c839?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Apr 06 |
@@ -69,14 +69,11 @@ For a complete list, click the following sortable link below:
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (MIA)](https://jobright.ai/jobs/info/67b91483157223c924a841e3?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Apr 06 |
 | **[HP](http://www.hp.com)** | **[U.S Consumer Channel Sales Coordinator – Internship](https://jobright.ai/jobs/info/67d5784c956e2e9b9d541528?utm_campaign=1051&utm_source=git)** | Spring, TX | Hybrid | Apr 06 |
 | **[Gator Bio](https://gatorbio.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/67f25b4afbbc9682b1effbf6?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | On Site | Apr 06 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/67f21e1174f2a1a4de1b7154?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 05 |
-| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/67f21852ea225511d18630fa?utm_campaign=1051&utm_source=git)** | Orange, CA | Hybrid | Apr 05 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Mgmt & Sales Trainees - Management Trainee Intern](https://jobright.ai/jobs/info/67f215973aad5dd4f91e4a32?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Apr 05 |
 | **[CBRE](https://www.cbre.com)** | **[2025 Sales/Brokerage Intern - Summer (Indianapolis, IN)](https://jobright.ai/jobs/info/67f20c8e53e45b5f466689c7?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 05 |
 | ↳ | **[HOH Program Intern - Sales Associate](https://jobright.ai/jobs/info/67f21852ea225511d18630f9?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Apr 05 |
 | **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/67f20e23c8a9a40b7f483e4a?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 05 |
 | **[NetApp](http://netapp.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/67f1eaaf2f704bd0264a660f?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Apr 05 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/67f34042c3d0781541428b42?utm_campaign=1051&utm_source=git)** | Amherst, NY | On Site | Apr 05 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Hospitality Intern @ Polynesian Isle](https://jobright.ai/jobs/info/67a39ff92c4e0b814370766d?utm_campaign=1051&utm_source=git)** | Kissimmee, FL | On Site | Apr 05 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Sales Intern (Summer 2025)](https://jobright.ai/jobs/info/67ee04c60762f1e6907cc12d?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Apr 05 |
 | **[Lexmark](http://www.lexmark.com)** | **[Enterprise Sales Intern - Summer 2025](https://jobright.ai/jobs/info/67b8a466361c38690de724bb?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Apr 05 |
@@ -107,13 +104,16 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d508eec07748907adff0c3?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 05 |
 | **[KB Home](http://www.kbhome.com/)** | **[Land Acquisition Intern](https://jobright.ai/jobs/info/67f0e4aa0f206fe7bf0a0b71?utm_campaign=1051&utm_source=git)** | Riverview, FL | On Site | Apr 04 |
 | ↳ | **[Land Acquisition Intern](https://jobright.ai/jobs/info/67f0dd8eb5a0a2dbb5e726cc?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Apr 04 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d3a37a95f9cfc4eaad4b6e?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Apr 04 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d3fcb50506b03ad76f0353?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Apr 04 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Group & Premium Sales Intern / Part-Time / Donald L. Tucker Civic Center](https://jobright.ai/jobs/info/67f0c874cec7b97db7d9c062?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Apr 04 |
 | ↳ | **[M&A and Development Intern / NY](https://jobright.ai/jobs/info/67f0c874cec7b97db7d9bfdb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/67f0e21439cfe314c7d98c3a?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 04 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Dental Field Sales Intern](https://jobright.ai/jobs/info/67f0b5faec71e6821aad957b?utm_campaign=1051&utm_source=git)** | Utah, United States | On Site | Apr 04 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d3fcb50506b03ad76f035e?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Apr 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d508eec07748907adff0ba?utm_campaign=1051&utm_source=git)** | Rochester, MN | On Site | Apr 04 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern- Summer- Dawsonville](https://jobright.ai/jobs/info/67f0ac76015cd57062ce6b8d?utm_campaign=1051&utm_source=git)** | Dawsonville, GA | On Site | Apr 04 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern - Summer](https://jobright.ai/jobs/info/66e3909dc5062ecb610fcbdb?utm_campaign=1051&utm_source=git)** | Bemidji, MN | On Site | Apr 04 |
+| ↳ | **[Sales Management Trainee Intern- Summer- Dawsonville](https://jobright.ai/jobs/info/67f0ac76015cd57062ce6b8d?utm_campaign=1051&utm_source=git)** | Dawsonville, GA | On Site | Apr 04 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/67f1edfe1e3c8cc846a3dd83?utm_campaign=1051&utm_source=git)** | Beachwood, OH | On Site | Apr 04 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d508eec07748907adff0c4?utm_campaign=1051&utm_source=git)** | Coralville, IA | On Site | Apr 04 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA SALES INTERN SUMMER '25 - WCTV](https://jobright.ai/jobs/info/67f092de2f5227c61391d3d5?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Apr 04 |
