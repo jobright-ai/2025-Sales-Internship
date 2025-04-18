@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of New Mexico](http://unm.edu)** | **[TechDen Sales Assistant](https://jobright.ai/jobs/info/6801e74215abf93ff9941a61?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Apr 17 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Global Trade & Investment Intern](https://jobright.ai/jobs/info/6801de62a8c9b9ce064cab8c?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Apr 17 |
+| **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/6801d9eec859054cf84d5f80?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 17 |
+| **[Fish Window Cleaning](https://www.fishwindowcleaning.com/)** | **[Entry Level Sales Representative / Paid Intern](https://jobright.ai/jobs/info/6801d0f0a56c2abc86796ab5?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | Apr 17 |
+| **[Opulence Management, Inc.](https://www.opulencemanagementinc.com)** | **[Sales & Marketing Internship - Grads Welcome / Start ASAP](https://jobright.ai/jobs/info/6801cf98505812e6f506f1d4?utm_campaign=1051&utm_source=git)** | Middletown, NY | On Site | Apr 17 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6801c830971a8a8d5e220727?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Apr 17 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6801b16c4843029f36828d8d?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
+| **[Somos, Inc.](https://www.somos.com)** | **[Intern, Business Development & Sales](https://jobright.ai/jobs/info/67c22f95661cd145a3771c02?utm_campaign=1051&utm_source=git)** | Herndon, VA | On Site | Apr 17 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6801b16c4843029f36828d88?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | Apr 17 |
 | ↳ | **[2025 Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6801b16c4843029f36828d89?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Apr 17 |
-| ↳ | **[2025 Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6801b16c4843029f36828d88?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | Apr 17 |
 | ↳ | **[2025 Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6801b16c4843029f36828d90?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 17 |
+| ↳ | **[2025 Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6801b16c4843029f36828d8d?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
 | **[Eastern Lift Truck Co., Inc.](https://easternlifttruck.com)** | **[Sales Intern ](https://jobright.ai/jobs/info/6801aa839bbcfb8afeacad87?utm_campaign=1051&utm_source=git)** | Upper Marlboro, MD 20772, USA | On Site | Apr 17 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Junior Development Intern - Atlanta, Dallas, Phoenix](https://jobright.ai/jobs/info/6801a940e8817ae1513a36aa?utm_campaign=1051&utm_source=git)** | Dallas County, TX | On Site | Apr 17 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/6801a8450bce4841d896578e?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Apr 17 |
@@ -84,27 +90,31 @@ For a complete list, click the following sortable link below:
 | **[Simon Roofing](http://www.simonroofing.com)** | **[National Sales Intern](https://jobright.ai/jobs/info/680164a5aff734f81d2f7a47?utm_campaign=1051&utm_source=git)** | Boardman, OH | On Site | Apr 17 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/68015f9679c5070a0f2f241c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Sales Internship](https://jobright.ai/jobs/info/68015f9679c5070a0f2f231a?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Apr 17 |
-| **[Wasserman](http://www.teamwass.com)** | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d9?utm_campaign=1051&utm_source=git)** | USA-VT - Vermont Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d4?utm_campaign=1051&utm_source=git)** | USA-TX - Dallas Office | On Site | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661dc?utm_campaign=1051&utm_source=git)** | USA-MI - Michigan Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c5?utm_campaign=1051&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d6?utm_campaign=1051&utm_source=git)** | USA-NY - New York Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c1?utm_campaign=1051&utm_source=git)** | USA-GA - Georgia Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed665c87?utm_campaign=1051&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d5?utm_campaign=1051&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b8?utm_campaign=1051&utm_source=git)** | USA-TX - Texas Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661cd?utm_campaign=1051&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c6?utm_campaign=1051&utm_source=git)** | USA-NV - Nevada Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d2?utm_campaign=1051&utm_source=git)** | USA-KS - Kansas Remote | Remote | Apr 17 |
+| **[Wasserman](http://www.teamwass.com)** | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed665c87?utm_campaign=1051&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c2?utm_campaign=1051&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661df?utm_campaign=1051&utm_source=git)** | USA-NY - Brooklyn (Dumbo) | On Site | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c7?utm_campaign=1051&utm_source=git)** | USA-IL - Illinois Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ae?utm_campaign=1051&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d7?utm_campaign=1051&utm_source=git)** | USA-DE - Delaware Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b0?utm_campaign=1051&utm_source=git)** | USA-ID - Idaho Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ca?utm_campaign=1051&utm_source=git)** | USA-WA - Washington Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d8?utm_campaign=1051&utm_source=git)** | USA-CO - Colorado Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b1?utm_campaign=1051&utm_source=git)** | USA-MT - Montana Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c1?utm_campaign=1051&utm_source=git)** | USA-GA - Georgia Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c8?utm_campaign=1051&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661e1?utm_campaign=1051&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661cf?utm_campaign=1051&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661e0?utm_campaign=1051&utm_source=git)** | USA-IN - Indiana Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ba?utm_campaign=1051&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b7?utm_campaign=1051&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ad?utm_campaign=1051&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661dc?utm_campaign=1051&utm_source=git)** | USA-MI - Michigan Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661dd?utm_campaign=1051&utm_source=git)** | USA-UT - Utah Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661df?utm_campaign=1051&utm_source=git)** | USA-NY - Brooklyn (Dumbo) | On Site | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ae?utm_campaign=1051&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d2?utm_campaign=1051&utm_source=git)** | USA-KS - Kansas Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661cd?utm_campaign=1051&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661de?utm_campaign=1051&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c0?utm_campaign=1051&utm_source=git)** | USA-MO - Missouri Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661bb?utm_campaign=1051&utm_source=git)** | USA-CA - California Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661cc?utm_campaign=1051&utm_source=git)** | USA-IA - Iowa Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d6?utm_campaign=1051&utm_source=git)** | USA-NY - New York Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661cb?utm_campaign=1051&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661da?utm_campaign=1051&utm_source=git)** | USA-FL - Florida Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c3?utm_campaign=1051&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Apr 17 |
@@ -117,28 +127,25 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661bc?utm_campaign=1051&utm_source=git)** | USA-AK - Alaska Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d3?utm_campaign=1051&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c4?utm_campaign=1051&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661be?utm_campaign=1051&utm_source=git)** | USA-OH - Ohio Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d7?utm_campaign=1051&utm_source=git)** | USA-DE - Delaware Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661af?utm_campaign=1051&utm_source=git)** | USA-VA - Virginia Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b0?utm_campaign=1051&utm_source=git)** | USA-ID - Idaho Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ca?utm_campaign=1051&utm_source=git)** | USA-WA - Washington Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661cf?utm_campaign=1051&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661e0?utm_campaign=1051&utm_source=git)** | USA-IN - Indiana Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ce?utm_campaign=1051&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ac?utm_campaign=1051&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c6?utm_campaign=1051&utm_source=git)** | USA-NV - Nevada Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b2?utm_campaign=1051&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b6?utm_campaign=1051&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661bb?utm_campaign=1051&utm_source=git)** | USA-CA - California Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d9?utm_campaign=1051&utm_source=git)** | USA-VT - Vermont Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d4?utm_campaign=1051&utm_source=git)** | USA-TX - Dallas Office | On Site | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661cc?utm_campaign=1051&utm_source=git)** | USA-IA - Iowa Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661be?utm_campaign=1051&utm_source=git)** | USA-OH - Ohio Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661db?utm_campaign=1051&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b5?utm_campaign=1051&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Apr 17 |
 | ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b9?utm_campaign=1051&utm_source=git)** | USA-ME - Maine Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c2?utm_campaign=1051&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b2?utm_campaign=1051&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b6?utm_campaign=1051&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661de?utm_campaign=1051&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ba?utm_campaign=1051&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b7?utm_campaign=1051&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ad?utm_campaign=1051&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d8?utm_campaign=1051&utm_source=git)** | USA-CO - Colorado Remote | Remote | Apr 17 |
-| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b1?utm_campaign=1051&utm_source=git)** | USA-MT - Montana Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ce?utm_campaign=1051&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661ac?utm_campaign=1051&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661c5?utm_campaign=1051&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661d5?utm_campaign=1051&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Apr 17 |
+| ↳ | **[Intern, Partnerships, Creators](https://jobright.ai/jobs/info/6801587526828916ed6661b8?utm_campaign=1051&utm_source=git)** | USA-TX - Texas Remote | Remote | Apr 17 |
 | **[Hypori](http://www.hypori.com)** | **[Sales Development Representative Intern ](https://jobright.ai/jobs/info/680157db0157e5a0cfd1ca7c?utm_campaign=1051&utm_source=git)** | Hybrid - Reston, VA | Hybrid | Apr 17 |
+| ↳ | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6801fd21a28c2ab49ca1691c?utm_campaign=1051&utm_source=git)** | Reston, VA | Hybrid | Apr 17 |
 | **[NSK](https://www.nskamericas.com)** | **[Inside Sales Co-op (1-year)](https://jobright.ai/jobs/info/680156330157e5a0cfd1c4a1?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Apr 17 |
 | **[CMC](https://www.cmc.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/680153f366a52e3515204b8a?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Apr 17 |
 | **[Howard Hughes Holdings Inc.](http://www.howardhughes.com/)** | **[Summer Development Associate- Ward Village](https://jobright.ai/jobs/info/68015209aaa288e80834e9d5?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Apr 17 |
@@ -148,13 +155,6 @@ For a complete list, click the following sortable link below:
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68014484765ce00863f836ec?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Apr 17 |
 | **[RepRally](https://www.reprally.com/)** | **[Sales/Marketing Intern - Boston](https://jobright.ai/jobs/info/68015f9679c5070a0f2f258c?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 17 |
 | **[DailyMail.com](http://www.dailymail.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/68013d824efd1d83742d4466?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 17 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/68013444b45f982a21360bcb?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Apr 17 |
-| ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/68013444b45f982a21360bc5?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Apr 17 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - South San Diego, CA  (Starting Summer 2025)](https://jobright.ai/jobs/info/68012deb1f7ede55fc7db853?utm_campaign=1051&utm_source=git)** | 9846 Mission Gorge Rd, Santee,CA 92071-3834 | Hybrid | Apr 17 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - South San Diego, CA  (Starting Summer 2025)](https://jobright.ai/jobs/info/68012deb1f7ede55fc7db858?utm_campaign=1051&utm_source=git)** | 3060 Plaza Bonita Rd, National City, CA 91950-8004 | Hybrid | Apr 17 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - South San Diego, CA  (Starting Summer 2025)](https://jobright.ai/jobs/info/68012deb1f7ede55fc7db854?utm_campaign=1051&utm_source=git)** | 1240 Broadway, Chula Vista,CA 91911-2911 | Hybrid | Apr 17 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - South San Diego, CA  (Starting Summer 2025)](https://jobright.ai/jobs/info/68012deb1f7ede55fc7db857?utm_campaign=1051&utm_source=git)** | 250 Broadway, El Cajon,CA 92021-4539 | Hybrid | Apr 17 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - South San Diego, CA  (Starting Summer 2025)](https://jobright.ai/jobs/info/68012deb1f7ede55fc7db852?utm_campaign=1051&utm_source=git)** | 5500 Grossmont Ctr Dr,Ste 1 La Mesa,CA 91942-3015 | Hybrid | Apr 17 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - South San Diego, CA  (Starting Summer 2025)](https://jobright.ai/jobs/info/68012deb1f7ede55fc7db855?utm_campaign=1051&utm_source=git)** | 2295 N Imperial Ave, El Centro,CA 92243-1335 | Hybrid | Apr 17 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - South San Diego, CA  (Starting Summer 2025)](https://jobright.ai/jobs/info/68012deb1f7ede55fc7db859?utm_campaign=1051&utm_source=git)** | 935 Sweetwater Rd Ste 101, Spring Valley,CA 91977-4837 | Hybrid | Apr 17 |
+| **[Fifth Third Bank](http://53.com)** | **[Consumer Lending Intern](https://jobright.ai/jobs/info/68013ca0e9f8255727b31ea4?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Apr 17 |
+| **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/6801364e17ce420817be9682?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
