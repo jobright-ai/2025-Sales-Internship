@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/680dac914db6a52a74834923?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 26 |
+| **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/680e5cd3d85e79814b03cce5?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | Apr 27 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/679a87073cb61ff95113d677?utm_campaign=1051&utm_source=git)** | Brookings, SD | On Site | Apr 27 |
 | **[RouteOne](https://www.routeone.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/680d53a4480ceb6d1fcee667?utm_campaign=1051&utm_source=git)** | Farmington, MI | On Site | Apr 26 |
 | **[Bone Dry Roofing](https://www.bonedry.com/indianapolis/)** | **[Sales Internship - Summer 2025*](https://jobright.ai/jobs/info/680d53a4480ceb6d1fcee633?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Apr 26 |
 | **[LOFT](http://anninc.com/)** | **[Summer Retail Management Internship - Sales Lead-ANN](https://jobright.ai/jobs/info/680d519e585b827c337f2958?utm_campaign=1051&utm_source=git)** | Geneva, IL | Hybrid | Apr 26 |
@@ -105,16 +106,16 @@ For a complete list, click the following sortable link below:
 | **[Oerlikon](http://www.oerlikon.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/680bfb7e18a3573ab726189c?utm_campaign=1051&utm_source=git)** | Westbury, NY | On Site | Apr 25 |
 | **[Ryerson](https://www.ryerson.com)** | **[Sales Intern](https://jobright.ai/jobs/info/680949400542a6aaedfb8136?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Apr 25 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2025 Sales Development Intern](https://jobright.ai/jobs/info/680bf3647983c0ad025072e2?utm_campaign=1051&utm_source=git)** | US-TX Dallas | On Site | Apr 25 |
-| **[Unite Us](https://uniteus.com)** | **[Digital Customer Success Intern](https://jobright.ai/jobs/info/680bf259beb11b922d4ecf47?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 25 |
-| ↳ | **[Sales and Customer Success Intern](https://jobright.ai/jobs/info/680bf259beb11b922d4ecd4c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 25 |
+| **[Unite Us](https://uniteus.com)** | **[Sales and Customer Success Intern](https://jobright.ai/jobs/info/680bf259beb11b922d4ecd4c?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 25 |
+| ↳ | **[Digital Customer Success Intern](https://jobright.ai/jobs/info/680bf259beb11b922d4ecf47?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Apr 25 |
 | **[Wayfair](https://www.wayfair.com)** | **[Commercial Associate Intern - Creative Operations](https://jobright.ai/jobs/info/680bf02e6d1f3376af2c1d43?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Apr 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67d3a37a95f9cfc4eaad4b85?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Apr 25 |
-| **[Unite Us](https://uniteus.com)** | **[Sales and Customer Success Intern ](https://jobright.ai/jobs/info/680be1805096f46f3ea0abeb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 25 |
-| ↳ | **[Digital Customer Success Intern ](https://jobright.ai/jobs/info/680be1805096f46f3ea0ac11?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Apr 25 |
+| **[Unite Us](https://uniteus.com)** | **[Digital Customer Success Intern ](https://jobright.ai/jobs/info/680be1805096f46f3ea0ac11?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Apr 25 |
+| ↳ | **[Sales and Customer Success Intern ](https://jobright.ai/jobs/info/680be1805096f46f3ea0abeb?utm_campaign=1051&utm_source=git)** | United States | Remote | Apr 25 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Oakwood Homes Summer Internship - Farmville, VA](https://jobright.ai/jobs/info/680bfca0c4e9fe0bb37b0382?utm_campaign=1051&utm_source=git)** | Farmville, VA | On Site | Apr 25 |
 | **[Betenbough Companies](https://betenboughcompanies.com/)** | **[New Home Sales Center Intern](https://jobright.ai/jobs/info/680bdc55eae6489e75b5b213?utm_campaign=1051&utm_source=git)** | Midland, TX | On Site | Apr 25 |
-| **[Anywhere Real Estate Inc.](https://www.anywhere.re/)** | **[Research Intern - Manhattan, NYC](https://jobright.ai/jobs/info/680bdc55eae6489e75b5b3a9?utm_campaign=1051&utm_source=git)** | 590 Madison Ave, New York, NY, 10022, US | On Site | Apr 25 |
-| ↳ | **[Research Intern - Manhattan, NYC](https://jobright.ai/jobs/info/680bdc55eae6489e75b5b3d5?utm_campaign=1051&utm_source=git)** | 590 Madison Ave, New York, NY, 10022, US | On Site | Apr 25 |
+| **[Anywhere Real Estate Inc.](https://www.anywhere.re/)** | **[Research Intern - Manhattan, NYC](https://jobright.ai/jobs/info/680bdc55eae6489e75b5b3d5?utm_campaign=1051&utm_source=git)** | 590 Madison Ave, New York, NY, 10022, US | On Site | Apr 25 |
+| ↳ | **[Research Intern - Manhattan, NYC](https://jobright.ai/jobs/info/680bdc55eae6489e75b5b3a9?utm_campaign=1051&utm_source=git)** | 590 Madison Ave, New York, NY, 10022, US | On Site | Apr 25 |
 | **[Auzmor](https://auzmor.com)** | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/680bda950410fc403ff8bcec?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Apr 25 |
 | **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2025 Intern - Demand Planning](https://jobright.ai/jobs/info/67f6da007e3f5e1431c739c7?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Apr 25 |
 | **[Oakes Auto Inc.](https://oakesauto.com)** | **[Automotive Sales Internship](https://jobright.ai/jobs/info/680bd8f30410fc403ff8b52c?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Apr 25 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Auzmor](https://auzmor.com)** | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/680b985b27a2676bc6ee3e3e?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Apr 25 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[LG Summer Intern, HS Inside Sales](https://jobright.ai/jobs/info/67f005381d84821d9cd7e8e3?utm_campaign=1051&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 25 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/67ef22c9b0895e7635e790a6?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Apr 25 |
-| **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/680b8c59b81ad7bcc6f53ad2?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Apr 25 |
+| **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/680b8c59b81ad7bcc6f53ad3?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Apr 25 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/66f6c159720f6ab7b86f66b1?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Apr 25 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Portland, ME](https://jobright.ai/jobs/info/6751c0da16cd9ef4ea92b9ff?utm_campaign=1051&utm_source=git)** | Portland, ME | Hybrid | Apr 25 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (NJ)](https://jobright.ai/jobs/info/666a2844e606c79653b24b03?utm_campaign=1051&utm_source=git)** | Hackensack, NJ | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jellysmack](http://www.jellysmack.com)** | **[Account Management Intern (paid)](https://jobright.ai/jobs/info/66f45f99638b18949eb31d43?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid) - ROS](https://jobright.ai/jobs/info/680b2cc7fb37fd1c47254654?utm_campaign=1051&utm_source=git)** | Runnemede, NJ | On Site | Apr 24 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandise Assistant Internship (New York)](https://jobright.ai/jobs/info/680b2cc7fb37fd1c47254671?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Apr 24 |
-| **[Schindler Group](http://www.schindler.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/680498b2b812cd6155e32130?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
