@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic National Distributing Company](http://www.rndc-usa.com/)** | **[College Intern, Sales](https://jobright.ai/jobs/info/6820ec9d7275e61ae6ce25d8?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 11 |
+| **[NANA](http://www.nana.com)** | **[NANA Shareholder College Summer Intern - Proposal Coordinator](https://jobright.ai/jobs/info/6820c6a703a3ecf5b2ea5b5f?utm_campaign=1051&utm_source=git)** | Herndon, VA | On Site | May 11 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/681d96c5abd3c71ba3ad8830?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | May 11 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67f5cbfb9fbb18c4464ff1dc?utm_campaign=1051&utm_source=git)** | Amarillo, TX | On Site | May 11 |
+| **[Deutsch Family Wine & Spirits](https://www.deutschfamily.com/brands/josh-cellars)** | **[Business Development Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f2ae2?utm_campaign=1051&utm_source=git)** | United States | Remote | May 11 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast Sales Internship (MA, CT, NH, RI, ME) - Summer 2025](https://jobright.ai/jobs/info/680113c7690009270b30fe11?utm_campaign=1051&utm_source=git)** | Glastonbury, CT | On Site | May 11 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Intern - Showroom (Dallas, Texas, United States, 75207)](https://jobright.ai/jobs/info/68207a0faa5eed78f01ebb69?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 11 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Mgmt & Sales Trainees - Management Trainee Intern](https://jobright.ai/jobs/info/682050ceaee91f10d0c3bf50?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | May 11 |
@@ -70,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/680383b1648d37d028138d6b?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | May 10 |
 | **[Shopbop](http://www.shopbop.com)** | **[Buying Intern, Buying](https://jobright.ai/jobs/info/681f45ae36baf767141e1eb2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 10 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Retail Business Internship](https://jobright.ai/jobs/info/67ace5f2868690c0fbd3c776?utm_campaign=1051&utm_source=git)** | Jackson, NJ | On Site | May 10 |
+| **[Taylor Morrison](http://www.taylormorrison.com)** | **[Sales Intern](https://jobright.ai/jobs/info/67aba4fc3bd0cb7ae0d95297?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | May 10 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Wealth Management Summer Analyst Program - Private Bank 2026](https://jobright.ai/jobs/info/681f41ec55e369711033fc02?utm_campaign=1051&utm_source=git)** | Greater Hartford | On Site | May 10 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (AUS)](https://jobright.ai/jobs/info/65072f6a03f004792465917c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 10 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Real Estate Management Internship - Little Rock, AR](https://jobright.ai/jobs/info/6802ce276c71183438266b3c?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | May 10 |
@@ -97,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbinsurance.com/)** | **[Intern](https://jobright.ai/jobs/info/681e999e6db7f8d01792426a?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | May 09 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681e97b4170e24f29079e3e5?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | May 09 |
 | **[BioTrillion](https://www.biotrillion.com)** | **[Intern](https://jobright.ai/jobs/info/681e8f1beae49dfdc17a141b?utm_campaign=1051&utm_source=git)** | United States | Remote | May 09 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e781be63fed423afb1492?utm_campaign=1051&utm_source=git)** | Malvern, PA | Hybrid | May 09 |
-| ↳ | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e781be63fed423afb1493?utm_campaign=1051&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | May 09 |
+| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e781be63fed423afb1493?utm_campaign=1051&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | May 09 |
 | ↳ | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e781be63fed423afb1491?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Hybrid | May 09 |
+| ↳ | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e781be63fed423afb1492?utm_campaign=1051&utm_source=git)** | Malvern, PA | Hybrid | May 09 |
 | ↳ | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e77ede63fed423afb0973?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | May 09 |
 | **[Brown & Brown](http://www.bbinsurance.com/)** | **[Intern](https://jobright.ai/jobs/info/681e77ede63fed423afb093c?utm_campaign=1051&utm_source=git)** | Ft. Lauderdale, FL, USA | On Site | May 09 |
 | **[Freehand Hotels](https://freehandhotels.com/)** | **[Hotel Intern](https://jobright.ai/jobs/info/681e6bc8ce8d927129d237b0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 09 |
@@ -124,14 +130,13 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Business Adoption Industry Process Associate](https://jobright.ai/jobs/info/681e12a0c276bdb7286730b0?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | May 09 |
 | **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Intern](https://jobright.ai/jobs/info/681e0ce0db9d83257e4f8703?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
 | **[Howard Hughes Holdings Inc.](http://www.howardhughes.com/)** | **[Summer Development Associate- Ward Village](https://jobright.ai/jobs/info/68015209aaa288e80834e9d5?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | May 09 |
-| **[Auzmor](https://auzmor.com)** | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/681debd11ddab1a00359e31e?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 09 |
-| ↳ | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/681debd11ddab1a00359e328?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | May 09 |
+| **[Auzmor](https://auzmor.com)** | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/681debd11ddab1a00359e328?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | May 09 |
 | ↳ | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/681debd11ddab1a00359e31d?utm_campaign=1051&utm_source=git)** | California, United States | On Site | May 09 |
+| ↳ | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/681debd11ddab1a00359e31e?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 09 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Investment Brokerage Intern](https://jobright.ai/jobs/info/67c79a30a0795e63efa549b5?utm_campaign=1051&utm_source=git)** | Holmdel, NJ | On Site | May 09 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (NYC)](https://jobright.ai/jobs/info/66795ea4dd14b36e4d97a0bb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[PSC Biotech Corporation](http://biotech.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/672ac57816ae4835afbfd15e?utm_campaign=1051&utm_source=git)** | York, PA | On Site | May 09 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/681dd65eb675365faae35868?utm_campaign=1051&utm_source=git)** | Sheldon, IA | On Site | May 09 |
-| **[STORE Capital](http://storecapital.com/)** | **[Intern- Summer Cycle 2025](https://jobright.ai/jobs/info/681df86f8ba96738fa7da610?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | May 09 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Freight Brokerage Inside Sales Intern](https://jobright.ai/jobs/info/681db0a94e5397d011a02303?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | May 09 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Intern](https://jobright.ai/jobs/info/681da8c424314fb162677257?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 09 |
 | **[Markel](https://www.markel.com)** | **[Business Development Intern - State National](https://jobright.ai/jobs/info/681da83f2d51ecf0910faeab?utm_campaign=1051&utm_source=git)** | Bedford, TX | Hybrid | May 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Continental](https://www.continental.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/6811b8aa0f81dc5483683cdc?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | May 08 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[CT - Sales (1)](https://jobright.ai/jobs/info/681ceaed86066a80dc68b703?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | May 08 |
 | **[Snowflake](https://www.snowflake.com)** | **[Sales Enablement Intern - Summer 2025](https://jobright.ai/jobs/info/680832b86c962f7be342e740?utm_campaign=1051&utm_source=git)** | Menlo Park, CA | On Site | May 08 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Global Category Planner Co-op](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac462?utm_campaign=1051&utm_source=git)** | Needham, MA | On Site | May 08 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloudified Services Sales [Newtown Square]](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac406?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | May 08 |
-| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/681ce09e673d4500f9901c9f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 08 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Latin America (LATAM) Strategic Sales Operations Co-op (July through December)](https://jobright.ai/jobs/info/681ce071c564fe8fefbb4fcf?utm_campaign=1051&utm_source=git)** | Needham, MA | Hybrid | May 08 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Freight Brokerage Inside Sales Intern](https://jobright.ai/jobs/info/681cdb4502b58a32fec897ef?utm_campaign=1051&utm_source=git)** | USA - Alpharetta GA Sanctuary Pkwy | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
