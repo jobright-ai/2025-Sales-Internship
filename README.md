@@ -57,28 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/682173c931a83198a06165d5?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | May 11 |
 | **[The Chefs'​ Warehouse](http://www.chefswarehouse.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68214a8c1d61069d9e6fbb02?utm_campaign=1051&utm_source=git)** | City of Industry, CA | On Site | May 11 |
-| **[TikTok](https://www.tiktok.com)** | **[CATEGORY MANAGER INTERN (TIKTOK SHOP - GLOBAL KEY ACCOUNTS) - 2025 PROJECTINTERN (BS/MS)](https://jobright.ai/jobs/info/68212a8aefbb085758eab8cc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 11 |
-| **[Kohl's](https://corporate.kohls.com)** | **[EARLY TALENT - 2025 - DISTRICT 25 DENVER SOUTH - STORE LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68212a8aefbb085758eab97d?utm_campaign=1051&utm_source=git)** | Parker, CO | On Site | May 11 |
-| ↳ | **[EARLY TALENT - 2025 - DISTRICT 46 NY CENTRAL- STORE LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68212a8aefbb085758eab86c?utm_campaign=1051&utm_source=git)** | Newburgh, NY | On Site | May 11 |
-| ↳ | **[EARLY TALENT - 2025 - SOUTH: GEORGIA/CAROLINAS - STORE LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68212a8aefbb085758eab8e0?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | May 11 |
-| ↳ | **[EARLY TALENT - 2025 - DISTRICT 51 PHOENIX EAST - STORE LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68212a8aefbb085758eab890?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | May 11 |
-| **[TruGreen](http://trugreen.com)** | **[RESIDENTIAL LAWN SPECIALIST INTERN](https://jobright.ai/jobs/info/68212a8aefbb085758eabbac?utm_campaign=1051&utm_source=git)** | Pasco, WA | On Site | May 11 |
-| **[Kohl's](https://corporate.kohls.com)** | **[EARLY TALENT - 2025 - DISTRICT 70 CA CENTRAL - STORE LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68212a8aefbb085758eabb5e?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | May 11 |
-| ↳ | **[EARLY TALENT - 2025 - DISTRICT 67 KENTUCKY - STORE LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68212a8aefbb085758eabbab?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | May 11 |
-| ↳ | **[EARLY TALENT - 2025 - NORTHEAST: DELMARVA - STORE LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68212ac6efbb085758eabefa?utm_campaign=1051&utm_source=git)** | Laurel, MD | On Site | May 11 |
-| ↳ | **[EARLY TALENT - 2025 - DISTRICT 9 PNW NORTH AND 60 SOUTH- STORE LEADERSHIPINTERNSHIP](https://jobright.ai/jobs/info/68212ac6efbb085758eabf5c?utm_campaign=1051&utm_source=git)** | Tukwila, WA | On Site | May 11 |
-| **[TikTok](https://www.tiktok.com)** | **[CATEGORY MANAGER INTERN (TIKTOK SHOP - GLOBAL KEY ACCOUNTS) - 2025 PROJECTINTERN (MBA)](https://jobright.ai/jobs/info/68212fe133d68117dcab5080?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 11 |
-| ↳ | **[ECOSYSTEM ARTIST PARTNERSHIP INTERN (ARTISTS ENGAGEMENT AND MONETIZATION) - 2025PROJECT INTERN (BS/MS)](https://jobright.ai/jobs/info/68212fe133d68117dcab50c6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
-| **[Kohl's](https://corporate.kohls.com)** | **[EARLY TALENT - 2025 - DISTRICT 34 OK WICHITA - STORE LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68212fe133d68117dcab51ec?utm_campaign=1051&utm_source=git)** | Yukon, OK | On Site | May 11 |
-| ↳ | **[EARLY TALENT - 2025 - DISTRICT 55 SACRAMENTO - STORE LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68212fe133d68117dcab55ab?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | May 11 |
-| ↳ | **[EARLY TALENT - 2025 - DISTRICT 52 NJ SOUTH PHILA - STORE LEADERSHIP INTERNSHIP](https://jobright.ai/jobs/info/68212fe133d68117dcab55cb?utm_campaign=1051&utm_source=git)** | Cherry Hill Township, NJ | On Site | May 11 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE VERNOVA GAS POWER CARBON SOLUTIONS PARTNERSHIPS INTERN - FALL 2025](https://jobright.ai/jobs/info/6821301a33d68117dcab593a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 11 |
 | **[Republic National Distributing Company](http://www.rndc-usa.com/)** | **[College Intern, Sales](https://jobright.ai/jobs/info/6820ec9d7275e61ae6ce25d8?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 11 |
 | **[NANA](http://www.nana.com)** | **[NANA Shareholder College Summer Intern - Proposal Coordinator](https://jobright.ai/jobs/info/6820c6a703a3ecf5b2ea5b5f?utm_campaign=1051&utm_source=git)** | Herndon, VA | On Site | May 11 |
+| **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/682116c87368e46c6d04090f?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | May 11 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Purchasing](https://jobright.ai/jobs/info/67ccb26f263de36564cce39a?utm_campaign=1051&utm_source=git)** | Lost Hills, CA | On Site | May 11 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67e8b95c1b4d87360375f58f?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | May 11 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682161c87bd82dbd1a989ff0?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | May 11 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/67e888fcaa973cbe029d9f6f?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | May 11 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (DAL)](https://jobright.ai/jobs/info/650765826198163b7ccb7564?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 11 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682161c87bd82dbd1a989ff0?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | May 11 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/681d96c5abd3c71ba3ad8830?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | May 11 |
 | **[Winged Keel Group](http://wingedkeel.com)** | **[Client Relationship Analyst](https://jobright.ai/jobs/info/673ffbbf4d30d51381c45f1a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 11 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/67f5cbfb9fbb18c4464ff1dc?utm_campaign=1051&utm_source=git)** | Amarillo, TX | On Site | May 11 |
@@ -88,7 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Intern - Showroom (Dallas, Texas, United States, 75207)](https://jobright.ai/jobs/info/68207a0faa5eed78f01ebb69?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 11 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Mgmt & Sales Trainees - Management Trainee Intern](https://jobright.ai/jobs/info/682050ceaee91f10d0c3bf50?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | May 11 |
 | **[Trellis AI](https://usetrellis.co/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68204546cef17cf96b73db80?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | On Site | May 10 |
-| **[Helmut Fischer Global](https://www.helmut-fischer.com/)** | **[Produkttrainer (m/w/d)](https://jobright.ai/jobs/info/682022b3379642f5903b528d?utm_campaign=1051&utm_source=git)** | Home, KS | On Site | May 10 |
+| **[MiQ](https://www.wearemiq.com/)** | **[Trading, Summer Intern](https://jobright.ai/jobs/info/67e73992fbfbea8269c00f80?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | May 10 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/680f146fa723a85fd9a8f0e9?utm_campaign=1051&utm_source=git)** | Paducah, KY | On Site | May 10 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (TPA)](https://jobright.ai/jobs/info/66796318f6b36b4aa01a326c?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 10 |
 | **[Mersino Water Solutions](http://www.mersino.com)** | **[Intern](https://jobright.ai/jobs/info/681fc77495fc70dc908ac39d?utm_campaign=1051&utm_source=git)** | Burton, MI | On Site | May 10 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/681fc35ea1335cf3535c5c0e?utm_campaign=1051&utm_source=git)** | Richmond Heights, OH | On Site | May 10 |
@@ -129,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[BioTrillion](https://www.biotrillion.com)** | **[Intern](https://jobright.ai/jobs/info/681e8f1beae49dfdc17a141b?utm_campaign=1051&utm_source=git)** | United States | Remote | May 09 |
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Sales & Business Development Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca245a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | May 09 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e781be63fed423afb1493?utm_campaign=1051&utm_source=git)** | Dallas/Ft. Worth, TX | Hybrid | May 09 |
-| ↳ | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e781be63fed423afb1491?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Hybrid | May 09 |
 | ↳ | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e781be63fed423afb1492?utm_campaign=1051&utm_source=git)** | Malvern, PA | Hybrid | May 09 |
+| ↳ | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e781be63fed423afb1491?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Hybrid | May 09 |
 | ↳ | **[College to Corporate - Sales](https://jobright.ai/jobs/info/681e77ede63fed423afb0973?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | May 09 |
 | **[Brown & Brown](http://www.bbinsurance.com/)** | **[Intern](https://jobright.ai/jobs/info/681e77ede63fed423afb093c?utm_campaign=1051&utm_source=git)** | Ft. Lauderdale, FL, USA | On Site | May 09 |
 | **[Freehand Hotels](https://freehandhotels.com/)** | **[Hotel Intern](https://jobright.ai/jobs/info/681e6bc8ce8d927129d237b0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 09 |
@@ -157,4 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Howard Hughes Holdings Inc.](http://www.howardhughes.com/)** | **[Summer Development Associate- Ward Village](https://jobright.ai/jobs/info/68015209aaa288e80834e9d5?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | May 09 |
 | **[Auzmor](https://auzmor.com)** | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/681debd11ddab1a00359e31d?utm_campaign=1051&utm_source=git)** | California, United States | On Site | May 09 |
 | ↳ | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/681debd11ddab1a00359e328?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | May 09 |
+| ↳ | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/681debd11ddab1a00359e31e?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | May 09 |
+| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Investment Brokerage Intern](https://jobright.ai/jobs/info/67c79a30a0795e63efa549b5?utm_campaign=1051&utm_source=git)** | Holmdel, NJ | On Site | May 09 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (NYC)](https://jobright.ai/jobs/info/66795ea4dd14b36e4d97a0bb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 09 |
+| **[PSC Biotech Corporation](http://biotech.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/672ac57816ae4835afbfd15e?utm_campaign=1051&utm_source=git)** | York, PA | On Site | May 09 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/681dd65eb675365faae35868?utm_campaign=1051&utm_source=git)** | Sheldon, IA | On Site | May 09 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[Freight Brokerage Inside Sales Intern](https://jobright.ai/jobs/info/681db0a94e5397d011a02303?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | May 09 |
+| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Intern](https://jobright.ai/jobs/info/681da8c424314fb162677257?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | May 09 |
+| **[Markel](https://www.markel.com)** | **[Business Development Intern - State National](https://jobright.ai/jobs/info/681da83f2d51ecf0910faeab?utm_campaign=1051&utm_source=git)** | Bedford, TX | Hybrid | May 09 |
+| **[TekniPlex](http://www.tekni-plex.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/681da5c8df7c7209071aeae6?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | Hybrid | May 08 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Grants Partnership Intern - Fall 2025](https://jobright.ai/jobs/info/681da00e553612ad52e87347?utm_campaign=1051&utm_source=git)** | District of Columbia, United States | Hybrid | May 08 |
+| **[Gamma Technologies](https://www.gtisoft.com)** | **[Intern - Sales Enablement Team](https://jobright.ai/jobs/info/681da00e553612ad52e877dc?utm_campaign=1051&utm_source=git)** | Westmont, IL | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
