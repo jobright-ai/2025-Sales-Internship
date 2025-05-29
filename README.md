@@ -57,22 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Virginia](https://lvg.virginia.edu)** | **[Ticket Operations and Data Analytics Intern (Staff and Student Wage)](https://jobright.ai/jobs/info/682fdcd4a364eaa6f7cf3518?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | May 28 |
+| **[RSI Security](https://www.rsisecurity.com/)** | **[Developing Sales & Business Development Associate/Intern](https://jobright.ai/jobs/info/6837b4285f785b23b9195f76?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
 | **[Interface](http://www.interface.com/)** | **[Showroom Intern](https://jobright.ai/jobs/info/6837a572b19f64d252c00a6f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | May 28 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, AEG Presents Global Partnerships](https://jobright.ai/jobs/info/6837a572b19f64d252c00a61?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[RealPage, Inc.](http://www.realpage.com)** | **[Customer Success Associate - Intern](https://jobright.ai/jobs/info/6837a29080b21311efdd77ba?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | May 28 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Cargo Commercial - Sales Development (Fall 2025)](https://jobright.ai/jobs/info/68379ecac7596095a1a34ebe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 28 |
-| **[Starbucks](https://www.starbucks.com)** | **[internship partner](https://jobright.ai/jobs/info/6837916c64d654abc8e8cb77?utm_campaign=1051&utm_source=git)** | 2401 Utah Ave S #800, Seattle, Washington, United States | On Site | May 28 |
 | **[HeyGen](https://www.heygen.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68378ac5fec8af0ffdbaf8c5?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | May 28 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[Purchasing Intern - Taylorville](https://jobright.ai/jobs/info/68377c15fffcf4bcc9971aad?utm_campaign=1051&utm_source=git)** | Taylorville, IL | On Site | May 28 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Relationship Management Intern](https://jobright.ai/jobs/info/6837785cb5580bb3c2f3c39f?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Clique Hospitality](https://cliquehospitality.com/)** | **[Sales Intern - Clique Hospitality](https://jobright.ai/jobs/info/6837785cb5580bb3c2f3c567?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | May 28 |
-| **[Highgate](https://www.highgate.com)** | **[Revenue Intern](https://jobright.ai/jobs/info/6837734a48862eab9ff2fc46?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Erickson Senior Living](https://www.ericksonseniorliving.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6837734a48862eab9ff2fc07?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | May 28 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, AEG Presents Global Partnerships ](https://jobright.ai/jobs/info/68376f0efd011d61ae4d7ad6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 28 |
 | **[Northmarq](http://www.northmarq.com)** | **[Multifamily Investment Sales Intern - Commercial Real Estate](https://jobright.ai/jobs/info/6837663479febcb3497dbce4?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | May 28 |
 | **[Interface](http://www.interface.com/)** | **[Showroom Intern](https://jobright.ai/jobs/info/6837607f188da72220f0b96f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | May 28 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Commissions Intern](https://jobright.ai/jobs/info/68375b2a940f34a12f371f0f?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | May 28 |
-| **[Folio](https://folio.works/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68374bc99a3227c7a6f46880?utm_campaign=1051&utm_source=git)** | Tarrytown, NY | On Site | May 28 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Commissions Intern](https://jobright.ai/jobs/info/6837d25cb8a1c9ee87639eb4?utm_campaign=1051&utm_source=git)** | Quincy, MA | On Site | May 28 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Vendor Management Intern](https://jobright.ai/jobs/info/6837663479febcb3497dbd90?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 28 |
 | **[Berlin Packaging](http://berlinpackaging.com/)** | **[Intern - Sales Enablement (Summer 2025)](https://jobright.ai/jobs/info/68373ce3919e3649c58376b7?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | May 28 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Relationship Management Intern](https://jobright.ai/jobs/info/68373bad4a459b5e08aaed3d?utm_campaign=1051&utm_source=git)** | 780 Third Avenue, New York, NY, 11017, US | On Site | May 28 |
@@ -90,11 +89,13 @@ For a complete list, click the following sortable link below:
 | **[Auzmor](https://auzmor.com)** | **[Customer Success Business Analyst](https://jobright.ai/jobs/info/6836f1203a5dc113b96851f5?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | May 28 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/681a9d7d6969d4420fea5666?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | May 28 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Customer Success Intern - REMOTE](https://jobright.ai/jobs/info/6836b80858d339aebad490fb?utm_campaign=1051&utm_source=git)** | United States | Remote | May 28 |
-| **[Nestlé](https://www.nestle.com)** | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/682bc1cdb7baa5e5657147bc?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | May 27 |
+| **[Nestlé](https://www.nestle.com)** | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/682bc1cdb7baa5e5657147bd?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | May 27 |
+| ↳ | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/682bc1cdb7baa5e5657147bc?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | May 27 |
 | ↳ | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/682bbb9e948f4c4be1141e46?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 27 |
 | **[CBRE](https://www.cbre.com)** | **[2025 Sales/Brokerage Intern - Summer (West Los Angeles, CA)](https://jobright.ai/jobs/info/6836820987510a12618656f9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | **[Highgate](https://www.highgate.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6836728e08c8d881ec165dd2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Intern](https://jobright.ai/jobs/info/68366f0ecd5feade1f6f5b14?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | May 27 |
+| **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/683000ea4f2126468d28114c?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | May 27 |
 | **[CBRE](https://www.cbre.com)** | **[2025 Sales/Brokerage Intern - Summer (Downtown Los Angeles, CA)](https://jobright.ai/jobs/info/68365a4205e2cf1db8abbf76?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | **[Cloudera](http://www.cloudera.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31ddd?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 27 |
 | **[VaynerX](https://vaynerx.com)** | **[Resident - Client Partnerships ](https://jobright.ai/jobs/info/68363d3af5fb75e63fd7fcf0?utm_campaign=1051&utm_source=git)** | New York | Hybrid | May 27 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Norsk Hydro](http://www.hydro.com)** | **[Sales Intern](https://jobright.ai/jobs/info/681954510236da528c592d3c?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | May 27 |
 | **[STMicroelectronics](https://www.st.com)** | **[Sales Unit Business Management Intern](https://jobright.ai/jobs/info/6835fab232f1129495af5e70?utm_campaign=1051&utm_source=git)** | Redmond, WA | Hybrid | May 27 |
 | **[Graybar](http://www.graybar.com)** | **[Summer 2025 Intern](https://jobright.ai/jobs/info/6835ec74e2b7ce4510f480a9?utm_campaign=1051&utm_source=git)** | Diamond Bar, CA | On Site | May 27 |
-| **[GDS Group](https://gdsgroup.com/)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/6835e0e43ba1334657ed6127?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 27 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6835e0e43ba1334657ed6125?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 27 |
+| **[GDS Group](https://gdsgroup.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6835e0e43ba1334657ed6125?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 27 |
+| ↳ | **[Sales Business Development Intern](https://jobright.ai/jobs/info/6835e0e43ba1334657ed6127?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | May 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6819537061d3cc1a3306ebe9?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | May 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern-Fall- Buckhead Piedmont](https://jobright.ai/jobs/info/68197682f86eb5d2b295962e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | May 27 |
 | **[IMG (International Medical Group)](http://www.imglobal.com)** | **[Commercial Team - Summer Intern](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d04a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Operations Intern - OVIP](https://jobright.ai/jobs/info/6817169a2f3ec667feae830c?utm_campaign=1051&utm_source=git)** | United States | Remote | May 25 |
 | ↳ | **[NetSuite Customer Success Operations Systems Intern - OVIP](https://jobright.ai/jobs/info/6817137cc83eac12677c4d13?utm_campaign=1051&utm_source=git)** | United States | Remote | May 25 |
 | ↳ | **[NetSuite Account Marketing Intern - OVIP](https://jobright.ai/jobs/info/6817169a2f3ec667feae82f4?utm_campaign=1051&utm_source=git)** | United States | Remote | May 25 |
-| ↳ | **[NetSuite Account Marketing Intern - OVIP](https://jobright.ai/jobs/info/6817169a2f3ec667feae82f2?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
