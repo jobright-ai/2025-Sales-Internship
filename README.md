@@ -73,47 +73,47 @@ For a complete list, click the following sortable link below:
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[Power Intergration Intern (Houston, TX)](https://jobright.ai/jobs/info/683b1683a5c4161289c7ea00?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | May 31 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68032e12b301ab2a384c5502?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | May 31 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/680383b1648d37d028138d7d?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | May 31 |
-| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Portland, ME](https://jobright.ai/jobs/info/681e3327a1a8a0c315c0507c?utm_campaign=1051&utm_source=git)** | Portland, ME | Hybrid | May 31 |
-| ↳ | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/681e3327a1a8a0c315c0507d?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | May 31 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/681e3327a1a8a0c315c0507d?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | May 31 |
+| ↳ | **[Unum Scholar Intern - Portland, ME](https://jobright.ai/jobs/info/681e3327a1a8a0c315c0507c?utm_campaign=1051&utm_source=git)** | Portland, ME | Hybrid | May 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloudified Services Sales [Newtown Square]](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac406?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | May 31 |
 | **[Arch Telecom](https://linktr.ee/ArchTelecom)** | **[Hiring Event for Retail Sales Associate 5th June OAKLAND / International Blvd](https://jobright.ai/jobs/info/683a76106e634b11db96a713?utm_campaign=1051&utm_source=git)** | Oakland, CA | On Site | May 30 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/683a533708bd4a2918527516?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | May 30 |
 | **[IGT](http://igt.com)** | **[Purchasing Specialist Intern](https://jobright.ai/jobs/info/683a36b7059b85583549a633?utm_campaign=1051&utm_source=git)** | West Greenwich, RI | On Site | May 30 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1d0?utm_campaign=1051&utm_source=git)** | Utah, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1b6?utm_campaign=1051&utm_source=git)** | Oregon, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c1?utm_campaign=1051&utm_source=git)** | Vermont, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1bc?utm_campaign=1051&utm_source=git)** | Connecticut, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1d1?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1ca?utm_campaign=1051&utm_source=git)** | Nevada, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376293?utm_campaign=1051&utm_source=git)** | Missouri, United States | Hybrid | May 30 |
+| **[Harris Computer](http://www.harriscomputer.com)** | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376292?utm_campaign=1051&utm_source=git)** | New Hampshire, United States | Hybrid | May 30 |
 | ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c7?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1b7?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c5?utm_campaign=1051&utm_source=git)** | Florida, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1b8?utm_campaign=1051&utm_source=git)** | Washington, United States | Hybrid | May 30 |
 | ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c4?utm_campaign=1051&utm_source=git)** | Montana, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1ca?utm_campaign=1051&utm_source=git)** | Nevada, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c1?utm_campaign=1051&utm_source=git)** | Vermont, United States | Hybrid | May 30 |
 | ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1bd?utm_campaign=1051&utm_source=git)** | Michigan, United States | Hybrid | May 30 |
 | ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b37628e?utm_campaign=1051&utm_source=git)** | Alabama, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c5?utm_campaign=1051&utm_source=git)** | Florida, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376292?utm_campaign=1051&utm_source=git)** | New Hampshire, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1b7?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1b6?utm_campaign=1051&utm_source=git)** | Oregon, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376293?utm_campaign=1051&utm_source=git)** | Missouri, United States | Hybrid | May 30 |
 | ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b37628a?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1b8?utm_campaign=1051&utm_source=git)** | Washington, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1d1?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1bc?utm_campaign=1051&utm_source=git)** | Connecticut, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1d0?utm_campaign=1051&utm_source=git)** | Utah, United States | Hybrid | May 30 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Intern](https://jobright.ai/jobs/info/683a14cf8e8a422be2f9eafb?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | May 30 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376295?utm_campaign=1051&utm_source=git)** | Arkansas, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c2?utm_campaign=1051&utm_source=git)** | Rhode Island, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c0?utm_campaign=1051&utm_source=git)** | Colorado, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376287?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f771532e75c74aa069f85?utm_campaign=1051&utm_source=git)** | Illinois, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1cd?utm_campaign=1051&utm_source=git)** | Oklahoma, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b37628d?utm_campaign=1051&utm_source=git)** | Georgia, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b37628f?utm_campaign=1051&utm_source=git)** | California, United States | Hybrid | May 30 |
+| **[Harris Computer](http://www.harriscomputer.com)** | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376290?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1bf?utm_campaign=1051&utm_source=git)** | Minnesota, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c8?utm_campaign=1051&utm_source=git)** | South Dakota, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1cf?utm_campaign=1051&utm_source=git)** | Virginia, United States | Hybrid | May 30 |
 | ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f771532e75c74aa069be1?utm_campaign=1051&utm_source=git)** | Nebraska, United States | Hybrid | May 30 |
 | ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1b9?utm_campaign=1051&utm_source=git)** | West Virginia, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1bf?utm_campaign=1051&utm_source=git)** | Minnesota, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376291?utm_campaign=1051&utm_source=git)** | Arizona, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b37628d?utm_campaign=1051&utm_source=git)** | Georgia, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f771532e75c74aa069f85?utm_campaign=1051&utm_source=git)** | Illinois, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376287?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Hybrid | May 30 |
 | ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1ba?utm_campaign=1051&utm_source=git)** | Louisiana, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b37628f?utm_campaign=1051&utm_source=git)** | California, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376291?utm_campaign=1051&utm_source=git)** | Arizona, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376295?utm_campaign=1051&utm_source=git)** | Arkansas, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c0?utm_campaign=1051&utm_source=git)** | Colorado, United States | Hybrid | May 30 |
 | ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c6?utm_campaign=1051&utm_source=git)** | New Mexico, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1cf?utm_campaign=1051&utm_source=git)** | Virginia, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f88829574c4d31b376290?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c2?utm_campaign=1051&utm_source=git)** | Rhode Island, United States | Hybrid | May 30 |
+| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1cd?utm_campaign=1051&utm_source=git)** | Oklahoma, United States | Hybrid | May 30 |
 | ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1cb?utm_campaign=1051&utm_source=git)** | Maryland, United States | Hybrid | May 30 |
-| ↳ | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1c8?utm_campaign=1051&utm_source=git)** | South Dakota, United States | Hybrid | May 30 |
 | **[Essendant](http://www.essendant.com/)** | **[Growth Enablement Intern](https://jobright.ai/jobs/info/683a118c95793c98b812797b?utm_campaign=1051&utm_source=git)** | Suwanee, GA | On Site | May 30 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/683a1180376e93ef5ce6c249?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | May 30 |
 | **[Nestlé](https://www.nestle.com)** | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Sales Internship Program](https://jobright.ai/jobs/info/682bbb9e948f4c4be1141e46?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | May 30 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Sales Operation Intern](https://jobright.ai/jobs/info/68394a472ead189f70100923?utm_campaign=1051&utm_source=git)** | Parma, OH | On Site | May 29 |
 | **[Clarivate](http://clarivate.com)** | **[Co-Op, Healthcare Commercial Strategy (6 months)](https://jobright.ai/jobs/info/683bebb86a73cc1a01520d43?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | May 29 |
 | **[Design Ready Controls](http://designreadycontrols.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7adac?utm_campaign=1051&utm_source=git)** | Brooklyn Park, MN | On Site | May 29 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/683d090ea0c9dcea46e94736?utm_campaign=1051&utm_source=git)** | Hebron, KY | On Site | May 29 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Intern – Internal Sales Representative](https://jobright.ai/jobs/info/682f7ff2f5fecbead929d1cc?utm_campaign=1051&utm_source=git)** | North Dakota, United States | Hybrid | May 29 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6839059e53f71a4389a60d60?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | May 29 |
-| **[Frost](https://www.frostbank.com/)** | **[College Intern - Credit Operations](https://jobright.ai/jobs/info/6839050c40872350a48038c2?utm_campaign=1051&utm_source=git)** | San Antonio, TX - One Frost | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
