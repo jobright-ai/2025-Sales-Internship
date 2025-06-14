@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/684ceac35c914a5780453f00?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Jun 13 |
+| **[Henry Schein](http://www.henryschein.com)** | **[Field Sales Intern](https://jobright.ai/jobs/info/684ce86af20d9a9d6381af42?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jun 13 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern- Corporate Real Estate](https://jobright.ai/jobs/info/684ce86af20d9a9d6381af3d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jun 13 |
+| **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/684ce84c42e6930eed58323c?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Jun 13 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/684ce4c47cce977ea2db4fbd?utm_campaign=1051&utm_source=git)** | Rockville, MD | On Site | Jun 13 |
+| **[Sanofi](https://www.sanofi.com)** | **[Global Patient Activation Co-op Intern - Summer-Fall 2025](https://jobright.ai/jobs/info/684ce4c47cce977ea2db503d?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Jun 13 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST Sales Intern - Security Systems](https://jobright.ai/jobs/info/684ce3ae5832769717b9e7e3?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Jun 13 |
+| **[Pearl Lemon Group](https://pearllemongroup.com/)** | **[Account Manager Intern (Remote)](https://jobright.ai/jobs/info/684cde200abcd95f34869472?utm_campaign=1051&utm_source=git)** | San Marino, CA | Remote | Jun 13 |
+| **[Cloudera](http://www.cloudera.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/684cdde70abcd95f34868fb6?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 13 |
+| **[Norfolk Southern](https://www.nscorp.com)** | **[Internship - Account Analyst - Revenue Fall 2025](https://jobright.ai/jobs/info/684cd521b7fb7d31f5f12335?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 13 |
+| **[Pearl Lemon Group](https://pearllemongroup.com/)** | **[Account Manager Intern (Remote)](https://jobright.ai/jobs/info/684cce439e049384c9cf5d41?utm_campaign=1051&utm_source=git)** | Guernsey, WY | Remote | Jun 13 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/684cb5cfba4e40bebf9cb645?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Jun 13 |
 | **[American Academy in Rome](https://www.aarome.org)** | **[Summer 2025 Development Intern](https://jobright.ai/jobs/info/684c951cba4db2b772023ea7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[moomoo ](https://www.moomoo.com)** | **[Event Sales Intern](https://jobright.ai/jobs/info/684c8fb9319b074096e4dc2b?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jun 13 |
@@ -67,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Global Go-to-Market Projects Supply Chain Management](https://jobright.ai/jobs/info/684c6878b0ad53a79b6a2f23?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Hybrid | Jun 13 |
 | **[moomoo ](https://www.moomoo.com)** | **[Summer 2025 Event Sales Intern - Unpaid](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b1013?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jun 13 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b118e?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jun 13 |
-| **[Institute for Justice](http://ij.org/)** | **[Development Intern](https://jobright.ai/jobs/info/684c550d353e98e2222c560c?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Jun 13 |
 | **[Compass](http://www.compass.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/684c54083d2d5b1b75f474cc?utm_campaign=1051&utm_source=git)** | Danville, CA | Hybrid | Jun 13 |
 | **[GDS Group](https://gdsgroup.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/684c416bb0c5971b548aca46?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/67f756916be946622b3a65ea?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Jun 13 |
@@ -75,9 +85,10 @@ For a complete list, click the following sortable link below:
 | **[GDS Group](https://gdsgroup.com/)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/684c3b1d59e311bd0701a9e3?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 13 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Sales Operations & Technology Co-op](https://jobright.ai/jobs/info/684c36874fb6794d4c3dc796?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jun 13 |
 | **[Aircall](https://aircall.io/)** | **[Sales Intern - San Francisco](https://jobright.ai/jobs/info/684c361bbd94b4e18ddd4afb?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jun 13 |
+| **[PLS Logistics Services](http://www.plslogistics.com)** | **[Sales Intern](https://jobright.ai/jobs/info/67be30fca3b8c007dfd0a51c?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jun 13 |
 | **[NICE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/67ee276e4f69707233b63037?utm_campaign=1051&utm_source=git)** | Sandy, UT | Hybrid | Jun 13 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets: Sales - Miami](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577f5?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 13 |
-| ↳ | **[2026 - Summer Analyst Internship - Global Markets - Sales - Miami, FL](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957802?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 13 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets - Sales - Miami, FL](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957802?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 13 |
+| ↳ | **[2026 - Summer Analyst Internship - Global Markets: Sales - Miami](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577f5?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jun 13 |
 | ↳ | **[2026 - Summer Analyst Internship - Global Markets - Sales & Trading](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a95789a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[Aircall](https://aircall.io/)** | **[Sales Intern - San Francisco](https://jobright.ai/jobs/info/684c05c8e87f1b86b1a0174c?utm_campaign=1051&utm_source=git)** | San Francisco Office | On Site | Jun 13 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[National Marine Account Manager](https://jobright.ai/jobs/info/67b79ba41e1123db5ed79d5d?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jun 13 |
@@ -87,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Premium Merchant Funding](https://pmfus.com/)** | **[Full-Time Sales Development Intern](https://jobright.ai/jobs/info/683df3ea03306e9ff5198e95?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/684b73e1e510278dc5cdaf38?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jun 12 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025-Store Management/Leadership Essentials Intern- Louisville Division](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb0ca?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jun 12 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (PHX)](https://jobright.ai/jobs/info/65075712eaf48ebc56d7374c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jun 12 |
 | **[Sauce Labs](http://saucelabs.com)** | **[Internship - Revenue Operations](https://jobright.ai/jobs/info/684b6ed3e001ff07b10c9e0f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jun 12 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/67d95f6e5de715b760754c30?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 12 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025-Store Management/Leadership Essentials Intern- Louisville Division](https://jobright.ai/jobs/info/684b5a4ab173077c1053adce?utm_campaign=1051&utm_source=git)** | 5929 Timber Ridge Dr, Prospect, KY, 40059, US | On Site | Jun 12 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Philo Ventures](https://www.philo.ventures)** | **[Sales Development Intern](https://jobright.ai/jobs/info/6849a150d11738177018f1d2?utm_campaign=1051&utm_source=git)** | Lehi, UT | Hybrid | Jun 11 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681eec59e7e3b39aa67062fe?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Jun 11 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811f66986f5222bcd255576?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jun 11 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811fe07fab7a77e3bb7ef25?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Jun 11 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811f66986f5222bcd25558f?utm_campaign=1051&utm_source=git)** | Carbondale, IL | On Site | Jun 11 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682d7ddb9f90d71cef058800?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Jun 11 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682c1904a9dbf8b339542390?utm_campaign=1051&utm_source=git)** | Palmdale, CA | On Site | Jun 11 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Global Markets Sales & Trading Rotational Summer Analyst Program - 2026](https://jobright.ai/jobs/info/682c7b539892556fc57e42b6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 11 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682c1ef3d3eb7ebab5eb73e8?utm_campaign=1051&utm_source=git)** | Rancho Cucamonga, CA | On Site | Jun 11 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682c1ef3d3eb7ebab5eb7411?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Jun 11 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship -Mattoon, IL - Fall 2025](https://jobright.ai/jobs/info/682b684c0b5f93542fb1708c?utm_campaign=1051&utm_source=git)** | Mattoon, IL | On Site | Jun 10 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Agency Owner-Build a LEGACY!](https://jobright.ai/jobs/info/6848fd257a7ff942520e957f?utm_campaign=1051&utm_source=git)** | Elk Grove Village, IL | On Site | Jun 10 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682c1ef3d3eb7ebab5eb7404?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Jun 10 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682bbeae600456e7f9e25e42?utm_campaign=1051&utm_source=git)** | Jackson, MI | On Site | Jun 10 |
-| **[HP](http://www.hp.com)** | **[Year-round Inside Sales Intern](https://jobright.ai/jobs/info/6848d904d13c540fcf517b6a?utm_campaign=1051&utm_source=git)** | Rio Rancho, NM | Hybrid | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
