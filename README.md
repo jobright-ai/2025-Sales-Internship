@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Industry & Partner Engagement Intern- Fall 2025](https://jobright.ai/jobs/info/684ed81544f8ae30125d5793?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jun 15 |
 | **[ClarkDietrich](https://www.clarkdietrich.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/684eb9a2eee3fda2038fca2e?utm_campaign=1051&utm_source=git)** | Warren, OH | On Site | Jun 15 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Operations Intern - OVIP](https://jobright.ai/jobs/info/6817169a2f3ec667feae830c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/684e1dc9b620ea1c7c602b93?utm_campaign=1051&utm_source=git)** | Hoover, AL | On Site | Jun 14 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/684db6d66ca9d33a0829ccb5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jun 14 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/684db6d66ca9d33a0829cc99?utm_campaign=1051&utm_source=git)** | Richmond Heights, OH | On Site | Jun 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[Content Coordinator – Sales Enablement Intern](https://jobright.ai/jobs/info/684a1477c64d4c2806ab670b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 11 |
 | **[Tower Semiconductor](https://towersemi.com)** | **[Business Analyst & Sales Support Intern](https://jobright.ai/jobs/info/684a1211fec2c7c385ac4d02?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Jun 11 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Intern (EST)](https://jobright.ai/jobs/info/684a0464ac05775a2ebb170b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 11 |
-| **[NPR](http://www.npr.org)** | **[NPM Sales Internship - Fall/Winter 2025](https://jobright.ai/jobs/info/6849ff55d23ab44bf328208f?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jun 11 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Fall 2025)](https://jobright.ai/jobs/info/682648301ff0402117fb6b9b?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
