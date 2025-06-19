@@ -69,11 +69,11 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Fall 2025 - Honolulu)](https://jobright.ai/jobs/info/6851cf38fe2edaf8853c0af3?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Jun 17 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6851e7cef2d8f0e4b4172c6d?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jun 17 |
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[HS Intern- San Marcos HSHigh School Intern](https://jobright.ai/jobs/info/6851c6f4201c6124a77167f8?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Jun 17 |
-| **[Digimarc](http://www.digimarc.com)** | **[Sales Ops Intern](https://jobright.ai/jobs/info/6851c221e49ef4e322c34546?utm_campaign=1051&utm_source=git)** | Oregon, United States | Remote | Jun 17 |
+| **[Digimarc](http://www.digimarc.com)** | **[Sales Ops Intern](https://jobright.ai/jobs/info/6851c221e49ef4e322c34606?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 17 |
+| ↳ | **[Sales Ops Intern](https://jobright.ai/jobs/info/6851c221e49ef4e322c34546?utm_campaign=1051&utm_source=git)** | Oregon, United States | Remote | Jun 17 |
 | **[Kharon](https://www.kharon.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/6851c09c4b2bf544396a4248?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 17 |
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[HS Intern- San Marcos HS](https://jobright.ai/jobs/info/6851ba6de41e06d696399184?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Jun 17 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Capital Markets](https://jobright.ai/jobs/info/6851b85d9927ee476afa26bd?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Jun 17 |
-| **[Digimarc](http://www.digimarc.com)** | **[Sales Ops Intern](https://jobright.ai/jobs/info/6851b76d94f36b92b1f9f6a3?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c0854?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
 | **[Summit (formerly Deft)](http://www.servercentral.com)** | **[Internship: Sales Operations](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c08de?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jun 17 |
 | **[Target](https://www.target.com)** | **[Current Interns Only-ETL G391 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/6851b1ce2baca80850dce149?utm_campaign=1051&utm_source=git)** | Mansfield, TX | Hybrid | Jun 17 |
@@ -107,14 +107,13 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Current Interns Only – ETL G196 Summer 2025](https://jobright.ai/jobs/info/6850aef7a7c5e145f49bc1ea?utm_campaign=1051&utm_source=git)** | Madison, WI | Hybrid | Jun 16 |
 | ↳ | **[Current Interns Only – ETL G199 Summer 2025](https://jobright.ai/jobs/info/6850aef7a7c5e145f49bc1d9?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Jun 16 |
 | ↳ | **[Current Interns Only – ETL G192 Summer 2025](https://jobright.ai/jobs/info/6850aef7a7c5e145f49bc1ee?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jun 16 |
+| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6850a99a059bb5aa433a229d?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Jun 16 |
 | **[Summit (formerly Deft)](http://www.servercentral.com)** | **[Internship: Sales Operations](https://jobright.ai/jobs/info/685095e389f9b08ec98f688f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Jun 16 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6850890007b5879386962eb4?utm_campaign=1051&utm_source=git)** | Beachwood, OH | Remote | Jun 16 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6850890007b5879386962eb3?utm_campaign=1051&utm_source=git)** | Beachwood, OH | Remote | Jun 16 |
 | **[Eulerity](https://www.eulerity.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/685088e907b58793869628a7?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jun 16 |
 | ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/685088e907b5879386962719?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Sabio](http://www.sabio.inc)** | **[Sales Strategy Intern](https://jobright.ai/jobs/info/6850853fb1cc7279264b0c96?utm_campaign=1051&utm_source=git)** | LA Metro Area | Hybrid | Jun 16 |
 | **[amika](https://loveamika.com/)** | **[International Sales Intern](https://jobright.ai/jobs/info/68507f922e776aeee971645d?utm_campaign=1051&utm_source=git)** | Hybrid (New York, US) | On Site | Jun 16 |
-| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/68507f922e776aeee97163c3?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Jun 16 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Industry & Partner Engagement Intern- Fall 2025](https://jobright.ai/jobs/info/68507b3fd74f8eead6737cdf?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jun 16 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative](https://jobright.ai/jobs/info/6850786e2bc4a391580f5096?utm_campaign=1051&utm_source=git)** | West Chester, OH | On Site | Jun 16 |
 | **[Graybar](http://www.graybar.com)** | **[Sales Trainee - Data/Communications](https://jobright.ai/jobs/info/6850786e2bc4a391580f526b?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jun 16 |
 | ↳ | **[Sales Trainee - Data/Communications](https://jobright.ai/jobs/info/6850786e2bc4a391580f570e?utm_campaign=1051&utm_source=git)** | Charleston, WV | On Site | Jun 16 |
@@ -129,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025-Store Management/Leadership Essentials Intern- Dallas Division](https://jobright.ai/jobs/info/68504fa558117b81e50f7ae4?utm_campaign=1051&utm_source=git)** | 751 Freeport Pkwy, Coppell, TX, 75019, US | On Site | Jun 16 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/685048d81896429f7f2dc679?utm_campaign=1051&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Jun 16 |
 | **[Impact Media](http://impact.site)** | **[Client Partnerships Intern - Summer 2025](https://jobright.ai/jobs/info/68503c7ffb25c9c44c47a7ac?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jun 16 |
+| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Industry & Partner Engagement Intern- Fall 2025](https://jobright.ai/jobs/info/6850324adff0ce71d07bf4a2?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jun 16 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6851140830040067b801f4f2?utm_campaign=1051&utm_source=git)** | Harvey, LA | On Site | Jun 16 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6851140830040067b801f4f8?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Jun 16 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6851140830040067b801f4f6?utm_campaign=1051&utm_source=git)** | Sandusky, OH | On Site | Jun 16 |
