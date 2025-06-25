@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Future Leader Intern](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f1b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jun 24 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/685b5a6c5c940c71bad1d8c8?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jun 24 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Premium Sales & Services Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/685b43debc23eac2e2129dee?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 24 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/685b61860467819e1a8dac39?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jun 24 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/685b396f107fa675ffe7504f?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jun 24 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc4d9?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jun 24 |
 | **[Bioventus](https://www.bioventus.com)** | **[Intern - Commercial Operations](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc2dc?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 24 |
@@ -69,30 +72,31 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Current Interns Only-ETL G197 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685ae8eed911132f38115483?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jun 24 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/685ae54f8b873a6578961d23?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jun 24 |
 | **[Nestlé](https://www.nestle.com)** | **[Diversity Leadership Symposium: 2026 Nestlé USA Sales Development Program](https://jobright.ai/jobs/info/6840853e460ad13ea2931889?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Jun 24 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL G189 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685b592fc1af7ed8ea227bc8?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 24 |
 | **[Voltus](https://www.voltus.co)** | **[Sales Analytics, Predictive Modeling Internship](https://jobright.ai/jobs/info/685ad839cb55cd4d02e017f8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 24 |
 | **[LMCU](https://www.lmcu.org/)** | **[Retail Intern - Central FL](https://jobright.ai/jobs/info/685ac78df16523a5c38e7d5c?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jun 24 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[PWM Intern**](https://jobright.ai/jobs/info/685ac78df16523a5c38e7dd6?utm_campaign=1051&utm_source=git)** | Denver, Colorado, United States of America | On Site | Jun 24 |
 | **[One Team US](https://oneteam.us/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/685ac7491451c57921b2e3aa?utm_campaign=1051&utm_source=git)** | Troy, MI | Hybrid | Jun 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/685ac7491451c57921b2e436?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Lawrenceville](https://jobright.ai/jobs/info/685ac7491451c57921b2e46f?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Internship - Peoria, IL - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e450?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Buckhead Piedmont](https://jobright.ai/jobs/info/685ac7491451c57921b2e493?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Intern-Fall- McDonough](https://jobright.ai/jobs/info/685ac7491451c57921b2e486?utm_campaign=1051&utm_source=git)** | McDonough, GA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Internship -Decatur, IL - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e430?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Gainesville](https://jobright.ai/jobs/info/685ac7491451c57921b2e442?utm_campaign=1051&utm_source=git)** | Gainesville, GA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Dallas/Hiram](https://jobright.ai/jobs/info/685ac7491451c57921b2e464?utm_campaign=1051&utm_source=git)** | Hiram, GA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Decatur](https://jobright.ai/jobs/info/685ac7491451c57921b2e4a2?utm_campaign=1051&utm_source=git)** | Decatur, GA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Union City](https://jobright.ai/jobs/info/685ac7491451c57921b2e47a?utm_campaign=1051&utm_source=git)** | Union City, GA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Internship - Dubuque, IA - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e461?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Internship - Ames, IA - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e445?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Snellville](https://jobright.ai/jobs/info/685ac7491451c57921b2e456?utm_campaign=1051&utm_source=git)** | Snellville, GA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Internship - Davenport, IA - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e44a?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Internship - Iowa City, IA - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e497?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Jun 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Iowa City, IA - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e497?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Jun 24 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/685ac7491451c57921b2e44d?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Morrow](https://jobright.ai/jobs/info/685ac7491451c57921b2e429?utm_campaign=1051&utm_source=git)** | Stockbridge, GA | On Site | Jun 24 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Athens](https://jobright.ai/jobs/info/685ac7491451c57921b2e446?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Jun 24 |
 | ↳ | **[Sales Management Trainee Internship - Lincoln, NE - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e41b?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jun 24 |
 | ↳ | **[Sales Management Trainee Internship - Champaign, IL - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e3ff?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Internship - Davenport, IA - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e44a?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern-Fall- Snellville](https://jobright.ai/jobs/info/685ac7491451c57921b2e456?utm_campaign=1051&utm_source=git)** | Snellville, GA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Internship - Dubuque, IA - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e461?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern-Fall- Union City](https://jobright.ai/jobs/info/685ac7491451c57921b2e47a?utm_campaign=1051&utm_source=git)** | Union City, GA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern-Fall- Decatur](https://jobright.ai/jobs/info/685ac7491451c57921b2e4a2?utm_campaign=1051&utm_source=git)** | Decatur, GA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Internship - Ames, IA - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e445?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern-Fall- Dallas/Hiram](https://jobright.ai/jobs/info/685ac7491451c57921b2e464?utm_campaign=1051&utm_source=git)** | Hiram, GA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern-Fall- Buckhead Piedmont](https://jobright.ai/jobs/info/685ac7491451c57921b2e493?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Internship - Peoria, IL - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e450?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern-Fall- Morrow](https://jobright.ai/jobs/info/685ac7491451c57921b2e429?utm_campaign=1051&utm_source=git)** | Stockbridge, GA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern-Fall- Athens](https://jobright.ai/jobs/info/685ac7491451c57921b2e446?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern-Fall- Lawrenceville](https://jobright.ai/jobs/info/685ac7491451c57921b2e46f?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern-Fall- Gainesville](https://jobright.ai/jobs/info/685ac7491451c57921b2e442?utm_campaign=1051&utm_source=git)** | Gainesville, GA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Internship -Decatur, IL - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e430?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern-Fall- McDonough](https://jobright.ai/jobs/info/685ac7491451c57921b2e486?utm_campaign=1051&utm_source=git)** | McDonough, GA | On Site | Jun 24 |
+| ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/685ac7491451c57921b2e436?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jun 24 |
 | ↳ | **[Sales Management Trainee Intern-Fall- Lithonia](https://jobright.ai/jobs/info/685ac39ea9e0d152e7eecd6f?utm_campaign=1051&utm_source=git)** | Lithonia, GA | On Site | Jun 24 |
 | ↳ | **[Sales Management Trainee Internship -Rockford, IL - Fall 2025](https://jobright.ai/jobs/info/685ac39ea9e0d152e7eecd01?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Jun 24 |
 | ↳ | **[Sales Management Trainee Intern-Fall- College Park](https://jobright.ai/jobs/info/685ac39ea9e0d152e7eeccf0?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 24 |
@@ -134,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Westport Properties, Inc. ](https://www.westportproperties.net/)** | **[Intern (Business Development)](https://jobright.ai/jobs/info/6859cd6a5ecdd9bc0ea59e08?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Jun 22 |
 | **[Great River Learning](http://greatriverlearning.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6858c14eb0556ba5f8d328d2?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jun 22 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Development Post Graduate Intern](https://jobright.ai/jobs/info/6858ccece51064e555cd1db2?utm_campaign=1051&utm_source=git)** | Manhattan, KS | On Site | Jun 22 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67ad33f1601d6d13bc395e26?utm_campaign=1051&utm_source=git)** | Gladstone, MO | On Site | Jun 22 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (TPA)](https://jobright.ai/jobs/info/66796318f6b36b4aa01a326c?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jun 22 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[2025 "Career Arc" Returnship Program - Global Banking Technology & Operations (GBTO)](https://jobright.ai/jobs/info/6712c7ceea33a6e08d442f40?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jun 22 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6857d6f70e7f4648f3e315af?utm_campaign=1051&utm_source=git)** | Milford, IA | On Site | Jun 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloudified Services Sales [Newtown Square]](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac406?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 20 |
 | **[Baird](http://www.rwbaird.com)** | **[Fall 2025 Aspire to Baird Program](https://jobright.ai/jobs/info/6855d4478e85ee6fbc08f703?utm_campaign=1051&utm_source=git)** | IL-Chicago | On Site | Jun 20 |
 | **[Digimarc](http://www.digimarc.com)** | **[Sales Ops Intern](https://jobright.ai/jobs/info/6855c90d191893f1d03f8e04?utm_campaign=1051&utm_source=git)** | Remote, WA | Remote | Jun 20 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN-DAYTON](https://jobright.ai/jobs/info/6855b26940702334a45a0eb4?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jun 20 |
-| **[Magna International](http://www.magna.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6855b1dd4f2501d4fe72a9b6?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Jun 20 |
-| **[ByteDance](http://bytedance.com)** | **[Content Partnership Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d28?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
