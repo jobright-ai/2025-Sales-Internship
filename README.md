@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tencent](https://www.tencent.com/en-us)** | **[Procurement Intern](https://jobright.ai/jobs/info/685e13f358de3cb82c1ea92b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern](https://jobright.ai/jobs/info/685dfae17402bda88c3ed14f?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Strategic Partners, Institutional Client Solutions Summer Analyst](https://jobright.ai/jobs/info/685dfae17402bda88c3ed107?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | **[Truist](https://www.truist.com)** | **[Wealth Brokerage Associate - Temporary](https://jobright.ai/jobs/info/685deb8aa7ec013dc518d385?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jun 26 |
@@ -90,26 +91,29 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (ELS)](https://jobright.ai/jobs/info/6507371c3788636ab289011e?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Jun 26 |
 | **[Legends](http://legends.net)** | **[Merchandise Internship -2025 CINCINNATI OPEN](https://jobright.ai/jobs/info/67c8f3f4fd0b58bde797f034?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Jun 26 |
 | **[Dayforce](https://www.dayforce.com)** | **[Sales Intern 4 months - Fall 2025](https://jobright.ai/jobs/info/685d1ab4bca766ed365f0060?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Jun 26 |
+| **[NICE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/67ee276e4f69707233b63037?utm_campaign=1051&utm_source=git)** | Sandy, UT | Hybrid | Jun 26 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/685d015bb06cf466e051ee73?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Jun 25 |
+| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/6806d884cf27822fad9f0e75?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Jun 25 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Intern, Nationwide Portfolio Strategy & Prospect Development](https://jobright.ai/jobs/info/685cba59a78bcacaf84d3a11?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 25 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830ec3?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Jun 25 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec3190c?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Jun 25 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Intern](https://jobright.ai/jobs/info/685cad0abee1ebee8277b26d?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jun 25 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Showroom - Intern](https://jobright.ai/jobs/info/685cad0abee1ebee8277aec7?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jun 25 |
 | **[Legends](http://legends.net)** | **[Merchandise Internship -2025 Ryder Cup](https://jobright.ai/jobs/info/6791953f8ec31303ec4987d3?utm_campaign=1051&utm_source=git)** | East Meadow, NY | On Site | Jun 25 |
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Retail Intern](https://jobright.ai/jobs/info/685c9f33d242fd6874c48702?utm_campaign=1051&utm_source=git)** | Greater Boston | Hybrid | Jun 25 |
 | **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jun 25 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Part - Time - Retail Sales Internship - Charlotte](https://jobright.ai/jobs/info/685c95ea48d2b8f1f607c579?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 25 |
-| **[Schneider Electric](https://www.se.com)** | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995e9?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jun 25 |
-| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995eb?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Jun 25 |
-| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e99600?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Jun 25 |
-| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995fd?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jun 25 |
+| **[Schneider Electric](https://www.se.com)** | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e99600?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Jun 25 |
+| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995e6?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jun 25 |
+| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995e4?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jun 25 |
+| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995ec?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Jun 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e6e?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jun 25 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Showroom - Intern (Dallas, Texas, United States, 75234)](https://jobright.ai/jobs/info/685c8cafb0b4caa3dd121fc6?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jun 25 |
-| **[Schneider Electric](https://www.se.com)** | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c85864956a6155b91fc4a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Jun 25 |
-| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c85864956a6155b91fc6f?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jun 25 |
+| **[Schneider Electric](https://www.se.com)** | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c85864956a6155b91fc6f?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jun 25 |
+| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c85864956a6155b91fc4a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Jun 25 |
 | ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685ca45da29f87dcb3e016a1?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Jun 25 |
 | ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685ca45da29f87dcb3e016a3?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jun 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Asia/Pacific Acquisition- Paid Intern](https://jobright.ai/jobs/info/685c799e6c2e7567d7560431?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 25 |
-| **[Westport Properties, Inc. ](https://www.westportproperties.net/)** | **[Intern (Business Development)](https://jobright.ai/jobs/info/685c6d2eb2cf7be790fc053c?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Remote | Jun 25 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Part - Time - Retail Sales Internship - Charlotte](https://jobright.ai/jobs/info/685c614bea646415661438e1?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 25 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Consumer Lending Internship Program - Early Careers](https://jobright.ai/jobs/info/685213ffb601b8126382fdde?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 25 |
 | ↳ | **[2026 Consumer, Small & Business Banking Internship - Early Careers](https://jobright.ai/jobs/info/685b6cfc04faef4317498488?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLC Management Corp.](http://dlcmgmt.com)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/685afaf6c056354424642f28?utm_campaign=1051&utm_source=git)** | Elmsford, NY | On Site | Jun 24 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Credit Analyst - Fall Internship](https://jobright.ai/jobs/info/685af885435b7cd479c9233f?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | Remote | Jun 24 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Women's Buying Internship](https://jobright.ai/jobs/info/685af752915684836d5fe76d?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jun 24 |
-| **[DLC Management Corp.](http://dlcmgmt.com)** | **[Acquisitions Intern](https://jobright.ai/jobs/info/685bcbcf022d59163432ad3d?utm_campaign=1051&utm_source=git)** | Elmsford, NY | On Site | Jun 24 |
-| **[Voltus](https://www.voltus.co)** | **[Sales Analytics, Predictive Modeling Internship](https://jobright.ai/jobs/info/685d89a705604ba2e0bbf671?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 24 |
-| **[LMCU](https://www.lmcu.org/)** | **[Retail Intern - Central FL](https://jobright.ai/jobs/info/685aedbb1ebec50136d3c597?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jun 24 |
-| **[Target](https://www.target.com)** | **[Current Interns Only-ETL G197 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685ae8eed911132f38115483?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
