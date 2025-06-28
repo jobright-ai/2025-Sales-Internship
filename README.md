@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern**](https://jobright.ai/jobs/info/685f56a5f014ba49e810b3dc?utm_campaign=1051&utm_source=git)** | Jericho, NY | On Site | Jun 27 |
+| **[Legends](http://legends.net)** | **[Intern, Global Sales Legends Buffalo Bills New Stadium (SUMMER 2025)](https://jobright.ai/jobs/info/685f4cae752d584a82bdaa1e?utm_campaign=1051&utm_source=git)** | Orchard Park, NY | On Site | Jun 27 |
 | **[Friendly Franchisees Corporation/Silver Star Real Estate LLC](https://www.ffcorp.org)** | **[Entrepreneurship Internship – Carl’s Jr. (Full-Time/ Paid)](https://jobright.ai/jobs/info/685f37415762ea8e0626d4a0?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 27 |
 | **[Target](https://www.target.com)** | **[Current Interns Only - Inventory Analyst -Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f3115eeaad06967615ac0?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jun 27 |
 | **[The Bloc](https://www.thebloc.com)** | **[Bloc Apprentice (Business Development)](https://jobright.ai/jobs/info/685f0ca2acb71299d801645f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jun 27 |
 | **[Weave](http://www.getweave.com)** | **[Channel Sales Development Representative - Contractor](https://jobright.ai/jobs/info/685f07d4362a6cfcb760fbe6?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | Jun 27 |
-| **[Target](https://www.target.com)** | **[Current Interns Only-ETL G194 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dc01?utm_campaign=1051&utm_source=git)** | 12200 Blue Valley Pkwy, Overland Park,KS 66213-2639 | Hybrid | Jun 27 |
-| ↳ | **[Current Interns Only-ETL G195 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dbe2?utm_campaign=1051&utm_source=git)** | 8005 Calumet Ave, Munster,IN 46321-1217 | Hybrid | Jun 27 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL G195 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dbe2?utm_campaign=1051&utm_source=git)** | 8005 Calumet Ave, Munster,IN 46321-1217 | Hybrid | Jun 27 |
+| ↳ | **[Current Interns Only-ETL G194 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dc01?utm_campaign=1051&utm_source=git)** | 12200 Blue Valley Pkwy, Overland Park,KS 66213-2639 | Hybrid | Jun 27 |
 | ↳ | **[Current Interns Only-ETL G195 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f02f27d3948fd9b94de33?utm_campaign=1051&utm_source=git)** | 28800 Dequindre Rd, Warren, MI 48092-2466 | Hybrid | Jun 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[E-commerce and Online Marketing Intern (UNDP Shop)](https://jobright.ai/jobs/info/685efe774eb092450f74d35f?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 27 |
 | **[Equitable](https://equitable.com/)** | **[Future Advisor Program –2025 Summer Internship](https://jobright.ai/jobs/info/685eef5b9781f1e4c530a34b?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jun 27 |
@@ -85,11 +87,13 @@ For a complete list, click the following sortable link below:
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2025 Assistant Buyer Intern - Los Angeles](https://jobright.ai/jobs/info/67ebf3e4506332380e6bf7fd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68428bb36794f35e8b1042a2?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jun 27 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410ac8?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Jun 27 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dd5?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jun 27 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d6463?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jun 27 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dd5?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jun 27 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dec?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Jun 27 |
-| **[TeamViewer](https://www.teamviewer.com)** | **[Strategic Alliances Internship (Remote, Tampa Bay Area)](https://jobright.ai/jobs/info/6841fd2b8f181a1956599aad?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | Jun 27 |
-| **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern - Webster, Texas](https://jobright.ai/jobs/info/685e759128e7759c4bdef963?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Jun 27 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/685e759128e7759c4bdef940?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jun 27 |
+| **[TeamViewer](https://www.teamviewer.com)** | **[Sales Enablement Internship (Remote - Austin, TX or Tampa Bay Area, FL)](https://jobright.ai/jobs/info/6841e3600c73cb02f6e3051a?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | Jun 27 |
+| ↳ | **[Strategic Alliances Internship (Remote, Tampa Bay Area)](https://jobright.ai/jobs/info/6841fd2b8f181a1956599aad?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | Jun 27 |
+| **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/685e759128e7759c4bdef940?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jun 27 |
+| ↳ | **[Sales Intern - Webster, Texas](https://jobright.ai/jobs/info/685e759128e7759c4bdef963?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Jun 27 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #457](https://jobright.ai/jobs/info/685e6e175e0bfb041accc4b7?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Jun 27 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Procurement Intern](https://jobright.ai/jobs/info/685e13f358de3cb82c1ea92b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern](https://jobright.ai/jobs/info/685dfae17402bda88c3ed14f?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
@@ -144,17 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Legends](http://legends.net)** | **[Merchandise Internship -2025 Ryder Cup](https://jobright.ai/jobs/info/6791953f8ec31303ec4987d3?utm_campaign=1051&utm_source=git)** | East Meadow, NY | On Site | Jun 25 |
 | **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jun 25 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Part - Time - Retail Sales Internship - Charlotte](https://jobright.ai/jobs/info/685c95ea48d2b8f1f607c579?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 25 |
-| **[Schneider Electric](https://www.se.com)** | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995eb?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Jun 25 |
+| **[Schneider Electric](https://www.se.com)** | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995fe?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Jun 25 |
 | ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995f1?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Jun 25 |
-| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995ee?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jun 25 |
-| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995e6?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jun 25 |
+| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995e4?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jun 25 |
+| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c92e0405e076a68e995f7?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jun 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e6e?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jun 25 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Showroom - Intern (Dallas, Texas, United States, 75234)](https://jobright.ai/jobs/info/685c8cafb0b4caa3dd121fc6?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jun 25 |
-| **[Schneider Electric](https://www.se.com)** | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c85864956a6155b91fd5c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Jun 25 |
+| **[Schneider Electric](https://www.se.com)** | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c85864956a6155b91fc4a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Jun 25 |
 | ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685c85864956a6155b91fc6f?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Jun 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e5c?utm_campaign=1051&utm_source=git)** | Temecula, CA | On Site | Jun 25 |
-| **[Schneider Electric](https://www.se.com)** | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685ca45da29f87dcb3e016a1?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Jun 25 |
-| ↳ | **[Skillbridge Industrial Channel Sales Development Program](https://jobright.ai/jobs/info/685ca45da29f87dcb3e016a3?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Jun 25 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Asia/Pacific Acquisition- Paid Intern](https://jobright.ai/jobs/info/685c799e6c2e7567d7560431?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 25 |
-| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Part - Time - Retail Sales Internship - Charlotte](https://jobright.ai/jobs/info/685c614bea646415661438e1?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
