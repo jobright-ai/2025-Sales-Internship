@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aircall](https://aircall.io/)** | **[Sales Intern - New York City - June 2025 (6 months)](https://jobright.ai/jobs/info/678844278d81da83dd29bb4d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2026 Golf Ball Fitting Internship / Titleist](https://jobright.ai/jobs/info/684e5adeab4b22d287a08179?utm_campaign=1051&utm_source=git)** | Fairhaven, MA | On Site | Jun 28 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6843273f14df9ac023c4c060?utm_campaign=1051&utm_source=git)** | Vestavia Hills, AL | On Site | Jun 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6825dd2d18133db4a789f56b?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Jun 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6825ebe8f1a7e9fa97dc5975?utm_campaign=1051&utm_source=git)** | Pittsburg, KS | On Site | Jun 28 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Agent Program](https://jobright.ai/jobs/info/67ed8e1cf2f92ab74b3ca088?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jun 28 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/67983759736158658d08f950?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 28 |
-| **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/685fcae03b284811a52897dd?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jun 28 |
-| ↳ | **[Sales Intern - Webster, Texas](https://jobright.ai/jobs/info/685fcae03b284811a52897fd?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Jun 28 |
+| **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern - Webster, Texas](https://jobright.ai/jobs/info/685fcae03b284811a52897fd?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Jun 28 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/685fcae03b284811a52897dd?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jun 28 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #286](https://jobright.ai/jobs/info/685fcae03b284811a5289815?utm_campaign=1051&utm_source=git)** | Waverly, IA | On Site | Jun 28 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68435420ae8045e96485b4eb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Ecosystem Artist Partnership Intern (Artists Engagement and Monetization) - 2025 project Intern (BS/MS)](https://jobright.ai/jobs/info/680999456b70dbf589873df1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5de7?utm_campaign=1051&utm_source=git)** | Victor, NY | On Site | Jun 26 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/6831536de259926b8e41640d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jun 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern - Fall](https://jobright.ai/jobs/info/685d696d177baca7d145d87b?utm_campaign=1051&utm_source=git)** | LA, Baton Rouge | On Site | Jun 26 |
-| **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/6841f61d9295de317941c624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
