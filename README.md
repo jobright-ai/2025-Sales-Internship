@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Strategic iQ](https://siqllc.com/)** | **[Sales Management Intern](https://jobright.ai/jobs/info/686205169448c588502e0a36?utm_campaign=1051&utm_source=git)** | Rochester, MI | Hybrid | Jun 29 |
 | **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Agricultural College Student Intern](https://jobright.ai/jobs/info/6861a81b6a02f67cc5ed9ec0?utm_campaign=1051&utm_source=git)** | Pueblo, CO | On Site | Jun 29 |
 | **[Open Plan Systems](http://www.openplan.com/)** | **[International Procurement Specialist](https://jobright.ai/jobs/info/6861a4b04303e8e80b3698d6?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Jun 29 |
 | **[Aircall](https://aircall.io/)** | **[Sales Intern - New York City - June 2025 (6 months)](https://jobright.ai/jobs/info/678844278d81da83dd29bb4d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jun 29 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6825ebe8f1a7e9fa97dc5975?utm_campaign=1051&utm_source=git)** | Pittsburg, KS | On Site | Jun 28 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Agent Program](https://jobright.ai/jobs/info/67ed8e1cf2f92ab74b3ca088?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jun 28 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/67983759736158658d08f950?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 28 |
-| **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern - Webster, Texas](https://jobright.ai/jobs/info/685fcae03b284811a52897fd?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Jun 28 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/685fcae03b284811a52897dd?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jun 28 |
+| **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/685fcae03b284811a52897dd?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jun 28 |
+| ↳ | **[Sales Intern - Webster, Texas](https://jobright.ai/jobs/info/685fcae03b284811a52897fd?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Jun 28 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #286](https://jobright.ai/jobs/info/685fcae03b284811a5289815?utm_campaign=1051&utm_source=git)** | Waverly, IA | On Site | Jun 28 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68435420ae8045e96485b4eb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Ecosystem Artist Partnership Intern (Artists Engagement and Monetization) - 2025 project Intern (BS/MS)](https://jobright.ai/jobs/info/680999456b70dbf589873df1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jun 28 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778aee?utm_campaign=1051&utm_source=git)** | Grand Island, NE | On Site | Jun 28 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/685f8ac187c7f34cc64a8766?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jun 27 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Manager Intern](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d645b?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | Hybrid | Jun 27 |
-| **[Target](https://www.target.com)** | **[Current Interns Only-ETL G194 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f861950d7e34ce63e19de?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Jun 27 |
-| ↳ | **[Current Interns Only-ETL G195 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f861950d7e34ce63e19e1?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Jun 27 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL G195 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f861950d7e34ce63e19e1?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Jun 27 |
+| ↳ | **[Current Interns Only-ETL G194 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f861950d7e34ce63e19de?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Jun 27 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/685fa661b8e8ba55febf5cee?utm_campaign=1051&utm_source=git)** | La Jolla, CA | On Site | Jun 27 |
 | **[Windermere Real Estate](https://www.windermere.com/)** | **[Licensed Real Estate Agent](https://jobright.ai/jobs/info/685f6fd5dda593694d52982e?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jun 27 |
 | **[Floor Coverings International](https://floorcoveringsinternational.com)** | **[Operations & Business Development Assistant (Intern-to-Hire)](https://jobright.ai/jobs/info/685f8198f240ac5406965ebf?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jun 27 |
@@ -102,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Sales Operations Intern (SBU)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d6461?utm_campaign=1051&utm_source=git)** | Glendale, AZ | Hybrid | Jun 27 |
 | **[The Bloc](https://www.thebloc.com)** | **[Bloc Apprentice (Business Development)](https://jobright.ai/jobs/info/685f0ca2acb71299d801645f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jun 27 |
 | **[Weave](http://www.getweave.com)** | **[Channel Sales Development Representative - Contractor](https://jobright.ai/jobs/info/685f07d4362a6cfcb760fbe6?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | Jun 27 |
-| **[Target](https://www.target.com)** | **[Current Interns Only-ETL G195 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f02f27d3948fd9b94de33?utm_campaign=1051&utm_source=git)** | 28800 Dequindre Rd, Warren, MI 48092-2466 | Hybrid | Jun 27 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL G194 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dc01?utm_campaign=1051&utm_source=git)** | 12200 Blue Valley Pkwy, Overland Park,KS 66213-2639 | Hybrid | Jun 27 |
+| ↳ | **[Current Interns Only-ETL G195 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f02f27d3948fd9b94de33?utm_campaign=1051&utm_source=git)** | 28800 Dequindre Rd, Warren, MI 48092-2466 | Hybrid | Jun 27 |
 | ↳ | **[Current Interns Only-ETL G195 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dbe2?utm_campaign=1051&utm_source=git)** | 8005 Calumet Ave, Munster,IN 46321-1217 | Hybrid | Jun 27 |
-| ↳ | **[Current Interns Only-ETL G194 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dc01?utm_campaign=1051&utm_source=git)** | 12200 Blue Valley Pkwy, Overland Park,KS 66213-2639 | Hybrid | Jun 27 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841d4ef84dc13dd0e3e5410?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Jun 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[E-commerce and Online Marketing Intern (UNDP Shop)](https://jobright.ai/jobs/info/685efe774eb092450f74d35f?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jun 27 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Partnerships Intern](https://jobright.ai/jobs/info/685eef5b9781f1e4c530a1bc?utm_campaign=1051&utm_source=git)** | United States | Remote | Jun 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Weave](http://www.getweave.com)** | **[Channel Sales Development Representative - Contractor](https://jobright.ai/jobs/info/685ee4de2fea5b705839a955?utm_campaign=1051&utm_source=git)** | Weave - Headquarters (Lehi, UT) | On Site | Jun 26 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68418dbc8331325e19731f5b?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jun 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a033c?utm_campaign=1051&utm_source=git)** | Maple Grove, MN | On Site | Jun 26 |
-| **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Sales Operation Intern](https://jobright.ai/jobs/info/685ddba21beed096c48652f9?utm_campaign=1051&utm_source=git)** | Parkersburg, WV | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
