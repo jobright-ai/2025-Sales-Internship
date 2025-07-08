@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Corporate Partnerships Intern - Fall 2025](https://jobright.ai/jobs/info/686d7197e46684f583ca8c46?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jul 08 |
+| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2025-26 Season Ticket Sales and Events Internship](https://jobright.ai/jobs/info/686d6aceb3aa55eb0494ac66?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 08 |
+| **[Berkadia](https://www.berkadia.com/)** | **[Berkadia Pathfinders Event (September 10th)](https://jobright.ai/jobs/info/686d6aceb3aa55eb0494aa66?utm_campaign=1051&utm_source=git)** | Ambler, Pennsylvania, United States | On Site | Jul 08 |
+| **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Indirect Buyer Intern](https://jobright.ai/jobs/info/686d48d46dddc22e2eb60d08?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 08 |
 | **[Semrush](https://www.semrush.com)** | **[Enterprise Solutions Engineer APAC (International Solutions Engineering Team)](https://jobright.ai/jobs/info/686d17c613af02b11d97101e?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jul 08 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Innovation Ventures and Technology (Spring 2025)](https://jobright.ai/jobs/info/686d0c0f7bacc7d5289134f7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 08 |
 | **[EVEREVE](http://www.evereve.com/)** | **[Store Intern [Part Time]-Deer Park Town Center-Deer Park, IL](https://jobright.ai/jobs/info/686d1d2971f94f31eb2c12d1?utm_campaign=1051&utm_source=git)** | Deer Park, OH | On Site | Jul 08 |
 | ↳ | **[Store Intern [Part Time]-2nd and PCH-Long Beach, CA](https://jobright.ai/jobs/info/686d11171d4e123a4f028e79?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jul 08 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #457](https://jobright.ai/jobs/info/686d00c2640193b714d87198?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Jul 08 |
@@ -74,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/686c76d835584b6542da4c3f?utm_campaign=1051&utm_source=git)** | Neptune City, NJ | On Site | Jul 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/686c765235584b6542d5a59f?utm_campaign=1051&utm_source=git)** | Jamison, PA | On Site | Jul 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/686c764e35584b6542d54233?utm_campaign=1051&utm_source=git)** | Shreveport, LA | On Site | Jul 07 |
-| **[Leidos](https://www.leidos.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/686c8efd35584b65425f18d1?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Jul 07 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Intern](https://jobright.ai/jobs/info/686c619035584b6542669526?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jul 07 |
+| ↳ | **[College Financial Representative Intern](https://jobright.ai/jobs/info/686c619035584b6542669526?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jul 07 |
+| **[Dreamwear](https://www.dreamwear.com/)** | **[Sales/Showroom Intern](https://jobright.ai/jobs/info/686d6618b494246d3922f7b4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 07 |
 | **[Sinica Education](https://www.sinicaeducation.com)** | **[Bilingual Business Development and Marketing Internship (Chinese/English)](https://jobright.ai/jobs/info/686c4fab35584b6542016ec2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 07 |
 | **[Woolpert](http://www.woolpert.com)** | **[Proposal Coordinator Intern](https://jobright.ai/jobs/info/686c2f5935584b6542347718?utm_campaign=1051&utm_source=git)** | Dayton, OH | Hybrid | Jul 07 |
 | **[Gannett | USA TODAY NETWORK](http://www.gannett.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/686c2a8d35584b654212c4f5?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Jul 07 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/686b6b9935584b6542209c1c?utm_campaign=1051&utm_source=git)** | Plymouth, MI | On Site | Jul 06 |
 | **[Cleveland Cavaliers](http://www.cavs.com)** | **[2025-26 Seasonal Assistant, REG Franchise Partnerships](https://jobright.ai/jobs/info/686b5a8035584b6542dbbaac?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jul 06 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/686b4fe15e4aa44f93673bde?utm_campaign=1051&utm_source=git)** | United States, Plymouth, MI | On Site | Jul 06 |
-| **[Young Life](https://sworlando.younglife.org)** | **[FS Intern](https://jobright.ai/jobs/info/686b040913bb325e0f75808b?utm_campaign=1051&utm_source=git)** | Fraser, CO | On Site | Jul 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Commercial/Customer Strategy (Summer 2026)](https://jobright.ai/jobs/info/68492f0cd128b601e13b3238?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 06 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Trader Trainee Intern (Ingredients)](https://jobright.ai/jobs/info/685c4b95dcd532b2511fb896?utm_campaign=1051&utm_source=git)** | Wilton, CT | On Site | Jul 06 |
 | **[Newbern Excel](https://www.newbernexcel.com/)** | **[Sales Management Intern](https://jobright.ai/jobs/info/686a99cd35584b65426a748c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 06 |
@@ -132,21 +134,21 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Current Interns Only – ETL AP G298 Summer 2025](https://jobright.ai/jobs/info/686772165d7d285c19532873?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Jul 03 |
 | ↳ | **[Current Interns Only – ETL G298 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54df?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Jul 03 |
 | ↳ | **[Current Interns Only – ETL AP G293 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54cc?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 03 |
-| ↳ | **[Current Interns Only – ETL G293 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54fa?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 03 |
 | ↳ | **[Current Interns Only – ETL AP G295 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54f6?utm_campaign=1051&utm_source=git)** | Modesto, CA | Hybrid | Jul 03 |
+| ↳ | **[Current Interns Only – ETL G293 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54fa?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 03 |
 | **[Faurecia](https://www.faurecia.com/en)** | **[Year-Round Purchasing Intern](https://jobright.ai/jobs/info/686a0b3e35584b654253d615?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Jul 03 |
 | **[Target](https://www.target.com)** | **[Current Interns Only – ETL G295 Summer 2025](https://jobright.ai/jobs/info/686763dd0758652ed7a954d2?utm_campaign=1051&utm_source=git)** | Modesto, CA | Hybrid | Jul 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811f2fa5885cfb4c4843c53?utm_campaign=1051&utm_source=git)** | Kalispell, MT | On Site | Jul 03 |
 | ↳ | **[Sales and Management Intern (Elmwood Shopping Center)](https://jobright.ai/jobs/info/6811f2fa5885cfb4c4843c4a?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jul 03 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Partnerships Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8d8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 03 |
-| **[EVgo](http://www.evgo.com)** | **[Intern, Business Development](https://jobright.ai/jobs/info/6867326dd8e0721f42af5306?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 03 |
+| **[EVgo](http://www.evgo.com)** | **[Intern, Business Development](https://jobright.ai/jobs/info/6867326dd8e0721f42af5307?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 03 |
+| ↳ | **[Intern, Business Development](https://jobright.ai/jobs/info/6867326dd8e0721f42af5306?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 03 |
 | ↳ | **[Intern, Business Development](https://jobright.ai/jobs/info/6867326dd8e0721f42af51e8?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Jul 03 |
-| ↳ | **[Intern, Business Development](https://jobright.ai/jobs/info/6867326dd8e0721f42af5307?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811fe07fab7a77e3bb7ef25?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Jul 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/68672a23a5c93ff33cb815c5?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6812476089d4694745f4b215?utm_campaign=1051&utm_source=git)** | Fort Gratiot, MI | On Site | Jul 03 |
-| **[EVgo](http://www.evgo.com)** | **[Intern, Business Development](https://jobright.ai/jobs/info/68672638cf747440f7c298f2?utm_campaign=1051&utm_source=git)** | El Segundo, California | On Site | Jul 03 |
-| ↳ | **[Intern, Business Development](https://jobright.ai/jobs/info/68672638cf747440f7c29add?utm_campaign=1051&utm_source=git)** | Los Angeles, California | On Site | Jul 03 |
+| **[EVgo](http://www.evgo.com)** | **[Intern, Business Development](https://jobright.ai/jobs/info/68672638cf747440f7c29add?utm_campaign=1051&utm_source=git)** | Los Angeles, California | On Site | Jul 03 |
+| ↳ | **[Intern, Business Development](https://jobright.ai/jobs/info/68672638cf747440f7c298f2?utm_campaign=1051&utm_source=git)** | El Segundo, California | On Site | Jul 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811f2fa5885cfb4c4843c52?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Jul 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811f66986f5222bcd25557e?utm_campaign=1051&utm_source=git)** | Liberal, KS | On Site | Jul 03 |
 | **[InComm Payments](https://www.incomm.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/68671fac20a7ad900a5f06ed?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Current Interns Only-ETL G290 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/68672cadd903f56ccb6f3140?utm_campaign=1051&utm_source=git)** | Dublin, CA | Hybrid | Jul 03 |
 | ↳ | **[Current Interns Only – ETL G298 Summer 2025](https://jobright.ai/jobs/info/686705d692eed38492d42521?utm_campaign=1051&utm_source=git)** | 9401 NE Cascades Pkwy, Portland,OR 97220-6824 | Hybrid | Jul 03 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (BHM)](https://jobright.ai/jobs/info/667955e939ca2f81c4370fc1?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Jul 03 |
-| **[Target](https://www.target.com)** | **[Current Interns Only – ETL G293 Summer 2025](https://jobright.ai/jobs/info/6866f841683f2a45bfe45435?utm_campaign=1051&utm_source=git)** | 1818 E Baseline Rd, Tempe,AZ 85283-1502 | Hybrid | Jul 03 |
-| ↳ | **[Current Interns Only – ETL G295 Summer 2025](https://jobright.ai/jobs/info/6866f841683f2a45bfe453cf?utm_campaign=1051&utm_source=git)** | 8101 Cosumnes River Blvd, Sacramento,CA 95823-5415 | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
