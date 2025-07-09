@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/686de5fc2f7337a591dd51da?utm_campaign=1051&utm_source=git)** | Bay City, MI | On Site | Jul 08 |
 | **[Woolpert](http://www.woolpert.com)** | **[Sales Procurement Internship](https://jobright.ai/jobs/info/686ddb71718936f2b3ad672b?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Jul 08 |
 | ↳ | **[Sales Procurement Internship](https://jobright.ai/jobs/info/686dd099dadb90395aab9d95?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jul 08 |
 | ↳ | **[Sales Procurement Internship](https://jobright.ai/jobs/info/686dd099dadb90395aab9d93?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Jul 08 |
@@ -68,14 +69,15 @@ For a complete list, click the following sortable link below:
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/686d91a202d6881bf8489c2a?utm_campaign=1051&utm_source=git)** | Richmond Heights, OH | On Site | Jul 08 |
 | ↳ | **[Store Detective Intern](https://jobright.ai/jobs/info/686d8d3b0d34e28c813b2673?utm_campaign=1051&utm_source=git)** | Kent, OH | On Site | Jul 08 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Global Markets Department - Global Markets Sales Intern](https://jobright.ai/jobs/info/686d8d3b0d34e28c813b23c5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 08 |
-| **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Distributor Management Intern](https://jobright.ai/jobs/info/686d8a586dc4f54b7dcb5311?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 08 |
 | **[Meijer](https://www.meijer.com/)** | **[Intern, Store Detective](https://jobright.ai/jobs/info/686d85c66185bcab12391138?utm_campaign=1051&utm_source=git)** | Sandusky, OH | On Site | Jul 08 |
+| **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Value Distribution Intern](https://jobright.ai/jobs/info/686d8a586dc4f54b7dcb5311?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 08 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/686d7cec7ca8d01b2625b112?utm_campaign=1051&utm_source=git)** | Prussia, IA | On Site | Jul 08 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Corporate Partnerships Intern - Fall 2025](https://jobright.ai/jobs/info/686d7197e46684f583ca8c46?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jul 08 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2025-26 Season Ticket Sales and Events Internship](https://jobright.ai/jobs/info/686d6aceb3aa55eb0494ac66?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 08 |
 | **[Berkadia](https://www.berkadia.com/)** | **[Berkadia Pathfinders Event (September 10th)](https://jobright.ai/jobs/info/686d6aceb3aa55eb0494aa66?utm_campaign=1051&utm_source=git)** | Ambler, Pennsylvania, United States | On Site | Jul 08 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Ticket Sales & Service Intern - Fall 2025](https://jobright.ai/jobs/info/686d82a035d173f099671cb7?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Jul 08 |
 | **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Indirect Buyer Intern](https://jobright.ai/jobs/info/686d48d46dddc22e2eb60d08?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 08 |
+| **[Graybar](http://www.graybar.com)** | **[Sales Trainee - Data/Communications](https://jobright.ai/jobs/info/6850786e2bc4a391580f570e?utm_campaign=1051&utm_source=git)** | Charleston, WV | On Site | Jul 08 |
 | **[TYLin](http://www.tylin.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/683bcd68fe49ba85fefeb5d0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 08 |
 | **[Semrush](https://www.semrush.com)** | **[Enterprise Solutions Engineer APAC (International Solutions Engineering Team)](https://jobright.ai/jobs/info/686d17c613af02b11d97101e?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jul 08 |
 | **[EVEREVE](http://www.evereve.com/)** | **[Store Intern [Part Time]-Deer Park Town Center-Deer Park, IL](https://jobright.ai/jobs/info/686d1d2971f94f31eb2c12d1?utm_campaign=1051&utm_source=git)** | Deer Park, OH | On Site | Jul 08 |
@@ -121,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Troon](http://www.troon.com/)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/68240a12baafd6a8ba106586?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 06 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality](https://jobright.ai/jobs/info/67dc5c6ac38ba6f88582f3e0?utm_campaign=1051&utm_source=git)** | Oceanport, NJ | On Site | Jul 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b118e?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jul 06 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/684cb5cfba4e40bebf9cb645?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Jul 06 |
 | **[K1 Investment Management](http://www.k1im.com)** | **[Intern, Business Development (Summer 2026)](https://jobright.ai/jobs/info/686a137535584b65427d7bc2?utm_campaign=1051&utm_source=git)** | Manhattan Beach, CA | On Site | Jul 05 |
 | **[University of North Carolina Wilmington](https://uncw.edu/)** | **[Seahawk Club Intern (Temporary Position)](https://jobright.ai/jobs/info/6869ed3735584b6542ca410a?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Jul 05 |
 | **[NICE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/67ee276e4f69707233b63037?utm_campaign=1051&utm_source=git)** | Sandy, UT | Hybrid | Jul 05 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Intern, Pre-Owned Business](https://jobright.ai/jobs/info/684b19a38414a20b21b6db28?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jul 04 |
 | **[Legends](http://legends.net)** | **[Retail Operations Internship, IU Bloomington](https://jobright.ai/jobs/info/682e71d0a356a58cf6607187?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Jul 04 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6822b685c8f6dd39ac96c6bd?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jul 04 |
-| **[Target](https://www.target.com)** | **[Current Interns Only – ETL G293 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54fa?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 03 |
-| ↳ | **[Current Interns Only – ETL AP G295 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54f6?utm_campaign=1051&utm_source=git)** | Modesto, CA | Hybrid | Jul 03 |
+| **[Target](https://www.target.com)** | **[Current Interns Only – ETL G298 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54df?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Jul 03 |
 | ↳ | **[Current Interns Only – ETL AP G293 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54cc?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 03 |
-| ↳ | **[Current Interns Only – ETL G298 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54df?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Jul 03 |
+| ↳ | **[Current Interns Only – ETL G293 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54fa?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 03 |
+| ↳ | **[Current Interns Only – ETL AP G295 Summer 2025](https://jobright.ai/jobs/info/6867671d3a1fb46cb89d54f6?utm_campaign=1051&utm_source=git)** | Modesto, CA | Hybrid | Jul 03 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811f66986f5222bcd255576?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jul 03 |
 | **[Faurecia](https://www.faurecia.com/en)** | **[Year-Round Purchasing Intern](https://jobright.ai/jobs/info/686a0b3e35584b654253d615?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Jul 03 |
 | **[Target](https://www.target.com)** | **[Current Interns Only – ETL G295 Summer 2025](https://jobright.ai/jobs/info/686763dd0758652ed7a954d2?utm_campaign=1051&utm_source=git)** | Modesto, CA | Hybrid | Jul 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811f2fa5885cfb4c4843c53?utm_campaign=1051&utm_source=git)** | Kalispell, MT | On Site | Jul 03 |
-| ↳ | **[Sales and Management Intern (Elmwood Shopping Center)](https://jobright.ai/jobs/info/6811f2fa5885cfb4c4843c4a?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Jul 03 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Partnerships Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8d8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 03 |
-| **[EVgo](http://www.evgo.com)** | **[Intern, Business Development](https://jobright.ai/jobs/info/6867326dd8e0721f42af5307?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
