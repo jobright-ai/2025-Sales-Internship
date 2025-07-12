@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CommLoan](https://www.commloan.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6872831fa5ae807a59d06bd0?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jul 12 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloudified Services Sales [Newtown Square]](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac406?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 12 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660e3?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d28?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | ↳ | **[Creator Partnerships Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d16?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 12 |
@@ -137,11 +137,11 @@ For a complete list, click the following sortable link below:
 | **[M&T Bank](https://www3.mtb.com/)** | **[Community Branch Internship - Crain Highway](https://jobright.ai/jobs/info/686ec7d29a71f471a478ac24?utm_campaign=1051&utm_source=git)** | Glen Burnie, MD | On Site | Jul 09 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Agency Owner- build your LEGACY!](https://jobright.ai/jobs/info/686ebc72252362a4a1d06025?utm_campaign=1051&utm_source=git)** | Countryside, IL | On Site | Jul 09 |
 | **[Bottega Veneta](http://bottegaveneta.it)** | **[BOTTEGA VENETA Wholesale Intern, Fall](https://jobright.ai/jobs/info/686eab8373ccb0d5760487a6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 09 |
-| **[Target](https://www.target.com)** | **[Current Interns Only - ETL AP- G296  Summer 2025](https://jobright.ai/jobs/info/686eaa79706ef96ccd422d1c?utm_campaign=1051&utm_source=git)** | 25601 Jeronimo Rd, Mission Viejo, CA 92691-2794 | Hybrid | Jul 09 |
-| ↳ | **[Current Interns Only - ETL AP- G292  Summer 2025](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cf8?utm_campaign=1051&utm_source=git)** | 7530 Orangethorpe Ave, Buena Park,CA 90621-3429 | Hybrid | Jul 09 |
-| ↳ | **[Current Interns Only-ETL G296 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cd4?utm_campaign=1051&utm_source=git)** | 3030 Harbor Blvd Ste A, Costa Mesa,CA 92626-2562 | Hybrid | Jul 09 |
-| ↳ | **[Current Interns Only-ETL G292 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cdf?utm_campaign=1051&utm_source=git)** | 16964 Slover Ave, Fontana,CA 92337-7556 | Hybrid | Jul 09 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL G296 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cd4?utm_campaign=1051&utm_source=git)** | 3030 Harbor Blvd Ste A, Costa Mesa,CA 92626-2562 | Hybrid | Jul 09 |
+| ↳ | **[Current Interns Only - ETL AP- G296  Summer 2025](https://jobright.ai/jobs/info/686eaa79706ef96ccd422d1c?utm_campaign=1051&utm_source=git)** | 25601 Jeronimo Rd, Mission Viejo, CA 92691-2794 | Hybrid | Jul 09 |
 | ↳ | **[Current Interns Only-ETL G294 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cb7?utm_campaign=1051&utm_source=git)** | 3535 S La Cienega Blvd, Los Angeles,CA 90016-4407 | Hybrid | Jul 09 |
+| ↳ | **[Current Interns Only - ETL AP- G292  Summer 2025](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cf8?utm_campaign=1051&utm_source=git)** | 7530 Orangethorpe Ave, Buena Park,CA 90621-3429 | Hybrid | Jul 09 |
+| ↳ | **[Current Interns Only-ETL G292 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cdf?utm_campaign=1051&utm_source=git)** | 16964 Slover Ave, Fontana,CA 92337-7556 | Hybrid | Jul 09 |
 | **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Distributor Management Intern](https://jobright.ai/jobs/info/686d8a586dc4f54b7dcb5311?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 09 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern*](https://jobright.ai/jobs/info/686e8e48d58751a257e8d06f?utm_campaign=1051&utm_source=git)** | Chicago, Illinois, United States of America | On Site | Jul 09 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Career Training Program](https://jobright.ai/jobs/info/686e6d5fdd65db19a20ae695?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Jul 09 |
@@ -152,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Multiquip Inc.](http://multiquip.com)** | **[Sales intern](https://jobright.ai/jobs/info/6843a173727d23878e29452f?utm_campaign=1051&utm_source=git)** | Cypress, CA | On Site | Jul 09 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Capital Markets](https://jobright.ai/jobs/info/6852080396a63c79dcded298?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Jul 09 |
 | **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/67edfd82973bf4240d23972c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | On Site | Jul 09 |
-| **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/686e601cf04554825b9ed7b7?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 09 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/686e601cf04554825b9ed965?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jul 09 |
+| **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/686e601cf04554825b9ed965?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jul 09 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/686e601cf04554825b9ed7b7?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[Sales Intern](https://jobright.ai/jobs/info/686f4b9ab524c5bedec1e3d6?utm_campaign=1051&utm_source=git)** | Branch, LA | On Site | Jul 08 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/686de5fc2f7337a591dd51da?utm_campaign=1051&utm_source=git)** | Bay City, MI | On Site | Jul 08 |
 | **[Woolpert](http://www.woolpert.com)** | **[Sales Procurement Internship](https://jobright.ai/jobs/info/686ddb71718936f2b3ad672b?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Jul 08 |
