@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CommLoan](https://www.commloan.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6872831fa5ae807a59d06bd0?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d28?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | ↳ | **[Creator Partnerships Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d16?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 12 |
 | **[Lennox](http://www.lennox.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68086dd77642ca8b1469db89?utm_campaign=1051&utm_source=git)** | Marshalltown, IA | On Site | Jul 12 |
@@ -70,7 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Greentech Renewables East](http://www.greentechrenewables.com)** | **[Sales Trainee - Solar Distribution (Wallingford, CT)](https://jobright.ai/jobs/info/68715ff606ad7073463c4c16?utm_campaign=1051&utm_source=git)** | Wallingford, CT | On Site | Jul 11 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Business Development Intern (Fall '25)](https://jobright.ai/jobs/info/6871f505d0664c45cd3c0bb0?utm_campaign=1051&utm_source=git)** | St. Louis, MO, USA | On Site | Jul 11 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship 2026](https://jobright.ai/jobs/info/68715915a5ae807a59cff174?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Jul 11 |
-| ↳ | **[College Financial Representative Intern](https://jobright.ai/jobs/info/68713e49a5ae807a59cfe9ef?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jul 11 |
+| **[Sanofi](https://www.sanofi.com)** | **[Fall 2025 Co-Op-Intern - Global Patient Activation](https://jobright.ai/jobs/info/68717517a5ae807a59cffae4?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Jul 11 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Intern](https://jobright.ai/jobs/info/68713e49a5ae807a59cfe9ef?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jul 11 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660e9?utm_campaign=1051&utm_source=git)** | Schererville, IN | On Site | Jul 11 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b830cb77863a2125e6e4b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jul 11 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b830cb77863a2125e6e9f?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jul 11 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[New Home Star](http://newhomestar.com)** | **[Maronda Homes Sales Intern](https://jobright.ai/jobs/info/6838b8aab794407d15d9f74c?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jul 11 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/68712fd8a5ae807a59cfe535?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Jul 11 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Chicago Branch – Business Development Team Intern](https://jobright.ai/jobs/info/6853f14bfdcaaa18ae1549b2?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 10 |
-| **[Sanofi](https://www.sanofi.com)** | **[Fall 2025 Co-Op-Intern - Global Patient Activation](https://jobright.ai/jobs/info/6870969653681e2df4c23a02?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Jul 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 Corporate Affairs Intern -Fry's](https://jobright.ai/jobs/info/68706133a5ae807a59cf7f66?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jul 10 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/68705bfe01cc0956e7e81616?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 10 |
 | **[Exclusive Resorts](http://www.exclusiveresorts.com)** | **[Intern, Sales Research](https://jobright.ai/jobs/info/68719a38a5ae807a59d00b6f?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jul 10 |
@@ -136,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Agency Owner- build your LEGACY!](https://jobright.ai/jobs/info/686ebc72252362a4a1d06025?utm_campaign=1051&utm_source=git)** | Countryside, IL | On Site | Jul 09 |
 | **[Bottega Veneta](http://bottegaveneta.it)** | **[BOTTEGA VENETA Wholesale Intern, Fall](https://jobright.ai/jobs/info/686eab8373ccb0d5760487a6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 09 |
 | **[Target](https://www.target.com)** | **[Current Interns Only-ETL G294 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cb7?utm_campaign=1051&utm_source=git)** | 3535 S La Cienega Blvd, Los Angeles,CA 90016-4407 | Hybrid | Jul 09 |
+| ↳ | **[Current Interns Only-ETL G296 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cd4?utm_campaign=1051&utm_source=git)** | 3030 Harbor Blvd Ste A, Costa Mesa,CA 92626-2562 | Hybrid | Jul 09 |
 | ↳ | **[Current Interns Only - ETL AP- G292  Summer 2025](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cf8?utm_campaign=1051&utm_source=git)** | 7530 Orangethorpe Ave, Buena Park,CA 90621-3429 | Hybrid | Jul 09 |
 | ↳ | **[Current Interns Only-ETL G292 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cdf?utm_campaign=1051&utm_source=git)** | 16964 Slover Ave, Fontana,CA 92337-7556 | Hybrid | Jul 09 |
-| ↳ | **[Current Interns Only-ETL G296 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cd4?utm_campaign=1051&utm_source=git)** | 3030 Harbor Blvd Ste A, Costa Mesa,CA 92626-2562 | Hybrid | Jul 09 |
 | ↳ | **[Current Interns Only - ETL AP- G296  Summer 2025](https://jobright.ai/jobs/info/686eaa79706ef96ccd422d1c?utm_campaign=1051&utm_source=git)** | 25601 Jeronimo Rd, Mission Viejo, CA 92691-2794 | Hybrid | Jul 09 |
 | **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Distributor Management Intern](https://jobright.ai/jobs/info/686d8a586dc4f54b7dcb5311?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 09 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern*](https://jobright.ai/jobs/info/686e8e48d58751a257e8d06f?utm_campaign=1051&utm_source=git)** | Chicago, Illinois, United States of America | On Site | Jul 09 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Multiquip Inc.](http://multiquip.com)** | **[Sales intern](https://jobright.ai/jobs/info/6843a173727d23878e29452f?utm_campaign=1051&utm_source=git)** | Cypress, CA | On Site | Jul 09 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Capital Markets](https://jobright.ai/jobs/info/6852080396a63c79dcded298?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Jul 09 |
 | **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/67edfd82973bf4240d23972c?utm_campaign=1051&utm_source=git)** | North Bethesda, MD | On Site | Jul 09 |
-| **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/686e601cf04554825b9ed965?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jul 09 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/686e601cf04554825b9ed7b7?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 09 |
+| **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/686e601cf04554825b9ed7b7?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 09 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/686e601cf04554825b9ed965?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Jul 09 |
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[Sales Intern](https://jobright.ai/jobs/info/686f4b9ab524c5bedec1e3d6?utm_campaign=1051&utm_source=git)** | Branch, LA | On Site | Jul 08 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/686de5fc2f7337a591dd51da?utm_campaign=1051&utm_source=git)** | Bay City, MI | On Site | Jul 08 |
 | **[Woolpert](http://www.woolpert.com)** | **[Sales Procurement Internship](https://jobright.ai/jobs/info/686ddb71718936f2b3ad672b?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Jul 08 |
 | ↳ | **[Sales Procurement Internship](https://jobright.ai/jobs/info/686dd099dadb90395aab9d95?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jul 08 |
-| ↳ | **[Sales Procurement Internship](https://jobright.ai/jobs/info/686dd099dadb90395aab9d93?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
