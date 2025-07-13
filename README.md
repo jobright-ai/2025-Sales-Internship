@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CourseCareers](http://coursecareers.com)** | **[Entrepreneur Apprenticeship](https://jobright.ai/jobs/info/6873c06101889204ff8f58f9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloudified Services Sales [Newtown Square]](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac406?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 12 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660e3?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d28?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Internship 2026](https://jobright.ai/jobs/info/68715915a5ae807a59cff174?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Jul 11 |
 | ↳ | **[College Financial Representative Intern](https://jobright.ai/jobs/info/68713e49a5ae807a59cfe9ef?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jul 11 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660e9?utm_campaign=1051&utm_source=git)** | Schererville, IN | On Site | Jul 11 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660df?utm_campaign=1051&utm_source=git)** | Sedalia, MO | On Site | Jul 11 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b830cb77863a2125e6e4b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Jul 11 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b830cb77863a2125e6e9f?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jul 11 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b3598ea64bf3897bf4c96?utm_campaign=1051&utm_source=git)** | Roseville, MN | On Site | Jul 11 |
@@ -139,22 +141,20 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Current Interns Only-ETL G296 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686f1d3dd47b21ea06b08cce?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | Hybrid | Jul 09 |
 | ↳ | **[Current Interns Only - ETL AP- G292  Summer 2025](https://jobright.ai/jobs/info/686f1d3dd47b21ea06b08cd7?utm_campaign=1051&utm_source=git)** | Buena Park, CA | Hybrid | Jul 09 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern](https://jobright.ai/jobs/info/686ed9daa0864b8b9c5bb379?utm_campaign=1051&utm_source=git)** | Post Falls, ID | On Site | Jul 09 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[UT Surplus REuse Store (Saturday) Intern - Open to Work Study and Non-Work Study Students](https://jobright.ai/jobs/info/686ed5447662ea8f920c7bbc?utm_campaign=1051&utm_source=git)** | AUSTIN, TX | On Site | Jul 09 |
-| ↳ | **[UT Surplus REuse Store (Thursday) Intern - Open to Work Study and Non-Work Study Students](https://jobright.ai/jobs/info/686ed5447662ea8f920c7b9e?utm_campaign=1051&utm_source=git)** | AUSTIN, TX | On Site | Jul 09 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[UT Surplus REuse Store (Thursday) Intern - Open to Work Study and Non-Work Study Students](https://jobright.ai/jobs/info/686ed5447662ea8f920c7b9e?utm_campaign=1051&utm_source=git)** | AUSTIN, TX | On Site | Jul 09 |
+| ↳ | **[UT Surplus REuse Store (Saturday) Intern - Open to Work Study and Non-Work Study Students](https://jobright.ai/jobs/info/686ed5447662ea8f920c7bbc?utm_campaign=1051&utm_source=git)** | AUSTIN, TX | On Site | Jul 09 |
 | **[Medpace](http://www.medpace.com)** | **[Virtual Information Session - Business Focused](https://jobright.ai/jobs/info/686eca5bdf2178a8ef2a9ed6?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 09 |
 | **[M&T Bank](https://www3.mtb.com/)** | **[Community Branch Internship - Crain Highway](https://jobright.ai/jobs/info/686ec7d29a71f471a478ac24?utm_campaign=1051&utm_source=git)** | Glen Burnie, MD | On Site | Jul 09 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Agency Owner- build your LEGACY!](https://jobright.ai/jobs/info/686ebc72252362a4a1d06025?utm_campaign=1051&utm_source=git)** | Countryside, IL | On Site | Jul 09 |
 | **[Bottega Veneta](http://bottegaveneta.it)** | **[BOTTEGA VENETA Wholesale Intern, Fall](https://jobright.ai/jobs/info/686eab8373ccb0d5760487a6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 09 |
-| **[Target](https://www.target.com)** | **[Current Interns Only - ETL AP- G296  Summer 2025](https://jobright.ai/jobs/info/686eaa79706ef96ccd422d1c?utm_campaign=1051&utm_source=git)** | 25601 Jeronimo Rd, Mission Viejo, CA 92691-2794 | Hybrid | Jul 09 |
+| **[Target](https://www.target.com)** | **[Current Interns Only-ETL G296 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cd4?utm_campaign=1051&utm_source=git)** | 3030 Harbor Blvd Ste A, Costa Mesa,CA 92626-2562 | Hybrid | Jul 09 |
 | ↳ | **[Current Interns Only-ETL G292 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cdf?utm_campaign=1051&utm_source=git)** | 16964 Slover Ave, Fontana,CA 92337-7556 | Hybrid | Jul 09 |
 | ↳ | **[Current Interns Only - ETL AP- G292  Summer 2025](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cf8?utm_campaign=1051&utm_source=git)** | 7530 Orangethorpe Ave, Buena Park,CA 90621-3429 | Hybrid | Jul 09 |
-| ↳ | **[Current Interns Only-ETL G296 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cd4?utm_campaign=1051&utm_source=git)** | 3030 Harbor Blvd Ste A, Costa Mesa,CA 92626-2562 | Hybrid | Jul 09 |
+| ↳ | **[Current Interns Only - ETL AP- G296  Summer 2025](https://jobright.ai/jobs/info/686eaa79706ef96ccd422d1c?utm_campaign=1051&utm_source=git)** | 25601 Jeronimo Rd, Mission Viejo, CA 92691-2794 | Hybrid | Jul 09 |
 | ↳ | **[Current Interns Only-ETL G294 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/686eaa79706ef96ccd422cb7?utm_campaign=1051&utm_source=git)** | 3535 S La Cienega Blvd, Los Angeles,CA 90016-4407 | Hybrid | Jul 09 |
 | **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Distributor Management Intern](https://jobright.ai/jobs/info/686d8a586dc4f54b7dcb5311?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 09 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Intern*](https://jobright.ai/jobs/info/686e8e48d58751a257e8d06f?utm_campaign=1051&utm_source=git)** | Chicago, Illinois, United States of America | On Site | Jul 09 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Career Training Program](https://jobright.ai/jobs/info/686e6d5fdd65db19a20ae695?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Jul 09 |
 | **[Weitzman](http://www.weitzmangroup.com)** | **[Fall Brokerage Intern](https://jobright.ai/jobs/info/685192c9401aa2edfc38cfb8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jul 09 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (OC)](https://jobright.ai/jobs/info/65074778aaeb6ed3541a02e6?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jul 09 |
-| **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Planning + Allocation Intern, SMCP - New York, New York](https://jobright.ai/jobs/info/685ed4cca1c400d647d1fe4d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 09 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68360fb5c5c822ed2a97dfc8?utm_campaign=1051&utm_source=git)** | Stockton, CA | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
