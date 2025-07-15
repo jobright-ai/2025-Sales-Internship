@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Fall 2025 CRM Intern / NYC](https://jobright.ai/jobs/info/68768fff299cbc74b875e3a5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 15 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Sales Internship](https://jobright.ai/jobs/info/687685d55cebcd1dd51c9b2b?utm_campaign=1051&utm_source=git)** | West Chester, OH | Hybrid | Jul 15 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Showroom Intern](https://jobright.ai/jobs/info/687673d45cebcd1dd51c9110?utm_campaign=1051&utm_source=git)** | IL - Chicago | On Site | Jul 15 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Chicago Branch – Business Development Team Intern](https://jobright.ai/jobs/info/6853f14bfdcaaa18ae1549b2?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 15 |
 | **[Winged Keel Group](http://wingedkeel.com)** | **[Client Relationship Analyst](https://jobright.ai/jobs/info/683d9802fe8d151f7d3bbc1d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jul 15 |
 | **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Sales Operations Support](https://jobright.ai/jobs/info/6876750a299cbc74b875d431?utm_campaign=1051&utm_source=git)** | Grand Prairie, TX | Hybrid | Jul 15 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern- Corporate Real Estate](https://jobright.ai/jobs/info/687635315cebcd1dd51c7560?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Jul 15 |
@@ -66,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Buffalo Sabres](http://sabres.com)** | **[Business Development Intern - Buffalo Sabres & Buffalo Bandits](https://jobright.ai/jobs/info/68761c515cebcd1dd51c6a97?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Jul 14 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Intern](https://jobright.ai/jobs/info/6875ba7a299cbc74b8757356?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6875aa9b5cebcd1dd51c2a86?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Jul 14 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6875a8505cebcd1dd51c27fb?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 14 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6875a67bae2f413e4a5a8ac1?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 14 |
 | **[HeyGears](https://www.heygears.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/68759f035cebcd1dd51c224c?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jul 14 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68759eca299cbc74b87564d6?utm_campaign=1051&utm_source=git)** | Home, MI | On Site | Jul 14 |
 | **[Circle K](http://www.circlek.com)** | **[Merchandise Analyst Intern](https://jobright.ai/jobs/info/687647bc299cbc74b875bfc8?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jul 14 |
@@ -79,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Co-Op - Risk Management](https://jobright.ai/jobs/info/687554505cebcd1dd51bf99d?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Jul 14 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/686c287e35584b65420449c8?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Jul 14 |
 | **[Exclusive Resorts](http://www.exclusiveresorts.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68753c5eae2f413e4a5a5107?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jul 14 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual International Sales Intern (Mexico)](https://jobright.ai/jobs/info/65086fe6b1e91ec1ac9bcf1c?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jul 14 |
 | **[M&T Bank](https://www3.mtb.com/)** | **[2026 Community Branch Internship Program](https://jobright.ai/jobs/info/687517425cebcd1dd51bdaed?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Jul 14 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern//College Financial Representative Fall 2025/ Spring 2026](https://jobright.ai/jobs/info/687515d65cebcd1dd51bd9d8?utm_campaign=1051&utm_source=git)** | Clayton, MO | Hybrid | Jul 14 |
 | **[SMS group](https://www.sms-group.com/)** | **[Now Hiring for Summer 2025 Business Coordinator/Intern Position](https://jobright.ai/jobs/info/68752e3b5cebcd1dd51be5db?utm_campaign=1051&utm_source=git)** | Arlington Heights, IL | On Site | Jul 14 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Braven](https://bebraven.org)** | **[Vice President, Employer Partnerships](https://jobright.ai/jobs/info/68746ed1299cbc74b874d6dc?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 13 |
 | **[CourseCareers](http://coursecareers.com)** | **[Future Entrepreneur Internship](https://jobright.ai/jobs/info/6873f65e4001e95011b1b74c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 13 |
 | ↳ | **[Entrepreneur Apprenticeship](https://jobright.ai/jobs/info/6873f5c701889204ff8f5d02?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 13 |
-| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6875f547ae2f413e4a5ab742?utm_campaign=1051&utm_source=git)** | Oak Forest, IL | On Site | Jul 12 |
 | **[CommLoan](https://www.commloan.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6875f1b95cebcd1dd51c4e26?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jul 12 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Business Development Intern (Fall '25)](https://jobright.ai/jobs/info/68761b8aae2f413e4a5acfb5?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloudified Services Sales [Newtown Square]](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac406?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 12 |
@@ -133,7 +136,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b2dc91165728bf8e40d6b?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Jul 11 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/68712fd8a5ae807a59cfe535?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Jul 11 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681d9d38030052959b510fee?utm_campaign=1051&utm_source=git)** | Douglasville, GA | On Site | Jul 11 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Chicago Branch – Business Development Team Intern](https://jobright.ai/jobs/info/6853f14bfdcaaa18ae1549b2?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 10 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Engagement - Portfolio Solutions Group - Off-Cycle Intern](https://jobright.ai/jobs/info/687603f25cebcd1dd51c59c4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 10 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/687493505cebcd1dd51baffe?utm_campaign=1051&utm_source=git)** | Harvey, LA | On Site | Jul 10 |
 | **[Sanofi](https://www.sanofi.com)** | **[Fall 2025 Co-Op-Intern - Global Patient Activation](https://jobright.ai/jobs/info/6870969653681e2df4c23a02?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Institute for Justice](http://ij.org/)** | **[Development Intern](https://jobright.ai/jobs/info/68700f169a77984d3d15055b?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6870254f06ad7073463bb72a?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 10 |
 | **[Performant Healthcare, Inc. ](http://www.performantcorp.com/)** | **[Intern Customer Success](https://jobright.ai/jobs/info/681be3bdfddbafe5db44e90d?utm_campaign=1051&utm_source=git)** | Plantation, FL | On Site | Jul 10 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative - Spring/Summer Semester](https://jobright.ai/jobs/info/687023e8a5ae807a59cf6112?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jul 10 |
-| **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Fall 2025](https://jobright.ai/jobs/info/684234a4547e65971a70448f?utm_campaign=1051&utm_source=git)** | Warminster, PA | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
