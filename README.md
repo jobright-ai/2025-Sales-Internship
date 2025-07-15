@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kidder Mathews](https://kidder.com/)** | **[Intern](https://jobright.ai/jobs/info/6875ba7a299cbc74b8757356?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6875aa9b5cebcd1dd51c2a86?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Jul 14 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6875a8505cebcd1dd51c27fb?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 14 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6875a719299cbc74b8756a43?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jul 14 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6875a67bae2f413e4a5a8ac1?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 14 |
 | **[HeyGears](https://www.heygears.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/68759f035cebcd1dd51c224c?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jul 14 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68759eca299cbc74b87564d6?utm_campaign=1051&utm_source=git)** | Home, MI | On Site | Jul 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6875b1805cebcd1dd51c2d03?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jul 14 |
@@ -95,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681ad5ad26eecdcda6e1b098?utm_campaign=1051&utm_source=git)** | Brandon, FL | On Site | Jul 11 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681d96c5abd3c71ba3ad83b5?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Financial Coaching & Economic Mobility Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6871db4606ad7073463c828c?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660c9?utm_campaign=1051&utm_source=git)** | Florence, KY | On Site | Jul 11 |
 | **[Awardco](https://www.award.co)** | **[Client Success Operations Intern](https://jobright.ai/jobs/info/6871cb1ca5ae807a59d01c4c?utm_campaign=1051&utm_source=git)** | Lindon, UT | On Site | Jul 11 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern (The Greene)](https://jobright.ai/jobs/info/6871bf9006ad7073463c7064?utm_campaign=1051&utm_source=git)** | Beavercreek, OH | On Site | Jul 11 |
 | **[Dayforce](https://www.dayforce.com)** | **[Mid-Market Sales Intern - 4 Months Fall 2025](https://jobright.ai/jobs/info/6872186506ad7073463cb4e7?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 11 |
@@ -127,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Chicago Branch – Business Development Team Intern](https://jobright.ai/jobs/info/6853f14bfdcaaa18ae1549b2?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 10 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/687493505cebcd1dd51baffe?utm_campaign=1051&utm_source=git)** | Harvey, LA | On Site | Jul 10 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67fd4f5ba65d1903dadbb6d3?utm_campaign=1051&utm_source=git)** | Mechanicsville, VA | On Site | Jul 10 |
+| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6857956fa09960d3d4c3cd23?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Jul 10 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (SD)](https://jobright.ai/jobs/info/65075e8278de930024e36c0b?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jul 10 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/687474e3299cbc74b874da74?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jul 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 Corporate Affairs Intern -Fry's](https://jobright.ai/jobs/info/68706133a5ae807a59cf7f66?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c287?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Jul 10 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b2dc91165728bf8e40d6a?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Jul 10 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b830cb77863a2125e6e79?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c29e?utm_campaign=1051&utm_source=git)** | Katy, TX | On Site | Jul 10 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[After Sales Projects and Strategy Intern](https://jobright.ai/jobs/info/6852f77f5ea00afc990db600?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
