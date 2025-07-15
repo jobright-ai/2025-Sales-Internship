@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kidder Mathews](https://kidder.com/)** | **[Intern](https://jobright.ai/jobs/info/6875ba7a299cbc74b8757356?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6875aa9b5cebcd1dd51c2a86?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Jul 14 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6875a719299cbc74b8756a43?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Jul 14 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6875a67bae2f413e4a5a8ac1?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 14 |
 | **[HeyGears](https://www.heygears.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/68759f035cebcd1dd51c224c?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jul 14 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68759eca299cbc74b87564d6?utm_campaign=1051&utm_source=git)** | Home, MI | On Site | Jul 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6875b1805cebcd1dd51c2d03?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jul 14 |
+| **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - BUSINESS DEVELOPMENT](https://jobright.ai/jobs/info/6875b290ae2f413e4a5a9339?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Jul 14 |
 | **[Target](https://www.target.com)** | **[Current Interns Only-ETL G296 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/6875a5b95cebcd1dd51c250e?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | Hybrid | Jul 14 |
 | **[Skyepack Inc.](http://www.skyepack.com)** | **[Part-Time SDR Internship](https://jobright.ai/jobs/info/68757f21299cbc74b875587e?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6875764aae2f413e4a5a750b?utm_campaign=1051&utm_source=git)** | USA - CA - San Jose (Ridder) | On Site | Jul 14 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[SMS group](https://www.sms-group.com/)** | **[Now Hiring for Summer 2025 Business Coordinator/Intern Position](https://jobright.ai/jobs/info/68752e3b5cebcd1dd51be5db?utm_campaign=1051&utm_source=git)** | Arlington Heights, IL | On Site | Jul 14 |
 | **[MegaCorp Logistics](http://megacorplogistics.com)** | **[Sales Operations Internship - Fall 2025](https://jobright.ai/jobs/info/687507a6299cbc74b87517ef?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Jul 14 |
 | ↳ | **[Sales Operations Internship - Fall 2025](https://jobright.ai/jobs/info/6874f6b95cebcd1dd51bcd7d?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Jul 14 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (TPA)](https://jobright.ai/jobs/info/66796318f6b36b4aa01a326c?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jul 14 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[2025 "Career Arc" Returnship Program - Global Banking Technology & Operations (GBTO)](https://jobright.ai/jobs/info/6712c7ceea33a6e08d442f40?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 14 |
 | **[GDS Group](https://gdsgroup.com/)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/68501dc7d91a59db229faee8?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 14 |
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[BUSINESS DEVELOPMENT INTERN](https://jobright.ai/jobs/info/6875a835ae2f413e4a5a8cc9?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Jul 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b830cb77863a2125e6e79?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c29e?utm_campaign=1051&utm_source=git)** | Katy, TX | On Site | Jul 10 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[After Sales Projects and Strategy Intern](https://jobright.ai/jobs/info/6852f77f5ea00afc990db600?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
-| **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/67a7505562c8951a8e6d862f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 10 |
-| **[Precision Castparts](http://precast.com)** | **[Sales Intern (Co-Op)](https://jobright.ai/jobs/info/68472afd82fcc975aa15310e?utm_campaign=1051&utm_source=git)** | Paramount, CA | On Site | Jul 10 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Inside Sales](https://jobright.ai/jobs/info/6853d36881868f79ea07cd66?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
