@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - Home Loan Advisor - External](https://jobright.ai/jobs/info/68794fb2ed63844c9449a8c3?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Jul 17 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[RLC Partner Outreach Intern](https://jobright.ai/jobs/info/687910552097a271a8974373?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jul 17 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d8a06?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0357?utm_campaign=1051&utm_source=git)** | Redding, CA | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e6e?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jul 17 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec31957?utm_campaign=1051&utm_source=git)** | North Platte, NE | On Site | Jul 17 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6878e75eed63844c9449728e?utm_campaign=1051&utm_source=git)** | South Hackensack, NJ | On Site | Jul 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jul 17 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Euless ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68788f44866a435525abab1b?utm_campaign=1051&utm_source=git)** | Euless, TX | On Site | Jul 16 |
@@ -145,16 +147,14 @@ For a complete list, click the following sortable link below:
 | **[GDS Group](https://gdsgroup.com/)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/68501dc7d91a59db229faee8?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 14 |
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[BUSINESS DEVELOPMENT INTERN](https://jobright.ai/jobs/info/6875a835ae2f413e4a5a8cc9?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Jul 13 |
 | **[Braven](https://bebraven.org)** | **[Vice President, Employer Partnerships](https://jobright.ai/jobs/info/68746ed1299cbc74b874d6dc?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 13 |
+| **[CourseCareers](http://coursecareers.com)** | **[Entrepreneur Apprenticeship](https://jobright.ai/jobs/info/6873f5c701889204ff8f5d02?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 13 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681e97b4170e24f29079e3e5?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Jul 13 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/681e3327a1a8a0c315c0507d?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | Jul 13 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Business Development Intern (Fall '25)](https://jobright.ai/jobs/info/68761b8aae2f413e4a5acfb5?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Jul 12 |
-| **[CourseCareers](http://coursecareers.com)** | **[Entrepreneur Apprenticeship](https://jobright.ai/jobs/info/6873c06101889204ff8f58f9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 12 |
-| ↳ | **[Future Entrepreneur Internship](https://jobright.ai/jobs/info/6873d9474001e95011b1aa7a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 12 |
+| **[CourseCareers](http://coursecareers.com)** | **[Future Entrepreneur Internship](https://jobright.ai/jobs/info/6873d9474001e95011b1aa7a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloudified Services Sales [Newtown Square]](https://jobright.ai/jobs/info/681ce3e596fdfdea0bdac406?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 12 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660e3?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d28?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | ↳ | **[Creator Partnerships Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d16?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 12 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/683a1180376e93ef5ce6c249?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jul 12 |
-| **[Lennox](http://www.lennox.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68086dd77642ca8b1469db89?utm_campaign=1051&utm_source=git)** | Marshalltown, IA | On Site | Jul 12 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c298?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Jul 12 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681ad5ad26eecdcda6e1b099?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
