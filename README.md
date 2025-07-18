@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[E-commerce Photoshoot Intern](https://jobright.ai/jobs/info/68798f4aed63844c9449c82d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jul 17 |
 | **[Global Impex USA](https://www.globalimpexusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687989d92097a271a89784f9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Gameday Intern (UCF Sports Properties)](https://jobright.ai/jobs/info/68796b5b2097a271a8977650?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jul 17 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/687968b6a7fc8904e3962877?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jul 17 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Euless ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68788f44866a435525abab1b?utm_campaign=1051&utm_source=git)** | Euless, TX | On Site | Jul 16 |
 | **[Cleveland Guardians](https://www.mlb.com/guardians)** | **[Distribution Center Retail Operations Internship](https://jobright.ai/jobs/info/68784db45cebcd1dd51d93f1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jul 16 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 3](https://jobright.ai/jobs/info/6878472cae2f413e4a5c0f5a?utm_campaign=1051&utm_source=git)** | Kingsport Tennessee | Hybrid | Jul 16 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682430006b567d6bd4b6f168?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Jul 16 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Fall 2025 - Honolulu)](https://jobright.ai/jobs/info/6851cf38fe2edaf8853c0af3?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Jul 16 |
 | **[PEAK6 InsurTech](https://peak6.com/peak6-insurtech/)** | **[Trading Internship for Women+](https://jobright.ai/jobs/info/68781765866a435525ab6a32?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jul 16 |
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Sales & Business Development Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca245a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jul 16 |
@@ -133,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Ticket Operations and Data Analytics Intern (Staff and Student Wage)](https://jobright.ai/jobs/info/68763815299cbc74b875b942?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Business Development Intern - Buffalo Sabres & Buffalo Bandits](https://jobright.ai/jobs/info/68761c515cebcd1dd51c6a97?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Jul 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6875aa9b5cebcd1dd51c2a86?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Jul 14 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6875a8505cebcd1dd51c27fb?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 14 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6875a67bae2f413e4a5a8ac1?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 14 |
 | **[HeyGears](https://www.heygears.com/)** | **[Sales Assistant Intern](https://jobright.ai/jobs/info/68759f035cebcd1dd51c224c?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jul 14 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68759eca299cbc74b87564d6?utm_campaign=1051&utm_source=git)** | Home, MI | On Site | Jul 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6875b1805cebcd1dd51c2d03?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jul 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Societe Generale](https://www.societegenerale.com)** | **[2025 "Career Arc" Returnship Program - Global Banking Technology & Operations (GBTO)](https://jobright.ai/jobs/info/6712c7ceea33a6e08d442f40?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 14 |
 | **[GDS Group](https://gdsgroup.com/)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/68501dc7d91a59db229faee8?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 14 |
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[BUSINESS DEVELOPMENT INTERN](https://jobright.ai/jobs/info/6875a835ae2f413e4a5a8cc9?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Jul 13 |
-| **[Braven](https://bebraven.org)** | **[Vice President, Employer Partnerships](https://jobright.ai/jobs/info/68746ed1299cbc74b874d6dc?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 13 |
-| **[CourseCareers](http://coursecareers.com)** | **[Future Entrepreneur Internship](https://jobright.ai/jobs/info/6873f65e4001e95011b1b74c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
