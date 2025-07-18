@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Global Business Development, Energy (Fall 2025)](https://jobright.ai/jobs/info/6879be142097a271a8979d42?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Jul 17 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[E-commerce Photoshoot Intern](https://jobright.ai/jobs/info/68798f4aed63844c9449c82d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jul 17 |
 | **[Global Impex USA](https://www.globalimpexusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687989d92097a271a89784f9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Gameday Intern (UCF Sports Properties)](https://jobright.ai/jobs/info/68796b5b2097a271a8977650?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jul 17 |
@@ -109,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Chromalloy](https://www.chromalloy.com)** | **[Sales and Planning Internship](https://jobright.ai/jobs/info/687868405cebcd1dd51da378?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jul 15 |
 | **[WAVY-TV 10](http://wavy.com)** | **[WAVY Unpaid Sales & Marketing Intern, Fall 2025](https://jobright.ai/jobs/info/6859ab177cc82b34be90802c?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Jul 15 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/682cfa5c4984972cf2445d48?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | On Site | Jul 15 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Sales Intern, Sony Pictures Classics – Fall 2025](https://jobright.ai/jobs/info/6876d563ae2f413e4a5b42cd?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Jul 15 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Sales Intern, Sony Pictures Classics – Fall 2025](https://jobright.ai/jobs/info/6876d611299cbc74b87611ae?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Jul 15 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Purchase, Sales, and Inventory (PSI) Intern (Kennesaw, GA)](https://jobright.ai/jobs/info/6876c758299cbc74b87608f6?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Jul 15 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Front Office Rooms Operations Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/6876bfba299cbc74b8760435?utm_campaign=1051&utm_source=git)** | New York Hilton Midtown1335 Avenue Of The Americas | On Site | Jul 15 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Procurement Intern](https://jobright.ai/jobs/info/6876ad245cebcd1dd51cb438?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (TPA)](https://jobright.ai/jobs/info/66796318f6b36b4aa01a326c?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jul 14 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[2025 "Career Arc" Returnship Program - Global Banking Technology & Operations (GBTO)](https://jobright.ai/jobs/info/6712c7ceea33a6e08d442f40?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 14 |
 | **[GDS Group](https://gdsgroup.com/)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/68501dc7d91a59db229faee8?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 14 |
-| **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[BUSINESS DEVELOPMENT INTERN](https://jobright.ai/jobs/info/6875a835ae2f413e4a5a8cc9?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
