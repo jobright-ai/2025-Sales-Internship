@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[RLC Partner Outreach Intern](https://jobright.ai/jobs/info/687910552097a271a8974373?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jul 17 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d8a06?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0357?utm_campaign=1051&utm_source=git)** | Redding, CA | On Site | Jul 17 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fc5e39041a52da39b28d4?utm_campaign=1051&utm_source=git)** | Rochester, MN | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e6e?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec31957?utm_campaign=1051&utm_source=git)** | North Platte, NE | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318e2?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Jul 17 |
@@ -76,6 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Showroom - Intern](https://jobright.ai/jobs/info/685cad0abee1ebee8277aec7?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jul 17 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Euless ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68788f44866a435525abab1b?utm_campaign=1051&utm_source=git)** | Euless, TX | On Site | Jul 16 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/685b396f107fa675ffe7504f?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 16 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- Lawrenceville](https://jobright.ai/jobs/info/685ac7491451c57921b2e46f?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Jul 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e86?utm_campaign=1051&utm_source=git)** | Ashland, KY | On Site | Jul 16 |
 | **[Cleveland Guardians](https://www.mlb.com/guardians)** | **[Distribution Center Retail Operations Internship](https://jobright.ai/jobs/info/68784db45cebcd1dd51d93f1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jul 16 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 3](https://jobright.ai/jobs/info/6878472cae2f413e4a5c0f5a?utm_campaign=1051&utm_source=git)** | Kingsport Tennessee | Hybrid | Jul 16 |
@@ -107,6 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Intern-Fall- Dallas/Hiram](https://jobright.ai/jobs/info/685ac7491451c57921b2e464?utm_campaign=1051&utm_source=git)** | Hiram, GA | On Site | Jul 16 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Credit Analyst - Fall Internship](https://jobright.ai/jobs/info/685af885435b7cd479c9233f?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | Remote | Jul 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68403d5d22d00c42ac9d6209?utm_campaign=1051&utm_source=git)** | Barboursville, WV | On Site | Jul 16 |
+| **[Empower](https://www.empower.com)** | **[Internal Sales Director - Government Large/Mega](https://jobright.ai/jobs/info/6877a3c4ae2f413e4a5bc09c?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jul 16 |
 | **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Sales Internship - Fall 2025](https://jobright.ai/jobs/info/684747cd4687d48082cb4fef?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jul 16 |
 | **[Metrica, Inc.](https://www.metricanet.com/)** | **[Business Development & Project Support Intern in San Antonio, Tx](https://jobright.ai/jobs/info/687775fd866a435525ab2278?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jul 16 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Sponsorships & Sales](https://jobright.ai/jobs/info/68773d15299cbc74b8765b6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exclusive Resorts](http://www.exclusiveresorts.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68753c5eae2f413e4a5a5107?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jul 14 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual International Sales Intern (Mexico)](https://jobright.ai/jobs/info/65086fe6b1e91ec1ac9bcf1c?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jul 14 |
 | **[M&T Bank](https://www3.mtb.com/)** | **[2026 Community Branch Internship Program](https://jobright.ai/jobs/info/687517425cebcd1dd51bdaed?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Jul 14 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern//College Financial Representative Fall 2025/ Spring 2026](https://jobright.ai/jobs/info/687515d65cebcd1dd51bd9d8?utm_campaign=1051&utm_source=git)** | Clayton, MO | Hybrid | Jul 14 |
-| **[SMS group](https://www.sms-group.com/)** | **[Now Hiring for Summer 2025 Business Coordinator/Intern Position](https://jobright.ai/jobs/info/68752e3b5cebcd1dd51be5db?utm_campaign=1051&utm_source=git)** | Arlington Heights, IL | On Site | Jul 14 |
-| **[MegaCorp Logistics](http://megacorplogistics.com)** | **[Sales Operations Internship - Fall 2025](https://jobright.ai/jobs/info/687507a6299cbc74b87517ef?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Jul 14 |
-| ↳ | **[Sales Operations Internship - Fall 2025](https://jobright.ai/jobs/info/6874f6b95cebcd1dd51bcd7d?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
