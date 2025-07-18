@@ -72,10 +72,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e6e?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec31957?utm_campaign=1051&utm_source=git)** | North Platte, NE | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318e2?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Jul 17 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec31917?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Jul 17 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6878e75eed63844c9449728e?utm_campaign=1051&utm_source=git)** | South Hackensack, NJ | On Site | Jul 17 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318f3?utm_campaign=1051&utm_source=git)** | Sterling, CO | On Site | Jul 17 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318e3?utm_campaign=1051&utm_source=git)** | Lutz, FL | On Site | Jul 17 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318f3?utm_campaign=1051&utm_source=git)** | Sterling, CO | On Site | Jul 17 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Showroom - Intern](https://jobright.ai/jobs/info/685cad0abee1ebee8277aec7?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jul 17 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb660?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Jul 17 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Euless ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68788f44866a435525abab1b?utm_campaign=1051&utm_source=git)** | Euless, TX | On Site | Jul 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/685b396f107fa675ffe7504f?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- Lawrenceville](https://jobright.ai/jobs/info/685ac7491451c57921b2e46f?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Jul 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Co-Op - Risk Management](https://jobright.ai/jobs/info/687554505cebcd1dd51bf99d?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Jul 14 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/686c287e35584b65420449c8?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Jul 14 |
 | **[Exclusive Resorts](http://www.exclusiveresorts.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68753c5eae2f413e4a5a5107?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jul 14 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual International Sales Intern (Mexico)](https://jobright.ai/jobs/info/65086fe6b1e91ec1ac9bcf1c?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jul 14 |
-| **[M&T Bank](https://www3.mtb.com/)** | **[2026 Community Branch Internship Program](https://jobright.ai/jobs/info/687517425cebcd1dd51bdaed?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Jul 14 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern//College Financial Representative Fall 2025/ Spring 2026](https://jobright.ai/jobs/info/687515d65cebcd1dd51bd9d8?utm_campaign=1051&utm_source=git)** | Clayton, MO | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
