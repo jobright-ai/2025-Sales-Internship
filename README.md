@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jackson](https://www.jackson.com)** | **[Strategic Support Associate, FSCDP](https://jobright.ai/jobs/info/687a4d5bed63844c944a256c?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Jul 18 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67cb3af53f3ca9aa53679693?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Jul 18 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2025 Assistant Buyer Intern - Los Angeles](https://jobright.ai/jobs/info/67ebf3e4506332380e6bf7fd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 18 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Business Development, Energy (Fall 2025)](https://jobright.ai/jobs/info/6879be142097a271a8979d42?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Jul 17 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[E-commerce Photoshoot Intern](https://jobright.ai/jobs/info/68798f4aed63844c9449c82d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jul 17 |
 | **[Global Impex USA](https://www.globalimpexusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687989d92097a271a89784f9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 17 |
@@ -77,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318e3?utm_campaign=1051&utm_source=git)** | Lutz, FL | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318f3?utm_campaign=1051&utm_source=git)** | Sterling, CO | On Site | Jul 17 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Showroom - Intern](https://jobright.ai/jobs/info/685cad0abee1ebee8277aec7?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- Morrow](https://jobright.ai/jobs/info/685ac7491451c57921b2e429?utm_campaign=1051&utm_source=git)** | Stockbridge, GA | On Site | Jul 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jul 17 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb660?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Jul 17 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Euless ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68788f44866a435525abab1b?utm_campaign=1051&utm_source=git)** | Euless, TX | On Site | Jul 16 |
@@ -113,7 +117,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Intern-Fall- Dallas/Hiram](https://jobright.ai/jobs/info/685ac7491451c57921b2e464?utm_campaign=1051&utm_source=git)** | Hiram, GA | On Site | Jul 16 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Correspondent Credit Analyst - Fall Internship](https://jobright.ai/jobs/info/685af885435b7cd479c9233f?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | Remote | Jul 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68403d5d22d00c42ac9d6209?utm_campaign=1051&utm_source=git)** | Barboursville, WV | On Site | Jul 16 |
-| **[Empower](https://www.empower.com)** | **[Internal Sales Director - Government Large/Mega](https://jobright.ai/jobs/info/6877a3c4ae2f413e4a5bc09c?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jul 16 |
 | **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Sales Internship - Fall 2025](https://jobright.ai/jobs/info/684747cd4687d48082cb4fef?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jul 16 |
 | **[Metrica, Inc.](https://www.metricanet.com/)** | **[Business Development & Project Support Intern in San Antonio, Tx](https://jobright.ai/jobs/info/687775fd866a435525ab2278?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jul 16 |
 | **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Sponsorships & Sales](https://jobright.ai/jobs/info/68773d15299cbc74b8765b6a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skyepack Inc.](http://www.skyepack.com)** | **[Part-Time SDR Internship](https://jobright.ai/jobs/info/68757f21299cbc74b875587e?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68756882299cbc74b87548ab?utm_campaign=1051&utm_source=git)** | Work From Home Position (US Based) | Remote | Jul 14 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY INTERN - CINCINNATI](https://jobright.ai/jobs/info/687555ff299cbc74b8753e79?utm_campaign=1051&utm_source=git)** | 11310 Cornell Park Dr, Blue Ash, OH, 45242, US | On Site | Jul 14 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Co-Op - Risk Management](https://jobright.ai/jobs/info/687554505cebcd1dd51bf99d?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Jul 14 |
-| **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/686c287e35584b65420449c8?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Jul 14 |
-| **[Exclusive Resorts](http://www.exclusiveresorts.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68753c5eae2f413e4a5a5107?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
