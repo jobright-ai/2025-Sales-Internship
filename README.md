@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Impex USA](https://www.globalimpexusa.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687989d92097a271a89784f9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Gameday Intern (UCF Sports Properties)](https://jobright.ai/jobs/info/68796b5b2097a271a8977650?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Jul 17 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/687968b6a7fc8904e3962877?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Jul 17 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Owner Solutions Investment Banking (Louisville, KY Summer 2026)](https://jobright.ai/jobs/info/68795ee7a7fc8904e3962380?utm_campaign=1051&utm_source=git)** | KY-Louisville | On Site | Jul 17 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0357?utm_campaign=1051&utm_source=git)** | Redding, CA | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e6e?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec31957?utm_campaign=1051&utm_source=git)** | North Platte, NE | On Site | Jul 17 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318e2?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Jul 17 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/6878e75eed63844c9449728e?utm_campaign=1051&utm_source=git)** | South Hackensack, NJ | On Site | Jul 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jul 17 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Euless ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68788f44866a435525abab1b?utm_campaign=1051&utm_source=git)** | Euless, TX | On Site | Jul 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[BUSINESS DEVELOPMENT INTERN](https://jobright.ai/jobs/info/6875a835ae2f413e4a5a8cc9?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Jul 13 |
 | **[Braven](https://bebraven.org)** | **[Vice President, Employer Partnerships](https://jobright.ai/jobs/info/68746ed1299cbc74b874d6dc?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 13 |
 | **[CourseCareers](http://coursecareers.com)** | **[Future Entrepreneur Internship](https://jobright.ai/jobs/info/6873f65e4001e95011b1b74c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 13 |
-| ↳ | **[Entrepreneur Apprenticeship](https://jobright.ai/jobs/info/6873f5c701889204ff8f5d02?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 13 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681e97b4170e24f29079e3e5?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
