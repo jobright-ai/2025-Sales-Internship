@@ -63,9 +63,11 @@ For a complete list, click the following sortable link below:
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/67d79f870d5ce63945b0bbeb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/680acca2561cc88594999c98?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jul 19 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68435420ae8045e96485b4eb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 19 |
+| ↳ | **[Sales Agent Program](https://jobright.ai/jobs/info/67ed8e1cf2f92ab74b3ca088?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
 | **[OneTrust](https://www.onetrust.com/)** | **[Intern, Partner Sales Strategy and Operations](https://jobright.ai/jobs/info/687b31202097a271a8982ab3?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Kent State University](https://jobright.ai/jobs/info/68648a7584153b63ff401ed5?utm_campaign=1051&utm_source=git)** | Kent, OH | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/68648a7584153b63ff401f01?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 18 |
+| ↳ | **[Semester Sales Internship - Central Michigan University](https://jobright.ai/jobs/info/68648a7584153b63ff401ee9?utm_campaign=1051&utm_source=git)** | Mount Pleasant, MI | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - Weber State University](https://jobright.ai/jobs/info/68648a7584153b63ff401ef9?utm_campaign=1051&utm_source=git)** | Ogden, UT | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - Texas A&M](https://jobright.ai/jobs/info/68648a7584153b63ff401efa?utm_campaign=1051&utm_source=git)** | College Station, TX | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/68648a7584153b63ff401eff?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 18 |
@@ -75,17 +77,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/68712fd8a5ae807a59cfe535?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/68648a7584153b63ff401f29?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - Bloomsburg](https://jobright.ai/jobs/info/68648a7584153b63ff401f06?utm_campaign=1051&utm_source=git)** | Bloomsburg, PA | Hybrid | Jul 18 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5ddd?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Commercial (Sales & Marketing)](https://jobright.ai/jobs/info/687b93dbed63844c944a956a?utm_campaign=1051&utm_source=git)** | Kohler, WI | Hybrid | Jul 18 |
 | **[Woodard & Curran](https://www.woodardcurran.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/687ae26fed63844c944a5cde?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[CRM/VIC Intern (Fall 2025)](https://jobright.ai/jobs/info/687a996b2097a271a89800bc?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jul 18 |
 | **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a8f39ed63844c944a3d62?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0345?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d97329c?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Jul 18 |
-| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a11ed63844c944a28f4?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
+| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a86ed63844c944a2965?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712113?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Jul 18 |
 | **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/6841f61d9295de317941c624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/6808fd55e7bf74d5d5d0a643?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Jul 18 |
-| **[Jackson](https://www.jackson.com)** | **[Strategic Support Associate, FSCDP](https://jobright.ai/jobs/info/687a4c21764c3d7411c2c5e6?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Jul 18 |
+| **[Jackson](https://www.jackson.com)** | **[Strategic Support Associate, FSCDP](https://jobright.ai/jobs/info/687a4d5bed63844c944a256c?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Jul 18 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67cb3af53f3ca9aa53679693?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100b4?utm_campaign=1051&utm_source=git)** | Mount Pleasant, SC | On Site | Jul 18 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68408bd00ebba00ae9df294f?utm_campaign=1051&utm_source=git)** | Fort Dodge, IA | On Site | Jul 18 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682430006b567d6bd4b6f168?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Jul 16 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Fall 2025 - Honolulu)](https://jobright.ai/jobs/info/6851cf38fe2edaf8853c0af3?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Jul 16 |
 | **[PEAK6 InsurTech](https://peak6.com/peak6-insurtech/)** | **[Trading Internship for Women+](https://jobright.ai/jobs/info/68781765866a435525ab6a32?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jul 16 |
-| **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Sales & Business Development Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca245a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jul 16 |
-| **[Green Bay Packers](http://www.packers.com/)** | **[Retail Business Operations Intern](https://jobright.ai/jobs/info/6878010d5cebcd1dd51d6eca?utm_campaign=1051&utm_source=git)** | 2230 S Ashland Ave, Green Bay, WI 54304, USA | On Site | Jul 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- Union City](https://jobright.ai/jobs/info/685ac7491451c57921b2e47a?utm_campaign=1051&utm_source=git)** | Union City, GA | On Site | Jul 16 |
-| ↳ | **[Sales Management Trainee Internship -Rockford, IL - Fall 2025](https://jobright.ai/jobs/info/685ac39ea9e0d152e7eecd01?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Jul 16 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship -Decatur, IL - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e430?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
