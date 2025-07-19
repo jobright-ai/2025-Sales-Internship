@@ -73,9 +73,11 @@ For a complete list, click the following sortable link below:
 | **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a8f39ed63844c944a3d62?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 18 |
 | ↳ | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a11ed63844c944a28f4?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
 | **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/6841f61d9295de317941c624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/6808fd55e7bf74d5d5d0a643?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Jul 18 |
 | **[Jackson](https://www.jackson.com)** | **[Strategic Support Associate, FSCDP](https://jobright.ai/jobs/info/687a4d5bed63844c944a256c?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Jul 18 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67cb3af53f3ca9aa53679693?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Jul 18 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68408bd00ebba00ae9df294f?utm_campaign=1051&utm_source=git)** | Fort Dodge, IA | On Site | Jul 18 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100b4?utm_campaign=1051&utm_source=git)** | Mount Pleasant, SC | On Site | Jul 18 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68408bd00ebba00ae9df294f?utm_campaign=1051&utm_source=git)** | Fort Dodge, IA | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841d4ef84dc13dd0e3e5410?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Jul 18 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67eb282c40c16c66b73e60c6?utm_campaign=1051&utm_source=git)** | Danville, VA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100dc?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Jul 18 |
@@ -85,8 +87,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100a1?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100b1?utm_campaign=1051&utm_source=git)** | Saginaw, MI | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100e0?utm_campaign=1051&utm_source=git)** | Rapid City, SD | On Site | Jul 18 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410ab1?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Jul 18 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d6463?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jul 18 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842e315613815dc8868ddd7?utm_campaign=1051&utm_source=git)** | Orem, UT | On Site | Jul 18 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dfd?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Jul 18 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842e315613815dc8868ddd7?utm_campaign=1051&utm_source=git)** | Orem, UT | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d8a1a?utm_campaign=1051&utm_source=git)** | Stillwater, OK | On Site | Jul 18 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Strategic Alliances Internship (Remote, Tampa Bay Area)](https://jobright.ai/jobs/info/6841fd2b8f181a1956599aad?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682410cc63699334f78a1b26?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Jul 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6877a3d55cebcd1dd51d3f82?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- Snellville](https://jobright.ai/jobs/info/685ac7491451c57921b2e456?utm_campaign=1051&utm_source=git)** | Snellville, GA | On Site | Jul 16 |
 | **[Everlaw](http://everlaw.com)** | **[Sales Development Representative (Inbound)](https://jobright.ai/jobs/info/6823a1782b1ddf8309ec813c?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Jul 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/685ac7491451c57921b2e44d?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Jul 16 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Lithia Springs](https://jobright.ai/jobs/info/685bd711f1561ce635caa93f?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Jul 16 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Dallas/Hiram](https://jobright.ai/jobs/info/685ac7491451c57921b2e464?utm_campaign=1051&utm_source=git)** | Hiram, GA | On Site | Jul 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68403d5d22d00c42ac9d6209?utm_campaign=1051&utm_source=git)** | Barboursville, WV | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
