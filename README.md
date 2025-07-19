@@ -58,7 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Weave](http://www.getweave.com)** | **[Channel Sales Development Representative - Contractor](https://jobright.ai/jobs/info/685f07d4362a6cfcb760fbe6?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | Jul 19 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d973291?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Jul 19 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/67d79f870d5ce63945b0bbeb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 19 |
+| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/680acca2561cc88594999c98?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jul 19 |
+| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68435420ae8045e96485b4eb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 19 |
 | **[OneTrust](https://www.onetrust.com/)** | **[Intern, Partner Sales Strategy and Operations](https://jobright.ai/jobs/info/687b31202097a271a8982ab3?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Kent State University](https://jobright.ai/jobs/info/68648a7584153b63ff401ed5?utm_campaign=1051&utm_source=git)** | Kent, OH | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/68648a7584153b63ff401f01?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 18 |
@@ -83,9 +86,11 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100b4?utm_campaign=1051&utm_source=git)** | Mount Pleasant, SC | On Site | Jul 18 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68408bd00ebba00ae9df294f?utm_campaign=1051&utm_source=git)** | Fort Dodge, IA | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dc0?utm_campaign=1051&utm_source=git)** | Boardman, OH | On Site | Jul 18 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd771212b?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841d4ef84dc13dd0e3e5410?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Jul 18 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67eb282c40c16c66b73e60c6?utm_campaign=1051&utm_source=git)** | Danville, VA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100dc?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Jul 18 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0340?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6825328e612788ecd34895c9?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Jul 18 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2025 Assistant Buyer Intern - Los Angeles](https://jobright.ai/jobs/info/67ebf3e4506332380e6bf7fd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684304b249fc9fc0fa2617cd?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Jul 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e90?utm_campaign=1051&utm_source=git)** | Bowling Green, KY | On Site | Jul 16 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Sales Intern, Sony Pictures Classics – Fall 2025](https://jobright.ai/jobs/info/6877e1f5866a435525ab4d2d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA SALES INTERNSHIP FALL '25 - WDBJ](https://jobright.ai/jobs/info/6877e0dc5cebcd1dd51d5c15?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Jul 16 |
-| **[Apex Physical Therapy](https://apexptflorida.com)** | **[Trading Internship for Women+](https://jobright.ai/jobs/info/6877de32ae2f413e4a5bdc9c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- Athens](https://jobright.ai/jobs/info/685ac7491451c57921b2e446?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Jul 16 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Kennesaw](https://jobright.ai/jobs/info/685bd711f1561ce635caa8fb?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Jul 16 |
-| ↳ | **[Sales Management Trainee Internship - Davenport, IA - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e44a?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Jul 16 |
-| ↳ | **[Sales Management Trainee Intern-Fall- Buckhead Piedmont](https://jobright.ai/jobs/info/685ac7491451c57921b2e493?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
