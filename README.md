@@ -71,13 +71,14 @@ For a complete list, click the following sortable link below:
 | **[Woodard & Curran](https://www.woodardcurran.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/687ae26fed63844c944a5cde?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[CRM/VIC Intern (Fall 2025)](https://jobright.ai/jobs/info/687a996b2097a271a89800bc?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jul 18 |
 | **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a8f39ed63844c944a3d62?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 18 |
-| ↳ | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a11ed63844c944a28f4?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
+| ↳ | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a86ed63844c944a2965?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
 | **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/6841f61d9295de317941c624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/6808fd55e7bf74d5d5d0a643?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Jul 18 |
 | **[Jackson](https://www.jackson.com)** | **[Strategic Support Associate, FSCDP](https://jobright.ai/jobs/info/687a4d5bed63844c944a256c?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Jul 18 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67cb3af53f3ca9aa53679693?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100b4?utm_campaign=1051&utm_source=git)** | Mount Pleasant, SC | On Site | Jul 18 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68408bd00ebba00ae9df294f?utm_campaign=1051&utm_source=git)** | Fort Dodge, IA | On Site | Jul 18 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dc0?utm_campaign=1051&utm_source=git)** | Boardman, OH | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841d4ef84dc13dd0e3e5410?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Jul 18 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67eb282c40c16c66b73e60c6?utm_campaign=1051&utm_source=git)** | Danville, VA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100dc?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Jul 18 |
@@ -121,7 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[Showroom - Intern](https://jobright.ai/jobs/info/685cad0abee1ebee8277aec7?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- Morrow](https://jobright.ai/jobs/info/685ac7491451c57921b2e429?utm_campaign=1051&utm_source=git)** | Stockbridge, GA | On Site | Jul 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jul 17 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb660?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Jul 17 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e5f?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Jul 17 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb660?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Jul 17 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Euless ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68788f44866a435525abab1b?utm_campaign=1051&utm_source=git)** | Euless, TX | On Site | Jul 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/685b396f107fa675ffe7504f?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- Lawrenceville](https://jobright.ai/jobs/info/685ac7491451c57921b2e46f?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Jul 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Internship - Dekalb, IL - Fall 2025](https://jobright.ai/jobs/info/685bd711f1561ce635caa8f8?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Jul 16 |
 | ↳ | **[Sales Management Trainee Internship - Omaha, NE - Fall 2025](https://jobright.ai/jobs/info/685bd711f1561ce635caa8f2?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Jul 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6877a3d55cebcd1dd51d3f82?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jul 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- Snellville](https://jobright.ai/jobs/info/685ac7491451c57921b2e456?utm_campaign=1051&utm_source=git)** | Snellville, GA | On Site | Jul 16 |
-| **[Everlaw](http://everlaw.com)** | **[Sales Development Representative (Inbound)](https://jobright.ai/jobs/info/6823a1782b1ddf8309ec813c?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
