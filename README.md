@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jul 19 |
 | **[Weave](http://www.getweave.com)** | **[Channel Sales Development Representative - Contractor](https://jobright.ai/jobs/info/685f07d4362a6cfcb760fbe6?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | Jul 19 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6843354ac765a3b6f7e5cdf3?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Jul 19 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Consumer Lending Internship Program - Early Careers](https://jobright.ai/jobs/info/685213ffb601b8126382fdde?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jul 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d973291?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Jul 19 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/67d79f870d5ce63945b0bbeb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 19 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100bf?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Jul 19 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68435420ae8045e96485b4eb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 19 |
 | ↳ | **[Sales Agent Program](https://jobright.ai/jobs/info/67ed8e1cf2f92ab74b3ca088?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
-| **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Agricultural College Student Intern](https://jobright.ai/jobs/info/687c7e252097a271a898a35a?utm_campaign=1051&utm_source=git)** | Cheyenne, WY | On Site | Jul 18 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/684bacc3adf432912dfa1790?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Jul 18 |
+| **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[HS Intern- San Marcos HS](https://jobright.ai/jobs/info/687c9408764c3d7411c397d6?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778af5?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Jul 18 |
 | **[OneTrust](https://www.onetrust.com/)** | **[Intern, Partner Sales Strategy and Operations](https://jobright.ai/jobs/info/687b31202097a271a8982ab3?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/68648a7584153b63ff401ef8?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 18 |
@@ -91,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a8f39ed63844c944a3d62?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0345?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d97329c?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Jul 18 |
-| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a86ed63844c944a2965?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
+| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a11ed63844c944a28f4?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712113?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Jul 18 |
 | **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/6841f61d9295de317941c624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/6808fd55e7bf74d5d5d0a643?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Jul 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Euless ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68788f44866a435525abab1b?utm_campaign=1051&utm_source=git)** | Euless, TX | On Site | Jul 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/685b396f107fa675ffe7504f?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- Lawrenceville](https://jobright.ai/jobs/info/685ac7491451c57921b2e46f?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Jul 16 |
-| ↳ | **[Sales Management Trainee Internship -Mattoon, IL - Fall 2025](https://jobright.ai/jobs/info/685bd711f1561ce635caa8e0?utm_campaign=1051&utm_source=git)** | Mattoon, IL | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
