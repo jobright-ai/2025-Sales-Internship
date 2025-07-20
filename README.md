@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (CLE)](https://jobright.ai/jobs/info/650775081a2511901e370c47?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jul 20 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/680982694809b257be221780?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jul 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6843273f14df9ac023c4c060?utm_campaign=1051&utm_source=git)** | Vestavia Hills, AL | On Site | Jul 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778af7?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Jul 19 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Semester Sales Internship - Appalachian State University](https://jobright.ai/jobs/info/68649a551b884b43e8b959af?utm_campaign=1051&utm_source=git)** | Boone, NC | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - Bloomsburg](https://jobright.ai/jobs/info/68648a7584153b63ff401f06?utm_campaign=1051&utm_source=git)** | Bloomsburg, PA | Hybrid | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5ddd?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a561e?utm_campaign=1051&utm_source=git)** | San Bernardino, CA | On Site | Jul 18 |
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Commercial (Sales & Marketing)](https://jobright.ai/jobs/info/687b93dbed63844c944a956a?utm_campaign=1051&utm_source=git)** | Kohler, WI | Hybrid | Jul 18 |
 | **[Woodard & Curran](https://www.woodardcurran.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/687ae26fed63844c944a5cde?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[CRM/VIC Intern (Fall 2025)](https://jobright.ai/jobs/info/687a996b2097a271a89800bc?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jul 18 |
@@ -104,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67eb282c40c16c66b73e60c7?utm_campaign=1051&utm_source=git)** | Colonial Heights, VA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d97329c?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100e4?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jul 18 |
-| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a86ed63844c944a2965?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
+| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a11ed63844c944a28f4?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712113?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Jul 18 |
 | **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/6841f61d9295de317941c624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/6808fd55e7bf74d5d5d0a643?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Jul 18 |
@@ -147,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Owner Solutions Investment Banking (Louisville, KY Summer 2026)](https://jobright.ai/jobs/info/68795ee7a7fc8904e3962380?utm_campaign=1051&utm_source=git)** | KY-Louisville | On Site | Jul 17 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318eb?utm_campaign=1051&utm_source=git)** | Battle Creek, MI | On Site | Jul 17 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Part - Time - Retail Sales Internship - Charlotte](https://jobright.ai/jobs/info/685c95ea48d2b8f1f607c579?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jul 17 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/685bf04b33b8caf3eeb30d88?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jul 17 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - Home Loan Advisor - External](https://jobright.ai/jobs/info/68794fb2ed63844c9449a8c3?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Jul 17 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec31923?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Jul 17 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68795e41a7fc8904e39622d8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jul 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec3190c?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Jul 17 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[RLC Partner Outreach Intern](https://jobright.ai/jobs/info/687910552097a271a8974373?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jul 17 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318f6?utm_campaign=1051&utm_source=git)** | Riverton, UT | On Site | Jul 17 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d8a06?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jul 17 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0357?utm_campaign=1051&utm_source=git)** | Redding, CA | On Site | Jul 17 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern-Fall- College Park](https://jobright.ai/jobs/info/685ac39ea9e0d152e7eeccf0?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
