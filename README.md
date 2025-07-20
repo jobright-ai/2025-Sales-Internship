@@ -59,12 +59,15 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jul 19 |
 | **[Weave](http://www.getweave.com)** | **[Channel Sales Development Representative - Contractor](https://jobright.ai/jobs/info/685f07d4362a6cfcb760fbe6?utm_campaign=1051&utm_source=git)** | Lehi, UT | On Site | Jul 19 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Consumer Lending Internship Program - Early Careers](https://jobright.ai/jobs/info/685213ffb601b8126382fdde?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jul 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d973291?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Jul 19 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/67d79f870d5ce63945b0bbeb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100ca?utm_campaign=1051&utm_source=git)** | St Peters, MO | On Site | Jul 19 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/680acca2561cc88594999c98?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jul 19 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68435420ae8045e96485b4eb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 19 |
 | ↳ | **[Sales Agent Program](https://jobright.ai/jobs/info/67ed8e1cf2f92ab74b3ca088?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/684bacc3adf432912dfa1790?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Jul 18 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778af5?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Jul 18 |
 | **[OneTrust](https://www.onetrust.com/)** | **[Intern, Partner Sales Strategy and Operations](https://jobright.ai/jobs/info/687b31202097a271a8982ab3?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/68648a7584153b63ff401ef8?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - Kent State University](https://jobright.ai/jobs/info/68648a7584153b63ff401ed5?utm_campaign=1051&utm_source=git)** | Kent, OH | Hybrid | Jul 18 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682410cc63699334f78a1b26?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e60?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Jul 17 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Business Development, Energy (Fall 2025)](https://jobright.ai/jobs/info/6879be142097a271a8979d42?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Jul 17 |
+| **[ABB](https://global.abb/group/en)** | **[Sales Co-Op - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c380ad?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 17 |
 | **[Legends](http://legends.net)** | **[Merchandise Internship -2025 Ryder Cup](https://jobright.ai/jobs/info/6791953f8ec31303ec4987d3?utm_campaign=1051&utm_source=git)** | East Meadow, NY | On Site | Jul 17 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[E-commerce Photoshoot Intern](https://jobright.ai/jobs/info/68798f4aed63844c9449c82d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jul 17 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e75?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Internship -Mattoon, IL - Fall 2025](https://jobright.ai/jobs/info/685bd711f1561ce635caa8e0?utm_campaign=1051&utm_source=git)** | Mattoon, IL | On Site | Jul 16 |
 | ↳ | **[Sales Management Trainee Internship - Sioux City, IA - Fall 2025](https://jobright.ai/jobs/info/685bd711f1561ce635caa8e6?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Jul 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e86?utm_campaign=1051&utm_source=git)** | Ashland, KY | On Site | Jul 16 |
-| **[Cleveland Guardians](https://www.mlb.com/guardians)** | **[Distribution Center Retail Operations Internship](https://jobright.ai/jobs/info/68784db45cebcd1dd51d93f1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jul 16 |
-| **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 3](https://jobright.ai/jobs/info/6878472cae2f413e4a5c0f5a?utm_campaign=1051&utm_source=git)** | Kingsport Tennessee | Hybrid | Jul 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Peoria, IL - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e450?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jul 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682430006b567d6bd4b6f168?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
