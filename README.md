@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Marketplace Intern](https://jobright.ai/jobs/info/687e1eb6db19f31cf0d685ba?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jul 21 |
+| **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern - East Coast](https://jobright.ai/jobs/info/687e1c64764c3d7411c4176d?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jul 21 |
+| ↳ | **[Sales Intern - Webster, Texas](https://jobright.ai/jobs/info/687e1778db19f31cf0d681e3?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Jul 21 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (CLE)](https://jobright.ai/jobs/info/650775081a2511901e370c47?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jul 20 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/680982694809b257be221780?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jul 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6843273f14df9ac023c4c060?utm_campaign=1051&utm_source=git)** | Vestavia Hills, AL | On Site | Jul 20 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410aaa?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jul 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dee?utm_campaign=1051&utm_source=git)** | Mason City, IA | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100ac?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778af7?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Jul 19 |
@@ -79,6 +83,10 @@ For a complete list, click the following sortable link below:
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68435420ae8045e96485b4eb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 19 |
 | ↳ | **[Sales Agent Program](https://jobright.ai/jobs/info/67ed8e1cf2f92ab74b3ca088?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5dd5?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Jul 19 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d97329a?utm_campaign=1051&utm_source=git)** | Des Peres, MO | On Site | Jul 19 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5ddb?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Jul 19 |
+| ↳ | **[Sales and Management Intern (First and Main)](https://jobright.ai/jobs/info/682590326b29b1f84cb2d612?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Jul 19 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410aaf?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jul 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778aee?utm_campaign=1051&utm_source=git)** | Grand Island, NE | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712118?utm_campaign=1051&utm_source=git)** | St Clairsville, OH | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d89f0?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Jul 18 |
@@ -118,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67eb282c40c16c66b73e60c7?utm_campaign=1051&utm_source=git)** | Colonial Heights, VA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d97329c?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100e4?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jul 18 |
-| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a86ed63844c944a2965?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
+| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a11ed63844c944a28f4?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712113?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Jul 18 |
 | **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/6841f61d9295de317941c624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/6808fd55e7bf74d5d5d0a643?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Jul 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb645?utm_campaign=1051&utm_source=git)** | Wausau, WI | On Site | Jul 18 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Strategic Alliances Internship (Remote, Tampa Bay Area)](https://jobright.ai/jobs/info/6841fd2b8f181a1956599aad?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | Jul 18 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Showroom - Intern (Dallas, Texas, United States, 75234)](https://jobright.ai/jobs/info/685c8cafb0b4caa3dd121fc6?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5dd7?utm_campaign=1051&utm_source=git)** | Grapevine, TX | On Site | Jul 17 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682410cc63699334f78a1b26?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Jul 17 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb651?utm_campaign=1051&utm_source=git)** | Broomfield, CO | On Site | Jul 17 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e60?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Jul 17 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Global Business Development, Energy (Fall 2025)](https://jobright.ai/jobs/info/6879be142097a271a8979d42?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Jul 17 |
-| **[ABB](https://global.abb/group/en)** | **[Sales Co-Op - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c380ad?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 17 |
-| **[Legends](http://legends.net)** | **[Merchandise Internship -2025 Ryder Cup](https://jobright.ai/jobs/info/6791953f8ec31303ec4987d3?utm_campaign=1051&utm_source=git)** | East Meadow, NY | On Site | Jul 17 |
-| **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[E-commerce Photoshoot Intern](https://jobright.ai/jobs/info/68798f4aed63844c9449c82d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
