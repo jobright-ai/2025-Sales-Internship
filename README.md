@@ -81,7 +81,8 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100bf?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dd5?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jul 19 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68435420ae8045e96485b4eb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 19 |
-| ↳ | **[Sales Agent Program](https://jobright.ai/jobs/info/67ed8e1cf2f92ab74b3ca088?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0359?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Jul 19 |
+| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Sales Agent Program](https://jobright.ai/jobs/info/67ed8e1cf2f92ab74b3ca088?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5dd5?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d97329a?utm_campaign=1051&utm_source=git)** | Des Peres, MO | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5ddb?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Jul 19 |
@@ -126,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67eb282c40c16c66b73e60c7?utm_campaign=1051&utm_source=git)** | Colonial Heights, VA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d97329c?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100e4?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jul 18 |
-| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a11ed63844c944a28f4?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
+| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a86ed63844c944a2965?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712113?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Jul 18 |
 | **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/6841f61d9295de317941c624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/6808fd55e7bf74d5d5d0a643?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Jul 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d8a1a?utm_campaign=1051&utm_source=git)** | Stillwater, OK | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb645?utm_campaign=1051&utm_source=git)** | Wausau, WI | On Site | Jul 18 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Strategic Alliances Internship (Remote, Tampa Bay Area)](https://jobright.ai/jobs/info/6841fd2b8f181a1956599aad?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | Jul 18 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Showroom - Intern (Dallas, Texas, United States, 75234)](https://jobright.ai/jobs/info/685c8cafb0b4caa3dd121fc6?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
