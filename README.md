@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AMI PARIS](https://www.amiparis.com)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/687e528cdb19f31cf0d69790?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jul 21 |
 | **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Marketplace Intern](https://jobright.ai/jobs/info/687e1eb6db19f31cf0d685ba?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Jul 21 |
+| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Investment sales associate](https://jobright.ai/jobs/info/679921d368cd791dd6bf5af1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 21 |
 | **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern - East Coast](https://jobright.ai/jobs/info/687e1c64764c3d7411c4176d?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jul 21 |
 | ↳ | **[Sales Intern - Webster, Texas](https://jobright.ai/jobs/info/687e1778db19f31cf0d681e3?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Jul 21 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (CLE)](https://jobright.ai/jobs/info/650775081a2511901e370c47?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jul 20 |
@@ -128,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67eb282c40c16c66b73e60c7?utm_campaign=1051&utm_source=git)** | Colonial Heights, VA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d97329c?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100e4?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jul 18 |
-| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a11ed63844c944a28f4?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
+| **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a5a86ed63844c944a2965?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712113?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Jul 18 |
 | **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/6841f61d9295de317941c624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/6808fd55e7bf74d5d5d0a643?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Jul 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d6463?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Jul 18 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (LOU)](https://jobright.ai/jobs/info/666a2844e606c79653b24b09?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dfd?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Jul 18 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842e315613815dc8868ddd7?utm_campaign=1051&utm_source=git)** | Orem, UT | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
