@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merkle Science](https://www.merklescience.com)** | **[Sales Development Representative - Intern](https://jobright.ai/jobs/info/687ea3dadb19f31cf0d6bd8b?utm_campaign=1051&utm_source=git)** | New York | Remote | Jul 21 |
 | **[Genworth](https://www.genworth.com)** | **[CareScout Sales & Operations Intern – Summer 2026](https://jobright.ai/jobs/info/687e96d52097a271a89963ff?utm_campaign=1051&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Central Arkansas Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8a70764c3d7411c442af?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Jul 21 |
 | ↳ | **[Corporate Partnerships Internship (University of North Alabama Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8797764c3d7411c441b2?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jul 21 |
@@ -128,7 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Commercial (Sales & Marketing)](https://jobright.ai/jobs/info/687b93dbed63844c944a956a?utm_campaign=1051&utm_source=git)** | Kohler, WI | Hybrid | Jul 18 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[CRM/VIC Intern (Fall 2025)](https://jobright.ai/jobs/info/687a996b2097a271a89800bc?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jul 18 |
 | **[dentsu](https://www.dentsu.com)** | **[Intern - Business Development](https://jobright.ai/jobs/info/687a8f39ed63844c944a3d62?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Jul 18 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dec?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Jul 18 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68412b8119ea3c1d5adf69f0?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Jul 18 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dec?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a033c?utm_campaign=1051&utm_source=git)** | Maple Grove, MN | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0345?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Jul 18 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67eb282c40c16c66b73e60c7?utm_campaign=1051&utm_source=git)** | Colonial Heights, VA | On Site | Jul 18 |
@@ -138,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712113?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Jul 18 |
 | **[Citi](https://www.citi.com)** | **[Markets - Sales and Trading, Summer Analyst, New York City - US, 2026](https://jobright.ai/jobs/info/6841f61d9295de317941c624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/6808fd55e7bf74d5d5d0a643?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Jul 18 |
-| **[Jackson](https://www.jackson.com)** | **[Strategic Support Associate, FSCDP](https://jobright.ai/jobs/info/687a4c21764c3d7411c2c5e6?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Jul 18 |
+| **[Jackson](https://www.jackson.com)** | **[Strategic Support Associate, FSCDP](https://jobright.ai/jobs/info/687a4d5bed63844c944a256c?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68253c7360c3bcb6ba73e303?utm_campaign=1051&utm_source=git)** | Highland Village, TX | On Site | Jul 18 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67cb3af53f3ca9aa53679693?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b3641008d?utm_campaign=1051&utm_source=git)** | Mankato, MN | On Site | Jul 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684304b249fc9fc0fa2617cd?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682430006b567d6bd4b6f15f?utm_campaign=1051&utm_source=git)** | Vienna, WV | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100a1?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Jul 18 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern - Fall](https://jobright.ai/jobs/info/685db7909797476362457c0f?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Jul 18 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100b1?utm_campaign=1051&utm_source=git)** | Saginaw, MI | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
