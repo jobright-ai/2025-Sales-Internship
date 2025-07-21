@@ -148,6 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d8a1a?utm_campaign=1051&utm_source=git)** | Stillwater, OK | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb645?utm_campaign=1051&utm_source=git)** | Wausau, WI | On Site | Jul 18 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Strategic Alliances Internship (Remote, Tampa Bay Area)](https://jobright.ai/jobs/info/6841fd2b8f181a1956599aad?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Remote | Jul 18 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Showroom - Intern (Dallas, Texas, United States, 75234)](https://jobright.ai/jobs/info/685c8cafb0b4caa3dd121fc6?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5dd7?utm_campaign=1051&utm_source=git)** | Grapevine, TX | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682410cc63699334f78a1b26?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Jul 17 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb651?utm_campaign=1051&utm_source=git)** | Broomfield, CO | On Site | Jul 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Sales Co-Op - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c380ad?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 17 |
 | **[Legends](http://legends.net)** | **[Merchandise Internship -2025 Ryder Cup](https://jobright.ai/jobs/info/6791953f8ec31303ec4987d3?utm_campaign=1051&utm_source=git)** | East Meadow, NY | On Site | Jul 17 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[E-commerce Photoshoot Intern](https://jobright.ai/jobs/info/68798f4aed63844c9449c82d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Jul 17 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68242c051e79c24ec9830e75?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
