@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Sales - Intern](https://jobright.ai/jobs/info/687f6ee99f728042457034e7?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Jul 22 |
 | **[Awardco](https://www.award.co)** | **[Client Success Operations Intern](https://jobright.ai/jobs/info/687f65f0764c3d7411c4b3ef?utm_campaign=1051&utm_source=git)** | Lindon, UT | On Site | Jul 22 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f35bc9f728042457022d7?utm_campaign=1051&utm_source=git)** | University Center, MI | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f32a99f7280424570212e?utm_campaign=1051&utm_source=git)** | Davenport, IA | Hybrid | Jul 21 |
@@ -67,9 +68,9 @@ For a complete list, click the following sortable link below:
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f266c764c3d7411c49a12?utm_campaign=1051&utm_source=git)** | Smithfield, UT | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f45829f72804245702b5d?utm_campaign=1051&utm_source=git)** | Big Rapids, MI | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f41f2764c3d7411c4a933?utm_campaign=1051&utm_source=git)** | Monroe, LA | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f45ce9f72804245702b77?utm_campaign=1051&utm_source=git)** | Norman, OK | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f450a764c3d7411c4ab3a?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f47432097a271a899c586?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | Hybrid | Jul 21 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f450a764c3d7411c4ab3a?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Jul 21 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f45ce9f72804245702b77?utm_campaign=1051&utm_source=git)** | Norman, OK | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f3c9f764c3d7411c4a4fb?utm_campaign=1051&utm_source=git)** | Russellville, AR | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f3bc12097a271a899bd9d?utm_campaign=1051&utm_source=git)** | Montpelier, VT | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f451f764c3d7411c4ab46?utm_campaign=1051&utm_source=git)** | Richmond, KY | Hybrid | Jul 21 |
@@ -78,17 +79,32 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f3de09f7280424570261b?utm_campaign=1051&utm_source=git)** | Evansville, IN | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f3692764c3d7411c4a378?utm_campaign=1051&utm_source=git)** | Vineyard, UT | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687f33c12097a271a899bbd4?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Jul 21 |
+| **[Mighty Pet](http://www.petsareking.com)** | **[Part Time Youth Pet Retail Associate](https://jobright.ai/jobs/info/687f3b689f728042457024d7?utm_campaign=1051&utm_source=git)** | Menominee, MI | On Site | Jul 21 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f12c39f72804245700d7a?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Jul 21 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f0ede2097a271a899a41b?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Jul 21 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f0ba69f728042457009be?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Group Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f064e2097a271a8999bae?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
 | **[Team Trust Productions](http://teamtrustproductions.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f5be59f72804245703207?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Sales Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f01ec764c3d7411c481af?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Jul 21 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Specialist - Group Benefits (OH, KY, MI, PA, IN)](https://jobright.ai/jobs/info/687efc0adb19f31cf0d6e8ff?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 21 |
 | ↳ | **[Analyst, Institutional Asset Management (Remote/Flexible Location)](https://jobright.ai/jobs/info/687efb28db19f31cf0d6e8a5?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jul 21 |
-| ↳ | **[Internal Sales Specialist - Group Benefits (OH, KY, MI, PA, IN)](https://jobright.ai/jobs/info/687ef675764c3d7411c47943?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jul 21 |
-| ↳ | **[Internal Sales Specialist - Group Benefits (OH, KY, MI, PA, IN)](https://jobright.ai/jobs/info/687ef5b32097a271a89992ad?utm_campaign=1051&utm_source=git)** | Louisville, KY | Hybrid | Jul 21 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f27f7764c3d7411c49a98?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Jul 21 |
+| ↳ | **[Sales And Marketing Representative](https://jobright.ai/jobs/info/687f42aa764c3d7411c4a9c3?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 21 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f23cc2097a271a899b230?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f20999f72804245701553?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Jul 21 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f1a702097a271a899ac4c?utm_campaign=1051&utm_source=git)** | Orlando, FL | Remote | Jul 21 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f1c112097a271a899ad1c?utm_campaign=1051&utm_source=git)** | New Haven County, CT | Remote | Jul 21 |
+| ↳ | **[Sales And Marketing Representative](https://jobright.ai/jobs/info/687ef7052097a271a899939b?utm_campaign=1051&utm_source=git)** | Hartford County, CT | Remote | Jul 21 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Specialist - Group Benefits (OH, KY, MI, PA, IN)](https://jobright.ai/jobs/info/687ef675764c3d7411c47943?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Jul 21 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f14ab9f72804245700e4e?utm_campaign=1051&utm_source=git)** | Colorado, United States | Remote | Jul 21 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Specialist - Group Benefits (OH, KY, MI, PA, IN)](https://jobright.ai/jobs/info/687ef5b32097a271a89992ad?utm_campaign=1051&utm_source=git)** | Louisville, KY | Hybrid | Jul 21 |
 | ↳ | **[Analyst, Institutional Asset Management (Remote/Flexible Location)](https://jobright.ai/jobs/info/687ef5b2764c3d7411c478d2?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jul 21 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/687ef5ab764c3d7411c478ce?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jul 21 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Specialist - Group Benefits (OH, KY, MI, PA, IN)](https://jobright.ai/jobs/info/687ef4f3764c3d7411c4788a?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 21 |
-| ↳ | **[Analyst, Institutional Asset Management (Remote/Flexible Location)](https://jobright.ai/jobs/info/687ef2fb764c3d7411c477b2?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | Jul 21 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/687f15312097a271a899a698?utm_campaign=1051&utm_source=git)** | Dallas County, TX | Remote | Jul 21 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Analyst, Institutional Asset Management (Remote/Flexible Location)](https://jobright.ai/jobs/info/687ef2fb764c3d7411c477b2?utm_campaign=1051&utm_source=git)** | Seattle, WA | Remote | Jul 21 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Representative](https://jobright.ai/jobs/info/687f152c2097a271a899a695?utm_campaign=1051&utm_source=git)** | Palm Beach County, FL | Remote | Jul 21 |
+| ↳ | **[Sales And Marketing Representative](https://jobright.ai/jobs/info/687f0ed89f72804245700b46?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Jul 21 |
 | **[ChemPoint](http://www.chempoint.com)** | **[Sales and Marketing Student Intern](https://jobright.ai/jobs/info/687eed9ddb19f31cf0d6e364?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Jul 21 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Intern (Sales Support)](https://jobright.ai/jobs/info/687eecc02097a271a8998f70?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Jul 21 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Analyst, Institutional Asset Management (Remote/Flexible Location)](https://jobright.ai/jobs/info/687eec55db19f31cf0d6e2c2?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Jul 21 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687edb41db19f31cf0d6d8be?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687eda9fdb19f31cf0d6d87f?utm_campaign=1051&utm_source=git)** | Naperville, IL | Hybrid | Jul 21 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687eda64db19f31cf0d6d869?utm_campaign=1051&utm_source=git)** | Rochester, NY | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687eda52db19f31cf0d6d85e?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687eda4bdb19f31cf0d6d85c?utm_campaign=1051&utm_source=git)** | Murray, KY | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687ed9fedb19f31cf0d6d838?utm_campaign=1051&utm_source=git)** | Northridge, CA | Hybrid | Jul 21 |
-| **[CareScout](https://www.carescout.com)** | **[CareScout Sales & Operations Intern – Summer 2026](https://jobright.ai/jobs/info/687f0c7c764c3d7411c48709?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Jul 21 |
-| **[Secure AIs](www.secureais.com)** | **[Business Development and Sales Executive](https://jobright.ai/jobs/info/687f0b91764c3d7411c4869e?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 21 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/687ed5082097a271a89982e2?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Jul 21 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/687ed305764c3d7411c467c5?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO | On Site | Jul 21 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern (The Greene)](https://jobright.ai/jobs/info/687ed011db19f31cf0d6d466?utm_campaign=1051&utm_source=git)** | Beavercreek, OH | On Site | Jul 21 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687efbe9db19f31cf0d6e8f1?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687eed70764c3d7411c4755f?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687efba9764c3d7411c47b99?utm_campaign=1051&utm_source=git)** | Charleston, SC | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687efa62764c3d7411c47b1a?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687eee90764c3d7411c475e3?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687eff43db19f31cf0d6eb1b?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687ef717764c3d7411c479ca?utm_campaign=1051&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Jul 21 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/687ef9d22097a271a89994fe?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
