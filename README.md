@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tencent](https://www.tencent.com/en-us)** | **[Procurement Intern](https://jobright.ai/jobs/info/687ecbe8db19f31cf0d6d20a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 21 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Group Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec79edb19f31cf0d6d0c8?utm_campaign=1051&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 21 |
+| **[TeamLogic IT](https://www.teamlogicit.com/)** | **[Intern – Entry Level Technician and Sales Assistant](https://jobright.ai/jobs/info/687ec36bdb19f31cf0d6ce9b?utm_campaign=1051&utm_source=git)** | Commerce, CA | On Site | Jul 21 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Sales Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec20adb19f31cf0d6ce05?utm_campaign=1051&utm_source=git)** | Arlington, VA 22203 | Hybrid | Jul 21 |
+| **[HealthPlanOne](https://hpone.com/)** | **[Revenue Operations Associate](https://jobright.ai/jobs/info/687eb782db19f31cf0d6c900?utm_campaign=1051&utm_source=git)** | Shelton, CT | Hybrid | Jul 21 |
 | **[Merkle Science](https://www.merklescience.com)** | **[Sales Development Representative - Intern](https://jobright.ai/jobs/info/687ea3dadb19f31cf0d6bd8b?utm_campaign=1051&utm_source=git)** | New York | Remote | Jul 21 |
-| **[Genworth](https://www.genworth.com)** | **[CareScout Sales & Operations Intern – Summer 2026](https://jobright.ai/jobs/info/687e96d52097a271a89963ff?utm_campaign=1051&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
+| **[Genworth](https://www.genworth.com)** | **[CareScout Sales & Operations Intern – Summer 2026](https://jobright.ai/jobs/info/687e95ef764c3d7411c449d0?utm_campaign=1051&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Central Arkansas Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8a70764c3d7411c442af?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Jul 21 |
 | ↳ | **[Corporate Partnerships Internship (University of North Alabama Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8797764c3d7411c441b2?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jul 21 |
 | ↳ | **[Corporate Partnerships Internship (Missouri Western State Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e945c2097a271a899630a?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Jul 21 |
@@ -67,6 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Investment sales associate](https://jobright.ai/jobs/info/679921d368cd791dd6bf5af1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 21 |
 | **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern - East Coast](https://jobright.ai/jobs/info/687e1c64764c3d7411c4176d?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jul 21 |
 | ↳ | **[Sales Intern - Webster, Texas](https://jobright.ai/jobs/info/687e1778db19f31cf0d681e3?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Jul 21 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6825dd2d18133db4a789f56b?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Jul 20 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (FTL)](https://jobright.ai/jobs/info/6679770c22283fc0c73370b4?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6843354ac765a3b6f7e5cdf1?utm_campaign=1051&utm_source=git)** | Coralville, IA | On Site | Jul 20 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (CLE)](https://jobright.ai/jobs/info/650775081a2511901e370c47?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jul 20 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/680982694809b257be221780?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jul 20 |
@@ -74,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410aaa?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jul 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dee?utm_campaign=1051&utm_source=git)** | Mason City, IA | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100ac?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Jul 19 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Consumer, Small & Business Banking Internship - Early Careers](https://jobright.ai/jobs/info/685b6cfc04faef4317498488?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jul 19 |
 | **[Legends](http://legends.net)** | **[Ohio State Athletics- Retail Internship](https://jobright.ai/jobs/info/684200627c40b03d2fa06747?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778af7?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Jul 19 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jul 19 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dc0?utm_campaign=1051&utm_source=git)** | Boardman, OH | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd771212b?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841d4ef84dc13dd0e3e5410?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Jul 18 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67eb282c40c16c66b73e60c6?utm_campaign=1051&utm_source=git)** | Danville, VA | On Site | Jul 18 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100dc?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Jul 18 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0340?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Jul 18 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6825328e612788ecd34895c9?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Jul 18 |
-| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2025 Assistant Buyer Intern - Los Angeles](https://jobright.ai/jobs/info/67ebf3e4506332380e6bf7fd?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 18 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684304b249fc9fc0fa2617cd?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Jul 18 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682430006b567d6bd4b6f15f?utm_campaign=1051&utm_source=git)** | Vienna, WV | On Site | Jul 18 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100a1?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
