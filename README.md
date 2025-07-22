@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Distribution Intern](https://jobright.ai/jobs/info/687f485b764c3d7411c4acba?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Group Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f064e2097a271a8999bae?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
 | ↳ | **[Internship: Sales Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f01ec764c3d7411c481af?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Jul 21 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Specialist - Group Benefits (OH, KY, MI, PA, IN)](https://jobright.ai/jobs/info/687efc0adb19f31cf0d6e8ff?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 21 |
@@ -88,12 +89,12 @@ For a complete list, click the following sortable link below:
 | **[TeamLogic IT](https://www.teamlogicit.com/)** | **[Intern – Entry Level Technician and Sales Assistant](https://jobright.ai/jobs/info/687ec36bdb19f31cf0d6ce9b?utm_campaign=1051&utm_source=git)** | Commerce, CA | On Site | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Sales Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec20adb19f31cf0d6ce05?utm_campaign=1051&utm_source=git)** | Arlington, VA 22203 | Hybrid | Jul 21 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Procurement Intern](https://jobright.ai/jobs/info/687f0b3e9f7280424570098b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 21 |
-| **[HealthPlanOne](https://hpone.com/)** | **[Revenue Operations Associate](https://jobright.ai/jobs/info/687eb782db19f31cf0d6c900?utm_campaign=1051&utm_source=git)** | Shelton, CT | Hybrid | Jul 21 |
 | **[Merkle Science](https://www.merklescience.com)** | **[Sales Development Representative - Intern](https://jobright.ai/jobs/info/687ea3dadb19f31cf0d6bd8b?utm_campaign=1051&utm_source=git)** | New York | Remote | Jul 21 |
-| **[Genworth](https://www.genworth.com)** | **[CareScout Sales & Operations Intern – Summer 2026](https://jobright.ai/jobs/info/687e95ef764c3d7411c449d0?utm_campaign=1051&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
+| **[Genworth](https://www.genworth.com)** | **[CareScout Sales & Operations Intern – Summer 2026](https://jobright.ai/jobs/info/687e96d52097a271a89963ff?utm_campaign=1051&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Central Arkansas Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8a70764c3d7411c442af?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Jul 21 |
 | ↳ | **[Corporate Partnerships Internship (University of North Alabama Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8797764c3d7411c441b2?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jul 21 |
-| ↳ | **[Corporate Partnerships Internship (Missouri Western State Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e945c2097a271a899630a?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Jul 21 |
+| **[HealthPlanOne](https://hpone.com/)** | **[Revenue Operations Associate](https://jobright.ai/jobs/info/687eb782db19f31cf0d6c900?utm_campaign=1051&utm_source=git)** | Shelton, CT | Hybrid | Jul 21 |
+| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (Missouri Western State Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e945c2097a271a899630a?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Jul 21 |
 | ↳ | **[Corporate Partnerships Internship (Utah Tech Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e94012097a271a89962e5?utm_campaign=1051&utm_source=git)** | St George, UT | On Site | Jul 21 |
 | **[AMI PARIS](https://www.amiparis.com)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/687e528cdb19f31cf0d69790?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jul 21 |
 | **[Robert Morris University](http://www.rmu.edu)** | **[BUSINESS DEVELOPMENT REPRESENTATIVE](https://jobright.ai/jobs/info/687f1e9f2097a271a899ae7d?utm_campaign=1051&utm_source=git)** | Moon, PA | On Site | Jul 21 |
@@ -109,6 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/680982694809b257be221780?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jul 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6843273f14df9ac023c4c060?utm_campaign=1051&utm_source=git)** | Vestavia Hills, AL | On Site | Jul 20 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410aaa?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jul 20 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100cc?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Jul 20 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100b5?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Jul 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dee?utm_campaign=1051&utm_source=git)** | Mason City, IA | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100ac?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100e3?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Jul 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/68648a7584153b63ff401ef8?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 18 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Manager Intern](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d645b?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | Hybrid | Jul 18 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Sales Enablement Internship (Remote - Austin, TX or Tampa Bay Area, FL)](https://jobright.ai/jobs/info/6841fd2b8f181a1956599ba9?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Jul 18 |
-| **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Kent State University](https://jobright.ai/jobs/info/68648a7584153b63ff401ed5?utm_campaign=1051&utm_source=git)** | Kent, OH | Hybrid | Jul 18 |
-| ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/68648a7584153b63ff401f01?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 18 |
-| ↳ | **[Semester Sales Internship - Central Michigan University](https://jobright.ai/jobs/info/68648a7584153b63ff401ee9?utm_campaign=1051&utm_source=git)** | Mount Pleasant, MI | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
