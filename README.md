@@ -128,7 +128,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d973291?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682590326b29b1f84cb2d645?utm_campaign=1051&utm_source=git)** | Joliet, IL | On Site | Jul 19 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/67d79f870d5ce63945b0bbeb?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 19 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100ca?utm_campaign=1051&utm_source=git)** | St Peters, MO | On Site | Jul 19 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410ac6?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Jul 19 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100ca?utm_campaign=1051&utm_source=git)** | St Peters, MO | On Site | Jul 19 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/680acca2561cc88594999c98?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Jul 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100bf?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68427c7930c5c9beea507dd5?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OneTrust](https://www.onetrust.com/)** | **[Intern, Partner Sales Strategy and Operations](https://jobright.ai/jobs/info/687b31202097a271a8982ab3?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0358?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jul 18 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/68648a7584153b63ff401ef8?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 18 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Account Manager Intern](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d645b?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
