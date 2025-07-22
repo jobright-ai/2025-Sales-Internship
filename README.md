@@ -80,15 +80,17 @@ For a complete list, click the following sortable link below:
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Specialist - Group Benefits (OH, KY, MI, PA, IN)](https://jobright.ai/jobs/info/687efe8a2097a271a899979a?utm_campaign=1051&utm_source=git)** | Wayne, PA | Hybrid | Jul 21 |
 | ↳ | **[Internal Sales Specialist - Group Benefits (OH, KY, MI, PA, IN)](https://jobright.ai/jobs/info/687eff01db19f31cf0d6eb02?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | Hybrid | Jul 21 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/687edcb9764c3d7411c46c54?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Jul 21 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/687ed5082097a271a89982e2?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Jul 21 |
+| **[CareScout](https://www.carescout.com)** | **[CareScout Sales & Operations Intern – Summer 2026](https://jobright.ai/jobs/info/687f0c7c764c3d7411c48709?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Jul 21 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/687ed5082097a271a89982e2?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Jul 21 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/687ed305764c3d7411c467c5?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO | On Site | Jul 21 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern (The Greene)](https://jobright.ai/jobs/info/687ed011db19f31cf0d6d466?utm_campaign=1051&utm_source=git)** | Beavercreek, OH | On Site | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Group Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec79edb19f31cf0d6d0c8?utm_campaign=1051&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 21 |
 | **[TeamLogic IT](https://www.teamlogicit.com/)** | **[Intern – Entry Level Technician and Sales Assistant](https://jobright.ai/jobs/info/687ec36bdb19f31cf0d6ce9b?utm_campaign=1051&utm_source=git)** | Commerce, CA | On Site | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Sales Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec20adb19f31cf0d6ce05?utm_campaign=1051&utm_source=git)** | Arlington, VA 22203 | Hybrid | Jul 21 |
+| **[Tencent](https://www.tencent.com/en-us)** | **[Procurement Intern](https://jobright.ai/jobs/info/687f0b3e9f7280424570098b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 21 |
 | **[HealthPlanOne](https://hpone.com/)** | **[Revenue Operations Associate](https://jobright.ai/jobs/info/687eb782db19f31cf0d6c900?utm_campaign=1051&utm_source=git)** | Shelton, CT | Hybrid | Jul 21 |
 | **[Merkle Science](https://www.merklescience.com)** | **[Sales Development Representative - Intern](https://jobright.ai/jobs/info/687ea3dadb19f31cf0d6bd8b?utm_campaign=1051&utm_source=git)** | New York | Remote | Jul 21 |
-| **[Genworth](https://www.genworth.com)** | **[CareScout Sales & Operations Intern – Summer 2026](https://jobright.ai/jobs/info/687e96d52097a271a89963ff?utm_campaign=1051&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
+| **[Genworth](https://www.genworth.com)** | **[CareScout Sales & Operations Intern – Summer 2026](https://jobright.ai/jobs/info/687e95ef764c3d7411c449d0?utm_campaign=1051&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Central Arkansas Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8a70764c3d7411c442af?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Jul 21 |
 | ↳ | **[Corporate Partnerships Internship (University of North Alabama Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8797764c3d7411c441b2?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jul 21 |
 | ↳ | **[Corporate Partnerships Internship (Missouri Western State Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e945c2097a271a899630a?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Jul 21 |
@@ -135,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778aee?utm_campaign=1051&utm_source=git)** | Grand Island, NE | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712118?utm_campaign=1051&utm_source=git)** | St Clairsville, OH | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d89f0?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Jul 18 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5de9?utm_campaign=1051&utm_source=git)** | Salina, KS | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684136048682eefc8bb5831e?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jul 18 |
 | **[Legends](http://legends.net)** | **[Retail Operations Internship: Events Department](https://jobright.ai/jobs/info/67fffd1780255206e4879b7a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 18 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/684bacc3adf432912dfa1790?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Jul 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Semester Sales Internship - Weber State University](https://jobright.ai/jobs/info/68648a7584153b63ff401ef9?utm_campaign=1051&utm_source=git)** | Ogden, UT | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - Texas A&M](https://jobright.ai/jobs/info/68648a7584153b63ff401efa?utm_campaign=1051&utm_source=git)** | College Station, TX | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/68648a7584153b63ff401eff?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 18 |
-| ↳ | **[Semester Sales Internship - University of South Carolina](https://jobright.ai/jobs/info/68648a7584153b63ff401ec4?utm_campaign=1051&utm_source=git)** | Columbia, SC | Hybrid | Jul 18 |
-| ↳ | **[Semester Sales Internship - University of Georgia](https://jobright.ai/jobs/info/68649a551b884b43e8b95995?utm_campaign=1051&utm_source=git)** | Athens, GA | Hybrid | Jul 18 |
-| ↳ | **[Semester Sales Internship - James Madison University](https://jobright.ai/jobs/info/68712fd8a5ae807a59cfe535?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
