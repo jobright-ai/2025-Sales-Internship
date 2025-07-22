@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Awardco](https://www.award.co)** | **[Client Success Operations Intern](https://jobright.ai/jobs/info/687f65f0764c3d7411c4b3ef?utm_campaign=1051&utm_source=git)** | Lindon, UT | On Site | Jul 22 |
+| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[New York Showroom Intern](https://jobright.ai/jobs/info/687f541a2097a271a899c9c6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Distribution Intern](https://jobright.ai/jobs/info/687f485b764c3d7411c4acba?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Group Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f064e2097a271a8999bae?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
 | ↳ | **[Internship: Sales Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f01ec764c3d7411c481af?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Jul 21 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Sales Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec20adb19f31cf0d6ce05?utm_campaign=1051&utm_source=git)** | Arlington, VA 22203 | Hybrid | Jul 21 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Procurement Intern](https://jobright.ai/jobs/info/687f0b3e9f7280424570098b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 21 |
 | **[Merkle Science](https://www.merklescience.com)** | **[Sales Development Representative - Intern](https://jobright.ai/jobs/info/687ea3dadb19f31cf0d6bd8b?utm_campaign=1051&utm_source=git)** | New York | Remote | Jul 21 |
+| **[PacificWest](https://www.pacificwestinc.com)** | **[Sales Intern (Construction Industry)](https://jobright.ai/jobs/info/687e9c6c764c3d7411c44d55?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Genworth](https://www.genworth.com)** | **[CareScout Sales & Operations Intern – Summer 2026](https://jobright.ai/jobs/info/687e95ef764c3d7411c449d0?utm_campaign=1051&utm_source=git)** | Richmond, Virginia | Hybrid | Jul 21 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Central Arkansas Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8a70764c3d7411c442af?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Jul 21 |
 | ↳ | **[Corporate Partnerships Internship (University of North Alabama Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e8797764c3d7411c441b2?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Jul 21 |
@@ -143,7 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410aaf?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jul 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778aee?utm_campaign=1051&utm_source=git)** | Grand Island, NE | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5ddc?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jul 18 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712118?utm_campaign=1051&utm_source=git)** | St Clairsville, OH | On Site | Jul 18 |
+| **[4youlux](4youlux.com)** | **[Travel Account Manager - intern](https://jobright.ai/jobs/info/687b945e764c3d7411c33e33?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jul 18 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712118?utm_campaign=1051&utm_source=git)** | St Clairsville, OH | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d89f0?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5de9?utm_campaign=1051&utm_source=git)** | Salina, KS | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684136048682eefc8bb5831e?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jul 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842dd8a42ebdf659d97329e?utm_campaign=1051&utm_source=git)** | Norfolk, NE | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778af5?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Jul 18 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Intern, Pharmacy Benefits Specialist](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64bd?utm_campaign=1051&utm_source=git)** | Chesterfield, MO | On Site | Jul 18 |
-| **[OneTrust](https://www.onetrust.com/)** | **[Intern, Partner Sales Strategy and Operations](https://jobright.ai/jobs/info/687b31202097a271a8982ab3?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0358?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Jul 18 |
-| **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/68648a7584153b63ff401ef8?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
