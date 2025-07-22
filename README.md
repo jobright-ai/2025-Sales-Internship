@@ -96,9 +96,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Partnerships Internship (Missouri Western State Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e945c2097a271a899630a?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Jul 21 |
 | ↳ | **[Corporate Partnerships Internship (Utah Tech Athletics) - Fall 2025](https://jobright.ai/jobs/info/687e94012097a271a89962e5?utm_campaign=1051&utm_source=git)** | St George, UT | On Site | Jul 21 |
 | **[AMI PARIS](https://www.amiparis.com)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/687e528cdb19f31cf0d69790?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Jul 21 |
+| **[Robert Morris University](http://www.rmu.edu)** | **[BUSINESS DEVELOPMENT REPRESENTATIVE](https://jobright.ai/jobs/info/687f1e9f2097a271a899ae7d?utm_campaign=1051&utm_source=git)** | Moon, PA | On Site | Jul 21 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Investment sales associate](https://jobright.ai/jobs/info/679921d368cd791dd6bf5af1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 21 |
 | **[World Fuel Services](https://aviation.wfscorp.com/)** | **[Sales Intern - East Coast](https://jobright.ai/jobs/info/687e1c64764c3d7411c4176d?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jul 21 |
 | ↳ | **[Sales Intern - Webster, Texas](https://jobright.ai/jobs/info/687e1778db19f31cf0d681e3?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Jul 21 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6843273f14df9ac023c4c026?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO | On Site | Jul 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Ecosystem Artist Partnership Intern (Artists Engagement and Monetization) - 2025 project Intern (BS/MS)](https://jobright.ai/jobs/info/680999456b70dbf589873df1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6825dd2d18133db4a789f56b?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Jul 20 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (FTL)](https://jobright.ai/jobs/info/6679770c22283fc0c73370b4?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 20 |
@@ -135,6 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern (First and Main)](https://jobright.ai/jobs/info/682590326b29b1f84cb2d612?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Jul 19 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410aaf?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jul 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842f65bbfeb10087a778aee?utm_campaign=1051&utm_source=git)** | Grand Island, NE | On Site | Jul 18 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5ddc?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/684281aea605a01cd7712118?utm_campaign=1051&utm_source=git)** | St Clairsville, OH | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841858f7218cba3233d89f0?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Jul 18 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6840d820504f8766752f5de9?utm_campaign=1051&utm_source=git)** | Salina, KS | On Site | Jul 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Kent State University](https://jobright.ai/jobs/info/68648a7584153b63ff401ed5?utm_campaign=1051&utm_source=git)** | Kent, OH | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - University of Cincinnati](https://jobright.ai/jobs/info/68648a7584153b63ff401f01?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 18 |
 | ↳ | **[Semester Sales Internship - Central Michigan University](https://jobright.ai/jobs/info/68648a7584153b63ff401ee9?utm_campaign=1051&utm_source=git)** | Mount Pleasant, MI | Hybrid | Jul 18 |
-| ↳ | **[Semester Sales Internship - Weber State University](https://jobright.ai/jobs/info/68648a7584153b63ff401ef9?utm_campaign=1051&utm_source=git)** | Ogden, UT | Hybrid | Jul 18 |
-| ↳ | **[Semester Sales Internship - Texas A&M](https://jobright.ai/jobs/info/68648a7584153b63ff401efa?utm_campaign=1051&utm_source=git)** | College Station, TX | Hybrid | Jul 18 |
-| ↳ | **[Semester Sales Internship - Clemson](https://jobright.ai/jobs/info/68648a7584153b63ff401eff?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
