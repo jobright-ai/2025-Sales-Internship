@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6881bcc21321092fa0060b50?utm_campaign=1051&utm_source=git)** | Huntington, WV | On Site | Jul 23 |
 | **[FashionUnited](http://www.fashionunited.com/)** | **[Maje Buying Intern, New York, NY](https://jobright.ai/jobs/info/6881977729ad6b2744ae3409?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Franchise Ticket Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6881968cf4f06100f3a28067?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Specialist (Group Benefits)](https://jobright.ai/jobs/info/68815fa316ea5743a37389c0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jul 23 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Development Intern](https://jobright.ai/jobs/info/6881440cf4f06100f3a258de?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68813d5d16ea5743a37376cd?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Jul 23 |
 | **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Agriculture Student Intern](https://jobright.ai/jobs/info/68815b77f4f06100f3a2667c?utm_campaign=1051&utm_source=git)** | Scottsbluff, NE | On Site | Jul 23 |
+| **[Apex Board & Ride Co.™](https://www.linkedin.com/company/103134576)** | **[Franchise Owner](https://jobright.ai/jobs/info/6881b50516ea5743a373ba08?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | On Site | Jul 23 |
 | **[Nand AI](https://www.nand.ai)** | **[Sales and Business Operations Intern](https://jobright.ai/jobs/info/68813a6b29ad6b2744ae06c3?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jul 23 |
 | **[D.C. United](http://dcunited.com)** | **[Internship: Corporate Partnership Intern](https://jobright.ai/jobs/info/68815a8cf4f06100f3a26600?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/688137ce16ea5743a373754d?utm_campaign=1051&utm_source=git)** | Rockland, MA | On Site | Jul 23 |
@@ -138,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688117ca16ea5743a3735f07?utm_campaign=1051&utm_source=git)** | Atascocita, TX | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688117c629ad6b2744adefbc?utm_campaign=1051&utm_source=git)** | Albany, GA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881175116ea5743a3735ea3?utm_campaign=1051&utm_source=git)** | Edmond, OK | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116e1f4f06100f3a23db3?utm_campaign=1051&utm_source=git)** | Brooklyn Park, MN | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116e1f4f06100f3a23db2?utm_campaign=1051&utm_source=git)** | Norwalk, CA | Hybrid | Jul 23 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116e1f4f06100f3a23db3?utm_campaign=1051&utm_source=git)** | Brooklyn Park, MN | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116be16ea5743a3735e28?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68811605f4f06100f3a23d0e?utm_campaign=1051&utm_source=git)** | Newton, MA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68811555f4f06100f3a23c71?utm_campaign=1051&utm_source=git)** | Homestead, FL | Hybrid | Jul 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881128cf4f06100f3a23a01?utm_campaign=1051&utm_source=git)** | Jacksonville, NC | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68811215f4f06100f3a2393f?utm_campaign=1051&utm_source=git)** | Lawrence, KS | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812d6116ea5743a3736c6c?utm_campaign=1051&utm_source=git)** | Georgetown, TX | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812f4716ea5743a3736d72?utm_campaign=1051&utm_source=git)** | Upland, CA | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812cde16ea5743a3736c1e?utm_campaign=1051&utm_source=git)** | Davis, CA | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
