@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall 2025 Development Internship at Reproductive Freedom for All](https://jobright.ai/jobs/info/688175ff29ad6b2744ae254e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
+| **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Maje Buying Intern, New York, NY](https://jobright.ai/jobs/info/6881709516ea5743a37391ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
+| **[Geniuses DM](http://geniusesdm.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68816531f4f06100f3a26a65?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jul 23 |
+| **[ABRAMS](http://www.abramsbooks.com)** | **[Sales Intern Fall 2025](https://jobright.ai/jobs/info/6881608f16ea5743a3738a2c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Specialist (Group Benefits)](https://jobright.ai/jobs/info/68815fa316ea5743a37389c0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jul 23 |
+| **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Showroom Intern](https://jobright.ai/jobs/info/688159aff4f06100f3a2652d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[CrossCountry Mortgage, LLC](http://CrossCountryMortgage.com)** | **[Mortgage Loan Apprentice](https://jobright.ai/jobs/info/6881583716ea5743a373867f?utm_campaign=1051&utm_source=git)** | Flower Mound, TX | On Site | Jul 23 |
 | **[Peter Millar](http://www.petermillar.com/)** | **[Special Markets Intern](https://jobright.ai/jobs/info/6881533229ad6b2744ae14b9?utm_campaign=1051&utm_source=git)** | Research Triangle Park, NC | Hybrid | Jul 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Department Fall Intern](https://jobright.ai/jobs/info/688151cb29ad6b2744ae12b3?utm_campaign=1051&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Jul 23 |
@@ -68,7 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Affiliate Partnership Marketing Intern, Fall 2025](https://jobright.ai/jobs/info/6881485016ea5743a3737ca5?utm_campaign=1051&utm_source=git)** | Remote - United States | Remote | Jul 23 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Development Intern](https://jobright.ai/jobs/info/6881440cf4f06100f3a258de?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68813d5d16ea5743a37376cd?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Jul 23 |
+| **[21st Century Equipment LLC](https://www.21stcenturyequipment.com/)** | **[Agriculture Student Intern](https://jobright.ai/jobs/info/68815b77f4f06100f3a2667c?utm_campaign=1051&utm_source=git)** | Scottsbluff, NE | On Site | Jul 23 |
 | **[Nand AI](https://www.nand.ai)** | **[Sales and Business Operations Intern](https://jobright.ai/jobs/info/68813a6b29ad6b2744ae06c3?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jul 23 |
+| **[D.C. United](http://dcunited.com)** | **[Internship: Corporate Partnership Intern](https://jobright.ai/jobs/info/68815a8cf4f06100f3a26600?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/688137ce16ea5743a373754d?utm_campaign=1051&utm_source=git)** | Rockland, MA | On Site | Jul 23 |
 | **[D.C. United](http://dcunited.com)** | **[Internship: Ticket Sales & Services](https://jobright.ai/jobs/info/6881589529ad6b2744ae1790?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Maje Buying Intern, New York, NY](https://jobright.ai/jobs/info/688132e929ad6b2744ae02e2?utm_campaign=1051&utm_source=git)** | New York, NY, United States | Hybrid | Jul 23 |
@@ -142,19 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812cde16ea5743a3736c1e?utm_campaign=1051&utm_source=git)** | Davis, CA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688129d816ea5743a3736ac5?utm_campaign=1051&utm_source=git)** | North Port, FL | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881295d16ea5743a3736a92?utm_campaign=1051&utm_source=git)** | Morgantown, WV | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881286b29ad6b2744adfb14?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688126daf4f06100f3a248a1?utm_campaign=1051&utm_source=git)** | Wenatchee, WA | Hybrid | Jul 23 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881286b29ad6b2744adfb14?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881271816ea5743a37369ac?utm_campaign=1051&utm_source=git)** | Owensboro, KY | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812bcd29ad6b2744adfcfa?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812eb516ea5743a3736d0d?utm_campaign=1051&utm_source=git)** | Cranston, RI | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812a05f4f06100f3a24a17?utm_campaign=1051&utm_source=git)** | Cicero, IL | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812bdc16ea5743a3736ba2?utm_campaign=1051&utm_source=git)** | Westland, MI | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881270d16ea5743a37369a6?utm_campaign=1051&utm_source=git)** | Goodyear, AZ | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812a8e29ad6b2744adfc49?utm_campaign=1051&utm_source=git)** | Quincy, MA | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881231af4f06100f3a246ca?utm_campaign=1051&utm_source=git)** | Norwalk, CT | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812a3929ad6b2744adfc1a?utm_campaign=1051&utm_source=git)** | St Augustine, FL | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812337f4f06100f3a246d7?utm_campaign=1051&utm_source=git)** | Avondale, AZ | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812c0116ea5743a3736bb4?utm_campaign=1051&utm_source=git)** | Longmont, CO | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881229a29ad6b2744adf87b?utm_campaign=1051&utm_source=git)** | Franklin, TN | Hybrid | Jul 23 |
-| **[Golden Goose](https://www.goldengoose.com)** | **[CRM Intern](https://jobright.ai/jobs/info/688104f916ea5743a373518c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
