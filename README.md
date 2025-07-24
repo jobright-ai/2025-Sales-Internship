@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Park Avenue Capital](http://mergersquare.com)** | **[Intern](https://jobright.ai/jobs/info/688215efe36ab438ac259dd2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68820c52b0824207391d0ec4?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jul 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Business Development & Incubation Intern (TikTok Shop - US Operation) - 2025 Project Intern (MBA)](https://jobright.ai/jobs/info/684a40528f8eca54df285373?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[MeaVana ](https://meavana.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6881f5d2ee15177ae97193b6?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jul 24 |
 | **[nibnab](https://nibnab.ai)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/6881f1381321092fa00630d2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6881bcc21321092fa0060b50?utm_campaign=1051&utm_source=git)** | Huntington, WV | On Site | Jul 23 |
@@ -142,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688117ca16ea5743a3735f07?utm_campaign=1051&utm_source=git)** | Atascocita, TX | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688117c629ad6b2744adefbc?utm_campaign=1051&utm_source=git)** | Albany, GA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881175116ea5743a3735ea3?utm_campaign=1051&utm_source=git)** | Edmond, OK | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116e1f4f06100f3a23db3?utm_campaign=1051&utm_source=git)** | Brooklyn Park, MN | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116e1f4f06100f3a23db2?utm_campaign=1051&utm_source=git)** | Norwalk, CA | Hybrid | Jul 23 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116e1f4f06100f3a23db3?utm_campaign=1051&utm_source=git)** | Brooklyn Park, MN | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116be16ea5743a3735e28?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68811605f4f06100f3a23d0e?utm_campaign=1051&utm_source=git)** | Newton, MA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68811555f4f06100f3a23c71?utm_campaign=1051&utm_source=git)** | Homestead, FL | Hybrid | Jul 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vivrelle](https://www.vivrelle.com/)** | **[Showroom Internship (Fall)](https://jobright.ai/jobs/info/688114d429ad6b2744aded7e?utm_campaign=1051&utm_source=git)** | New York | On Site | Jul 23 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/688114aff4f06100f3a23bec?utm_campaign=1051&utm_source=git)** | Highlands Ranch, CO | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68811465f4f06100f3a23bb0?utm_campaign=1051&utm_source=git)** | Mountain View, CA | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688113acf4f06100f3a23b21?utm_campaign=1051&utm_source=git)** | Sandy, UT | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68811366f4f06100f3a23ae3?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881128cf4f06100f3a23a01?utm_campaign=1051&utm_source=git)** | Jacksonville, NC | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
