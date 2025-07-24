@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Specialist (Group Benefits)](https://jobright.ai/jobs/info/68815fa316ea5743a37389c0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jul 23 |
+| **[LISNR](http://www.lisnr.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6881858ff4f06100f3a279ef?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 23 |
+| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Fall Internship 2025 - Wholesale](https://jobright.ai/jobs/info/6881850529ad6b2744ae2d0a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 23 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68817ad229ad6b2744ae2817?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Jul 23 |
+| **[Peter Millar](http://www.petermillar.com/)** | **[Special Markets Intern](https://jobright.ai/jobs/info/6881782816ea5743a3739559?utm_campaign=1051&utm_source=git)** | Triangle, NC | Hybrid | Jul 23 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall 2025 Development Internship at Reproductive Freedom for All](https://jobright.ai/jobs/info/688175ff29ad6b2744ae254e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Maje Buying Intern, New York, NY](https://jobright.ai/jobs/info/6881709516ea5743a37391ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Geniuses DM](http://geniusesdm.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68816531f4f06100f3a26a65?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Jul 23 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Sales Intern Fall 2025](https://jobright.ai/jobs/info/6881608f16ea5743a3738a2c?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Internal Sales Specialist (Group Benefits)](https://jobright.ai/jobs/info/68815fa316ea5743a37389c0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jul 23 |
 | **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Showroom Intern](https://jobright.ai/jobs/info/688159aff4f06100f3a2652d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[CrossCountry Mortgage, LLC](http://CrossCountryMortgage.com)** | **[Mortgage Loan Apprentice](https://jobright.ai/jobs/info/6881583716ea5743a373867f?utm_campaign=1051&utm_source=git)** | Flower Mound, TX | On Site | Jul 23 |
 | **[Peter Millar](http://www.petermillar.com/)** | **[Special Markets Intern](https://jobright.ai/jobs/info/6881533229ad6b2744ae14b9?utm_campaign=1051&utm_source=git)** | Research Triangle Park, NC | Hybrid | Jul 23 |
@@ -129,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688117ca16ea5743a3735f07?utm_campaign=1051&utm_source=git)** | Atascocita, TX | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688117c629ad6b2744adefbc?utm_campaign=1051&utm_source=git)** | Albany, GA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881175116ea5743a3735ea3?utm_campaign=1051&utm_source=git)** | Edmond, OK | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116e1f4f06100f3a23db3?utm_campaign=1051&utm_source=git)** | Brooklyn Park, MN | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116e1f4f06100f3a23db2?utm_campaign=1051&utm_source=git)** | Norwalk, CA | Hybrid | Jul 23 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116e1f4f06100f3a23db3?utm_campaign=1051&utm_source=git)** | Brooklyn Park, MN | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688116be16ea5743a3735e28?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68811605f4f06100f3a23d0e?utm_campaign=1051&utm_source=git)** | Newton, MA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68811555f4f06100f3a23c71?utm_campaign=1051&utm_source=git)** | Homestead, FL | Hybrid | Jul 23 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812cde16ea5743a3736c1e?utm_campaign=1051&utm_source=git)** | Davis, CA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688129d816ea5743a3736ac5?utm_campaign=1051&utm_source=git)** | North Port, FL | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881295d16ea5743a3736a92?utm_campaign=1051&utm_source=git)** | Morgantown, WV | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688126daf4f06100f3a248a1?utm_campaign=1051&utm_source=git)** | Wenatchee, WA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881286b29ad6b2744adfb14?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | Hybrid | Jul 23 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688126daf4f06100f3a248a1?utm_campaign=1051&utm_source=git)** | Wenatchee, WA | Hybrid | Jul 23 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6881271816ea5743a37369ac?utm_campaign=1051&utm_source=git)** | Owensboro, KY | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812bcd29ad6b2744adfcfa?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812eb516ea5743a3736d0d?utm_campaign=1051&utm_source=git)** | Cranston, RI | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812a05f4f06100f3a24a17?utm_campaign=1051&utm_source=git)** | Cicero, IL | Hybrid | Jul 23 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68812bdc16ea5743a3736ba2?utm_campaign=1051&utm_source=git)** | Westland, MI | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
