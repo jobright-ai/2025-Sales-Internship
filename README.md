@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Park Avenue Capital](http://mergersquare.com)** | **[Intern](https://jobright.ai/jobs/info/688215efe36ab438ac259dd2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Motive](http://gomotive.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68822a9fe36ab438ac25a630?utm_campaign=1051&utm_source=git)** | Nashville, TN | Remote | Jul 24 |
+| **[Kinleigh Folkard & Hayward](https://www.kfh.co.uk/)** | **[Trainee Sales Negotiator - Lee](https://jobright.ai/jobs/info/68822e576fcd973d15ad7368?utm_campaign=1051&utm_source=git)** | Lee, VA | On Site | Jul 24 |
 | **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68820c52b0824207391d0ec4?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Business Development & Incubation Intern (TikTok Shop - US Operation) - 2025 Project Intern (MBA)](https://jobright.ai/jobs/info/684a40528f8eca54df285373?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
-| **[MeaVana ](https://meavana.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6881f5d2ee15177ae97193b6?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jul 24 |
 | **[nibnab](https://nibnab.ai)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/6881f1381321092fa00630d2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6881bcc21321092fa0060b50?utm_campaign=1051&utm_source=git)** | Huntington, WV | On Site | Jul 23 |
 | **[FashionUnited](http://www.fashionunited.com/)** | **[Maje Buying Intern, New York, NY](https://jobright.ai/jobs/info/6881977729ad6b2744ae3409?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 23 |
