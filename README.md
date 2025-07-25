@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Financial Sales Internship at Northwestern Mutual – Cincinnati & Dayton, Ohio](https://jobright.ai/jobs/info/6882c14a835a903aa07f08e2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Corporate Partnerships Intern - Fall 2025](https://jobright.ai/jobs/info/6882b8a56fcd973d15adbf75?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
+| **[LBS - Lotus Business Solutions](https://hirelbs.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6882b8236fcd973d15adbf42?utm_campaign=1051&utm_source=git)** | Greater Boston | Remote | Jul 24 |
+| **[Gold Path Investment Group, LLC](https://www.goldpathinvestmentgroup.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6882b514835a903aa07f0358?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
+| **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Account Manager](https://jobright.ai/jobs/info/6882b19ab54cac0f1e7321bd?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jul 24 |
+| **[99 Yards](https://99yards.app)** | **[Account Sales Intern (Unpaid, 3-Month Internship)](https://jobright.ai/jobs/info/6882ac72b54cac0f1e731e5f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Noble House Media Group](https://www.noblehousemedia.com)** | **[Digital Marketing Sales Internship](https://jobright.ai/jobs/info/6882a9116fcd973d15adb5ef?utm_campaign=1051&utm_source=git)** | Darien, CT | On Site | Jul 24 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6311](https://jobright.ai/jobs/info/68829bc36fcd973d15adae15?utm_campaign=1051&utm_source=git)** | New London, CT | On Site | Jul 24 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Ticket Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6882973f6fcd973d15adab8e?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jul 24 |
@@ -142,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/688271a3b54cac0f1e72f91f?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jul 24 |
 | **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Inside Sales Representative (REMOTE)](https://jobright.ai/jobs/info/68671c9760cea6c41d2b32a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68827069835a903aa07ed8bc?utm_campaign=1051&utm_source=git)** | Brentwood, CA | Hybrid | Jul 24 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6882b3bd6fcd973d15adbcba?utm_campaign=1051&utm_source=git)** | Lima, OH | Hybrid | Jul 24 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68826fe26fcd973d15ad9240?utm_campaign=1051&utm_source=git)** | Bethesda, MD | Hybrid | Jul 24 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68826fc4b54cac0f1e72f816?utm_campaign=1051&utm_source=git)** | Dundalk, MD | Hybrid | Jul 24 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68826faf835a903aa07ed7ee?utm_campaign=1051&utm_source=git)** | Palatine, IL | Hybrid | Jul 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68826bde6fcd973d15ad8fd2?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 24 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Winter 2026 Internship - Business Development](https://jobright.ai/jobs/info/68826bdc835a903aa07ed62c?utm_campaign=1051&utm_source=git)** | Kent, Washington, United States | On Site | Jul 24 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68826b86835a903aa07ed614?utm_campaign=1051&utm_source=git)** | Watsonville, CA | Hybrid | Jul 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68826a12b54cac0f1e72f59e?utm_campaign=1051&utm_source=git)** | Mount Vernon, WA | Hybrid | Jul 24 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Ticket Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68826949835a903aa07ed516?utm_campaign=1051&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 24 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6882691f835a903aa07ed505?utm_campaign=1051&utm_source=git)** | Spring, TX | Hybrid | Jul 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6882690bb54cac0f1e72f52b?utm_campaign=1051&utm_source=git)** | Dubuque, IA | Hybrid | Jul 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688267d2835a903aa07ed484?utm_campaign=1051&utm_source=git)** | Gary, IN | Hybrid | Jul 24 |
-| **[LISNR](http://www.lisnr.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68829542b54cac0f1e731124?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Remote | Jul 24 |
-| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Customer Acquisition Internship](https://jobright.ai/jobs/info/688266ce835a903aa07ed40f?utm_campaign=1051&utm_source=git)** | Sarasota, FL | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
