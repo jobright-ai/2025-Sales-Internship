@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gartner](http://www.gartner.com)** | **[North America Account Manager Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68830e86b54cac0f1e73534a?utm_campaign=1051&utm_source=git)** | Remote - Texas | Hybrid | Jul 24 |
+| **[Gartner](http://www.gartner.com)** | **[North America Account Manager Summer 2026 Sales Internship](https://jobright.ai/jobs/info/6883210a835a903aa07f3dcc?utm_campaign=1051&utm_source=git)** | Texas, United States | Hybrid | Jul 24 |
+| ↳ | **[North America Account Manager Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68831c79835a903aa07f3a9e?utm_campaign=1051&utm_source=git)** | Florida, United States | Hybrid | Jul 24 |
+| ↳ | **[North America Account Manager Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68830e86b54cac0f1e73534a?utm_campaign=1051&utm_source=git)** | Remote - Texas | Hybrid | Jul 24 |
 | ↳ | **[North America Account Manager Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68830e81835a903aa07f3282?utm_campaign=1051&utm_source=git)** | Remote - Florida | Hybrid | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Partnership Project Intern - (TikTok Shop - Global Selling) - 2025 Start (BS/MS))](https://jobright.ai/jobs/info/688309386fcd973d15ade8ba?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Digital Technology Co-op – US – Fall 2026](https://jobright.ai/jobs/info/6882e1cf6fcd973d15adcf3a?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6882720d835a903aa07ed951?utm_campaign=1051&utm_source=git)** | Victoria, TX | Hybrid | Jul 24 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/688271a3b54cac0f1e72f91f?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jul 24 |
 | **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Inside Sales Representative (REMOTE)](https://jobright.ai/jobs/info/68671c9760cea6c41d2b32a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68827069835a903aa07ed8bc?utm_campaign=1051&utm_source=git)** | Brentwood, CA | Hybrid | Jul 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6882b3bd6fcd973d15adbcba?utm_campaign=1051&utm_source=git)** | Lima, OH | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
