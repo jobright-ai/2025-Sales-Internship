@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gartner](http://www.gartner.com)** | **[North America Account Manager Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68830e86b54cac0f1e73534a?utm_campaign=1051&utm_source=git)** | Remote - Texas | Hybrid | Jul 24 |
+| ↳ | **[North America Account Manager Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68830e81835a903aa07f3282?utm_campaign=1051&utm_source=git)** | Remote - Florida | Hybrid | Jul 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Partnership Project Intern - (TikTok Shop - Global Selling) - 2025 Start (BS/MS))](https://jobright.ai/jobs/info/688309386fcd973d15ade8ba?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Digital Technology Co-op – US – Fall 2026](https://jobright.ai/jobs/info/6882e1cf6fcd973d15adcf3a?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jul 24 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Corporate Partnerships Intern - Fall 2025](https://jobright.ai/jobs/info/6882d0d0b54cac0f1e732e16?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[Marsh](https://www.marsh.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6882ce5a835a903aa07f0cea?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | Hybrid | Jul 24 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Financial Sales Internship at Northwestern Mutual – Cincinnati & Dayton, Ohio](https://jobright.ai/jobs/info/6882c14a835a903aa07f08e2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Corporate Partnerships Intern - Fall 2025](https://jobright.ai/jobs/info/6882b8a56fcd973d15adbf75?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[LBS - Lotus Business Solutions](https://hirelbs.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6882b8236fcd973d15adbf42?utm_campaign=1051&utm_source=git)** | Greater Boston | Remote | Jul 24 |
-| **[Gold Path Investment Group, LLC](https://www.goldpathinvestmentgroup.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6882b514835a903aa07f0358?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Account Manager](https://jobright.ai/jobs/info/6882b19ab54cac0f1e7321bd?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jul 24 |
 | **[99 Yards](https://99yards.app)** | **[Account Sales Intern (Unpaid, 3-Month Internship)](https://jobright.ai/jobs/info/6882ac72b54cac0f1e731e5f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Noble House Media Group](https://www.noblehousemedia.com)** | **[Digital Marketing Sales Internship](https://jobright.ai/jobs/info/6882a9116fcd973d15adb5ef?utm_campaign=1051&utm_source=git)** | Darien, CT | On Site | Jul 24 |
@@ -81,7 +83,9 @@ For a complete list, click the following sortable link below:
 | **[Caprae Capital Partners](https://www.founderlegacypartners.com/)** | **[Private Equity Intern](https://jobright.ai/jobs/info/68828a44b54cac0f1e730847?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Jul 24 |
 | **[Creating Sustainable Communities LLC](creatingsustainablecommunities.org)** | **[Startup Development Intern Fall 2025](https://jobright.ai/jobs/info/6882d5d86fcd973d15adcb0d?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68828913b54cac0f1e7305f1?utm_campaign=1051&utm_source=git)** | Bay City, MI | Hybrid | Jul 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688287e9b54cac0f1e7303a8?utm_campaign=1051&utm_source=git)** | Woodland, CA | Hybrid | Jul 24 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Financial Capabilities Intern (unpaid)](https://jobright.ai/jobs/info/6882f96c6fcd973d15addb83?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Jul 24 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/688287e9b54cac0f1e7303a8?utm_campaign=1051&utm_source=git)** | Woodland, CA | Hybrid | Jul 24 |
+| **[HotTakes](https://hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/6882ff95b54cac0f1e73461f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Sales Analyst Distribution Intern](https://jobright.ai/jobs/info/6882876fb54cac0f1e7302cc?utm_campaign=1051&utm_source=git)** | BUFFALO, NY CORPORATE | Hybrid | Jul 24 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6882875ab54cac0f1e7302b4?utm_campaign=1051&utm_source=git)** | Wellington, FL | Hybrid | Jul 24 |
 | **[Quantum Metric](https://quantummetric.com)** | **[Customer Success Strategy Intern - Fall 2025](https://jobright.ai/jobs/info/688287116fcd973d15ad9cf1?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Jul 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Inside Sales Representative (REMOTE)](https://jobright.ai/jobs/info/68671c9760cea6c41d2b32a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 24 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68827069835a903aa07ed8bc?utm_campaign=1051&utm_source=git)** | Brentwood, CA | Hybrid | Jul 24 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6882b3bd6fcd973d15adbcba?utm_campaign=1051&utm_source=git)** | Lima, OH | Hybrid | Jul 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68826fe26fcd973d15ad9240?utm_campaign=1051&utm_source=git)** | Bethesda, MD | Hybrid | Jul 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68826fc4b54cac0f1e72f816?utm_campaign=1051&utm_source=git)** | Dundalk, MD | Hybrid | Jul 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68826faf835a903aa07ed7ee?utm_campaign=1051&utm_source=git)** | Palatine, IL | Hybrid | Jul 24 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68826f91b54cac0f1e72f7d3?utm_campaign=1051&utm_source=git)** | Yorba Linda, CA | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
