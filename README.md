@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nightly](nightlycollege.com)** | **[Brand Partnership Intern](https://jobright.ai/jobs/info/68852fd2fbbf032d0006c321?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 26 |
+| **[H15DEN](https://h15den.com)** | **[User Acquisition Micro-Intern](https://jobright.ai/jobs/info/688519c14174df41e0f961a8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
 | **[SurgX Medical](https://www.linkedin.com/company/102994478)** | **[Sales Associate Intern - Spine & Bone Growth Therapies](https://jobright.ai/jobs/info/68851034fbbf032d0006be3c?utm_campaign=1051&utm_source=git)** | Denver Metropolitan Area | On Site | Jul 26 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[International TV Production Finance Intern – Miami – Fall 2025](https://jobright.ai/jobs/info/688508414174df41e0f95d3a?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Jul 26 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6885007eb651c92cb78aad9a?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Jul 26 |
@@ -145,9 +147,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68850c86fbbf032d0006bd35?utm_campaign=1051&utm_source=git)** | Salina, KS | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cf9fb54cac0f1e739bfc?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f330835a903aa07f931b?utm_campaign=1051&utm_source=git)** | Goose Creek, SC | Hybrid | Jul 25 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f510835a903aa07f950d?utm_campaign=1051&utm_source=git)** | Oro Valley, AZ | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f2b46fcd973d15ae4b2f?utm_campaign=1051&utm_source=git)** | Everett, MA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f038b54cac0f1e73b122?utm_campaign=1051&utm_source=git)** | Brea, CA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f510835a903aa07f950d?utm_campaign=1051&utm_source=git)** | Oro Valley, AZ | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f5a0835a903aa07f95aa?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f0f9b54cac0f1e73b1ba?utm_campaign=1051&utm_source=git)** | Portage, MI | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f31e6fcd973d15ae4bb3?utm_campaign=1051&utm_source=git)** | Olive Branch, MS | Hybrid | Jul 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cf786fcd973d15ae35dd?utm_campaign=1051&utm_source=git)** | Westchester, FL | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cf4a6fcd973d15ae35c7?utm_campaign=1051&utm_source=git)** | Cuyahoga Falls, OH | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cedcb54cac0f1e739b8c?utm_campaign=1051&utm_source=git)** | Cypress, CA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cecfb54cac0f1e739b89?utm_campaign=1051&utm_source=git)** | East Providence, RI | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cec6b54cac0f1e739b82?utm_campaign=1051&utm_source=git)** | Burien, WA | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
