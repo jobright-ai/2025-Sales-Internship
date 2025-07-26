@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68842f326fcd973d15ae61e3?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Jul 25 |
+| **[Bounce](https://usebounce.com/)** | **[Sales Internship (North America)](https://jobright.ai/jobs/info/68842a6e6fcd973d15ae6052?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/688413b16fcd973d15ae57d9?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Jul 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6884113d835a903aa07f9f44?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jul 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/688410e26fcd973d15ae56c2?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Jul 25 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Oak Tree Industries, LLC](https://www.oaktree-industries.com/)** | **[Private Equity Intern](https://jobright.ai/jobs/info/688409bf835a903aa07f9c2f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Internship / Technical Scholar Program / Clearwater, FL](https://jobright.ai/jobs/info/68828d62835a903aa07eebcd?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Jul 25 |
 | **[Sage AI](https://sageai.dev)** | **[Business Development Representative - Internship](https://jobright.ai/jobs/info/6883fd776fcd973d15ae50af?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Jul 25 |
-| **[SoftInWay Inc.](http://www.softinway.com/en/)** | **[Academic Business Development Trainee](https://jobright.ai/jobs/info/6883f9396fcd973d15ae4fb4?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/6883f628b54cac0f1e73b4bb?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Jul 25 |
 | **[355Life](http://www.355life.com/)** | **[Financial Intern (Nationwide/Transamerica/Pacific Life)](https://jobright.ai/jobs/info/6883f3046fcd973d15ae4b95?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jul 25 |
 | **[Linkby](https://linkby.com/)** | **[Partnerships & Growth Intern](https://jobright.ai/jobs/info/6883f2126fcd973d15ae4a94?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corrugated Business Associate (Sales) Chicago, IL](https://jobright.ai/jobs/info/6883edffb54cac0f1e73b06f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 25 |
 | ↳ | **[Corrugated Business Associate (Sales) Minneapolis, MN](https://jobright.ai/jobs/info/6883edd36fcd973d15ae4829?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jul 25 |
 | ↳ | **[Corrugated Business Associate (Sales) Grand Rapids, MI](https://jobright.ai/jobs/info/6883e465b54cac0f1e73aa92?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jul 25 |
+| **[SoftInWay Inc.](http://www.softinway.com/en/)** | **[Academic Business Development Trainee](https://jobright.ai/jobs/info/6883f9396fcd973d15ae4fb4?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6883e375835a903aa07f89ab?utm_campaign=1051&utm_source=git)** | Whitney, NV | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e349835a903aa07f8990?utm_campaign=1051&utm_source=git)** | Gallatin, TN | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e23b6fcd973d15ae41fd?utm_campaign=1051&utm_source=git)** | Hilo, HI | Hybrid | Jul 25 |
@@ -119,12 +121,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d06db54cac0f1e739c67?utm_campaign=1051&utm_source=git)** | Paramount, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cf9fb54cac0f1e739bfc?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f330835a903aa07f931b?utm_campaign=1051&utm_source=git)** | Goose Creek, SC | Hybrid | Jul 25 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f510835a903aa07f950d?utm_campaign=1051&utm_source=git)** | Oro Valley, AZ | Hybrid | Jul 25 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f5a0835a903aa07f95aa?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f2b46fcd973d15ae4b2f?utm_campaign=1051&utm_source=git)** | Everett, MA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f038b54cac0f1e73b122?utm_campaign=1051&utm_source=git)** | Brea, CA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f5a0835a903aa07f95aa?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f510835a903aa07f950d?utm_campaign=1051&utm_source=git)** | Oro Valley, AZ | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f31e6fcd973d15ae4bb3?utm_campaign=1051&utm_source=git)** | Olive Branch, MS | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f0f9b54cac0f1e73b1ba?utm_campaign=1051&utm_source=git)** | Portage, MI | Hybrid | Jul 25 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f31e6fcd973d15ae4bb3?utm_campaign=1051&utm_source=git)** | Olive Branch, MS | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f27c835a903aa07f9272?utm_campaign=1051&utm_source=git)** | Tuckahoe, VA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cf786fcd973d15ae35dd?utm_campaign=1051&utm_source=git)** | Westchester, FL | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cf4a6fcd973d15ae35c7?utm_campaign=1051&utm_source=git)** | Cuyahoga Falls, OH | Hybrid | Jul 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883c8a6b54cac0f1e739811?utm_campaign=1051&utm_source=git)** | Tinley Park, IL | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883c7fa835a903aa07f78f8?utm_campaign=1051&utm_source=git)** | Twin Falls, ID | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883c72b835a903aa07f78a4?utm_campaign=1051&utm_source=git)** | Rocky Mount, NC | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883c7286fcd973d15ae3137?utm_campaign=1051&utm_source=git)** | Wake Forest, NC | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883c6db6fcd973d15ae3119?utm_campaign=1051&utm_source=git)** | Wheaton, IL | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
