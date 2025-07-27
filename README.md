@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Ticket Sales & Service - Fall](https://jobright.ai/jobs/info/688560f0fbbf032d0006c650?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 26 |
+| **[Great River Learning](http://greatriverlearning.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6885563ab651c92cb78ab96c?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jul 26 |
 | **[HeyEVA](https://heyeva.ai)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68854bf7b651c92cb78ab8d1?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 26 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68853a29fbbf032d0006c3e4?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
 | **[GiosTech](https://giostech.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/688534c74174df41e0f965e1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[International TV Production Finance Intern – Miami – Fall 2025](https://jobright.ai/jobs/info/688508414174df41e0f95d3a?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Jul 26 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6885007eb651c92cb78aad9a?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Jul 26 |
 | **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Virtual Sales (Internship or Full Time) Position](https://jobright.ai/jobs/info/6876b823ae2f413e4a5b2d1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811f2fa5885cfb4c4843c41?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Jul 26 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Intern](https://jobright.ai/jobs/info/6884b5c1fbbf032d0006ae05?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6884ad8a4174df41e0f95050?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Jul 26 |
 | **[Exclusive Resorts](http://www.exclusiveresorts.com)** | **[Intern, Sales Research](https://jobright.ai/jobs/info/6884ad2cfbbf032d0006ad5a?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jul 26 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f330835a903aa07f931b?utm_campaign=1051&utm_source=git)** | Goose Creek, SC | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f510835a903aa07f950d?utm_campaign=1051&utm_source=git)** | Oro Valley, AZ | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f038b54cac0f1e73b122?utm_campaign=1051&utm_source=git)** | Brea, CA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f2b46fcd973d15ae4b2f?utm_campaign=1051&utm_source=git)** | Everett, MA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f5a0835a903aa07f95aa?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f0f9b54cac0f1e73b1ba?utm_campaign=1051&utm_source=git)** | Portage, MI | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f31e6fcd973d15ae4bb3?utm_campaign=1051&utm_source=git)** | Olive Branch, MS | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
