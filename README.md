@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #175](https://jobright.ai/jobs/info/6885f5b2b651c92cb78aea6f?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Jul 27 |
+| **[MeaVana ](https://meavana.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68860b45b651c92cb78aeb63?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jul 27 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #934](https://jobright.ai/jobs/info/6885fad6b651c92cb78aeab3?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA | On Site | Jul 27 |
+| ↳ | **[Retail Management Intern #175](https://jobright.ai/jobs/info/6885f5b2b651c92cb78aea6f?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Jul 27 |
 | **[H15DEN](https://h15den.com)** | **[User Acquisition Intern](https://jobright.ai/jobs/info/6885baffb651c92cb78adbda?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/6885b2a8b651c92cb78ad6e5?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Jul 26 |
 | **[H15DEN](https://h15den.com)** | **[User Acquisition Intern (2-Month Micro Internship)](https://jobright.ai/jobs/info/68857bb3b651c92cb78abd1e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jul 26 |
@@ -115,9 +117,9 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6883e0b5835a903aa07f8818?utm_campaign=1051&utm_source=git)** | Rowland Heights, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e053835a903aa07f87f2?utm_campaign=1051&utm_source=git)** | Minot, ND | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e018b54cac0f1e73a82e?utm_campaign=1051&utm_source=git)** | Euclid, OH | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e00fb54cac0f1e73a82b?utm_campaign=1051&utm_source=git)** | Attleboro, MA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dfd26fcd973d15ae40a8?utm_campaign=1051&utm_source=git)** | Glenview, IL | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883df5f835a903aa07f877d?utm_campaign=1051&utm_source=git)** | Murray, UT | Hybrid | Jul 25 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883def5b54cac0f1e73a796?utm_campaign=1051&utm_source=git)** | Attleboro, MA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883deb46fcd973d15ae4027?utm_campaign=1051&utm_source=git)** | Huntsville, TX | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dea6b54cac0f1e73a745?utm_campaign=1051&utm_source=git)** | Roseville, MI | Hybrid | Jul 25 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern - West Orange, NJ](https://jobright.ai/jobs/info/68850b114174df41e0f95e17?utm_campaign=1051&utm_source=git)** | West Orange, NJ | On Site | Jul 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68850c98fbbf032d0006bd3e?utm_campaign=1051&utm_source=git)** | San Luis Obispo, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688509f44174df41e0f95d74?utm_campaign=1051&utm_source=git)** | Ocoee, FL | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d06db54cac0f1e739c67?utm_campaign=1051&utm_source=git)** | Paramount, CA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68850c86fbbf032d0006bd35?utm_campaign=1051&utm_source=git)** | Salina, KS | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cf9fb54cac0f1e739bfc?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
