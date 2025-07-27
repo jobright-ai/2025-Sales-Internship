@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[User Acquisition Internship](https://jobright.ai/jobs/info/688585a34174df41e0f96d85?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
+| ↳ | **[User Acquisition Intern (2-Month Micro Internship)](https://jobright.ai/jobs/info/68857bb3b651c92cb78abd1e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jul 26 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Ticket Sales & Service - Fall](https://jobright.ai/jobs/info/688560f0fbbf032d0006c650?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 26 |
 | **[Great River Learning](http://greatriverlearning.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6885563ab651c92cb78ab96c?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jul 26 |
 | **[HeyEVA](https://heyeva.ai)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68854bf7b651c92cb78ab8d1?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 26 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68853a29fbbf032d0006c3e4?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
 | **[GiosTech](https://giostech.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/688534c74174df41e0f965e1?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Nightly](nightlycollege.com)** | **[Brand Partnership Intern](https://jobright.ai/jobs/info/68852fd2fbbf032d0006c321?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 26 |
-| **[H15DEN](https://h15den.com)** | **[User Acquisition Micro-Intern](https://jobright.ai/jobs/info/688519c14174df41e0f961a8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
 | **[SurgX Medical](https://www.linkedin.com/company/102994478)** | **[Sales Associate Intern - Spine & Bone Growth Therapies](https://jobright.ai/jobs/info/68851034fbbf032d0006be3c?utm_campaign=1051&utm_source=git)** | Denver Metropolitan Area | On Site | Jul 26 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[International TV Production Finance Intern – Miami – Fall 2025](https://jobright.ai/jobs/info/688508414174df41e0f95d3a?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Jul 26 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6885007eb651c92cb78aad9a?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Jul 26 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Bounce](https://usebounce.com/)** | **[Sales Internship (North America)](https://jobright.ai/jobs/info/68842a6e6fcd973d15ae6052?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern-Mandarin Speaking](https://jobright.ai/jobs/info/688446b44174df41e0f90c2b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1126](https://jobright.ai/jobs/info/6884467bb651c92cb78a5d9e?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Jul 25 |
-| ↳ | **[Retail Management Intern #871](https://jobright.ai/jobs/info/6884434dfbbf032d0006678c?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Jul 25 |
 | ↳ | **[Retail Management Intern #615](https://jobright.ai/jobs/info/688441b9b651c92cb78a5a08?utm_campaign=1051&utm_source=git)** | Mankato, MN | On Site | Jul 25 |
+| ↳ | **[Retail Management Intern #871](https://jobright.ai/jobs/info/6884434dfbbf032d0006678c?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Jul 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/688413b16fcd973d15ae57d9?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Jul 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6884113d835a903aa07f9f44?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jul 25 |
 | **[ARILEX Healthcare](https://www.linkedin.com/company/107998891)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6884473db651c92cb78a5e23?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cf9fb54cac0f1e739bfc?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f330835a903aa07f931b?utm_campaign=1051&utm_source=git)** | Goose Creek, SC | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f510835a903aa07f950d?utm_campaign=1051&utm_source=git)** | Oro Valley, AZ | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f038b54cac0f1e73b122?utm_campaign=1051&utm_source=git)** | Brea, CA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f5a0835a903aa07f95aa?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Jul 25 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f2b46fcd973d15ae4b2f?utm_campaign=1051&utm_source=git)** | Everett, MA | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
