@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6884113d835a903aa07f9f44?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jul 25 |
 | **[ARILEX Healthcare](https://www.linkedin.com/company/107998891)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6884473db651c92cb78a5e23?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/688410e26fcd973d15ae56c2?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Jul 25 |
-| **[Oak Tree Industries, LLC](https://www.oaktree-industries.com/)** | **[Private Equity Intern](https://jobright.ai/jobs/info/688409bf835a903aa07f9c2f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Internship / Technical Scholar Program / Clearwater, FL](https://jobright.ai/jobs/info/68828d62835a903aa07eebcd?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Jul 25 |
 | **[Sage AI](https://sageai.dev)** | **[Business Development Representative - Internship](https://jobright.ai/jobs/info/6883fd776fcd973d15ae50af?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Jul 25 |
 | **[COL Media](https://www.col-media.com)** | **[Fall 2025 Business Development Intern - COL Media (Unpaid)](https://jobright.ai/jobs/info/688621564174df41e0f99c3c?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Jul 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d2b9b54cac0f1e739db1?utm_campaign=1051&utm_source=git)** | Lincoln, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d2a1b54cac0f1e739da4?utm_campaign=1051&utm_source=git)** | Burleson, TX | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d215835a903aa07f7de7?utm_campaign=1051&utm_source=git)** | University, FL | Hybrid | Jul 25 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d19eb54cac0f1e739d16?utm_campaign=1051&utm_source=git)** | Covina, CA | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
