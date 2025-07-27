@@ -70,15 +70,19 @@ For a complete list, click the following sortable link below:
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6885007eb651c92cb78aad9a?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Jul 26 |
 | **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Virtual Sales (Internship or Full Time) Position](https://jobright.ai/jobs/info/6876b823ae2f413e4a5b2d1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811f2fa5885cfb4c4843c41?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Jul 26 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS) at New York Life Insurance Company](https://jobright.ai/jobs/info/688597ebfbbf032d0006d18d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Intern](https://jobright.ai/jobs/info/6884b5c1fbbf032d0006ae05?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Jul 26 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6884ad8a4174df41e0f95050?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Jul 26 |
 | **[Exclusive Resorts](http://www.exclusiveresorts.com)** | **[Intern, Sales Research](https://jobright.ai/jobs/info/6884ad2cfbbf032d0006ad5a?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Jul 26 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Chase Leadership Development Program - Summer Analyst Opportunity (OH, DE, TX)](https://jobright.ai/jobs/info/686817e435584b654219db66?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 26 |
+| ↳ | **[2026 Chase Leadership Development Program - Summer Analyst Opportunity (New York Metro)](https://jobright.ai/jobs/info/6868090c35584b6542be86e8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 26 |
 | **[Bestie Connect](https://bestieconnect.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6884904eb651c92cb78a9c9f?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Jul 26 |
 | **[Minnesota Children's Museum](http://www.mcm.org)** | **[Data & Membership Intern](https://jobright.ai/jobs/info/68847776b651c92cb78a8ba4?utm_campaign=1051&utm_source=git)** | Minnesota Children's Museum | On Site | Jul 25 |
 | **[Tombras](http://tombras.com)** | **[Account Service Intern](https://jobright.ai/jobs/info/688469ccfbbf032d00068e3b?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jul 25 |
+| **[Louisiana Cat](https://www.louisianacat.com/)** | **[Service Sales Intern](https://jobright.ai/jobs/info/6885a0fd4174df41e0f97777?utm_campaign=1051&utm_source=git)** | Harvey, LA | On Site | Jul 25 |
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[HS Intern- San Marcos HS](https://jobright.ai/jobs/info/688449fa4174df41e0f90e87?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Jul 25 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68842f326fcd973d15ae61e3?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Jul 25 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern (Ross Park Mall)](https://jobright.ai/jobs/info/682e2de4756ec84e83079fba?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jul 25 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68842f326fcd973d15ae61e3?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Jul 25 |
 | **[Bounce](https://usebounce.com/)** | **[Sales Internship (North America)](https://jobright.ai/jobs/info/68842a6e6fcd973d15ae6052?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern-Mandarin Speaking](https://jobright.ai/jobs/info/688446b44174df41e0f90c2b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1126](https://jobright.ai/jobs/info/6884467bb651c92cb78a5d9e?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Jul 25 |
@@ -107,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e22d6fcd973d15ae41f4?utm_campaign=1051&utm_source=git)** | Cedar Hill, TX | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e222835a903aa07f88fe?utm_campaign=1051&utm_source=git)** | Rancho Santa Margarita, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e18d6fcd973d15ae41a5?utm_campaign=1051&utm_source=git)** | La Mirada, CA | Hybrid | Jul 25 |
-| **[H15DEN](https://h15den.com)** | **[User Acquisition Intern (2-Month Micro Internship)](https://jobright.ai/jobs/info/6883e1466fcd973d15ae416f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jul 25 |
 | **[LA-Tech.org](http://la-tech.org)** | **[Partnerships Intern](https://jobright.ai/jobs/info/6883e0d86fcd973d15ae411f?utm_campaign=1051&utm_source=git)** | Los Angeles County, CA | Hybrid | Jul 25 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6883e0b5835a903aa07f8818?utm_campaign=1051&utm_source=git)** | Rowland Heights, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e053835a903aa07f87f2?utm_campaign=1051&utm_source=git)** | Minot, ND | Hybrid | Jul 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d06db54cac0f1e739c67?utm_campaign=1051&utm_source=git)** | Paramount, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68850c86fbbf032d0006bd35?utm_campaign=1051&utm_source=git)** | Salina, KS | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883cf9fb54cac0f1e739bfc?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f330835a903aa07f931b?utm_campaign=1051&utm_source=git)** | Goose Creek, SC | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f510835a903aa07f950d?utm_campaign=1051&utm_source=git)** | Oro Valley, AZ | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883f2b46fcd973d15ae4b2f?utm_campaign=1051&utm_source=git)** | Everett, MA | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
