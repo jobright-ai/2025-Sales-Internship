@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cool Water Air Conditioning](http://coolwaterac.com/)** | **[Fall, Spring and Summer Interrns - Sales, Marketing, Engineering, Finance, Construction Management](https://jobright.ai/jobs/info/688667e34174df41e0f9a24b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 27 |
+| **[H15DEN](https://h15den.com)** | **[User Acquisition - Intern](https://jobright.ai/jobs/info/68865e5d4174df41e0f9a1dd?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 27 |
 | **[MeaVana ](https://meavana.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68860b45b651c92cb78aeb63?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jul 27 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #934](https://jobright.ai/jobs/info/6885fad6b651c92cb78aeab3?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #175](https://jobright.ai/jobs/info/6885f5b2b651c92cb78aea6f?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Jul 27 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/6885b2a8b651c92cb78ad6e5?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Jul 26 |
-| **[H15DEN](https://h15den.com)** | **[User Acquisition Intern (2-Month Micro Internship)](https://jobright.ai/jobs/info/68857bb3b651c92cb78abd1e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Jul 26 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Ticket Sales & Service - Fall](https://jobright.ai/jobs/info/688560f0fbbf032d0006c650?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 26 |
 | **[Great River Learning](http://greatriverlearning.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6885563ab651c92cb78ab96c?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Jul 26 |
 | **[HeyEVA](https://heyeva.ai)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68854bf7b651c92cb78ab8d1?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d2b9b54cac0f1e739db1?utm_campaign=1051&utm_source=git)** | Lincoln, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d2a1b54cac0f1e739da4?utm_campaign=1051&utm_source=git)** | Burleson, TX | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d215835a903aa07f7de7?utm_campaign=1051&utm_source=git)** | University, FL | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883d19eb54cac0f1e739d16?utm_campaign=1051&utm_source=git)** | Covina, CA | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
