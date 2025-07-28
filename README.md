@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Sales GTM Internship](https://jobright.ai/jobs/info/6887934bfbbf032d00074e20?utm_campaign=1051&utm_source=git)** | Sarasota, FL | Remote | Jul 28 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68878d324174df41e0f9edd4?utm_campaign=1051&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Jul 28 |
 | **[SurgX Medical](https://www.linkedin.com/company/102994478)** | **[Medtech Sales Internship](https://jobright.ai/jobs/info/68877ab7fbbf032d000745fb?utm_campaign=1051&utm_source=git)** | Denver Metropolitan Area | On Site | Jul 28 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Commercial Manager](https://jobright.ai/jobs/info/68875d904174df41e0f9de83?utm_campaign=1051&utm_source=git)** | Washington, United States | On Site | Jul 28 |
 | **[W. L. Gore & Associates](http://www.gore.com)** | **[Working Student (f/m/d) Sales & Sales Operations Support GOREWEAR](https://jobright.ai/jobs/info/68875d3673e3e13cbd93d67b?utm_campaign=1051&utm_source=git)** | Newark, DE | On Site | Jul 28 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19da?utm_campaign=1051&utm_source=git)** | USA - Minneapolis | On Site | Jul 27 |
-| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b24b651c92cb78b19ca?utm_campaign=1051&utm_source=git)** | USA - Rogers | On Site | Jul 27 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19d9?utm_campaign=1051&utm_source=git)** | USA - Minneapolis | On Site | Jul 27 |
+| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19d7?utm_campaign=1051&utm_source=git)** | USA - Rogers | On Site | Jul 27 |
 | ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b0b4174df41e0f9c7d6?utm_campaign=1051&utm_source=git)** | USA - MN - Minneapolis | On Site | Jul 27 |
 | ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870aeffbbf032d000724d0?utm_campaign=1051&utm_source=git)** | USA - AR - Rogers | On Site | Jul 27 |
 | **[OpenQQuantify](https://www.openqquantify.com/)** | **[Sales Marketing Interns (Commission-Based at Startup Company)](https://jobright.ai/jobs/info/688708314174df41e0f9c5c4?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 27 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Cool Water Air Conditioning](http://coolwaterac.com/)** | **[Fall, Spring and Summer Interrns - Sales, Marketing, Engineering, Finance, Construction Management](https://jobright.ai/jobs/info/688667e34174df41e0f9a24b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 27 |
 | **[moomoo ](https://www.moomoo.com)** | **[Summer 2025 Event Sales Intern - Unpaid](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b1013?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Summer 2025 Event Sales Intern - Unpaid](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b1028?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jul 27 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/684fa3101b8947024caa2d5c?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 27 |
 | **[Aircall](https://aircall.io/)** | **[Sales Intern - San Francisco](https://jobright.ai/jobs/info/684c361bbd94b4e18ddd4afb?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jul 27 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #934](https://jobright.ai/jobs/info/6885fad6b651c92cb78aeab3?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #175](https://jobright.ai/jobs/info/6885f5b2b651c92cb78aea6f?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Jul 27 |
@@ -88,7 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Virtual Sales (Internship or Full Time) Position](https://jobright.ai/jobs/info/6876b823ae2f413e4a5b2d1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 26 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68864974b651c92cb78af231?utm_campaign=1051&utm_source=git)** | Florissant, MO | Hybrid | Jul 26 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688648134174df41e0f9a02a?utm_campaign=1051&utm_source=git)** | Levittown, NY | Hybrid | Jul 26 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688648fcfbbf032d0006fee3?utm_campaign=1051&utm_source=git)** | Levittown, PA | Hybrid | Jul 26 |
+| **[Mr. Rooter® Plumbing of Denver](https://www.mrrooter.com/denver)** | **[Sales Intern](https://jobright.ai/jobs/info/688776854174df41e0f9e565?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Jul 26 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/688648fcfbbf032d0006fee3?utm_campaign=1051&utm_source=git)** | Levittown, PA | Hybrid | Jul 26 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688649454174df41e0f9a0a1?utm_campaign=1051&utm_source=git)** | Columbus, IN | Hybrid | Jul 26 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688648104174df41e0f9a026?utm_campaign=1051&utm_source=git)** | Middletown, CT | Hybrid | Jul 26 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688649174174df41e0f9a086?utm_campaign=1051&utm_source=git)** | Roswell, NM | Hybrid | Jul 26 |
@@ -140,9 +144,9 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6883e0b5835a903aa07f8818?utm_campaign=1051&utm_source=git)** | Rowland Heights, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e053835a903aa07f87f2?utm_campaign=1051&utm_source=git)** | Minot, ND | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e018b54cac0f1e73a82e?utm_campaign=1051&utm_source=git)** | Euclid, OH | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e00fb54cac0f1e73a82b?utm_campaign=1051&utm_source=git)** | Attleboro, MA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dfd26fcd973d15ae40a8?utm_campaign=1051&utm_source=git)** | Glenview, IL | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883df5f835a903aa07f877d?utm_campaign=1051&utm_source=git)** | Murray, UT | Hybrid | Jul 25 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883def5b54cac0f1e73a796?utm_campaign=1051&utm_source=git)** | Attleboro, MA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883deb46fcd973d15ae4027?utm_campaign=1051&utm_source=git)** | Huntsville, TX | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dea6b54cac0f1e73a745?utm_campaign=1051&utm_source=git)** | Roseville, MI | Hybrid | Jul 25 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern - West Orange, NJ](https://jobright.ai/jobs/info/68850b114174df41e0f95e17?utm_campaign=1051&utm_source=git)** | West Orange, NJ | On Site | Jul 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dc83b54cac0f1e73a518?utm_campaign=1051&utm_source=git)** | Bedford, TX | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dbc4835a903aa07f8494?utm_campaign=1051&utm_source=git)** | Azusa, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dbb1835a903aa07f848c?utm_campaign=1051&utm_source=git)** | Leesburg, VA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883db7ab54cac0f1e73a487?utm_campaign=1051&utm_source=git)** | Eagle Mountain, UT | Hybrid | Jul 25 |
-| **[Omnia WorkSpace](omniaworkspace.com)** | **[Investor Relations Specialist Intern (Comission-Based)](https://jobright.ai/jobs/info/6884559db651c92cb78a6e52?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6883daccb54cac0f1e73a431?utm_campaign=1051&utm_source=git)** | Dublin, OH | Hybrid | Jul 25 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Partnerships, Creators](https://jobright.ai/jobs/info/68845145fbbf032d000677bd?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
