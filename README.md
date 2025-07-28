@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Breakpoint Booking](https://www.breakpointbooking.com/)** | **[REMOTE Entertainment Business Internship](https://jobright.ai/jobs/info/6887ec5cfbbf032d000777cb?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | Remote | Jul 28 |
+| **[Thryv](https://www.thryv.com/)** | **[GTM Innovation & Sales Enablement Intern](https://jobright.ai/jobs/info/6887e8f8fbbf032d00077694?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Integrity](https://www.integritymarketing.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6887dfb34174df41e0fa13ac?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jul 28 |
+| **[Ground Up International](https://www.groundupintl.com)** | **[Future Opportunities, Finance and Production Positions](https://jobright.ai/jobs/info/6887db764174df41e0fa1162?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 28 |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Gameday Ticketing Intern](https://jobright.ai/jobs/info/6887d442fbbf032d00076c3b?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jul 28 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/6887d2194174df41e0fa0d97?utm_campaign=1051&utm_source=git)** | Bay City, MI | On Site | Jul 28 |
 | **[Legends](http://legends.net)** | **[Intern, Partnerships (Notre Dame)](https://jobright.ai/jobs/info/6887d1eafbbf032d00076b42?utm_campaign=1051&utm_source=git)** | Notre Dame, IN | On Site | Jul 28 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Basketball Sales](https://jobright.ai/jobs/info/6887cb3b4174df41e0fa0aeb?utm_campaign=1051&utm_source=git)** | West Hollywood, California, United States | On Site | Jul 28 |
@@ -69,21 +74,23 @@ For a complete list, click the following sortable link below:
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Properties (NY)](https://jobright.ai/jobs/info/6887b2c073e3e13cbd93f5d4?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jul 28 |
 | ↳ | **[Fall 2025 Associate, Properties (LA)](https://jobright.ai/jobs/info/6887b01ffbbf032d00075ab1?utm_campaign=1051&utm_source=git)** | West Hollywood, California, United States | On Site | Jul 28 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/6887aaedfbbf032d000756da?utm_campaign=1051&utm_source=git)** | East Wilder Road - Bay City, MI | On Site | Jul 28 |
-| **[Plan B®](https://www.thisisplanb.com/)** | **[Account Coordinator Internship AD AGENCY](https://jobright.ai/jobs/info/6887aab373e3e13cbd93f016?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 28 |
 | **[W. L. Gore & Associates](http://www.gore.com)** | **[Working Student (f/m/d) Sales & Sales Operations Support GOREWEAR](https://jobright.ai/jobs/info/6887a926fbbf032d000755ce?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jul 28 |
 | **[HotTakes](https://hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/6887a4b04174df41e0f9f60d?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Freestyle Trampoline Association](http://www.freestyletrampolineassociation.com)** | **[Partnership Developer](https://jobright.ai/jobs/info/6887a0e1fbbf032d00075378?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
+| **[HealthPlanOne](https://hpone.com/)** | **[Revenue Operations Associate](https://jobright.ai/jobs/info/6887d57e73e3e13cbd94079a?utm_campaign=1051&utm_source=git)** | Shelton, CT | Hybrid | Jul 28 |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[Sales GTM Internship](https://jobright.ai/jobs/info/6887934bfbbf032d00074e20?utm_campaign=1051&utm_source=git)** | Sarasota, FL | Remote | Jul 28 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68878d324174df41e0f9edd4?utm_campaign=1051&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Jul 28 |
 | **[SurgX Medical](https://www.linkedin.com/company/102994478)** | **[Medical Device Sales Internship - Spine](https://jobright.ai/jobs/info/68877ab7fbbf032d000745fb?utm_campaign=1051&utm_source=git)** | Denver Metropolitan Area | On Site | Jul 28 |
 | **[W. L. Gore & Associates](http://www.gore.com)** | **[Working Student (f/m/d) Sales & Sales Operations Support GOREWEAR](https://jobright.ai/jobs/info/68878f48fbbf032d00074cbe?utm_campaign=1051&utm_source=git)** | Newark, DE | On Site | Jul 28 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Commercial Manager](https://jobright.ai/jobs/info/68875d904174df41e0f9de83?utm_campaign=1051&utm_source=git)** | Washington, United States | On Site | Jul 28 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19d9?utm_campaign=1051&utm_source=git)** | USA - Minneapolis | On Site | Jul 27 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19da?utm_campaign=1051&utm_source=git)** | USA - Minneapolis | On Site | Jul 27 |
 | ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19d7?utm_campaign=1051&utm_source=git)** | USA - Rogers | On Site | Jul 27 |
-| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b0b4174df41e0f9c7d6?utm_campaign=1051&utm_source=git)** | USA - MN - Minneapolis | On Site | Jul 27 |
-| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870af0fbbf032d000724db?utm_campaign=1051&utm_source=git)** | USA - AR - Rogers | On Site | Jul 27 |
+| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b114174df41e0f9c7f8?utm_campaign=1051&utm_source=git)** | USA - MN - Minneapolis | On Site | Jul 27 |
+| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870aeffbbf032d000724d0?utm_campaign=1051&utm_source=git)** | USA - AR - Rogers | On Site | Jul 27 |
 | **[OpenQQuantify](https://www.openqquantify.com/)** | **[Sales Marketing Interns (Commission-Based at Startup Company)](https://jobright.ai/jobs/info/688708314174df41e0f9c5c4?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 27 |
 | **[NJ Consulting Firm](https://www.njconsultingfirm.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/6886e2d7fbbf032d00070a46?utm_campaign=1051&utm_source=git)** | Sandy Springs, GA | On Site | Jul 27 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern - Mandarin Speaking](https://jobright.ai/jobs/info/6887de2e73e3e13cbd940af2?utm_campaign=1051&utm_source=git)** | Queens, NY | On Site | Jul 27 |
+| **[SES - Security Equipment Supply](https://sesonline.com/)** | **[Inside Sales Trainee](https://jobright.ai/jobs/info/6887e9994174df41e0fa1863?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jul 27 |
 | **[Cool Water Air Conditioning](http://coolwaterac.com/)** | **[Fall, Spring and Summer Interrns - Sales, Marketing, Engineering, Finance, Construction Management](https://jobright.ai/jobs/info/688667e34174df41e0f9a24b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 27 |
 | **[moomoo ](https://www.moomoo.com)** | **[Summer 2025 Event Sales Intern - Unpaid](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b1013?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Summer 2025 Event Sales Intern - Unpaid](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b1028?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jul 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corrugated Business Associate (Sales) Grand Rapids, MI](https://jobright.ai/jobs/info/6883e465b54cac0f1e73aa92?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jul 25 |
 | **[SoftInWay Inc.](http://www.softinway.com/en/)** | **[Academic Business Development Trainee](https://jobright.ai/jobs/info/6883f9396fcd973d15ae4fb4?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6883e375835a903aa07f89ab?utm_campaign=1051&utm_source=git)** | Whitney, NV | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e349835a903aa07f8990?utm_campaign=1051&utm_source=git)** | Gallatin, TN | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e23b6fcd973d15ae41fd?utm_campaign=1051&utm_source=git)** | Hilo, HI | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e22d6fcd973d15ae41f4?utm_campaign=1051&utm_source=git)** | Cedar Hill, TX | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e222835a903aa07f88fe?utm_campaign=1051&utm_source=git)** | Rancho Santa Margarita, CA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e18d6fcd973d15ae41a5?utm_campaign=1051&utm_source=git)** | La Mirada, CA | Hybrid | Jul 25 |
-| **[LA-Tech.org](http://la-tech.org)** | **[Partnerships Intern](https://jobright.ai/jobs/info/6883e0d86fcd973d15ae411f?utm_campaign=1051&utm_source=git)** | Los Angeles County, CA | Hybrid | Jul 25 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6883e0b5835a903aa07f8818?utm_campaign=1051&utm_source=git)** | Rowland Heights, CA | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
