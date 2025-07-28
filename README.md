@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Properties (NY)](https://jobright.ai/jobs/info/6887b2c073e3e13cbd93f5d4?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jul 28 |
+| ↳ | **[Fall 2025 Associate, Properties (LA)](https://jobright.ai/jobs/info/6887b01ffbbf032d00075ab1?utm_campaign=1051&utm_source=git)** | West Hollywood, California, United States | On Site | Jul 28 |
+| **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/6887aaedfbbf032d000756da?utm_campaign=1051&utm_source=git)** | East Wilder Road - Bay City, MI | On Site | Jul 28 |
+| **[Plan B®](https://www.thisisplanb.com/)** | **[Account Coordinator Internship AD AGENCY](https://jobright.ai/jobs/info/6887aab373e3e13cbd93f016?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 28 |
+| **[W. L. Gore & Associates](http://www.gore.com)** | **[Working Student (f/m/d) Sales & Sales Operations Support GOREWEAR](https://jobright.ai/jobs/info/6887a926fbbf032d000755ce?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jul 28 |
+| **[HotTakes](https://hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/6887a4b04174df41e0f9f60d?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Freestyle Trampoline Association](http://www.freestyletrampolineassociation.com)** | **[Partnership Developer](https://jobright.ai/jobs/info/6887a0e1fbbf032d00075378?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[Sales GTM Internship](https://jobright.ai/jobs/info/6887934bfbbf032d00074e20?utm_campaign=1051&utm_source=git)** | Sarasota, FL | Remote | Jul 28 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68878d324174df41e0f9edd4?utm_campaign=1051&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Jul 28 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/688789414174df41e0f9eb70?utm_campaign=1051&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Jul 28 |
 | **[SurgX Medical](https://www.linkedin.com/company/102994478)** | **[Medtech Sales Internship](https://jobright.ai/jobs/info/68877ab7fbbf032d000745fb?utm_campaign=1051&utm_source=git)** | Denver Metropolitan Area | On Site | Jul 28 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Commercial Manager](https://jobright.ai/jobs/info/68875d904174df41e0f9de83?utm_campaign=1051&utm_source=git)** | Washington, United States | On Site | Jul 28 |
 | **[W. L. Gore & Associates](http://www.gore.com)** | **[Working Student (f/m/d) Sales & Sales Operations Support GOREWEAR](https://jobright.ai/jobs/info/68875d3673e3e13cbd93d67b?utm_campaign=1051&utm_source=git)** | Newark, DE | On Site | Jul 28 |
@@ -121,8 +128,7 @@ For a complete list, click the following sortable link below:
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern-Mandarin Speaking](https://jobright.ai/jobs/info/688446b44174df41e0f90c2b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/688413b16fcd973d15ae57d9?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Jul 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6884113d835a903aa07f9f44?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jul 25 |
-| **[ARILEX Healthcare](https://www.linkedin.com/company/107998891)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6884473db651c92cb78a5e23?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/688410e26fcd973d15ae56c2?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Jul 25 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/688410e26fcd973d15ae56c2?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Jul 25 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Internship / Technical Scholar Program / Clearwater, FL](https://jobright.ai/jobs/info/68828d62835a903aa07eebcd?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Jul 25 |
 | **[COL Media](https://www.col-media.com)** | **[Fall 2025 Business Development Intern - COL Media (Unpaid)](https://jobright.ai/jobs/info/688621564174df41e0f99c3c?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Jul 25 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/6883f628b54cac0f1e73b4bb?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Jul 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dea6b54cac0f1e73a745?utm_campaign=1051&utm_source=git)** | Roseville, MI | Hybrid | Jul 25 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern - West Orange, NJ](https://jobright.ai/jobs/info/68850b114174df41e0f95e17?utm_campaign=1051&utm_source=git)** | West Orange, NJ | On Site | Jul 25 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6883ddd1835a903aa07f85d4?utm_campaign=1051&utm_source=git)** | Little Elm, TX | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883ddc0835a903aa07f85b9?utm_campaign=1051&utm_source=git)** | Beavercreek, OH | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dd89835a903aa07f856a?utm_campaign=1051&utm_source=git)** | Prescott, AZ | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dc88b54cac0f1e73a51e?utm_campaign=1051&utm_source=git)** | Downers Grove, IL | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dc83b54cac0f1e73a518?utm_campaign=1051&utm_source=git)** | Bedford, TX | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dbc4835a903aa07f8494?utm_campaign=1051&utm_source=git)** | Azusa, CA | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dbb1835a903aa07f848c?utm_campaign=1051&utm_source=git)** | Leesburg, VA | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
