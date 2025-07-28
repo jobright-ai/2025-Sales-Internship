@@ -58,8 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cool Water Air Conditioning](http://coolwaterac.com/)** | **[Fall, Spring and Summer Interrns - Sales, Marketing, Engineering, Finance, Construction Management](https://jobright.ai/jobs/info/688667e34174df41e0f9a24b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jul 27 |
-| **[H15DEN](https://h15den.com)** | **[User Acquisition - Intern](https://jobright.ai/jobs/info/68865e5d4174df41e0f9a1dd?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 27 |
+| **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Summer 2025 Event Sales Intern - Unpaid](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b1028?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jul 27 |
 | **[MeaVana ](https://meavana.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68860b45b651c92cb78aeb63?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Jul 27 |
+| **[Aircall](https://aircall.io/)** | **[Sales Intern - San Francisco](https://jobright.ai/jobs/info/684c361bbd94b4e18ddd4afb?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jul 27 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #934](https://jobright.ai/jobs/info/6885fad6b651c92cb78aeab3?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #175](https://jobright.ai/jobs/info/6885f5b2b651c92cb78aea6f?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Jul 27 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/6885b2a8b651c92cb78ad6e5?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Jul 26 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[ARILEX Healthcare](https://www.linkedin.com/company/107998891)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6884473db651c92cb78a5e23?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/688410e26fcd973d15ae56c2?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Jul 25 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Internship / Technical Scholar Program / Clearwater, FL](https://jobright.ai/jobs/info/68828d62835a903aa07eebcd?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Jul 25 |
-| **[Sage AI](https://sageai.dev)** | **[Business Development Representative - Internship](https://jobright.ai/jobs/info/6883fd776fcd973d15ae50af?utm_campaign=1051&utm_source=git)** | Washington, DC | Remote | Jul 25 |
 | **[COL Media](https://www.col-media.com)** | **[Fall 2025 Business Development Intern - COL Media (Unpaid)](https://jobright.ai/jobs/info/688621564174df41e0f99c3c?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Jul 25 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/6883f628b54cac0f1e73b4bb?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Jul 25 |
 | ↳ | **[Corrugated Business Associate (Sales) McClellan, CA](https://jobright.ai/jobs/info/6883ee90835a903aa07f8fbf?utm_campaign=1051&utm_source=git)** | McClellan Park, CA | On Site | Jul 25 |
@@ -127,9 +127,9 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6883e0b5835a903aa07f8818?utm_campaign=1051&utm_source=git)** | Rowland Heights, CA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e053835a903aa07f87f2?utm_campaign=1051&utm_source=git)** | Minot, ND | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e018b54cac0f1e73a82e?utm_campaign=1051&utm_source=git)** | Euclid, OH | Hybrid | Jul 25 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883e00fb54cac0f1e73a82b?utm_campaign=1051&utm_source=git)** | Attleboro, MA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dfd26fcd973d15ae40a8?utm_campaign=1051&utm_source=git)** | Glenview, IL | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883df5f835a903aa07f877d?utm_campaign=1051&utm_source=git)** | Murray, UT | Hybrid | Jul 25 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883def5b54cac0f1e73a796?utm_campaign=1051&utm_source=git)** | Attleboro, MA | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883deb46fcd973d15ae4027?utm_campaign=1051&utm_source=git)** | Huntsville, TX | Hybrid | Jul 25 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6883dea6b54cac0f1e73a745?utm_campaign=1051&utm_source=git)** | Roseville, MI | Hybrid | Jul 25 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern - West Orange, NJ](https://jobright.ai/jobs/info/68850b114174df41e0f95e17?utm_campaign=1051&utm_source=git)** | West Orange, NJ | On Site | Jul 25 |
