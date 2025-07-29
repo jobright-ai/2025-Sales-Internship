@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[H15DEN](https://h15den.com)** | **[User Acquisition, Internship](https://jobright.ai/jobs/info/6888a22609808a6103e426a8?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 29 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Sales Summer Internship](https://jobright.ai/jobs/info/6888ec2caab47a17f66fd9b2?utm_campaign=1051&utm_source=git)** | Greeley, CO | On Site | Jul 29 |
+| **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Inside Sales Representative (REMOTE)](https://jobright.ai/jobs/info/68671c9760cea6c41d2b32a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 29 |
+| **[Esurgi, Inc.](https://myesurgi.com/)** | **[Entrepreneurship Intern](https://jobright.ai/jobs/info/6888e87c09808a6103e4357f?utm_campaign=1051&utm_source=git)** | Maryland, United States | Remote | Jul 29 |
+| **[Hidden Harbor Capital Partners](http://www.hh-cp.com/)** | **[Business Development Fall Intern](https://jobright.ai/jobs/info/6888e4e209808a6103e434cc?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jul 29 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/68889705aab47a17f66fc56a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Oxmaint AI : Transforming EAM/CMMS to Maximize Asset Uptime & Efficiency](https://www.oxmaint.com/)** | **[Enterprise Sales Intern](https://jobright.ai/jobs/info/6888382d73e3e13cbd9430c6?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/68883799fbbf032d00079664?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Merchandising & Retail Intern - Fall 2025](https://jobright.ai/jobs/info/68880cdffbbf032d0007864a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/68880bb7fbbf032d00078597?utm_campaign=1051&utm_source=git)** | West Fargo, ND | On Site | Jul 28 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Properties (LA)](https://jobright.ai/jobs/info/68880819fbbf032d000784ab?utm_campaign=1051&utm_source=git)** | West Hollywood, CA | Hybrid | Jul 28 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Winter 2026 Internship – Business Development at Stoke Space](https://jobright.ai/jobs/info/6888073573e3e13cbd941dec?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
 | **[LBS - Lotus Business Solutions](https://hirelbs.com/)** | **[Remote Sales Intern for Fortune 500 campaigns](https://jobright.ai/jobs/info/6888058cfbbf032d00078374?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Properties (NY)](https://jobright.ai/jobs/info/688802814174df41e0fa2488?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jul 28 |
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Properties (LA)New](https://jobright.ai/jobs/info/6888437673e3e13cbd9437d2?utm_campaign=1051&utm_source=git)** | West Hollywood, CA | On Site | Jul 28 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[A+ Federal Credit Union](https://aplusfcu.org/)** | **[HS Intern- San Marcos HS](https://jobright.ai/jobs/info/688449fa4174df41e0f90e87?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Jul 28 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Basketball Sales](https://jobright.ai/jobs/info/6887cb3b4174df41e0fa0aeb?utm_campaign=1051&utm_source=git)** | West Hollywood, California, United States | On Site | Jul 28 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Gameday Ticketing Intern](https://jobright.ai/jobs/info/6887c8e4fbbf032d0007679a?utm_campaign=1051&utm_source=git)** | Delta Center | On Site | Jul 28 |
-| **[Daily Dose Wellness](https://dailydose-wellness.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6887c0e373e3e13cbd93fc2a?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Jul 28 |
 | **[Oak Tree Industries, LLC](https://www.oaktree-industries.com/)** | **[Private Equity Intern](https://jobright.ai/jobs/info/6887c08a73e3e13cbd93fc01?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
 | **[QuantHub](https://www.quanthub.com/)** | **[Customer Success Intern - Fall 2025](https://jobright.ai/jobs/info/6887c02273e3e13cbd93fbd9?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Jul 28 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Healthcare & Life Sciences Division [UG/MS]](https://jobright.ai/jobs/info/6887bce54174df41e0fa0318?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jul 28 |
@@ -104,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Commercial Manager](https://jobright.ai/jobs/info/68875d904174df41e0f9de83?utm_campaign=1051&utm_source=git)** | Washington, United States | On Site | Jul 28 |
 | **[W. L. Gore & Associates](http://www.gore.com)** | **[Working Student (f/m/d) Sales & Sales Operations Support GOREWEAR](https://jobright.ai/jobs/info/68875d3673e3e13cbd93d67b?utm_campaign=1051&utm_source=git)** | Newark, DE | On Site | Jul 28 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19d7?utm_campaign=1051&utm_source=git)** | USA - Rogers | On Site | Jul 27 |
-| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19d9?utm_campaign=1051&utm_source=git)** | USA - Minneapolis | On Site | Jul 27 |
+| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19da?utm_campaign=1051&utm_source=git)** | USA - Minneapolis | On Site | Jul 27 |
 | ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b0b4174df41e0f9c7d6?utm_campaign=1051&utm_source=git)** | USA - MN - Minneapolis | On Site | Jul 27 |
 | ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870aeffbbf032d000724d0?utm_campaign=1051&utm_source=git)** | USA - AR - Rogers | On Site | Jul 27 |
 | **[OpenQQuantify](https://www.openqquantify.com/)** | **[Sales Marketing Interns (Commission-Based at Startup Company)](https://jobright.ai/jobs/info/688708314174df41e0f9c5c4?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Children's Museum](http://www.mcm.org)** | **[Data & Membership Intern](https://jobright.ai/jobs/info/68847776b651c92cb78a8ba4?utm_campaign=1051&utm_source=git)** | Minnesota Children's Museum | On Site | Jul 25 |
 | **[Tombras](http://tombras.com)** | **[Account Service Intern](https://jobright.ai/jobs/info/688469ccfbbf032d00068e3b?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Jul 25 |
 | **[Louisiana Cat](https://www.louisianacat.com/)** | **[Service Sales Intern](https://jobright.ai/jobs/info/6885a0fd4174df41e0f97777?utm_campaign=1051&utm_source=git)** | Harvey, LA | On Site | Jul 25 |
-| **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Maje Buying Intern, New York, NY](https://jobright.ai/jobs/info/6881709516ea5743a37391ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
