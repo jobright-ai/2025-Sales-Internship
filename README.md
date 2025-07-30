@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Marshfield, WI](https://jobright.ai/jobs/info/688a3bfc9f961617fe21a1a7?utm_campaign=1051&utm_source=git)** | Marshfield, WI | On Site | Jul 30 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/686dcebf0dea4386449cfe16?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 30 |
+| **[Multiquip Inc.](http://multiquip.com)** | **[Sales intern](https://jobright.ai/jobs/info/6843a173727d23878e29452f?utm_campaign=1051&utm_source=git)** | Cypress, CA | On Site | Jul 30 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Capital Markets](https://jobright.ai/jobs/info/6852080396a63c79dcded298?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Jul 30 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales Development Executive](https://jobright.ai/jobs/info/6889ccaeaab47a17f6705bbe?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Jul 29 |
 | **[Formee Holdings](https://www.formeeholdings.com)** | **[Business Development Internship Program](https://jobright.ai/jobs/info/6889a635aab47a17f6703e35?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 29 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](http://sig.com)** | **[Derivatives Sales Trader Intern: Summer 2026](https://jobright.ai/jobs/info/68895d6a9f961617fe213db3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68895ae09f961617fe213c99?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jul 29 |
 | **[Target](https://www.target.com)** | **[Current Interns Only - ETL G493 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/68895aba9f961617fe213c5b?utm_campaign=1051&utm_source=git)** | Glen Mills, PA | Hybrid | Jul 29 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Business Development Intern at Waibel Masonry](https://jobright.ai/jobs/info/68897974aab47a17f6701d7b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Avery Dennison](http://www.averydennison.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6889933baab47a17f6702c30?utm_campaign=1051&utm_source=git)** | Mentor, OH | On Site | Jul 29 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Sales Intern at Avery Dennison](https://jobright.ai/jobs/info/688998aaaab47a17f6702f97?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/6889763caab47a17f6701c8c?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jul 29 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[NILvana Sports](NILvanaSports.com)** | **[Director of Sales (Internship)](https://jobright.ai/jobs/info/6889c111aab47a17f67056ef?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Business Development (Posting)](https://jobright.ai/jobs/info/68884bd24174df41e0fa47f8?utm_campaign=1051&utm_source=git)** | Avon, OH | On Site | Jul 28 |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[Sales GTM Internship](https://jobright.ai/jobs/info/6887934bfbbf032d00074e20?utm_campaign=1051&utm_source=git)** | Sarasota, FL | Remote | Jul 28 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19da?utm_campaign=1051&utm_source=git)** | USA - Minneapolis | On Site | Jul 27 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19d9?utm_campaign=1051&utm_source=git)** | USA - Minneapolis | On Site | Jul 27 |
 | ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19d7?utm_campaign=1051&utm_source=git)** | USA - Rogers | On Site | Jul 27 |
-| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b114174df41e0f9c7f8?utm_campaign=1051&utm_source=git)** | USA - MN - Minneapolis | On Site | Jul 27 |
-| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870af0fbbf032d000724db?utm_campaign=1051&utm_source=git)** | USA - AR - Rogers | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
