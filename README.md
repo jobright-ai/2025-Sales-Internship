@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Marshfield, WI](https://jobright.ai/jobs/info/688a3bfc9f961617fe21a1a7?utm_campaign=1051&utm_source=git)** | Marshfield, WI | On Site | Jul 30 |
+| **[BUP](https://bup.ai)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/688a54cb9f961617fe21abcc?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Jul 30 |
+| **[REILY Capital](https://reilycapital.com)** | **[Appointment Setter (Real Estate)](https://jobright.ai/jobs/info/688a51b709808a6103e4dca9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Senior Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688a4fbbaab47a17f6707ce5?utm_campaign=1051&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 30 |
+| **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/688a4f59aab47a17f6707cc3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Aggregates Sales Intern](https://jobright.ai/jobs/info/688a4a15aab47a17f6707a6e?utm_campaign=1051&utm_source=git)** | Flourtown, PA | Hybrid | Jul 30 |
+| ↳ | **[Aggregates Sales Intern](https://jobright.ai/jobs/info/688a49cb9f961617fe21a70c?utm_campaign=1051&utm_source=git)** | Glen Mills, PA | Hybrid | Jul 30 |
+| **[OLIVER CHRISTIAN HEROLD](https://www.oliverchristianherold.com/)** | **[🚨 Sales & Business Development – Womenswear Designer Apparel Brand](https://jobright.ai/jobs/info/688a4933aab47a17f67079bf?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jul 30 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Grand Rapids, MI](https://jobright.ai/jobs/info/688a3f25aab47a17f670766a?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Jul 30 |
+| ↳ | **[Corrugated Business Associate (Sales) Marshfield, WI](https://jobright.ai/jobs/info/688a3bfc9f961617fe21a1a7?utm_campaign=1051&utm_source=git)** | Marshfield, WI | On Site | Jul 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/686dcebf0dea4386449cfe16?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 30 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Sales intern](https://jobright.ai/jobs/info/6843a173727d23878e29452f?utm_campaign=1051&utm_source=git)** | Cypress, CA | On Site | Jul 30 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Capital Markets](https://jobright.ai/jobs/info/6852080396a63c79dcded298?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Jul 30 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Associate, Properties (LA)](https://jobright.ai/jobs/info/6887b01ffbbf032d00075ab1?utm_campaign=1051&utm_source=git)** | West Hollywood, California, United States | On Site | Jul 28 |
 | **[Chic Soul ](https://chicsoul.com/)** | **[Buying Internship](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a5f03?utm_campaign=1051&utm_source=git)** | Opelika, AL | On Site | Jul 28 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/6887aaedfbbf032d000756da?utm_campaign=1051&utm_source=git)** | East Wilder Road - Bay City, MI | On Site | Jul 28 |
-| **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Virtual Sales (Internship or Full Time) Position](https://jobright.ai/jobs/info/6876b823ae2f413e4a5b2d1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
-| **[HotTakes](https://hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/6887a4b04174df41e0f9f60d?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Freestyle Trampoline Association](http://www.freestyletrampolineassociation.com)** | **[Partnership Developer](https://jobright.ai/jobs/info/6887a0e1fbbf032d00075378?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
-| **[NILvana Sports](NILvanaSports.com)** | **[Director of Sales (Internship)](https://jobright.ai/jobs/info/6889c111aab47a17f67056ef?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Business Development (Posting)](https://jobright.ai/jobs/info/68884bd24174df41e0fa47f8?utm_campaign=1051&utm_source=git)** | Avon, OH | On Site | Jul 28 |
-| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Sales GTM Internship](https://jobright.ai/jobs/info/6887934bfbbf032d00074e20?utm_campaign=1051&utm_source=git)** | Sarasota, FL | Remote | Jul 28 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19d9?utm_campaign=1051&utm_source=git)** | USA - Minneapolis | On Site | Jul 27 |
-| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68870b2ab651c92cb78b19d7?utm_campaign=1051&utm_source=git)** | USA - Rogers | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
