@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandise Assistant Internship (NYBO)](https://jobright.ai/jobs/info/688a76b609808a6103e4ef8d?utm_campaign=1051&utm_source=git)** | New York, NY 10018 | On Site | Jul 30 |
+| **[Jane Street](https://www.janestreet.com)** | **[Sales and Trading](https://jobright.ai/jobs/info/688a69c709808a6103e4e5ab?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jul 30 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Performance Management](https://jobright.ai/jobs/info/688a5f5b09808a6103e4e22c?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Jul 30 |
 | **[BUP](https://bup.ai)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/688a54cb9f961617fe21abcc?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Jul 30 |
 | **[REILY Capital](https://reilycapital.com)** | **[Appointment Setter (Real Estate)](https://jobright.ai/jobs/info/688a51b709808a6103e4dca9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Senior Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688a4fbbaab47a17f6707ce5?utm_campaign=1051&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 30 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Home Loan Internal Production - Home Loan Advisor - External](https://jobright.ai/jobs/info/68896141aab47a17f67012c0?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Jul 29 |
 | **[Susquehanna International Group](http://sig.com)** | **[Derivatives Sales Trader Intern: Summer 2026](https://jobright.ai/jobs/info/68895d6a9f961617fe213db3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68895ae09f961617fe213c99?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jul 29 |
-| **[Target](https://www.target.com)** | **[Current Interns Only - ETL G493 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/68895aba9f961617fe213c5b?utm_campaign=1051&utm_source=git)** | Glen Mills, PA | Hybrid | Jul 29 |
 | **[Avery Dennison](http://www.averydennison.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6889933baab47a17f6702c30?utm_campaign=1051&utm_source=git)** | Mentor, OH | On Site | Jul 29 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Sales Intern at Avery Dennison](https://jobright.ai/jobs/info/688998aaaab47a17f6702f97?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/6889763caab47a17f6701c8c?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Swarm Professional Lacrosse](https://www.georgiaswarm.com/)** | **[Ticketing Operations Internship](https://jobright.ai/jobs/info/6887bb444174df41e0fa0263?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jul 28 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Properties (NY)](https://jobright.ai/jobs/info/6887b2c073e3e13cbd93f5d4?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jul 28 |
 | ↳ | **[Fall 2025 Associate, Properties (LA)](https://jobright.ai/jobs/info/6887b01ffbbf032d00075ab1?utm_campaign=1051&utm_source=git)** | West Hollywood, California, United States | On Site | Jul 28 |
-| **[Chic Soul ](https://chicsoul.com/)** | **[Buying Internship](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a5f03?utm_campaign=1051&utm_source=git)** | Opelika, AL | On Site | Jul 28 |
-| **[Meijer](https://www.meijer.com/)** | **[Store Detective - Intern](https://jobright.ai/jobs/info/6887aaedfbbf032d000756da?utm_campaign=1051&utm_source=git)** | East Wilder Road - Bay City, MI | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
