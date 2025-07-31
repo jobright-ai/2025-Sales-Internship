@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Seller Account Operations Project Intern (TikTok Shop - US Operation) - 2025 start (BS/MS)](https://jobright.ai/jobs/info/688ae3eb09808a6103e51f73?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
+| **[Forty1 Management Group](forty1mg.com)** | **[Sports agent intern](https://jobright.ai/jobs/info/688ad5d59f961617fe21e6c5?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Fusion100](http://Fusion100co.com)** | **[Advertising Sales Intern](https://jobright.ai/jobs/info/688ad5cfaab47a17f670bb04?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/688ad5b69f961617fe21e6b7?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Jul 30 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandise Assistant Internship (NYBO)](https://jobright.ai/jobs/info/688ac8db09808a6103e5135c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[EducationDynamics](https://www.educationdynamics.com)** | **[Account Management Intern, EMS](https://jobright.ai/jobs/info/688ac5a609808a6103e512f1?utm_campaign=1051&utm_source=git)** | United States | On Site | Jul 30 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/688ab9f509808a6103e50d05?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 30 |
@@ -64,8 +68,7 @@ For a complete list, click the following sortable link below:
 | **[TD SYNNEX](https://www.tdsynnex.com)** | **[Internship / Technical Scholar Program / Clearwater, FL](https://jobright.ai/jobs/info/688ab1e809808a6103e50a2c?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Jul 30 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/688ab16b9f961617fe21d78d?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Jul 30 |
 | **[VALRHONA](https://www.valrhona.us/)** | **[Sales administration Internship](https://jobright.ai/jobs/info/688aaddb9f961617fe21d653?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| **[KIKI DE MONTPARNASSE](https://kikidm.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/688aa497aab47a17f670a6ad?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/688a94d39f961617fe21cd24?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Jul 30 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/688ae33b09808a6103e51f35?utm_campaign=1051&utm_source=git)** | Whitehall, PA | On Site | Jul 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Senior Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688a911a9f961617fe21cbb0?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Jul 30 |
 | **[FlagStick Social](https://www.linkedin.com/company/105830531)** | **[Sales & Partnerships Intern - Fall 2025](https://jobright.ai/jobs/info/688a8ed409808a6103e4fb52?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jul 30 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - New England & Capital District,](https://jobright.ai/jobs/info/688a8b2e09808a6103e4f94c?utm_campaign=1051&utm_source=git)** | South Windsor, CT | On Site | Jul 30 |
@@ -97,6 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corrugated Business Associate (Sales) Chicago, IL](https://jobright.ai/jobs/info/68898b249f961617fe215588?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 29 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68898a4d9f961617fe2154fe?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Jul 29 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Minneapolis, MN](https://jobright.ai/jobs/info/6889888eaab47a17f6702446?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jul 29 |
+| **[Integrity](https://www.integritymarketing.com)** | **[Sales Intern](https://jobright.ai/jobs/info/688adfa709808a6103e51dfc?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jul 29 |
 | **[System Studies and Simulation (S3), Inc.](https://www.s3inc.com/)** | **[Intern - Part Time](https://jobright.ai/jobs/info/68897b0409808a6103e47d5c?utm_campaign=1051&utm_source=git)** | Huntsville, AL | Hybrid | Jul 29 |
 | **[Avery Dennison](http://www.averydennison.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6889717daab47a17f67019f8?utm_campaign=1051&utm_source=git)** | 8080 Norton Pkwy, Mentor, OH 44060, USA | On Site | Jul 29 |
 | **[Worcester Railers HC](https://www.railershc.com)** | **[Corporate Activations Intern](https://jobright.ai/jobs/info/688a82609f961617fe21c362?utm_campaign=1051&utm_source=git)** | Worcester, MA | On Site | Jul 29 |
@@ -143,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/68889705aab47a17f66fc56a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 29 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern-Mandarin Speaking](https://jobright.ai/jobs/info/68883799fbbf032d00079664?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jul 29 |
 | **[BlueBill](https://www.linkedin.com/company/107259322)** | **[Field Growth Intern](https://jobright.ai/jobs/info/6889afc19f961617fe21742c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 28 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/688a88f29f961617fe21c6eb?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/688a88e09f961617fe21c6df?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/688a88e09f961617fe21c6df?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/688a88f29f961617fe21c6eb?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/688a8971aab47a17f670998a?utm_campaign=1051&utm_source=git)** | Bay Area, CA | On Site | Jul 28 |
 | **[UpNexa](https://upnexa.com/)** | **[Account Manager](https://jobright.ai/jobs/info/6889c3f99f961617fe218420?utm_campaign=1051&utm_source=git)** | Ronkonkoma, NY | On Site | Jul 28 |
 | **[Resort Jobs](https://career-maldives.com/)** | **[Fall Intern – Commercial Real Estate](https://jobright.ai/jobs/info/6889c4d69f961617fe218487?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Jul 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Fall 2025](https://jobright.ai/jobs/info/68881d15fbbf032d00078dbf?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[Porsche Design of America](http://www.porsche-design.com)** | **[E-Commerce Intern](https://jobright.ai/jobs/info/688917aa9f961617fe211820?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jul 28 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Merchandising & Retail Intern - Fall 2025](https://jobright.ai/jobs/info/688817d44174df41e0fa2c41?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
-| **[North Carolina Courage](http://www.NCCourage.com)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6888122b73e3e13cbd9421c2?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jul 28 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Fall 2025](https://jobright.ai/jobs/info/68883a0e4174df41e0fa3a4a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Merchandising & Retail Intern - Fall 2025](https://jobright.ai/jobs/info/68880cdffbbf032d0007864a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/68880bb7fbbf032d00078597?utm_campaign=1051&utm_source=git)** | West Fargo, ND | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
