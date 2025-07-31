@@ -130,7 +130,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6889221109808a6103e45443?utm_campaign=1051&utm_source=git)** | Annapolis, Maryland | Remote | Jul 29 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688921f809808a6103e45420?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona | Remote | Jul 29 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688921dc09808a6103e453ed?utm_campaign=1051&utm_source=git)** | Brookings, South Dakota | Hybrid | Jul 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68892195aab47a17f66ff474?utm_campaign=1051&utm_source=git)** | Madison, Wisconsin | Remote | Jul 29 |
 | **[Corcoran Icon Properties](https://corcoranicon.com)** | **[Commercial Real Estate Brokerage Internship- Fall 2025](https://jobright.ai/jobs/info/688912249f961617fe21158a?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Jul 29 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/688911349f961617fe21151c?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jul 29 |
 | ↳ | **[College Financial Representative](https://jobright.ai/jobs/info/6889074a09808a6103e443b7?utm_campaign=1051&utm_source=git)** | Pittsburgh Region | On Site | Jul 29 |
@@ -148,7 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/68889705aab47a17f66fc56a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Commercial/Customer Strategy (Summer 2026)](https://jobright.ai/jobs/info/68492f0cd128b601e13b3238?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
 | **[BlueBill](https://www.linkedin.com/company/107259322)** | **[Field Growth Intern](https://jobright.ai/jobs/info/6889afc19f961617fe21742c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 28 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/688a8971aab47a17f670998a?utm_campaign=1051&utm_source=git)** | Bay Area, CA | On Site | Jul 28 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/688a88f29f961617fe21c6eb?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/688a8971aab47a17f670998a?utm_campaign=1051&utm_source=git)** | Bay Area, CA | On Site | Jul 28 |
 | **[UpNexa](https://upnexa.com/)** | **[Account Manager](https://jobright.ai/jobs/info/6889c3f99f961617fe218420?utm_campaign=1051&utm_source=git)** | Ronkonkoma, NY | On Site | Jul 28 |
 | **[Resort Jobs](https://career-maldives.com/)** | **[Fall Intern – Commercial Real Estate](https://jobright.ai/jobs/info/6889c4d69f961617fe218487?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Jul 28 |
 | **[Sinica Education](https://www.sinicaeducation.com)** | **[Bilingual Business Development and Marketing Internship (Chinese/English)](https://jobright.ai/jobs/info/686c4fab35584b6542016ec2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Fall 2025](https://jobright.ai/jobs/info/68881d15fbbf032d00078dbf?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/68883be573e3e13cbd9431f8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68884f73fbbf032d0007a759?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jul 28 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68883799fbbf032d00079664?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| **[Porsche Design of America](http://www.porsche-design.com)** | **[E-Commerce Intern](https://jobright.ai/jobs/info/688917aa9f961617fe211820?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
