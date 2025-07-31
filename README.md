@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Make-A-Wish Central and Northern Florida](http://cnfl.wish.org)** | **[Wish Granting Intern](https://jobright.ai/jobs/info/688bc644906ac06e1d1ce52d?utm_campaign=1051&utm_source=git)** | Maitland, FL | On Site | Jul 31 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688bb5d93a30793eb963ccb0?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Jul 31 |
+| **[NobleProg](http://www.nobleprog.com)** | **[Sales & Business Development Intern (Fall 2025 – Eastern Time Zone)](https://jobright.ai/jobs/info/688bb4681808534a89cb535e?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Jul 31 |
 | **[OpenSponsorship](http://www.opensponsorship.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/688ba05e1808534a89cb4824?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 31 |
 | **[NobleProg](http://www.nobleprog.com)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/688b948a3a30793eb963bb43?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Jul 31 |
 | **[Steva](https://steva.co)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/688b945a3a30793eb963bb35?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Jul 31 |
 | **[NobleProg](http://www.nobleprog.com)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/688b929f3a30793eb963ba66?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Jul 31 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[E-Commerce/Customer Service Intern](https://jobright.ai/jobs/info/688b8fba1808534a89cb401e?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Jul 31 |
+| **[Philip Morris International](https://www.pmi.com)** | **[Channel Development Intern](https://jobright.ai/jobs/info/688bb2533a30793eb963caa8?utm_campaign=1051&utm_source=git)** | Limaville, OH | On Site | Jul 31 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Oklahoma State University](https://jobright.ai/jobs/info/688b7200906ac06e1d1cb78b?utm_campaign=1051&utm_source=git)** | Stillwater, OK | Hybrid | Jul 31 |
 | **[Garavello Capital](www.garavellocapital.com)** | **[Business Development Coordinator](https://jobright.ai/jobs/info/688b66c3906ac06e1d1cb24b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Branvia Growth Partners](https://www.linkedin.com/company/108576505)** | **[Sales And Marketing Specialist](https://jobright.ai/jobs/info/688b6c623a30793eb963a6cb?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jul 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Inside Sales Representative (REMOTE)](https://jobright.ai/jobs/info/68671c9760cea6c41d2b32a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 29 |
 | **[OPmobility](https://www.opmobility.com)** | **[PURCHASING INTERN](https://jobright.ai/jobs/info/68808e4b2097a271a89a6345?utm_campaign=1051&utm_source=git)** | Greer, SC | On Site | Jul 29 |
 | **[J-Armor](Https://www.J-Armorwallets.com)** | **[Salesperson](https://jobright.ai/jobs/info/688b065f09808a6103e53c73?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 29 |
-| **[SurgX Medical](https://www.linkedin.com/company/102994478)** | **[Medical Device Sales Internship - Spine](https://jobright.ai/jobs/info/68877ab7fbbf032d000745fb?utm_campaign=1051&utm_source=git)** | Denver Metropolitan Area | On Site | Jul 29 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern-Mandarin Speaking](https://jobright.ai/jobs/info/68884f73fbbf032d0007a759?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Jul 29 |
-| ↳ | **[Business Development Intern-Mandarin Speaking](https://jobright.ai/jobs/info/68883be573e3e13cbd9431f8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 29 |
-| **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/68889705aab47a17f66fc56a?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
