@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandise Assistant Internship (NYBO)](https://jobright.ai/jobs/info/688ac8db09808a6103e5135c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[EducationDynamics](https://www.educationdynamics.com)** | **[Account Management Intern, EMS](https://jobright.ai/jobs/info/688ac5a609808a6103e512f1?utm_campaign=1051&utm_source=git)** | United States | On Site | Jul 30 |
+| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/688ab9f509808a6103e50d05?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 30 |
+| **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Affiliate Internship](https://jobright.ai/jobs/info/688ab2af09808a6103e50a80?utm_campaign=1051&utm_source=git)** | La Jolla Shores, CA | Hybrid | Jul 30 |
+| **[TD SYNNEX](https://www.tdsynnex.com)** | **[Internship / Technical Scholar Program / Clearwater, FL](https://jobright.ai/jobs/info/688ab1e809808a6103e50a2c?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Jul 30 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/688ab16b9f961617fe21d78d?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Jul 30 |
 | **[VALRHONA](https://www.valrhona.us/)** | **[Sales administration Internship](https://jobright.ai/jobs/info/688aaddb9f961617fe21d653?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[KIKI DE MONTPARNASSE](https://kikidm.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/688aa497aab47a17f670a6ad?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 30 |
@@ -72,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Jane Street](https://www.janestreet.com)** | **[Sales and Trading](https://jobright.ai/jobs/info/688a69c709808a6103e4e5ab?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jul 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Performance Management](https://jobright.ai/jobs/info/688a5f5b09808a6103e4e22c?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Jul 30 |
 | **[BUP](https://bup.ai)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/688a54cb9f961617fe21abcc?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Jul 30 |
-| **[REILY Capital](https://reilycapital.com)** | **[Appointment Setter (Real Estate)](https://jobright.ai/jobs/info/688a51b709808a6103e4dca9?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Senior Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688a4fbbaab47a17f6707ce5?utm_campaign=1051&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 30 |
 | **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/688a4f59aab47a17f6707cc3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Aggregates Sales Intern](https://jobright.ai/jobs/info/688a4a15aab47a17f6707a6e?utm_campaign=1051&utm_source=git)** | Flourtown, PA | Hybrid | Jul 30 |
@@ -99,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Pharmaceutical Sales Intern](https://jobright.ai/jobs/info/688965149f961617fe21402d?utm_campaign=1051&utm_source=git)** | Mettawa, IL | On Site | Jul 29 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Home Loan Internal Production - Home Loan Advisor - In-Market](https://jobright.ai/jobs/info/6889625a9f961617fe213f0c?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Jul 29 |
 | ↳ | **[Home Loan Internal Production - Home Loan Advisor - External](https://jobright.ai/jobs/info/68896141aab47a17f67012c0?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Jul 29 |
+| **[Heidelberg Materials North America](https://cindercrete.com)** | **[Aggregates Sales Intern](https://jobright.ai/jobs/info/688ab7cf09808a6103e50c14?utm_campaign=1051&utm_source=git)** | Flourtown, PA | On Site | Jul 29 |
 | **[Susquehanna International Group](http://sig.com)** | **[Derivatives Sales Trader Intern: Summer 2026](https://jobright.ai/jobs/info/68895d6a9f961617fe213db3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68895ae09f961617fe213c99?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, USA | On Site | Jul 29 |
 | **[Avery Dennison](http://www.averydennison.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6889933baab47a17f6702c30?utm_campaign=1051&utm_source=git)** | Mentor, OH | On Site | Jul 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Fall 2025](https://jobright.ai/jobs/info/68883a0e4174df41e0fa3a4a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Merchandising & Retail Intern - Fall 2025](https://jobright.ai/jobs/info/68880cdffbbf032d0007864a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/68880bb7fbbf032d00078597?utm_campaign=1051&utm_source=git)** | West Fargo, ND | On Site | Jul 28 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Properties (LA)](https://jobright.ai/jobs/info/68880819fbbf032d000784ab?utm_campaign=1051&utm_source=git)** | West Hollywood, CA | Hybrid | Jul 28 |
-| ↳ | **[Fall 2025 Associate, Properties (NY)](https://jobright.ai/jobs/info/688802814174df41e0fa2488?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jul 28 |
-| **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Properties (LA)New](https://jobright.ai/jobs/info/6888437673e3e13cbd9437d2?utm_campaign=1051&utm_source=git)** | West Hollywood, CA | On Site | Jul 28 |
-| ↳ | **[Fall 2025 Associate, Properties (NY)New](https://jobright.ai/jobs/info/68884667fbbf032d00079fac?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 28 |
-| **[Breakpoint Booking](https://www.breakpointbooking.com/)** | **[REMOTE Entertainment Business Internship](https://jobright.ai/jobs/info/6887ec5cfbbf032d000777cb?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | Remote | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
