@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[E-Commerce/Customer Service Intern](https://jobright.ai/jobs/info/688b8fba1808534a89cb401e?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Jul 31 |
+| **[SCIENTIFIC GAMES](https://www.scientificgames.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/688b7c983a30793eb963ae93?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jul 31 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Oklahoma State University](https://jobright.ai/jobs/info/688b7200906ac06e1d1cb78b?utm_campaign=1051&utm_source=git)** | Stillwater, OK | Hybrid | Jul 31 |
 | **[Garavello Capital](www.garavellocapital.com)** | **[Business Development Coordinator](https://jobright.ai/jobs/info/688b66c3906ac06e1d1cb24b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 31 |
+| **[Branvia Growth Partners](https://www.linkedin.com/company/108576505)** | **[Sales And Marketing Specialist](https://jobright.ai/jobs/info/688b6c623a30793eb963a6cb?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jul 31 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Group Benefit Solutions (GBS) Sales Summer Internship Program](https://jobright.ai/jobs/info/688b194baab47a17f670ebe3?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jul 31 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Sales & Client Engagement Internship](https://jobright.ai/jobs/info/688af118aab47a17f670cd4b?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | Hybrid | Jul 30 |
 | ↳ | **[2026 Sales & Client Engagement Internship](https://jobright.ai/jobs/info/688af0459f961617fe21f946?utm_campaign=1051&utm_source=git)** | Owings Mills, MD | Hybrid | Jul 30 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern-Mandarin Speaking](https://jobright.ai/jobs/info/68883799fbbf032d00079664?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jul 29 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Commercial/Customer Strategy (Summer 2026)](https://jobright.ai/jobs/info/68492f0cd128b601e13b3238?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
 | **[BlueBill](https://www.linkedin.com/company/107259322)** | **[Field Growth Intern](https://jobright.ai/jobs/info/6889afc19f961617fe21742c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 28 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/688a88e09f961617fe21c6df?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/688a88f29f961617fe21c6eb?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/688a8971aab47a17f670998a?utm_campaign=1051&utm_source=git)** | Bay Area, CA | On Site | Jul 28 |
-| **[UpNexa](https://upnexa.com/)** | **[Account Manager](https://jobright.ai/jobs/info/6889c3f99f961617fe218420?utm_campaign=1051&utm_source=git)** | Ronkonkoma, NY | On Site | Jul 28 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/688a88f29f961617fe21c6eb?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
