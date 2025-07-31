@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual Goodwin, Wright](http://buckhead.nm.com/)** | **[College Financial Representative - Buckhead](https://jobright.ai/jobs/info/688be4b33a30793eb963e900?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jul 31 |
+| **[Markarian](https://markarian-nyc.com)** | **[Wholesale & Showroom Intern](https://jobright.ai/jobs/info/688bdb871808534a89cb6c4a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Sales](https://jobright.ai/jobs/info/688bd8643a30793eb963e269?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
+| **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern (Greater Los Angeles Area)](https://jobright.ai/jobs/info/688bd4c2906ac06e1d1cec1b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
 | **[Make-A-Wish Central and Northern Florida](http://cnfl.wish.org)** | **[Wish Granting Intern](https://jobright.ai/jobs/info/688bc644906ac06e1d1ce52d?utm_campaign=1051&utm_source=git)** | Maitland, FL | On Site | Jul 31 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688bb5d93a30793eb963ccb0?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Jul 31 |
 | **[NobleProg](http://www.nobleprog.com)** | **[Sales & Business Development Intern (Fall 2025 – Eastern Time Zone)](https://jobright.ai/jobs/info/688bb4681808534a89cb535e?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Jul 31 |
@@ -68,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Philip Morris International](https://www.pmi.com)** | **[Channel Development Intern](https://jobright.ai/jobs/info/688bb2533a30793eb963caa8?utm_campaign=1051&utm_source=git)** | Limaville, OH | On Site | Jul 31 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Oklahoma State University](https://jobright.ai/jobs/info/688b7200906ac06e1d1cb78b?utm_campaign=1051&utm_source=git)** | Stillwater, OK | Hybrid | Jul 31 |
 | **[Garavello Capital](www.garavellocapital.com)** | **[Business Development Coordinator](https://jobright.ai/jobs/info/688b66c3906ac06e1d1cb24b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 31 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets - Sales & Trading](https://jobright.ai/jobs/info/688b5232906ac06e1d1ca9a1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Branvia Growth Partners](https://www.linkedin.com/company/108576505)** | **[Sales And Marketing Specialist](https://jobright.ai/jobs/info/688b6c623a30793eb963a6cb?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jul 31 |
 | **[Disability Rights California](http://www.disabilityrightsca.org)** | **[Be a Future DRC Employee!](https://jobright.ai/jobs/info/679db8a1c9d71e2ba9b938dd?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Jul 31 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Group Benefit Solutions (GBS) Sales Summer Internship Program](https://jobright.ai/jobs/info/688b194baab47a17f670ebe3?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jul 31 |
@@ -80,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandise Assistant Internship (NYBO)](https://jobright.ai/jobs/info/688ac8db09808a6103e5135c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[EducationDynamics](https://www.educationdynamics.com)** | **[Account Management Intern, EMS](https://jobright.ai/jobs/info/688ac5a609808a6103e512f1?utm_campaign=1051&utm_source=git)** | United States | On Site | Jul 30 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/688ab9f509808a6103e50d05?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jul 30 |
+| **[Worcester Railers HC](https://www.railershc.com)** | **[Ticket Operations and Analytics Intern](https://jobright.ai/jobs/info/688bd3a6906ac06e1d1ceb74?utm_campaign=1051&utm_source=git)** | Worcester, MA | On Site | Jul 30 |
 | **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Affiliate Internship](https://jobright.ai/jobs/info/688ab2af09808a6103e50a80?utm_campaign=1051&utm_source=git)** | La Jolla Shores, CA | Hybrid | Jul 30 |
 | **[TD SYNNEX](https://www.tdsynnex.com)** | **[Internship / Technical Scholar Program / Clearwater, FL](https://jobright.ai/jobs/info/688ab1e809808a6103e50a2c?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Jul 30 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/688ab16b9f961617fe21d78d?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Jul 30 |
@@ -93,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/688a7e8409808a6103e4f30d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jul 30 |
 | **[Timken Museum ](http://www.timkenmuseum.org/)** | **[Development Volunteer](https://jobright.ai/jobs/info/688a7d5009808a6103e4f2ab?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Jul 30 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandise Assistant Internship (NYBO)](https://jobright.ai/jobs/info/688a76b609808a6103e4ef8d?utm_campaign=1051&utm_source=git)** | New York, NY 10018 | On Site | Jul 30 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (CHI)](https://jobright.ai/jobs/info/667972f78f20c6df6b899544?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
 | **[Jane Street](https://www.janestreet.com)** | **[Sales and Trading](https://jobright.ai/jobs/info/688a69c709808a6103e4e5ab?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jul 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Performance Management](https://jobright.ai/jobs/info/688a5f5b09808a6103e4e22c?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Jul 30 |
 | **[BŪP](https://bup.ai)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/688a54cb9f961617fe21abcc?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Jul 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1126 - La Crosse, WI](https://jobright.ai/jobs/info/688903369f961617fe210f3b?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Jul 29 |
 | ↳ | **[Retail Management Intern #816 - La Crosse, WI](https://jobright.ai/jobs/info/6889031109808a6103e441ac?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Jul 29 |
 | **[NJ Consulting Firm](https://www.njconsultingfirm.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/688900daaab47a17f66fe218?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jul 29 |
-| **[Alphalete Marketing](https://alphaletemarketing.com)** | **[Sales and Marketing Trainee](https://jobright.ai/jobs/info/6888fdd8aab47a17f66fe102?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Jul 29 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #761 - La Crosse, WI](https://jobright.ai/jobs/info/6888fa4a9f961617fe210c66?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Jul 29 |
-| **[Visit Austin](https://www.austintexas.org/)** | **[Sports & Sales Intern](https://jobright.ai/jobs/info/6888f61a09808a6103e43c7b?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Jul 29 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Sales Summer Internship](https://jobright.ai/jobs/info/6888ec2caab47a17f66fd9b2?utm_campaign=1051&utm_source=git)** | Greeley, CO | On Site | Jul 29 |
-| **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Inside Sales Representative (REMOTE)](https://jobright.ai/jobs/info/68671c9760cea6c41d2b32a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 29 |
-| **[OPmobility](https://www.opmobility.com)** | **[PURCHASING INTERN](https://jobright.ai/jobs/info/68808e4b2097a271a89a6345?utm_campaign=1051&utm_source=git)** | Greer, SC | On Site | Jul 29 |
-| **[J-Armor](Https://www.J-Armorwallets.com)** | **[Salesperson](https://jobright.ai/jobs/info/688b065f09808a6103e53c73?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
