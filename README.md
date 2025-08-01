@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlanta Gladiators ](http://atlantagladiators.com)** | **[Ticket Sales Intern 2025-26 Season](https://jobright.ai/jobs/info/688c17d4906ac06e1d1d0a75?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jul 31 |
+| **[Kraft Sports + Entertainment](https://www.kraftse.com)** | **[Business Development and External Affairs Intern](https://jobright.ai/jobs/info/688c16bb1808534a89cb848e?utm_campaign=1051&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Jul 31 |
+| **[Pond](https://www.cryptopond.xyz)** | **[Business Development Intern](https://jobright.ai/jobs/info/688c14ed3a30793eb963fd11?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 31 |
+| **[EST Media](https://www.easternstandardtimes.com)** | **[Fall Intern - International Film Sales and Marketing](https://jobright.ai/jobs/info/688c14b03a30793eb963fcfa?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Remote | Jul 31 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Sales Intern - Fall 2025](https://jobright.ai/jobs/info/688c0d16906ac06e1d1d049d?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 31 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688c04c63a30793eb963f552?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Jul 31 |
 | **[Solenis](http://solenis.com/)** | **[STAR Program Associate](https://jobright.ai/jobs/info/688bff073a30793eb963f349?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Jul 31 |
 | ↳ | **[Solenis Sales and Technical Service Internship](https://jobright.ai/jobs/info/688bfe8a3a30793eb963f321?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Jul 31 |
 | ↳ | **[Solenis Sales and Technical Service Internship (Fall Term)](https://jobright.ai/jobs/info/688bfd361808534a89cb7a20?utm_campaign=1051&utm_source=git)** | Idaho, United States | On Site | Jul 31 |
@@ -71,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Markarian](https://markarian-nyc.com)** | **[Wholesale & Showroom Intern](https://jobright.ai/jobs/info/688bdb871808534a89cb6c4a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Sales](https://jobright.ai/jobs/info/688bd8643a30793eb963e269?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern (Greater Los Angeles Area)](https://jobright.ai/jobs/info/688bd4c2906ac06e1d1cec1b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
-| **[Make-A-Wish Central and Northern Florida](http://cnfl.wish.org)** | **[Wish Granting Intern](https://jobright.ai/jobs/info/688bc644906ac06e1d1ce52d?utm_campaign=1051&utm_source=git)** | Maitland, FL | On Site | Jul 31 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688bb5d93a30793eb963ccb0?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Jul 31 |
 | **[NobleProg](http://www.nobleprog.com)** | **[Sales & Business Development Intern (Fall 2025 – Eastern Time Zone)](https://jobright.ai/jobs/info/688bb4681808534a89cb535e?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Jul 31 |
 | **[OpenSponsorship](http://www.opensponsorship.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/688ba05e1808534a89cb4824?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 31 |
@@ -82,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Philip Morris International](https://www.pmi.com)** | **[Channel Development Intern](https://jobright.ai/jobs/info/688bb2533a30793eb963caa8?utm_campaign=1051&utm_source=git)** | Limaville, OH | On Site | Jul 31 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Oklahoma State University](https://jobright.ai/jobs/info/688b7200906ac06e1d1cb78b?utm_campaign=1051&utm_source=git)** | Stillwater, OK | Hybrid | Jul 31 |
 | **[Garavello Capital](www.garavellocapital.com)** | **[Business Development Coordinator](https://jobright.ai/jobs/info/688b66c3906ac06e1d1cb24b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 31 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c8220856ffd12ea08c45f?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Jul 31 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets - Sales & Trading](https://jobright.ai/jobs/info/688b5232906ac06e1d1ca9a1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Branvia Growth Partners](https://www.linkedin.com/company/108576505)** | **[Sales And Marketing Specialist](https://jobright.ai/jobs/info/688b6c623a30793eb963a6cb?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jul 31 |
 | **[Disability Rights California](http://www.disabilityrightsca.org)** | **[Be a Future DRC Employee!](https://jobright.ai/jobs/info/679db8a1c9d71e2ba9b938dd?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Jul 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Playfly Max, NIL Fulfillment Intern](https://jobright.ai/jobs/info/6889496c9f961617fe213590?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Jul 29 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/68893d9909808a6103e461c8?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Jul 29 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6889399baab47a17f67000f5?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jul 29 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/6889361b9f961617fe212b76?utm_campaign=1051&utm_source=git)** | Brookings, SD | On Site | Jul 29 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/688935dfaab47a17f66ffe6f?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jul 29 |
-| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (NASH)](https://jobright.ai/jobs/info/65075e7b78de930024e369c5?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jul 29 |
-| **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Fall - Box Office](https://jobright.ai/jobs/info/68892d93aab47a17f66ff9ff?utm_campaign=1051&utm_source=git)** | Harrison, NJ | On Site | Jul 29 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/68892b15aab47a17f66ff91e?utm_campaign=1051&utm_source=git)** | Annapolis, MD | On Site | Jul 29 |
-| **[OPmobility](https://www.opmobility.com)** | **[PURCHASING INTERN](https://jobright.ai/jobs/info/6880af4d16ea5743a373206f?utm_campaign=1051&utm_source=git)** | Michigan, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
