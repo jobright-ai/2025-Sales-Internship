@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solenis](http://solenis.com/)** | **[STAR Program Associate](https://jobright.ai/jobs/info/688bff073a30793eb963f349?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Jul 31 |
+| ↳ | **[Solenis Sales and Technical Service Internship](https://jobright.ai/jobs/info/688bfe8a3a30793eb963f321?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Jul 31 |
+| ↳ | **[Solenis Sales and Technical Service Internship (Fall Term)](https://jobright.ai/jobs/info/688bfd361808534a89cb7a20?utm_campaign=1051&utm_source=git)** | Idaho, United States | On Site | Jul 31 |
+| ↳ | **[Solenis Sales and Technical Service Internship (Fall Term)](https://jobright.ai/jobs/info/688bf8d4906ac06e1d1cfd49?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Jul 31 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Sales Intern - Fall 2025](https://jobright.ai/jobs/info/688bf63d3a30793eb963eff0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jul 31 |
+| **[Solenis](http://solenis.com/)** | **[Solenis Sales and Technical Service Internship (Fall Term)](https://jobright.ai/jobs/info/688bf1cb3a30793eb963ee70?utm_campaign=1051&utm_source=git)** | United States of America, Idaho (Remote) | Remote | Jul 31 |
+| ↳ | **[Solenis Sales and Technical Service Internship](https://jobright.ai/jobs/info/688bf1a6906ac06e1d1cfa15?utm_campaign=1051&utm_source=git)** | United States of America, Delaware (Remote) | Remote | Jul 31 |
+| ↳ | **[Solenis Sales and Technical Service Internship (Fall Term)](https://jobright.ai/jobs/info/688bf12d1808534a89cb74b3?utm_campaign=1051&utm_source=git)** | United States of America, Georgia (Remote) | Remote | Jul 31 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Fall Intern (Remote)](https://jobright.ai/jobs/info/688bf10b906ac06e1d1cf926?utm_campaign=1051&utm_source=git)** | USA - Remote, CA | Remote | Jul 31 |
+| **[Retrofête](https://retrofete.com/)** | **[Showroom Internship](https://jobright.ai/jobs/info/688be92f3a30793eb963ea8e?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
 | **[Northwestern Mutual Goodwin, Wright](http://buckhead.nm.com/)** | **[College Financial Representative - Buckhead](https://jobright.ai/jobs/info/688be4b33a30793eb963e900?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jul 31 |
 | **[Markarian](https://markarian-nyc.com)** | **[Wholesale & Showroom Intern](https://jobright.ai/jobs/info/688bdb871808534a89cb6c4a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Sales](https://jobright.ai/jobs/info/688bd8643a30793eb963e269?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
@@ -101,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandise Assistant Internship (NYBO)](https://jobright.ai/jobs/info/688a76b609808a6103e4ef8d?utm_campaign=1051&utm_source=git)** | New York, NY 10018 | On Site | Jul 30 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (CHI)](https://jobright.ai/jobs/info/667972f78f20c6df6b899544?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jul 30 |
 | **[Jane Street](https://www.janestreet.com)** | **[Sales and Trading](https://jobright.ai/jobs/info/688a69c709808a6103e4e5ab?utm_campaign=1051&utm_source=git)** | New York, New York, United States | On Site | Jul 30 |
+| **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Virtual Sales (Internship or Full Time) Position](https://jobright.ai/jobs/info/6876b823ae2f413e4a5b2d1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Jul 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Performance Management](https://jobright.ai/jobs/info/688a5f5b09808a6103e4e22c?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Jul 30 |
 | **[BŪP](https://bup.ai)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/688a54cb9f961617fe21abcc?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Jul 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Senior Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688a4fbbaab47a17f6707ce5?utm_campaign=1051&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 30 |
@@ -142,19 +153,8 @@ For a complete list, click the following sortable link below:
 | **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6889399baab47a17f67000f5?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jul 29 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/6889361b9f961617fe212b76?utm_campaign=1051&utm_source=git)** | Brookings, SD | On Site | Jul 29 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/688935dfaab47a17f66ffe6f?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Jul 29 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (NASH)](https://jobright.ai/jobs/info/65075e7b78de930024e369c5?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Jul 29 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Fall - Box Office](https://jobright.ai/jobs/info/68892d93aab47a17f66ff9ff?utm_campaign=1051&utm_source=git)** | Harrison, NJ | On Site | Jul 29 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/68892b15aab47a17f66ff91e?utm_campaign=1051&utm_source=git)** | Annapolis, MD | On Site | Jul 29 |
 | **[OPmobility](https://www.opmobility.com)** | **[PURCHASING INTERN](https://jobright.ai/jobs/info/6880af4d16ea5743a373206f?utm_campaign=1051&utm_source=git)** | Michigan, United States | On Site | Jul 29 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/6889466faab47a17f670080b?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jul 29 |
-| ↳ | **[Technical Sales Intern](https://jobright.ai/jobs/info/6889454b09808a6103e46633?utm_campaign=1051&utm_source=git)** | Brookings, SD | On Site | Jul 29 |
-| ↳ | **[Technical Sales Intern](https://jobright.ai/jobs/info/688922b709808a6103e45549?utm_campaign=1051&utm_source=git)** | Brookings, South Dakota | On Site | Jul 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6889221109808a6103e45443?utm_campaign=1051&utm_source=git)** | Annapolis, Maryland | Remote | Jul 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688921f809808a6103e45420?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona | Remote | Jul 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/688921dc09808a6103e453ed?utm_campaign=1051&utm_source=git)** | Brookings, South Dakota | Hybrid | Jul 29 |
-| **[Corcoran Icon Properties](https://corcoranicon.com)** | **[Commercial Real Estate Brokerage Internship- Fall 2025](https://jobright.ai/jobs/info/688912249f961617fe21158a?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Jul 29 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/688911349f961617fe21151c?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Jul 29 |
-| ↳ | **[College Financial Representative](https://jobright.ai/jobs/info/6889074a09808a6103e443b7?utm_campaign=1051&utm_source=git)** | Pittsburgh Region | On Site | Jul 29 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1126 - La Crosse, WI](https://jobright.ai/jobs/info/688903369f961617fe210f3b?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Jul 29 |
-| ↳ | **[Retail Management Intern #816 - La Crosse, WI](https://jobright.ai/jobs/info/6889031109808a6103e441ac?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Jul 29 |
-| **[NJ Consulting Firm](https://www.njconsultingfirm.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/688900daaab47a17f66fe218?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
