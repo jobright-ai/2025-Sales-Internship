@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nathan Turbeville - State Farm](http://www.My615Agent.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/688e3b22e5cead4afd45c293?utm_campaign=1051&utm_source=git)** | Nolensville, TN | On Site | Aug 02 |
 | **[CIKA Consulting](cikaconsulting.com)** | **[Business Originator](https://jobright.ai/jobs/info/688e3056cdbd821a36640e6e?utm_campaign=1051&utm_source=git)** | Greater Houston | Remote | Aug 02 |
 | **[San Antonio Business Journal](https://www.bizjournals.com/sanantonio/)** | **[Advertising Sales Intern](https://jobright.ai/jobs/info/688e0e5e6a4aac5783cd82ca?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall Sales Internship at Safe Home Security](https://jobright.ai/jobs/info/688e06cdcdbd821a36640496?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (OC)](https://jobright.ai/jobs/info/65074778aaeb6ed3541a02e6?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Aug 01 |
 | **[Pennsylvania Horticultural Society (PHS)](http://www.phsonline.org/)** | **[Marketplace Intern](https://jobright.ai/jobs/info/688dc7b9e5cead4afd45ab36?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Cloudified Services Sales [Newtown Square]](https://jobright.ai/jobs/info/688c5f333a30793eb9642c74?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 31 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Long Island, NY (Starting Summer 2026)](https://jobright.ai/jobs/info/688c48a81808534a89cba479?utm_campaign=1051&utm_source=git)** | 101 Shore Rd, Port Washington,NY 11050-2259 | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
