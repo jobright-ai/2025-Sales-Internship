@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[Sales & Account Management Intern](https://jobright.ai/jobs/info/688e5574e5cead4afd45c6b7?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
+| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Global Revenue Operations](https://jobright.ai/jobs/info/688e7800e5cead4afd45ccdb?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 02 |
+| ↳ | **[Sales & Account Management Intern](https://jobright.ai/jobs/info/688e5574e5cead4afd45c6b7?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
 | **[Nathan Turbeville - State Farm](http://www.My615Agent.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/688e3b22e5cead4afd45c293?utm_campaign=1051&utm_source=git)** | Nolensville, TN | On Site | Aug 02 |
-| **[CIKA Consulting](cikaconsulting.com)** | **[Business Originator](https://jobright.ai/jobs/info/688e3056cdbd821a36640e6e?utm_campaign=1051&utm_source=git)** | Greater Houston | Remote | Aug 02 |
+| **[CIKA Consulting](cikaconsulting.com)** | **[Business Originator Intern](https://jobright.ai/jobs/info/688e3056cdbd821a36640e6e?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Aug 02 |
 | **[San Antonio Business Journal](https://www.bizjournals.com/sanantonio/)** | **[Advertising Sales Intern](https://jobright.ai/jobs/info/688e0e5e6a4aac5783cd82ca?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c291?utm_campaign=1051&utm_source=git)** | Kokomo, IN | On Site | Aug 02 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall Sales Internship at Safe Home Security](https://jobright.ai/jobs/info/688e06cdcdbd821a36640496?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Philip Morris International](https://www.pmi.com)** | **[Channel Development Intern](https://jobright.ai/jobs/info/688cbf0f1808534a89cbe9af?utm_campaign=1051&utm_source=git)** | Limaville, OH | On Site | Aug 01 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/688c81753a30793eb9643f2a?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Aug 01 |
 | **[Charleston Payroll](https://charlestonpayroll.com)** | **[Sales Internship](https://jobright.ai/jobs/info/688da68be5cead4afd458a75?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Aug 01 |
-| **[Improve Your Tomorrow](http://www.improveyourtomorrow.org)** | **[Social Entrepreneurship Intern](https://jobright.ai/jobs/info/688c75001808534a89cbc410?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
