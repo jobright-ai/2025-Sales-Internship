@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[Sales & Account Management Intern](https://jobright.ai/jobs/info/688e5574e5cead4afd45c6b7?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
 | **[Nathan Turbeville - State Farm](http://www.My615Agent.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/688e3b22e5cead4afd45c293?utm_campaign=1051&utm_source=git)** | Nolensville, TN | On Site | Aug 02 |
 | **[CIKA Consulting](cikaconsulting.com)** | **[Business Originator](https://jobright.ai/jobs/info/688e3056cdbd821a36640e6e?utm_campaign=1051&utm_source=git)** | Greater Houston | Remote | Aug 02 |
 | **[San Antonio Business Journal](https://www.bizjournals.com/sanantonio/)** | **[Advertising Sales Intern](https://jobright.ai/jobs/info/688e0e5e6a4aac5783cd82ca?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c291?utm_campaign=1051&utm_source=git)** | Kokomo, IN | On Site | Aug 02 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall Sales Internship at Safe Home Security](https://jobright.ai/jobs/info/688e06cdcdbd821a36640496?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2cb46e846b94de2cbd8a?utm_campaign=1051&utm_source=git)** | Ridgeland, MS | On Site | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Creator Partnerships Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68809c8670ad650948c57bf8?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
 | **[Sanofi](https://www.sanofi.com)** | **[Fall 2025 Co-Op-Intern - Global Patient Activation](https://jobright.ai/jobs/info/68717517a5ae807a59cffae4?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Aug 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Sales Development Representative Apprentice (New Grad)](https://jobright.ai/jobs/info/688dd6edcdbd821a3663fed4?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/688c81753a30793eb9643f2a?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Aug 01 |
 | **[Charleston Payroll](https://charlestonpayroll.com)** | **[Sales Internship](https://jobright.ai/jobs/info/688da68be5cead4afd458a75?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Aug 01 |
 | **[Improve Your Tomorrow](http://www.improveyourtomorrow.org)** | **[Social Entrepreneurship Intern](https://jobright.ai/jobs/info/688c75001808534a89cbc410?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 01 |
-| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (OC)](https://jobright.ai/jobs/info/65074778aaeb6ed3541a02e6?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Aug 01 |
-| **[Pennsylvania Horticultural Society (PHS)](http://www.phsonline.org/)** | **[Marketplace Intern](https://jobright.ai/jobs/info/688dc7b9e5cead4afd45ab36?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jul 31 |
-| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Cloudified Services Sales [Newtown Square]](https://jobright.ai/jobs/info/688c5f333a30793eb9642c74?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
