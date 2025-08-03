@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kaizen Marketing](https://www.kaizenmarketing.agency)** | **[Entry-Level Marketing and Sales Account Rep](https://jobright.ai/jobs/info/688f8ba3cdbd821a36645c1d?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Aug 03 |
-| **[GenPark](https://genpark.ai)** | **[Project Growth Intern](https://jobright.ai/jobs/info/688f7bec6a4aac5783cdd68c?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 03 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681e97b4170e24f29079e3e5?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Aug 03 |
 | **[Disability Rights California](http://www.disabilityrightsca.org)** | **[Be a Future DRC Employee!](https://jobright.ai/jobs/info/679db8a1c9d71e2ba9b938dd?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Aug 03 |
 | **[Sarthy Venture Investment Partners ](https://www.sarthy.vip)** | **[Intern](https://jobright.ai/jobs/info/688f498ce5cead4afd46091b?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Portland, ME](https://jobright.ai/jobs/info/681e3327a1a8a0c315c0507c?utm_campaign=1051&utm_source=git)** | Portland, ME | Hybrid | Aug 03 |
@@ -129,7 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Civilians in Conflict](https://www.civiliansinconflict.org)** | **[Development Intern (New York)](https://jobright.ai/jobs/info/688d332027f9022553c09ed6?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 01 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Long Island, NY (Starting Summer 2026)](https://jobright.ai/jobs/info/688d16f327f9022553c090a5?utm_campaign=1051&utm_source=git)** | Farmingdale, NY | Hybrid | Aug 01 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Greater Philadelphia , PA (Starting Summer 2026)](https://jobright.ai/jobs/info/688d17233a30793eb964873b?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 01 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Greater Pittsburgh, PA (Starting Summer 2026)](https://jobright.ai/jobs/info/688d9ebbe5cead4afd458419?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 01 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67fd4f5ba65d1903dadbb6d0?utm_campaign=1051&utm_source=git)** | Williamsburg, VA | On Site | Aug 01 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Greater Pittsburgh, PA (Starting Summer 2026)](https://jobright.ai/jobs/info/688d9ebbe5cead4afd458419?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 01 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Venture Capital Business Development Summer Analyst](https://jobright.ai/jobs/info/688ceeec3a30793eb9647513?utm_campaign=1051&utm_source=git)** | Balitmore | On Site | Aug 01 |
 | **[ILC Dover Astrospace ](https://www.ilcdoverastrospace.com)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/688e11c76a4aac5783cd8462?utm_campaign=1051&utm_source=git)** | Eaton County, MI | On Site | Aug 01 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[M&A Business Development Intern](https://jobright.ai/jobs/info/688ce0133a30793eb9646cf9?utm_campaign=1051&utm_source=git)** | United States - Wayne, PA | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Engagement - Portfolio Solutions Group - Off-Cycle Intern](https://jobright.ai/jobs/info/687603f25cebcd1dd51c59c4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Georgia Southern University](https://jobright.ai/jobs/info/688dcd566a4aac5783cd78e2?utm_campaign=1051&utm_source=git)** | Statesboro, GA | On Site | Aug 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c298?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Aug 01 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b2dc91165728bf8e40d6b?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
