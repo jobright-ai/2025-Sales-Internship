@@ -57,18 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vevolution](http://www.vevolution.com)** | **[Sales Manager](https://jobright.ai/jobs/info/688efa11cdbd821a36643eea?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6194](https://jobright.ai/jobs/info/688e9a59cdbd821a36641c45?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Aug 02 |
 | **[Woliba: A Comprehensive Employee Engagement & Benefits Solution](https://woliba.io)** | **[Sales Development Representative (SDR) Internship](https://jobright.ai/jobs/info/688ed459cdbd821a3664250c?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Aug 02 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6377](https://jobright.ai/jobs/info/688e8aa66a4aac5783cd9770?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Global Revenue Operations](https://jobright.ai/jobs/info/688e7800e5cead4afd45ccdb?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 02 |
 | ↳ | **[Sales & Account Management Intern](https://jobright.ai/jobs/info/688e5574e5cead4afd45c6b7?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
 | **[Nathan Turbeville - State Farm](http://www.My615Agent.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/688e3b22e5cead4afd45c293?utm_campaign=1051&utm_source=git)** | Nolensville, TN | On Site | Aug 02 |
-| **[CIKA Consulting](cikaconsulting.com)** | **[Business Originator Intern](https://jobright.ai/jobs/info/688e3056cdbd821a36640e6e?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Aug 02 |
+| **[CIKA Consulting](cikaconsulting.com)** | **[Business Originator](https://jobright.ai/jobs/info/688e3056cdbd821a36640e6e?utm_campaign=1051&utm_source=git)** | Greater Houston | Remote | Aug 02 |
 | **[Woliba: A Comprehensive Employee Engagement & Benefits Solution](https://woliba.io)** | **[🧑💼 Sales Development Representative (SDR) Internship](https://jobright.ai/jobs/info/688ed6bf6a4aac5783cda28a?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Aug 02 |
 | **[San Antonio Business Journal](https://www.bizjournals.com/sanantonio/)** | **[Advertising Sales Intern](https://jobright.ai/jobs/info/688e0e5e6a4aac5783cd82ca?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c291?utm_campaign=1051&utm_source=git)** | Kokomo, IN | On Site | Aug 02 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall Sales Internship at Safe Home Security](https://jobright.ai/jobs/info/688e06cdcdbd821a36640496?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2cb46e846b94de2cbd8a?utm_campaign=1051&utm_source=git)** | Ridgeland, MS | On Site | Aug 02 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c8220856ffd12ea08c461?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Creator Partnerships Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68809c8670ad650948c57bf8?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[E-Commerce Intern (Merchandising and Operations Focus) (Fall 2025)](https://jobright.ai/jobs/info/6874bcd9ae2f413e4a59fdec?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[Sanofi](https://www.sanofi.com)** | **[Fall 2025 Co-Op-Intern - Global Patient Activation](https://jobright.ai/jobs/info/68717517a5ae807a59cffae4?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Aug 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681ad5ad26eecdcda6e1b0a5?utm_campaign=1051&utm_source=git)** | St George, UT | On Site | Aug 01 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Commercial Internship - Summer 2026](https://jobright.ai/jobs/info/688cad321808534a89cbe434?utm_campaign=1051&utm_source=git)** | Schenectady, NY | On Site | Aug 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681ad5ad26eecdcda6e1b08a?utm_campaign=1051&utm_source=git)** | South Charleston, WV | On Site | Aug 01 |
-| **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6889ba24aab47a17f67050f0?utm_campaign=1051&utm_source=git)** | Harvey, LA | On Site | Aug 01 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b2dc91165728bf8e40d74?utm_campaign=1051&utm_source=git)** | Logan, UT | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
