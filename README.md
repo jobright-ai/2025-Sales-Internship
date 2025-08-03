@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6194](https://jobright.ai/jobs/info/688e9a59cdbd821a36641c45?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Aug 02 |
+| ↳ | **[Sales Clerk PT 6377](https://jobright.ai/jobs/info/688e8aa66a4aac5783cd9770?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Global Revenue Operations](https://jobright.ai/jobs/info/688e7800e5cead4afd45ccdb?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 02 |
 | ↳ | **[Sales & Account Management Intern](https://jobright.ai/jobs/info/688e5574e5cead4afd45c6b7?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
 | **[Nathan Turbeville - State Farm](http://www.My615Agent.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/688e3b22e5cead4afd45c293?utm_campaign=1051&utm_source=git)** | Nolensville, TN | On Site | Aug 02 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall Sales Internship at Safe Home Security](https://jobright.ai/jobs/info/688e06cdcdbd821a36640496?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2cb46e846b94de2cbd8a?utm_campaign=1051&utm_source=git)** | Ridgeland, MS | On Site | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Creator Partnerships Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68809c8670ad650948c57bf8?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[E-Commerce Intern (Merchandising and Operations Focus) (Fall 2025)](https://jobright.ai/jobs/info/6874bcd9ae2f413e4a59fdec?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[Sanofi](https://www.sanofi.com)** | **[Fall 2025 Co-Op-Intern - Global Patient Activation](https://jobright.ai/jobs/info/68717517a5ae807a59cffae4?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Aug 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Sales Development Representative Apprentice (New Grad)](https://jobright.ai/jobs/info/688dd6edcdbd821a3663fed4?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales Performance Management](https://jobright.ai/jobs/info/688dc407cdbd821a3663f3a4?utm_campaign=1051&utm_source=git)** | Hoover, AL | Hybrid | Aug 02 |
@@ -94,12 +97,14 @@ For a complete list, click the following sortable link below:
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/688d439a1808534a89cc246d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[Business Development Internship](https://jobright.ai/jobs/info/688d34901808534a89cc1e09?utm_campaign=1051&utm_source=git)** | Sarasota, FL | Remote | Aug 01 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Start Your Legacy HBCU Externship  - Sales & Marketing](https://jobright.ai/jobs/info/688d2b2827f9022553c09a07?utm_campaign=1051&utm_source=git)** | US – REMOTE | Remote | Aug 01 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b2dc91165728bf8e40d6a?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Aug 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/688d88dd6a4aac5783cd3288?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 01 |
 | **[Avantor](https://www.avantorsciences.com)** | **[Sales Rep Intern - Nevada](https://jobright.ai/jobs/info/688d23603a30793eb9648d09?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | Aug 01 |
 | **[Geniuses DM](http://geniusesdm.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/688d1c991808534a89cc1114?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Aug 01 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Kent State University](https://jobright.ai/jobs/info/68648a7584153b63ff401ed5?utm_campaign=1051&utm_source=git)** | Kent, OH | Hybrid | Aug 01 |
 | **[Red Velvet Studios](redvelvetstudio.com)** | **[A&R & Client Acquisition Intern](https://jobright.ai/jobs/info/688dc2c4e5cead4afd45a6b3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/688d87b6cdbd821a3663b2fa?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
+| **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Virtual Sales (Internship or Full Time) Position](https://jobright.ai/jobs/info/6876b823ae2f413e4a5b2d1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Avantor](https://www.avantorsciences.com)** | **[Sales Rep Intern - Nevada](https://jobright.ai/jobs/info/688d0dc227f9022553c08b4a?utm_campaign=1051&utm_source=git)** | Remote - Nevada | Remote | Aug 01 |
 | **[Compliance Partner | ComplianceDesk.tech](https://ComplianceDesk.tech)** | **[Business Development & Admin Marketing Support](https://jobright.ai/jobs/info/688d081f3a30793eb9647e97?utm_campaign=1051&utm_source=git)** | Atlanta Metro | Remote | Aug 01 |
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - Trading (DV Commodities)](https://jobright.ai/jobs/info/688d07b13a30793eb9647e71?utm_campaign=1051&utm_source=git)** | New York | On Site | Aug 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6889ba24aab47a17f67050f0?utm_campaign=1051&utm_source=git)** | Harvey, LA | On Site | Aug 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b2dc91165728bf8e40d74?utm_campaign=1051&utm_source=git)** | Logan, UT | On Site | Aug 01 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (ENC)](https://jobright.ai/jobs/info/65075e8278de930024e36b96?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67fd4f5ba65d1903dadbb6d3?utm_campaign=1051&utm_source=git)** | Mechanicsville, VA | On Site | Aug 01 |
-| **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/67a7505562c8951a8e6d862f?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 01 |
-| **[Philip Morris International](https://www.pmi.com)** | **[Channel Development Intern](https://jobright.ai/jobs/info/688cbf0f1808534a89cbe9af?utm_campaign=1051&utm_source=git)** | Limaville, OH | On Site | Aug 01 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/688c81753a30793eb9643f2a?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Aug 01 |
-| **[Charleston Payroll](https://charlestonpayroll.com)** | **[Sales Internship](https://jobright.ai/jobs/info/688da68be5cead4afd458a75?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
