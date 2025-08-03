@@ -58,11 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6194](https://jobright.ai/jobs/info/688e9a59cdbd821a36641c45?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Aug 02 |
-| ↳ | **[Sales Clerk PT 6377](https://jobright.ai/jobs/info/688e8aa66a4aac5783cd9770?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 02 |
+| **[Woliba: A Comprehensive Employee Engagement & Benefits Solution](https://woliba.io)** | **[Sales Development Representative (SDR) Internship](https://jobright.ai/jobs/info/688ed459cdbd821a3664250c?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Aug 02 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6377](https://jobright.ai/jobs/info/688e8aa66a4aac5783cd9770?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Global Revenue Operations](https://jobright.ai/jobs/info/688e7800e5cead4afd45ccdb?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 02 |
 | ↳ | **[Sales & Account Management Intern](https://jobright.ai/jobs/info/688e5574e5cead4afd45c6b7?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
 | **[Nathan Turbeville - State Farm](http://www.My615Agent.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/688e3b22e5cead4afd45c293?utm_campaign=1051&utm_source=git)** | Nolensville, TN | On Site | Aug 02 |
 | **[CIKA Consulting](cikaconsulting.com)** | **[Business Originator Intern](https://jobright.ai/jobs/info/688e3056cdbd821a36640e6e?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Aug 02 |
+| **[Woliba: A Comprehensive Employee Engagement & Benefits Solution](https://woliba.io)** | **[🧑💼 Sales Development Representative (SDR) Internship](https://jobright.ai/jobs/info/688ed6bf6a4aac5783cda28a?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Aug 02 |
 | **[San Antonio Business Journal](https://www.bizjournals.com/sanantonio/)** | **[Advertising Sales Intern](https://jobright.ai/jobs/info/688e0e5e6a4aac5783cd82ca?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c291?utm_campaign=1051&utm_source=git)** | Kokomo, IN | On Site | Aug 02 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall Sales Internship at Safe Home Security](https://jobright.ai/jobs/info/688e06cdcdbd821a36640496?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681ad5ad26eecdcda6e1b08a?utm_campaign=1051&utm_source=git)** | South Charleston, WV | On Site | Aug 01 |
 | **[Motion](https://www.motion.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6889ba24aab47a17f67050f0?utm_campaign=1051&utm_source=git)** | Harvey, LA | On Site | Aug 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b2dc91165728bf8e40d74?utm_campaign=1051&utm_source=git)** | Logan, UT | On Site | Aug 01 |
-| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (ENC)](https://jobright.ai/jobs/info/65075e8278de930024e36b96?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67fd4f5ba65d1903dadbb6d3?utm_campaign=1051&utm_source=git)** | Mechanicsville, VA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
