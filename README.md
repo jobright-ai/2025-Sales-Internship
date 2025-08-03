@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaizen Marketing](https://www.kaizenmarketing.agency)** | **[Entry-Level Marketing and Sales Account Rep](https://jobright.ai/jobs/info/688f8ba3cdbd821a36645c1d?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Aug 03 |
 | **[GenPark](https://genpark.ai)** | **[Project Growth Intern](https://jobright.ai/jobs/info/688f7bec6a4aac5783cdd68c?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 03 |
 | **[Disability Rights California](http://www.disabilityrightsca.org)** | **[Be a Future DRC Employee!](https://jobright.ai/jobs/info/679db8a1c9d71e2ba9b938dd?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Aug 03 |
 | **[Sarthy Venture Investment Partners ](https://www.sarthy.vip)** | **[Intern](https://jobright.ai/jobs/info/688f498ce5cead4afd46091b?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 03 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[E-Commerce Intern (Merchandising and Operations Focus) (Fall 2025)](https://jobright.ai/jobs/info/6874bcd9ae2f413e4a59fdec?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[Sanofi](https://www.sanofi.com)** | **[Fall 2025 Co-Op-Intern - Global Patient Activation](https://jobright.ai/jobs/info/68717517a5ae807a59cffae4?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Aug 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Sales Development Representative Apprentice (New Grad)](https://jobright.ai/jobs/info/688dd6edcdbd821a3663fed4?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
-| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales Performance Management](https://jobright.ai/jobs/info/688dc407cdbd821a3663f3a4?utm_campaign=1051&utm_source=git)** | Hoover, AL | Hybrid | Aug 02 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Services Sales [Washington, DC]](https://jobright.ai/jobs/info/688db182cdbd821a3663e05c?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b30fcf9f2bdb74ba4b3aa?utm_campaign=1051&utm_source=git)** | Southaven, MS | On Site | Aug 01 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/688d809fe5cead4afd455f38?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Aug 01 |
