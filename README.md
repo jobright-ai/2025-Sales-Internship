@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/68901d196a4aac5783cde432?utm_campaign=1051&utm_source=git)** | United States (Remote) | Remote | Aug 03 |
 | **[Kaizen Marketing](https://www.kaizenmarketing.agency)** | **[Entry-Level Marketing and Sales Account Rep](https://jobright.ai/jobs/info/688f8ba3cdbd821a36645c1d?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Aug 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681e97b4170e24f29079e3e5?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Aug 03 |
 | **[Disability Rights California](http://www.disabilityrightsca.org)** | **[Be a Future DRC Employee!](https://jobright.ai/jobs/info/679db8a1c9d71e2ba9b938dd?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Aug 03 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6194](https://jobright.ai/jobs/info/688e9a59cdbd821a36641c45?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Aug 02 |
 | **[Woliba: A Comprehensive Employee Engagement & Benefits Solution](https://woliba.io)** | **[Sales Development Representative (SDR) Internship](https://jobright.ai/jobs/info/688ed459cdbd821a3664250c?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Aug 02 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6377](https://jobright.ai/jobs/info/688e8aa66a4aac5783cd9770?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 02 |
-| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[Sales & Account Management Intern](https://jobright.ai/jobs/info/688e5574e5cead4afd45c6b7?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 02 |
 | **[Nathan Turbeville - State Farm](http://www.My615Agent.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/688e3b22e5cead4afd45c293?utm_campaign=1051&utm_source=git)** | Nolensville, TN | On Site | Aug 02 |
 | **[Woliba: A Comprehensive Employee Engagement & Benefits Solution](https://woliba.io)** | **[🧑💼 Sales Development Representative (SDR) Internship](https://jobright.ai/jobs/info/688ed6bf6a4aac5783cda28a?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Aug 02 |
 | **[San Antonio Business Journal](https://www.bizjournals.com/sanantonio/)** | **[Advertising Sales Intern](https://jobright.ai/jobs/info/688e0e5e6a4aac5783cd82ca?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
