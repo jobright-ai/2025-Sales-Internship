@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vibrantz Technologies Inc.](http://www.vibrantz.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68907a80f47efe211394d62d?utm_campaign=1051&utm_source=git)** | Mayfield Heights, OH | On Site | Aug 04 |
+| **[Volaris Group](http://www.volarisgroup.com/)** | **[M&A Business Development Intern](https://jobright.ai/jobs/info/68906df4f47efe211394d4b6?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Aug 04 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern - Mandarin Speaking](https://jobright.ai/jobs/info/689058854c7e851b90ac6318?utm_campaign=1051&utm_source=git)** | Queens / Manhattan, NY | On Site | Aug 03 |
 | **[M.M.LaFleur](http://mmlafleur.com)** | **[E-Commerce Intern (Merchandising + Operations Focus)](https://jobright.ai/jobs/info/6890580f4c7e851b90ac62a1?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Aug 03 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/689041aef47efe211394c0f7?utm_campaign=1051&utm_source=git)** | Newark, NJ | Hybrid | Aug 03 |
-| ↳ | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/68903acbf5ee707a15db4f64?utm_campaign=1051&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
+| ↳ | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/68903c85f5ee707a15db522d?utm_campaign=1051&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/68901d196a4aac5783cde432?utm_campaign=1051&utm_source=git)** | United States (Remote) | Remote | Aug 03 |
 | **[Kaizen Marketing](https://www.kaizenmarketing.agency)** | **[Entry-Level Marketing and Sales Account Rep](https://jobright.ai/jobs/info/688f8ba3cdbd821a36645c1d?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Aug 03 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/689049e14c7e851b90ac5d36?utm_campaign=1051&utm_source=git)** | Chapel Hill, NC | On Site | Aug 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660c9?utm_campaign=1051&utm_source=git)** | Florence, KY | On Site | Aug 01 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Bates City, MO - Summer 2026](https://jobright.ai/jobs/info/688cd6813a30793eb9646848?utm_campaign=1051&utm_source=git)** | Bates City, MO | On Site | Aug 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Pharmaceutical Sales Intern](https://jobright.ai/jobs/info/688cb8bb1808534a89cbe7dd?utm_campaign=1051&utm_source=git)** | Mettawa, IL | On Site | Aug 01 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Engagement - Portfolio Solutions Group - Off-Cycle Intern](https://jobright.ai/jobs/info/687603f25cebcd1dd51c59c4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Georgia Southern University](https://jobright.ai/jobs/info/688dcd566a4aac5783cd78e2?utm_campaign=1051&utm_source=git)** | Statesboro, GA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
