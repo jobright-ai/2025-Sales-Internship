@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern - Mandarin Speaking](https://jobright.ai/jobs/info/689058854c7e851b90ac6318?utm_campaign=1051&utm_source=git)** | Queens / Manhattan, NY | On Site | Aug 03 |
+| **[M.M.LaFleur](http://mmlafleur.com)** | **[E-Commerce Intern (Merchandising + Operations Focus)](https://jobright.ai/jobs/info/6890580f4c7e851b90ac62a1?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Aug 03 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/689041aef47efe211394c0f7?utm_campaign=1051&utm_source=git)** | Newark, NJ | Hybrid | Aug 03 |
-| ↳ | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/68903c85f5ee707a15db522d?utm_campaign=1051&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
+| ↳ | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/68903acbf5ee707a15db4f64?utm_campaign=1051&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/68901d196a4aac5783cde432?utm_campaign=1051&utm_source=git)** | United States (Remote) | Remote | Aug 03 |
 | **[Kaizen Marketing](https://www.kaizenmarketing.agency)** | **[Entry-Level Marketing and Sales Account Rep](https://jobright.ai/jobs/info/688f8ba3cdbd821a36645c1d?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Aug 03 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/689049e14c7e851b90ac5d36?utm_campaign=1051&utm_source=git)** | Chapel Hill, NC | On Site | Aug 03 |
@@ -83,12 +85,10 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Creator Partnerships Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68809c8670ad650948c57bf8?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[E-Commerce Intern (Merchandising and Operations Focus) (Fall 2025)](https://jobright.ai/jobs/info/6874bcd9ae2f413e4a59fdec?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[Sanofi](https://www.sanofi.com)** | **[Fall 2025 Co-Op-Intern - Global Patient Activation](https://jobright.ai/jobs/info/68717517a5ae807a59cffae4?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Aug 02 |
-| **[Salesforce](https://www.salesforce.com)** | **[Sales Development Representative Apprentice (New Grad)](https://jobright.ai/jobs/info/688dd6edcdbd821a3663fed4?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Services Sales [Washington, DC]](https://jobright.ai/jobs/info/688db182cdbd821a3663e05c?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b30fcf9f2bdb74ba4b3aa?utm_campaign=1051&utm_source=git)** | Southaven, MS | On Site | Aug 01 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/688d809fe5cead4afd455f38?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688e2c4ae5cead4afd45bf35?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6083](https://jobright.ai/jobs/info/688d71a83a30793eb964af23?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Aug 01 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Start Your Legacy HBCU Externship  - Sales & Marketing](https://jobright.ai/jobs/info/688d67ca1808534a89cc318f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/688d67b827f9022553c0b452?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | ↳ | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/688d667d27f9022553c0b38b?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
