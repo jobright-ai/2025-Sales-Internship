@@ -57,23 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MeaVana ](https://meavana.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68908829f5ee707a15db72a5?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Aug 04 |
 | **[Vibrantz Technologies Inc.](http://www.vibrantz.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68907a80f47efe211394d62d?utm_campaign=1051&utm_source=git)** | Mayfield Heights, OH | On Site | Aug 04 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[M&A Business Development Intern](https://jobright.ai/jobs/info/68906df4f47efe211394d4b6?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Aug 04 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Business Development Intern - Mandarin Speaking](https://jobright.ai/jobs/info/689058854c7e851b90ac6318?utm_campaign=1051&utm_source=git)** | Queens / Manhattan, NY | On Site | Aug 03 |
 | **[M.M.LaFleur](http://mmlafleur.com)** | **[E-Commerce Intern (Merchandising + Operations Focus)](https://jobright.ai/jobs/info/6890580f4c7e851b90ac62a1?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Aug 03 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/689041aef47efe211394c0f7?utm_campaign=1051&utm_source=git)** | Newark, NJ | Hybrid | Aug 03 |
-| ↳ | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/68903c85f5ee707a15db522d?utm_campaign=1051&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
+| ↳ | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/68903acbf5ee707a15db4f64?utm_campaign=1051&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/68901d196a4aac5783cde432?utm_campaign=1051&utm_source=git)** | United States (Remote) | Remote | Aug 03 |
 | **[Kaizen Marketing](https://www.kaizenmarketing.agency)** | **[Entry-Level Marketing and Sales Account Rep](https://jobright.ai/jobs/info/688f8ba3cdbd821a36645c1d?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Aug 03 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/689049e14c7e851b90ac5d36?utm_campaign=1051&utm_source=git)** | Chapel Hill, NC | On Site | Aug 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681e97b4170e24f29079e3e5?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Aug 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68908b83f47efe211394dc4a?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Aug 03 |
 | **[Disability Rights California](http://www.disabilityrightsca.org)** | **[Be a Future DRC Employee!](https://jobright.ai/jobs/info/679db8a1c9d71e2ba9b938dd?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Aug 03 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Portland, ME](https://jobright.ai/jobs/info/681e3327a1a8a0c315c0507c?utm_campaign=1051&utm_source=git)** | Portland, ME | Hybrid | Aug 03 |
 | **[HOLLY HUNT](https://www.hollyhunt.com/)** | **[Intern](https://jobright.ai/jobs/info/683a59be9f02644afac3c1e4?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Aug 03 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/683a1180376e93ef5ce6c249?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d28?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660e9?utm_campaign=1051&utm_source=git)** | Schererville, IN | On Site | Aug 02 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6194](https://jobright.ai/jobs/info/688e9a59cdbd821a36641c45?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Aug 02 |
 | **[Woliba: A Comprehensive Employee Engagement & Benefits Solution](https://woliba.io)** | **[Sales Development Representative (SDR) Internship](https://jobright.ai/jobs/info/688ed459cdbd821a3664250c?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Aug 02 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6377](https://jobright.ai/jobs/info/688e8aa66a4aac5783cd9770?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Nathan Turbeville - State Farm](http://www.My615Agent.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/688e3b22e5cead4afd45c293?utm_campaign=1051&utm_source=git)** | Nolensville, TN | On Site | Aug 02 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Creator Partnerships Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68809c8670ad650948c57bf8?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[E-Commerce Intern (Merchandising and Operations Focus) (Fall 2025)](https://jobright.ai/jobs/info/6874bcd9ae2f413e4a59fdec?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[Sanofi](https://www.sanofi.com)** | **[Fall 2025 Co-Op-Intern - Global Patient Activation](https://jobright.ai/jobs/info/68717517a5ae807a59cffae4?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Aug 02 |
+| **[Performant Healthcare, Inc. ](http://www.performantcorp.com/)** | **[Intern Customer Success](https://jobright.ai/jobs/info/681be3bdfddbafe5db44e90d?utm_campaign=1051&utm_source=git)** | Plantation, FL | On Site | Aug 02 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Services Sales [Washington, DC]](https://jobright.ai/jobs/info/688db182cdbd821a3663e05c?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Aug 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b30fcf9f2bdb74ba4b3aa?utm_campaign=1051&utm_source=git)** | Southaven, MS | On Site | Aug 01 |
 | **[Kidder Mathews](https://kidder.com/)** | **[Broker Intern](https://jobright.ai/jobs/info/688d809fe5cead4afd455f38?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Aug 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Civilians in Conflict](https://www.civiliansinconflict.org)** | **[Development Intern (New York)](https://jobright.ai/jobs/info/688cbc8c27f9022553c06a92?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Aug 01 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Winter 2026 Golf Ball Fitting Internship / Titleist](https://jobright.ai/jobs/info/68703629a5ae807a59cf6b46?utm_campaign=1051&utm_source=git)** | Fairhaven, MA | On Site | Aug 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660c9?utm_campaign=1051&utm_source=git)** | Florence, KY | On Site | Aug 01 |
-| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Bates City, MO - Summer 2026](https://jobright.ai/jobs/info/688cd6813a30793eb9646848?utm_campaign=1051&utm_source=git)** | Bates City, MO | On Site | Aug 01 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Pharmaceutical Sales Intern](https://jobright.ai/jobs/info/688cb8bb1808534a89cbe7dd?utm_campaign=1051&utm_source=git)** | Mettawa, IL | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
