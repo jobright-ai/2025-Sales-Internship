@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/689041aef47efe211394c0f7?utm_campaign=1051&utm_source=git)** | Newark, NJ | Hybrid | Aug 03 |
+| ↳ | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/68903c85f5ee707a15db522d?utm_campaign=1051&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 03 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/68901d196a4aac5783cde432?utm_campaign=1051&utm_source=git)** | United States (Remote) | Remote | Aug 03 |
 | **[Kaizen Marketing](https://www.kaizenmarketing.agency)** | **[Entry-Level Marketing and Sales Account Rep](https://jobright.ai/jobs/info/688f8ba3cdbd821a36645c1d?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Aug 03 |
+| **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/689049e14c7e851b90ac5d36?utm_campaign=1051&utm_source=git)** | Chapel Hill, NC | On Site | Aug 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681e97b4170e24f29079e3e5?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Aug 03 |
 | **[Disability Rights California](http://www.disabilityrightsca.org)** | **[Be a Future DRC Employee!](https://jobright.ai/jobs/info/679db8a1c9d71e2ba9b938dd?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Aug 03 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Portland, ME](https://jobright.ai/jobs/info/681e3327a1a8a0c315c0507c?utm_campaign=1051&utm_source=git)** | Portland, ME | Hybrid | Aug 03 |
 | **[HOLLY HUNT](https://www.hollyhunt.com/)** | **[Intern](https://jobright.ai/jobs/info/683a59be9f02644afac3c1e4?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Aug 03 |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/683a1180376e93ef5ce6c249?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d28?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 03 |
-| **[Vevolution](http://www.vevolution.com)** | **[Sales Manager](https://jobright.ai/jobs/info/688efa11cdbd821a36643eea?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 02 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c2b9b45a16442d56660e9?utm_campaign=1051&utm_source=git)** | Schererville, IN | On Site | Aug 02 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6194](https://jobright.ai/jobs/info/688e9a59cdbd821a36641c45?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Aug 02 |
 | **[Woliba: A Comprehensive Employee Engagement & Benefits Solution](https://woliba.io)** | **[Sales Development Representative (SDR) Internship](https://jobright.ai/jobs/info/688ed459cdbd821a3664250c?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Aug 02 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6377](https://jobright.ai/jobs/info/688e8aa66a4aac5783cd9770?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Pharmaceutical Sales Intern](https://jobright.ai/jobs/info/688cb8bb1808534a89cbe7dd?utm_campaign=1051&utm_source=git)** | Mettawa, IL | On Site | Aug 01 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Engagement - Portfolio Solutions Group - Off-Cycle Intern](https://jobright.ai/jobs/info/687603f25cebcd1dd51c59c4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Georgia Southern University](https://jobright.ai/jobs/info/688dcd566a4aac5783cd78e2?utm_campaign=1051&utm_source=git)** | Statesboro, GA | On Site | Aug 01 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c298?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Aug 01 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b2dc91165728bf8e40d6b?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Aug 01 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c287?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Aug 01 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Commercial Internship - Summer 2026](https://jobright.ai/jobs/info/688cb19c1808534a89cbe4fc?utm_campaign=1051&utm_source=git)** | Charleroi, PA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
