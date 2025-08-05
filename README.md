@@ -57,15 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/689260184c7e851b90ad5309?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
-| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68926003f5ee707a15dc5264?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Aug 05 |
-| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925fe64c7e851b90ad52b2?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT (Hartford) | On Site | Aug 05 |
-| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925fca4c7e851b90ad5288?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[GABRIEL AI](https://home.gabrielai.co/)** | **[Sales And Marketing Specialist Intern](https://jobright.ai/jobs/info/689278194c7e851b90ad6071?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 05 |
+| **[LogRocket](https://logrocket.com)** | **[Sales and Marketing Operations Intern](https://jobright.ai/jobs/info/689277e24c7e851b90ad604e?utm_campaign=1051&utm_source=git)** | Boston or NYC | Remote | Aug 05 |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/689276a24c7e851b90ad5f87?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[Hustle Magazine](www.hustlemagazine.co)** | **[Brand Partnership Intern](https://jobright.ai/jobs/info/68926f56f47efe211395c574?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Chief Commercial Office (New York, NY)](https://jobright.ai/jobs/info/68926f194c7e851b90ad5bfe?utm_campaign=1051&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 05 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68926a48f5ee707a15dc570c?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Aug 05 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/6892609ef5ee707a15dc5356?utm_campaign=1051&utm_source=git)** | Chelmsford, MA (Lexington) | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/6892608af5ee707a15dc533c?utm_campaign=1051&utm_source=git)** | South Portland, ME (Portland) | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Wealth Service Delivery (Pittsburgh, PA)](https://jobright.ai/jobs/info/68926073f47efe211395bea9?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 05 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68926064f47efe211395be9a?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ (Woodbury) | On Site | Aug 05 |
+| **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Sales Operations](https://jobright.ai/jobs/info/68926057f5ee707a15dc52f6?utm_campaign=1051&utm_source=git)** | Atlanta-GA-US | On Site | Aug 05 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/689260274c7e851b90ad5321?utm_campaign=1051&utm_source=git)** | Bedford, NH | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68926003f5ee707a15dc5265?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925fb4f5ee707a15dc51f0?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT (Hartford) | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f9bf47efe211395bd87?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f9bf47efe211395bd86?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Aug 05 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Brand Partnerships & Experiential Co-op](https://jobright.ai/jobs/info/68925f86f5ee707a15dc51a7?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Aug 05 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f71f5ee707a15dc518c?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ (Woodbury) | On Site | Aug 05 |
-| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f62f47efe211395bd21?utm_campaign=1051&utm_source=git)** | Chelmsford, MA (Lexington) | On Site | Aug 05 |
-| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f49f47efe211395bcfc?utm_campaign=1051&utm_source=git)** | Parsippany, NJ (Fairfield) | On Site | Aug 05 |
-| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f284c7e851b90ad51d7?utm_campaign=1051&utm_source=git)** | South Portland, ME (Portland) | On Site | Aug 05 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f49f47efe211395bcfc?utm_campaign=1051&utm_source=git)** | Parsippany, NJ (Fairfield) | On Site | Aug 05 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall 2025 Financial Representative Internship](https://jobright.ai/jobs/info/689255c74c7e851b90ad4a85?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Aug 05 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924f89f5ee707a15dc481a?utm_campaign=1051&utm_source=git)** | Fort Gratiot, MI | On Site | Aug 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924f814c7e851b90ad4874?utm_campaign=1051&utm_source=git)** | Lufkin, TX | On Site | Aug 05 |
@@ -74,13 +83,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924b60f47efe211395b200?utm_campaign=1051&utm_source=git)** | Florence, KY | On Site | Aug 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924b4bf47efe211395b1f7?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Aug 05 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924a06f47efe211395b178?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Tidewater Area/Hampton Roads, VA (Starting Summer 2026)](https://jobright.ai/jobs/info/689261364c7e851b90ad53e3?utm_campaign=1051&utm_source=git)** | Norfolk, VA | Hybrid | Aug 05 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Intern](https://jobright.ai/jobs/info/6892425cf47efe211395ae3f?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Aug 05 |
 | **[Alpine School District CTE Internships](https://cte.alpineschools.org/student-internships/)** | **[Interested in Alpine's 2027 Sourcing Summer Analyst Program?](https://jobright.ai/jobs/info/68924053f5ee707a15dc4155?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 05 |
 | **[Graco](http://graco.com/in/en/)** | **[Planner Buyer Intern](https://jobright.ai/jobs/info/68923d9ef5ee707a15dc4034?utm_campaign=1051&utm_source=git)** | North Canton, OH | On Site | Aug 05 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68923d4ff5ee707a15dc4015?utm_campaign=1051&utm_source=git)** | Utica, NY | Hybrid | Aug 05 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Central Virginia - Richmond/Mechanicsville/Glen Allen (Starting Summer 2026)](https://jobright.ai/jobs/info/68925b2c4c7e851b90ad5056?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Nashville/Knoxville, TN & Huntsville, AL (Starting Summer 2026)](https://jobright.ai/jobs/info/6892586e4c7e851b90ad4da0?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Aug 05 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Nashville/Knoxville, TN & Huntsville, AL (Starting Summer 2026)](https://jobright.ai/jobs/info/6892586e4c7e851b90ad4da0?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Aug 05 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Roanoke/Charlottesville/Harrisonburg/Western VA (Starting Summer 2026)](https://jobright.ai/jobs/info/689258f64c7e851b90ad4e5d?utm_campaign=1051&utm_source=git)** | Roanoke, VA | Hybrid | Aug 05 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Central Virginia - Richmond/Mechanicsville/Glen Allen (Starting Summer 2026)](https://jobright.ai/jobs/info/68925b2c4c7e851b90ad5056?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Aug 05 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68923a62f47efe211395aa4e?utm_campaign=1051&utm_source=git)** | Carlsbad, CA | Hybrid | Aug 05 |
 | **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Business Intern](https://jobright.ai/jobs/info/689238f6f5ee707a15dc3ebf?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Aug 05 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/689238c7f47efe211395a9e0?utm_campaign=1051&utm_source=git)** | League City, TX | Hybrid | Aug 05 |
@@ -118,15 +128,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922def4c7e851b90ad3a6f?utm_campaign=1051&utm_source=git)** | Charleston, WV | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922d9ef5ee707a15dc39fb?utm_campaign=1051&utm_source=git)** | Clovis, CA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922d90f5ee707a15dc39f1?utm_campaign=1051&utm_source=git)** | Pomona, CA | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922d7bf5ee707a15dc39e5?utm_campaign=1051&utm_source=git)** | Metairie, LA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922d7bf5ee707a15dc39e6?utm_campaign=1051&utm_source=git)** | New Bedford, MA | Hybrid | Aug 05 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922d7bf5ee707a15dc39e5?utm_campaign=1051&utm_source=git)** | Metairie, LA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922d7a4c7e851b90ad3a32?utm_campaign=1051&utm_source=git)** | Roseville, CA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922d1d4c7e851b90ad3a0e?utm_campaign=1051&utm_source=git)** | Torrance, CA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922d084c7e851b90ad3a02?utm_campaign=1051&utm_source=git)** | Logan, UT | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cbcf5ee707a15dc3995?utm_campaign=1051&utm_source=git)** | Lynchburg, VA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cacf47efe211395a4a6?utm_campaign=1051&utm_source=git)** | Thornton, CO | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cacf47efe211395a4a8?utm_campaign=1051&utm_source=git)** | Leesburg, FL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cacf47efe211395a4a7?utm_campaign=1051&utm_source=git)** | Hemet, CA | Hybrid | Aug 05 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cacf47efe211395a4a8?utm_campaign=1051&utm_source=git)** | Leesburg, FL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922ca2f5ee707a15dc398b?utm_campaign=1051&utm_source=git)** | Pembroke Pines, FL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c86f47efe211395a497?utm_campaign=1051&utm_source=git)** | Fairfield, CA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c704c7e851b90ad39bb?utm_campaign=1051&utm_source=git)** | Racine, WI | Hybrid | Aug 05 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922ba44c7e851b90ad395c?utm_campaign=1051&utm_source=git)** | Muskegon, MI | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922ba44c7e851b90ad395d?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922b3cf47efe211395a406?utm_campaign=1051&utm_source=git)** | Palmdale, CA | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922b1ef47efe211395a400?utm_campaign=1051&utm_source=git)** | Arvada, CO | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922b10f5ee707a15dc38dc?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922b04f5ee707a15dc38d6?utm_campaign=1051&utm_source=git)** | Naperville, IL | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922af14c7e851b90ad3925?utm_campaign=1051&utm_source=git)** | St George, UT | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922aeff5ee707a15dc38d0?utm_campaign=1051&utm_source=git)** | High Point, NC | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922ac6f5ee707a15dc38c6?utm_campaign=1051&utm_source=git)** | Seaside, CA | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922a81f47efe211395a3ca?utm_campaign=1051&utm_source=git)** | Evansville, IN | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922a5ff5ee707a15dc38a1?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922a51f47efe211395a3ac?utm_campaign=1051&utm_source=git)** | McKinney, TX | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922a14f47efe211395a396?utm_campaign=1051&utm_source=git)** | Duluth, MN | Hybrid | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
