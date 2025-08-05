@@ -57,11 +57,31 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/689260184c7e851b90ad5309?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68926003f5ee707a15dc5264?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925fe64c7e851b90ad52b2?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT (Hartford) | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925fca4c7e851b90ad5288?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Brand Partnerships & Experiential Co-op](https://jobright.ai/jobs/info/68925f86f5ee707a15dc51a7?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Aug 05 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f71f5ee707a15dc518c?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ (Woodbury) | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f62f47efe211395bd21?utm_campaign=1051&utm_source=git)** | Chelmsford, MA (Lexington) | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f49f47efe211395bcfc?utm_campaign=1051&utm_source=git)** | Parsippany, NJ (Fairfield) | On Site | Aug 05 |
+| ↳ | **[Returning Finance/Marketing/Sales/Environmental Intern/Co-op - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68925f284c7e851b90ad51d7?utm_campaign=1051&utm_source=git)** | South Portland, ME (Portland) | On Site | Aug 05 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Fall 2025 Financial Representative Internship](https://jobright.ai/jobs/info/689255c74c7e851b90ad4a85?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Aug 05 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924f89f5ee707a15dc481a?utm_campaign=1051&utm_source=git)** | Fort Gratiot, MI | On Site | Aug 05 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924f814c7e851b90ad4874?utm_campaign=1051&utm_source=git)** | Lufkin, TX | On Site | Aug 05 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924db1f47efe211395b2f7?utm_campaign=1051&utm_source=git)** | Mishawaka, IN | On Site | Aug 05 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924b8ef47efe211395b215?utm_campaign=1051&utm_source=git)** | Paducah, KY | On Site | Aug 05 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924b60f47efe211395b200?utm_campaign=1051&utm_source=git)** | Florence, KY | On Site | Aug 05 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924b4bf47efe211395b1f7?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Aug 05 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68924a06f47efe211395b178?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Intern](https://jobright.ai/jobs/info/6892425cf47efe211395ae3f?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Aug 05 |
 | **[Alpine School District CTE Internships](https://cte.alpineschools.org/student-internships/)** | **[Interested in Alpine's 2027 Sourcing Summer Analyst Program?](https://jobright.ai/jobs/info/68924053f5ee707a15dc4155?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 05 |
 | **[Graco](http://graco.com/in/en/)** | **[Planner Buyer Intern](https://jobright.ai/jobs/info/68923d9ef5ee707a15dc4034?utm_campaign=1051&utm_source=git)** | North Canton, OH | On Site | Aug 05 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68923d4ff5ee707a15dc4015?utm_campaign=1051&utm_source=git)** | Utica, NY | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68923a62f47efe211395aa4e?utm_campaign=1051&utm_source=git)** | Carlsbad, CA | Hybrid | Aug 05 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Central Virginia - Richmond/Mechanicsville/Glen Allen (Starting Summer 2026)](https://jobright.ai/jobs/info/68925b2c4c7e851b90ad5056?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Aug 05 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Nashville/Knoxville, TN & Huntsville, AL (Starting Summer 2026)](https://jobright.ai/jobs/info/6892586e4c7e851b90ad4da0?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Aug 05 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Roanoke/Charlottesville/Harrisonburg/Western VA (Starting Summer 2026)](https://jobright.ai/jobs/info/689258f64c7e851b90ad4e5d?utm_campaign=1051&utm_source=git)** | Roanoke, VA | Hybrid | Aug 05 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68923a62f47efe211395aa4e?utm_campaign=1051&utm_source=git)** | Carlsbad, CA | Hybrid | Aug 05 |
 | **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Business Intern](https://jobright.ai/jobs/info/689238f6f5ee707a15dc3ebf?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Aug 05 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/689238c7f47efe211395a9e0?utm_campaign=1051&utm_source=git)** | League City, TX | Hybrid | Aug 05 |
 | **[Delfina](https://www.delfina.com/)** | **[Business Development Analyst (Contract / Intern)](https://jobright.ai/jobs/info/6892386af47efe211395a9bf?utm_campaign=1051&utm_source=git)** | US - Remote | Remote | Aug 05 |
@@ -104,14 +124,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922d1d4c7e851b90ad3a0e?utm_campaign=1051&utm_source=git)** | Torrance, CA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922d084c7e851b90ad3a02?utm_campaign=1051&utm_source=git)** | Logan, UT | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cbcf5ee707a15dc3995?utm_campaign=1051&utm_source=git)** | Lynchburg, VA | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cacf47efe211395a4a7?utm_campaign=1051&utm_source=git)** | Hemet, CA | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cacf47efe211395a4a8?utm_campaign=1051&utm_source=git)** | Leesburg, FL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cacf47efe211395a4a6?utm_campaign=1051&utm_source=git)** | Thornton, CO | Hybrid | Aug 05 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cacf47efe211395a4a8?utm_campaign=1051&utm_source=git)** | Leesburg, FL | Hybrid | Aug 05 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922cacf47efe211395a4a7?utm_campaign=1051&utm_source=git)** | Hemet, CA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922ca2f5ee707a15dc398b?utm_campaign=1051&utm_source=git)** | Pembroke Pines, FL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c86f47efe211395a497?utm_campaign=1051&utm_source=git)** | Fairfield, CA | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c704c7e851b90ad39bc?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c704c7e851b90ad39bb?utm_campaign=1051&utm_source=git)** | Racine, WI | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c4af5ee707a15dc3970?utm_campaign=1051&utm_source=git)** | Stamford, CT | Hybrid | Aug 05 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c704c7e851b90ad39bc?utm_campaign=1051&utm_source=git)** | Miramar, FL | Hybrid | Aug 05 |
+| **[Solar Energy Industries Association](http://www.seia.org)** | **[Business Development Fall Intern 2025](https://jobright.ai/jobs/info/68924c2af5ee707a15dc46cf?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Aug 05 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c4af5ee707a15dc3970?utm_campaign=1051&utm_source=git)** | Stamford, CT | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c314c7e851b90ad39a4?utm_campaign=1051&utm_source=git)** | Santa Barbara, CA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c25f47efe211395a46e?utm_campaign=1051&utm_source=git)** | Springfield, IL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922c1df5ee707a15dc395b?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | Hybrid | Aug 05 |
@@ -123,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922bd3f5ee707a15dc393f?utm_campaign=1051&utm_source=git)** | Spring Hill, FL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922badf47efe211395a424?utm_campaign=1051&utm_source=git)** | South Lyon, MI | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922ba6f47efe211395a420?utm_campaign=1051&utm_source=git)** | Topeka, KS | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922ba44c7e851b90ad395d?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922ba44c7e851b90ad395c?utm_campaign=1051&utm_source=git)** | Muskegon, MI | Hybrid | Aug 05 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922ba44c7e851b90ad395d?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922b3cf47efe211395a406?utm_campaign=1051&utm_source=git)** | Palmdale, CA | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922b1ef47efe211395a400?utm_campaign=1051&utm_source=git)** | Arvada, CO | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922b10f5ee707a15dc38dc?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | Hybrid | Aug 05 |
@@ -136,25 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922a5ff5ee707a15dc38a1?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922a51f47efe211395a3ac?utm_campaign=1051&utm_source=git)** | McKinney, TX | Hybrid | Aug 05 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922a14f47efe211395a396?utm_campaign=1051&utm_source=git)** | Duluth, MN | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922a13f5ee707a15dc3880?utm_campaign=1051&utm_source=git)** | Las Cruces, NM | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922a05f47efe211395a390?utm_campaign=1051&utm_source=git)** | Kenosha, WI | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689229d1f5ee707a15dc386b?utm_campaign=1051&utm_source=git)** | Norwich, CT | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922998f5ee707a15dc3856?utm_campaign=1051&utm_source=git)** | Redding, CA | Hybrid | Aug 05 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922983f5ee707a15dc384b?utm_campaign=1051&utm_source=git)** | Greenville, NC | Hybrid | Aug 05 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Washington, D.C./PG County, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/68922982f47efe211395a356?utm_campaign=1051&utm_source=git)** | 4600 Mitchellville Rd, Bowie,MD 20716-3110 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Baltimore, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/68922979f47efe211395a34e?utm_campaign=1051&utm_source=git)** | 200 Malcolm Dr, Westminster,MD 21157-6110 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Waldorf/Annapolis/Brandywine, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/68922979f47efe211395a34c?utm_campaign=1051&utm_source=git)** | 2384 BRANDERMILL BLVD, Gambrills,MD 21054-1850 | Hybrid | Aug 05 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68922978f5ee707a15dc3848?utm_campaign=1051&utm_source=git)** | Elkhart, IN | Hybrid | Aug 05 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Central Maryland - Laurel/Silver Spring/Rockville, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/68922968f47efe211395a33c?utm_campaign=1051&utm_source=git)** | 11160 Veirs Mill Rd, Silver Spring,MD 20902-2538 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Central Maryland - Laurel/Silver Spring/Rockville, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/68922960f47efe211395a332?utm_campaign=1051&utm_source=git)** | 3343 Corridor Marketplace, Laurel,MD 20724-2378 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Washington, D.C./PG County, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/68922955f47efe211395a326?utm_campaign=1051&utm_source=git)** | 1500 Wilson Blvd, Rosslyn,VA 22209-2458 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Washington, D.C./PG County, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/6892294af47efe211395a318?utm_campaign=1051&utm_source=git)** | 900 Army Navy Dr, Ste a2, Arlington,VA 22202-4935 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Northern Virginia & Washington, D.C. (Starting Summer 2026)](https://jobright.ai/jobs/info/689229274c7e851b90ad38be?utm_campaign=1051&utm_source=git)** | 6100 Arlington Blvd, Falls Church, VA 22044-2901 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Northern Virginia & Washington, D.C. (Starting Summer 2026)](https://jobright.ai/jobs/info/689229274c7e851b90ad38bd?utm_campaign=1051&utm_source=git)** | 25 S Gateway Dr, Fredericksburg, VA 22406-1228 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Baltimore, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/689229274c7e851b90ad38bc?utm_campaign=1051&utm_source=git)** | 11200 Reisterstown Rd, Owings Mills,MD 21117-1903 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Waldorf/Annapolis/Brandywine, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/689228fe4c7e851b90ad389d?utm_campaign=1051&utm_source=git)** | 1911 Towne Centre Blvd, Annapolis,MD 21401-3020 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Baltimore, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/689228ccf5ee707a15dc380e?utm_campaign=1051&utm_source=git)** | 1737 Reisterstown Rd, Pikesville,MD 21208-2907 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Baltimore, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/689228c3f47efe211395a308?utm_campaign=1051&utm_source=git)** | 1025 Middleton Rd, Aberdeen,MD 21001-2263 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Baltimore, MD (Starting Summer 2026)](https://jobright.ai/jobs/info/689228c2f5ee707a15dc3804?utm_campaign=1051&utm_source=git)** | 3559 Boston Street, Baltimore,MD 21224-5750 | Hybrid | Aug 05 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Northern Virginia & Washington, D.C. (Starting Summer 2026)](https://jobright.ai/jobs/info/689228c04c7e851b90ad386b?utm_campaign=1051&utm_source=git)** | 9900 Sowder Village Sq, Manassas, VA 20109-5464 | Hybrid | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
