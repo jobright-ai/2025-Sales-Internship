@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6893ea8aa9199876488e10c7?utm_campaign=1051&utm_source=git)** | Buford, GA | On Site | Aug 06 |
 | **[RxCloud](https://www.therxcloud.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6893d61ca9199876488e07c0?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Aug 06 |
 | **[Alli CBD Marketplace](https://www.linkedin.com/company/92619289)** | **[Sales Intern](https://jobright.ai/jobs/info/6893ce9ff47efe2113967267?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Aug 06 |
+| **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Inside Sales Representative (REMOTE)](https://jobright.ai/jobs/info/68671c9760cea6c41d2b32a2?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6893c8b6f47efe2113966f4b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Ariventures Abroad](ariventuresabroad.co)** | **[Partnerships & Programs Intern](https://jobright.ai/jobs/info/68941d964c7e851b90ae2fa5?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 06 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Partnerships & Business Development Intern](https://jobright.ai/jobs/info/6893c54f4c7e851b90ae04c1?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Aug 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689388e4f47efe2113964cad?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938890a9199876488de05d?utm_campaign=1051&utm_source=git)** | Suffolk, VA | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938874a9199876488de051?utm_campaign=1051&utm_source=git)** | Hoover, AL | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938829a9199876488de033?utm_campaign=1051&utm_source=git)** | Kingsport, TN | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
