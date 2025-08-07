@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern Conversion Only - Corporate Risk and Broking Graduate Development Program -Multicultural Client Management - 2026](https://jobright.ai/jobs/info/6893ffd1a9199876488e1ad5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 06 |
+| **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Philadelphia Wings Intern, Ticket Sales & Service](https://jobright.ai/jobs/info/6893fdf84c7e851b90ae1df8?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Corporate Development Intern (Summer 2026)](https://jobright.ai/jobs/info/6893fd4b4c7e851b90ae1d1e?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Aug 06 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern**](https://jobright.ai/jobs/info/6893fd104c7e851b90ae1cc5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Aug 06 |
+| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Fall Internship 2025 - Planning & Allocation](https://jobright.ai/jobs/info/6893fad64c7e851b90ae1a9f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 06 |
+| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Partnerships & Business Development Intern](https://jobright.ai/jobs/info/6893f97a4c7e851b90ae1a17?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 06 |
+| **[CLD PR](https://cldstylehouse.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6893f6f2f47efe2113968231?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Aug 06 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/6893ef65a9199876488e124e?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6893ea8aa9199876488e10c7?utm_campaign=1051&utm_source=git)** | Buford, GA | On Site | Aug 06 |
 | **[RxCloud](https://www.therxcloud.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6893d61ca9199876488e07c0?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Aug 06 |
 | **[Alli CBD Marketplace](https://www.linkedin.com/company/92619289)** | **[Sales Intern](https://jobright.ai/jobs/info/6893ce9ff47efe2113967267?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Aug 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689387baf47efe2113964c46?utm_campaign=1051&utm_source=git)** | Town & Country, FL | Hybrid | Aug 06 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Fall 2025 E-Commerce Intern / NYC](https://jobright.ai/jobs/info/68938783f47efe2113964c32?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938741f47efe2113964c1a?utm_campaign=1051&utm_source=git)** | Sunrise, FL | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689386ae4c7e851b90ade22e?utm_campaign=1051&utm_source=git)** | O'Fallon, MO | Hybrid | Aug 06 |
-| **[Florida Panthers](http://floridapanthers.com)** | **[Ticket Sales and Service Internship](https://jobright.ai/jobs/info/6893866ca9199876488ddf7f?utm_campaign=1051&utm_source=git)** | Amerant Bank Arena, Sunrise, FL | On Site | Aug 06 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6893862ba9199876488ddf31?utm_campaign=1051&utm_source=git)** | Rio Rancho, NM | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689385f74c7e851b90ade133?utm_campaign=1051&utm_source=git)** | Norwalk, CA | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689385d54c7e851b90ade11a?utm_campaign=1051&utm_source=git)** | Carmel, IN | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689385bf4c7e851b90ade0f3?utm_campaign=1051&utm_source=git)** | San Marcos, CA | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689385baa9199876488dde98?utm_campaign=1051&utm_source=git)** | Slidell, LA | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689385994c7e851b90ade0ba?utm_campaign=1051&utm_source=git)** | Roswell, GA | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
