@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6893ea8aa9199876488e10c7?utm_campaign=1051&utm_source=git)** | Buford, GA | On Site | Aug 06 |
+| **[RxCloud](https://www.therxcloud.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6893d61ca9199876488e07c0?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Aug 06 |
 | **[Alli CBD Marketplace](https://www.linkedin.com/company/92619289)** | **[Sales Intern](https://jobright.ai/jobs/info/6893ce9ff47efe2113967267?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Aug 06 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6893c8b6f47efe2113966f4b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Partnerships & Business Development Intern](https://jobright.ai/jobs/info/6893c54f4c7e851b90ae04c1?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Aug 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689385bf4c7e851b90ade0f3?utm_campaign=1051&utm_source=git)** | San Marcos, CA | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689385baa9199876488dde98?utm_campaign=1051&utm_source=git)** | Slidell, LA | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689385994c7e851b90ade0ba?utm_campaign=1051&utm_source=git)** | Roswell, GA | Hybrid | Aug 06 |
-| **[Comcast](https://corporate.comcast.com)** | **[Philadelphia Wings Intern, Ticket Sales & Service](https://jobright.ai/jobs/info/6893857cf47efe2113964a97?utm_campaign=1051&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 06 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6893850e4c7e851b90ade023?utm_campaign=1051&utm_source=git)** | South Gate, CA | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
