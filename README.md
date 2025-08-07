@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avenio Corporation](https://www.i2chain.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68941eb4a9199876488e2b3a?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 06 |
+| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/6894164af47efe21139692f4?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Aug 06 |
+| ↳ | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/68941432f47efe211396924f?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Aug 06 |
+| ↳ | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/68940f3da9199876488e2333?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | On Site | Aug 06 |
+| ↳ | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/68940f034c7e851b90ae26a8?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Aug 06 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Assistant, Strategic Partnerships (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68940be5f47efe2113968e96?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Aug 06 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern Conversion Only - Corporate Risk and Broking Graduate Development Program -Multicultural Client Management - 2026](https://jobright.ai/jobs/info/6893ffd1a9199876488e1ad5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Philadelphia Wings Intern, Ticket Sales & Service](https://jobright.ai/jobs/info/6893fdf84c7e851b90ae1df8?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Corporate Development Intern (Summer 2026)](https://jobright.ai/jobs/info/6893fd4b4c7e851b90ae1d1e?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Aug 06 |
@@ -69,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[RxCloud](https://www.therxcloud.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6893d61ca9199876488e07c0?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Aug 06 |
 | **[Alli CBD Marketplace](https://www.linkedin.com/company/92619289)** | **[Sales Intern](https://jobright.ai/jobs/info/6893ce9ff47efe2113967267?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Aug 06 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6893c8b6f47efe2113966f4b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 06 |
+| **[Ariventures Abroad](ariventuresabroad.co)** | **[Partnerships & Programs Intern](https://jobright.ai/jobs/info/68941d964c7e851b90ae2fa5?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 06 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Partnerships & Business Development Intern](https://jobright.ai/jobs/info/6893c54f4c7e851b90ae04c1?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Aug 06 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern Conversion Only - Corporate Risk and Broking Graduate Development Program -Multicultural Client Management - 2026](https://jobright.ai/jobs/info/6893c2ef4c7e851b90ae0396?utm_campaign=1051&utm_source=git)** | 150 JFK Parkway, Short Hills, NJ, 07078, US | Hybrid | Aug 06 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[Intern - C2C Sales](https://jobright.ai/jobs/info/6893bf484c7e851b90ae00c2?utm_campaign=1051&utm_source=git)** | Malvern, PA | Hybrid | Aug 06 |
@@ -137,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938ae8f47efe2113964dba?utm_campaign=1051&utm_source=git)** | Williamsburg, VA | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938adaf47efe2113964db6?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938a7a4c7e851b90ade3f4?utm_campaign=1051&utm_source=git)** | Bryan, TX | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938a4af47efe2113964d82?utm_campaign=1051&utm_source=git)** | Decatur, IL | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938a4af47efe2113964d83?utm_campaign=1051&utm_source=git)** | Florence, SC | Hybrid | Aug 06 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938a4af47efe2113964d82?utm_campaign=1051&utm_source=git)** | Decatur, IL | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938a35a9199876488de164?utm_campaign=1051&utm_source=git)** | Federal Way, WA | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938a034c7e851b90ade3c6?utm_campaign=1051&utm_source=git)** | Waukegan, IL | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689389f34c7e851b90ade3be?utm_campaign=1051&utm_source=git)** | Compton, CA | Hybrid | Aug 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938890a9199876488de05d?utm_campaign=1051&utm_source=git)** | Suffolk, VA | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938874a9199876488de051?utm_campaign=1051&utm_source=git)** | Hoover, AL | Hybrid | Aug 06 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938829a9199876488de033?utm_campaign=1051&utm_source=git)** | Kingsport, TN | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689387f2f47efe2113964c59?utm_campaign=1051&utm_source=git)** | St Augustine, FL | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689387dbf47efe2113964c52?utm_campaign=1051&utm_source=git)** | Deerfield Beach, FL | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689387db4c7e851b90ade2ab?utm_campaign=1051&utm_source=git)** | Palm Coast, FL | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689387bea9199876488de008?utm_campaign=1051&utm_source=git)** | Edmond, OK | Hybrid | Aug 06 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689387baf47efe2113964c46?utm_campaign=1051&utm_source=git)** | Town & Country, FL | Hybrid | Aug 06 |
-| **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Fall 2025 E-Commerce Intern / NYC](https://jobright.ai/jobs/info/68938783f47efe2113964c32?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 06 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68938741f47efe2113964c1a?utm_campaign=1051&utm_source=git)** | Sunrise, FL | Hybrid | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
