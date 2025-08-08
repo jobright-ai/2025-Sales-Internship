@@ -94,7 +94,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern (The Shops At Perry Crossing)](https://jobright.ai/jobs/info/68958f3b73b3a600fe888b78?utm_campaign=1051&utm_source=git)** | Plainfield, IN | On Site | Aug 07 |
 | ↳ | **[Sales and Management Intern (Fairfield Commons)](https://jobright.ai/jobs/info/68958f1a8c6d6b442677afad?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Aug 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68958ed44ed2ea559ca57015?utm_campaign=1051&utm_source=git)** | Farmington, UT | On Site | Aug 07 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6895aa748c6d6b442677c8b4?utm_campaign=1051&utm_source=git)** | Lakeland, FL | On Site | Aug 07 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6895ac508c6d6b442677c9e1?utm_campaign=1051&utm_source=git)** | Westlake Village, CA | On Site | Aug 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6895af8a8c6d6b442677cc6c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6895aeb34ed2ea559ca58c78?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Aug 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6895aa748c6d6b442677c8b4?utm_campaign=1051&utm_source=git)** | Lakeland, FL | On Site | Aug 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6895ac6f73b3a600fe88a65e?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Aug 07 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6895ace573b3a600fe88a6a1?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Aug 07 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6895abc173b3a600fe88a600?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Aug 07 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Inside Sales](https://jobright.ai/jobs/info/6895682d4ed2ea559ca55876?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Aug 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689567bd4ed2ea559ca55850?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Aug 07 |
@@ -106,12 +111,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689559da4ed2ea559ca55315?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Aug 07 |
 | **[Sacramento Kings](http://www.Kings.com)** | **[Retail Buying Intern](https://jobright.ai/jobs/info/6895585273b3a600fe886c92?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | ↳ | **[Partnership Activation & Solutions Intern](https://jobright.ai/jobs/info/6895579373b3a600fe886c32?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| ↳ | **[Partnership Activation Intern](https://jobright.ai/jobs/info/689556be73b3a600fe886bde?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/689556444ed2ea559ca55149?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | **[Troon](http://www.troon.com/)** | **[Intern - Assistant Golf Professional](https://jobright.ai/jobs/info/6895538d4ed2ea559ca54f9a?utm_campaign=1051&utm_source=git)** | Lahaina, HI | On Site | Aug 07 |
 | **[Novocure](http://www.novocure.com/)** | **[Intern](https://jobright.ai/jobs/info/689553508c6d6b4426778e8e?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Aug 07 |
 | **[URTHWEAR](http://www.urthwear.com)** | **[Content Creation and E-commerce Intern](https://jobright.ai/jobs/info/68954ffd4ed2ea559ca54ee1?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Aug 07 |
 | **[HELO Solutions](https://www.linkedin.com/company/108110438)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/689570d74ed2ea559ca55e4b?utm_campaign=1051&utm_source=git)** | United States | On Site | Aug 07 |
-| **[Sacramento Kings](http://www.Kings.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68954d6e8c6d6b4426778cee?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
-| ↳ | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/68954c0b73b3a600fe8866eb?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/68954c0b73b3a600fe8866eb?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | ↳ | **[Partnership Activation Intern](https://jobright.ai/jobs/info/68954bfa73b3a600fe8866d3?utm_campaign=1051&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
 | ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/68954be973b3a600fe8866b1?utm_campaign=1051&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
 | ↳ | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/68954be98c6d6b4426778bb4?utm_campaign=1051&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
@@ -120,14 +126,12 @@ For a complete list, click the following sortable link below:
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/68954b1a8c6d6b4426778ac6?utm_campaign=1051&utm_source=git)** | Willoughby, OH | On Site | Aug 07 |
 | **[Sacramento Kings](http://www.Kings.com)** | **[Partnership Activation & Solutions Intern](https://jobright.ai/jobs/info/68954a804ed2ea559ca54afb?utm_campaign=1051&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Business Management Associate, Retail and Pet Sales](https://jobright.ai/jobs/info/68954a7473b3a600fe8864db?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 07 |
-| **[Sacramento Kings](http://www.Kings.com)** | **[Partnership Activation Intern](https://jobright.ai/jobs/info/689548f04ed2ea559ca549e9?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6895429c73b3a600fe88615f?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Aug 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68953c138c6d6b44267783e4?utm_campaign=1051&utm_source=git)** | South Charleston, WV | On Site | Aug 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68953bec8c6d6b44267783d4?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Aug 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68953a974ed2ea559ca54414?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 07 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Business Management Associate, Foodservice Sales](https://jobright.ai/jobs/info/68953a924ed2ea559ca54411?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Aug 07 |
-| **[MiddleGround Capital](https://www.middlegroundcapital.com/)** | **[Intern, Business Development](https://jobright.ai/jobs/info/689557ef4ed2ea559ca55218?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 07 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Worldwide Distribution Analytics, Intern, MPG - Distribution – Fall 2025](https://jobright.ai/jobs/info/68952dc98c6d6b4426777e62?utm_campaign=1051&utm_source=git)** | Culver City, California | On Site | Aug 07 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Worldwide Distribution Analytics, Intern, MPG - Distribution – Fall 2025](https://jobright.ai/jobs/info/68952cfd73b3a600fe88587f?utm_campaign=1051&utm_source=git)** | Culver City, California | On Site | Aug 07 |
 | **[Michigan Manufacturing Technology Center](https://www.the-center.org/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68952c868c6d6b4426777cee?utm_campaign=1051&utm_source=git)** | Plymouth Charter Township, MI | Hybrid | Aug 07 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Chief Commercial Office (New York, NY)](https://jobright.ai/jobs/info/68951cb18c6d6b4426777892?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68951c6d73b3a600fe8852d1?utm_campaign=1051&utm_source=git)** | Findlay OH Main Bldg | On Site | Aug 07 |
@@ -143,7 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6895001e73b3a600fe884312?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Aug 07 |
 | ↳ | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6894fff64ed2ea559ca527ff?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Aug 07 |
 | ↳ | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6894fe0e73b3a600fe884155?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
-| ↳ | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6894f59873b3a600fe883a39?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Aug 07 |
+| **[MiddleGround Capital](https://www.middlegroundcapital.com/)** | **[Intern, Business Development](https://jobright.ai/jobs/info/6894fdc04ed2ea559ca525e4?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 07 |
+| **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6894f59873b3a600fe883a39?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Aug 07 |
 | ↳ | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6894f52d8c6d6b4426775e78?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 07 |
 | **[1904Group](https://www.1904group.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/6894f19b4ed2ea559ca51e6c?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Aug 07 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Owner Solutions Investment Banking (Louisville, KY Summer 2026)](https://jobright.ai/jobs/info/6894f14a73b3a600fe883898?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Aug 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SoftInWay Inc.](http://www.softinway.com/en/)** | **[Business Development Trainee - Academic Sales](https://jobright.ai/jobs/info/6894e9c04ed2ea559ca519d7?utm_campaign=1051&utm_source=git)** | Burlington, MA | On Site | Aug 07 |
 | **[TN Marketing](http://tnmarketing.com)** | **[Partnerships Team Intern](https://jobright.ai/jobs/info/6894e13e4ed2ea559ca51502?utm_campaign=1051&utm_source=git)** | Plymouth, MN | Hybrid | Aug 07 |
 | **[Trending Society](https://trendingsociety.com)** | **[Business Development & Partnerships Intern](https://jobright.ai/jobs/info/6894dd9b8c6d6b44267751d1?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Aug 07 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894dbbe4ed2ea559ca510e0?utm_campaign=1051&utm_source=git)** | Parkersburg, WV | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894da024ed2ea559ca51043?utm_campaign=1051&utm_source=git)** | Woodland, CA | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894d9f64ed2ea559ca5103e?utm_campaign=1051&utm_source=git)** | Greenwood, IN | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894d9b373b3a600fe882aa4?utm_campaign=1051&utm_source=git)** | Council Bluffs, IA | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894d9944ed2ea559ca5101c?utm_campaign=1051&utm_source=git)** | Burnsville, MN | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
