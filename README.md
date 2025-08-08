@@ -57,9 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68953a974ed2ea559ca54414?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 07 |
+| **[Troon](http://www.troon.com/)** | **[Intern - Assistant Golf Professional](https://jobright.ai/jobs/info/6895538d4ed2ea559ca54f9a?utm_campaign=1051&utm_source=git)** | Lahaina, HI | On Site | Aug 07 |
+| **[Novocure](http://www.novocure.com/)** | **[Intern](https://jobright.ai/jobs/info/689553508c6d6b4426778e8e?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Aug 07 |
+| **[URTHWEAR](http://www.urthwear.com)** | **[Content Creation and E-commerce Intern](https://jobright.ai/jobs/info/68954ffd4ed2ea559ca54ee1?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Aug 07 |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68954d6e8c6d6b4426778cee?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| ↳ | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/68954c0b73b3a600fe8866eb?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| ↳ | **[Partnership Activation Intern](https://jobright.ai/jobs/info/68954bfa73b3a600fe8866d3?utm_campaign=1051&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
+| ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/68954be973b3a600fe8866b1?utm_campaign=1051&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
+| ↳ | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/68954be98c6d6b4426778bb4?utm_campaign=1051&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
+| ↳ | **[Retail Buying Intern](https://jobright.ai/jobs/info/68954bb98c6d6b4426778b83?utm_campaign=1051&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
+| ↳ | **[Ticket Sales & Services Intern, Stockton Kings](https://jobright.ai/jobs/info/68954b3873b3a600fe8865d9?utm_campaign=1051&utm_source=git)** | Stockton Business Office | On Site | Aug 07 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/68954b1a8c6d6b4426778ac6?utm_campaign=1051&utm_source=git)** | Willoughby, OH | On Site | Aug 07 |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Partnership Activation & Solutions Intern](https://jobright.ai/jobs/info/68954a804ed2ea559ca54afb?utm_campaign=1051&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
+| **[General Mills](http://www.generalmills.com)** | **[Internship - Business Management Associate, Retail and Pet Sales](https://jobright.ai/jobs/info/68954a7473b3a600fe8864db?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 07 |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Retail Buying Intern](https://jobright.ai/jobs/info/68954a6b73b3a600fe8864d1?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| ↳ | **[Partnership Activation Intern](https://jobright.ai/jobs/info/689548f04ed2ea559ca549e9?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6895429c73b3a600fe88615f?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Aug 07 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68953c138c6d6b44267783e4?utm_campaign=1051&utm_source=git)** | South Charleston, WV | On Site | Aug 07 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68953bec8c6d6b44267783d4?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Aug 07 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68953a974ed2ea559ca54414?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 07 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Business Management Associate, Foodservice Sales](https://jobright.ai/jobs/info/68953a924ed2ea559ca54411?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Aug 07 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Worldwide Distribution Analytics, Intern, MPG - Distribution – Fall 2025](https://jobright.ai/jobs/info/68952dc98c6d6b4426777e62?utm_campaign=1051&utm_source=git)** | Culver City, California | On Site | Aug 07 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Worldwide Distribution Analytics, Intern, MPG - Distribution – Fall 2025](https://jobright.ai/jobs/info/68952cfd73b3a600fe88587f?utm_campaign=1051&utm_source=git)** | Culver City, California | On Site | Aug 07 |
 | **[Michigan Manufacturing Technology Center](https://www.the-center.org/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68952c868c6d6b4426777cee?utm_campaign=1051&utm_source=git)** | Plymouth Charter Township, MI | Hybrid | Aug 07 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Chief Commercial Office (New York, NY)](https://jobright.ai/jobs/info/68951cb18c6d6b4426777892?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68951c6d73b3a600fe8852d1?utm_campaign=1051&utm_source=git)** | Findlay OH Main Bldg | On Site | Aug 07 |
@@ -139,22 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894cbaf73b3a600fe882352?utm_campaign=1051&utm_source=git)** | Hammond, LA | Hybrid | Aug 07 |
 | **[GSE Worldwide](https://gseworldwide.com/)** | **[NYC Intern](https://jobright.ai/jobs/info/6894cb9f73b3a600fe882340?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 07 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894cb738c6d6b4426774630?utm_campaign=1051&utm_source=git)** | New Britain, CT | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894cb4073b3a600fe8822c9?utm_campaign=1051&utm_source=git)** | Apex, NC | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894caf54ed2ea559ca50821?utm_campaign=1051&utm_source=git)** | Springfield, OR | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894cae34ed2ea559ca50819?utm_campaign=1051&utm_source=git)** | Port Orange, FL | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894cace8c6d6b44267745f5?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894cac54ed2ea559ca50812?utm_campaign=1051&utm_source=git)** | Taylor, MI | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894caa28c6d6b44267745e8?utm_campaign=1051&utm_source=git)** | Lodi, CA | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894ec5c73b3a600fe8835bf?utm_campaign=1051&utm_source=git)** | Parker, CO | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894edc14ed2ea559ca51c3d?utm_campaign=1051&utm_source=git)** | Laguna Niguel, CA | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894ee4873b3a600fe8836e7?utm_campaign=1051&utm_source=git)** | Wellington, FL | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894ede973b3a600fe8836b2?utm_campaign=1051&utm_source=git)** | La Mesa, CA | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894ef494ed2ea559ca51d2e?utm_campaign=1051&utm_source=git)** | Stonecrest, GA | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894e9168c6d6b44267758ff?utm_campaign=1051&utm_source=git)** | Montebello, CA | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894e9dc8c6d6b4426775977?utm_campaign=1051&utm_source=git)** | San Rafael, CA | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894edd84ed2ea559ca51c4c?utm_campaign=1051&utm_source=git)** | Richland, WA | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894eb958c6d6b4426775a48?utm_campaign=1051&utm_source=git)** | Palm Harbor, FL | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894e96473b3a600fe88342c?utm_campaign=1051&utm_source=git)** | Pico Rivera, CA | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894ed3973b3a600fe883641?utm_campaign=1051&utm_source=git)** | Meriden, CT | Hybrid | Aug 07 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6894ebb38c6d6b4426775a55?utm_campaign=1051&utm_source=git)** | Jupiter, FL | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
