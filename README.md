@@ -70,10 +70,11 @@ For a complete list, click the following sortable link below:
 | **[PriceSenz](https://www.pricesenz.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6896736a1b9e81727f190edc?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Aug 08 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT- 6334](https://jobright.ai/jobs/info/68966f061b9e81727f190cf8?utm_campaign=1051&utm_source=git)** | Kodiak, AK | On Site | Aug 08 |
 | **[Silver Fox Construction - Utah](https://www.linkedin.com/company/97421322)** | **[Sales Business Development](https://jobright.ai/jobs/info/689667531b9e81727f1909ba?utm_campaign=1051&utm_source=git)** | Pleasant Grove, UT | On Site | Aug 08 |
-| **[FieldPulse](https://www.fieldpulse.com/)** | **[Sales Development Representative Internship](https://jobright.ai/jobs/info/689666dc1b9e81727f190977?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 08 |
 | **[Kalamazoo Wings](http://www.kwings.com)** | **[Sales Intern / Kalamazoo Wings](https://jobright.ai/jobs/info/6896659a73b3a600fe88f271?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Aug 08 |
 | **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Iowa Wild Inside Sales Intern (Part- Time)](https://jobright.ai/jobs/info/689664f773b3a600fe88f22d?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Aug 08 |
+| **[FieldPulse](https://www.fieldpulse.com/)** | **[Sales Development Representative Internship](https://jobright.ai/jobs/info/689661871b9e81727f190628?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 08 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Summer Internship, Early Careers - CIB Markets (California)](https://jobright.ai/jobs/info/689660bc73b3a600fe88ef12?utm_campaign=1051&utm_source=git)** | LOS ANGELES, CA | On Site | Aug 08 |
+| **[Aircall](https://aircall.io/)** | **[Sales Intern - New York City - September 2025 (6 months)](https://jobright.ai/jobs/info/689698b98c6d6b4426782cd8?utm_campaign=1051&utm_source=git)** | New York Office | On Site | Aug 08 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - Dallas/Houston Area](https://jobright.ai/jobs/info/68965b671b9e81727f1902ba?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Aug 08 |
 | ↳ | **[Sales Intern (Summer 2026) - Northern California](https://jobright.ai/jobs/info/68965a5673b3a600fe88ebbb?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Aug 08 |
 | ↳ | **[Sales Intern (Summer 2026) - DC/ Northern VA Area](https://jobright.ai/jobs/info/689659ae1b9e81727f1901a1?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Aug 08 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Great Southern Wood Preserving](https://www.yellawood.com)** | **[Sales Intern](https://jobright.ai/jobs/info/689633ef1b9e81727f18ebd4?utm_campaign=1051&utm_source=git)** | Irvington, AL | On Site | Aug 08 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/6896337c8c6d6b442677f916?utm_campaign=1051&utm_source=git)** | Everett, MA | Hybrid | Aug 08 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689633708c6d6b442677f90f?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | Hybrid | Aug 08 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689633561b9e81727f18eb98?utm_campaign=1051&utm_source=git)** | Newark, CA | Hybrid | Aug 08 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689633561b9e81727f18eb97?utm_campaign=1051&utm_source=git)** | Niagara Falls, NY | Hybrid | Aug 08 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689633561b9e81727f18eb98?utm_campaign=1051&utm_source=git)** | Newark, CA | Hybrid | Aug 08 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689633511b9e81727f18eb94?utm_campaign=1051&utm_source=git)** | Troy, NY | Hybrid | Aug 08 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6896331573b3a600fe88d535?utm_campaign=1051&utm_source=git)** | Murray, UT | Hybrid | Aug 08 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689632ec8c6d6b442677f8d4?utm_campaign=1051&utm_source=git)** | Enid, OK | Hybrid | Aug 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/689620e073b3a600fe88ce18?utm_campaign=1051&utm_source=git)** | Euclid, OH | Hybrid | Aug 08 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6896209f1b9e81727f18e47f?utm_campaign=1051&utm_source=git)** | Fort Pierce, FL | Hybrid | Aug 08 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68961e758c6d6b442677f12b?utm_campaign=1051&utm_source=git)** | Twin Falls, ID | Hybrid | Aug 08 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/6896387e8c6d6b442677fc3d?utm_campaign=1051&utm_source=git)** | Eagle Mountain, UT | Hybrid | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
