@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grainger](https://www.grainger.com)** | **[Inside Sales Intern San Antonio](https://jobright.ai/jobs/info/6899828b83d13d1f5b693420?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Hybrid | Aug 10 |
+| ↳ | **[Government Sales Intern - University of Wisconsin Madison](https://jobright.ai/jobs/info/6899824efaa4e875e8252f4b?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Aug 10 |
+| ↳ | **[Inside Sales Intern - Lake Forest](https://jobright.ai/jobs/info/6899822b83d13d1f5b69337a?utm_campaign=1051&utm_source=git)** | Lake Forest, IL | Hybrid | Aug 10 |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Strategic Procurement Intern](https://jobright.ai/jobs/info/6899821a83d13d1f5b693361?utm_campaign=1051&utm_source=git)** | Issaquah, WA | On Site | Aug 10 |
+| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Rutgers](https://jobright.ai/jobs/info/689981f5faa4e875e8252ea6?utm_campaign=1051&utm_source=git)** | South Plainfield, NJ | On Site | Aug 10 |
+| ↳ | **[Government Sales Intern - Texas A&M](https://jobright.ai/jobs/info/689981f0faa4e875e8252e9e?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 10 |
+| ↳ | **[Government Sales Intern - University of Pittsburg](https://jobright.ai/jobs/info/6899818c5574fd6bc0c7cced?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | On Site | Aug 10 |
+| ↳ | **[Government Sales Intern - University of Arizona](https://jobright.ai/jobs/info/689981815574fd6bc0c7ccd9?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Aug 10 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Asset & Wealth Management Global Private Bank LatAm Summer Associate Program](https://jobright.ai/jobs/info/6899747183d13d1f5b692cd8?utm_campaign=1051&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
+| ↳ | **[2026 Asset & Wealth Management U.S Private Bank Summer Associate Program](https://jobright.ai/jobs/info/6899745c83d13d1f5b692cc7?utm_campaign=1051&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 10 |
 | **[GMI Cloud](https://www.gmicloud.ai)** | **[Sales Interns](https://jobright.ai/jobs/info/6899650f83d13d1f5b6922c8?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Aug 10 |
 | **[Flying Upstream Podcast](www.flyingupstreampodcast.com)** | **[Podcast Affiliate & Partnerships Intern (Unpaid, 6-Month Role)](https://jobright.ai/jobs/info/68994a72faa4e875e82514b0?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 10 |
 | **[GANNI](http://www.ganni.com)** | **[US Merchandising Allocation intern](https://jobright.ai/jobs/info/6899351ffaa4e875e825129d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 10 |
@@ -69,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[IIRR](http://www.iirr.org)** | **[Development Officer - Intern](https://jobright.ai/jobs/info/6898c13c83d13d1f5b690d82?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[Institute for Justice](http://ij.org/)** | **[Development Intern](https://jobright.ai/jobs/info/6898bee2faa4e875e8250997?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Aug 10 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6898bdd85574fd6bc0c7a7e9?utm_campaign=1051&utm_source=git)** | Sugar Land, TX | On Site | Aug 10 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6899746afaa4e875e82527c0?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Aug 10 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Los Angeles, CA](https://jobright.ai/jobs/info/6898a41e5574fd6bc0c7a4b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 10 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6842d486e87ebc0b364100a0?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Aug 10 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6843354ac765a3b6f7e5cdf3?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Aug 10 |
@@ -94,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Washington Commanders](http://www.commanders.com/)** | **[Intern, Partnership Solutions](https://jobright.ai/jobs/info/68989e63faa4e875e82504c7?utm_campaign=1051&utm_source=git)** | College Park, MD | On Site | Aug 09 |
 | **[Dallas Wings](http://dallaswingsbasketball.com)** | **[Corporate Partnership Intern - Fall- College Credit Only](https://jobright.ai/jobs/info/687b1409ed63844c944a68dd?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Aug 09 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Summer Internship, Early Careers - Markets](https://jobright.ai/jobs/info/689765331b9e81727f199b81?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 09 |
-| ↳ | **[2026 Summer Internship, Early Careers - Markets](https://jobright.ai/jobs/info/6897724e1b9e81727f19ab74?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | ↳ | **[2026 Summer Internship, Early Careers - Markets](https://jobright.ai/jobs/info/689784781b9e81727f19c1a2?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Aug 09 |
+| ↳ | **[2026 Summer Internship, Early Careers - Markets](https://jobright.ai/jobs/info/6897724e1b9e81727f19ab74?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | ↳ | **[2026 Summer Internship, Early Careers - CIB Markets (California)](https://jobright.ai/jobs/info/68985ad6faa4e875e824efe7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 09 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689858395574fd6bc0c78853?utm_campaign=1051&utm_source=git)** | Medina, MN | On Site | Aug 09 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Intern, Pharmacy Benefits Specialist](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64bd?utm_campaign=1051&utm_source=git)** | Chesterfield, MO | On Site | Aug 09 |
@@ -115,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Tekboox](https://tekboox.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6897646b1b9e81727f199a3c?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Aug 09 |
 | **[Legends](http://legends.net)** | **[Merchandise Internship -2025 CINCINNATI OPEN](https://jobright.ai/jobs/info/67c8f3f4fd0b58bde797f034?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Aug 08 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68975d328c6d6b442678a37b?utm_campaign=1051&utm_source=git)** | Medina, MN, USA | On Site | Aug 08 |
-| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6897a57d73b3a600fe89cec0?utm_campaign=1051&utm_source=git)** | Plymouth, MN, USA | On Site | Aug 08 |
 | **[PNC](http://www.pnc.com)** | **[Retail Banking Summer Intern Program - Organizational Financial Wellness](https://jobright.ai/jobs/info/68981ff35574fd6bc0c74947?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Aug 08 |
 | **[Environmental Law & Policy Center](http://elpc.org)** | **[Development Intern - Fall 2025](https://jobright.ai/jobs/info/68983b49faa4e875e824c587?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 | **[MetaSource](http://www.metasource.com/)** | **[Demand Generation Associate (Part Time Flexible, Remote)](https://jobright.ai/jobs/info/68984df45574fd6bc0c77a62?utm_campaign=1051&utm_source=git)** | Draper, UT | Remote | Aug 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Customer Operations](https://jobright.ai/jobs/info/6897aae273b3a600fe89d713?utm_campaign=1051&utm_source=git)** | Grand Prairie, TX | On Site | Aug 08 |
 | **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Aug 08 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68418dbc8331325e19731f8a?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Aug 08 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec318f3?utm_campaign=1051&utm_source=git)** | Sterling, CO | On Site | Aug 08 |
-| **[SMARTFIX, INC.](www.smartfixus.com)** | **[Executive Asistant(Sales&Marketing)](https://jobright.ai/jobs/info/689856a3faa4e875e824e820?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Aug 08 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - Chicago Area](https://jobright.ai/jobs/info/6898369afaa4e875e824be6f?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Aug 08 |
-| ↳ | **[Sales Intern (Summer 2026) - Nashville/Mississippi Area](https://jobright.ai/jobs/info/6898385f83d13d1f5b68c137?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Aug 08 |
-| ↳ | **[Sales Intern (Summer 2026) - DC/ Northern VA Area](https://jobright.ai/jobs/info/68985ac95574fd6bc0c78cf1?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Aug 08 |
-| ↳ | **[Sales Intern (Summer 2026) - Dallas/Houston Area](https://jobright.ai/jobs/info/689852215574fd6bc0c78291?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Aug 08 |
-| ↳ | **[Sales Intern (Summer 2026) - Northern California](https://jobright.ai/jobs/info/6897479e73b3a600fe89612c?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Aug 08 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb66a?utm_campaign=1051&utm_source=git)** | Jacksonville, NC | On Site | Aug 08 |
-| **[Techminds Group LLC](http://techmindsllc.com/)** | **[IT Sales Internship](https://jobright.ai/jobs/info/68985667faa4e875e824e7c5?utm_campaign=1051&utm_source=git)** | Plainsboro, NJ | On Site | Aug 08 |
-| **[George Smith Partners (GSP)](http://gspartners.com)** | **[New York Capital Markets Intern](https://jobright.ai/jobs/info/68982f85faa4e875e824b353?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
