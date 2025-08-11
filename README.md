@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GMI Cloud](https://www.gmicloud.ai)** | **[Sales Interns](https://jobright.ai/jobs/info/6899650f83d13d1f5b6922c8?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Aug 10 |
 | **[Flying Upstream Podcast](www.flyingupstreampodcast.com)** | **[Podcast Affiliate & Partnerships Intern (Unpaid, 6-Month Role)](https://jobright.ai/jobs/info/68994a72faa4e875e82514b0?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 10 |
 | **[GANNI](http://www.ganni.com)** | **[US Merchandising Allocation intern](https://jobright.ai/jobs/info/6899351ffaa4e875e825129d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 10 |
 | **[ASUS](https://www.asus.com)** | **[Inside Sales Assistant (Seasonal Internship)](https://jobright.ai/jobs/info/68992a6b5574fd6bc0c7b0ef?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Aug 10 |
@@ -120,26 +121,25 @@ For a complete list, click the following sortable link below:
 | **[MetaSource](http://www.metasource.com/)** | **[Demand Generation Associate (Part Time Flexible, Remote)](https://jobright.ai/jobs/info/68984df45574fd6bc0c77a62?utm_campaign=1051&utm_source=git)** | Draper, UT | Remote | Aug 08 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410aa1?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Aug 08 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (ATL)](https://jobright.ai/jobs/info/65077c9ac5d6d59a6ff9487c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 08 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68985bdf5574fd6bc0c78ee9?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Aug 08 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6811f66986f5222bcd25557e?utm_campaign=1051&utm_source=git)** | Liberal, KS | On Site | Aug 08 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68985bdf5574fd6bc0c78ee9?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Aug 08 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/689836b683d13d1f5b68bedf?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Aug 08 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Sales & Service](https://jobright.ai/jobs/info/68983b9683d13d1f5b68c640?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Aug 08 |
-| **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Properties (NY)](https://jobright.ai/jobs/info/68985c8483d13d1f5b68f375?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Summer Internship, Early Careers – Markets](https://jobright.ai/jobs/info/6897a3a78c6d6b442678f389?utm_campaign=1051&utm_source=git)** | NEW YORK, NY | On Site | Aug 08 |
-| ↳ | **[2026 Summer Internship, Early Careers – Markets](https://jobright.ai/jobs/info/6897ab0573b3a600fe89d76b?utm_campaign=1051&utm_source=git)** | HOUSTON, TX | On Site | Aug 08 |
 | ↳ | **[2026 Summer Internship, Early Careers – Markets](https://jobright.ai/jobs/info/6897ac9f1b9e81727f19f3dc?utm_campaign=1051&utm_source=git)** | CHARLOTTE, NC | On Site | Aug 08 |
+| ↳ | **[2026 Summer Internship, Early Careers – Markets](https://jobright.ai/jobs/info/6897ab0573b3a600fe89d76b?utm_campaign=1051&utm_source=git)** | HOUSTON, TX | On Site | Aug 08 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6898520b83d13d1f5b68e60c?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Aug 08 |
 | **[PriceSenz](https://www.pricesenz.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/689850185574fd6bc0c77ebb?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Aug 08 |
 | **[AthLink](https://www.joinathlink.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68985f845574fd6bc0c7957a?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 08 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6897a74c73b3a600fe89d175?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Aug 08 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682410cc63699334f78a1b37?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Aug 08 |
 | **[Kalamazoo Wings](http://www.kwings.com)** | **[Sales Intern / Kalamazoo Wings](https://jobright.ai/jobs/info/689865f1faa4e875e824fe9d?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Aug 08 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT- 6334](https://jobright.ai/jobs/info/689866ae5574fd6bc0c79ce5?utm_campaign=1051&utm_source=git)** | Kodiak, AK | On Site | Aug 08 |
 | **[Aircall](https://aircall.io/)** | **[Sales Intern - New York City - September 2025 (6 months)](https://jobright.ai/jobs/info/6787ebee68c5e8299bf40d93?utm_campaign=1051&utm_source=git)** | New York Office | On Site | Aug 08 |
 | **[NA](http://schnadig.com)** | **[Associate, Internal Wholesaler](https://jobright.ai/jobs/info/689770d01b9e81727f19a980?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Silver Fox Construction - Utah](https://www.linkedin.com/company/97421322)** | **[Sales Business Development](https://jobright.ai/jobs/info/689833765574fd6bc0c755a0?utm_campaign=1051&utm_source=git)** | Pleasant Grove, UT | On Site | Aug 08 |
-| **[FieldPulse](https://www.fieldpulse.com/)** | **[Sales Development Representative Internship](https://jobright.ai/jobs/info/6897aa1b1b9e81727f19efed?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 08 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Summer Internship, Early Careers - CIB Markets (California)](https://jobright.ai/jobs/info/68972d0173b3a600fe893e9b?utm_campaign=1051&utm_source=git)** | LOS ANGELES, CA | On Site | Aug 08 |
 | **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Iowa Wild Inside Sales Intern (Part- Time)](https://jobright.ai/jobs/info/689865aefaa4e875e824fe1f?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Aug 08 |
+| **[FieldPulse](https://www.fieldpulse.com/)** | **[Sales Development Representative Internship](https://jobright.ai/jobs/info/689851e15574fd6bc0c7820f?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 08 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fe157171c0ccb6ec31923?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Aug 08 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Chief Commercial Office (New York, NY)](https://jobright.ai/jobs/info/6898343983d13d1f5b68bad5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Sesen](https://www.sesen.com)** | **[Sales Intern (Life Sciences Focus)](https://jobright.ai/jobs/info/6897d8e61b9e81727f1a1cf5?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Aug 08 |
