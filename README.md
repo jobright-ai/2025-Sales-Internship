@@ -57,40 +57,49 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4ae85574fd6bc0c8188b?utm_campaign=1051&utm_source=git)** | Catlettsburg, KY | On Site | Aug 11 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a521afaa4e875e8257f89?utm_campaign=1051&utm_source=git)** | Robinson, IL | On Site | Aug 11 |
+| **[Rich Products Corporation](https://rich.com)** | **[Intern](https://jobright.ai/jobs/info/689a51bf5574fd6bc0c81c20?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Aug 11 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a50f7faa4e875e8257e63?utm_campaign=1051&utm_source=git)** | Carson, CA | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4f99faa4e875e8257d43?utm_campaign=1051&utm_source=git)** | Mandan, ND | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4ded83d13d1f5b697f31?utm_campaign=1051&utm_source=git)** | Dickinson, ND | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4d8983d13d1f5b697ec3?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4d2cfaa4e875e8257b5d?utm_campaign=1051&utm_source=git)** | Texas City, TX | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4cfefaa4e875e8257b2e?utm_campaign=1051&utm_source=git)** | Kenai, AK | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4c61faa4e875e8257a91?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4b2f83d13d1f5b697cd9?utm_campaign=1051&utm_source=git)** | Martinez, CA | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4ae0faa4e875e8257942?utm_campaign=1051&utm_source=git)** | Garyville, LA | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a49d55574fd6bc0c8176c?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a49c95574fd6bc0c81758?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a49825574fd6bc0c81715?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
-| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a46e55574fd6bc0c81365?utm_campaign=1051&utm_source=git)** | Texas City, TX | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a46e183d13d1f5b697a66?utm_campaign=1051&utm_source=git)** | Garyville, LA | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a467e5574fd6bc0c8131e?utm_campaign=1051&utm_source=git)** | Anacortes, WA | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a462a5574fd6bc0c812e4?utm_campaign=1051&utm_source=git)** | St Paul Park, MN | On Site | Aug 11 |
 | **[Grande Cheese Company](https://www.grande.com/)** | **[Commercial Ops Intern](https://jobright.ai/jobs/info/689a45ccfaa4e875e82575f1?utm_campaign=1051&utm_source=git)** | Fond du Lac, WI | On Site | Aug 11 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4427faa4e875e825744b?utm_campaign=1051&utm_source=git)** | Salt Lake City, Utah | On Site | Aug 11 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a444b5574fd6bc0c8127c?utm_campaign=1051&utm_source=git)** | Mandan, North Dakota | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4427faa4e875e825744b?utm_campaign=1051&utm_source=git)** | Salt Lake City, Utah | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a440dfaa4e875e8257426?utm_campaign=1051&utm_source=git)** | El Paso, Texas | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a44065574fd6bc0c81253?utm_campaign=1051&utm_source=git)** | Findlay, Ohio | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a43e1faa4e875e82573f1?utm_campaign=1051&utm_source=git)** | Catlettsburg, Kentucky | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a43cf5574fd6bc0c8122f?utm_campaign=1051&utm_source=git)** | Kenai, Alaska | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a43c683d13d1f5b697758?utm_campaign=1051&utm_source=git)** | Texas City, Texas | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a43a5faa4e875e82573b2?utm_campaign=1051&utm_source=git)** | Detroit, Michigan | On Site | Aug 11 |
-| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a435383d13d1f5b6976dc?utm_campaign=1051&utm_source=git)** | Robinson, Illinois | On Site | Aug 11 |
-| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a432c5574fd6bc0c811d7?utm_campaign=1051&utm_source=git)** | Texas City, Texas | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a437783d13d1f5b697718?utm_campaign=1051&utm_source=git)** | Texas City, Texas | On Site | Aug 11 |
 | **[Make-A-Wish® Central & South Texas](http://cstx.wish.org/)** | **[Mission Intern - San Antonio](https://jobright.ai/jobs/info/689a431b83d13d1f5b69769a?utm_campaign=1051&utm_source=git)** | Make-A-Wish Central & South Texas Regional Office | Hybrid | Aug 11 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a42c683d13d1f5b69763e?utm_campaign=1051&utm_source=git)** | Carson, California | On Site | Aug 11 |
-| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4252faa4e875e8257230?utm_campaign=1051&utm_source=git)** | Wilmington, California | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a42785574fd6bc0c8113d?utm_campaign=1051&utm_source=git)** | St Paul Park, Minnesota | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a4216faa4e875e82571ce?utm_campaign=1051&utm_source=git)** | San Antonio, Texas | On Site | Aug 11 |
-| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a419683d13d1f5b6974ca?utm_campaign=1051&utm_source=git)** | St Paul Park, Minnesota | On Site | Aug 11 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Fall Intern](https://jobright.ai/jobs/info/689a416dfaa4e875e8257106?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Aug 11 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a410a5574fd6bc0c80f9b?utm_campaign=1051&utm_source=git)** | Martinez, California | On Site | Aug 11 |
-| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a40e6faa4e875e8257058?utm_campaign=1051&utm_source=git)** | El Paso, Texas | On Site | Aug 11 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a416383d13d1f5b69749c?utm_campaign=1051&utm_source=git)** | Garyville, Louisiana | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a410a5574fd6bc0c80f9b?utm_campaign=1051&utm_source=git)** | Martinez, California | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a40ea83d13d1f5b697407?utm_campaign=1051&utm_source=git)** | Catlettsburg, KY | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a40a383d13d1f5b6973a7?utm_campaign=1051&utm_source=git)** | Canton, Ohio | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a407d5574fd6bc0c80ef6?utm_campaign=1051&utm_source=git)** | Dickinson, North Dakota | On Site | Aug 11 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Revenue Management](https://jobright.ai/jobs/info/689a403b5574fd6bc0c80eb9?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Aug 11 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a40245574fd6bc0c80e96?utm_campaign=1051&utm_source=git)** | Garyville, Louisiana | On Site | Aug 11 |
-| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a3fd75574fd6bc0c80e46?utm_campaign=1051&utm_source=git)** | Mandan, North Dakota | On Site | Aug 11 |
+| ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a3faa83d13d1f5b69728f?utm_campaign=1051&utm_source=git)** | Robinson, Illinois | On Site | Aug 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a3faa83d13d1f5b69728e?utm_campaign=1051&utm_source=git)** | Anacortes, Washington | On Site | Aug 11 |
 | **[Alpine School District CTE Internships](https://cte.alpineschools.org/student-internships/)** | **[Interested in Alpine's Summer 2027 Investing Internship?](https://jobright.ai/jobs/info/689a3f3ffaa4e875e8256e8a?utm_campaign=1051&utm_source=git)** | SF, CA | On Site | Aug 11 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a3f0dfaa4e875e8256e5e?utm_campaign=1051&utm_source=git)** | Garyville, Louisiana | On Site | Aug 11 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a3f0dfaa4e875e8256e5d?utm_campaign=1051&utm_source=git)** | Wilmington, California | On Site | Aug 11 |
 | **[BOLAND](http://boland.com)** | **[Sales Engineering Intern (Fall Semester)](https://jobright.ai/jobs/info/689a3ee283d13d1f5b6971b4?utm_campaign=1051&utm_source=git)** | Gaithersburg, MD | On Site | Aug 11 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/689a3d8f83d13d1f5b6970c3?utm_campaign=1051&utm_source=git)** | Texas City, TX | On Site | Aug 11 |
 | **[Innovative Partnerships Group](https://ipg360.com/)** | **[Consultative Business Development Internship (Charlotte, NC)](https://jobright.ai/jobs/info/689a3d815574fd6bc0c80ca7?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Aug 11 |
@@ -113,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a22b6faa4e875e82561a3?utm_campaign=1051&utm_source=git)** | Lincoln, NE | Hybrid | Aug 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a2290faa4e875e825617c?utm_campaign=1051&utm_source=git)** | Gulfport, MS | Hybrid | Aug 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a2271faa4e875e8256168?utm_campaign=1051&utm_source=git)** | Chula Vista, CA | Hybrid | Aug 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a2211faa4e875e8256137?utm_campaign=1051&utm_source=git)** | York, PA | Hybrid | Aug 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a2211faa4e875e8256138?utm_campaign=1051&utm_source=git)** | Lafayette, LA | Hybrid | Aug 11 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a2211faa4e875e8256137?utm_campaign=1051&utm_source=git)** | York, PA | Hybrid | Aug 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a22095574fd6bc0c7ff85?utm_campaign=1051&utm_source=git)** | Gilbert, AZ | Hybrid | Aug 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a21fe5574fd6bc0c7ff7b?utm_campaign=1051&utm_source=git)** | Poughkeepsie, NY | Hybrid | Aug 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a21f65574fd6bc0c7ff71?utm_campaign=1051&utm_source=git)** | Lakeland, FL | Hybrid | Aug 11 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a1a3583d13d1f5b696169?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a19da83d13d1f5b69610e?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | Hybrid | Aug 11 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a19aafaa4e875e8255d19?utm_campaign=1051&utm_source=git)** | Huntsville, AL | Hybrid | Aug 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a198cfaa4e875e8255d03?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | Hybrid | Aug 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a196e5574fd6bc0c7fb24?utm_campaign=1051&utm_source=git)** | Davenport, IA | Hybrid | Aug 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a1917faa4e875e8255cd1?utm_campaign=1051&utm_source=git)** | McAllen, TX | Hybrid | Aug 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a190e83d13d1f5b696085?utm_campaign=1051&utm_source=git)** | Asheville, NC | Hybrid | Aug 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a18d783d13d1f5b696065?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | Hybrid | Aug 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a18ce83d13d1f5b69605f?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Aug 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a18b883d13d1f5b696051?utm_campaign=1051&utm_source=git)** | Mobile, AL | Hybrid | Aug 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a18b7faa4e875e8255c8b?utm_campaign=1051&utm_source=git)** | Henderson, NV | Hybrid | Aug 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689a18a3faa4e875e8255c7e?utm_campaign=1051&utm_source=git)** | Concord, NC | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
