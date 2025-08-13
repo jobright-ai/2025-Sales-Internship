@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BASF](https://www.basf.com/)** | **[Business Management & Finance PDP Internship - Summer 2026: Commercial Track](https://jobright.ai/jobs/info/6881cc7eee15177ae9717503?utm_campaign=1051&utm_source=git)** | Florham Park, NJ | Hybrid | Aug 13 |
+| ↳ | **[Business Management & Finance PDP Internship - Summer 2026: Sales Track](https://jobright.ai/jobs/info/688089f62097a271a89a60d8?utm_campaign=1051&utm_source=git)** | Florham Park, NJ | Hybrid | Aug 13 |
+| **[good2grow™](https://www.good2grow.com/#home)** | **[Business Intelligence Intern - Regional Sales - Hybrid](https://jobright.ai/jobs/info/689c817c83d13d1f5b6a8a6b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Aug 13 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Membership Services (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68806e9e2097a271a89a4b3b?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Aug 13 |
 | **[moomoo ](https://www.moomoo.com)** | **[Unpaid - Strategic Partnership Intern - Fall 2025](https://jobright.ai/jobs/info/689c6d7379a9f96662538ab8?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 13 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Demand Planning](https://jobright.ai/jobs/info/6881cbbaee15177ae9717495?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Student Employment](https://jobright.ai/jobs/info/689c776379a9f96662538c5d?utm_campaign=1051&utm_source=git)** | Newport, KY | On Site | Aug 13 |
@@ -69,9 +73,9 @@ For a complete list, click the following sortable link below:
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Business Development Internship / Spring 2026](https://jobright.ai/jobs/info/689be34679a9f966625347a5?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Atomic Brands](http://www.atomic-brands.com)** | **[Internship - Retail Account Manager (Atlanta, GA)](https://jobright.ai/jobs/info/689be2e5faa4e875e82642d1?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales Intern](https://jobright.ai/jobs/info/689be1b583d13d1f5b6a4268?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Aug 12 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Development Spring Intern (2026) - Atlanta Regional Office](https://jobright.ai/jobs/info/689bd8a883d13d1f5b6a3f10?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Business Development Internship / Fall 2025](https://jobright.ai/jobs/info/689bd81b79a9f96662534300?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 12 |
 | **[TellCo Europe Sagl Switzerland](https://tellco-europe.com)** | **[E-Commerce Supply Chain & Product Listing Intern](https://jobright.ai/jobs/info/689bd7b779a9f96662534271?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 12 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Development Spring Intern (2026) - Atlanta Regional Office](https://jobright.ai/jobs/info/689bd7a979a9f96662534258?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
 | **[Fort Lauderdale United FC](www.ftlutd.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/689bcfdd79a9f96662533e2b?utm_campaign=1051&utm_source=git)** | Davie, FL | On Site | Aug 12 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689bcfa379a9f96662533def?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Aug 12 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/689bcd6afaa4e875e82639e1?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Aug 12 |
@@ -87,8 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Farm Sanctuary](https://farmsanctuary.org)** | **[Intern, Hospitality and Retail](https://jobright.ai/jobs/info/6875e49b5cebcd1dd51c4518?utm_campaign=1051&utm_source=git)** | Watkins Glen, NY | On Site | Aug 12 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Playfly Creates Fall Activation Intern](https://jobright.ai/jobs/info/689bb04779a9f96662532b3d?utm_campaign=1051&utm_source=git)** | El Segundo, CA | Hybrid | Aug 12 |
 | **[Mortenson](https://www.mortenson.com)** | **[Associate Buyer Intern - BLU54](https://jobright.ai/jobs/info/689bada7faa4e875e826279d?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
-| **[Intrinsic Solutions Marketing Agency, Inc.](http://www.intrinsicsolutionsmarketing.com/)** | **[Sales and Marketing Trainee](https://jobright.ai/jobs/info/6898c9d6faa4e875e8250a3b?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Aug 12 |
-| **[Mortenson](https://www.mortenson.com)** | **[Associate Buyer Intern - BLU54](https://jobright.ai/jobs/info/689ba78283d13d1f5b6a21e1?utm_campaign=1051&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Aug 12 |
+| ↳ | **[Associate Buyer Intern - BLU54](https://jobright.ai/jobs/info/689ba78283d13d1f5b6a21e1?utm_campaign=1051&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Aug 12 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Sales Intern](https://jobright.ai/jobs/info/689c118583d13d1f5b6a5b3a?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Mortenson](https://www.mortenson.com)** | **[Development Intern / Mortenson](https://jobright.ai/jobs/info/689ba48383d13d1f5b6a20ad?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
 | ↳ | **[Associate Buyer Intern - BLU54 / Mortenson](https://jobright.ai/jobs/info/689ba1cb83d13d1f5b6a1dd9?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689c219583d13d1f5b6a639f?utm_campaign=1051&utm_source=git)** | Bend, OR | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689c224d79a9f966625366d1?utm_campaign=1051&utm_source=git)** | Lowell, MA | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689c21a883d13d1f5b6a63da?utm_campaign=1051&utm_source=git)** | Arvada, CO | Hybrid | Aug 12 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689c21fc83d13d1f5b6a651f?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689c227279a9f9666253674a?utm_campaign=1051&utm_source=git)** | Brandon, FL | Hybrid | Aug 12 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689c21fc83d13d1f5b6a651f?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689c2291faa4e875e82664c1?utm_campaign=1051&utm_source=git)** | Cambridge, MA | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689c2227faa4e875e826633a?utm_campaign=1051&utm_source=git)** | North Charleston, SC | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689c21a883d13d1f5b6a63db?utm_campaign=1051&utm_source=git)** | Waterloo, IA | Hybrid | Aug 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b6f2783d13d1f5b6a04a6?utm_campaign=1051&utm_source=git)** | Clovis, CA | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b6f1afaa4e875e82603ef?utm_campaign=1051&utm_source=git)** | Boulder, CO | Hybrid | Aug 12 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e7483d13d1f5b6a0418?utm_campaign=1051&utm_source=git)** | USA - Colorado Springs, CO | Hybrid | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e7483d13d1f5b6a0416?utm_campaign=1051&utm_source=git)** | USA - Titusville, FL | Hybrid | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e6983d13d1f5b6a03fd?utm_campaign=1051&utm_source=git)** | USA - San Antonio, TX | Hybrid | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e5683d13d1f5b6a03db?utm_campaign=1051&utm_source=git)** | USA - Seal Beach, CA | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
