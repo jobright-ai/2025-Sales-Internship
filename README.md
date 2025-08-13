@@ -57,21 +57,35 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RIMOWA](http://www.rimowa.com/)** | **[Retail Intern](https://jobright.ai/jobs/info/689ce97879a9f9666253c21b?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 13 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/689ce934faa4e875e826bcd6?utm_campaign=1051&utm_source=git)** | Massachusetts, United States | Remote | Aug 13 |
+| **[HotTakes](https://hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/689ce8bd83d13d1f5b6abd52?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 13 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/689ce641faa4e875e826bbc4?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Aug 13 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Inside Sales Representative Internship - Wichita, KS](https://jobright.ai/jobs/info/689ce60d79a9f9666253c022?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Aug 13 |
+| **[Teleflex](http://www.teleflex.com)** | **[Distribution Associate I - International- 8am](https://jobright.ai/jobs/info/689ce5ee83d13d1f5b6abc70?utm_campaign=1051&utm_source=git)** | Olive Branch, MS | On Site | Aug 13 |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2025 Internship - E-Commerce](https://jobright.ai/jobs/info/689ce5be79a9f9666253bf24?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Aug 13 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689cdf4ffaa4e875e826b64c?utm_campaign=1051&utm_source=git)** | Everett, WA | On Site | Aug 13 |
+| **[Flourish & Thrive Labs](https://www.fandtlabs.com)** | **[Public Health Sales and Marketing Intern](https://jobright.ai/jobs/info/689cd8ad79a9f9666253b38f?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 13 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Development Summer Intern (2026) - Dallas Regional Office](https://jobright.ai/jobs/info/689cd4d6faa4e875e826ae9e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 13 |
+| **[InComm Payments](https://www.incomm.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/689cd4bd79a9f9666253b2e8?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 13 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Development Summer Intern (2026) - Atlanta Regional Office](https://jobright.ai/jobs/info/689cd41c83d13d1f5b6aaefc?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 13 |
+| ↳ | **[Development Spring Intern (2026) - Dallas Regional Office](https://jobright.ai/jobs/info/689cd3e983d13d1f5b6aae99?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 13 |
+| **[InComm Payments](https://www.incomm.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/689cd3e483d13d1f5b6aae8a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 13 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/689cceb8faa4e875e826aa99?utm_campaign=1051&utm_source=git)** | Salisbury, MD | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689ccea1faa4e875e826aa4a?utm_campaign=1051&utm_source=git)** | New Rochelle, NY | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce7579a9f9666253af18?utm_campaign=1051&utm_source=git)** | Boynton Beach, FL | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce7579a9f9666253af19?utm_campaign=1051&utm_source=git)** | Flower Mound, TX | Hybrid | Aug 13 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce7579a9f9666253af18?utm_campaign=1051&utm_source=git)** | Boynton Beach, FL | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce6afaa4e875e826a9ae?utm_campaign=1051&utm_source=git)** | Lehi, UT | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce6079a9f9666253aef3?utm_campaign=1051&utm_source=git)** | Alhambra, CA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce56faa4e875e826a986?utm_campaign=1051&utm_source=git)** | Terre Haute, IN | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce4bfaa4e875e826a960?utm_campaign=1051&utm_source=git)** | Mountain View, CA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce4bfaa4e875e826a961?utm_campaign=1051&utm_source=git)** | Cheyenne, WY | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce4679a9f9666253aea7?utm_campaign=1051&utm_source=git)** | Madera, CA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce4679a9f9666253aea6?utm_campaign=1051&utm_source=git)** | Jackson, MI | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce3e79a9f9666253ae7e?utm_campaign=1051&utm_source=git)** | Flagstaff, AZ | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce3e79a9f9666253ae84?utm_campaign=1051&utm_source=git)** | Kendall, FL | Hybrid | Aug 13 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce4679a9f9666253aea7?utm_campaign=1051&utm_source=git)** | Madera, CA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce3e79a9f9666253ae83?utm_campaign=1051&utm_source=git)** | Lakewood, CA | Hybrid | Aug 13 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce3e79a9f9666253ae84?utm_campaign=1051&utm_source=git)** | Kendall, FL | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce3e79a9f9666253ae81?utm_campaign=1051&utm_source=git)** | Pasco, WA | Hybrid | Aug 13 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce3e79a9f9666253ae7e?utm_campaign=1051&utm_source=git)** | Flagstaff, AZ | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce3e79a9f9666253ae82?utm_campaign=1051&utm_source=git)** | Layton, UT | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce3479a9f9666253ae58?utm_campaign=1051&utm_source=git)** | Largo, FL | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cce28faa4e875e826a912?utm_campaign=1051&utm_source=git)** | Owensboro, KY | Hybrid | Aug 13 |
@@ -121,16 +135,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb2a79a9f9666253a605?utm_campaign=1051&utm_source=git)** | Hoover, AL | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb2379a9f9666253a5f7?utm_campaign=1051&utm_source=git)** | Alafaya, FL | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb2379a9f9666253a5f6?utm_campaign=1051&utm_source=git)** | Westland, MI | Hybrid | Aug 13 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb1b79a9f9666253a5e5?utm_campaign=1051&utm_source=git)** | Westminster, CA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb1b79a9f9666253a5e4?utm_campaign=1051&utm_source=git)** | Johns Creek, GA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb1b79a9f9666253a5e3?utm_campaign=1051&utm_source=git)** | Folsom, CA | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb1b79a9f9666253a5e5?utm_campaign=1051&utm_source=git)** | Westminster, CA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb1279a9f9666253a5cc?utm_campaign=1051&utm_source=git)** | San Ramon, CA | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb0979a9f9666253a5bb?utm_campaign=1051&utm_source=git)** | Lawrence, MA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb0979a9f9666253a5ba?utm_campaign=1051&utm_source=git)** | Avondale, AZ | Hybrid | Aug 13 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb0979a9f9666253a5bb?utm_campaign=1051&utm_source=git)** | Lawrence, MA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbb0979a9f9666253a5bc?utm_campaign=1051&utm_source=git)** | Compton, CA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbafe79a9f9666253a5a3?utm_campaign=1051&utm_source=git)** | Troy, MI | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbaf779a9f9666253a595?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbaf779a9f9666253a597?utm_campaign=1051&utm_source=git)** | Livermore, CA | Hybrid | Aug 13 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbaf779a9f9666253a595?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbaf779a9f9666253a596?utm_campaign=1051&utm_source=git)** | La Crosse, WI | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbad683d13d1f5b6aa27b?utm_campaign=1051&utm_source=git)** | Redwood City, CA | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbacb83d13d1f5b6aa269?utm_campaign=1051&utm_source=git)** | Whittier, CA | Hybrid | Aug 13 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbaa783d13d1f5b6aa222?utm_campaign=1051&utm_source=git)** | Port Huron, MI | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cbaa783d13d1f5b6aa221?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | Hybrid | Aug 13 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cba9b83d13d1f5b6aa20c?utm_campaign=1051&utm_source=git)** | Cranston, RI | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cba8f83d13d1f5b6aa205?utm_campaign=1051&utm_source=git)** | Carson, CA | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb907faa4e875e826a18e?utm_campaign=1051&utm_source=git)** | Hawthorne, CA | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb8fbfaa4e875e826a180?utm_campaign=1051&utm_source=git)** | Decatur, IL | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb84479a9f9666253a534?utm_campaign=1051&utm_source=git)** | Cicero, IL | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb83879a9f9666253a515?utm_campaign=1051&utm_source=git)** | Auburn, WA | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb7fa83d13d1f5b6aa1f4?utm_campaign=1051&utm_source=git)** | Newark, OH | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb62dfaa4e875e826a106?utm_campaign=1051&utm_source=git)** | Springdale, AR | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb622faa4e875e826a0e1?utm_campaign=1051&utm_source=git)** | Vineland, NJ | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb605faa4e875e826a07f?utm_campaign=1051&utm_source=git)** | San Leandro, CA | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb5d3faa4e875e8269fe8?utm_campaign=1051&utm_source=git)** | Citrus Heights, CA | Hybrid | Aug 13 |
-| **[NJ Consulting Firm](https://www.njconsultingfirm.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/689cb4e183d13d1f5b6aa0a7?utm_campaign=1051&utm_source=git)** | Buckhead, GA | On Site | Aug 13 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/689cb4a883d13d1f5b6aa01b?utm_campaign=1051&utm_source=git)** | Lawton, OK | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb31afaa4e875e8269f6c?utm_campaign=1051&utm_source=git)** | Dearborn, MI | Hybrid | Aug 13 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689cb31afaa4e875e8269f6d?utm_campaign=1051&utm_source=git)** | Bowling Green, KY | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
