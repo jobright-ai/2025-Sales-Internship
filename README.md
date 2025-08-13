@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[moomoo ](https://www.moomoo.com)** | **[Unpaid - Strategic Partnership Intern - Fall 2025](https://jobright.ai/jobs/info/689c6d7379a9f96662538ab8?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 13 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Demand Planning](https://jobright.ai/jobs/info/6881cbbaee15177ae9717495?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
+| **[Northern Kentucky University](http://www.nku.edu/)** | **[Student Employment](https://jobright.ai/jobs/info/689c776379a9f96662538c5d?utm_campaign=1051&utm_source=git)** | Newport, KY | On Site | Aug 13 |
 | **[Atomic Brands](http://www.atomic-brands.com)** | **[Internship - Retail Account Manager (Chicago, IL) (South Side)](https://jobright.ai/jobs/info/689c1f7bfaa4e875e8266295?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
 | **[Novelist Music Group](http://www.NovelistMusicGroup.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/689c0b3e79a9f96662535936?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Aug 12 |
 | **[Premier Trailer Leasing](http://premiertrailerleasing.com)** | **[Sales Intern](https://jobright.ai/jobs/info/689bf22b83d13d1f5b6a4978?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Aug 12 |
@@ -99,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SAP iXp Intern – Sales Development Executive](https://jobright.ai/jobs/info/689c228f79a9f966625367da?utm_campaign=1051&utm_source=git)** | Burlington, MA | Hybrid | Aug 12 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/689b9128faa4e875e82613ba?utm_campaign=1051&utm_source=git)** | Saginaw, MI | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b907afaa4e875e82612ff?utm_campaign=1051&utm_source=git)** | Broken Arrow, OK | Hybrid | Aug 12 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b9061faa4e875e82612c5?utm_campaign=1051&utm_source=git)** | Mandeville, LA | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b9061faa4e875e82612c6?utm_campaign=1051&utm_source=git)** | Carlsbad, CA | Hybrid | Aug 12 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b9061faa4e875e82612c5?utm_campaign=1051&utm_source=git)** | Mandeville, LA | Hybrid | Aug 12 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689b901c79a9f966625315d6?utm_campaign=1051&utm_source=git)** | Grand Junction, CO | On Site | Aug 12 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/689b900ffaa4e875e82611f7?utm_campaign=1051&utm_source=git)** | Harlingen, TX | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b8fcc83d13d1f5b6a11c4?utm_campaign=1051&utm_source=git)** | Seaside, CA | Hybrid | Aug 12 |
@@ -145,16 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b724983d13d1f5b6a0543?utm_campaign=1051&utm_source=git)** | Burlington, VT | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b717d79a9f966625308c6?utm_campaign=1051&utm_source=git)** | Pueblo, CO | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b716e79a9f966625308ba?utm_campaign=1051&utm_source=git)** | Richardson, TX | Hybrid | Aug 12 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b701e79a9f966625307bf?utm_campaign=1051&utm_source=git)** | Logan, UT | Hybrid | Aug 12 |
+| **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Sales - Intern](https://jobright.ai/jobs/info/687f6ee99f728042457034e7?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Aug 12 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/689b701e79a9f966625307bf?utm_campaign=1051&utm_source=git)** | Logan, UT | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b6f4d83d13d1f5b6a04c3?utm_campaign=1051&utm_source=git)** | Redding, CA | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b6f2783d13d1f5b6a04a6?utm_campaign=1051&utm_source=git)** | Clovis, CA | Hybrid | Aug 12 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/689b6f1afaa4e875e82603ef?utm_campaign=1051&utm_source=git)** | Boulder, CO | Hybrid | Aug 12 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e6983d13d1f5b6a03fd?utm_campaign=1051&utm_source=git)** | USA - San Antonio, TX | Hybrid | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e55faa4e875e82603c9?utm_campaign=1051&utm_source=git)** | USA - Salt Lake City, UT | Hybrid | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e4f83d13d1f5b6a03c2?utm_campaign=1051&utm_source=git)** | USA - Puyallup, WA | Hybrid | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e4f83d13d1f5b6a03c3?utm_campaign=1051&utm_source=git)** | USA - Plano, TX | Hybrid | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e4cfaa4e875e82603bf?utm_campaign=1051&utm_source=git)** | USA - Seattle, WA | Hybrid | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e3e83d13d1f5b6a03af?utm_campaign=1051&utm_source=git)** | USA - Huntington Beach, CA | Hybrid | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e3efaa4e875e82603ab?utm_campaign=1051&utm_source=git)** | USA - Ridley Park, PA | Hybrid | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e3d83d13d1f5b6a03a4?utm_campaign=1051&utm_source=git)** | USA - Seal Beach, CA | Hybrid | Aug 12 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e7483d13d1f5b6a0418?utm_campaign=1051&utm_source=git)** | USA - Colorado Springs, CO | Hybrid | Aug 12 |
+| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e7483d13d1f5b6a0416?utm_campaign=1051&utm_source=git)** | USA - Titusville, FL | Hybrid | Aug 12 |
+| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e6983d13d1f5b6a03fd?utm_campaign=1051&utm_source=git)** | USA - San Antonio, TX | Hybrid | Aug 12 |
+| ↳ | **[Boeing Summer 2026 Internship Program (Paid) - Sales and Marketing](https://jobright.ai/jobs/info/689b6e5683d13d1f5b6a03db?utm_campaign=1051&utm_source=git)** | USA - Seal Beach, CA | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
