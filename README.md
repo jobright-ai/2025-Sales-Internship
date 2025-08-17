@@ -95,9 +95,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e783d13d1f5b6cbc52?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Aug 15 |
 | ↳ | **[Sales Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6dcfaa4e875e828be49?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6d283d13d1f5b6cbc0c?utm_campaign=1051&utm_source=git)** | St Charles, MO | On Site | Aug 15 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6ccfaa4e875e828be22?utm_campaign=1051&utm_source=git)** | Baldwin, NY | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6ccfaa4e875e828be21?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Aug 15 |
 | ↳ | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6ccfaa4e875e828be24?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6ccfaa4e875e828be22?utm_campaign=1051&utm_source=git)** | Baldwin, NY | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c3cc9ee94dc911a90e?utm_campaign=1051&utm_source=git)** | Chesterfield, MO | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c1faa4e875e828bdfe?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c0faa4e875e828bdfb?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Aug 15 |
@@ -108,18 +108,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6aecc9ee94dc911a8cc?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Aug 15 |
 | **[L'Oréal](https://www.loreal.com)** | **[2026 L’Oréal USA Commercial (NEW YORK/NEW JERSEY) Summer Internship - Undergraduate](https://jobright.ai/jobs/info/689fe6adcc9ee94dc911a8bf?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6acfaa4e875e828bdb3?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a983d13d1f5b6cbb73?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a983d13d1f5b6cbb74?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Aug 15 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a983d13d1f5b6cbb73?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a8cc9ee94dc911a8a4?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe69dcc9ee94dc911a87d?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe69dcc9ee94dc911a87e?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Aug 15 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe69dcc9ee94dc911a87d?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe68bcc9ee94dc911a859?utm_campaign=1051&utm_source=git)** | Clifton, NJ | On Site | Aug 15 |
 | **[Yuno](https://www.y.uno/)** | **[Sales Development Representative Intern (US)](https://jobright.ai/jobs/info/689fe683cc9ee94dc911a850?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe67ccc9ee94dc911a834?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[Sales Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe67ccc9ee94dc911a835?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe67ccc9ee94dc911a834?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe67ccc9ee94dc911a832?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Aug 15 |
-| ↳ | **[Sales Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe67ccc9ee94dc911a835?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
-| ↳ | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c05cc9ee94dc911ba6a?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d71faa4e875e828d16f?utm_campaign=1051&utm_source=git)** | Hudson, WI | On Site | Aug 15 |
+| ↳ | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c05cc9ee94dc911ba6a?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c3ecc9ee94dc911bb77?utm_campaign=1051&utm_source=git)** | Olympia, WA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d3b83d13d1f5b6ccd79?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c47cc9ee94dc911bb9d?utm_campaign=1051&utm_source=git)** | Ontario, CA | On Site | Aug 15 |
@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3af83d13d1f5b6cbae3?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe39783d13d1f5b6cbac5?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Aug 15 |
 | ↳ | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe384faa4e875e828bce7?utm_campaign=1051&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe384faa4e875e828bce6?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe384faa4e875e828bce5?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Aug 15 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe384faa4e875e828bce6?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe370cc9ee94dc911a76e?utm_campaign=1051&utm_source=git)** | Sandy Springs, GA | On Site | Aug 15 |
 | ↳ | **[Sales Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe36583d13d1f5b6cba8a?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0ddfaa4e875e828bc98?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Aug 15 |
@@ -145,16 +145,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c8cc9ee94dc911a6f8?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Aug 15 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Business Development, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/689fe0c8faa4e875e828bc88?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c5cc9ee94dc911a6e3?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Aug 15 |
-| ↳ | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c4faa4e875e828bc72?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c4faa4e875e828bc73?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Aug 15 |
+| ↳ | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c4faa4e875e828bc72?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c383d13d1f5b6cba0f?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c383d13d1f5b6cba11?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0be83d13d1f5b6cba02?utm_campaign=1051&utm_source=git)** | Union Grove, WI | On Site | Aug 15 |
 | ↳ | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0becc9ee94dc911a6de?utm_campaign=1051&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0bcfaa4e875e828bc60?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0bcfaa4e875e828bc5f?utm_campaign=1051&utm_source=git)** | Langhorne, PA | On Site | Aug 15 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0bcfaa4e875e828bc60?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b8faa4e875e828bc4f?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b6cc9ee94dc911a6be?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b6cc9ee94dc911a6bf?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b6cc9ee94dc911a6c0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Aug 15 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b6cc9ee94dc911a6bf?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
