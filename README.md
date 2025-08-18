@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whirlpool Corporation](http://www.whirlpoolcorp.com/)** | **[Real Whirled Sales Development Program Intern, May 2026](https://jobright.ai/jobs/info/68a2b18cda4b7a7e73073066?utm_campaign=1051&utm_source=git)** | Benton Harbor, MI | On Site | Aug 17 |
 | **[SolarVue AI™](https://solarvue.ai)** | **[Sales Support Coordinator](https://jobright.ai/jobs/info/68a286e483d13d1f5b6d629d?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26ad183d13d1f5b6d5ecd?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Aug 17 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26ad183d13d1f5b6d5ecb?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Aug 17 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26ac583d13d1f5b6d5eb2?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Aug 17 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26a39faa4e875e8295f79?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Aug 17 |
 | **[Caprae Capital Partners](https://www.founderlegacypartners.com/)** | **[Private Equity Intern](https://jobright.ai/jobs/info/68a26a34faa4e875e8295f74?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Aug 17 |
-| **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26a2ffaa4e875e8295f69?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26a2ffaa4e875e8295f6a?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Aug 17 |
+| **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26a2ffaa4e875e8295f6a?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Aug 17 |
+| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26a2ffaa4e875e8295f69?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26a2efaa4e875e8295f68?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Aug 17 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26a2efaa4e875e8295f67?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Aug 17 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a26a1dcc9ee94dc9124cfa?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Aug 17 |
@@ -103,6 +104,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68a1d8f683d13d1f5b6d5151?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 17 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68a1d8f683d13d1f5b6d5152?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Aug 17 |
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Summer 2025 Event Sales Intern - Unpaid](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b1028?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 17 |
+| **[moomoo ](https://www.moomoo.com)** | **[Summer 2025 Event Sales Intern - Unpaid](https://jobright.ai/jobs/info/684c6485a1a3db3ede4b1013?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Aug 17 |
 | **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68a1ccc5faa4e875e82950f2?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Aug 17 |
 | **[moomoo ](https://www.moomoo.com)** | **[Unpaid - Strategic Partnership Intern - Fall 2025](https://jobright.ai/jobs/info/684c550d353e98e2222c55a4?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Aug 17 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[International TV Production Finance Intern – Miami – Fall 2025](https://jobright.ai/jobs/info/688508414174df41e0f95d3a?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Aug 17 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a0b97efaa4e875e82914ed?utm_campaign=1051&utm_source=git)** | Sugar Land, TX | On Site | Aug 16 |
 | **[Solenis](http://solenis.com/)** | **[Solenis Sales and Technical Service Internship](https://jobright.ai/jobs/info/688bfe8a3a30793eb963f321?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Aug 16 |
 | **[BANGERS!](http://eatbangers.com)** | **[Startup Internship (Fall 2025)](https://jobright.ai/jobs/info/68a0b6f9cc9ee94dc91202c5?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Aug 16 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68a0ae6afaa4e875e82913a1?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Aug 16 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68a0ae6afaa4e875e82913a4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 16 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a0ae6afaa4e875e82913a4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 16 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68a0ae6afaa4e875e82913a1?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Aug 16 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68a0a441cc9ee94dc9120078?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Aug 16 |
 | **[Lufthansa Technik Component Services](http://ltcs.com)** | **[Strategy and Business Development Intern](https://jobright.ai/jobs/info/68a09d6283d13d1f5b6d0e85?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Aug 16 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets: Sales - Miami](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577f5?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Aug 16 |
@@ -135,14 +137,16 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Chase Leadership Development Program - Summer Analyst Opportunity (New York Metro)](https://jobright.ai/jobs/info/6868090c35584b6542be86e8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 16 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a05327faa4e875e82901f7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 16 |
 | ↳ | **[Creator Partnerships Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a04fa7cc9ee94dc911ef47?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Aug 16 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Industry Excellence Intern (2024-2025)](https://jobright.ai/jobs/info/68a2ba81da4b7a7e730732b1?utm_campaign=1051&utm_source=git)** | College Park, MD | On Site | Aug 15 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Sales Internship - Newton, MA](https://jobright.ai/jobs/info/68a2af59ff570d7ffd65d140?utm_campaign=1051&utm_source=git)** | Newton, MA | On Site | Aug 15 |
 | **[Southwest Teepee and Event Rental](http://www.southwestteepeerental.com)** | **[Assistant Coordinator](https://jobright.ai/jobs/info/689ff37ecc9ee94dc911ae7b?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc57?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc59?utm_campaign=1051&utm_source=git)** | Hamburg, PA | On Site | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc59?utm_campaign=1051&utm_source=git)** | Hamburg, PA | On Site | Aug 15 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc57?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e783d13d1f5b6cbc52?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Aug 15 |
 | ↳ | **[Sales Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6dcfaa4e875e828be49?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6d283d13d1f5b6cbc0c?utm_campaign=1051&utm_source=git)** | St Charles, MO | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6ccfaa4e875e828be22?utm_campaign=1051&utm_source=git)** | Baldwin, NY | On Site | Aug 15 |
 | ↳ | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6ccfaa4e875e828be24?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6ccfaa4e875e828be22?utm_campaign=1051&utm_source=git)** | Baldwin, NY | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6ccfaa4e875e828be21?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c3cc9ee94dc911a90e?utm_campaign=1051&utm_source=git)** | Chesterfield, MO | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c1faa4e875e828bdfe?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Aug 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6b8faa4e875e828bdd8?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6aecc9ee94dc911a8cc?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Aug 15 |
 | **[L'Oréal](https://www.loreal.com)** | **[2026 L’Oréal USA Commercial (NEW YORK/NEW JERSEY) Summer Internship - Undergraduate](https://jobright.ai/jobs/info/689fe6adcc9ee94dc911a8bf?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6acfaa4e875e828bdb3?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a983d13d1f5b6cbb73?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a983d13d1f5b6cbb74?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Aug 15 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a8cc9ee94dc911a8a4?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
