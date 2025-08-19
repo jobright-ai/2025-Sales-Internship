@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualtrics](http://www.qualtrics.com)** | **[SkillBridge - Technical Success Manager](https://jobright.ai/jobs/info/68889705aab47a17f66fc56a?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 19 |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Healthcare & Life Sciences Division [UG/MS]](https://jobright.ai/jobs/info/68a4520c541cc3479840b3f0?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Aug 19 |
+| ↳ | **[Summer 2026 Intern - Healthcare & Life Sciences Division [UG/MS]](https://jobright.ai/jobs/info/68a44ee2e9f1c744da121868?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 19 |
+| ↳ | **[Summer 2026 Intern - Healthcare & Life Sciences Division [UG/MS]](https://jobright.ai/jobs/info/68a44e8e2d2a252445cd684c?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Aug 19 |
 | **[Arthrex Represented by Elevate Surgical, Co.](https://www.linkedin.com/company/86960997)** | **[Orthopedic Sales Internship Fall 2025](https://jobright.ai/jobs/info/68a4225fe9f1c744da1210f3?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/689c25ff79a9f96662536bda?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[ByteDance](http://bytedance.com)** | **[Content Partnership Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a05327faa4e875e82901f7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
@@ -70,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/68a3e6562d2a252445cd3ea2?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 18 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/68a3e64ce9f1c744da11eec8?utm_campaign=1051&utm_source=git)** | Twin Falls, ID | Hybrid | Aug 18 |
 | ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68a3e6372d2a252445cd3e2e?utm_campaign=1051&utm_source=git)** | New Orleans, LA | Hybrid | Aug 18 |
+| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Business Development Internship / Fall 2025](https://jobright.ai/jobs/info/689e806283d13d1f5b6bcfe5?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Aug 18 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68a41129541cc3479840a271?utm_campaign=1051&utm_source=git)** | North Miami, FL | On Site | Aug 18 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68a3d87437d3cc6b0d57a17d?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Aug 18 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/68a3d82037d3cc6b0d57a0f7?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Aug 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68a39c721ab5f8579e8a726e?utm_campaign=1051&utm_source=git)** | Pomona, CA | On Site | Aug 18 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68a39c711ab5f8579e8a7267?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Aug 18 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68a39c70403ad4363b1c29e5?utm_campaign=1051&utm_source=git)** | Chantilly, VA | On Site | Aug 18 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68a39c68403ad4363b1c29cb?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Aug 18 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68a39c581ab5f8579e8a7218?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Aug 18 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68a39c53403ad4363b1c2980?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Aug 18 |
-| **[NJ Consulting Firm](https://www.njconsultingfirm.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68a39bb537d3cc6b0d57863a?utm_campaign=1051&utm_source=git)** | Bayonne, NJ | On Site | Aug 18 |
-| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Omaha, NE - Summer 2026)](https://jobright.ai/jobs/info/68a391ee1ab5f8579e8a6e9c?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
