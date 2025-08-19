@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Arthrex Represented by Elevate Surgical, Co.](https://www.linkedin.com/company/86960997)** | **[Orthopedic Sales Internship Fall 2025](https://jobright.ai/jobs/info/68a4225fe9f1c744da1210f3?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Aug 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/689c25ff79a9f96662536bda?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
+| **[ByteDance](http://bytedance.com)** | **[Content Partnership Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a05327faa4e875e82901f7?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales Management Intern](https://jobright.ai/jobs/info/68a41bae2d2a252445cd5c9a?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Rentazon](http://Rentazon.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68a40cdae9f1c744da12031c?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Aug 18 |
 | **[ImageQuix](https://www.imagequix.com/)** | **[CaptureLife Business Development Intern](https://jobright.ai/jobs/info/68a3ed0fe9f1c744da11f3a7?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Aug 18 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68a3c4de403ad4363b1c39cd?utm_campaign=1051&utm_source=git)** | Naperville, IL | Hybrid | Aug 18 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/68a3c481403ad4363b1c3950?utm_campaign=1051&utm_source=git)** | Corvallis, OR | Hybrid | Aug 18 |
 | ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68a3c3b037d3cc6b0d57957a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Aug 18 |
-| ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/68a3c38d1ab5f8579e8a8178?utm_campaign=1051&utm_source=git)** | Savannah, GA | Hybrid | Aug 18 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/68a3c38d1ab5f8579e8a8177?utm_campaign=1051&utm_source=git)** | St Paul, MN | Hybrid | Aug 18 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/68a3c38d1ab5f8579e8a8178?utm_campaign=1051&utm_source=git)** | Savannah, GA | Hybrid | Aug 18 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/68a3c3461ab5f8579e8a8135?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Aug 18 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/68a3c2f51ab5f8579e8a80ed?utm_campaign=1051&utm_source=git)** | Iron Mountain, MI | Hybrid | Aug 18 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68a3e6572d2a252445cd3ea4?utm_campaign=1051&utm_source=git)** | Farmington, UT | On Site | Aug 18 |
@@ -111,6 +113,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68a3be7c1ab5f8579e8a7f60?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Aug 18 |
 | ↳ | **[Customer Success Manager- Brand Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68a3be661ab5f8579e8a7f4f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Aug 18 |
 | **[CECP](https://cecp.co)** | **[Strategic Engagement 2025 Intern](https://jobright.ai/jobs/info/68a3bb11403ad4363b1c3453?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Aug 18 |
+| **[Solenis](http://solenis.com/)** | **[Solenis Sales and Technical Service Internship](https://jobright.ai/jobs/info/688bfe8a3a30793eb963f321?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Aug 18 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Sales Velocity Analyst](https://jobright.ai/jobs/info/68a3b8cf403ad4363b1c333b?utm_campaign=1051&utm_source=git)** | New York | Hybrid | Aug 18 |
 | **[IBM](http://www.ibm.com)** | **[Digital Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68a3b7cb403ad4363b1c32f8?utm_campaign=1051&utm_source=git)** | Fresno, CA | Hybrid | Aug 18 |
 | ↳ | **[Digital Seller Intern– Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68a3b6f337d3cc6b0d578f35?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Aug 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68a39c53403ad4363b1c2980?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Aug 18 |
 | **[NJ Consulting Firm](https://www.njconsultingfirm.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68a39bb537d3cc6b0d57863a?utm_campaign=1051&utm_source=git)** | Bayonne, NJ | On Site | Aug 18 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Omaha, NE - Summer 2026)](https://jobright.ai/jobs/info/68a391ee1ab5f8579e8a6e9c?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Aug 18 |
-| **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68a391cf403ad4363b1c25cf?utm_campaign=1051&utm_source=git)** | USA - Texas - Houston | Hybrid | Aug 18 |
-| ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68a391cf403ad4363b1c25d1?utm_campaign=1051&utm_source=git)** | USA - Massachusetts - Boston | Hybrid | Aug 18 |
-| ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68a391c61ab5f8579e8a6e4d?utm_campaign=1051&utm_source=git)** | USA - New Jersey - Linden | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
