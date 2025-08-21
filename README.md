@@ -57,20 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Partnerships, Creators](https://jobright.ai/jobs/info/68a720e633dd7158bbca4a7a?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 21 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Group Benefit Solutions (GBS) Sales Summer Internship Program](https://jobright.ai/jobs/info/68972a988c6d6b44267860bb?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Aug 21 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68a7049b758f2e4ac3fe906a?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 21 |
+| **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/68a716fed627244576e29a4d?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/68a6dc0e758f2e4ac3fe867e?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
 | **[CreditLink Corporation](https://creditlink.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a6d78cb6a3617d7fa7af4e?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Aug 21 |
 | **[Goodwill Industries - Big Bend, Inc.](https://www.goodwillbigbend.org/)** | **[TWE Participant - Growth Opportunities 4](https://jobright.ai/jobs/info/68a6aec2758f2e4ac3fe6c29?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Aug 20 |
 | **[Hippocratic Financial](https://hippocratic.com)** | **[CFP Career Accelerator Program](https://jobright.ai/jobs/info/68a6c47b33dd7158bbca2bdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/68a68e62758f2e4ac3fe585d?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
 | **[The Block](https://www.theblock.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/68a68e1d758f2e4ac3fe5813?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
-| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a68c18758f2e4ac3fe55ba?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 20 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a68d1d758f2e4ac3fe56eb?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 20 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Homeownership Intern](https://jobright.ai/jobs/info/68a67b02b6a3617d7fa77b44?utm_campaign=1051&utm_source=git)** | US-VA-Richmond | Hybrid | Aug 20 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Buisness Development Specialist (Unpaid Internship)](https://jobright.ai/jobs/info/68a69ad6b6a3617d7fa7881e?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Brown & Brown](https://www.bbrown.com/us/)** | **[Sales Intern](https://jobright.ai/jobs/info/68a6701db6a3617d7fa777f4?utm_campaign=1051&utm_source=git)** | Carmel, IN, USA | On Site | Aug 20 |
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a66c5fb6a3617d7fa77652?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Aug 20 |
 | **[Hometown Veterinary Partners](https://hometownvetpartners.com/careers)** | **[Business Development Intern](https://jobright.ai/jobs/info/68a66638b6a3617d7fa77425?utm_campaign=1051&utm_source=git)** | Home, KS | Hybrid | Aug 20 |
-| **[Corcoran Icon Properties](https://corcoranicon.com)** | **[Commercial Real Estate Brokerage Internship](https://jobright.ai/jobs/info/68a65a46b6a3617d7fa76fe2?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Aug 20 |
+| **[Corcoran Icon Properties](https://corcoranicon.com)** | **[Commercial real estate brokerage fall internship](https://jobright.ai/jobs/info/68a65a46b6a3617d7fa76fe2?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Aug 20 |
 | **[Dataiku](https://www.dataiku.com)** | **[Sales & GTM Enablement Intern](https://jobright.ai/jobs/info/68a6527ab6a3617d7fa76dc6?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 20 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68a6934233dd7158bbca0c59?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Aug 20 |
 | **[Sponsor a Pet](https://www.sponsorapet.org)** | **[Sales Intern](https://jobright.ai/jobs/info/68a6c117b6a3617d7fa7a02e?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60c0633dd7158bbc9d58b?utm_campaign=1051&utm_source=git)** | Warwick, RI | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60bbcb6a3617d7fa74cde?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60b73b6a3617d7fa74cae?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | Hybrid | Aug 20 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60b3733dd7158bbc9d52b?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60b2eb6a3617d7fa74c89?utm_campaign=1051&utm_source=git)** | Homestead, FL | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60a1a33dd7158bbc9d4b5?utm_campaign=1051&utm_source=git)** | Boynton Beach, FL | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a609fc758f2e4ac3fe218e?utm_campaign=1051&utm_source=git)** | Decatur, IL | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60963758f2e4ac3fe20a2?utm_campaign=1051&utm_source=git)** | Pine Hills, FL | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a608ec758f2e4ac3fe200d?utm_campaign=1051&utm_source=git)** | Layton, UT | Hybrid | Aug 20 |
-| **[Siam Collection INTL REAL.](https://www.linkedin.com/company/107443414)** | **[Commission-Based Remote Internship – Wholesale Real Estate](https://jobright.ai/jobs/info/68a6b89333dd7158bbca2503?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Aug 20 |
-| **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a622e6b6a3617d7fa759d0?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
