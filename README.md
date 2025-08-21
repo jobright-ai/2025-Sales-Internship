@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goodwill Industries - Big Bend, Inc.](https://www.goodwillbigbend.org/)** | **[TWE Participant - Growth Opportunities 4](https://jobright.ai/jobs/info/68a6aec2758f2e4ac3fe6c29?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Aug 20 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/68a68e62758f2e4ac3fe585d?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
 | **[The Block](https://www.theblock.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/68a68e1d758f2e4ac3fe5813?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a68c18758f2e4ac3fe55ba?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 20 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60963758f2e4ac3fe20a2?utm_campaign=1051&utm_source=git)** | Pine Hills, FL | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a608ec758f2e4ac3fe200d?utm_campaign=1051&utm_source=git)** | Layton, UT | Hybrid | Aug 20 |
 | **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a622e6b6a3617d7fa759d0?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a6240bb6a3617d7fa75ae2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62690758f2e4ac3fe3235?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Aug 20 |
+| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a6240bb6a3617d7fa75ae2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62474b6a3617d7fa75b57?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a6237533dd7158bbc9e2e5?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a623ee33dd7158bbc9e372?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a623afb6a3617d7fa75a7b?utm_campaign=1051&utm_source=git)** | Clarksville, TN | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62766758f2e4ac3fe333c?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Aug 20 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a601ea33dd7158bbc9d162?utm_campaign=1051&utm_source=git)** | Buena Park, CA | Hybrid | Aug 20 |
+| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a623afb6a3617d7fa75a7b?utm_campaign=1051&utm_source=git)** | Clarksville, TN | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
