@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68a7049b758f2e4ac3fe906a?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 21 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/68a6dc0e758f2e4ac3fe867e?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
 | **[CreditLink Corporation](https://creditlink.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a6d78cb6a3617d7fa7af4e?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Aug 21 |
 | **[Goodwill Industries - Big Bend, Inc.](https://www.goodwillbigbend.org/)** | **[TWE Participant - Growth Opportunities 4](https://jobright.ai/jobs/info/68a6aec2758f2e4ac3fe6c29?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Aug 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a608ec758f2e4ac3fe200d?utm_campaign=1051&utm_source=git)** | Layton, UT | Hybrid | Aug 20 |
 | **[Siam Collection INTL REAL.](https://www.linkedin.com/company/107443414)** | **[Commission-Based Remote Internship – Wholesale Real Estate](https://jobright.ai/jobs/info/68a6b89333dd7158bbca2503?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Aug 20 |
 | **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a622e6b6a3617d7fa759d0?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62690758f2e4ac3fe3235?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
