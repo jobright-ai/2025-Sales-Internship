@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/68a68e62758f2e4ac3fe585d?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
+| **[The Block](https://www.theblock.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/68a68e1d758f2e4ac3fe5813?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
+| **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a68c18758f2e4ac3fe55ba?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 20 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68a6823033dd7158bbca0549?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Aug 20 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Homeownership Intern](https://jobright.ai/jobs/info/68a67b02b6a3617d7fa77b44?utm_campaign=1051&utm_source=git)** | US-VA-Richmond | Hybrid | Aug 20 |
+| **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Buisness Development Specialist (Unpaid Internship)](https://jobright.ai/jobs/info/68a69ad6b6a3617d7fa7881e?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Brown & Brown](https://www.bbrown.com/us/)** | **[Sales Intern](https://jobright.ai/jobs/info/68a6701db6a3617d7fa777f4?utm_campaign=1051&utm_source=git)** | Carmel, IN, USA | On Site | Aug 20 |
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a66c5fb6a3617d7fa77652?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Aug 20 |
 | **[Hometown Veterinary Partners](https://hometownvetpartners.com/careers)** | **[Business Development Intern](https://jobright.ai/jobs/info/68a66638b6a3617d7fa77425?utm_campaign=1051&utm_source=git)** | Home, KS | Hybrid | Aug 20 |
 | **[Corcoran Icon Properties](https://corcoranicon.com)** | **[Commercial Real Estate Brokerage Internship](https://jobright.ai/jobs/info/68a65a46b6a3617d7fa76fe2?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Aug 20 |
 | **[Dataiku](https://www.dataiku.com)** | **[Sales & GTM Enablement Intern](https://jobright.ai/jobs/info/68a6527ab6a3617d7fa76dc6?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 20 |
+| **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68a6934233dd7158bbca0c59?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Aug 20 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Intern, Partnership Solutions](https://jobright.ai/jobs/info/68a6461b33dd7158bbc9f1ea?utm_campaign=1051&utm_source=git)** | College Park, MD | On Site | Aug 20 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT TEMP NTE 90 Days](https://jobright.ai/jobs/info/68a6624b33dd7158bbc9fa92?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Playfly Max, NIL Fulfillment Intern](https://jobright.ai/jobs/info/68a66c1cb6a3617d7fa7761e?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Aug 20 |
@@ -94,7 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61ed6b6a3617d7fa7587b?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61ea6b6a3617d7fa75850?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61e88b6a3617d7fa75826?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61e78b6a3617d7fa75808?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
+| **[Chatter Buzz](https://www.chatterbuzzmedia.com/)** | **[Account Management Internship (Paid) Orlando](https://jobright.ai/jobs/info/68a69739b6a3617d7fa78717?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Aug 20 |
+| **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61e78b6a3617d7fa75808?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61e3333dd7158bbc9e02e?utm_campaign=1051&utm_source=git)** | Fayetteville, NC | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61e2fb6a3617d7fa757b5?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61d62b6a3617d7fa756bc?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Aug 20 |
@@ -143,18 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60963758f2e4ac3fe20a2?utm_campaign=1051&utm_source=git)** | Pine Hills, FL | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a608ec758f2e4ac3fe200d?utm_campaign=1051&utm_source=git)** | Layton, UT | Hybrid | Aug 20 |
 | **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a622e6b6a3617d7fa759d0?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62690758f2e4ac3fe3235?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a6240bb6a3617d7fa75ae2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a6237533dd7158bbc9e2e5?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Aug 20 |
+| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62690758f2e4ac3fe3235?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62474b6a3617d7fa75b57?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Aug 20 |
+| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a6237533dd7158bbc9e2e5?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a623ee33dd7158bbc9e372?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a623afb6a3617d7fa75a7b?utm_campaign=1051&utm_source=git)** | Clarksville, TN | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62766758f2e4ac3fe333c?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Aug 20 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a601ea33dd7158bbc9d161?utm_campaign=1051&utm_source=git)** | Westland, MI | Hybrid | Aug 20 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a601ea33dd7158bbc9d162?utm_campaign=1051&utm_source=git)** | Buena Park, CA | Hybrid | Aug 20 |
-| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (Charleston Southern Athletics) - Fall 2025](https://jobright.ai/jobs/info/68a601bd33dd7158bbc9d14b?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Aug 20 |
-| **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a601b733dd7158bbc9d149?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 20 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60169b6a3617d7fa747b9?utm_campaign=1051&utm_source=git)** | Auburn, WA | Hybrid | Aug 20 |
-| **[Miami Marlins and loanDepot park](https://marlins.mlb.com/)** | **[Virtual Sales Intern](https://jobright.ai/jobs/info/68a5ff27758f2e4ac3fe1cdf?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a5fedc758f2e4ac3fe1c77?utm_campaign=1051&utm_source=git)** | Bryan, TX | Hybrid | Aug 20 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a601ea33dd7158bbc9d162?utm_campaign=1051&utm_source=git)** | Buena Park, CA | Hybrid | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
