@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hippocratic Financial](https://hippocratic.com)** | **[CFP Career Accelerator Program](https://jobright.ai/jobs/info/68a6c47b33dd7158bbca2bdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
+| **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/68a6dc0e758f2e4ac3fe867e?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
+| **[CreditLink Corporation](https://creditlink.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a6d78cb6a3617d7fa7af4e?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Aug 21 |
 | **[Goodwill Industries - Big Bend, Inc.](https://www.goodwillbigbend.org/)** | **[TWE Participant - Growth Opportunities 4](https://jobright.ai/jobs/info/68a6aec2758f2e4ac3fe6c29?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Aug 20 |
+| **[Hippocratic Financial](https://hippocratic.com)** | **[CFP Career Accelerator Program](https://jobright.ai/jobs/info/68a6c47b33dd7158bbca2bdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/68a68e62758f2e4ac3fe585d?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
 | **[The Block](https://www.theblock.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/68a68e1d758f2e4ac3fe5813?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a68c18758f2e4ac3fe55ba?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siam Collection INTL REAL.](https://www.linkedin.com/company/107443414)** | **[Commission-Based Remote Internship – Wholesale Real Estate](https://jobright.ai/jobs/info/68a6b89333dd7158bbca2503?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Aug 20 |
 | **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a622e6b6a3617d7fa759d0?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62690758f2e4ac3fe3235?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a6240bb6a3617d7fa75ae2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a6237533dd7158bbc9e2e5?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
