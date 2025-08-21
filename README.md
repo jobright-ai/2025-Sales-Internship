@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hippocratic Financial](https://hippocratic.com)** | **[CFP Career Accelerator Program](https://jobright.ai/jobs/info/68a6c47b33dd7158bbca2bdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Goodwill Industries - Big Bend, Inc.](https://www.goodwillbigbend.org/)** | **[TWE Participant - Growth Opportunities 4](https://jobright.ai/jobs/info/68a6aec2758f2e4ac3fe6c29?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Aug 20 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/68a68e62758f2e4ac3fe585d?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Aug 20 |
 | **[The Block](https://www.theblock.co)** | **[Business Development Intern](https://jobright.ai/jobs/info/68a68e1d758f2e4ac3fe5813?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Xometry](https://www.xometry.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a68c18758f2e4ac3fe55ba?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 20 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68a6823033dd7158bbca0549?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Aug 20 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Homeownership Intern](https://jobright.ai/jobs/info/68a67b02b6a3617d7fa77b44?utm_campaign=1051&utm_source=git)** | US-VA-Richmond | Hybrid | Aug 20 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Buisness Development Specialist (Unpaid Internship)](https://jobright.ai/jobs/info/68a69ad6b6a3617d7fa7881e?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Brown & Brown](https://www.bbrown.com/us/)** | **[Sales Intern](https://jobright.ai/jobs/info/68a6701db6a3617d7fa777f4?utm_campaign=1051&utm_source=git)** | Carmel, IN, USA | On Site | Aug 20 |
@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Corcoran Icon Properties](https://corcoranicon.com)** | **[Commercial Real Estate Brokerage Internship](https://jobright.ai/jobs/info/68a65a46b6a3617d7fa76fe2?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Aug 20 |
 | **[Dataiku](https://www.dataiku.com)** | **[Sales & GTM Enablement Intern](https://jobright.ai/jobs/info/68a6527ab6a3617d7fa76dc6?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 20 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68a6934233dd7158bbca0c59?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Aug 20 |
+| **[Sponsor a Pet](https://www.sponsorapet.org)** | **[Sales Intern](https://jobright.ai/jobs/info/68a6c117b6a3617d7fa7a02e?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Intern, Partnership Solutions](https://jobright.ai/jobs/info/68a6461b33dd7158bbc9f1ea?utm_campaign=1051&utm_source=git)** | College Park, MD | On Site | Aug 20 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT TEMP NTE 90 Days](https://jobright.ai/jobs/info/68a6624b33dd7158bbc9fa92?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Playfly Max, NIL Fulfillment Intern](https://jobright.ai/jobs/info/68a66c1cb6a3617d7fa7761e?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Aug 20 |
@@ -95,6 +96,8 @@ For a complete list, click the following sortable link below:
 | **[English from A to Z](https://www.englishfromatoz.com)** | **[Fall 2025 Sales Intern](https://jobright.ai/jobs/info/68a629bb33dd7158bbc9e6c9?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a6263a758f2e4ac3fe31c2?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Aug 20 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68a622b9b6a3617d7fa75998?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Aug 20 |
+| **[Devora Labs Inc.](https://www.linkedin.com/company/108124288)** | **[Partnership & Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/68a6c8ca758f2e4ac3fe81af?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 20 |
+| **[BSPR](https://www.instagram.com/bspr/?hl=en)** | **[VIP Showroom Intern](https://jobright.ai/jobs/info/68a6c810758f2e4ac3fe80ec?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 20 |
 | **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61f1ab6a3617d7fa758b7?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61ef6b6a3617d7fa758a0?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a61ed6b6a3617d7fa7587b?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Aug 20 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a609fc758f2e4ac3fe218e?utm_campaign=1051&utm_source=git)** | Decatur, IL | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a60963758f2e4ac3fe20a2?utm_campaign=1051&utm_source=git)** | Pine Hills, FL | Hybrid | Aug 20 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a608ec758f2e4ac3fe200d?utm_campaign=1051&utm_source=git)** | Layton, UT | Hybrid | Aug 20 |
+| **[Siam Collection INTL REAL.](https://www.linkedin.com/company/107443414)** | **[Commission-Based Remote Internship – Wholesale Real Estate](https://jobright.ai/jobs/info/68a6b89333dd7158bbca2503?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Aug 20 |
 | **[Lotus Sales Group](www.lotussales.co)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a622e6b6a3617d7fa759d0?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62690758f2e4ac3fe3235?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a6240bb6a3617d7fa75ae2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62474b6a3617d7fa75b57?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Aug 20 |
 | ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a6237533dd7158bbc9e2e5?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a623ee33dd7158bbc9e372?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a62766758f2e4ac3fe333c?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Aug 20 |
-| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68a623afb6a3617d7fa75a7b?utm_campaign=1051&utm_source=git)** | Clarksville, TN | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
