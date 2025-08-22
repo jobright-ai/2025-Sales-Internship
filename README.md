@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Purchases Internship](https://jobright.ai/jobs/info/68a7ab34d627244576e2de84?utm_campaign=1051&utm_source=git)** | West Chester, OH | On Site | Aug 21 |
+| ↳ | **[Purchases Internship](https://jobright.ai/jobs/info/68a7a6bb33dd7158bbca893c?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
+| **[Clerkie](https://clerkie.io)** | **[GTM Internship (Part-time)](https://jobright.ai/jobs/info/68a7a26d33dd7158bbca8714?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Talks Brand Group](https://www.talksbrandgroup.com/)** | **[Sales Intern - Talent & Brand Partnerships (PAID)](https://jobright.ai/jobs/info/68a78a20758f2e4ac3fed00c?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Aug 21 |
 | **[The Greater Scranton Chamber of Commerce](https://skillsinscranton.com/)** | **[IGNITE Entrepreneurship Intern](https://jobright.ai/jobs/info/68a7870033dd7158bbca7fc0?utm_campaign=1051&utm_source=git)** | Scranton, PA | On Site | Aug 21 |
+| **[Ariventures Abroad](ariventuresabroad.co)** | **[Partnerships & Programs Intern](https://jobright.ai/jobs/info/68a7a860758f2e4ac3fed854?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
 | **[TeamLogic IT](https://www.teamlogicit.com/)** | **[Intern – Entry Level Technician and Sales Assistant](https://jobright.ai/jobs/info/68a78045d627244576e2cee0?utm_campaign=1051&utm_source=git)** | Commerce, CA | On Site | Aug 21 |
 | **[AspinRock](https://aspinrock.com)** | **[Sales Intern – Risk Management Client Acquisition](https://jobright.ai/jobs/info/68a77cfa33dd7158bbca7a4f?utm_campaign=1051&utm_source=git)** | Triangle Area | On Site | Aug 21 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Sales Internship - Congers, NY](https://jobright.ai/jobs/info/68a7782033dd7158bbca784e?utm_campaign=1051&utm_source=git)** | Congers, NY | On Site | Aug 21 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7476ed627244576e2af52?utm_campaign=1051&utm_source=git)** | Tulare, CA | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a74728d627244576e2af1a?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7470dd627244576e2af06?utm_campaign=1051&utm_source=git)** | Union City, NJ | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a746e7d627244576e2aedc?utm_campaign=1051&utm_source=git)** | Union City, CA | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a746e7d627244576e2aedb?utm_campaign=1051&utm_source=git)** | Poinciana, FL | Hybrid | Aug 21 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a746e7d627244576e2aedc?utm_campaign=1051&utm_source=git)** | Union City, CA | Hybrid | Aug 21 |
 | **[Patrick Danielson State Farm](http://www.myagentpat.com)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/68a746d9758f2e4ac3feaaca?utm_campaign=1051&utm_source=git)** | Spring, TX | On Site | Aug 21 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a746cbd627244576e2aebf?utm_campaign=1051&utm_source=git)** | Ames, IA | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a746b6758f2e4ac3feaa84?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a746af758f2e4ac3feaa76?utm_campaign=1051&utm_source=git)** | Missouri City, TX | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a746a8758f2e4ac3feaa6b?utm_campaign=1051&utm_source=git)** | Evanston, IL | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a74683d627244576e2ae7d?utm_campaign=1051&utm_source=git)** | Casas Adobes, AZ | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7467f758f2e4ac3feaa2b?utm_campaign=1051&utm_source=git)** | Dublin, CA | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7466333dd7158bbca5b93?utm_campaign=1051&utm_source=git)** | Port Orange, FL | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7464333dd7158bbca5b6d?utm_campaign=1051&utm_source=git)** | East Orange, NJ | Hybrid | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
