@@ -68,8 +68,7 @@ For a complete list, click the following sortable link below:
 | **[ChiChi](https://chickpeaoats.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68a7bb3c33dd7158bbca8ff2?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Success Internal Communications](https://jobright.ai/jobs/info/68a7b3d2758f2e4ac3fedd90?utm_campaign=1051&utm_source=git)** | Bellevue, WA | Hybrid | Aug 21 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Purchases Internship](https://jobright.ai/jobs/info/68a7ab34d627244576e2de84?utm_campaign=1051&utm_source=git)** | West Chester, OH | On Site | Aug 21 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Sales Intern, Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/68a7a979758f2e4ac3fed95d?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 21 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Purchases Internship](https://jobright.ai/jobs/info/68a7a6bb33dd7158bbca893c?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
+| ↳ | **[Purchases Internship](https://jobright.ai/jobs/info/68a7a6bb33dd7158bbca893c?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 | **[Clerkie](https://clerkie.io)** | **[GTM Internship (Part-time)](https://jobright.ai/jobs/info/68a7a26d33dd7158bbca8714?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Turning Point Action](https://www.tpaction.com)** | **[HubSpot CRM Intern](https://jobright.ai/jobs/info/68a809b633dd7158bbcab495?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Aug 21 |
 | **[Talks Brand Group](https://www.talksbrandgroup.com/)** | **[Sales Intern - Talent & Brand Partnerships (PAID)](https://jobright.ai/jobs/info/68a78a20758f2e4ac3fed00c?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Aug 21 |
@@ -82,19 +81,20 @@ For a complete list, click the following sortable link below:
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern](https://jobright.ai/jobs/info/68a77581758f2e4ac3fec5bf?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68a7749133dd7158bbca75a3?utm_campaign=1051&utm_source=git)** | Heathrow, FL - USA (Office) | On Site | Aug 21 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandising Co-op Program (Jan-June 2026)](https://jobright.ai/jobs/info/68a773a733dd7158bbca7486?utm_campaign=1051&utm_source=git)** | Framingham, MA 01701 | Hybrid | Aug 21 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Sales Intern, Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/68a76d88d627244576e2c381?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 21 |
 | **[TW Metals LLC](http://www.twmetals.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68a76c4633dd7158bbca6e2f?utm_campaign=1051&utm_source=git)** | Carol Stream, IL | On Site | Aug 21 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/68a76a09758f2e4ac3febbca?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Aug 21 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7689fd627244576e2bff0?utm_campaign=1051&utm_source=git)** | Coon Rapids, MN | Hybrid | Aug 21 |
 | **[Garavello Capital](www.garavellocapital.com)** | **[Business Development Coordinator](https://jobright.ai/jobs/info/68a7ffc6d627244576e300a5?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship - NYC](https://jobright.ai/jobs/info/68a76806d627244576e2bf58?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68a8042f33dd7158bbcab1d7?utm_campaign=1051&utm_source=git)** | Metairie, LA | On Site | Aug 21 |
+| ↳ | **[College Financial Representative Internship - NYC](https://jobright.ai/jobs/info/68a76806d627244576e2bf58?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a767d7d627244576e2bf21?utm_campaign=1051&utm_source=git)** | Bossier City, LA | Hybrid | Aug 21 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68a766a333dd7158bbca6b73?utm_campaign=1051&utm_source=git)** | Metairie, LA | On Site | Aug 21 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Asset Management and Client](https://jobright.ai/jobs/info/68a7666f33dd7158bbca6b46?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Aug 21 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Wholesale, Industrial, Foodservice & International Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68a7618d33dd7158bbca6a16?utm_campaign=1051&utm_source=git)** | Salisbury, MD | On Site | Aug 21 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Field Tools and Analytics Internship](https://jobright.ai/jobs/info/68a76090758f2e4ac3feb975?utm_campaign=1051&utm_source=git)** | Mettawa, IL | On Site | Aug 21 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a757d933dd7158bbca66be?utm_campaign=1051&utm_source=git)** | San Clemente, CA | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a757c733dd7158bbca66af?utm_campaign=1051&utm_source=git)** | Kankakee, IL | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a757c733dd7158bbca66b0?utm_campaign=1051&utm_source=git)** | Hammond, LA | Hybrid | Aug 21 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a757c733dd7158bbca66af?utm_campaign=1051&utm_source=git)** | Kankakee, IL | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a757afd627244576e2b9af?utm_campaign=1051&utm_source=git)** | Albany, OR | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7577cd627244576e2b966?utm_campaign=1051&utm_source=git)** | St Cloud, FL | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7573933dd7158bbca662c?utm_campaign=1051&utm_source=git)** | Lakewood, WA | Hybrid | Aug 21 |
@@ -102,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7570e758f2e4ac3feb5d1?utm_campaign=1051&utm_source=git)** | Great Falls, MT | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a756f7758f2e4ac3feb5ac?utm_campaign=1051&utm_source=git)** | Sammamish, WA | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a756f1758f2e4ac3feb59f?utm_campaign=1051&utm_source=git)** | San Rafael, CA | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a756d5758f2e4ac3feb577?utm_campaign=1051&utm_source=git)** | Moore, OK | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a756d5758f2e4ac3feb578?utm_campaign=1051&utm_source=git)** | Victoria, TX | Hybrid | Aug 21 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a756d5758f2e4ac3feb577?utm_campaign=1051&utm_source=git)** | Moore, OK | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7569a33dd7158bbca6506?utm_campaign=1051&utm_source=git)** | La Mesa, CA | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a75693758f2e4ac3feb53b?utm_campaign=1051&utm_source=git)** | Huntersville, NC | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7565233dd7158bbca645d?utm_campaign=1051&utm_source=git)** | Chapel Hill, NC | Hybrid | Aug 21 |
