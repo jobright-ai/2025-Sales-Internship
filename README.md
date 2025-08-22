@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hunt Refining Company](http://www.huntrefining.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68a874736acf96396f72012f?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Aug 22 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandising Internship / Summer 2026](https://jobright.ai/jobs/info/68a872b86acf96396f71ffbd?utm_campaign=1051&utm_source=git)** | Framingham, MA 01701 | Hybrid | Aug 22 |
+| **[KeyBank](https://www.key.com)** | **[Personal Banker - Maine (Returning Intern)](https://jobright.ai/jobs/info/68a865e1758f2e4ac3ff22cb?utm_campaign=1051&utm_source=git)** | Bangor, ME | On Site | Aug 22 |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Commercial Internship - Summer 2026](https://jobright.ai/jobs/info/68a86573758f2e4ac3ff2250?utm_campaign=1051&utm_source=git)** | Schenectady, NY | On Site | Aug 22 |
+| ↳ | **[GE Vernova Commercial Internship - Summer 2026](https://jobright.ai/jobs/info/68a864a96acf96396f71fab4?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 22 |
 | **[LVMH](https://www.lvmh.com/)** | **[Retail Intern](https://jobright.ai/jobs/info/68a7f7d133dd7158bbcaabf3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 21 |
 | **[HELO Solutions](https://www.linkedin.com/company/108110438)** | **[Sales Development Representative Intern - AI Technologies](https://jobright.ai/jobs/info/68a7ea1e758f2e4ac3fef2cc?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Highland Film Group](https://highlandfilmgroup.com)** | **[Domestic and International Film Sales Internship](https://jobright.ai/jobs/info/68a7ea1333dd7158bbcaa410?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
@@ -68,7 +73,8 @@ For a complete list, click the following sortable link below:
 | **[ChiChi](https://chickpeaoats.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68a7bb3c33dd7158bbca8ff2?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Success Internal Communications](https://jobright.ai/jobs/info/68a7b3d2758f2e4ac3fedd90?utm_campaign=1051&utm_source=git)** | Bellevue, WA | Hybrid | Aug 21 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Purchases Internship](https://jobright.ai/jobs/info/68a7ab34d627244576e2de84?utm_campaign=1051&utm_source=git)** | West Chester, OH | On Site | Aug 21 |
-| ↳ | **[Purchases Internship](https://jobright.ai/jobs/info/68a7a6bb33dd7158bbca893c?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Sales Intern, Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/68a7a979758f2e4ac3fed95d?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 21 |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Purchases Internship](https://jobright.ai/jobs/info/68a7a6bb33dd7158bbca893c?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 | **[Clerkie](https://clerkie.io)** | **[GTM Internship (Part-time)](https://jobright.ai/jobs/info/68a7a26d33dd7158bbca8714?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Turning Point Action](https://www.tpaction.com)** | **[HubSpot CRM Intern](https://jobright.ai/jobs/info/68a809b633dd7158bbcab495?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Aug 21 |
 | **[Talks Brand Group](https://www.talksbrandgroup.com/)** | **[Sales Intern - Talent & Brand Partnerships (PAID)](https://jobright.ai/jobs/info/68a78a20758f2e4ac3fed00c?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Aug 21 |
@@ -81,14 +87,13 @@ For a complete list, click the following sortable link below:
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern](https://jobright.ai/jobs/info/68a77581758f2e4ac3fec5bf?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68a7749133dd7158bbca75a3?utm_campaign=1051&utm_source=git)** | Heathrow, FL - USA (Office) | On Site | Aug 21 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandising Co-op Program (Jan-June 2026)](https://jobright.ai/jobs/info/68a773a733dd7158bbca7486?utm_campaign=1051&utm_source=git)** | Framingham, MA 01701 | Hybrid | Aug 21 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Sales Intern, Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/68a76d88d627244576e2c381?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 21 |
 | **[TW Metals LLC](http://www.twmetals.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68a76c4633dd7158bbca6e2f?utm_campaign=1051&utm_source=git)** | Carol Stream, IL | On Site | Aug 21 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/68a76a09758f2e4ac3febbca?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Aug 21 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a7689fd627244576e2bff0?utm_campaign=1051&utm_source=git)** | Coon Rapids, MN | Hybrid | Aug 21 |
 | **[Garavello Capital](www.garavellocapital.com)** | **[Business Development Coordinator](https://jobright.ai/jobs/info/68a7ffc6d627244576e300a5?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 21 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68a8042f33dd7158bbcab1d7?utm_campaign=1051&utm_source=git)** | Metairie, LA | On Site | Aug 21 |
-| ↳ | **[College Financial Representative Internship - NYC](https://jobright.ai/jobs/info/68a76806d627244576e2bf58?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship - NYC](https://jobright.ai/jobs/info/68a76806d627244576e2bf58?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a767d7d627244576e2bf21?utm_campaign=1051&utm_source=git)** | Bossier City, LA | Hybrid | Aug 21 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68a766a333dd7158bbca6b73?utm_campaign=1051&utm_source=git)** | Metairie, LA | On Site | Aug 21 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Asset Management and Client](https://jobright.ai/jobs/info/68a7666f33dd7158bbca6b46?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Aug 21 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Wholesale, Industrial, Foodservice & International Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68a7618d33dd7158bbca6a16?utm_campaign=1051&utm_source=git)** | Salisbury, MD | On Site | Aug 21 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Field Tools and Analytics Internship](https://jobright.ai/jobs/info/68a76090758f2e4ac3feb975?utm_campaign=1051&utm_source=git)** | Mettawa, IL | On Site | Aug 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a74ab4758f2e4ac3feabbb?utm_campaign=1051&utm_source=git)** | Rowlett, TX | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a74a61758f2e4ac3feab7b?utm_campaign=1051&utm_source=git)** | Millcreek, UT | Hybrid | Aug 21 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a74a30758f2e4ac3feab46?utm_campaign=1051&utm_source=git)** | Spring, TX | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a74a1e758f2e4ac3feab36?utm_campaign=1051&utm_source=git)** | Richland, WA | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a74a16758f2e4ac3feab2f?utm_campaign=1051&utm_source=git)** | Bellevue, NE | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a749e8758f2e4ac3feab15?utm_campaign=1051&utm_source=git)** | Brentwood, CA | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a748ced627244576e2b06a?utm_campaign=1051&utm_source=git)** | Sherman, TX | Hybrid | Aug 21 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a74873d627244576e2b014?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
