@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68a8ff186acf96396f7240c3?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Aug 22 |
+| **[Direct Supply](http://www.directsupply.com)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/68a8fa266acf96396f723ea9?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Aug 22 |
+| **[Italian Community Services](http://italiancs.org)** | **[Community Relationship Intern](https://jobright.ai/jobs/info/68a8efee758f2e4ac3ff63ce?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Technical Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68a8de1a6acf96396f723738?utm_campaign=1051&utm_source=git)** | Euclid, OH | On Site | Aug 22 |
 | **[Legacy Risk Solutions](https://legacyrisksolutions.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/68a8dcf6758f2e4ac3ff5eae?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 22 |
 | **[Nosh.com (by BevNET)](https://www.nosh.com/)** | **[Sales Account Management Intern - Once Upon a Farm](https://jobright.ai/jobs/info/68a8da40d627244576e360cd?utm_campaign=1051&utm_source=git)** | Florida, United States | On Site | Aug 22 |
@@ -85,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a456d627244576e343b3?utm_campaign=1051&utm_source=git)** | Rockwall, TX | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a444d627244576e343a1?utm_campaign=1051&utm_source=git)** | University, FL | Hybrid | Aug 22 |
 | **[Alphalete Marketing](https://alphaletemarketing.com)** | **[Sales and Marketing Trainee](https://jobright.ai/jobs/info/68a4a25b2d2a252445cd8015?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Aug 22 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a432d627244576e34382?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | Hybrid | Aug 22 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a432d627244576e34381?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Aug 22 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a432d627244576e34381?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Aug 22 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a432d627244576e34382?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a3f8758f2e4ac3ff407f?utm_campaign=1051&utm_source=git)** | Attleboro, MA | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a3f8758f2e4ac3ff407e?utm_campaign=1051&utm_source=git)** | Palm Springs, CA | Hybrid | Aug 22 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Banking Intern - Summer 2026](https://jobright.ai/jobs/info/68a8a3f6758f2e4ac3ff4079?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Aug 22 |
@@ -94,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a3e9758f2e4ac3ff4069?utm_campaign=1051&utm_source=git)** | Bothell, WA | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a3c9758f2e4ac3ff403e?utm_campaign=1051&utm_source=git)** | Riverton, UT | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a3b6d627244576e342ed?utm_campaign=1051&utm_source=git)** | Oro Valley, AZ | Hybrid | Aug 22 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a3ab758f2e4ac3ff401e?utm_campaign=1051&utm_source=git)** | San Luis Obispo, CA | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a3ab758f2e4ac3ff401c?utm_campaign=1051&utm_source=git)** | Wauwatosa, WI | Hybrid | Aug 22 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a3ab758f2e4ac3ff401e?utm_campaign=1051&utm_source=git)** | San Luis Obispo, CA | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a39bd627244576e342d3?utm_campaign=1051&utm_source=git)** | Morgan Hill, CA | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a38f758f2e4ac3ff3ffc?utm_campaign=1051&utm_source=git)** | Salina, KS | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a383758f2e4ac3ff3fed?utm_campaign=1051&utm_source=git)** | Bedford, TX | Hybrid | Aug 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a89bf1d627244576e33e54?utm_campaign=1051&utm_source=git)** | Pearl City, HI | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a89b5a758f2e4ac3ff39d0?utm_campaign=1051&utm_source=git)** | Strongsville, OH | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a89b406acf96396f72137a?utm_campaign=1051&utm_source=git)** | Downers Grove, IL | Hybrid | Aug 22 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a89b306acf96396f72134c?utm_campaign=1051&utm_source=git)** | Eagle Mountain, UT | Hybrid | Aug 22 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a89b276acf96396f72133a?utm_campaign=1051&utm_source=git)** | Glenview, IL | Hybrid | Aug 22 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a89afc6acf96396f7212e8?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
