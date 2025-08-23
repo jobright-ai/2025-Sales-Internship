@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[One Federal Solution](http://www.onefederalsolution.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68a96e94758f2e4ac3ff9c34?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Aug 23 |
+| **[ABB](https://global.abb/group/en)** | **[Trade & Transport Intern](https://jobright.ai/jobs/info/68a96e35d627244576e39cf4?utm_campaign=1051&utm_source=git)** | Location, WV | On Site | Aug 23 |
+| ↳ | **[Internship Tendering Specialist](https://jobright.ai/jobs/info/68a96a4c6acf96396f726ee0?utm_campaign=1051&utm_source=git)** | Location, WV | Hybrid | Aug 23 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Fall 2025](https://jobright.ai/jobs/info/68a92f98758f2e4ac3ff7ebe?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Aug 22 |
 | **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/68a92d55758f2e4ac3ff7c94?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Aug 22 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern](https://jobright.ai/jobs/info/68a928266acf96396f725231?utm_campaign=1051&utm_source=git)** | Hutchins, TX | On Site | Aug 22 |
@@ -74,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) -South and East of Seattle, WA (Starting Summer 2026)](https://jobright.ai/jobs/info/68a90f3b6acf96396f7246d4?utm_campaign=1051&utm_source=git)** | 3320 S 23rd St, Tacoma,WA 98405-1603 | Hybrid | Aug 22 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) -Western Portland Area, OR (Starting Summer 2026)](https://jobright.ai/jobs/info/68a90f2a6acf96396f7246ab?utm_campaign=1051&utm_source=git)** | 1555 N Tomahawk Island Dr, Portland,OR 97217-8296 | Hybrid | Aug 22 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) -Western Portland Area, OR (Starting Summer 2026)](https://jobright.ai/jobs/info/68a90f236acf96396f7246a2?utm_campaign=1051&utm_source=git)** | 9009 SW Hall Blvd, Tigard,OR 97223-4432 | Hybrid | Aug 22 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) -Greater Portland South, OR (Starting Summer 2026)](https://jobright.ai/jobs/info/68a90f03d627244576e3734d?utm_campaign=1051&utm_source=git)** | 2255 14th Ave SE, Albany,OR 97322-8513 | Hybrid | Aug 22 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) -Western Portland Area, OR (Starting Summer 2026)](https://jobright.ai/jobs/info/68a90f03d627244576e3734e?utm_campaign=1051&utm_source=git)** | 21365 SW Baler Way, Sherwood,OR 97140-8989 | Hybrid | Aug 22 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) -Greater Portland South, OR (Starting Summer 2026)](https://jobright.ai/jobs/info/68a90f03d627244576e3734d?utm_campaign=1051&utm_source=git)** | 2255 14th Ave SE, Albany,OR 97322-8513 | Hybrid | Aug 22 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) -Anchorage, AK (Starting Summer 2026)](https://jobright.ai/jobs/info/68a90efd6acf96396f724657?utm_campaign=1051&utm_source=git)** | 1200 N Muldoon Rd,Ste F Anchorage,AK 99504-6103 | Hybrid | Aug 22 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) -Western Portland Area, OR (Starting Summer 2026)](https://jobright.ai/jobs/info/68a90e9cd627244576e372b4?utm_campaign=1051&utm_source=git)** | 9401 NE Cascades Pkwy, Portland,OR 97220-6824 | Hybrid | Aug 22 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) -Greater Portland South, OR (Starting Summer 2026)](https://jobright.ai/jobs/info/68a90e986acf96396f7245b8?utm_campaign=1051&utm_source=git)** | 21500 NE Halsey St, Fairview,OR 97024-8616 | Hybrid | Aug 22 |
@@ -127,10 +130,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a47fd627244576e343e0?utm_campaign=1051&utm_source=git)** | Shakopee, MN | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a463d627244576e343c6?utm_campaign=1051&utm_source=git)** | Lawrence, IN | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a456d627244576e343b3?utm_campaign=1051&utm_source=git)** | Rockwall, TX | Hybrid | Aug 22 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a444d627244576e343a1?utm_campaign=1051&utm_source=git)** | University, FL | Hybrid | Aug 22 |
+| **[AMPR Consulting](https://www.amprconsulting.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a961816acf96396f726a21?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Aug 22 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a444d627244576e343a1?utm_campaign=1051&utm_source=git)** | University, FL | Hybrid | Aug 22 |
 | **[Alphalete Marketing](https://alphaletemarketing.com)** | **[Sales and Marketing Trainee](https://jobright.ai/jobs/info/68a4a25b2d2a252445cd8015?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Aug 22 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a432d627244576e34382?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | Hybrid | Aug 22 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a432d627244576e34381?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Aug 22 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a432d627244576e34381?utm_campaign=1051&utm_source=git)** | Cerritos, CA | Hybrid | Aug 22 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a432d627244576e34382?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a3f8758f2e4ac3ff407e?utm_campaign=1051&utm_source=git)** | Palm Springs, CA | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a3f8758f2e4ac3ff407f?utm_campaign=1051&utm_source=git)** | Attleboro, MA | Hybrid | Aug 22 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Business Banking Intern - Summer 2026](https://jobright.ai/jobs/info/68a8a3f6758f2e4ac3ff4079?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Aug 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a337d627244576e3427b?utm_campaign=1051&utm_source=git)** | Minot, ND | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a32b758f2e4ac3ff3f91?utm_campaign=1051&utm_source=git)** | East Providence, RI | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a315d627244576e34259?utm_campaign=1051&utm_source=git)** | Rancho Santa Margarita, CA | Hybrid | Aug 22 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a30d758f2e4ac3ff3f72?utm_campaign=1051&utm_source=git)** | Levittown, NY | Hybrid | Aug 22 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a304d627244576e3424b?utm_campaign=1051&utm_source=git)** | Wheaton, MD | Hybrid | Aug 22 |
-| **[RCP Advisors](http://rcpadvisors.com)** | **[Business Development and Fundraising Intern](https://jobright.ai/jobs/info/68a8a2fbd627244576e34241?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a2ead627244576e34232?utm_campaign=1051&utm_source=git)** | Mentor, OH | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
