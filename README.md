@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Empolyee Financial Wellness](https://jobright.ai/jobs/info/68aa2fac6acf96396f729bba?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Aug 23 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Retail Banking - Intern](https://jobright.ai/jobs/info/68aa2c9e6acf96396f729b98?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Aug 23 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Nowata, OK - Summer 2026)](https://jobright.ai/jobs/info/68aa25f76acf96396f729b2c?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 23 |
 | **[Volkart May](http://volkartmay.com)** | **[Business Development Specialist 2022 Intern - Remote work opportunity](https://jobright.ai/jobs/info/68aa1e5c758f2e4ac3ffc221?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | Hybrid | Aug 23 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Properties (LA)](https://jobright.ai/jobs/info/68aa3a72758f2e4ac3ffc556?utm_campaign=1051&utm_source=git)** | West Hollywood, CA | Hybrid | Aug 23 |
@@ -73,14 +72,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) -Greater Portland South, OR (Starting Summer 2026)](https://jobright.ai/jobs/info/68a9f400d627244576e3c039?utm_campaign=1051&utm_source=git)** | Wilsonville, OR | Hybrid | Aug 23 |
 | **[Alpha Omega Consultancy Services](https://www.linkedin.com/company/101694334)** | **[Sales Intern](https://jobright.ai/jobs/info/68a9efc5d627244576e3bf44?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68a9e66cd627244576e3beb7?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Aug 23 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Financial Wellness Relationship Intern](https://jobright.ai/jobs/info/68a9e37f758f2e4ac3ffbb3f?utm_campaign=1051&utm_source=git)** | Clayton, MO | Remote | Aug 23 |
-| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Financial Wellness Leadership Development Intern](https://jobright.ai/jobs/info/68a9df6ad627244576e3bd9d?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Aug 23 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68a9d182d627244576e3bbe7?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 23 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Commercial Internship - Summer 2026](https://jobright.ai/jobs/info/68a9c39d6acf96396f728dfb?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Aug 23 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681ad5ad26eecdcda6e1b098?utm_campaign=1051&utm_source=git)** | Brandon, FL | On Site | Aug 23 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681c7deb8cd688fba9d9c287?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Aug 23 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Inside Sales - Business Development Intern](https://jobright.ai/jobs/info/68a9b9ef6acf96396f728b9a?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Aug 23 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Commercial Internship - Summer 2026](https://jobright.ai/jobs/info/68a9b33d758f2e4ac3ffb23f?utm_campaign=1051&utm_source=git)** | Charleroi, PA | On Site | Aug 23 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Financial Wellness Leadership Development Intern](https://jobright.ai/jobs/info/68a9a54b758f2e4ac3ffafc1?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Aug 23 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Analyst Rotational Program, Commercial Strategy (Summer 2026)](https://jobright.ai/jobs/info/689586e673b3a600fe88856f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 23 |
 | **[Solar Energy Industries Association](http://www.seia.org)** | **[Business Development Fall Intern 2025](https://jobright.ai/jobs/info/68a989356acf96396f7284d3?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Aug 23 |
 | **[Carroll College](http://www.carroll.edu/)** | **[Student Employment - Athletics Event Ticket Seller](https://jobright.ai/jobs/info/68a9abced627244576e3b322?utm_campaign=1051&utm_source=git)** | Helena, MT | On Site | Aug 23 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a4bbd627244576e34413?utm_campaign=1051&utm_source=git)** | Aliso Viejo, CA | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a49dd627244576e343f2?utm_campaign=1051&utm_source=git)** | Farmington, NM | Hybrid | Aug 22 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a47fd627244576e343e0?utm_campaign=1051&utm_source=git)** | Shakopee, MN | Hybrid | Aug 22 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a463d627244576e343c6?utm_campaign=1051&utm_source=git)** | Lawrence, IN | Hybrid | Aug 22 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68a8a456d627244576e343b3?utm_campaign=1051&utm_source=git)** | Rockwall, TX | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
