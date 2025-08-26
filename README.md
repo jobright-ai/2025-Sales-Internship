@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Current Events Dayton](www.wearecurrentevents.com)** | **[Sales Intern (PAID) - no experience needed](https://jobright.ai/jobs/info/68ad44acdaf1431824c9be84?utm_campaign=1051&utm_source=git)** | Huber Heights, OH | On Site | Aug 25 |
+| **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Venture Capital Business Development Summer Analyst](https://jobright.ai/jobs/info/688ceeec3a30793eb9647513?utm_campaign=1051&utm_source=git)** | Baltimore | On Site | Aug 25 |
 | **[Pharaonic Insurance Brokerage](www.pib-eg.com)** | **[Employee Financial Wellness Solutions Intern](https://jobright.ai/jobs/info/68ad2cf4758f2e4ac300b78d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Aug 25 |
 | **[Vaaday Media](https://www.vaadaymedia.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ad208cdaf1431824c9a982?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Intern - Golf Retail, Blackwolf Run](https://jobright.ai/jobs/info/68ad16b6758f2e4ac300ae47?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | Aug 25 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[Bilingual Intern - Account Management Data Analysis](https://jobright.ai/jobs/info/68ace183d627244576e49a7e?utm_campaign=1051&utm_source=git)** | Fontana, CA | On Site | Aug 25 |
 | **[Xinnor](https://xinnor.io/)** | **[SDR Intern](https://jobright.ai/jobs/info/68acdf30daf1431824c98d56?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Purdue for Life Foundation](https://www.purdueforlife.org)** | **[Business Development Intern (Fall Semester 2025)](https://jobright.ai/jobs/info/68acf530d627244576e4a248?utm_campaign=1051&utm_source=git)** | West Lafayette, IN | Hybrid | Aug 25 |
+| **[LSEV USA CORP](https://www.moooov.us/)** | **[Business Development Specialist/Intern](https://jobright.ai/jobs/info/68ad3b31daf1431824c9b5aa?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Aug 25 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk- Firearms FT 6197](https://jobright.ai/jobs/info/68acd0af758f2e4ac3009085?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Aug 25 |
 | ↳ | **[Pricing Specialist FT – 6361](https://jobright.ai/jobs/info/68accf45daf1431824c98713?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Aug 25 |
 | **[Summit (formerly Deft)](http://www.servercentral.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/68accf14758f2e4ac3008ef6?utm_campaign=1051&utm_source=git)** | Alden, IA | On Site | Aug 25 |
@@ -98,20 +101,20 @@ For a complete list, click the following sortable link below:
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acbd01daf1431824c97cf0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Partnership Allocation and Reporting Solutions (PARS) Technology Intern - Summer 2026](https://jobright.ai/jobs/info/68acbcfddaf1431824c97ce6?utm_campaign=1051&utm_source=git)** | IL-Rosemont | On Site | Aug 25 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Sales Business Development](https://jobright.ai/jobs/info/68acb8e9d627244576e487b1?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Aug 25 |
-| **[EchoWorks](https://www.linkedin.com/company/108070660)** | **[Lead Generation Intern](https://jobright.ai/jobs/info/68acb860d627244576e48712?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Aptean](http://www.aptean.com)** | **[Sales Development Intern - Fall 2025](https://jobright.ai/jobs/info/68acafd0758f2e4ac3007af8?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Aug 25 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Insurance Business Development](https://jobright.ai/jobs/info/68acaf79758f2e4ac3007aa3?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acacd9758f2e4ac300787a?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Intern - Summer 2026](https://jobright.ai/jobs/info/68acacb9d627244576e47d8a?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Aug 25 |
+| ↳ | **[Delivering Deal Value (DDV) Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3d40d627244576e4c47e?utm_campaign=1051&utm_source=git)** | Los Angeles County, CA | On Site | Aug 25 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Fall 2025](https://jobright.ai/jobs/info/68aca79d758f2e4ac30076b0?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Intern - Summer 2026](https://jobright.ai/jobs/info/68aca5afd627244576e47a00?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Technical Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca38bdaf1431824c96d85?utm_campaign=1051&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
-| ↳ | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca2cfdaf1431824c96c8c?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 25 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Business Development Intern](https://jobright.ai/jobs/info/68aca1d8758f2e4ac300737d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Customer Relationship Management Intern - Year Round](https://jobright.ai/jobs/info/68aca0cbdaf1431824c96a6a?utm_campaign=1051&utm_source=git)** | Mequon, WI | Hybrid | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9faf758f2e4ac3007099?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 25 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Real Estate Leaders (BREL) Program](https://jobright.ai/jobs/info/68ac9e6fdaf1431824c968e0?utm_campaign=1051&utm_source=git)** | New York | On Site | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Technical Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9ce8daf1431824c967ba?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 25 |
-| ↳ | **[Sales/Services Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9ca6758f2e4ac3006fe1?utm_campaign=1051&utm_source=git)** | Ohio, United States | On Site | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Sales/Services Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9ca6758f2e4ac3006fe1?utm_campaign=1051&utm_source=git)** | Ohio, United States | On Site | Aug 25 |
+| ↳ | **[Technical Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9c94758f2e4ac3006fcd?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 25 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Sales Intern $20+ per hour!](https://jobright.ai/jobs/info/68ac9605758f2e4ac3006c90?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac95c9daf1431824c963b2?utm_campaign=1051&utm_source=git)** | Columbus, OH, United States | On Site | Aug 25 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Sales and Reporting Intern](https://jobright.ai/jobs/info/68ac9532758f2e4ac3006be2?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
@@ -141,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Giorgio Armani](http://www.armani.com)** | **[Intern, Wholesale, Emporio Armani](https://jobright.ai/jobs/info/68ac4f3fdaf1431824c94669?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | ↳ | **[Intern, CRM](https://jobright.ai/jobs/info/68ac465fdaf1431824c9441d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Tendering Specialist](https://jobright.ai/jobs/info/68a96a4c6acf96396f726ee0?utm_campaign=1051&utm_source=git)** | Location, WV | Hybrid | Aug 25 |
-| **[Giorgio Armani](http://www.armani.com)** | **[Intern, Wholesale](https://jobright.ai/jobs/info/68ac4f3cd627244576e4521b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | **[HOLLY HUNT](https://www.hollyhunt.com/)** | **[Intern](https://jobright.ai/jobs/info/683a59be9f02644afac3c1e4?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Aug 25 |
 | **[Libre Tax Service](https://libretaxservice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ac5903758f2e4ac300500e?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 25 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Investments, Sales Internship Program](https://jobright.ai/jobs/info/689041aef47efe211394c0f7?utm_campaign=1051&utm_source=git)** | Newark, NJ | Hybrid | Aug 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Capital Markets, Global Investment Banking Summer Associate - Houston](https://jobright.ai/jobs/info/68ac177bdaf1431824c93c7f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 25 |
 | ↳ | **[2026 Capital Markets, Global Investment Banking Summer Associate - San Francisco](https://jobright.ai/jobs/info/68ac1769d627244576e4488c?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Menu Planning & Partnership Intern, Spring 2026](https://jobright.ai/jobs/info/68ac140c758f2e4ac30043c1?utm_campaign=1051&utm_source=git)** | Glendale, CA, USA | On Site | Aug 25 |
-| **[RBC](https://www.rbc.com)** | **[2026 Capital Markets, Global Investment Banking Summer Associate - San Francisco](https://jobright.ai/jobs/info/68ac13f9758f2e4ac30043bc?utm_campaign=1051&utm_source=git)** | San Francisco, California, United States of America | On Site | Aug 25 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Menu Planning & Partnership Intern, Spring 2026](https://jobright.ai/jobs/info/68ac12b0daf1431824c93b15?utm_campaign=1051&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
