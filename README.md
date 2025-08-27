@@ -57,17 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[tms](https://themarketingstore.com)** | **[2026 SUMMER INTERN](https://jobright.ai/jobs/info/68ae7a38daf1431824ca3653?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Aug 26 |
+| **[Floor Coverings International Spokane  & North Idaho](http://spokane.floorcoveringsinternational.com)** | **[Operations & Business Development Assistant (Intern-to-Hire)](https://jobright.ai/jobs/info/68ae7a05daf1431824ca360a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
+| **[Floor Coverings International](https://floorcoveringsinternational.com)** | **[Operations & Business Development Assistant (Intern-to-Hire)](https://jobright.ai/jobs/info/68ae76d3d627244576e540e0?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
+| **[Tricon Residential](https://triconresidential.com/)** | **[Intern- Real Estate-1](https://jobright.ai/jobs/info/68ae7392d627244576e53ffa?utm_campaign=1051&utm_source=git)** | Tustin, CA | Hybrid | Aug 26 |
+| **[Elephant Energy](https://elephantenergy.com)** | **[Customer Insights Intern](https://jobright.ai/jobs/info/68ae72a1d627244576e53ede?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 26 |
+| ↳ | **[Customer Insights Intern](https://jobright.ai/jobs/info/68ae6cded627244576e53c61?utm_campaign=1051&utm_source=git)** | Anywhere in the United States | On Site | Aug 26 |
+| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae6914d627244576e53b61?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Aug 26 |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Wholesale Intern (Fall 2025)](https://jobright.ai/jobs/info/68ae6875daf1431824ca2d33?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[Garinite Industries](https://garinite.my.canva.site/)** | **[Development Associate Intern [Unpaid, Educational Internship](https://jobright.ai/jobs/info/68ae5ec1d627244576e53781?utm_campaign=1051&utm_source=git)** | Mesa, AZ | Hybrid | Aug 26 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Capacity Portfolio Rep- Yohan Dinev, Intern Conversion](https://jobright.ai/jobs/info/68ae572cdaf1431824ca26d7?utm_campaign=1051&utm_source=git)** | Chicago, IL United States of America | Hybrid | Aug 26 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/68ae54bdd627244576e53293?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Aug 26 |
 | **[Meritrust Credit Union](https://www.meritrustcu.org/home/home)** | **[Business Development and Community Engagement Intern](https://jobright.ai/jobs/info/68ae5350daf1431824ca2480?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Aug 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/68ae4bd3daf1431824ca2151?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 26 |
-| ↳ | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/68ae4864daf1431824ca2093?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 26 |
+| **[FamFluence Talent Management](https://ttpmtalent.com)** | **[Influencer Sales Internship](https://jobright.ai/jobs/info/68ae7bdbd627244576e54448?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Aug 26 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/68ae4864daf1431824ca2093?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 26 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68ae482ddaf1431824ca2069?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Aug 26 |
 | **[Tricon Residential](https://triconresidential.com/)** | **[Intern- Real Estate-1](https://jobright.ai/jobs/info/68ae44c7daf1431824ca1eea?utm_campaign=1051&utm_source=git)** | Tustin, CA | On Site | Aug 26 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Global Partnerships - Activations](https://jobright.ai/jobs/info/68ae4425d627244576e52c56?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Aug 26 |
 | **[Maldona Equity](maldonacorp.com)** | **[Mergers and Acquisitions Intern](https://jobright.ai/jobs/info/68ae5fb2758f2e4ac3013247?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Hybrid | Aug 26 |
 | **[Repair Max Marketing](www.repairmaxmarketing.com)** | **[Sales Development Intern (SDR) — Appointment Setting](https://jobright.ai/jobs/info/68ae3e35daf1431824ca1c60?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 26 |
+| **[Preserve Shady Rest Country Club](preserveshadyrest.org)** | **[Donor Giving & Development Internship (Fall 2025)](https://jobright.ai/jobs/info/68ae7d28d627244576e545d5?utm_campaign=1051&utm_source=git)** | Scotch Plains, NJ | Remote | Aug 26 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Aug 26 |
 | **[WIT Sports](https://witcontests.com)** | **[Intern, Brand Partnership Sales](https://jobright.ai/jobs/info/68ae2a36d627244576e522da?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Smith & Loveless Inc.](http://smithandloveless.com)** | **[Assistant Buyer Intern](https://jobright.ai/jobs/info/68ae2271758f2e4ac3011a7d?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Aug 26 |
@@ -79,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Fintech](https://www.fintech.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68ae12e2daf1431824ca0988?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Aug 26 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Sales Internship - Harrisonburg, VA](https://jobright.ai/jobs/info/68ae1148d627244576e5151c?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Aug 26 |
 | **[PriceSenz](https://www.pricesenz.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ae0f7c758f2e4ac3010fc2?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Aug 26 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Comparion Apprenticeship](https://jobright.ai/jobs/info/68ae2605758f2e4ac3011b5a?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Aug 26 |
 | **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/68ae0bd4daf1431824ca045d?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Aug 26 |
 | **[Alphalete Marketing](https://alphaletemarketing.com)** | **[Sales and Marketing Trainee](https://jobright.ai/jobs/info/68ae0b52d627244576e510e2?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Aug 26 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Procurement Undergraduate Internship](https://jobright.ai/jobs/info/68ae05afdaf1431824c9fe97?utm_campaign=1051&utm_source=git)** | US, Indianapolis IN | On Site | Aug 26 |
@@ -100,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - Retail CPG Category Development Analyst Intern - Summer 2026 (Austin, MN or  Grand Rapids, MI)](https://jobright.ai/jobs/info/68ade372daf1431824c9eb7e?utm_campaign=1051&utm_source=git)** | Austin, MN, United States | On Site | Aug 26 |
 | ↳ | **[Hormel Foods - Corporate Development Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68ade2d6daf1431824c9eb07?utm_campaign=1051&utm_source=git)** | Austin, MN, United States | On Site | Aug 26 |
 | ↳ | **[Hormel Foods - Retail Sales Intern - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ade2c9d627244576e4f99f?utm_campaign=1051&utm_source=git)** | Austin, MN, United States | On Site | Aug 26 |
-| **[Work Thread](https://www.linkedin.com/company/18242712)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68ade121daf1431824c9e9bc?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Aug 26 |
 | **[Lakewinds Global](https://www.lakewindsglobal.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68addaaedaf1431824c9e714?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[Outbound Sales Development Representative](https://jobright.ai/jobs/info/68add70dd627244576e4f49a?utm_campaign=1051&utm_source=git)** | Sarasota, FL | Remote | Aug 26 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Pricing Strategy Intern, Spring 2026](https://jobright.ai/jobs/info/68add004758f2e4ac300ec37?utm_campaign=1051&utm_source=git)** | Celebration, FL | On Site | Aug 26 |
@@ -115,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[Smart Buildings Automation Solutions & Service Sales Internship](https://jobright.ai/jobs/info/68adbdff758f2e4ac300e657?utm_campaign=1051&utm_source=git)** | Beltsville, MD | On Site | Aug 26 |
 | ↳ | **[Smart Buildings Automation Solutions & Service Sales Internship](https://jobright.ai/jobs/info/68adbddedaf1431824c9dcfc?utm_campaign=1051&utm_source=git)** | Saint Rose, LA | On Site | Aug 26 |
 | ↳ | **[Smart Buildings Automation Solutions & Service Sales Internship](https://jobright.ai/jobs/info/68adbd7cd627244576e4e9ae?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
-| ↳ | **[Smart Buildings Automation Service Sales Internship](https://jobright.ai/jobs/info/68adbd3b758f2e4ac300e5c3?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 26 |
 | ↳ | **[Smart Buildings Automation Solutions Sales Internship](https://jobright.ai/jobs/info/68adbd0ad627244576e4e950?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 26 |
 | ↳ | **[Smart Buildings Automation Solutions & Service Sales Internship](https://jobright.ai/jobs/info/68adbc74758f2e4ac300e4f0?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Aug 26 |
 | ↳ | **[Smart Buildings Automation Service Sales Internship](https://jobright.ai/jobs/info/68adbc5cd627244576e4e889?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Aug 26 |
@@ -133,6 +140,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6891eeb04c7e851b90ad28c7?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Aug 26 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/6891a9b04c7e851b90ad1554?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Aug 26 |
 | ↳ | **[Sales & Management Intern (Ross Park Mall)](https://jobright.ai/jobs/info/6891a0eaf5ee707a15dc0deb?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6891f701f47efe2113959522?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Aug 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6891a72cf5ee707a15dc13a9?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Aug 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6891f052f5ee707a15dc28dc?utm_campaign=1051&utm_source=git)** | Bridgeport, WV | On Site | Aug 26 |
 | **[CALSTART](http://www.calstart.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/68914558f47efe211395408f?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Discovery Park District at Purdue](discoveryparkdistrict.com)** | **[Business Development Intern (Fall Semester 2025)](https://jobright.ai/jobs/info/68ad9e86d627244576e4e254?utm_campaign=1051&utm_source=git)** | Glendale, AZ | Hybrid | Aug 26 |
 | **[Standard Chartered](https://www.sc.com)** | **[Client Coverage Internship Programme 2026](https://jobright.ai/jobs/info/68ad711a758f2e4ac300d7d2?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 26 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[AI-Powered Sales Development Intern](https://jobright.ai/jobs/info/68ad56bfdaf1431824c9c30f?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 25 |
-| **[Cohen & Co](http://www.cohencpa.com)** | **[Transaction Services Intern, Summer 2026](https://jobright.ai/jobs/info/68ad55ab758f2e4ac300cba1?utm_campaign=1051&utm_source=git)** | Greater Cleveland | Hybrid | Aug 25 |
-| **[NielsenIQ](https://nielseniq.com)** | **[NIQ Early Career Program: Consumer Intelligence Intern - Commercial Strategy & Insights](https://jobright.ai/jobs/info/68ad4eabdaf1431824c9c0bd?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Aug 25 |
-| ↳ | **[NIQ Strategic Analytics & Insights Research Analyst, Customer Success FT](https://jobright.ai/jobs/info/68ad4e5f758f2e4ac300c962?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Aug 25 |
-| **[Current Events Dayton](www.wearecurrentevents.com)** | **[Sales Intern (PAID) - no experience needed](https://jobright.ai/jobs/info/68ad44acdaf1431824c9be84?utm_campaign=1051&utm_source=git)** | Huber Heights, OH | On Site | Aug 25 |
-| **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Venture Capital Business Development Summer Analyst](https://jobright.ai/jobs/info/688ceeec3a30793eb9647513?utm_campaign=1051&utm_source=git)** | Baltimore | On Site | Aug 25 |
-| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Intern - Golf Retail, Blackwolf Run](https://jobright.ai/jobs/info/68ad16b6758f2e4ac300ae47?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | Aug 25 |
-| ↳ | **[Intern - Golf Retail, Whistling Straits](https://jobright.ai/jobs/info/68ad16a3daf1431824c9a62b?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | Aug 25 |
-| **[DivineTime Agency](https://www.divinetimeagency.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68ad163dd627244576e4b176?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
