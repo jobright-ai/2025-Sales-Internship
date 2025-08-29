@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Aug 29 |
+| **[Molex](http://www.molex.com)** | **[Molex Business Development Internship Program- Summer 2026](https://jobright.ai/jobs/info/68b16a2104557a6c207bd693?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Aug 29 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Global Competitive Intelligence (Fall 2025- FT)](https://jobright.ai/jobs/info/68b169fb04557a6c207bd681?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Aug 29 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68b166c0e815524ae11fea17?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
+| **[Molex](http://www.molex.com)** | **[Molex Business Development Internship Program- Summer 2026](https://jobright.ai/jobs/info/68b1614704557a6c207bd419?utm_campaign=1051&utm_source=git)** | Hudson, WI | On Site | Aug 29 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Business Adoption Industry Process Associate (Fall 2025)](https://jobright.ai/jobs/info/68b1602de815524ae11fe7ec?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Aug 29 |
 | **[Phillips Medisize](http://phillipsmedisize.com)** | **[Phillips-Medisize Digital Business Partner Intern- Summer 2026](https://jobright.ai/jobs/info/68b15b8e04557a6c207bd155?utm_campaign=1051&utm_source=git)** | North Little Rock, AR | On Site | Aug 29 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68b15a7de815524ae11fe3da?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | Hybrid | Aug 29 |
 | ↳ | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68b1597a04557a6c207bccde?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Aug 29 |
+| **[Phillips Medisize](http://phillipsmedisize.com)** | **[Phillips-Medisize Digital Business Partner Intern- Summer 2026](https://jobright.ai/jobs/info/68b17284f4e41a61efd7dca2?utm_campaign=1051&utm_source=git)** | Hudson, WI | On Site | Aug 29 |
+| **[Molex](http://www.molex.com)** | **[Molex Associate Sales Engineer Intern 2026](https://jobright.ai/jobs/info/68b17841bc187f64e1bd4e32?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Aug 29 |
 | **[Baker Group](http://thebakergroup.com)** | **[Intern - Account Executive](https://jobright.ai/jobs/info/68b14db7e815524ae11fd7c8?utm_campaign=1051&utm_source=git)** | Des Moines Metro | On Site | Aug 28 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Jacksonville, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b1458ee815524ae11fd1a0?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Raleigh, NC (Starting Summer 2026)](https://jobright.ai/jobs/info/68b1450ee815524ae11fd0f9?utm_campaign=1051&utm_source=git)** | Cary, NC | Hybrid | Aug 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Miami + Ft. Lauderdale, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b0bf352d46f6396cae8141?utm_campaign=1051&utm_source=git)** | 8201 Federated West Roadway, Plantation,FL 33324-2719 | Hybrid | Aug 28 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68b0baa113563e782a9f8df4?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Aug 28 |
 | **[Anytime Fitness](http://anytimefitness.com)** | **[Paid Internship- Anytime Fitness (Norwood)](https://jobright.ai/jobs/info/68b0ea2e13563e782a9fa4e7?utm_campaign=1051&utm_source=git)** | Norwood, MA | On Site | Aug 28 |
-| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68b0b96113563e782a9f8d3a?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Remote | Aug 28 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Detroit)](https://jobright.ai/jobs/info/68b0b88013563e782a9f8cdc?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Aug 28 |
-| ↳ | **[2026 Management and Sales Summer Internship (Milwaukee)](https://jobright.ai/jobs/info/68b0b79d13563e782a9f8c5e?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Aug 28 |
-| ↳ | **[2026 Management and Sales Summer Internship (Northern Michigan)](https://jobright.ai/jobs/info/68b0b5f713563e782a9f8ba5?utm_campaign=1051&utm_source=git)** | Flushing, MI | On Site | Aug 28 |
-| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68b0b5b7b47fb001d6894e19?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Remote | Aug 28 |
-| **[Burst Agency](https://burst.agency)** | **[Content Creation and E-Commerce Paid Internship](https://jobright.ai/jobs/info/68b0b551b47fb001d6894ddb?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Aug 28 |
-| **[Capital City Bank Group, Inc.](https://www.ccbg.com/)** | **[Capital City Home Loans Intern Kennesaw](https://jobright.ai/jobs/info/68b12a47e815524ae11fbb79?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Aug 28 |
-| **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Insurance Business Development](https://jobright.ai/jobs/info/68b144346fab621da7b0bc95?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
