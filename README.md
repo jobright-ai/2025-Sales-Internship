@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Hilton Midtown](http://www.newyorkhiltonmidtown.com)** | **[Front Office Rooms Operations Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68b181ba1ade4306aa630473?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Susquehanna International Group](http://sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/685c9d7ca48907e41a188e04?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Aug 29 |
 | **[Molex](http://www.molex.com)** | **[Molex Business Development Internship Program- Summer 2026](https://jobright.ai/jobs/info/68b16a2104557a6c207bd693?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Aug 29 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Global Competitive Intelligence (Fall 2025- FT)](https://jobright.ai/jobs/info/68b169fb04557a6c207bd681?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Aug 29 |
@@ -71,7 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Baker Group](http://thebakergroup.com)** | **[Intern - Account Executive](https://jobright.ai/jobs/info/68b14db7e815524ae11fd7c8?utm_campaign=1051&utm_source=git)** | Des Moines Metro | On Site | Aug 28 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Jacksonville, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b1458ee815524ae11fd1a0?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Raleigh, NC (Starting Summer 2026)](https://jobright.ai/jobs/info/68b1450ee815524ae11fd0f9?utm_campaign=1051&utm_source=git)** | Cary, NC | Hybrid | Aug 28 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Miami + Ft. Lauderdale, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b13f9504557a6c207bba80?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Aug 28 |
+| **[Daktronics](http://www.daktronics.com/en-us)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/68b188361ade4306aa6305ef?utm_campaign=1051&utm_source=git)** | Brookings, SD | On Site | Aug 28 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Miami + Ft. Lauderdale, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b13f9504557a6c207bba80?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Aug 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Orlando, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b13e5e6fab621da7b0b9f2?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Aug 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Charleston, SC + Savannah, GA (Starting Summer 2026)](https://jobright.ai/jobs/info/68b13d996fab621da7b0b913?utm_campaign=1051&utm_source=git)** | Savannah, GA | Hybrid | Aug 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Columbia + Greenville, SC (Starting Summer 2026)](https://jobright.ai/jobs/info/68b13d506fab621da7b0b89e?utm_campaign=1051&utm_source=git)** | Columbia, SC | Hybrid | Aug 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Miami + Ft. Lauderdale, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b0bfb7b47fb001d689528b?utm_campaign=1051&utm_source=git)** | 9600 Westview Dr, Coral Springs, FL 33076-2514 | Hybrid | Aug 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Fort Myers + Naples, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b0bfa913563e782a9f902d?utm_campaign=1051&utm_source=git)** | 2430 Santa Barbara Blvd, Cape Coral,FL 33914-4485 | Hybrid | Aug 28 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Miami + Ft. Lauderdale, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b0bf352d46f6396cae8141?utm_campaign=1051&utm_source=git)** | 8201 Federated West Roadway, Plantation,FL 33324-2719 | Hybrid | Aug 28 |
-| **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68b0baa113563e782a9f8df4?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Aug 28 |
-| **[Anytime Fitness](http://anytimefitness.com)** | **[Paid Internship- Anytime Fitness (Norwood)](https://jobright.ai/jobs/info/68b0ea2e13563e782a9fa4e7?utm_campaign=1051&utm_source=git)** | Norwood, MA | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
