@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Specialty Sales & Distribution](https://jobright.ai/jobs/info/68b11b4a6fab621da7b09f7a?utm_campaign=1051&utm_source=git)** | Worcester, MA | On Site | Aug 28 |
+| **[SolarVue AI™](https://solarvue.ai)** | **[Strategic E-commerce Builder Intern: B2B Marketplace](https://jobright.ai/jobs/info/68b119e104557a6c207b9e53?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 28 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Global Client Group](https://jobright.ai/jobs/info/68b0e7e713563e782a9fa2b0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Kharon](https://www.kharon.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/68b0f99ee815524ae11fa3c6?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Vendor Relations Intern - Summer 2026](https://jobright.ai/jobs/info/68b0f95de815524ae11fa392?utm_campaign=1051&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68b0d032b47fb001d6895b30?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Aug 28 |
 | **[Heartland Business Systems, Inc.](http://www.hbsys.com)** | **[Sales Associate - Summer 2026 Internship Program](https://jobright.ai/jobs/info/68b0a7a913563e782a9f81e5?utm_campaign=1051&utm_source=git)** | Springfield, MO Office | On Site | Aug 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68b0a67e13563e782a9f8098?utm_campaign=1051&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
-| **[Rowan Appliance Inc.](https://www.rowanappliance.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b0c32a2d46f6396cae8514?utm_campaign=1051&utm_source=git)** | Torrance, CA | On Site | Aug 28 |
-| **[Wonder](https://www.wonder.com)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/68b0a2902d46f6396cae7122?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | Hybrid | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
