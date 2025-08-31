@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68b47000bc187f64e1be366a?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 31 |
 | **[GALLO](https://www.gallo.com)** | **[Sales Leadership Development Internship 2026](https://jobright.ai/jobs/info/68a41594e9f1c744da120a8a?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Aug 31 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Acquisition Intern](https://jobright.ai/jobs/info/68b44f241ade4306aa63e317?utm_campaign=1051&utm_source=git)** | Columbus, Ohio | On Site | Aug 31 |
+| **[TruGreen](http://trugreen.com)** | **[Residential Lawn Specialist Intern](https://jobright.ai/jobs/info/689766c38c6d6b442678af7e?utm_campaign=1051&utm_source=git)** | Pasco, WA | On Site | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b44197f4e41a61efd8c0f0?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Aug 31 |
 | ↳ | **[Partnerships Intern](https://jobright.ai/jobs/info/68b43cf1bc187f64e1be3136?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Pharmaceutical Sales Intern](https://jobright.ai/jobs/info/68b435001ade4306aa63e0e1?utm_campaign=1051&utm_source=git)** | Mettawa, IL | On Site | Aug 31 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Business Development Support Analyst - PIMCO](https://jobright.ai/jobs/info/68b3377bf4e41a61efd88d02?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
 | **[Carpet One Floor & Home](http://www.mtvernoncarpetone.com)** | **[Sales Internship Opportunity](https://jobright.ai/jobs/info/68b33460f4e41a61efd88cd0?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Aug 30 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Partnerships Intern](https://jobright.ai/jobs/info/68b333c0f4e41a61efd88c99?utm_campaign=1051&utm_source=git)** | New York | On Site | Aug 30 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6841c0fc30c374b6ea6a0359?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Aug 30 |
 | **[GM-Solutions](https://gm-solutions.co/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b3c150bc187f64e1be0eb3?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Aug 30 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/68a80ff3758f2e4ac3ff079e?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Aug 30 |
 | **[Legends](http://legends.net)** | **[Retail Operations Internship: Events Department](https://jobright.ai/jobs/info/67fffd1780255206e4879b7a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Aug 30 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23bd91ade4306aa6351af?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 29 |
 | ↳ | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23b7bf4e41a61efd82ea1?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 29 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6894ea4b4ed2ea559ca51a21?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Aug 29 |
-| **[BBI Logistics](https://www.bbilogistics.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b23702f4e41a61efd82c98?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Aug 29 |
 | **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Orlando, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b236aa1ade4306aa634f52?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Aug 29 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/68b235c91ade4306aa634eb1?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Aug 29 |
-| **[BBI Logistics](https://www.bbilogistics.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b235abf4e41a61efd82b5c?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
