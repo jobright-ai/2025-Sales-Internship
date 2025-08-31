@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SIPS Directory](https://sipsdirectory.com)** | **[Partnerships and Events Intern](https://jobright.ai/jobs/info/68b4c378f4e41a61efd8ca60?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 31 |
+| **[ITS Logistics](http://its4logistics.com)** | **[Student Associate - Logistics Sales](https://jobright.ai/jobs/info/68b4b1dbbc187f64e1be3ada?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Acquisition Intern](https://jobright.ai/jobs/info/68b4813cbc187f64e1be3775?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
+| **[Globe Life American Income Division: Surace Smith Bendure Hartwig Organization](https://ssbendurehartwig.com)** | **[Virtual Sales (Full time or Internship) Position](https://jobright.ai/jobs/info/6876b823ae2f413e4a5b2d1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 31 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68b47000bc187f64e1be366a?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 31 |
 | **[GALLO](https://www.gallo.com)** | **[Sales Leadership Development Internship 2026](https://jobright.ai/jobs/info/68a41594e9f1c744da120a8a?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Aug 31 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Acquisition Intern](https://jobright.ai/jobs/info/68b44f241ade4306aa63e317?utm_campaign=1051&utm_source=git)** | Columbus, Ohio | On Site | Aug 31 |
@@ -77,9 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Commercial Intern, East Region - Summer 2026](https://jobright.ai/jobs/info/68b39c301ade4306aa63b636?utm_campaign=1051&utm_source=git)** | Franklin, TN, US | On Site | Aug 30 |
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Showroom Operations Internship](https://jobright.ai/jobs/info/68b3b91ebc187f64e1be0a8f?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/68b3bc9a1ade4306aa63bc68?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 30 |
+| **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Intern - Distribution Execution Manager](https://jobright.ai/jobs/info/6825422cc080fd5172d176f0?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Aug 30 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab DAFgiving360 Internship - Schwab Charitable](https://jobright.ai/jobs/info/68b330ce1ade4306aa63ae50?utm_campaign=1051&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b34560f4e41a61efd88ebc?utm_campaign=1051&utm_source=git)** | Boston | On Site | Aug 30 |
-| ↳ | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b34486bc187f64e1bdffcd?utm_campaign=1051&utm_source=git)** | Madison Ave Corp | On Site | Aug 30 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - DC/ Northern VA Area](https://jobright.ai/jobs/info/68985ac95574fd6bc0c78cf1?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Aug 30 |
+| **[Santander México](http://www.santander.com.mx/)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b34486bc187f64e1bdffcd?utm_campaign=1051&utm_source=git)** | Madison Ave Corp | On Site | Aug 30 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Account Manager Intern](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d645b?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | Hybrid | Aug 30 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Internal Sales Analyst - PIMCO](https://jobright.ai/jobs/info/68b337f1bc187f64e1bdfe95?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | **[SoftInWay Inc.](http://www.softinway.com/en/)** | **[Business Development Trainee – Academic Sales](https://jobright.ai/jobs/info/68b337bf1ade4306aa63aee9?utm_campaign=1051&utm_source=git)** | Burlington, MA | On Site | Aug 30 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 MBA Summer Intern - Account Manager, US - PIMCO](https://jobright.ai/jobs/info/68b337a7f4e41a61efd88d0b?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
@@ -117,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (LOU)](https://jobright.ai/jobs/info/666a2844e606c79653b24b09?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Aug 30 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/683fc5e39041a52da39b28d4?utm_campaign=1051&utm_source=git)** | Rochester, MN | On Site | Aug 30 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/6895429c73b3a600fe88615f?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Aug 30 |
-| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern](https://jobright.ai/jobs/info/68b2d9bc1ade4306aa63a43a?utm_campaign=1051&utm_source=git)** | Waterloo, IA | On Site | Aug 30 |
 | **[Santander](https://www.santander.com/)** | **[Dealer Commercial Services Intern](https://jobright.ai/jobs/info/68b2b16dbc187f64e1bdecd2?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689838395574fd6bc0c75d02?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Aug 30 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/689856ba83d13d1f5b68e935?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Aug 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Business Technology & CRM Management Intern](https://jobright.ai/jobs/info/68b23fdcf4e41a61efd82fad?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/68b23f671ade4306aa63522f?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Aug 29 |
 | ↳ | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/68b2723c1ade4306aa6369d8?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23bd91ade4306aa6351af?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 29 |
-| ↳ | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23b7bf4e41a61efd82ea1?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 29 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6894ea4b4ed2ea559ca51a21?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Aug 29 |
-| **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Orlando, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b236aa1ade4306aa634f52?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Aug 29 |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/68b235c91ade4306aa634eb1?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
