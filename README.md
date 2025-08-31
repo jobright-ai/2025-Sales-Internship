@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Commercial Intern, East Region - Summer 2026](https://jobright.ai/jobs/info/68b39c301ade4306aa63b636?utm_campaign=1051&utm_source=git)** | Franklin, TN, US | On Site | Aug 30 |
+| ↳ | **[Commercial Intern, Digital & Omni - Summer 2026](https://jobright.ai/jobs/info/68b39b4abc187f64e1be05cb?utm_campaign=1051&utm_source=git)** | Stamford, None, US | On Site | Aug 30 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab DAFgiving360 Internship - Schwab Charitable](https://jobright.ai/jobs/info/68b330ce1ade4306aa63ae50?utm_campaign=1051&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b34560f4e41a61efd88ebc?utm_campaign=1051&utm_source=git)** | Boston | On Site | Aug 30 |
 | ↳ | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b34486bc187f64e1bdffcd?utm_campaign=1051&utm_source=git)** | Madison Ave Corp | On Site | Aug 30 |
@@ -103,10 +105,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/68b2723c1ade4306aa6369d8?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23bd91ade4306aa6351af?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 29 |
 | ↳ | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23b7bf4e41a61efd82ea1?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 29 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6894ea4b4ed2ea559ca51a21?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Aug 29 |
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b23702f4e41a61efd82c98?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Aug 29 |
 | **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Orlando, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b236aa1ade4306aa634f52?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Aug 29 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/68b235c91ade4306aa634eb1?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Aug 29 |
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b235abf4e41a61efd82b5c?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
+| ↳ | **[Drayage Operations/Sales Intern](https://jobright.ai/jobs/info/68b2358ff4e41a61efd82b3a?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
 | **[NielsenIQ](https://nielseniq.com)** | **[NIQ Early Career Program: Consumer Intelligence Intern - Commercial Strategy & Insights](https://jobright.ai/jobs/info/68b23579f4e41a61efd82b2b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Sugar Land ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68b2352ef4e41a61efd82af5?utm_campaign=1051&utm_source=git)** | Sugar Land, TX | On Site | Aug 29 |
 | ↳ | **[INTERNAL ONLY - Georgetown ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68b234241ade4306aa634d3d?utm_campaign=1051&utm_source=git)** | Georgetown, TX | On Site | Aug 29 |
@@ -120,6 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 MBA Summer Intern – Account Manager, US](https://jobright.ai/jobs/info/68b22a64bc187f64e1bd9a16?utm_campaign=1051&utm_source=git)** | New York, NY USA | On Site | Aug 29 |
 | ↳ | **[2026 Summer Intern - Global Wealth Management, Strategic Accounts](https://jobright.ai/jobs/info/68b22a261ade4306aa634a5f?utm_campaign=1051&utm_source=git)** | New York, NY USA | On Site | Aug 29 |
 | ↳ | **[2026 MBA Summer Intern – Account Manager, US](https://jobright.ai/jobs/info/68b229c0f4e41a61efd827bf?utm_campaign=1051&utm_source=git)** | Austin, TX USA | On Site | Aug 29 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6897449f8c6d6b442678850f?utm_campaign=1051&utm_source=git)** | Victoria, TX | On Site | Aug 29 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68b205cabc187f64e1bd8c8b?utm_campaign=1051&utm_source=git)** | Bluffton, SC | On Site | Aug 29 |
 | ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68b20780bc187f64e1bd8dcd?utm_campaign=1051&utm_source=git)** | Rowlett, TX | On Site | Aug 29 |
 | **[SIPS Directory](https://sipsdirectory.com)** | **[E-Commerce & Branding Intern (Remote, Commission-Eligible)](https://jobright.ai/jobs/info/68b21f02f4e41a61efd8256b?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 29 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410ab1?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Aug 29 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Tri-State](https://jobright.ai/jobs/info/68b1fb7ff4e41a61efd81570?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Aug 29 |
 | ↳ | **[2026 Management and Sales Intern - Indianapolis](https://jobright.ai/jobs/info/68b1fb42f4e41a61efd81509?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
-| **[BBI Logistics](https://www.bbilogistics.com/)** | **[Drayage Operations/Sales Intern](https://jobright.ai/jobs/info/68b1fb3c1ade4306aa63382c?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
 | **[Athlux Design Studio](http://www.athluxdesign.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68b1fa131ade4306aa63366f?utm_campaign=1051&utm_source=git)** | Bentonville, AR | Hybrid | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[C&I Sales Intern (Dublin, OH & Chicago, IL)](https://jobright.ai/jobs/info/68b1f97f1ade4306aa63354d?utm_campaign=1051&utm_source=git)** | Dublin, OH | On Site | Aug 29 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Louisville](https://jobright.ai/jobs/info/68b1f8a61ade4306aa6333bd?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
 | ↳ | **[2026 Management and Sales Intern - Cincinnati/Dayton, OH](https://jobright.ai/jobs/info/68b1f85e1ade4306aa633330?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Aug 29 |
-| **[ChargeScape](www.chargescape.com)** | **[Customer Relations and Business Development Intern](https://jobright.ai/jobs/info/68b1f566bc187f64e1bd80da?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Aug 29 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Internship - Business Development](https://jobright.ai/jobs/info/68b1f516f4e41a61efd80f79?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
-| **[Siemens](https://www.siemens.com/)** | **[Smart Buildings Fire & Life Safety Sales Internship](https://jobright.ai/jobs/info/68b05f312d46f6396cae4d84?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Aug 29 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - NOVA & Eastern NC](https://jobright.ai/jobs/info/68b1eeb7f4e41a61efd80de0?utm_campaign=1051&utm_source=git)** | Petersburg, VA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
