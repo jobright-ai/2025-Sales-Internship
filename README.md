@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68b47000bc187f64e1be366a?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 31 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Acquisition Intern](https://jobright.ai/jobs/info/68b44f241ade4306aa63e317?utm_campaign=1051&utm_source=git)** | Columbus, Ohio | On Site | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b44197f4e41a61efd8c0f0?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Aug 31 |
 | ↳ | **[Partnerships Intern](https://jobright.ai/jobs/info/68b43cf1bc187f64e1be3136?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 31 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6894ea4b4ed2ea559ca51a21?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Aug 29 |
 | **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Orlando, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b236aa1ade4306aa634f52?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Aug 29 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/68b235c91ade4306aa634eb1?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Aug 29 |
+| **[BBI Logistics](https://www.bbilogistics.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b235abf4e41a61efd82b5c?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
+| ↳ | **[Drayage Operations/Sales Intern](https://jobright.ai/jobs/info/68b2358ff4e41a61efd82b3a?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
 | **[NielsenIQ](https://nielseniq.com)** | **[NIQ Early Career Program: Consumer Intelligence Intern - Commercial Strategy & Insights](https://jobright.ai/jobs/info/68b23579f4e41a61efd82b2b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Sugar Land ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68b2352ef4e41a61efd82af5?utm_campaign=1051&utm_source=git)** | Sugar Land, TX | On Site | Aug 29 |
 | ↳ | **[INTERNAL ONLY - Georgetown ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68b234241ade4306aa634d3d?utm_campaign=1051&utm_source=git)** | Georgetown, TX | On Site | Aug 29 |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN STORE 354](https://jobright.ai/jobs/info/68b2732fbc187f64e1bdb9c3?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Aug 29 |
-| **[Transcard](http://www.transcard.com)** | **[2026 - Business Development Representative Intern](https://jobright.ai/jobs/info/68b27287f4e41a61efd84851?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[Key Account Management Intern, Medical – Spring 2026](https://jobright.ai/jobs/info/68b236f0f4e41a61efd82c84?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
