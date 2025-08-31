@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Acquisition Intern](https://jobright.ai/jobs/info/68b4813cbc187f64e1be3775?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68b47000bc187f64e1be366a?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 31 |
+| **[GALLO](https://www.gallo.com)** | **[Sales Leadership Development Internship 2026](https://jobright.ai/jobs/info/68a41594e9f1c744da120a8a?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Aug 31 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Acquisition Intern](https://jobright.ai/jobs/info/68b44f241ade4306aa63e317?utm_campaign=1051&utm_source=git)** | Columbus, Ohio | On Site | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b44197f4e41a61efd8c0f0?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Aug 31 |
 | ↳ | **[Partnerships Intern](https://jobright.ai/jobs/info/68b43cf1bc187f64e1be3136?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Aug 31 |
@@ -86,6 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Santander México](http://www.santander.com.mx/)** | **[Partnerships Intern](https://jobright.ai/jobs/info/68b333c0f4e41a61efd88c99?utm_campaign=1051&utm_source=git)** | New York | On Site | Aug 30 |
 | **[GM-Solutions](https://gm-solutions.co/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b3c150bc187f64e1be0eb3?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Aug 30 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Job Training Program](https://jobright.ai/jobs/info/68a80ff3758f2e4ac3ff079e?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Aug 30 |
+| **[Legends](http://legends.net)** | **[Retail Operations Internship: Events Department](https://jobright.ai/jobs/info/67fffd1780255206e4879b7a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Aug 30 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689836b683d13d1f5b68bedf?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Aug 30 |
 | **[TutorABC](http://www.tutorabc.com)** | **[Campus & Community Intern (U.S.-Based Stipend + Global Commission) [F]](https://jobright.ai/jobs/info/68b30aa81ade4306aa63aabf?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Cook N Klean](https://www.linkedin.com/company/90855742)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b3c0c6f4e41a61efd89d1c?utm_campaign=1051&utm_source=git)** | Remote, OR | Remote | Aug 30 |
 | **[Siemens](https://www.siemens.com/)** | **[Smart Building X Sales Internship](https://jobright.ai/jobs/info/68b2fd7a1ade4306aa63a93e?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Aug 30 |
@@ -120,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Legends](http://legends.net)** | **[Merchandise Internship -2025 Ryder Cup](https://jobright.ai/jobs/info/6791953f8ec31303ec4987d3?utm_campaign=1051&utm_source=git)** | East Meadow, NY | On Site | Aug 29 |
 | **[Dolls Kill](http://dollskill.com)** | **[Apparel Prep Coordinator Internship](https://jobright.ai/jobs/info/68b2bc6bbc187f64e1bdee37?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Aug 29 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - US Client Management, Account Analyst](https://jobright.ai/jobs/info/68b297661ade4306aa638b17?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Aug 29 |
-| **[Flor Y Mar Agency](https://www.linkedin.com/company/108126425)** | **[Business Development Intern](https://jobright.ai/jobs/info/68b3cfd4bc187f64e1be1923?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Raptor Technologies](https://www.raptortech.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b3d3d01ade4306aa63cb99?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Aug 29 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2025 Internship Program - REIN](https://jobright.ai/jobs/info/68b3d2901ade4306aa63c980?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb66a?utm_campaign=1051&utm_source=git)** | Jacksonville, NC | On Site | Aug 29 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23bd91ade4306aa6351af?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT | Hybrid | Aug 29 |
 | ↳ | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23b7bf4e41a61efd82ea1?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 29 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6894ea4b4ed2ea559ca51a21?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Aug 29 |
+| **[BBI Logistics](https://www.bbilogistics.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b23702f4e41a61efd82c98?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Aug 29 |
 | **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Orlando, FL (Starting Summer 2026)](https://jobright.ai/jobs/info/68b236aa1ade4306aa634f52?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Aug 29 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/68b235c91ade4306aa634eb1?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Aug 29 |
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b235abf4e41a61efd82b5c?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
-| ↳ | **[Drayage Operations/Sales Intern](https://jobright.ai/jobs/info/68b2358ff4e41a61efd82b3a?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
-| **[NielsenIQ](https://nielseniq.com)** | **[NIQ Early Career Program: Consumer Intelligence Intern - Commercial Strategy & Insights](https://jobright.ai/jobs/info/68b23579f4e41a61efd82b2b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Sugar Land ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68b2352ef4e41a61efd82af5?utm_campaign=1051&utm_source=git)** | Sugar Land, TX | On Site | Aug 29 |
-| ↳ | **[INTERNAL ONLY - Georgetown ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68b234241ade4306aa634d3d?utm_campaign=1051&utm_source=git)** | Georgetown, TX | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
