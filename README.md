@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Asset Management](https://jobright.ai/jobs/info/68b4dcd31ade4306aa63ec6d?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Aug 31 |
 | **[SIPS Directory](https://sipsdirectory.com)** | **[Partnerships and Events Intern](https://jobright.ai/jobs/info/68b4c378f4e41a61efd8ca60?utm_campaign=1051&utm_source=git)** | United States | Remote | Aug 31 |
 | **[ITS Logistics](http://its4logistics.com)** | **[Student Associate - Logistics Sales](https://jobright.ai/jobs/info/68b4b1dbbc187f64e1be3ada?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Acquisition Intern](https://jobright.ai/jobs/info/68b4813cbc187f64e1be3775?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
@@ -79,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Santander](https://www.santander.com/)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b42400bc187f64e1be2fab?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Aug 30 |
 | **[Henkel](http://www.henkel.com)** | **[Commercial Intern, East Region - Summer 2026](https://jobright.ai/jobs/info/68b39c301ade4306aa63b636?utm_campaign=1051&utm_source=git)** | Franklin, TN, US | On Site | Aug 30 |
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Showroom Operations Internship](https://jobright.ai/jobs/info/68b3b91ebc187f64e1be0a8f?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Aug 30 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/68b3bc9a1ade4306aa63bc68?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Aug 30 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68984b8f83d13d1f5b68d42b?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Aug 30 |
 | **[Black Rifle Coffee Company](https://www.blackriflecoffee.com)** | **[Skillbridge Intern - Distribution Execution Manager](https://jobright.ai/jobs/info/6825422cc080fd5172d176f0?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Aug 30 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab DAFgiving360 Internship - Schwab Charitable](https://jobright.ai/jobs/info/68b330ce1ade4306aa63ae50?utm_campaign=1051&utm_source=git)** | Westlake, TX | On Site | Aug 30 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b34560f4e41a61efd88ebc?utm_campaign=1051&utm_source=git)** | Boston | On Site | Aug 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Spring 2026 Community Development & Philanthropy Intern](https://jobright.ai/jobs/info/68b2403cf4e41a61efd82fdc?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
 | ↳ | **[Spring 2026 Business Technology & CRM Management Intern](https://jobright.ai/jobs/info/68b23fdcf4e41a61efd82fad?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/68b23f671ade4306aa63522f?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Aug 29 |
-| ↳ | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/68b2723c1ade4306aa6369d8?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
