@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rapidd Fiber Sales](https://www.rapiddfibersales.com)** | **[Sales - Fiber Internet 2 Week Blitz Paid Travel](https://jobright.ai/jobs/info/68b666c3f4e41a61efd92a61?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 01 |
+| **[NexLine Communications](https://www.mynexline.com)** | **[Marking and Business Development](https://jobright.ai/jobs/info/68b6637e1ade4306aa644928?utm_campaign=1051&utm_source=git)** | Kingston, PA | On Site | Sep 01 |
+| **[G2 Capital Advisors](http://www.g2capitaladvisors.com)** | **[2026 Summer Analyst Role](https://jobright.ai/jobs/info/68b6629abc187f64e1be98b8?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 01 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Customer Management (Summer 2026)](https://jobright.ai/jobs/info/68b65bc01ade4306aa644534?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Sep 01 |
+| ↳ | **[Intern - Buyer (Summer 2026)](https://jobright.ai/jobs/info/68b65ac0f4e41a61efd92408?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Sep 01 |
 | **[SalesSprint](https://sales-sprint.io/)** | **[Sales Development Representative - Apprenticeship + Job Program (NYC)](https://jobright.ai/jobs/info/68b64d4df4e41a61efd92273?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Purchasing Intern (Summer 2026)](https://jobright.ai/jobs/info/68b643c9f4e41a61efd921c9?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Sep 01 |
 | **[Raptor Technologies](https://www.raptortech.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b1de0ebc187f64e1bd759b?utm_campaign=1051&utm_source=git)** | Houston, Texas, United States | On Site | Sep 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c0d81ade4306aa643361?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c0cebc187f64e1be8364?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c0ccbc187f64e1be8362?utm_campaign=1051&utm_source=git)** | Springfield, MA | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c0ccbc187f64e1be8361?utm_campaign=1051&utm_source=git)** | Reno, NV | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c0c7bc187f64e1be835b?utm_campaign=1051&utm_source=git)** | Honolulu, HI | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c0bbbc187f64e1be8354?utm_campaign=1051&utm_source=git)** | Richmond, VA | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c0afbc187f64e1be8351?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c0ae1ade4306aa64334a?utm_campaign=1051&utm_source=git)** | Modesto, CA | Hybrid | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
