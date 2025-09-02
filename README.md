@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Customer Success Career Training Program](https://jobright.ai/jobs/info/68971e481b9e81727f193e61?utm_campaign=1051&utm_source=git)** | Trenton, NJ | On Site | Sep 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68b62bdff4e41a61efd91f14?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Sep 01 |
+| ↳ | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68b62bb9f4e41a61efd91efe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
+| ↳ | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68b62b8ff4e41a61efd91ee2?utm_campaign=1051&utm_source=git)** | Plymouth, MI | On Site | Sep 01 |
+| **[Sarasota Paradise](https://www.sarasotaparadise.us)** | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/68b6270a1ade4306aa643e7e?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Sep 01 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Trading Associate - Fresh Graduates](https://jobright.ai/jobs/info/68b60d78f4e41a61efd91c30?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Sep 01 |
 | **[Hankin & Pack PLLC](https://www.hankinpacklaw.com)** | **[Intern (Unpaid), Residential Real Estate - Charlotte, NC](https://jobright.ai/jobs/info/68b5fd00bc187f64e1be8ac5?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 01 |
 | **[ Pilot Company](http://www.pilotflyingj.com)** | **[Business Development, Facility Revenue Intern](https://jobright.ai/jobs/info/68b5eee6f4e41a61efd91913?utm_campaign=1051&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
@@ -98,11 +103,11 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68b5ca10bc187f64e1be8404?utm_campaign=1051&utm_source=git)** | IL - Schaumburg, 1475 E Woodfield Rd | On Site | Sep 01 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c9eaf4e41a61efd91434?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c9e8f4e41a61efd91433?utm_campaign=1051&utm_source=git)** | Glendale, AZ | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c9b2f4e41a61efd9141f?utm_campaign=1051&utm_source=git)** | Fremont, CA | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c9b2f4e41a61efd9141e?utm_campaign=1051&utm_source=git)** | Charleston, SC | Hybrid | Sep 01 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c9b2f4e41a61efd9141f?utm_campaign=1051&utm_source=git)** | Fremont, CA | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c9b1f4e41a61efd9141d?utm_campaign=1051&utm_source=git)** | Anchorage, AK | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c9aff4e41a61efd9141b?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c9aff4e41a61efd9141c?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Sep 01 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c9aff4e41a61efd9141b?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | Hybrid | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68b5c9acf4e41a61efd91419?utm_campaign=1051&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c9a3f4e41a61efd91415?utm_campaign=1051&utm_source=git)** | Round Lake Beach, IL | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c996f4e41a61efd9140e?utm_campaign=1051&utm_source=git)** | Eugene, OR | Hybrid | Sep 01 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c96ff4e41a61efd91400?utm_campaign=1051&utm_source=git)** | Salem, OR | Hybrid | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68b5c96bf4e41a61efd913fe?utm_campaign=1051&utm_source=git)** | MI - Plymouth, 41112 Concept Dr | On Site | Sep 01 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c7f71ade4306aa643469?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c7f11ade4306aa643464?utm_campaign=1051&utm_source=git)** | Lakeland, FL | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c7f11ade4306aa643465?utm_campaign=1051&utm_source=git)** | Bremerton, WA | Hybrid | Sep 01 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c7f11ade4306aa643464?utm_campaign=1051&utm_source=git)** | Lakeland, FL | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c7e71ade4306aa64345e?utm_campaign=1051&utm_source=git)** | Chandler, AZ | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c7881ade4306aa643428?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c77c1ade4306aa643421?utm_campaign=1051&utm_source=git)** | Chula Vista, CA | Hybrid | Sep 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c0911ade4306aa643331?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c081bc187f64e1be8332?utm_campaign=1051&utm_source=git)** | Henderson, NV | Hybrid | Sep 01 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c07fbc187f64e1be832c?utm_campaign=1051&utm_source=git)** | Fayetteville, NC | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c076bc187f64e1be8320?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c02cbc187f64e1be82ff?utm_campaign=1051&utm_source=git)** | Victorville, CA | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c02cbc187f64e1be8300?utm_campaign=1051&utm_source=git)** | Scranton, PA | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c01fbc187f64e1be82f2?utm_campaign=1051&utm_source=git)** | Greensboro, NC | Hybrid | Sep 01 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68b5c00abc187f64e1be82e3?utm_campaign=1051&utm_source=git)** | Mobile, AL | Hybrid | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
