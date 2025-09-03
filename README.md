@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68b7bb716bcf3b4c256b9516?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 02 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68b7b1eb872d1074a98b2593?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Sep 02 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68b7b168195d032a0960acf4?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 02 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Commercial/Customer Strategy (Summer 2026)](https://jobright.ai/jobs/info/68b7b0e0872d1074a98b23a6?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 02 |
@@ -91,13 +92,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Sales](https://jobright.ai/jobs/info/68b79ba62124650c140244ab?utm_campaign=1051&utm_source=git)** | Oregon, IL | Hybrid | Sep 02 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Commercial Bank Internship - Cleveland](https://jobright.ai/jobs/info/68b79ab71ade4306aa64c936?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 02 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b79a9a1ade4306aa64c913?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 02 |
-| **[McNeilus Truck and Manufacturing, Inc.](https://mcneilusgarbagetrucks.com)** | **[Aftermarket Sales & Operations Support Intern (Summer 2026)](https://jobright.ai/jobs/info/68b799e0f4e41a61efd9a774?utm_campaign=1051&utm_source=git)** | Dodge Center, MN | On Site | Sep 02 |
-| ↳ | **[Purchasing Intern (Summer 2026)](https://jobright.ai/jobs/info/68b799e0f4e41a61efd9a777?utm_campaign=1051&utm_source=git)** | Dodge Center, MN | On Site | Sep 02 |
+| **[McNeilus Truck and Manufacturing, Inc.](https://mcneilusgarbagetrucks.com)** | **[Purchasing Intern (Summer 2026)](https://jobright.ai/jobs/info/68b799e0f4e41a61efd9a777?utm_campaign=1051&utm_source=git)** | Dodge Center, MN | On Site | Sep 02 |
+| ↳ | **[Aftermarket Sales & Operations Support Intern (Summer 2026)](https://jobright.ai/jobs/info/68b799e0f4e41a61efd9a774?utm_campaign=1051&utm_source=git)** | Dodge Center, MN | On Site | Sep 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b799dcf4e41a61efd9a770?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Sep 02 |
 | ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b799a6f4e41a61efd9a737?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | Sep 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Quincy, IL - Spring 2026](https://jobright.ai/jobs/info/68b799971ade4306aa64c80d?utm_campaign=1051&utm_source=git)** | Quincy, IL | On Site | Sep 02 |
 | **[McNeilus Truck and Manufacturing, Inc.](https://mcneilusgarbagetrucks.com)** | **[Sales Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68b798f2f4e41a61efd9a64f?utm_campaign=1051&utm_source=git)** | Dodge Center, MN | On Site | Sep 02 |
-| **[Fargo Funding](fargo-funding.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68b798f1f4e41a61efd9a64c?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Sep 02 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Sales](https://jobright.ai/jobs/info/68b798d1f4e41a61efd9a628?utm_campaign=1051&utm_source=git)** | Freeport, IL | Hybrid | Sep 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b7989d1ade4306aa64c6ec?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Sep 02 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Sales](https://jobright.ai/jobs/info/68b797c02124650c140243b2?utm_campaign=1051&utm_source=git)** | Princeton, IL | Hybrid | Sep 02 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Internship - Bloomington, IL - Summer 2026](https://jobright.ai/jobs/info/68b775bdf4e41a61efd99244?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Sep 02 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026, Intern: Business Development](https://jobright.ai/jobs/info/68b7759bf4e41a61efd99220?utm_campaign=1051&utm_source=git)** | East Hartford, CT | Hybrid | Sep 02 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Sales Excellence Co-op (January through June)](https://jobright.ai/jobs/info/68b7739e1ade4306aa64b106?utm_campaign=1051&utm_source=git)** | Needham, MA, United States | On Site | Sep 02 |
+| **[Venture Partners at CU Boulder](https://www.colorado.edu/venturepartners/)** | **[Entrepreneurship Fellows](https://jobright.ai/jobs/info/68b7d43da10b650604b613d3?utm_campaign=1051&utm_source=git)** | Denver Metropolitan Area | On Site | Sep 02 |
 | **[Honeywell](http://www.honeywell.com)** | **[Offering Management – Summer 2026 Intern](https://jobright.ai/jobs/info/68b77191f4e41a61efd98faa?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 02 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Associate - Quantitative Rotational Program](https://jobright.ai/jobs/info/68b7711ef4e41a61efd98f76?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Sep 02 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68b76f6e1ade4306aa64aefd?utm_campaign=1051&utm_source=git)** | Buckhead, GA | On Site | Sep 02 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative](https://jobright.ai/jobs/info/689291ea4c7e851b90ad6ca9?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Sales](https://jobright.ai/jobs/info/68b76a0bf4e41a61efd98d73?utm_campaign=1051&utm_source=git)** | IL-Bloomington | Hybrid | Sep 02 |
-| **[FlagStick Social](https://www.linkedin.com/company/105830531)** | **[Sales Representative Intern - Fall 2025](https://jobright.ai/jobs/info/68b769c3f4e41a61efd98d4a?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Sep 02 |
-| **[Burst Agency](https://burst.agency)** | **[Content Creation and E-Commerce Paid Internship](https://jobright.ai/jobs/info/68b769631ade4306aa64ad96?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
