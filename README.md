@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandising Internship Program / Summer 2026 / Framingham, MA](https://jobright.ai/jobs/info/68b7e108a10b650604b61b9b?utm_campaign=1051&utm_source=git)** | Framingham, MA | Hybrid | Sep 02 |
+| **[Year Up United](http://yearup.org)** | **[Customer Success Career Training Program](https://jobright.ai/jobs/info/68971e481b9e81727f193e61?utm_campaign=1051&utm_source=git)** | Trenton, NJ | On Site | Sep 02 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68b7bb716bcf3b4c256b9516?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 02 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68b7b1eb872d1074a98b2593?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Sep 02 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68b7b168195d032a0960acf4?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 02 |
@@ -103,9 +105,9 @@ For a complete list, click the following sortable link below:
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Sales](https://jobright.ai/jobs/info/68b797c02124650c140243b2?utm_campaign=1051&utm_source=git)** | Princeton, IL | Hybrid | Sep 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b7971d2124650c140242fe?utm_campaign=1051&utm_source=git)** | Casper, WY | On Site | Sep 02 |
 | **[Milhaus](http://milhaus.com/)** | **[Development Intern](https://jobright.ai/jobs/info/68b7951a2124650c14023f42?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 02 |
+| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Merchandise Buyer](https://jobright.ai/jobs/info/68b794faf4e41a61efd9a431?utm_campaign=1051&utm_source=git)** | Charlotte, NC - Corporate Office | Hybrid | Sep 02 |
 | **[Reineke Family Dealerships](https://www.drivereineke.com)** | **[High School Sales/Marketing Department Work Study Findlay - Millstream](https://jobright.ai/jobs/info/68b794bd1ade4306aa64c490?utm_campaign=1051&utm_source=git)** | Findlay, OH, USA | On Site | Sep 02 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Client Sales Intern – Dallas](https://jobright.ai/jobs/info/68b794371ade4306aa64c39f?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Sep 02 |
-| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Merchandise Buyer](https://jobright.ai/jobs/info/68b793cb2124650c14023d9b?utm_campaign=1051&utm_source=git)** | Charlotte, NC - Corporate Office | Hybrid | Sep 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b793041ade4306aa64c166?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Sep 02 |
 | ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b792f21ade4306aa64c144?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Sep 02 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Client Sales Intern – Kansas City](https://jobright.ai/jobs/info/68b792e11ade4306aa64c12e?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Sep 02 |
@@ -120,6 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Sales Intern - Chicago](https://jobright.ai/jobs/info/68b7905c2124650c14023c18?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
 | ↳ | **[Route 27 Account Executive](https://jobright.ai/jobs/info/68b78fc92124650c14023b83?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Corporate Sales B2B Summer Internship](https://jobright.ai/jobs/info/68b78b66f4e41a61efd99c28?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Sep 02 |
+| **[Compeer Financial](https://compeer.com/)** | **[Intern Sales](https://jobright.ai/jobs/info/68b7da735e55be5e2604ec87?utm_campaign=1051&utm_source=git)** | Fond du Lac, WI | Hybrid | Sep 02 |
 | **[Gerhard's Kitchen, Bath & Lighting Store](https://gerhardsstore.com)** | **[Kitchen, Bath & Lighting Store Sales Design Intern](https://jobright.ai/jobs/info/68b78a252124650c140239ca?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Sep 02 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Retail Sales B2C Summer Internship](https://jobright.ai/jobs/info/68b788a22124650c14023822?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Sep 02 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Ticket Sales](https://jobright.ai/jobs/info/68b787b42124650c14023703?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Venture Partners at CU Boulder](https://www.colorado.edu/venturepartners/)** | **[Entrepreneurship Fellows](https://jobright.ai/jobs/info/68b7d43da10b650604b613d3?utm_campaign=1051&utm_source=git)** | Denver Metropolitan Area | On Site | Sep 02 |
 | **[Honeywell](http://www.honeywell.com)** | **[Offering Management – Summer 2026 Intern](https://jobright.ai/jobs/info/68b77191f4e41a61efd98faa?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 02 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Associate - Quantitative Rotational Program](https://jobright.ai/jobs/info/68b7711ef4e41a61efd98f76?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Sep 02 |
-| **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68b76f6e1ade4306aa64aefd?utm_campaign=1051&utm_source=git)** | Buckhead, GA | On Site | Sep 02 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative](https://jobright.ai/jobs/info/689291ea4c7e851b90ad6ca9?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
-| **[Compeer Financial](https://compeer.com/)** | **[Intern Sales](https://jobright.ai/jobs/info/68b76a0bf4e41a61efd98d73?utm_campaign=1051&utm_source=git)** | IL-Bloomington | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
