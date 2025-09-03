@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Eaton Internship Program: Technical Sales](https://jobright.ai/jobs/info/68b829f71e16661ab7201b4f?utm_campaign=1051&utm_source=git)** | Moon, PA | On Site | Sep 03 |
+| **[CAI](http://www.compaid.com)** | **[Business Development Analyst Intern](https://jobright.ai/jobs/info/68b81d351e16661ab720190d?utm_campaign=1051&utm_source=git)** | PA-CLIENT-STATE | Remote | Sep 03 |
+| **[EDEKA Minden-Hannover](https://verbund.edeka/)** | **[Ausbildung Kauffrau im Einzelhandel (m/w/d) + Frischespezialistin IHK (m/w/d) - 2026](https://jobright.ai/jobs/info/68b8083b5e55be5e2604fc4e?utm_campaign=1051&utm_source=git)** | Norden, SD | On Site | Sep 03 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandising Internship Program / Summer 2026 / Framingham, MA](https://jobright.ai/jobs/info/68b7e108a10b650604b61b9b?utm_campaign=1051&utm_source=git)** | Framingham, MA | Hybrid | Sep 02 |
 | **[Year Up United](http://yearup.org)** | **[Customer Success Career Training Program](https://jobright.ai/jobs/info/68971e481b9e81727f193e61?utm_campaign=1051&utm_source=git)** | Trenton, NJ | On Site | Sep 02 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68b7bb716bcf3b4c256b9516?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 02 |
@@ -94,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Sales](https://jobright.ai/jobs/info/68b79ba62124650c140244ab?utm_campaign=1051&utm_source=git)** | Oregon, IL | Hybrid | Sep 02 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Commercial Bank Internship - Cleveland](https://jobright.ai/jobs/info/68b79ab71ade4306aa64c936?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 02 |
 | **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68b79a9a1ade4306aa64c913?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 02 |
-| **[McNeilus Truck and Manufacturing, Inc.](https://mcneilusgarbagetrucks.com)** | **[Purchasing Intern (Summer 2026)](https://jobright.ai/jobs/info/68b799e0f4e41a61efd9a777?utm_campaign=1051&utm_source=git)** | Dodge Center, MN | On Site | Sep 02 |
-| ↳ | **[Aftermarket Sales & Operations Support Intern (Summer 2026)](https://jobright.ai/jobs/info/68b799e0f4e41a61efd9a774?utm_campaign=1051&utm_source=git)** | Dodge Center, MN | On Site | Sep 02 |
+| **[McNeilus Truck and Manufacturing, Inc.](https://mcneilusgarbagetrucks.com)** | **[Aftermarket Sales & Operations Support Intern (Summer 2026)](https://jobright.ai/jobs/info/68b799e0f4e41a61efd9a774?utm_campaign=1051&utm_source=git)** | Dodge Center, MN | On Site | Sep 02 |
+| ↳ | **[Purchasing Intern (Summer 2026)](https://jobright.ai/jobs/info/68b799e0f4e41a61efd9a777?utm_campaign=1051&utm_source=git)** | Dodge Center, MN | On Site | Sep 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b799dcf4e41a61efd9a770?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Sep 02 |
 | ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b799a6f4e41a61efd9a737?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | Sep 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Quincy, IL - Spring 2026](https://jobright.ai/jobs/info/68b799971ade4306aa64c80d?utm_campaign=1051&utm_source=git)** | Quincy, IL | On Site | Sep 02 |
@@ -105,9 +108,9 @@ For a complete list, click the following sortable link below:
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Sales](https://jobright.ai/jobs/info/68b797c02124650c140243b2?utm_campaign=1051&utm_source=git)** | Princeton, IL | Hybrid | Sep 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b7971d2124650c140242fe?utm_campaign=1051&utm_source=git)** | Casper, WY | On Site | Sep 02 |
 | **[Milhaus](http://milhaus.com/)** | **[Development Intern](https://jobright.ai/jobs/info/68b7951a2124650c14023f42?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 02 |
+| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Merchandise Buyer](https://jobright.ai/jobs/info/68b794faf4e41a61efd9a431?utm_campaign=1051&utm_source=git)** | Charlotte, NC - Corporate Office | Hybrid | Sep 02 |
 | **[Reineke Family Dealerships](https://www.drivereineke.com)** | **[High School Sales/Marketing Department Work Study Findlay - Millstream](https://jobright.ai/jobs/info/68b794bd1ade4306aa64c490?utm_campaign=1051&utm_source=git)** | Findlay, OH, USA | On Site | Sep 02 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Client Sales Intern – Dallas](https://jobright.ai/jobs/info/68b794371ade4306aa64c39f?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Sep 02 |
-| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Merchandise Buyer](https://jobright.ai/jobs/info/68b793cb2124650c14023d9b?utm_campaign=1051&utm_source=git)** | Charlotte, NC - Corporate Office | Hybrid | Sep 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b793041ade4306aa64c166?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Sep 02 |
 | ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b792f21ade4306aa64c144?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Sep 02 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Client Sales Intern – Kansas City](https://jobright.ai/jobs/info/68b792e11ade4306aa64c12e?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Sep 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Management Trainee Internship - Bloomington, IL - Summer 2026](https://jobright.ai/jobs/info/68b775bdf4e41a61efd99244?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Sep 02 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026, Intern: Business Development](https://jobright.ai/jobs/info/68b7759bf4e41a61efd99220?utm_campaign=1051&utm_source=git)** | East Hartford, CT | Hybrid | Sep 02 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Sales Excellence Co-op (January through June)](https://jobright.ai/jobs/info/68b7739e1ade4306aa64b106?utm_campaign=1051&utm_source=git)** | Needham, MA, United States | On Site | Sep 02 |
-| **[Venture Partners at CU Boulder](https://www.colorado.edu/venturepartners/)** | **[Entrepreneurship Fellows](https://jobright.ai/jobs/info/68b7d43da10b650604b613d3?utm_campaign=1051&utm_source=git)** | Denver Metropolitan Area | On Site | Sep 02 |
-| **[Honeywell](http://www.honeywell.com)** | **[Offering Management – Summer 2026 Intern](https://jobright.ai/jobs/info/68b77191f4e41a61efd98faa?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 02 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Associate - Quantitative Rotational Program](https://jobright.ai/jobs/info/68b7711ef4e41a61efd98f76?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
