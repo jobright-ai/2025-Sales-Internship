@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Texas Bulls LLC](http://www.northtexasbulls.com)** | **[Group Ticket Sales](https://jobright.ai/jobs/info/68bacd2a5f383274918699be?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 05 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Intern - Buying or Planning - New York](https://jobright.ai/jobs/info/689e879c83d13d1f5b6bd61e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
+| ↳ | **[Summer 2026 Assistant Buyer Intern - Los Angeles](https://jobright.ai/jobs/info/689e87cafaa4e875e827d79a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Sep 05 |
+| **[TD SYNNEX North America](http://www.techdata.com)** | **[Internship / Technical Scholar Program / Clearwater, FL](https://jobright.ai/jobs/info/68828d62835a903aa07eebcd?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Sep 05 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Client Experience Intern](https://jobright.ai/jobs/info/68baa3776105227d1189fbb1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | **[ByteDance](http://bytedance.com)** | **[Creator Partnerships Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68ba9cb86105227d1189fa53?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Sep 05 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba85c65f38327491867dfa?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Sep 04 |
@@ -86,16 +90,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba7a726105227d1189e593?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Sep 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba7a696105227d1189e588?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Sep 04 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68ba7a3b6105227d1189e564?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Sep 04 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba4d975f38327491865c63?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba4e1a5f38327491865cd8?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Sep 04 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba4e1a5f38327491865cd8?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Sep 04 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba795a6105227d1189e4c1?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Sep 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba790f5f38327491867799?utm_campaign=1051&utm_source=git)** | Hurst, TX | On Site | Sep 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba790b5f38327491867794?utm_campaign=1051&utm_source=git)** | Norfolk, NE | On Site | Sep 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba78b76105227d1189e419?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Sep 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba78835f38327491867739?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA | On Site | Sep 04 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) – Scottsdale, Arizona (Starting Summer 2026)](https://jobright.ai/jobs/info/68ba78405f383274918676ff?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Hybrid | Sep 04 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba78335f383274918676f2?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Sep 04 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba78205f383274918676dd?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Sep 04 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba78205f383274918676dd?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Sep 04 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68ba77ce6105227d1189e36a?utm_campaign=1051&utm_source=git)** | Fort Dodge, IA | On Site | Sep 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba77b06105227d1189e354?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba77ab5f383274918676a3?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Sep 04 |
@@ -105,6 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba76d35f38327491867607?utm_campaign=1051&utm_source=git)** | Garden City, KS | On Site | Sep 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba76c25f383274918675fd?utm_campaign=1051&utm_source=git)** | Jacksonville, NC | On Site | Sep 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba76068043103d4f220bc5?utm_campaign=1051&utm_source=git)** | Amarillo, TX | On Site | Sep 04 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/681eec59e7e3b39aa67062fe?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Sep 04 |
 | **[Jackson](https://www.jackson.com)** | **[Intern, Sales Desk](https://jobright.ai/jobs/info/68ba75a76105227d1189e2de?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Sep 04 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba74446105227d1189e2b8?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Sep 04 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) – Modesto, California (Starting Summer 2026)](https://jobright.ai/jobs/info/68ba73f16105227d1189e281?utm_campaign=1051&utm_source=git)** | Turlock, CA | Hybrid | Sep 04 |
@@ -116,7 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – South San Jose/Monterey, California (Starting Summer 2026)](https://jobright.ai/jobs/info/68ba711e5f38327491867355?utm_campaign=1051&utm_source=git)** | Fremont, CA | Hybrid | Sep 04 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – Woodland/Sacramento, California (Starting Summer 2026)](https://jobright.ai/jobs/info/68ba70b58043103d4f220a12?utm_campaign=1051&utm_source=git)** | Chico, CA | Hybrid | Sep 04 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) – East Valley, Arizona (Starting Summer 2026)](https://jobright.ai/jobs/info/68ba6f018043103d4f2207f3?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Sep 04 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68ba8ba38043103d4f2217d7?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Sep 04 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba901c8043103d4f221c11?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Sep 04 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68ba8ba38043103d4f2217d7?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Sep 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ba8c9b8043103d4f2218e3?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Sep 04 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68ba47d26105227d1189c909?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Sep 04 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - New Jersey](https://jobright.ai/jobs/info/68ba5b5d5f383274918665c0?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Sep 04 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba3a1f6105227d1189c161?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba39fe6105227d1189c132?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Sep 04 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68ba39ee8043103d4f21ec93?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 04 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba39ce8043103d4f21ec63?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba39805f3832749186536d?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Sep 04 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba39805f3832749186536d?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba39765f38327491865362?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba393e5f3832749186530c?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba393e6105227d1189c069?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba392a8043103d4f21eba8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 04 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba393e5f3832749186530c?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Sep 04 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba392a8043103d4f21eba7?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba389d6105227d1189bff4?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba38555f383274918651d7?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba38436105227d1189bfa6?utm_campaign=1051&utm_source=git)** | Chantilly, VA | On Site | Sep 04 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba383d6105227d1189bf9c?utm_campaign=1051&utm_source=git)** | San Ramon, CA | On Site | Sep 04 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba392a8043103d4f21eba8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 04 |
+| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba390a8043103d4f21eb91?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
