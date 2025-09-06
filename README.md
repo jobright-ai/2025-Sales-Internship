@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc4a6968300c452ca153d5?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Sep 06 |
+| **[SAP](https://www.sap.com)** | **[Solution Sales Executive - SAP Academy for Customer Success - USA - BTM West (Hybrid)](https://jobright.ai/jobs/info/688275f1835a903aa07eda82?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc59?utm_campaign=1051&utm_source=git)** | Hamburg, PA | On Site | Sep 06 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c4faa4e875e828bc73?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Sep 06 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68bc30236105227d118ac1f9?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Sep 06 |
 | ↳ | **[Paid Intern](https://jobright.ai/jobs/info/68bc301e6105227d118ac1f8?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Sep 06 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68bc2e9a8043103d4f22e8b1?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Sep 06 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/689fc4f583d13d1f5b6caed6?utm_campaign=1051&utm_source=git)** | Monona, WI | On Site | Sep 06 |
 | **[Competition Auto Group](http://www.competition-auto.com/)** | **[Intern - Sales Operations Analyst](https://jobright.ai/jobs/info/68bc1a885f3832749187503e?utm_campaign=1051&utm_source=git)** | St James, NY | On Site | Sep 06 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/689f6ff8faa4e875e82873b2?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Sep 06 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – Sales Operations Analyst](https://jobright.ai/jobs/info/68b2e726f4e41a61efd88310?utm_campaign=1051&utm_source=git)** | Frisco, TX | Hybrid | Sep 06 |
@@ -77,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[CenterSquare Investment Management](http://www.centersquare.com/)** | **[Intern, Capital Markets](https://jobright.ai/jobs/info/68acbe3bdaf1431824c97ec8?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Sep 05 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Agency Partnerships Intern (New York) - Spring 2026](https://jobright.ai/jobs/info/68bb8d6b5f38327491870382?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Sep 05 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern - Upper Extremities Sales - Boston, MA](https://jobright.ai/jobs/info/68bb8b1b5f383274918700be?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Cell Analysis Sales Development Intern](https://jobright.ai/jobs/info/68bbcfda5f38327491873287?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Sep 05 |
 | **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68bb899f8043103d4f229875?utm_campaign=1051&utm_source=git)** | Folsom, CA | On Site | Sep 05 |
 | ↳ | **[Sales and Marketing - Intern, Graduate](https://jobright.ai/jobs/info/68bb898e8043103d4f22985e?utm_campaign=1051&utm_source=git)** | Folsom, CA | On Site | Sep 05 |
 | **[Competition Auto Group](http://www.competition-auto.com/)** | **[Intern - Sales Operations Analyst](https://jobright.ai/jobs/info/68bb86bd8043103d4f2293d7?utm_campaign=1051&utm_source=git)** | Mercedes Benz of Smithtown | On Site | Sep 05 |
@@ -106,6 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales/Operations Internship (Arizona State Spring 2026)](https://jobright.ai/jobs/info/68bb6a3e5f3832749186ef70?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Sep 05 |
 | **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Morningstar Internship Program - Customer Success Intern (Campus)](https://jobright.ai/jobs/info/68bb69036105227d118a5c8e?utm_campaign=1051&utm_source=git)** | Chicago | Hybrid | Sep 05 |
 | **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Sales Professional Internship](https://jobright.ai/jobs/info/68bb68225f3832749186ee45?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | Hybrid | Sep 05 |
+| **[South Fork Bakery](https://www.southforkbakery.org)** | **[Development Intern](https://jobright.ai/jobs/info/68bc2f918043103d4f22e95c?utm_campaign=1051&utm_source=git)** | Southampton, NY | On Site | Sep 05 |
 | **[Apply Stickers](https://www.applystickers.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68bb5a5a5f3832749186eb09?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/68bb57105f3832749186e931?utm_campaign=1051&utm_source=git)** | Columbus, Ohio | On Site | Sep 05 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - San Francisco](https://jobright.ai/jobs/info/68bb562c8043103d4f227ecd?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Sep 05 |
@@ -132,7 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Morningstar Internship Program – Sales Intern (Campus)](https://jobright.ai/jobs/info/68bb4a096105227d118a4ecf?utm_campaign=1051&utm_source=git)** | Chicago | Hybrid | Sep 05 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Sep 05 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Clearing & Execution Services](https://jobright.ai/jobs/info/68bb468e6105227d118a4c29?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
-| ↳ | **[Intern – Investment Grade Credit](https://jobright.ai/jobs/info/68bb41c06105227d118a49a4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
+| **[SanFrais Solutions](www.sanfrais.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68bc2f9c6105227d118ac1b5?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Sep 05 |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern – Investment Grade Credit](https://jobright.ai/jobs/info/68bb41c06105227d118a49a4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Johnson & Johnson (JNJ)](https://www.linkedin.com/company/105928786)** | **[MedTech Channel Operations Co-Op](https://jobright.ai/jobs/info/68bb417d8043103d4f2272d2?utm_campaign=1051&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Sep 05 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Fixed Income Sales & Trading](https://jobright.ai/jobs/info/68bb40b08043103d4f227181?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | ↳ | **[Intern - Clearing & Execution Services](https://jobright.ai/jobs/info/68bb3ffd8043103d4f22705e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Clearing & Execution Services](https://jobright.ai/jobs/info/68bb38285f3832749186d57e?utm_campaign=1051&utm_source=git)** | US-IL-Chicago | On Site | Sep 05 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68bb38208043103d4f226b31?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 05 |
 | **[Sachin & Babi](https://www.sachinandbabi.com)** | **[Fashion E-commerce And Marketing Intern](https://jobright.ai/jobs/info/68bb380a6105227d118a42e1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Cleveland)](https://jobright.ai/jobs/info/68bb37cf6105227d118a42ac?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 05 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Fixed Income Sales & Trading](https://jobright.ai/jobs/info/68bb37586105227d118a41f6?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Sep 05 |
-| ↳ | **[Intern - Emerging Markets Sales and Trading](https://jobright.ai/jobs/info/68bb37446105227d118a41e1?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Sep 05 |
-| **[Citi](https://www.citi.com)** | **[Banking - Capital Markets, Summer Associate, New York (North America – 2026)](https://jobright.ai/jobs/info/68bb37348043103d4f226a4b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
-| **[CAC Agency](http://cobbsallen.com)** | **[CAC Agency Summer Internship 2026 (Birmingham)](https://jobright.ai/jobs/info/68bb36c66105227d118a4137?utm_campaign=1051&utm_source=git)** | Birmingham, AL, USA | On Site | Sep 05 |
-| **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[MedTech Channel Operations Co-Op](https://jobright.ai/jobs/info/68bb365b6105227d118a40ae?utm_campaign=1051&utm_source=git)** | Raritan, NJ | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
