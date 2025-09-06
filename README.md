@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Development Intern 2026](https://jobright.ai/jobs/info/68bba0ab6105227d118a7ba8?utm_campaign=1051&utm_source=git)** | Richfield, OH | On Site | Sep 05 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern](https://jobright.ai/jobs/info/68bb9ddb6105227d118a77ed?utm_campaign=1051&utm_source=git)** | Seguin, TX | On Site | Sep 05 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68bb97f86105227d118a7565?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Sep 05 |
+| ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68bb97ac6105227d118a7518?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Sep 05 |
+| **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/68bb97275f38327491870761?utm_campaign=1051&utm_source=git)** | Nashville Metro | Hybrid | Sep 05 |
 | **[CenterSquare Investment Management](http://www.centersquare.com/)** | **[Intern, Capital Markets](https://jobright.ai/jobs/info/68acbe3bdaf1431824c97ec8?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Sep 05 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Agency Partnerships Intern (New York) - Spring 2026](https://jobright.ai/jobs/info/68bb8d6b5f38327491870382?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Sep 05 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern - Upper Extremities Sales - Boston, MA](https://jobright.ai/jobs/info/68bb8b1b5f383274918700be?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
@@ -84,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[International Business Development & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68bb71246105227d118a5fa9?utm_campaign=1051&utm_source=git)** | Culver City, CA | Hybrid | Sep 05 |
 | **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Internship Program – Sales Intern (Campus)](https://jobright.ai/jobs/info/68bb6f7d8043103d4f228955?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
 | ↳ | **[Morningstar Internship Program - Customer Success Intern (Campus)](https://jobright.ai/jobs/info/68bb6c9a6105227d118a5e1d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
+| **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Sales Professional Internship](https://jobright.ai/jobs/info/68bb6ba36105227d118a5d53?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | Hybrid | Sep 05 |
 | **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (FAMU Spring 2026)](https://jobright.ai/jobs/info/68bb6a775f3832749186ef8f?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 05 |
 | ↳ | **[Sales/Operations Internship (Arizona State Spring 2026)](https://jobright.ai/jobs/info/68bb6a3e5f3832749186ef70?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Sep 05 |
 | **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Morningstar Internship Program - Customer Success Intern (Campus)](https://jobright.ai/jobs/info/68bb69036105227d118a5c8e?utm_campaign=1051&utm_source=git)** | Chicago | Hybrid | Sep 05 |
-| **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Sales Professional Internship](https://jobright.ai/jobs/info/68bb68225f3832749186ee45?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | Hybrid | Sep 05 |
 | **[Apply Stickers](https://www.applystickers.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68bb5a5a5f3832749186eb09?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/68bb57105f3832749186e931?utm_campaign=1051&utm_source=git)** | Columbus, Ohio | On Site | Sep 05 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - San Francisco](https://jobright.ai/jobs/info/68bb562c8043103d4f227ecd?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Sep 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68bb32528043103d4f226570?utm_campaign=1051&utm_source=git)** | US, California, Folsom | On Site | Sep 05 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Mid-OH)](https://jobright.ai/jobs/info/68bb322b8043103d4f226525?utm_campaign=1051&utm_source=git)** | Canton, OH, United States | On Site | Sep 05 |
 | ↳ | **[Management and Sales Summer Internship 2026 (Toledo)](https://jobright.ai/jobs/info/68bb31556105227d118a3c8d?utm_campaign=1051&utm_source=git)** | Toledo, OH, United States | On Site | Sep 05 |
-| **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68bb312d5f3832749186ce58?utm_campaign=1051&utm_source=git)** | US, California, Santa Clara | On Site | Sep 05 |
-| **[J.R. Simplot Company](http://www.simplot.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68bb312a6105227d118a3c3e?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Sep 05 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services Sales Undergraduate Internship](https://jobright.ai/jobs/info/68bb30896105227d118a3b44?utm_campaign=1051&utm_source=git)** | Round Rock, Texas, United States | On Site | Sep 05 |
-| **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2026 - Truck Tire](https://jobright.ai/jobs/info/68bb2f435f3832749186cbea?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Sep 05 |
-| **[Intel Corporation](http://www.intel.com)** | **[Technical Sales - Intern, Bachelors](https://jobright.ai/jobs/info/68bb27716105227d118a3670?utm_campaign=1051&utm_source=git)** | Folsom, CA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
