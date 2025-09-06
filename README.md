@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Winter 2026 NYC Buying Intern - Dec 25/May 26 Grads](https://jobright.ai/jobs/info/68bc8c0aae79610dacddbd4c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
+| **[CHS Inc.](http://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc776868300c452ca15a5a?utm_campaign=1051&utm_source=git)** | Eureka, SD | On Site | Sep 06 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc684e68300c452ca158c1?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 06 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68bc676e3bf9eb44f8323f01?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 06 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68bc671dae79610dacddb8da?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 06 |
@@ -66,15 +68,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68bc581f68300c452ca15681?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc4a6968300c452ca153d5?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Sep 06 |
 | **[SAP](https://www.sap.com)** | **[Solution Sales Executive - SAP Academy for Customer Success - USA - BTM West (Hybrid)](https://jobright.ai/jobs/info/688275f1835a903aa07eda82?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Sep 06 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b5faa4e875e828bc48?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3bffaa4e875e828bd2b?utm_campaign=1051&utm_source=git)** | Easton, PA | On Site | Sep 06 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3fdfaa4e875e828bd7b?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Sep 06 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b5faa4e875e828bc48?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b6cc9ee94dc911a6c0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68a00dbe83d13d1f5b6ccfed?utm_campaign=1051&utm_source=git)** | Queens, NY | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc59?utm_campaign=1051&utm_source=git)** | Hamburg, PA | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c4faa4e875e828bc73?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Sep 06 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68bc30236105227d118ac1f9?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Sep 06 |
 | ↳ | **[Paid Intern](https://jobright.ai/jobs/info/68bc301e6105227d118ac1f8?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Sep 06 |
-| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68bc2e9a8043103d4f22e8b1?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Sep 06 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/689fc4f583d13d1f5b6caed6?utm_campaign=1051&utm_source=git)** | Monona, WI | On Site | Sep 06 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Fall 2025 NYC Buying Intern](https://jobright.ai/jobs/info/68a9311fd627244576e382a4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[Competition Auto Group](http://www.competition-auto.com/)** | **[Intern - Sales Operations Analyst](https://jobright.ai/jobs/info/68bc1a885f3832749187503e?utm_campaign=1051&utm_source=git)** | St James, NY | On Site | Sep 06 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/689f6ff8faa4e875e82873b2?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Sep 06 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – Sales Operations Analyst](https://jobright.ai/jobs/info/68b2e726f4e41a61efd88310?utm_campaign=1051&utm_source=git)** | Frisco, TX | Hybrid | Sep 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson (JNJ)](https://www.linkedin.com/company/105928786)** | **[MedTech Channel Operations Co-Op](https://jobright.ai/jobs/info/68bb417d8043103d4f2272d2?utm_campaign=1051&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Sep 05 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Fixed Income Sales & Trading](https://jobright.ai/jobs/info/68bb40b08043103d4f227181?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | ↳ | **[Intern - Clearing & Execution Services](https://jobright.ai/jobs/info/68bb3ffd8043103d4f22705e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
-| **[Acxiom](http://www.acxiom.com)** | **[Intern - Agency Partnerships Intern (New York) - Spring 2026](https://jobright.ai/jobs/info/68bb3ffd8043103d4f22705c?utm_campaign=1051&utm_source=git)** | New York | On Site | Sep 05 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Emerging Markets Sales and Trading](https://jobright.ai/jobs/info/68bb3f076105227d118a4697?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
-| ↳ | **[Intern – Municipal Sales & Trading](https://jobright.ai/jobs/info/68bb3e4e6105227d118a460b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
-| **[Acxiom](http://www.acxiom.com)** | **[Intern - Agency Sales Enablement Intern (Fall 2025) - Conway, AR](https://jobright.ai/jobs/info/68bb3b728043103d4f226ed3?utm_campaign=1051&utm_source=git)** | United States | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
