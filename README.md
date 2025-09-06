@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68bc30236105227d118ac1f9?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Sep 06 |
+| ↳ | **[Paid Intern](https://jobright.ai/jobs/info/68bc301e6105227d118ac1f8?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Sep 06 |
+| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68bc2e9a8043103d4f22e8b1?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Sep 06 |
 | **[Competition Auto Group](http://www.competition-auto.com/)** | **[Intern - Sales Operations Analyst](https://jobright.ai/jobs/info/68bc1a885f3832749187503e?utm_campaign=1051&utm_source=git)** | St James, NY | On Site | Sep 06 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/689f6ff8faa4e875e82873b2?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Sep 06 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – Sales Operations Analyst](https://jobright.ai/jobs/info/68b2e726f4e41a61efd88310?utm_campaign=1051&utm_source=git)** | Frisco, TX | Hybrid | Sep 06 |
 | **[Biosearch Life, a Kerry Company](https://www.biosearchlife.es/en/work-with-us/)** | **[2026 Intern Program (Evergreen)](https://jobright.ai/jobs/info/68bc13a78043103d4f22e433?utm_campaign=1051&utm_source=git)** | Beloit, WI | On Site | Sep 06 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services Sales Undergraduate Internship](https://jobright.ai/jobs/info/68bbe9ca6105227d118ab10f?utm_campaign=1051&utm_source=git)** | Round Rock, TX | On Site | Sep 06 |
 | **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[Retail Sales Associate-INTERNATIONAL PLAZA](https://jobright.ai/jobs/info/68bbcbb46105227d118a9d69?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Sep 05 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Continental Automotive Trading France SAS](https://continental.com/)** | **[Intern - Sales, Summer 2026 - PLTJob ID: REF89185P](https://jobright.ai/jobs/info/68bb78cf5f3832749186f680?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Sep 05 |
 | **[Baker Hughes](https://www.bakerhughes.com/)** | **[Sourcing - Spring Co-op Internship (Houston, TX) 2026 Opportunities](https://jobright.ai/jobs/info/68bb78a86105227d118a6388?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 05 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/68bb75978043103d4f228c76?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
-| **[Netsmart](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Business Development Representative Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/68bbcfe55f38327491873299?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Sep 05 |
 | **[Continental Automotive Trading France SAS](https://continental.com/)** | **[Intern - Sales, Summer 2026 - Truck TireJob ID: REF89297H](https://jobright.ai/jobs/info/68bb72546105227d118a6097?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Sep 05 |
 | **[Target](https://www.target.com)** | **[Associate Buyer Internship - Minneapolis, MN (Starting Summer, 2026)](https://jobright.ai/jobs/info/68bb71c85f3832749186f314?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Sep 05 |
 | **[Henkel](http://www.henkel.com)** | **[International Business Development & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68bb71246105227d118a5fa9?utm_campaign=1051&utm_source=git)** | Culver City, CA | Hybrid | Sep 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Banking - Capital Markets, Summer Associate, New York (North America – 2026)](https://jobright.ai/jobs/info/68bb37348043103d4f226a4b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[CAC Agency](http://cobbsallen.com)** | **[CAC Agency Summer Internship 2026 (Birmingham)](https://jobright.ai/jobs/info/68bb36c66105227d118a4137?utm_campaign=1051&utm_source=git)** | Birmingham, AL, USA | On Site | Sep 05 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[MedTech Channel Operations Co-Op](https://jobright.ai/jobs/info/68bb365b6105227d118a40ae?utm_campaign=1051&utm_source=git)** | Raritan, NJ | Hybrid | Sep 05 |
-| **[Abbott](https://www.abbott.com)** | **[Abbott Nutrition Inside Sales Internship Health Care Professionals (HCP) Summer 2026](https://jobright.ai/jobs/info/68af07cc2daaba398441b49d?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
-| **[SCSB](http://scsbnet.com)** | **[Intern](https://jobright.ai/jobs/info/68bb34978043103d4f2268f0?utm_campaign=1051&utm_source=git)** | MAIN BANK | On Site | Sep 05 |
-| **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68bb347d8043103d4f2268e4?utm_campaign=1051&utm_source=git)** | US, Oregon, Portland | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
