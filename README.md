@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Houston Astros](https://astros.mlb.com/)** | **[Ticket Sales & Services Apprentice - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/68bbbaef8043103d4f22ba82?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Sep 05 |
+| **[Girmairi](https://girmairi.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68bbb0de5f3832749187197d?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Development Intern 2026](https://jobright.ai/jobs/info/68bba0ab6105227d118a7ba8?utm_campaign=1051&utm_source=git)** | Richfield, OH | On Site | Sep 05 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern](https://jobright.ai/jobs/info/68bb9ddb6105227d118a77ed?utm_campaign=1051&utm_source=git)** | Seguin, TX | On Site | Sep 05 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68bb97f86105227d118a7565?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Sep 05 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Competition Auto Group](http://www.competition-auto.com/)** | **[Intern - Sales Operations Analyst](https://jobright.ai/jobs/info/68bb86bd8043103d4f2293d7?utm_campaign=1051&utm_source=git)** | Mercedes Benz of Smithtown | On Site | Sep 05 |
 | **[CAC Group](https://cacgroup.com)** | **[CAC Agency Summer Internship 2026 (Birmingham)](https://jobright.ai/jobs/info/68bb85965f3832749186fc87?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Sep 05 |
 | **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68bb84f35f3832749186fbd8?utm_campaign=1051&utm_source=git)** | Folsom, CA | On Site | Sep 05 |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Cell Analysis Sales Development Intern](https://jobright.ai/jobs/info/68bbc7026105227d118a9b43?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Sep 05 |
 | **[SPX Technologies](http://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68bb82d28043103d4f229310?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Sep 05 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Spring 2026 Account Analyst Intern - Revenue](https://jobright.ai/jobs/info/68bb80ca8043103d4f229106?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 05 |
 | **[SPX Technologies](http://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68bb80266105227d118a66f6?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Sep 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68bb337f6105227d118a4051?utm_campaign=1051&utm_source=git)** | US, California, Folsom | On Site | Sep 05 |
 | **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2026 - PLT](https://jobright.ai/jobs/info/68bb33205f3832749186d1e7?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Sep 05 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services Sales Undergraduate Internship](https://jobright.ai/jobs/info/68bb32975f3832749186d0de?utm_campaign=1051&utm_source=git)** | Hopkinton, Massachusetts, United States | On Site | Sep 05 |
-| **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68bb32528043103d4f226570?utm_campaign=1051&utm_source=git)** | US, California, Folsom | On Site | Sep 05 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Mid-OH)](https://jobright.ai/jobs/info/68bb322b8043103d4f226525?utm_campaign=1051&utm_source=git)** | Canton, OH, United States | On Site | Sep 05 |
-| ↳ | **[Management and Sales Summer Internship 2026 (Toledo)](https://jobright.ai/jobs/info/68bb31556105227d118a3c8d?utm_campaign=1051&utm_source=git)** | Toledo, OH, United States | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
