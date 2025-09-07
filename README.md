@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68bcba4a3bf9eb44f8324756?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Sep 06 |
 | **[Springfield Thunderbirds](http://www.springfieldthunderbirds.com)** | **[Ticket Sales Intern](https://jobright.ai/jobs/info/68bca4183bf9eb44f83245da?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Sep 06 |
 | **[Kahua](http://www.kahua.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68bc9c8f3bf9eb44f832452c?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Sep 06 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6410](https://jobright.ai/jobs/info/68bc9c8f3bf9eb44f832452b?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Sep 06 |
@@ -71,16 +72,19 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc5833ae79610dacddb74d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68bc581f68300c452ca15681?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc4a6968300c452ca153d5?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0a483d13d1f5b6cb9af?utm_campaign=1051&utm_source=git)** | Wayne, NJ | On Site | Sep 06 |
 | **[SAP](https://www.sap.com)** | **[Solution Sales Executive - SAP Academy for Customer Success - USA - BTM West (Hybrid)](https://jobright.ai/jobs/info/688275f1835a903aa07eda82?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0a5faa4e875e828bc17?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07b83d13d1f5b6cb965?utm_campaign=1051&utm_source=git)** | Hicksville, NY | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3bffaa4e875e828bd2b?utm_campaign=1051&utm_source=git)** | Easton, PA | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0bcfaa4e875e828bc5f?utm_campaign=1051&utm_source=git)** | Langhorne, PA | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3fdfaa4e875e828bd7b?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Sep 06 |
+| ↳ | **[Sales Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68a6cc00b6a3617d7fa7ac63?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b5faa4e875e828bc48?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b6cc9ee94dc911a6c0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68a00dbe83d13d1f5b6ccfed?utm_campaign=1051&utm_source=git)** | Queens, NY | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc59?utm_campaign=1051&utm_source=git)** | Hamburg, PA | On Site | Sep 06 |
+| ↳ | **[Sales Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6dcfaa4e875e828be49?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c4faa4e875e828bc73?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Sep 06 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68bc30236105227d118ac1f9?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Sep 06 |
 | ↳ | **[Paid Intern](https://jobright.ai/jobs/info/68bc301e6105227d118ac1f8?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Sep 06 |
@@ -94,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services Sales Undergraduate Internship](https://jobright.ai/jobs/info/68bbe9ca6105227d118ab10f?utm_campaign=1051&utm_source=git)** | Round Rock, TX | On Site | Sep 06 |
 | **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[Retail Sales Associate-INTERNATIONAL PLAZA](https://jobright.ai/jobs/info/68bbcbb46105227d118a9d69?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Sep 05 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Ticket Sales & Services Apprentice - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/68bbbaef8043103d4f22ba82?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Sep 05 |
-| **[Girmairi](https://girmairi.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68bbb0de5f3832749187197d?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Development Intern 2026](https://jobright.ai/jobs/info/68bba0ab6105227d118a7ba8?utm_campaign=1051&utm_source=git)** | Richfield, OH | On Site | Sep 05 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern](https://jobright.ai/jobs/info/68bb9ddb6105227d118a77ed?utm_campaign=1051&utm_source=git)** | Seguin, TX | On Site | Sep 05 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68bb97f86105227d118a7565?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Sep 05 |
@@ -122,16 +125,16 @@ For a complete list, click the following sortable link below:
 | **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (Arizona State Spring 2026)](https://jobright.ai/jobs/info/68bb7b0c8043103d4f228f0e?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Sep 05 |
 | **[Continental Automotive Trading France SAS](https://continental.com/)** | **[Intern - Sales, Summer 2026 - PLTJob ID: REF89185P](https://jobright.ai/jobs/info/68bb78cf5f3832749186f680?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Sep 05 |
 | **[Baker Hughes](https://www.bakerhughes.com/)** | **[Sourcing - Spring Co-op Internship (Houston, TX) 2026 Opportunities](https://jobright.ai/jobs/info/68bb78a86105227d118a6388?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 05 |
+| **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (FAMU Spring 2026)](https://jobright.ai/jobs/info/68bb77555f3832749186f4e3?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 05 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/68bb75978043103d4f228c76?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
 | **[Continental Automotive Trading France SAS](https://continental.com/)** | **[Intern - Sales, Summer 2026 - Truck TireJob ID: REF89297H](https://jobright.ai/jobs/info/68bb72546105227d118a6097?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Sep 05 |
 | **[Target](https://www.target.com)** | **[Associate Buyer Internship - Minneapolis, MN (Starting Summer, 2026)](https://jobright.ai/jobs/info/68bb71c85f3832749186f314?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Sep 05 |
 | **[Henkel](http://www.henkel.com)** | **[International Business Development & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68bb71246105227d118a5fa9?utm_campaign=1051&utm_source=git)** | Culver City, CA | Hybrid | Sep 05 |
 | **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Internship Program – Sales Intern (Campus)](https://jobright.ai/jobs/info/68bb6f7d8043103d4f228955?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
 | ↳ | **[Morningstar Internship Program - Customer Success Intern (Campus)](https://jobright.ai/jobs/info/68bb6c9a6105227d118a5e1d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Sales Professional Internship](https://jobright.ai/jobs/info/68bb6ba36105227d118a5d53?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | Hybrid | Sep 05 |
-| **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (FAMU Spring 2026)](https://jobright.ai/jobs/info/68bb6a775f3832749186ef8f?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 05 |
-| ↳ | **[Sales/Operations Internship (Arizona State Spring 2026)](https://jobright.ai/jobs/info/68bb6a3e5f3832749186ef70?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Sep 05 |
+| **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (Arizona State Spring 2026)](https://jobright.ai/jobs/info/68bb6a3e5f3832749186ef70?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Sep 05 |
 | **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Morningstar Internship Program - Customer Success Intern (Campus)](https://jobright.ai/jobs/info/68bb69036105227d118a5c8e?utm_campaign=1051&utm_source=git)** | Chicago | Hybrid | Sep 05 |
+| **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Sales Professional Internship](https://jobright.ai/jobs/info/68bb68225f3832749186ee45?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | Hybrid | Sep 05 |
 | **[South Fork Bakery](https://www.southforkbakery.org)** | **[Development Intern](https://jobright.ai/jobs/info/68bc2f918043103d4f22e95c?utm_campaign=1051&utm_source=git)** | Southampton, NY | On Site | Sep 05 |
 | **[Apply Stickers](https://www.applystickers.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68bb5a5a5f3832749186eb09?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
 | **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/68bb57105f3832749186e931?utm_campaign=1051&utm_source=git)** | Columbus, Ohio | On Site | Sep 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Business Development Intern](https://jobright.ai/jobs/info/68bb4ba55f3832749186e1d6?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Sep 05 |
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Global Opportunities](https://jobright.ai/jobs/info/68bb4b705f3832749186e1a7?utm_campaign=1051&utm_source=git)** | Los Angeles | On Site | Sep 05 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern - Upper Extremities Sales - Boston, MA](https://jobright.ai/jobs/info/68bb4b596105227d118a4fd3?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts | On Site | Sep 05 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandising Part-time Co-op (January-June 2026)](https://jobright.ai/jobs/info/68bb4ae55f3832749186e120?utm_campaign=1051&utm_source=git)** | Framingham, MA 01701 | Hybrid | Sep 05 |
-| **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Morningstar Internship Program – Sales Intern (Campus)](https://jobright.ai/jobs/info/68bb4a096105227d118a4ecf?utm_campaign=1051&utm_source=git)** | Chicago | Hybrid | Sep 05 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
