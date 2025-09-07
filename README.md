@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3fdfaa4e875e828bd7b?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Sep 06 |
 | ↳ | **[Sales Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68a6cc00b6a3617d7fa7ac63?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b5faa4e875e828bc48?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Sep 06 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07efaa4e875e828bb9f?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b6cc9ee94dc911a6c0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68a00dbe83d13d1f5b6ccfed?utm_campaign=1051&utm_source=git)** | Queens, NY | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe089cc9ee94dc911a65d?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Sep 06 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68bc30236105227d118ac1f9?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Sep 06 |
 | ↳ | **[Paid Intern](https://jobright.ai/jobs/info/68bc301e6105227d118ac1f8?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Sep 06 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Pharmaceutical Sales Extern](https://jobright.ai/jobs/info/689fc6b6cc9ee94dc9119bbd?utm_campaign=1051&utm_source=git)** | Mettawa, IL | On Site | Sep 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689fbfa4cc9ee94dc911993e?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Sep 06 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/689fc4f583d13d1f5b6caed6?utm_campaign=1051&utm_source=git)** | Monona, WI | On Site | Sep 06 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Fall 2025 NYC Buying Intern](https://jobright.ai/jobs/info/68a9311fd627244576e382a4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[Competition Auto Group](http://www.competition-auto.com/)** | **[Intern - Sales Operations Analyst](https://jobright.ai/jobs/info/68bc1a885f3832749187503e?utm_campaign=1051&utm_source=git)** | St James, NY | On Site | Sep 06 |
@@ -105,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Chase Leadership Development Program - Summer Analyst Opportunity (New York Metro)](https://jobright.ai/jobs/info/6868090c35584b6542be86e8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[Biosearch Life, a Kerry Company](https://www.biosearchlife.es/en/work-with-us/)** | **[2026 Intern Program (Evergreen)](https://jobright.ai/jobs/info/68bc13a78043103d4f22e433?utm_campaign=1051&utm_source=git)** | Beloit, WI | On Site | Sep 06 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services Sales Undergraduate Internship](https://jobright.ai/jobs/info/68bbe9ca6105227d118ab10f?utm_campaign=1051&utm_source=git)** | Round Rock, TX | On Site | Sep 06 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Sales Intern (JAX)](https://jobright.ai/jobs/info/650c55cf7d0264e453313a19?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Sep 05 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - San Francisco](https://jobright.ai/jobs/info/68bd16aa68300c452ca18229?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Sep 05 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Ticket Sales & Services Apprentice - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/68bbbaef8043103d4f22ba82?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Sep 05 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) –Bakersfield, California (Starting Summer 2026)](https://jobright.ai/jobs/info/68bd11d73bf9eb44f83265e9?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | Hybrid | Sep 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68bb53a46105227d118a5477?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Sep 05 |
 | **[SET ACTIVE](https://setactive.co)** | **[E-Commerce Intern](https://jobright.ai/jobs/info/68bb4fef6105227d118a53b5?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Sep 05 |
 | **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Graduate](https://jobright.ai/jobs/info/68bb4af95f3832749186e134?utm_campaign=1051&utm_source=git)** | US, California, Folsom | On Site | Sep 05 |
-| ↳ | **[Sales and Marketing - Intern, Graduate](https://jobright.ai/jobs/info/68bb495e6105227d118a4e57?utm_campaign=1051&utm_source=git)** | US, California, Santa Clara | On Site | Sep 05 |
-| ↳ | **[Sales and Marketing - Intern, Graduate](https://jobright.ai/jobs/info/68bb4b2f6105227d118a4fad?utm_campaign=1051&utm_source=git)** | US, Oregon, Portland | On Site | Sep 05 |
-| ↳ | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68bb32e25f3832749186d173?utm_campaign=1051&utm_source=git)** | US, Oregon, Portland | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
