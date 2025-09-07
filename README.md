@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MuseData.ai](https://musedata.ai/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68bdc048df5eec448f63d481?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 07 |
-| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Development Intern](https://jobright.ai/jobs/info/68bda2b8c4c5904ff6003fc0?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Sep 07 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Sales Intern](https://jobright.ai/jobs/info/68bddc34c4c5904ff6004421?utm_campaign=1051&utm_source=git)** | Rogers, AR | Remote | Sep 07 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2026 Sales Analyst Student Experience](https://jobright.ai/jobs/info/68bdd680e57feb02eb0ac620?utm_campaign=1051&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68bdcebfe57feb02eb0ac569?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Sep 07 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68842f326fcd973d15ae61e3?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Sep 07 |
 | **[MathWorks](http://www.mathworks.com)** | **[Technical Sales Intern - Engineering Development Group (2027 Graduation)](https://jobright.ai/jobs/info/68bd72c1c4c5904ff60038b9?utm_campaign=1051&utm_source=git)** | Natick, MA | On Site | Sep 07 |
 | **[Metallus Inc.](https://metallus.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/68bd5c8dc4c5904ff6003693?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Sep 07 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6410](https://jobright.ai/jobs/info/68bc9c8f3bf9eb44f832452b?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Sep 06 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Winter 2026 NYC Buying Intern - Dec 25/May 26 Grads](https://jobright.ai/jobs/info/68bc8c0aae79610dacddbd4c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc776868300c452ca15a5a?utm_campaign=1051&utm_source=git)** | Eureka, SD | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6be83d13d1f5b6cbbc2?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Sep 06 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc684e68300c452ca158c1?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 06 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68bc676e3bf9eb44f8323f01?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 06 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68bc671dae79610dacddb8da?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 06 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/689f6ff8faa4e875e82873b2?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Sep 06 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – Sales Operations Analyst](https://jobright.ai/jobs/info/68b2e726f4e41a61efd88310?utm_campaign=1051&utm_source=git)** | Frisco, TX | Hybrid | Sep 06 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Chase Leadership Development Program - Summer Analyst Opportunity (New York Metro)](https://jobright.ai/jobs/info/6868090c35584b6542be86e8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
-| **[Biosearch Life, a Kerry Company](https://www.biosearchlife.es/en/work-with-us/)** | **[2026 Intern Program (Evergreen)](https://jobright.ai/jobs/info/68bc13a78043103d4f22e433?utm_campaign=1051&utm_source=git)** | Beloit, WI | On Site | Sep 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/682bc9ec117fd005084b9e07?utm_campaign=1051&utm_source=git)** | Sparks, NV | On Site | Sep 06 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410ac8?utm_campaign=1051&utm_source=git)** | Woodstock, GA | On Site | Sep 06 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/682bbeae600456e7f9e25e5e?utm_campaign=1051&utm_source=git)** | Stockton, CA | On Site | Sep 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[Supply Chain Solution Advisor Associate - SAP Academy for Customer Success, Newtown Square (HYBRID)](https://jobright.ai/jobs/info/68bb7ed95f3832749186f8f6?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 05 |
 | **[Sargento](http://www.sargento.com)** | **[Sales Food Service Ingredients Intern](https://jobright.ai/jobs/info/68bb7eb56105227d118a65f6?utm_campaign=1051&utm_source=git)** | Plymouth, WI | Hybrid | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 E-Commerce Intern](https://jobright.ai/jobs/info/68bb7eb56105227d118a65f7?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 05 |
-| **[SPX Technologies](http://www.spx.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/68bb7e7a6105227d118a65b6?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
