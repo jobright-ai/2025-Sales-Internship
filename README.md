@@ -57,25 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MuseData.ai](https://musedata.ai/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68bdc048df5eec448f63d481?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 07 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Development Intern](https://jobright.ai/jobs/info/68bda2b8c4c5904ff6003fc0?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Sep 07 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68842f326fcd973d15ae61e3?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Sep 07 |
-| **[MathWorks](http://www.mathworks.com)** | **[Technical Sales Intern - Engineering Development Group](https://jobright.ai/jobs/info/68bd72c1c4c5904ff60038b9?utm_campaign=1051&utm_source=git)** | Natick, MA | Hybrid | Sep 07 |
+| **[MathWorks](http://www.mathworks.com)** | **[Technical Sales Intern - Engineering Development Group (2027 Graduation)](https://jobright.ai/jobs/info/68bd72c1c4c5904ff60038b9?utm_campaign=1051&utm_source=git)** | Natick, MA | On Site | Sep 07 |
 | **[Metallus Inc.](https://metallus.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/68bd5c8dc4c5904ff6003693?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Sep 07 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Chase Leadership Development Program - Summer Analyst Opportunity (OH, DE, TX)](https://jobright.ai/jobs/info/686817e435584b654219db66?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 07 |
 | **[Allied HOA Partners](https://alliedlegacypartners.com/)** | **[Private Equity Intern (Fall 2025/Irvine, CA)](https://jobright.ai/jobs/info/68bd3c9cae79610dacddf3e1?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Sep 07 |
 | **[Turning the Page](http://www.turningthepage.org)** | **[Help out at a used book pop up sale at Howard University for the Annual International Black Writers](https://jobright.ai/jobs/info/68bcecbaae79610dacddc838?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Sep 06 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68bcba4a3bf9eb44f8324756?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Sep 06 |
 | **[Springfield Thunderbirds](http://www.springfieldthunderbirds.com)** | **[Ticket Sales Intern](https://jobright.ai/jobs/info/68bca4183bf9eb44f83245da?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Sep 06 |
 | **[Kahua](http://www.kahua.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68bc9c8f3bf9eb44f832452c?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Sep 06 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6410](https://jobright.ai/jobs/info/68bc9c8f3bf9eb44f832452b?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Sep 06 |
-| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/68bc93bb3bf9eb44f8324426?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Sep 06 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Winter 2026 NYC Buying Intern - Dec 25/May 26 Grads](https://jobright.ai/jobs/info/68bc8c0aae79610dacddbd4c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc776868300c452ca15a5a?utm_campaign=1051&utm_source=git)** | Eureka, SD | On Site | Sep 06 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc684e68300c452ca158c1?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 06 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68bc676e3bf9eb44f8323f01?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 06 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68bc671dae79610dacddb8da?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 06 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bc63c268300c452ca157ef?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 06 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bc5833ae79610dacddb74d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe384faa4e875e828bce7?utm_campaign=1051&utm_source=git)** | Waukegan, IL | On Site | Sep 06 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc5833ae79610dacddb74d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68bc581f68300c452ca15681?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe69dcc9ee94dc911a87e?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Sep 06 |
+| **[TeamViewer](https://www.teamviewer.com)** | **[Bilingual Sales Intern - Onsite at Office in Clearwater, FL](https://jobright.ai/jobs/info/689f78d783d13d1f5b6c85d5?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Sep 06 |
+| **[Marmon-Herrington](https://www.marmon-herrington.com/)** | **[Purchasing Agent Intern – Summer 2025](https://jobright.ai/jobs/info/684ad2f73426744c7507223b?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe088cc9ee94dc911a659?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | On Site | Sep 06 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/684fa3101b8947024caa2d5c?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0a483d13d1f5b6cb9af?utm_campaign=1051&utm_source=git)** | Wayne, NJ | On Site | Sep 06 |
@@ -93,7 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe087faa4e875e828bbc9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6b8faa4e875e828bdd8?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6aecc9ee94dc911a8cc?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Sep 06 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0bcfaa4e875e828bc5f?utm_campaign=1051&utm_source=git)** | Langhorne, PA | On Site | Sep 06 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - New England & Capital District,](https://jobright.ai/jobs/info/689f7d5583d13d1f5b6c87b2?utm_campaign=1051&utm_source=git)** | South Windsor, CT | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0bcfaa4e875e828bc5f?utm_campaign=1051&utm_source=git)** | Langhorne, PA | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3fdfaa4e875e828bd7b?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Sep 06 |
 | ↳ | **[Sales Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68a6cc00b6a3617d7fa7ac63?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b5faa4e875e828bc48?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Sep 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sargento](http://www.sargento.com)** | **[Sales Food Service Ingredients Intern](https://jobright.ai/jobs/info/68bb7eb56105227d118a65f6?utm_campaign=1051&utm_source=git)** | Plymouth, WI | Hybrid | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 E-Commerce Intern](https://jobright.ai/jobs/info/68bb7eb56105227d118a65f7?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 05 |
 | **[SPX Technologies](http://www.spx.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/68bb7e7a6105227d118a65b6?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Sep 05 |
-| **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (Arizona State Spring 2026)](https://jobright.ai/jobs/info/68bb7b0c8043103d4f228f0e?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Sep 05 |
-| **[Continental Automotive Trading France SAS](https://continental.com/)** | **[Intern - Sales, Summer 2026 - PLTJob ID: REF89185P](https://jobright.ai/jobs/info/68bb78cf5f3832749186f680?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Sep 05 |
-| **[Baker Hughes](https://www.bakerhughes.com/)** | **[Sourcing - Spring Co-op Internship (Houston, TX) 2026 Opportunities](https://jobright.ai/jobs/info/68bb78a86105227d118a6388?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 05 |
-| **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (FAMU Spring 2026)](https://jobright.ai/jobs/info/68bb77555f3832749186f4e3?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 05 |
-| **[National Church Residences](https://www.nationalchurchresidences.org/)** | **[Intern, Real Estate Development](https://jobright.ai/jobs/info/68bb75978043103d4f228c76?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
-| **[Continental Automotive Trading France SAS](https://continental.com/)** | **[Intern - Sales, Summer 2026 - Truck TireJob ID: REF89297H](https://jobright.ai/jobs/info/68bb72546105227d118a6097?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
