@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Page closed](http://www.doosanbobcat.com/)** | **[2026 Sales Analyst Student Experience](https://jobright.ai/jobs/info/68be11dddf5eec448f63da60?utm_campaign=1051&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68bdfc52df5eec448f63d95b?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Sep 07 |
 | ↳ | **[Paid Intern](https://jobright.ai/jobs/info/68bdfba5e57feb02eb0ac8c1?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 07 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/68bdf440df5eec448f63d895?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 07 |
@@ -70,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Turning the Page](http://www.turningthepage.org)** | **[Help out at a used book pop up sale at Howard University for the Annual International Black Writers](https://jobright.ai/jobs/info/68bcecbaae79610dacddc838?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Sep 06 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68bcba4a3bf9eb44f8324756?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Sep 06 |
 | **[Springfield Thunderbirds](http://www.springfieldthunderbirds.com)** | **[Ticket Sales Intern](https://jobright.ai/jobs/info/68bca4183bf9eb44f83245da?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07dcc9ee94dc911a634?utm_campaign=1051&utm_source=git)** | Monroeville, PA | On Site | Sep 06 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe097cc9ee94dc911a67e?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Sep 06 |
 | **[Kahua](http://www.kahua.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68bc9c8f3bf9eb44f832452c?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Sep 06 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6410](https://jobright.ai/jobs/info/68bc9c8f3bf9eb44f832452b?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Sep 06 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Winter 2026 NYC Buying Intern - Dec 25/May 26 Grads](https://jobright.ai/jobs/info/68bc8c0aae79610dacddbd4c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Competition Auto Group](http://www.competition-auto.com/)** | **[Intern - Sales Operations Analyst](https://jobright.ai/jobs/info/68bb86bd8043103d4f2293d7?utm_campaign=1051&utm_source=git)** | Mercedes Benz of Smithtown | On Site | Sep 05 |
 | **[CAC Group](https://cacgroup.com)** | **[CAC Agency Summer Internship 2026 (Birmingham)](https://jobright.ai/jobs/info/68bb85965f3832749186fc87?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Sep 05 |
 | **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68bb84f35f3832749186fbd8?utm_campaign=1051&utm_source=git)** | Folsom, CA | On Site | Sep 05 |
-| **[SPX Technologies](http://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68bb82d28043103d4f229310?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Sep 05 |
-| **[Norfolk Southern](https://www.nscorp.com)** | **[Spring 2026 Account Analyst Intern - Revenue](https://jobright.ai/jobs/info/68bb80ca8043103d4f229106?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 05 |
-| **[SPX Technologies](http://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68bb80266105227d118a66f6?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
