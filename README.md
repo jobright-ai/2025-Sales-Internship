@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Page closed](http://www.doosanbobcat.com/)** | **[2026 Sales Analyst Student Experience](https://jobright.ai/jobs/info/68be11dddf5eec448f63da60?utm_campaign=1051&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
+| **[Tallgrass](https://tallgrass.com/)** | **[Intern-Commercial Development](https://jobright.ai/jobs/info/68be34a0e57feb02eb0acd39?utm_campaign=1051&utm_source=git)** | Lakewood, CO | Hybrid | Sep 07 |
+| **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative Internship](https://jobright.ai/jobs/info/68be1fafdf5eec448f63db1a?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 07 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68bdfc52df5eec448f63d95b?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Sep 07 |
 | ↳ | **[Paid Intern](https://jobright.ai/jobs/info/68bdfba5e57feb02eb0ac8c1?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 07 |
+| **[Page closed](http://www.doosanbobcat.com/)** | **[2026 Sales Analyst Student Experience](https://jobright.ai/jobs/info/68be11dddf5eec448f63da60?utm_campaign=1051&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/68bdf440df5eec448f63d895?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Great River Learning](http://greatriverlearning.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68bdedaec4c5904ff6004536?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Sep 07 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Sales Intern](https://jobright.ai/jobs/info/68bddc34c4c5904ff6004421?utm_campaign=1051&utm_source=git)** | Rogers, AR | Remote | Sep 07 |
@@ -70,6 +72,8 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Chase Leadership Development Program - Summer Analyst Opportunity (OH, DE, TX)](https://jobright.ai/jobs/info/686817e435584b654219db66?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 07 |
 | **[Turning the Page](http://www.turningthepage.org)** | **[Help out at a used book pop up sale at Howard University for the Annual International Black Writers](https://jobright.ai/jobs/info/68bcecbaae79610dacddc838?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Sep 06 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68bcba4a3bf9eb44f8324756?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Remote | Sep 06 |
+| **[Legends](http://legends.net)** | **[Retail Operations Internship, IU Bloomington](https://jobright.ai/jobs/info/682e71d0a356a58cf6607187?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe08983d13d1f5b6cb984?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 06 |
 | **[Springfield Thunderbirds](http://www.springfieldthunderbirds.com)** | **[Ticket Sales Intern](https://jobright.ai/jobs/info/68bca4183bf9eb44f83245da?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07dcc9ee94dc911a634?utm_campaign=1051&utm_source=git)** | Monroeville, PA | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe097cc9ee94dc911a67e?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Sep 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Abbott](https://www.abbott.com)** | **[Abbott Nutrition Consumer Sales Internship Summer 2026](https://jobright.ai/jobs/info/68af0ae37bcb7608b3d2a97e?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern - Upper Extremities Sales - Boston, MA](https://jobright.ai/jobs/info/68bb8b1b5f383274918700be?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
 | **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68bb899f8043103d4f229875?utm_campaign=1051&utm_source=git)** | Folsom, CA | On Site | Sep 05 |
-| ↳ | **[Sales and Marketing - Intern, Graduate](https://jobright.ai/jobs/info/68bb898e8043103d4f22985e?utm_campaign=1051&utm_source=git)** | Folsom, CA | On Site | Sep 05 |
-| **[Competition Auto Group](http://www.competition-auto.com/)** | **[Intern - Sales Operations Analyst](https://jobright.ai/jobs/info/68bb86bd8043103d4f2293d7?utm_campaign=1051&utm_source=git)** | Mercedes Benz of Smithtown | On Site | Sep 05 |
-| **[CAC Group](https://cacgroup.com)** | **[CAC Agency Summer Internship 2026 (Birmingham)](https://jobright.ai/jobs/info/68bb85965f3832749186fc87?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Sep 05 |
-| **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68bb84f35f3832749186fbd8?utm_campaign=1051&utm_source=git)** | Folsom, CA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
