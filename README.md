@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western Region)](https://jobright.ai/jobs/info/68beb287e57feb02eb0af8f1?utm_campaign=1051&utm_source=git)** | Glendale, CO, United States | On Site | Sep 08 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Store Development](https://jobright.ai/jobs/info/68bea1e33d31ec76b7e8b26d?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
 | **[ALLDATA](http://www.alldata.com/)** | **[AutoZone 2026 Summer Internship – Store Development](https://jobright.ai/jobs/info/68bea1abe57feb02eb0af4f7?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Store Operations](https://jobright.ai/jobs/info/68be9e273d31ec76b7e8b227?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
@@ -82,7 +83,8 @@ For a complete list, click the following sortable link below:
 | **[MathWorks](http://www.mathworks.com)** | **[Technical Sales Intern - Engineering Development Group](https://jobright.ai/jobs/info/68bd72c1c4c5904ff60038b9?utm_campaign=1051&utm_source=git)** | Natick, MA | Hybrid | Sep 07 |
 | **[Metallus Inc.](https://metallus.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/68bd5c8dc4c5904ff6003693?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Sep 07 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Chase Leadership Development Program - Summer Analyst Opportunity (OH, DE, TX)](https://jobright.ai/jobs/info/686817e435584b654219db66?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 07 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b6cc9ee94dc911a6bf?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Sep 07 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe08883d13d1f5b6cb97d?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 07 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b6cc9ee94dc911a6bf?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Sep 07 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0ddfaa4e875e828bc98?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Sep 06 |
 | ↳ | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c4faa4e875e828bc72?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68a00dc583d13d1f5b6cd014?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Sep 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689fbfa4cc9ee94dc911993e?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Sep 06 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/689fc4f583d13d1f5b6caed6?utm_campaign=1051&utm_source=git)** | Monona, WI | On Site | Sep 06 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Fall 2025 NYC Buying Intern](https://jobright.ai/jobs/info/68a9311fd627244576e382a4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 06 |
-| **[Competition Auto Group](http://www.competition-auto.com/)** | **[Intern - Sales Operations Analyst](https://jobright.ai/jobs/info/68bc1a885f3832749187503e?utm_campaign=1051&utm_source=git)** | St James, NY | On Site | Sep 06 |
-| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/689f6ff8faa4e875e82873b2?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
