@@ -57,6 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Commercial Sales Intern, West Region – Summer 2026](https://jobright.ai/jobs/info/68bf69175c5d5f14f46d6ad1?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 08 |
+| **[Meijer](https://www.meijer.com/)** | **[Corporate Store Experience Intern- Summer 2026](https://jobright.ai/jobs/info/68bf68b38e65e77df55b9f8e?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 08 |
+| **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Global Opportunities](https://jobright.ai/jobs/info/68bf6854702aa35207aa622b?utm_campaign=1051&utm_source=git)** | Los Angeles | On Site | Sep 08 |
+| **[SAYN](https://saynbeauty.com)** | **[E-Commerce Internship](https://jobright.ai/jobs/info/68bf6809702aa35207aa61a9?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Sep 08 |
+| **[Henkel](http://www.henkel.com)** | **[Commercial Sales Intern, B2B - Summer 2026](https://jobright.ai/jobs/info/68bf6803702aa35207aa61a1?utm_campaign=1051&utm_source=git)** | Stamford, CT | Hybrid | Sep 08 |
+| ↳ | **[Commercial Sales Intern, Central Region – Summer 2026](https://jobright.ai/jobs/info/68bf66425c5d5f14f46d682f?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 08 |
+| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68bf6635702aa35207aa5f92?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 08 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Lexington, KY (Starting Summer 2026)](https://jobright.ai/jobs/info/68bf6621702aa35207aa5f7c?utm_campaign=1051&utm_source=git)** | Lexington, KY | Hybrid | Sep 08 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) -Greater Denver, CO(Starting Summer 2026)](https://jobright.ai/jobs/info/68bf658c8e65e77df55b9e70?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Sep 08 |
+| **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Global Opportunities](https://jobright.ai/jobs/info/68bf65078e65e77df55b9e01?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 08 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - East Kansas City, MO (Starting Summer 2026)](https://jobright.ai/jobs/info/68bf63138e65e77df55b9bda?utm_campaign=1051&utm_source=git)** | Independence, MO | Hybrid | Sep 08 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - West St Louis, MO (Starting Summer 2026)](https://jobright.ai/jobs/info/68bf5fb7702aa35207aa5bf8?utm_campaign=1051&utm_source=git)** | Chesterfield, MO | Hybrid | Sep 08 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - West Kansas City, MO (Starting Summer 2026)](https://jobright.ai/jobs/info/68bf5efb702aa35207aa5b28?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Sep 08 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Sales Analyst - Grocery](https://jobright.ai/jobs/info/68bf5ac75c5d5f14f46d6320?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 08 |
+| **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Insurance Officer - Intern](https://jobright.ai/jobs/info/68bf59878e65e77df55b98e2?utm_campaign=1051&utm_source=git)** | Perry, IA | On Site | Sep 08 |
+| **[Santander México](http://www.santander.com.mx/)** | **[Dealer Commercial Services Intern](https://jobright.ai/jobs/info/68bf58f98e65e77df55b982a?utm_campaign=1051&utm_source=git)** | Dallas | On Site | Sep 08 |
+| **[ChampionX Emissions Technologies](https://www.scientificaviation.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68bf58eb8e65e77df55b981b?utm_campaign=1051&utm_source=git)** | USA - North Dakota - Williston | On Site | Sep 08 |
+| ↳ | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68bf5854702aa35207aa5826?utm_campaign=1051&utm_source=git)** | USA - Utah - Vernal | On Site | Sep 08 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Cattle Sales - Intern](https://jobright.ai/jobs/info/68bf57f45c5d5f14f46d6193?utm_campaign=1051&utm_source=git)** | USA - Kansas - Lenexa | Hybrid | Sep 08 |
+| **[ChampionX Emissions Technologies](https://www.scientificaviation.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68bf57d05c5d5f14f46d6177?utm_campaign=1051&utm_source=git)** | USA - North Dakota - Dickinson | On Site | Sep 08 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Cattle Sales - Intern](https://jobright.ai/jobs/info/68bf57b4702aa35207aa57bc?utm_campaign=1051&utm_source=git)** | USA - New York - Schenectady | Hybrid | Sep 08 |
+| **[Alphalete Marketing](https://alphaletemarketing.com)** | **[Sales and Marketing Trainee](https://jobright.ai/jobs/info/68bf4fa35c5d5f14f46d5fb3?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Sep 08 |
 | **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Insurance Officer - Intern](https://jobright.ai/jobs/info/68bf4f30702aa35207aa55fc?utm_campaign=1051&utm_source=git)** | Jamestown, ND | On Site | Sep 08 |
 | ↳ | **[Insurance Officer - Intern](https://jobright.ai/jobs/info/68bf4edd5c5d5f14f46d5f4c?utm_campaign=1051&utm_source=git)** | Aberdeen, SD | On Site | Sep 08 |
 | **[Oxy](https://www.oxy.com)** | **[Sales Intern (Chemicals Business)](https://jobright.ai/jobs/info/68bf4df18e65e77df55b942d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 08 |
@@ -121,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bf29ec8e65e77df55b7abf?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | Hybrid | Sep 08 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf29e48e65e77df55b7aad?utm_campaign=1051&utm_source=git)** | Rockford, IL | Hybrid | Sep 08 |
 | **[AgCertain Industries, Inc.](https://www.agcertain.com/)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/68bf29a7702aa35207aa3ca9?utm_campaign=1051&utm_source=git)** | Ames, IA, USA | On Site | Sep 08 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bf29738e65e77df55b79cd?utm_campaign=1051&utm_source=git)** | Killeen, TX | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf29738e65e77df55b79ce?utm_campaign=1051&utm_source=git)** | Deltona, FL | Hybrid | Sep 08 |
+| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bf29738e65e77df55b79ce?utm_campaign=1051&utm_source=git)** | Deltona, FL | Hybrid | Sep 08 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf29738e65e77df55b79cd?utm_campaign=1051&utm_source=git)** | Killeen, TX | Hybrid | Sep 08 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Relationship Banking Intern](https://jobright.ai/jobs/info/68bf292e5c5d5f14f46d4587?utm_campaign=1051&utm_source=git)** | Fishers, IN, USA | On Site | Sep 08 |
 | **[ServerHub](http://www.serverhub.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bf29185c5d5f14f46d456b?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 08 |
 | **[City Bank](https://www.city.bank/)** | **[Loan Operations Intern](https://jobright.ai/jobs/info/68bf28c35c5d5f14f46d450a?utm_campaign=1051&utm_source=git)** | Lubbock, TX, USA | On Site | Sep 08 |
@@ -135,26 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf2739702aa35207aa3913?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Hybrid | Sep 08 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf271d5c5d5f14f46d4249?utm_campaign=1051&utm_source=git)** | Garland, TX | Hybrid | Sep 08 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf2712702aa35207aa38e4?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf270f5c5d5f14f46d4243?utm_campaign=1051&utm_source=git)** | Brownsville, TX | Hybrid | Sep 08 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 MBA Summer Intern - Account Manager, US - PIMCO](https://jobright.ai/jobs/info/68bf27005c5d5f14f46d4235?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 08 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bf26fd702aa35207aa38ba?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf26f65c5d5f14f46d421b?utm_campaign=1051&utm_source=git)** | Columbus, GA | Hybrid | Sep 08 |
-| **[Mercury Marine](http://mercurymarine.com/)** | **[Category Intern](https://jobright.ai/jobs/info/68bf26f2702aa35207aa389c?utm_campaign=1051&utm_source=git)** | Fond du Lac, WI | On Site | Sep 08 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68bf26f2702aa35207aa389b?utm_campaign=1051&utm_source=git)** | US, Remote | Remote | Sep 08 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bf26d6702aa35207aa386a?utm_campaign=1051&utm_source=git)** | Rock Hill, SC | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf26d0702aa35207aa385d?utm_campaign=1051&utm_source=git)** | Youngstown, OH | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf26c0702aa35207aa384b?utm_campaign=1051&utm_source=git)** | Appleton, WI | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf2690702aa35207aa3807?utm_campaign=1051&utm_source=git)** | Gilbert, AZ | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf2653702aa35207aa37a7?utm_campaign=1051&utm_source=git)** | Lincoln, NE | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf2653702aa35207aa37a8?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf26515c5d5f14f46d413c?utm_campaign=1051&utm_source=git)** | Norfolk, VA | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf26515c5d5f14f46d413d?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | Hybrid | Sep 08 |
-| **[Nicolet National Bank](http://nicoletbank.com)** | **[Retail Intern - Summer 2026](https://jobright.ai/jobs/info/68bf26515c5d5f14f46d413e?utm_campaign=1051&utm_source=git)** | Marquette, MI | On Site | Sep 08 |
-| **[West Hive Capital](https://westhivecapital.com)** | **[Development Intern](https://jobright.ai/jobs/info/68bf4710702aa35207aa5001?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Sep 08 |
-| **[First Internet Bank](https://www.firstib.com)** | **[Fintech Partnerships Intern](https://jobright.ai/jobs/info/68bf26228e65e77df55b7663?utm_campaign=1051&utm_source=git)** | Fishers, IN, USA | On Site | Sep 08 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bf26175c5d5f14f46d4103?utm_campaign=1051&utm_source=git)** | Laredo, TX | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf2617702aa35207aa3772?utm_campaign=1051&utm_source=git)** | Peoria, IL | Hybrid | Sep 08 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68bf2617702aa35207aa3773?utm_campaign=1051&utm_source=git)** | Savannah, GA | Hybrid | Sep 08 |
-| **[NetWorth Realty USA](http://networthrealtyusa.com)** | **[Office Internship - NetWorth Realty of Milwaukee](https://jobright.ai/jobs/info/68bf26108e65e77df55b763f?utm_campaign=1051&utm_source=git)** | Milwaukee, IL | On Site | Sep 08 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bf25f08e65e77df55b761a?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | Hybrid | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
