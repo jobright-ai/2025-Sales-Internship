@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Subcontracts Administrator Associate (Intern)](https://jobright.ai/jobs/info/68bfb13b5c5d5f14f46d9340?utm_campaign=1051&utm_source=git)** | USA VA Falls Church | Hybrid | Sep 08 |
+| **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Sales Operations Intern - GPSU/SW (Pacific/Mountain)](https://jobright.ai/jobs/info/68bfa690702aa35207aa8428?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 08 |
 | **[Core Spaces](https://corespaces.com/)** | **[Intern, Student Housing Acquisitions](https://jobright.ai/jobs/info/68bfa30e8e65e77df55bc1c1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Business Analyst Intern, Retail Sales](https://jobright.ai/jobs/info/68bf9c21702aa35207aa7d5a?utm_campaign=1051&utm_source=git)** | Cary, NC | Remote | Sep 08 |
 | **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (Lansing)- Summer 2026](https://jobright.ai/jobs/info/68bf9a725c5d5f14f46d8441?utm_campaign=1051&utm_source=git)** | Okemos, MI | On Site | Sep 08 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Services Sales Intern](https://jobright.ai/jobs/info/68bf98e68e65e77df55bbbd8?utm_campaign=1051&utm_source=git)** | Aaronsburg, PA | On Site | Sep 08 |
-| **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (Kalamazoo)- Summer 2026](https://jobright.ai/jobs/info/68bf97968e65e77df55bb9c1?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Sep 08 |
+| ↳ | **[Retail Management Intern (Kalamazoo)- Summer 2026](https://jobright.ai/jobs/info/68bf97968e65e77df55bb9c1?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Sep 08 |
 | **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Sales Intern Summer 2026](https://jobright.ai/jobs/info/68bf92c38e65e77df55bb731?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Sep 08 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68bf8c548e65e77df55bb50d?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 08 |
 | **[Mastercard](http://www.mastercard.com)** | **[Sales Analyst Intern, Summer 2026 - New York](https://jobright.ai/jobs/info/68bf8b1c8e65e77df55bb40c?utm_campaign=1051&utm_source=git)** | Purchase, NY | Hybrid | Sep 08 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Sales Intern Summer 2026](https://jobright.ai/jobs/info/68bf84f38e65e77df55bb0e2?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 08 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - GM Envolve Sales Enablement Rental](https://jobright.ai/jobs/info/68bf83fd8e65e77df55bafe0?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Sep 08 |
 | **[Texas Instruments](http://www.ti.com)** | **[Sales Engineering Intern (Waltham, MA)](https://jobright.ai/jobs/info/68bf830c5c5d5f14f46d79be?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Sep 08 |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Services Sales Intern](https://jobright.ai/jobs/info/68bfa9f65c5d5f14f46d8e0d?utm_campaign=1051&utm_source=git)** | Aaronsburg, PA | On Site | Sep 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Sales Intern - Columbus, OH](https://jobright.ai/jobs/info/68bf81f7702aa35207aa6f70?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 08 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - GM Envolve OnStar Sales and Operations](https://jobright.ai/jobs/info/68bf7fa18e65e77df55baea8?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Sep 08 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Cattle Sales - Intern](https://jobright.ai/jobs/info/68bf7f728e65e77df55bae79?utm_campaign=1051&utm_source=git)** | Lenexa, KS | Hybrid | Sep 08 |
@@ -104,7 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Fisher Investments](https://www.fisherinvestments.com/en-us)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/68bf71db702aa35207aa6546?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Sep 08 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Sales Intern - Maryland Heights, MO](https://jobright.ai/jobs/info/68bf70358e65e77df55ba3ba?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Sep 08 |
 | **[Barclays](https://home.barclays)** | **[Banking Associate Summer Internship Program 2026 San Francisco](https://jobright.ai/jobs/info/68bf6ed15c5d5f14f46d6dbc?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Sep 08 |
-| ↳ | **[Banking Associate Summer Internship Program 2026 Chicago](https://jobright.ai/jobs/info/68bf6da6702aa35207aa63fb?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
+| **[TRC Advisory](https://www.trcadvisory.com/)** | **[Undergrad Summer Intern 2026](https://jobright.ai/jobs/info/68bfb77e5c5d5f14f46d953e?utm_campaign=1051&utm_source=git)** | Chicago (w/ Travel) | On Site | Sep 08 |
+| **[Barclays](https://home.barclays)** | **[Banking Associate Summer Internship Program 2026 Chicago](https://jobright.ai/jobs/info/68bf6da6702aa35207aa63fb?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
 | ↳ | **[Banking Associate Summer Internship Program 2026 New York](https://jobright.ai/jobs/info/68bf6ce75c5d5f14f46d6bf7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 08 |
 | ↳ | **[Banking Associate Summer Internship Program 2026 Houston](https://jobright.ai/jobs/info/68bf6cdb702aa35207aa6366?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 08 |
 | **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Sales Enablement - Summer 2026](https://jobright.ai/jobs/info/68bfa14d702aa35207aa814f?utm_campaign=1051&utm_source=git)** | Muscatine, IA | Hybrid | Sep 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[SaaS Sales Internship- Summer 2026](https://jobright.ai/jobs/info/68bf3f685c5d5f14f46d546f?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Sep 08 |
 | **[AgCertain Industries, Inc.](https://www.agcertain.com/)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/68bf3e688e65e77df55b8a2a?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Sep 08 |
 | **[RF-SMART](http://rfsmart.com/)** | **[SaaS Sales Internship- Summer 2026](https://jobright.ai/jobs/info/68bf3e5e5c5d5f14f46d5376?utm_campaign=1051&utm_source=git)** | Jacksonville, Florida, United States | On Site | Sep 08 |
-| **[Hussmann](http://www.hussmann.com)** | **[Intern - Sales](https://jobright.ai/jobs/info/68bf3cb48e65e77df55b886e?utm_campaign=1051&utm_source=git)** | Bridgeton, MO | On Site | Sep 08 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bf38ab5c5d5f14f46d5198?utm_campaign=1051&utm_source=git)** | College Station, TX | Hybrid | Sep 08 |
-| **[Arity](http://www.arity.com)** | **[Arity - Sales Engineer Intern - Arity](https://jobright.ai/jobs/info/68bf37ac5c5d5f14f46d5069?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
