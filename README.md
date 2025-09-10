@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Purchasing Intern- Summer 2026- Farmington Hills, MI](https://jobright.ai/jobs/info/68c133783fd8b059a20eeddd?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | On Site | Sep 10 |
 | **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Field Sales Intern - National Accounts](https://jobright.ai/jobs/info/68c129d5233c7d3e64d007f0?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2026 Small Business Banking, Healthcare Loan Production Intern](https://jobright.ai/jobs/info/68c1294f3fd8b059a20ee799?utm_campaign=1051&utm_source=git)** | Greater Wilmington Area | On Site | Sep 10 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68c124773fd8b059a20ee522?utm_campaign=1051&utm_source=git)** | Boise | On Site | Sep 10 |
@@ -70,15 +71,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Long Beach, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/68c115e6702aa35207ab3475?utm_campaign=1051&utm_source=git)** | Signal Hill, CA | Hybrid | Sep 09 |
 | **[Puro Climate](www.puro-climate.org)** | **[Account Executive](https://jobright.ai/jobs/info/68c1140f8e65e77df55c7441?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Sep 09 |
 | **[MongoDB](https://www.mongodb.com/)** | **[Sales Development Intern - Summer 2026](https://jobright.ai/jobs/info/68c113bb5c5d5f14f46e3c56?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 09 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Relationship Manager Resource Analyst Co-Op](https://jobright.ai/jobs/info/68c13475233c7d3e64d00d9d?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Sep 09 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[Global Material Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68c111be5c5d5f14f46e3c1b?utm_campaign=1051&utm_source=git)** | Chaska | On Site | Sep 09 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) -  South Orange County, CA (Starting Summer 2026](https://jobright.ai/jobs/info/68c10e895c5d5f14f46e3ae6?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | Hybrid | Sep 09 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Diego North County, CA (Starting Summer 2026](https://jobright.ai/jobs/info/68c10ddd5c5d5f14f46e3a2d?utm_campaign=1051&utm_source=git)** | Escondido, CA | Hybrid | Sep 09 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - San Diego Metro, CA (Starting Summer 2026](https://jobright.ai/jobs/info/68c10d835c5d5f14f46e39dd?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Sep 09 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Murrieta, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/68c142fb233c7d3e64d010ab?utm_campaign=1051&utm_source=git)** | Murrieta, CA | Hybrid | Sep 09 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Anaheim, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/68c123e74d652f0447755f81?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Hybrid | Sep 09 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Torrance, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/68c135d24d652f0447756b29?utm_campaign=1051&utm_source=git)** | Torrance, CA | Hybrid | Sep 09 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Fullerton, CA (Starting Summer 2026](https://jobright.ai/jobs/info/68c122e63fd8b059a20ee375?utm_campaign=1051&utm_source=git)** | Fullerton, CA | Hybrid | Sep 09 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Pico Rivera, CA (Starting Summer 2026](https://jobright.ai/jobs/info/68c1232b3fd8b059a20ee3c1?utm_campaign=1051&utm_source=git)** | Pico Rivera, CA | Hybrid | Sep 09 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Riverside, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/68c120c8233c7d3e64d00086?utm_campaign=1051&utm_source=git)** | Riverside, CA | Hybrid | Sep 09 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Fullerton, CA (Starting Summer 2026](https://jobright.ai/jobs/info/68c122e63fd8b059a20ee375?utm_campaign=1051&utm_source=git)** | Fullerton, CA | Hybrid | Sep 09 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Honolulu, Hawaii (Starting Summer 2026](https://jobright.ai/jobs/info/68c1205c4d652f0447755c84?utm_campaign=1051&utm_source=git)** | Honolulu, HI | Hybrid | Sep 09 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Anaheim, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/68c123e74d652f0447755f81?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | Hybrid | Sep 09 |
 | **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2026 Small Business Banking, Healthcare Loan Production Intern](https://jobright.ai/jobs/info/68c100d15c5d5f14f46e3146?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Sep 09 |
 | **[Arch Aerial](http://archaerial.com)** | **[Sales Internship (Summer 2025)](https://jobright.ai/jobs/info/68c0f361702aa35207ab1f35?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 09 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Business Intern- Raleigh](https://jobright.ai/jobs/info/68c0f31c702aa35207ab1f07?utm_campaign=1051&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | Sep 09 |
@@ -109,10 +113,10 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[2026 Summer Internship Program - Commercial Banking (ABL-Franchise Finance)](https://jobright.ai/jobs/info/68c0cfef8e65e77df55c4bec?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts | On Site | Sep 09 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[Universal Banking Intern](https://jobright.ai/jobs/info/68c0cf8e702aa35207ab0b44?utm_campaign=1051&utm_source=git)** | Brookings, SD | On Site | Sep 09 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Intern/Student](https://jobright.ai/jobs/info/68c0cdba8e65e77df55c4966?utm_campaign=1051&utm_source=git)** | Vandalia, OH | On Site | Sep 09 |
+| **[Agilent Technologies](http://www.agilent.com)** | **[Services Sales Intern](https://jobright.ai/jobs/info/68c13547233c7d3e64d00e24?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | Sep 09 |
 | **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Field Sales Intern - Northeast Region](https://jobright.ai/jobs/info/68c0cd3e8e65e77df55c4886?utm_campaign=1051&utm_source=git)** | Iselin, NJ | Hybrid | Sep 09 |
 | **[Capital Group](https://www.capitalgroup.com/us/landing-pages/linkedin-terms-of-use.html)** | **[CAMPUS: Internal Sales (SLATE) Summer Associate (2026)](https://jobright.ai/jobs/info/68c0ccc98e65e77df55c4802?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 09 |
 | **[Extensiv](https://www.extensiv.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68c0cc858e65e77df55c47b0?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 09 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Services Sales Intern](https://jobright.ai/jobs/info/68c12b84233c7d3e64d0097f?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | Sep 09 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Commercial Development Intern - U.S. Energy (Appleton)](https://jobright.ai/jobs/info/68c0ca4d5c5d5f14f46e1099?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Sep 09 |
 | **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/68c0c9af702aa35207ab0760?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | Hybrid | Sep 09 |
 | **[Athlete To Athlete](https://athletetoathlete.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c0c7935c5d5f14f46e0e3c?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Sep 09 |
@@ -129,9 +133,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68c09e1b8e65e77df55c3249?utm_campaign=1051&utm_source=git)** | Buffalo Grove, IL | Hybrid | Sep 09 |
 | ↳ | **[2026 – Customer Development Co-op (Multiple Openings)](https://jobright.ai/jobs/info/68c09e398e65e77df55c3263?utm_campaign=1051&utm_source=git)** | Buffalo Grove, IL | Hybrid | Sep 09 |
 | ↳ | **[2026 – Customer Development Co-op (Multiple Openings)](https://jobright.ai/jobs/info/68c09fc85c5d5f14f46dfc65?utm_campaign=1051&utm_source=git)** | Summit, NJ | Hybrid | Sep 09 |
+| ↳ | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68c0a5628e65e77df55c36ba?utm_campaign=1051&utm_source=git)** | Cumberland, RI | Hybrid | Sep 09 |
 | ↳ | **[2026 – Customer Development Co-op (Multiple Openings)](https://jobright.ai/jobs/info/68c0a0e45c5d5f14f46dfdf2?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 09 |
 | ↳ | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68c0a13c5c5d5f14f46dfe66?utm_campaign=1051&utm_source=git)** | Summit, NJ | Hybrid | Sep 09 |
-| ↳ | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68c0a5628e65e77df55c36ba?utm_campaign=1051&utm_source=git)** | Cumberland, RI | Hybrid | Sep 09 |
 | **[Digital Power Corporation](https://digipwr.com/)** | **[Sales Development Intern – Power Supplies Division](https://jobright.ai/jobs/info/68c0b4f95c5d5f14f46e060b?utm_campaign=1051&utm_source=git)** | Milpitas, CA | Hybrid | Sep 09 |
 | **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/68c0b4825c5d5f14f46e05b5?utm_campaign=1051&utm_source=git)** | Hollywood, CA | On Site | Sep 09 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Columbus, OH (Starting Summer 2026)](https://jobright.ai/jobs/info/68c0b2fb702aa35207aafbe1?utm_campaign=1051&utm_source=git)** | Columbus, OH | Hybrid | Sep 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenvue](https://www.kenvue.com)** | **[2026 – Customer Development Co-op (Multiple Openings)](https://jobright.ai/jobs/info/68c09ba2702aa35207aaf272?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 09 |
 | ↳ | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68c09ab95c5d5f14f46dfa38?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 09 |
 | **[Greystone](https://www.greystone.com)** | **[Summer 2026: Agency Lending Internship](https://jobright.ai/jobs/info/68c09925702aa35207aaefe7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| **[Kenvue](https://www.kenvue.com)** | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68c098e35c5d5f14f46df8b6?utm_campaign=1051&utm_source=git)** | Rogers, AR | Hybrid | Sep 09 |
-| **[Aginsky Capital Group, LLC](https://www.aginskycapital.com)** | **[Intern - Business Management](https://jobright.ai/jobs/info/68c0989a8e65e77df55c3053?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Sep 09 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6114](https://jobright.ai/jobs/info/68c096808e65e77df55c2ec2?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Sep 09 |
-| **[CNH](http://www.cnhindustrial.com)** | **[New Holland Sales Operations Summer Intern](https://jobright.ai/jobs/info/68b561c11ade4306aa641977?utm_campaign=1051&utm_source=git)** | New Holland, PA | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
