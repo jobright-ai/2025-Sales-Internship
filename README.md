@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Internship Program – Sales Intern (Campus)](https://jobright.ai/jobs/info/68c2587c63b706703e11434e?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
+| **[H15DEN](https://h15den.com)** | **[Strategy & Business Development Micro-Internship](https://jobright.ai/jobs/info/68c252b763b706703e113e8f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 10 |
 | **[Wellington Management](http://wellington.com)** | **[Undergrad Intern - San Francisco](https://jobright.ai/jobs/info/68c243ae63b706703e113102?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Texas)](https://jobright.ai/jobs/info/68c23d9433864f172f9be2c7?utm_campaign=1051&utm_source=git)** | Mountain Home, TX | On Site | Sep 10 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Fleet Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68c23c2c33864f172f9be0f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Sep 10 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Channel Partner Intern](https://jobright.ai/jobs/info/68c239cf4d652f044775e043?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Sep 10 |
 | **[BCM One](http://www.bcmone.com)** | **[Business Development Fall/Spring Internship](https://jobright.ai/jobs/info/68c2365d33864f172f9bddf9?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | Hybrid | Sep 10 |
 | **[Callaway Golf](http://www.callawaygolf.com)** | **[Callaway Golf Company 2026 Summer Internship (Fort Worth, TX)](https://jobright.ai/jobs/info/68c2350e63b706703e11267e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 10 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2343f33864f172f9bdc18?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | Hybrid | Sep 10 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[BCM One](http://www.bcmone.com)** | **[Business Development Fall/Spring Internship](https://jobright.ai/jobs/info/68c21bf663b706703e111972?utm_campaign=1051&utm_source=git)** | Grand Rapids, Michigan, United States | Hybrid | Sep 10 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[Business Analyst Co-Op - Sales & Marketing](https://jobright.ai/jobs/info/68c21b0d4d652f044775d012?utm_campaign=1051&utm_source=git)** | Urbandale, IA | On Site | Sep 10 |
 | **[Sargento](http://www.sargento.com)** | **[Sales Consumer Products Intern](https://jobright.ai/jobs/info/68c21a7b33864f172f9bd009?utm_campaign=1051&utm_source=git)** | Plymouth, WI | Hybrid | Sep 10 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/681b3598ea64bf3897bf4c96?utm_campaign=1051&utm_source=git)** | Roseville, MN | On Site | Sep 10 |
 | **[Barclays](https://home.barclays)** | **[Sales, Trading and Structuring Analyst Summer Internship Program 2026 New York](https://jobright.ai/jobs/info/68c211fd63b706703e111643?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Advancement - Corporate Partnerships & Events Internship](https://jobright.ai/jobs/info/68c20dd24d652f044775cbd2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Junior Engagement Intern](https://jobright.ai/jobs/info/68c20cd64d652f044775cafd?utm_campaign=1051&utm_source=git)** | Beaver Falls, PA | On Site | Sep 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68c1edf963b706703e110423?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Sep 10 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Ohio](https://jobright.ai/jobs/info/68c1edf84d652f044775bca1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 10 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Orange County Irvine](https://jobright.ai/jobs/info/68c1ede54d652f044775bc8b?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Sep 10 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Oklahoma City](https://jobright.ai/jobs/info/68c1edd263b706703e1103f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Sep 10 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Miami](https://jobright.ai/jobs/info/68c1edb363b706703e1103d7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
