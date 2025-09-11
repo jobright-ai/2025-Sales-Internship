@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c2d33a5001f8077bf5e835?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Sep 11 |
+| **[Crane Company](https://www.craneco.com)** | **[Inside Technical Sales Engineer Intern-1](https://jobright.ai/jobs/info/68c2d1615adaee6c9bda4516?utm_campaign=1051&utm_source=git)** | Marion, NC | On Site | Sep 11 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68c2d0ed5adaee6c9bda4478?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 11 |
+| **[Crane Company](https://www.craneco.com)** | **[Inside Technical Sales Engineer Intern-1](https://jobright.ai/jobs/info/68c2c93b5001f8077bf5df94?utm_campaign=1051&utm_source=git)** | Marion, North Carolina | On Site | Sep 11 |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[Retail Management Internship](https://jobright.ai/jobs/info/68c2b86b63829b0a8a4fc3f9?utm_campaign=1051&utm_source=git)** | Scarborough, ME | On Site | Sep 11 |
+| **[dm drogerie markt Italia ](https://www.dm-jobs.it)** | **[Addetto/a alle vendite in tirocinio (f/m/x)](https://jobright.ai/jobs/info/68c2b6295001f8077bf5d578?utm_campaign=1051&utm_source=git)** | Ravenna, TX | On Site | Sep 11 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Senior Sales (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688a911a9f961617fe21cbb0?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
+| **[Sea Island Company](http://www.seaisland.com)** | **[Retail Intern (Seasonal)](https://jobright.ai/jobs/info/68c2a6c363829b0a8a4fb767?utm_campaign=1051&utm_source=git)** | Sea Island, GA | On Site | Sep 11 |
+| **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Fall 2025)](https://jobright.ai/jobs/info/68a5a6b0b6a3617d7fa72cf8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Sep 11 |
 | **[Technip Energies](https://www.ten.com/)** | **[Future Opportunity - Estimating Intern (Summer 2026)](https://jobright.ai/jobs/info/68c2911603b99f6b34296260?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 11 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Purchasing Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68c2931cb535a221b153ceea?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Sep 11 |
 | **[Rue Insurance](https://www.rueinsurance.com/)** | **[Sales Paid Summer Internship](https://jobright.ai/jobs/info/68c26d6e63b706703e114f99?utm_campaign=1051&utm_source=git)** | Hamilton Township, NJ | On Site | Sep 10 |
@@ -64,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c268a063b706703e114e82?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | Hybrid | Sep 10 |
 | **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Internship Program – Sales Intern (Campus)](https://jobright.ai/jobs/info/68c2587c63b706703e11434e?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | **[H15DEN](https://h15den.com)** | **[Strategy & Business Development Micro-Internship](https://jobright.ai/jobs/info/68c252b763b706703e113e8f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 10 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern - Charlotte North](https://jobright.ai/jobs/info/68c28a5cb535a221b153bde1?utm_campaign=1051&utm_source=git)** | North Carolina-Charlotte | On Site | Sep 10 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern - Charlotte North](https://jobright.ai/jobs/info/68c28a5cb535a221b153bde1?utm_campaign=1051&utm_source=git)** | North Carolina-Charlotte | On Site | Sep 10 |
 | **[Wellington Management](http://wellington.com)** | **[Undergrad Intern - San Francisco](https://jobright.ai/jobs/info/68c243ae63b706703e113102?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Texas)](https://jobright.ai/jobs/info/68c23d9433864f172f9be2c7?utm_campaign=1051&utm_source=git)** | Mountain Home, TX | On Site | Sep 10 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Fleet Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68c23c2c33864f172f9be0f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Sep 10 |
@@ -79,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern – Business Insurance](https://jobright.ai/jobs/info/68c22f1633864f172f9bdafd?utm_campaign=1051&utm_source=git)** | Brookfield, WI | Hybrid | Sep 10 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern](https://jobright.ai/jobs/info/68c22e6633864f172f9bda79?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Sep 10 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[CRM Digital Technology Intern (Salesforce)](https://jobright.ai/jobs/info/68c22d8b33864f172f9bd9d9?utm_campaign=1051&utm_source=git)** | Hagerstown, MD | On Site | Sep 10 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern - Charlotte North](https://jobright.ai/jobs/info/68c2919603b99f6b34296321?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 10 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern - Charlotte North](https://jobright.ai/jobs/info/68c2919603b99f6b34296321?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 10 |
 | **[Renewal by Andersen](https://www.renewalbyandersen.com)** | **[Retail Transformation Sales Team Intern](https://jobright.ai/jobs/info/68c22b354d652f044775d9d2?utm_campaign=1051&utm_source=git)** | Oak Park Heights, MN | On Site | Sep 10 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68c22ab14d652f044775d984?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Sep 10 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern](https://jobright.ai/jobs/info/68c2287d4d652f044775d843?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Sep 10 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Sep 10 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68c1efde63b706703e110642?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Sep 10 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68c1efd163b706703e110630?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 10 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Boston](https://jobright.ai/jobs/info/68c1efca63b706703e110623?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 10 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6422](https://jobright.ai/jobs/info/68c1ef6133864f172f9bbb88?utm_campaign=1051&utm_source=git)** | Port Angeles, WA | On Site | Sep 10 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 10 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/68c1ef5363b706703e110575?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Sep 10 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - New York](https://jobright.ai/jobs/info/68c1ef4e4d652f044775bdec?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 10 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68c1ef4c63b706703e110570?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Sep 10 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Nashville](https://jobright.ai/jobs/info/68c1ef4933864f172f9bbb60?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Sep 10 |
-| **[KBC Advisors](https://www.kbcadvisors.com/)** | **[Intern](https://jobright.ai/jobs/info/68c1ef0333864f172f9bbb19?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 10 |
-| **[BLVD Showroom](https://blvdshowroom.com)** | **[Wholesale Fashion Sales Intern](https://jobright.ai/jobs/info/68c1eef563b706703e110507?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
