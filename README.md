@@ -57,6 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Advancement - Corporate Partnerships & Events Internship](https://jobright.ai/jobs/info/68c20dd24d652f044775cbd2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 10 |
+| **[Portage Learning](https://portagelearning.edu)** | **[Junior Engagement Intern](https://jobright.ai/jobs/info/68c20cd64d652f044775cafd?utm_campaign=1051&utm_source=git)** | Beaver Falls, PA | On Site | Sep 10 |
+| **[Endeavor](http://www.endeavor.org)** | **[Entrepreneur Experience Intern (Lebanon)](https://jobright.ai/jobs/info/68c20cd64d652f044775cafc?utm_campaign=1051&utm_source=git)** | Lebanon, PA | Hybrid | Sep 10 |
+| **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Supply Chain/Sales Analyst Intern](https://jobright.ai/jobs/info/68c20b4f33864f172f9bc994?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Sep 10 |
+| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[CRM Digital Technology Intern (Salesforce)](https://jobright.ai/jobs/info/68c20aea4d652f044775ca5a?utm_campaign=1051&utm_source=git)** | Hagerstown, Maryland, United States | On Site | Sep 10 |
+| **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Customer Insights](https://jobright.ai/jobs/info/68c206944d652f044775c6dc?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
+| **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Commercial Strategy and Sales Operations Intern](https://jobright.ai/jobs/info/68c203f963b706703e110e96?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Corporate Development M&A](https://jobright.ai/jobs/info/68c2036933864f172f9bc4bb?utm_campaign=1051&utm_source=git)** | Columbia, MO (Headquarters) | Hybrid | Sep 10 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c200c933864f172f9bc40f?utm_campaign=1051&utm_source=git)** | 155 University Dr E, Granger,IN 46530-4474 | Hybrid | Sep 10 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c200c533864f172f9bc40d?utm_campaign=1051&utm_source=git)** | 6119 Stellhorn Rd, Fort Wayne,IN 46815-5357 | Hybrid | Sep 10 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c200b463b706703e110d67?utm_campaign=1051&utm_source=git)** | 1400 E Ireland Rd, South Bend, IN 46614-3452 | Hybrid | Sep 10 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c2006d4d652f044775c419?utm_campaign=1051&utm_source=git)** | 3938 Midway Rd, Goshen,IN 46526-5854 | Hybrid | Sep 10 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c2004d4d652f044775c3fd?utm_campaign=1051&utm_source=git)** | 2661 E US Highway 30, Merrillville,IN 46410-5898 | Hybrid | Sep 10 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c1fff163b706703e110d03?utm_campaign=1051&utm_source=git)** | 2420 Laporte Ave, Valparaiso,IN 46383-6914 | Hybrid | Sep 10 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c1ffd74d652f044775c3aa?utm_campaign=1051&utm_source=git)** | 9885 Wicker Ave, Saint John,IN 46373-9413 | Hybrid | Sep 10 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c1ff4133864f172f9bc31c?utm_campaign=1051&utm_source=git)** | 3801 Coldwater Rd, Fort Wayne,IN 46805-1101 | Hybrid | Sep 10 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c1ff2633864f172f9bc306?utm_campaign=1051&utm_source=git)** | 6814 Charlotte Pike, Nashville, TN 37209-4206 | Hybrid | Sep 10 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c1ff2063b706703e110c64?utm_campaign=1051&utm_source=git)** | 8005 Calumet Ave, Munster,IN 46321-1217 | Hybrid | Sep 10 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c1fb364d652f044775c304?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | Hybrid | Sep 10 |
+| **[Corvid Technologies](http://corvidtec.com)** | **[HPC/Cyberdefense Business Development Intern](https://jobright.ai/jobs/info/68c1fa644d652f044775c28c?utm_campaign=1051&utm_source=git)** | Mooresville, NC | On Site | Sep 10 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c1fa544d652f044775c286?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Sep 10 |
+| **[Bondi Partners](https://bondipartners.com/)** | **[Fellow](https://jobright.ai/jobs/info/68c1f86363b706703e110aa4?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Sep 10 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c1f81d33864f172f9bc121?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Sep 10 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT- 6334](https://jobright.ai/jobs/info/68c1f71533864f172f9bc09d?utm_campaign=1051&utm_source=git)** | Kodiak, AK | On Site | Sep 10 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c1f5d863b706703e110942?utm_campaign=1051&utm_source=git)** | Arlington, TX | Hybrid | Sep 10 |
+| ↳ | **[Underwriting Intern](https://jobright.ai/jobs/info/68c1f5c033864f172f9bbfd9?utm_campaign=1051&utm_source=git)** | Oxford, MS | Hybrid | Sep 10 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Baltimore](https://jobright.ai/jobs/info/68c1f28133864f172f9bbfa4?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Sep 10 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk- Firearms FT 6197](https://jobright.ai/jobs/info/68c1f21433864f172f9bbf11?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Sep 10 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - DC](https://jobright.ai/jobs/info/68c1f1ed33864f172f9bbeca?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Sep 10 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Salt Lake City](https://jobright.ai/jobs/info/68c1f1c433864f172f9bbe89?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Sep 10 |
@@ -73,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68c1efde63b706703e110642?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Sep 10 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68c1efd163b706703e110630?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 10 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Boston](https://jobright.ai/jobs/info/68c1efca63b706703e110623?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 10 |
-| **[ALLY Energy](http://www.allyenergy.com)** | **[LM Buyer Intern](https://jobright.ai/jobs/info/68c1ef8233864f172f9bbbb1?utm_campaign=1051&utm_source=git)** | Lemont, IL | On Site | Sep 10 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6422](https://jobright.ai/jobs/info/68c1ef6133864f172f9bbb88?utm_campaign=1051&utm_source=git)** | Port Angeles, WA | On Site | Sep 10 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 10 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/68c1ef5363b706703e110575?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Sep 10 |
@@ -110,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern](https://jobright.ai/jobs/info/68c1e67f3fd8b059a20f3d98?utm_campaign=1051&utm_source=git)** | Irving, TX, United States | On Site | Sep 10 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68c1e6643fd8b059a20f3d7d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Sep 10 |
 | **[Ferrara](https://www.ferrara.com)** | **[Sales Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c1e334233c7d3e64d05900?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Global Customer Insights Intern](https://jobright.ai/jobs/info/68c1e30f233c7d3e64d058d7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Sep 10 |
 | **[Everest](https://www.everestglobal.com/)** | **[2026 Claims Internship Program](https://jobright.ai/jobs/info/68c1e0c04d652f044775b36a?utm_campaign=1051&utm_source=git)** | Warren, NJ | Hybrid | Sep 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Cattle Sales - Intern](https://jobright.ai/jobs/info/68c1e0803fd8b059a20f38db?utm_campaign=1051&utm_source=git)** | USA - Texas - Texas | Hybrid | Sep 10 |
 | ↳ | **[2026 Future Talent Program - Cattle Sales - Intern](https://jobright.ai/jobs/info/68c1e0284d652f044775b31f?utm_campaign=1051&utm_source=git)** | USA - Louisiana - Louisiana | Hybrid | Sep 10 |
@@ -117,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[Sales and Marketing](https://jobright.ai/jobs/info/68c1db1f3fd8b059a20f3589?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Sep 10 |
 | **[Dallas Fort Worth International Airport (DFW)](http://www.dfwairport.com)** | **[2026 Undergraduate Summer Internship – Parking Yield Management](https://jobright.ai/jobs/info/68c1da5b233c7d3e64d05333?utm_campaign=1051&utm_source=git)** | DFW Metroplex | On Site | Sep 10 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern (Greater Los Angeles Area)](https://jobright.ai/jobs/info/68c1d9e23fd8b059a20f3480?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 10 |
-| **[Intuitive](https://www.intuitive.com/)** | **[Global Customer Insights Intern](https://jobright.ai/jobs/info/68c1d4af233c7d3e64d04fd4?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Sep 10 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Purchasing Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68c1d3ee4d652f044775ac0a?utm_campaign=1051&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Sep 10 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c1d2cb4d652f044775aa54?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Sep 10 |
 | **[Kendall Electric](https://www.kendallelectric.com)** | **[Sales Intern - Summer 2026 - Kendall Electric](https://jobright.ai/jobs/info/68c1d23d233c7d3e64d04c94?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Sep 10 |
@@ -131,30 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1cace4d652f044775a0b8?utm_campaign=1051&utm_source=git)** | Cranston, RI | Hybrid | Sep 10 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1cac64d652f044775a0ae?utm_campaign=1051&utm_source=git)** | Morgantown, WV | Hybrid | Sep 10 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1caa54d652f044775a092?utm_campaign=1051&utm_source=git)** | Carmichael, CA | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1ca613fd8b059a20f2625?utm_campaign=1051&utm_source=git)** | Anderson, IN | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1ca534d652f044775a054?utm_campaign=1051&utm_source=git)** | Georgetown, TX | Hybrid | Sep 10 |
-| **[Carolina Handling](http://carolinahandling.com)** | **[2026 Sales Summer Internship](https://jobright.ai/jobs/info/68c1ca153fd8b059a20f25cf?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Sep 10 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c1c9f43fd8b059a20f25b9?utm_campaign=1051&utm_source=git)** | Wenatchee, WA | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c9ed3fd8b059a20f25ac?utm_campaign=1051&utm_source=git)** | Tustin, CA | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c9ea4d652f0447759ff3?utm_campaign=1051&utm_source=git)** | Homestead, FL | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c9e6233c7d3e64d04361?utm_campaign=1051&utm_source=git)** | State College, PA | Hybrid | Sep 10 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Chicagoland Area](https://jobright.ai/jobs/info/68c1c9ce3fd8b059a20f258e?utm_campaign=1051&utm_source=git)** | Batavia, IL | On Site | Sep 10 |
-| **[Carolina Handling](http://carolinahandling.com)** | **[2026 Sales Summer Internship](https://jobright.ai/jobs/info/68c1c9bc3fd8b059a20f257f?utm_campaign=1051&utm_source=git)** | Greenville-Spartanburg-Anderson, South Carolina Area | Hybrid | Sep 10 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c1c9a53fd8b059a20f2567?utm_campaign=1051&utm_source=git)** | Texarkana, TX | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c9753fd8b059a20f2547?utm_campaign=1051&utm_source=git)** | Lehi, UT | Hybrid | Sep 10 |
-| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c1c9693fd8b059a20f253c?utm_campaign=1051&utm_source=git)** | Highland Heights, OH | On Site | Sep 10 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Channel Management Intern](https://jobright.ai/jobs/info/68c1c962233c7d3e64d042e9?utm_campaign=1051&utm_source=git)** | Quincy, MA | Hybrid | Sep 10 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c1c9604d652f0447759f73?utm_campaign=1051&utm_source=git)** | South Jordan, UT | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c92b233c7d3e64d042ad?utm_campaign=1051&utm_source=git)** | Milpitas, CA | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c923233c7d3e64d042a4?utm_campaign=1051&utm_source=git)** | Jackson, MI | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c9214d652f0447759f51?utm_campaign=1051&utm_source=git)** | Pasco, WA | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c8f3233c7d3e64d0427b?utm_campaign=1051&utm_source=git)** | Somerville, MA | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c8e23fd8b059a20f24e0?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c8c84d652f0447759f01?utm_campaign=1051&utm_source=git)** | Perris, CA | Hybrid | Sep 10 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Lower Midwest and Arkansas](https://jobright.ai/jobs/info/68c1c8a73fd8b059a20f24a6?utm_campaign=1051&utm_source=git)** | O'Fallon, MO | On Site | Sep 10 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c1c87b4d652f0447759ec7?utm_campaign=1051&utm_source=git)** | Florence, AL | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c85c3fd8b059a20f246c?utm_campaign=1051&utm_source=git)** | Terre Haute, IN | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c84e233c7d3e64d041cc?utm_campaign=1051&utm_source=git)** | Upland, CA | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c83b4d652f0447759e95?utm_campaign=1051&utm_source=git)** | Napa, CA | Hybrid | Sep 10 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c1c80f3fd8b059a20f242a?utm_campaign=1051&utm_source=git)** | Parma, OH | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
