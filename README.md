@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rue Insurance](https://www.rueinsurance.com/)** | **[Sales Paid Summer Internship](https://jobright.ai/jobs/info/68c26d6e63b706703e114f99?utm_campaign=1051&utm_source=git)** | Hamilton Township, NJ | On Site | Sep 10 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Valparaiso/South Bend/Fort Wayne, IN   (Starting Summer 2026)](https://jobright.ai/jobs/info/68c268a063b706703e114e82?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | Hybrid | Sep 10 |
 | **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Internship Program – Sales Intern (Campus)](https://jobright.ai/jobs/info/68c2587c63b706703e11434e?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | **[H15DEN](https://h15den.com)** | **[Strategy & Business Development Micro-Internship](https://jobright.ai/jobs/info/68c252b763b706703e113e8f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 10 |
 | **[Wellington Management](http://wellington.com)** | **[Undergrad Intern - San Francisco](https://jobright.ai/jobs/info/68c243ae63b706703e113102?utm_campaign=1051&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Jacksonville](https://jobright.ai/jobs/info/68c1ee124d652f044775bcc0?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Sep 10 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Chicago](https://jobright.ai/jobs/info/68c1ee0a63b706703e110438?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 10 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68c1edf963b706703e110423?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Sep 10 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Ohio](https://jobright.ai/jobs/info/68c1edf84d652f044775bca1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 10 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Orange County Irvine](https://jobright.ai/jobs/info/68c1ede54d652f044775bc8b?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
