@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c38f8980e77b1fa6fca519?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Sep 11 |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/68c387636031587f8458b9ab?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Sep 11 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Client Management Intern](https://jobright.ai/jobs/info/68c37fd780e77b1fa6fc9b70?utm_campaign=1051&utm_source=git)** | McLean - Pinnacle | Hybrid | Sep 11 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/68c37f9db8c22d3828472455?utm_campaign=1051&utm_source=git)** | Roanoke - Franklin | Hybrid | Sep 11 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/68c37f9db8c22d3828472456?utm_campaign=1051&utm_source=git)** | Richmond - Libbie | Hybrid | Sep 11 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Chicago Metro - City)](https://jobright.ai/jobs/info/68c37f77b8c22d3828472434?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Sep 11 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Remote Sales Intern (Summer 2026) - Central FL](https://jobright.ai/jobs/info/68c37e5880e77b1fa6fc9a93?utm_campaign=1051&utm_source=git)** | Columbia, SC | Remote | Sep 11 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Client Management Intern](https://jobright.ai/jobs/info/68c37d266031587f8458b449?utm_campaign=1051&utm_source=git)** | Greensboro - North Elm | Hybrid | Sep 11 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Remote Sales Intern (Summer 2026) - Central AL](https://jobright.ai/jobs/info/68c37d2080e77b1fa6fc99b4?utm_campaign=1051&utm_source=git)** | Columbia, SC | Remote | Sep 11 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Client Management Intern](https://jobright.ai/jobs/info/68c37d186031587f8458b439?utm_campaign=1051&utm_source=git)** | Atlanta - Glenridge | Hybrid | Sep 11 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/68c37d186031587f8458b43b?utm_campaign=1051&utm_source=git)** | Hunt Valley - Wight | Hybrid | Sep 11 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/68c37cffb8c22d3828472246?utm_campaign=1051&utm_source=git)** | Raleigh - Sugar Bush | Hybrid | Sep 11 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/68c37cf280e77b1fa6fc996f?utm_campaign=1051&utm_source=git)** | Charlotte - Carnegie Boulevard | Hybrid | Sep 11 |
+| ↳ | **[Client Management Intern](https://jobright.ai/jobs/info/68c37cd280e77b1fa6fc992f?utm_campaign=1051&utm_source=git)** | Greenville - South Pleasantbur | Hybrid | Sep 11 |
 | **[Chil_Space](https://chilspace.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68c3782d80e77b1fa6fc96f3?utm_campaign=1051&utm_source=git)** | Saginaw-Midland-BC Area | On Site | Sep 11 |
 | **[Coca-Cola Consolidated](http://www.CokeConsolidated.com)** | **[Sales Operations Intern Applied Learning Program](https://jobright.ai/jobs/info/68c376786031587f8458b09a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 11 |
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Intern, Authentics](https://jobright.ai/jobs/info/68c374d180e77b1fa6fc9654?utm_campaign=1051&utm_source=git)** | Minneapolis,  MN | On Site | Sep 11 |
@@ -128,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - DM Operations - Overland Park, KS (Summer 2026)](https://jobright.ai/jobs/info/68c3333d63829b0a8a500c35?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Sep 11 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representatives (Spring 2026 - Honolulu)](https://jobright.ai/jobs/info/68c332c25001f8077bf6215f?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Sep 11 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Sales Intern](https://jobright.ai/jobs/info/68c332535001f8077bf620f2?utm_campaign=1051&utm_source=git)** | McConnellsburg, PA | On Site | Sep 11 |
+| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Financial Distributors](https://jobright.ai/jobs/info/68c3320163829b0a8a500acc?utm_campaign=1051&utm_source=git)** | CA-Woodland Hills | On Site | Sep 11 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Starting in Summer of 2026](https://jobright.ai/jobs/info/68c3319b5adaee6c9bda80e6?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL United States of America | On Site | Sep 11 |
-| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Financial Distributors](https://jobright.ai/jobs/info/68c3317e63829b0a8a5009d6?utm_campaign=1051&utm_source=git)** | CA-Woodland Hills | On Site | Sep 11 |
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Sales Intern - Cincinnati Summer 2026](https://jobright.ai/jobs/info/68c3317b5001f8077bf61f28?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 11 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Financial Distributors](https://jobright.ai/jobs/info/68c331535adaee6c9bda8046?utm_campaign=1051&utm_source=git)** | TX-Houston | On Site | Sep 11 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Strategic Accounts](https://jobright.ai/jobs/info/68c32d8b63829b0a8a5008d7?utm_campaign=1051&utm_source=git)** | Dyersville, IA | On Site | Sep 11 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NOXYZ](https://www.linkedin.com/company/102121103)** | **[2026 Paid Summer Internship – Sales Representative at Premier Roofing](https://jobright.ai/jobs/info/68c31f815adaee6c9bda76e7?utm_campaign=1051&utm_source=git)** | Wichita | On Site | Sep 11 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[Universal Banking Intern](https://jobright.ai/jobs/info/68c31ee25adaee6c9bda7538?utm_campaign=1051&utm_source=git)** | Edina, MN | Hybrid | Sep 11 |
 | **[Madison Street Capital](http://www.madisonstreetcapital.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68c31e7e5001f8077bf61324?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
-| **[NOXYZ](https://www.linkedin.com/company/102121103)** | **[2026 Paid Summer Internship – Sales Representative at Premier Roofing](https://jobright.ai/jobs/info/68c31e7063829b0a8a4ffd8c?utm_campaign=1051&utm_source=git)** | Atlanta | On Site | Sep 11 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern- Customer Account Specialist - Starting in Summer 2026](https://jobright.ai/jobs/info/68c325a65adaee6c9bda7acb?utm_campaign=1051&utm_source=git)** | Chicago, IL United States of America | On Site | Sep 11 |
-| **[Kensium](https://www.kensium.com)** | **[B2B Commerce – Sales & Marketing Intern](https://jobright.ai/jobs/info/68c31a4663829b0a8a4ffb91?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
-| **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Field Sales Intern – Consumer Business Group (CBG)](https://jobright.ai/jobs/info/68c318435001f8077bf60e35?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Sep 11 |
-| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c350986031587f84589e7e?utm_campaign=1051&utm_source=git)** | Homewood, AL | Hybrid | Sep 11 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c312a363829b0a8a4ff70b?utm_campaign=1051&utm_source=git)** | Revere, MA | Hybrid | Sep 11 |
-| **[Mesilla Valley Transportation](https://m-v-t.com/)** | **[Intern](https://jobright.ai/jobs/info/68c312015adaee6c9bda6cb2?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Sep 11 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c311e063829b0a8a4ff654?utm_campaign=1051&utm_source=git)** | Euless, TX | Hybrid | Sep 11 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Central Michigan](https://jobright.ai/jobs/info/68c3119e63829b0a8a4ff61b?utm_campaign=1051&utm_source=git)** | Webberville, MI | On Site | Sep 11 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c3118c63829b0a8a4ff606?utm_campaign=1051&utm_source=git)** | Hamilton, OH | Hybrid | Sep 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c3118c63829b0a8a4ff607?utm_campaign=1051&utm_source=git)** | Stonecrest, GA | Hybrid | Sep 11 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Strategic Accounts - PIMCO](https://jobright.ai/jobs/info/68c3113c5001f8077bf60bf7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 11 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c3112d5adaee6c9bda6c0d?utm_campaign=1051&utm_source=git)** | Dundalk, MD | Hybrid | Sep 11 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c310dc5adaee6c9bda6bc7?utm_campaign=1051&utm_source=git)** | Parker, CO | Hybrid | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
