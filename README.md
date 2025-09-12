@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Valley District](https://jobright.ai/jobs/info/68c3cf746031587f8458ecc3?utm_campaign=1051&utm_source=git)** | Mission, TX | On Site | Sep 12 |
+| ↳ | **[2026 Management and Sales Internship - Houston](https://jobright.ai/jobs/info/68c3c76eb8c22d38284758c8?utm_campaign=1051&utm_source=git)** | Houston, TX, United States | On Site | Sep 12 |
+| **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Partnerships](https://jobright.ai/jobs/info/68c3b1ac80e77b1fa6fcc200?utm_campaign=1051&utm_source=git)** | USA - Remote | Remote | Sep 11 |
+| **[H15DEN](https://h15den.com)** | **[Strategy and Business Development - Micro Internship](https://jobright.ai/jobs/info/68c3c0ceb8c22d38284754fe?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 11 |
+| **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Sales Enablement (Creative Operations)](https://jobright.ai/jobs/info/68c3b1e2b8c22d3828474abb?utm_campaign=1051&utm_source=git)** | USA - Remote | Remote | Sep 11 |
+| ↳ | **[Spring 2026 Intern - Deal Desk Analyst](https://jobright.ai/jobs/info/68c3b1e2b8c22d3828474aba?utm_campaign=1051&utm_source=git)** | USA - Remote | Remote | Sep 11 |
+| ↳ | **[Spring & Summer 2026 Intern - Sales Analyst](https://jobright.ai/jobs/info/68c3b1ddb8c22d3828474ab6?utm_campaign=1051&utm_source=git)** | USA - Remote | Remote | Sep 11 |
+| ↳ | **[Summer 2026 Intern - Value Management](https://jobright.ai/jobs/info/68c3b1ad6031587f8458db4b?utm_campaign=1051&utm_source=git)** | USA - Remote | Remote | Sep 11 |
+| ↳ | **[Spring & Summer 2026 Intern - Sales Data & Analytics](https://jobright.ai/jobs/info/68c3b19fb8c22d3828474a84?utm_campaign=1051&utm_source=git)** | USA - Remote | Remote | Sep 11 |
+| ↳ | **[Summer 2026 Intern - Territory Development](https://jobright.ai/jobs/info/68c3b18eb8c22d3828474a7c?utm_campaign=1051&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Customer Success Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68c3a930b8c22d3828474582?utm_campaign=1051&utm_source=git)** | Annapolis, MD | On Site | Sep 11 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[WinField United Sales Intern- Iowa](https://jobright.ai/jobs/info/68c3a6d580e77b1fa6fcbb09?utm_campaign=1051&utm_source=git)** | Virtual (USA) | Remote | Sep 11 |
 | ↳ | **[WinField United Sales Intern, Summer 2026](https://jobright.ai/jobs/info/68c3a6c56031587f8458d6f6?utm_campaign=1051&utm_source=git)** | Virtual (USA) | Remote | Sep 11 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Strategic Sales and Credit](https://jobright.ai/jobs/info/68c3376a5001f8077bf62379?utm_campaign=1051&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | On Site | Sep 11 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative -Starting in Summer 2026](https://jobright.ai/jobs/info/68c3376463829b0a8a500fb1?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL United States of America | On Site | Sep 11 |
 | **[Comcast](https://corporate.comcast.com)** | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/68c3363e63829b0a8a500f5d?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 11 |
-| ↳ | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c334fa5001f8077bf62339?utm_campaign=1051&utm_source=git)** | Plymouth, MI | On Site | Sep 11 |
-| ↳ | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c3336563829b0a8a500c63?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 11 |
-| **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - DM Operations - Overland Park, KS (Summer 2026)](https://jobright.ai/jobs/info/68c3333d63829b0a8a500c35?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Sep 11 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representatives (Spring 2026 - Honolulu)](https://jobright.ai/jobs/info/68c332c25001f8077bf6215f?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Sep 11 |
-| **[JLG Industries](http://www.jlg.com/en)** | **[Sales Intern](https://jobright.ai/jobs/info/68c332535001f8077bf620f2?utm_campaign=1051&utm_source=git)** | McConnellsburg, PA | On Site | Sep 11 |
-| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Financial Distributors](https://jobright.ai/jobs/info/68c3320163829b0a8a500acc?utm_campaign=1051&utm_source=git)** | CA-Woodland Hills | On Site | Sep 11 |
-| ↳ | **[2026 Corebridge Summer Internship Program - Financial Distributors](https://jobright.ai/jobs/info/68c331b35adaee6c9bda811e?utm_campaign=1051&utm_source=git)** | TX-Houston | On Site | Sep 11 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Starting in Summer of 2026](https://jobright.ai/jobs/info/68c3319b5adaee6c9bda80e6?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL United States of America | On Site | Sep 11 |
-| **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Sales Intern - Cincinnati Summer 2026](https://jobright.ai/jobs/info/68c3317b5001f8077bf61f28?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 11 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Strategic Accounts](https://jobright.ai/jobs/info/68c32d8b63829b0a8a5008d7?utm_campaign=1051&utm_source=git)** | Dyersville, IA | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
