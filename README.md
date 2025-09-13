@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LDI Connect](http://myldi.com)** | **[Sales Assistant ( Intern or Full time available )](https://jobright.ai/jobs/info/68c544657d0db4114273346b?utm_campaign=1051&utm_source=git)** | Jericho, NY | On Site | Sep 13 |
 | **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Merchandise Buyer](https://jobright.ai/jobs/info/68c52895db52c07d288419b2?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Sep 13 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68c518db7d0db4114273255a?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Sep 13 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c53aa17d0db4114273322b?utm_campaign=1051&utm_source=git)** | Tupelo, MS | On Site | Sep 12 |
+| ↳ | **[Underwriting Intern](https://jobright.ai/jobs/info/68c540dedb52c07d28841fb5?utm_campaign=1051&utm_source=git)** | Meridian, MS | On Site | Sep 12 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Toledo, OH (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4f9507d0db4114273057f?utm_campaign=1051&utm_source=git)** | Toledo, OH | Hybrid | Sep 12 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c53c45c96a22563ece8020?utm_campaign=1051&utm_source=git)** | Olive Branch, MS | On Site | Sep 12 |
 | ↳ | **[Underwriting Intern](https://jobright.ai/jobs/info/68c53a24c96a22563ece7ea9?utm_campaign=1051&utm_source=git)** | Madison, MS | On Site | Sep 12 |
 | **[Gartner](http://www.gartner.com)** | **[Client Success Internship (2027 Graduates)](https://jobright.ai/jobs/info/68c4f59edb52c07d2883ee64?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Hybrid | Sep 12 |
 | ↳ | **[Client Success Internship (2027 Graduates)](https://jobright.ai/jobs/info/68c4f5807d0db41142730312?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Sep 12 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c540d3c96a22563ece81b6?utm_campaign=1051&utm_source=git)** | Pearl, MS | On Site | Sep 12 |
 | **[H15DEN](https://h15den.com)** | **[Strategy & Business Development (Micro Internship)](https://jobright.ai/jobs/info/68c50f31c96a22563ece6dec?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 12 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c54195db52c07d288420a2?utm_campaign=1051&utm_source=git)** | Southaven, MS | On Site | Sep 12 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[WinField United Sales Intern, Summer 2026](https://jobright.ai/jobs/info/68c4eafac96a22563ece4412?utm_campaign=1051&utm_source=git)** | Arden Hills, MN | On Site | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Sales Convenience Retail](https://jobright.ai/jobs/info/68c4dc4631e5763f188e4337?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Sep 12 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/68c4dbee31e5763f188e42d1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
@@ -81,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern - Upper Extremities Sales - Orlando, FL](https://jobright.ai/jobs/info/68c4cc10fce86561b928966f?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Sep 12 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68c52111c96a22563ece78c3?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 12 |
 | ↳ | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68c4fa9b7d0db41142730920?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Sep 12 |
+| ↳ | **[Intern- Customer Account Specialist - Starting in Summer 2026](https://jobright.ai/jobs/info/68c53f487d0db411427332b9?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/68c53bdfdb52c07d28841dd7?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Sep 12 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/68c52c47c96a22563ece7c15?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL | On Site | Sep 12 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/68c4c2c931e5763f188e3586?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68c4bc6a31e5763f188e30f1?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 12 |
 | ↳ | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/68c4bcfb31e5763f188e314f?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Sep 12 |
 | **[ABB](https://global.abb/group/en)** | **[Electrification FL Sales Co-Op - Fall 2026](https://jobright.ai/jobs/info/68c471c414bb275ce019388f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
-| **[Henkel](http://www.henkel.com)** | **[E-commerce Management Intern, Hair Pros – Summer 2026](https://jobright.ai/jobs/info/68c47187e471ef3ce16d62c7?utm_campaign=1051&utm_source=git)** | Culver City, None, US | On Site | Sep 12 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Grand Rapids, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c47155e471ef3ce16d6248?utm_campaign=1051&utm_source=git)** | 6839 S Westnedge Ave, Portage,MI 49002-3582 | Hybrid | Sep 12 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Lansing, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c470a7e396b25cb5c6813e?utm_campaign=1051&utm_source=git)** | 20100 Haggerty Rd, Livonia,MI 48152-1087 | Hybrid | Sep 12 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Lansing, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4708ae396b25cb5c68122?utm_campaign=1051&utm_source=git)** | 8043 Challis Rd, Brighton,MI 48116-7446 | Hybrid | Sep 12 |
-| **[Veracity Solutions Inc.](https://veracitysolutionsinc.com)** | **[Sales and Marketing Trainee](https://jobright.ai/jobs/info/68c4707de471ef3ce16d6170?utm_campaign=1051&utm_source=git)** | Hartford County, CT | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
