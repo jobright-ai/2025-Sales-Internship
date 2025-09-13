@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[2025 Business Development Intern](https://jobright.ai/jobs/info/68c5c1da7d0db41142734fde?utm_campaign=1051&utm_source=git)** | Hanover, MD | Hybrid | Sep 13 |
+| **[Adaptivate Agency](adaptivateagency.com)** | **[Account Executive](https://jobright.ai/jobs/info/68c5b0c1db52c07d288439c0?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Internship - International Client Services](https://jobright.ai/jobs/info/68c5a5e9c96a22563ece990b?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 13 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Finance Treasury Management Intern](https://jobright.ai/jobs/info/68c5a09c7d0db41142734b0b?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Sep 13 |
 | **[Comcast](https://corporate.comcast.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c598697d0db4114273499a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
@@ -110,8 +112,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68c50cc07d0db41142731c95?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Sep 12 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships & Ticket Sales Internship (University of West Georgia) - Spring 2026](https://jobright.ai/jobs/info/68c4bdc1fce86561b9288de8?utm_campaign=1051&utm_source=git)** | Carrollton, GA | On Site | Sep 12 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68c57a69c96a22563ece90e3?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 12 |
+| ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/68c5ba727d0db41142734e80?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL | On Site | Sep 12 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Dealer Sales Strategy Internship](https://jobright.ai/jobs/info/68c4b72e7279451d6a0370cc?utm_campaign=1051&utm_source=git)** | Middleton, WI | On Site | Sep 12 |
 | ↳ | **[Sales Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68c4b6897279451d6a03706e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 12 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Thornton ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68c4b33cfce86561b92889e7?utm_campaign=1051&utm_source=git)** | Thornton, CO | On Site | Sep 12 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Grand Rapids, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4b2fa31e5763f188e2dba?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | Hybrid | Sep 12 |
 | **[Red Tower Capital, Inc.](https://redtowercapital.com)** | **[Mortgage Lending Intern](https://jobright.ai/jobs/info/68c4b228fce86561b9288896?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Sep 12 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Lansing, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4b121fce86561b9288767?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Sep 12 |
@@ -134,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Freudenberg Performance Materials](https://www.freudenberg-pm.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c48e0fe396b25cb5c692f8?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Sep 12 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6437](https://jobright.ai/jobs/info/68c48d2ce396b25cb5c69248?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Sep 12 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/68c50e42db52c07d28840a0b?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Sep 12 |
-| **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68c486f0e396b25cb5c68eac?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Revenue Growth Management](https://jobright.ai/jobs/info/68c486eae396b25cb5c68ea2?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Sep 12 |
 | ↳ | **[Intern, Strategic Partnerships](https://jobright.ai/jobs/info/68c57e79c96a22563ece913b?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Sep 12 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68c4834014bb275ce01942c7?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Sep 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Toledo, OH (Starting Summer 2026)](https://jobright.ai/jobs/info/68c479c9e396b25cb5c68590?utm_campaign=1051&utm_source=git)** | 3749 Carpenter Rd, Ypsilanti,MI 48197-9809 | Hybrid | Sep 12 |
 | **[POET](http://www.poet.com)** | **[Merchandiser Intern - East - Summer 2026](https://jobright.ai/jobs/info/68c47977e471ef3ce16d68c8?utm_campaign=1051&utm_source=git)** | Shelbyville, IN | On Site | Sep 12 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Toledo, OH (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4794114bb275ce0193d6e?utm_campaign=1051&utm_source=git)** | 14099 Pardee Rd, Taylor,MI 48180-4792 | Hybrid | Sep 12 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Toledo, OH (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4791b14bb275ce0193d0d?utm_campaign=1051&utm_source=git)** | 35401 Warren Rd, Westland,MI 48185-6590 | Hybrid | Sep 12 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Toledo, OH (Starting Summer 2026)](https://jobright.ai/jobs/info/68c478fee471ef3ce16d6832?utm_campaign=1051&utm_source=git)** | 1076 Jackson Xing, Jackson,MI 49202-2039 | Hybrid | Sep 12 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Revenue Growth Management](https://jobright.ai/jobs/info/68c478f6e471ef3ce16d6828?utm_campaign=1051&utm_source=git)** | Draper, UT, USA | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
