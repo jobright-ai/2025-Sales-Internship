@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Merchandise Buyer](https://jobright.ai/jobs/info/68c52895db52c07d288419b2?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Sep 13 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68c518db7d0db4114273255a?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Sep 13 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c53aa17d0db4114273322b?utm_campaign=1051&utm_source=git)** | Tupelo, MS | On Site | Sep 12 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Toledo, OH (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4f9507d0db4114273057f?utm_campaign=1051&utm_source=git)** | Toledo, OH | Hybrid | Sep 12 |
+| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c53c45c96a22563ece8020?utm_campaign=1051&utm_source=git)** | Olive Branch, MS | On Site | Sep 12 |
+| ↳ | **[Underwriting Intern](https://jobright.ai/jobs/info/68c53a24c96a22563ece7ea9?utm_campaign=1051&utm_source=git)** | Madison, MS | On Site | Sep 12 |
 | **[Gartner](http://www.gartner.com)** | **[Client Success Internship (2027 Graduates)](https://jobright.ai/jobs/info/68c4f59edb52c07d2883ee64?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Hybrid | Sep 12 |
 | ↳ | **[Client Success Internship (2027 Graduates)](https://jobright.ai/jobs/info/68c4f5807d0db41142730312?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Sep 12 |
 | **[H15DEN](https://h15den.com)** | **[Strategy & Business Development (Micro Internship)](https://jobright.ai/jobs/info/68c50f31c96a22563ece6dec?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 12 |
@@ -77,6 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern - Upper Extremities Sales - Orlando, FL](https://jobright.ai/jobs/info/68c4cc10fce86561b928966f?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Sep 12 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68c52111c96a22563ece78c3?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 12 |
 | ↳ | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68c4fa9b7d0db41142730920?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Sep 12 |
+| ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/68c53bdfdb52c07d28841dd7?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Sep 12 |
+| ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/68c52c47c96a22563ece7c15?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL | On Site | Sep 12 |
 | ↳ | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/68c4c2c931e5763f188e3586?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 12 |
 | **[Amplifon](http://corporate.amplifon.com)** | **[Sales Performance Intern Summer 2026](https://jobright.ai/jobs/info/68c4c1f831e5763f188e33ff?utm_campaign=1051&utm_source=git)** | 150 South 5Th Street, Minneapolis, MN, 55402, US | Hybrid | Sep 12 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/68c513317d0db41142732236?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
@@ -92,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Commercial Sales Intern, Walmart - 2026](https://jobright.ai/jobs/info/68c4ad667279451d6a036b6b?utm_campaign=1051&utm_source=git)** | Bentonville, AR | Hybrid | Sep 12 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Detroit/North Detroit, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4acb9fce86561b92884ac?utm_campaign=1051&utm_source=git)** | Sterling Heights, MI | Hybrid | Sep 12 |
 | **[Henkel](http://www.henkel.com)** | **[Customer Development Intern, Walmart](https://jobright.ai/jobs/info/68c4acad31e5763f188e2878?utm_campaign=1051&utm_source=git)** | Bentonville, AR | Hybrid | Sep 12 |
-| **[VanEck](http://www.vaneck.com/)** | **[US Sales Summer Intern](https://jobright.ai/jobs/info/68c4ac26fce86561b92883d9?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 12 |
-| **[Henkel](http://www.henkel.com)** | **[E-commerce Management Intern, Hair Pros – Summer 2026](https://jobright.ai/jobs/info/68c4ac077279451d6a036992?utm_campaign=1051&utm_source=git)** | Culver City, CA | Hybrid | Sep 12 |
+| ↳ | **[E-commerce Management Intern, Hair Pros – Summer 2026](https://jobright.ai/jobs/info/68c4ac077279451d6a036992?utm_campaign=1051&utm_source=git)** | Culver City, CA | Hybrid | Sep 12 |
 | **[VanEck](http://www.vaneck.com/)** | **[Institutional Sales Summer Intern](https://jobright.ai/jobs/info/68c4ab9531e5763f188e26f7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 12 |
+| ↳ | **[US Sales Summer Intern](https://jobright.ai/jobs/info/68c531147d0db41142732fa7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[Agtegra Cooperative](https://www.agtegra.com/)** | **[Sales Agronomist Intern](https://jobright.ai/jobs/info/68c4e0bec96a22563ece3308?utm_campaign=1051&utm_source=git)** | Aberdeen, SD | On Site | Sep 12 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Aurora ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68c4a84e5529a136a99f3628?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Sep 12 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Partner Programs & Strategy Intern](https://jobright.ai/jobs/info/68c4a8415529a136a99f360b?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 12 |
@@ -106,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Freudenberg Performance Materials](https://www.freudenberg-pm.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c48e0fe396b25cb5c692f8?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Strategic Partnerships](https://jobright.ai/jobs/info/68c48de0e396b25cb5c692d3?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Sep 12 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6437](https://jobright.ai/jobs/info/68c48d2ce396b25cb5c69248?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Sep 12 |
-| **[JD.COM](http://corporate.jd.com)** | **[Intern - Data Analyst - Account Management](https://jobright.ai/jobs/info/68c489b614bb275ce01946bc?utm_campaign=1051&utm_source=git)** | Fontana, CA | On Site | Sep 12 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/68c50e42db52c07d28840a0b?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Revenue Growth Management](https://jobright.ai/jobs/info/68c486eae396b25cb5c68ea2?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Sep 12 |
 | **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68c4852114bb275ce019447e?utm_campaign=1051&utm_source=git)** | Marion, IN | Hybrid | Sep 12 |
@@ -134,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Electrical Sales Intern Houston- Summer 2026](https://jobright.ai/jobs/info/68c477ece471ef3ce16d67cc?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 12 |
 | **[Uniti Group Inc.](http://uniti.com)** | **[Sales Insights and Analytics Intern](https://jobright.ai/jobs/info/68c4778b14bb275ce0193ad8?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Dillard's](http://www.dillards.com)** | **[Summer 2026 Buying Intern](https://jobright.ai/jobs/info/68a348e01ab5f8579e8a463e?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Sep 12 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68c522e57d0db41142732c8e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[2026 Internship - Underwriting Business Development](https://jobright.ai/jobs/info/68c473d9e396b25cb5c682d8?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Sep 12 |
 | **[Evvolve & Partners](http://evvolve.io/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68c473d5e396b25cb5c682d4?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 12 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68c4a239e471ef3ce16d7f6b?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Sep 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Lansing, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c470a7e396b25cb5c6813e?utm_campaign=1051&utm_source=git)** | 20100 Haggerty Rd, Livonia,MI 48152-1087 | Hybrid | Sep 12 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Lansing, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4708ae396b25cb5c68122?utm_campaign=1051&utm_source=git)** | 8043 Challis Rd, Brighton,MI 48116-7446 | Hybrid | Sep 12 |
 | **[Veracity Solutions Inc.](https://veracitysolutionsinc.com)** | **[Sales and Marketing Trainee](https://jobright.ai/jobs/info/68c4707de471ef3ce16d6170?utm_campaign=1051&utm_source=git)** | Hartford County, CT | On Site | Sep 12 |
-| **[MaintainX](https://www.getmaintainx.com)** | **[Lead Development Representative (Internship)](https://jobright.ai/jobs/info/68c4707714bb275ce0193781?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Sep 12 |
-| **[The Chefs'​ Warehouse](http://www.chefswarehouse.com)** | **[Selling - Intern](https://jobright.ai/jobs/info/68c4adcc31e5763f188e2a10?utm_campaign=1051&utm_source=git)** | Bronx, NY | Hybrid | Sep 12 |
-| **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/68c47053e471ef3ce16d614d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Chicago Metro - West)](https://jobright.ai/jobs/info/68c46ff114bb275ce019362e?utm_campaign=1051&utm_source=git)** | Schaumburg, IL, United States | On Site | Sep 12 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Lansing, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c46fe314bb275ce0193619?utm_campaign=1051&utm_source=git)** | 4890 Marsh Rd, Okemos,MI 48864-1123 | Hybrid | Sep 12 |
-| ↳ | **[Store Executive Intern (Store Leadership Intern) - Grand Rapids, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c46fd8e396b25cb5c67f37?utm_campaign=1051&utm_source=git)** | 5700 Beckley Rd, Battle Creek,MI 49015-4184 | Hybrid | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
