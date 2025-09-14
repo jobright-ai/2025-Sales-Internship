@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68c712bcdb52c07d2884a356?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Sep 14 |
 | **[QiMeta](https://www.qimeta.ai/)** | **[QiMeta Fall Fellowship](https://jobright.ai/jobs/info/68c6fe3a7d0db4114273b6d1?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Sep 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68c6f996db52c07d2884a001?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 14 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c6f24fdb52c07d28849f34?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 14 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[SummerSafe LLC](https://www.summersafe.org/)** | **[Sales And Marketing Associate](https://jobright.ai/jobs/info/68c6bd907d0db4114273b1a7?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Sep 13 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Internship - International Client Services](https://jobright.ai/jobs/info/68c5a5e9c96a22563ece990b?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 13 |
 | **[Comcast](https://corporate.comcast.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c598697d0db4114273499a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
-| **[Siemens](https://www.siemens.com/)** | **[Building Automation and Fire & Life Safety Sales Internship](https://jobright.ai/jobs/info/68c57f6fc96a22563ece91de?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Sep 13 |
 | **[Redbridge Debt & Treasury Advisory](https://www.redbridgedta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68c65d6ddb52c07d28847a48?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Sales/Estimating Internship - Boise, ID](https://jobright.ai/jobs/info/68c574f8db52c07d28842e6a?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Sep 13 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68c570f8c96a22563ece8e47?utm_campaign=1051&utm_source=git)** | Hastings, NE | Hybrid | Sep 13 |
@@ -119,8 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68c54195db52c07d288420a2?utm_campaign=1051&utm_source=git)** | Southaven, MS | On Site | Sep 12 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[WinField United Sales Intern, Summer 2026](https://jobright.ai/jobs/info/68c4eafac96a22563ece4412?utm_campaign=1051&utm_source=git)** | Arden Hills, MN | On Site | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Sales Convenience Retail](https://jobright.ai/jobs/info/68c4dc4631e5763f188e4337?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Sep 12 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/68c4dbee31e5763f188e42d1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Field Sales](https://jobright.ai/jobs/info/68c4db637279451d6a0383df?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Sep 12 |
+| ↳ | **[Intern, Field Sales](https://jobright.ai/jobs/info/68c4db637279451d6a0383df?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Sep 12 |
 | **[MRIGlobal](http://www.mriglobal.org)** | **[Intern Buyer](https://jobright.ai/jobs/info/68c4d7e2fce86561b9289d7f?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Sales - Food Service On Premise](https://jobright.ai/jobs/info/68c4d6e6fce86561b9289bba?utm_campaign=1051&utm_source=git)** | Draper, UT | On Site | Sep 12 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Retail Internship - Pembroke, KY](https://jobright.ai/jobs/info/68c4d6ad7279451d6a0380e9?utm_campaign=1051&utm_source=git)** | Pembroke, KY | On Site | Sep 12 |
@@ -142,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Sales Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68c4b6897279451d6a03706e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Thornton ABC Academy Clinic Admissions Associate](https://jobright.ai/jobs/info/68c4b33cfce86561b92889e7?utm_campaign=1051&utm_source=git)** | Thornton, CO | On Site | Sep 12 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Grand Rapids, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4b2fa31e5763f188e2dba?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | Hybrid | Sep 12 |
-| **[POET](http://www.poet.com)** | **[Merchandiser Intern - East - Summer 2026](https://jobright.ai/jobs/info/68c4b2d2fce86561b928896c?utm_campaign=1051&utm_source=git)** | Shelbyville, IN | On Site | Sep 12 |
 | **[Red Tower Capital, Inc.](https://redtowercapital.com)** | **[Mortgage Lending Intern](https://jobright.ai/jobs/info/68c4b228fce86561b9288896?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Sep 12 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Lansing, MI (Starting Summer 2026)](https://jobright.ai/jobs/info/68c4b121fce86561b9288767?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Sep 12 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (University of Akron) - Spring 2026](https://jobright.ai/jobs/info/68c4adfd31e5763f188e2a70?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Sep 12 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Amplifon](http://corporate.amplifon.com)** | **[Sales Operations Intern Summer 2026](https://jobright.ai/jobs/info/68c49deee471ef3ce16d7c20?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 12 |
 | **[Comcast](https://corporate.comcast.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c4929be396b25cb5c69578?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Sep 12 |
 | ↳ | **[Philadelphia Wings Intern, Ticket Sales & Service](https://jobright.ai/jobs/info/68c5614fc96a22563ece88ad?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Sep 12 |
+| **[Freudenberg Performance Materials](https://www.freudenberg-pm.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c48e0fe396b25cb5c692f8?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Sep 12 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6437](https://jobright.ai/jobs/info/68c48d2ce396b25cb5c69248?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
