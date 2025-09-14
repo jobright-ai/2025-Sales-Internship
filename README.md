@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Metro New Jersey)](https://jobright.ai/jobs/info/68c72d9ec96a22563ecf0818?utm_campaign=1051&utm_source=git)** | Warren, NJ, United States | On Site | Sep 14 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68c712bcdb52c07d2884a356?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Sep 14 |
 | **[QiMeta](https://www.qimeta.ai/)** | **[QiMeta Fall Fellowship](https://jobright.ai/jobs/info/68c6fe3a7d0db4114273b6d1?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Sep 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68c6f996db52c07d2884a001?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c4929be396b25cb5c69578?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Sep 12 |
 | ↳ | **[Philadelphia Wings Intern, Ticket Sales & Service](https://jobright.ai/jobs/info/68c5614fc96a22563ece88ad?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Sep 12 |
 | **[Freudenberg Performance Materials](https://www.freudenberg-pm.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68c48e0fe396b25cb5c692f8?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Sep 12 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6437](https://jobright.ai/jobs/info/68c48d2ce396b25cb5c69248?utm_campaign=1051&utm_source=git)** | Portsmouth, VA | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
