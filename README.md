@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benedictine University](http://www.ben.edu/)** | **[Undergrad Student Employee - Annual Giving](https://jobright.ai/jobs/info/68c93f90f9c6ff7aedf18da4?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Sep 16 |
+| **[Smithfield Foods](http://smithfieldfoods.com)** | **[Summer - Fresh Sales Intern](https://jobright.ai/jobs/info/68aceba3d627244576e49e1d?utm_campaign=1051&utm_source=git)** | Smithfield, VA | On Site | Sep 16 |
 | **[Steva](https://steva.co)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c92e9fa0c52d598ea363ad?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Sep 16 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/68c92373f9c6ff7aedf187e2?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Sep 16 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Real Estate Services](https://jobright.ai/jobs/info/68c91b57f9c6ff7aedf1835d?utm_campaign=1051&utm_source=git)** | USA - NC - Durham - 10 Moore Drive | Remote | Sep 16 |
@@ -69,10 +71,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68c90ff4a0c52d598ea34d21?utm_campaign=1051&utm_source=git)** | US-FL-Tampa | On Site | Sep 16 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68c90f07f9c6ff7aedf170a3?utm_campaign=1051&utm_source=git)** | US-MN-Minneapolis | On Site | Sep 16 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68c90eeaf9c6ff7aedf17043?utm_campaign=1051&utm_source=git)** | US-CO-Englewood | On Site | Sep 16 |
-| **[Northwestern Mutual - West Denver ](https://www.northwesternmutual.com/office/co/lakewood/32740015/?cmpid=loc3)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68c90936f9c6ff7aedf16df7?utm_campaign=1051&utm_source=git)** | US-TX-Dallas | On Site | Sep 15 |
+| **[Northwestern Mutual - West Denver ](https://www.northwesternmutual.com/office/co/lakewood/32740015/?cmpid=loc3)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68c909bd95f5211cd2ced9cb?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Sep 15 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68c90936f9c6ff7aedf16df7?utm_campaign=1051&utm_source=git)** | US-TX-Dallas | On Site | Sep 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68c908fe95f5211cd2ced8b8?utm_campaign=1051&utm_source=git)** | US-TN-Knoxville | On Site | Sep 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68c908fdf9c6ff7aedf16d8e?utm_campaign=1051&utm_source=git)** | US-MN-St Cloud | On Site | Sep 15 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68c908ecf9c6ff7aedf16d58?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Sep 15 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68c908df983e6768bc555cd6?utm_campaign=1051&utm_source=git)** | US-NC-Charlotte | On Site | Sep 15 |
 | **[Sargento](http://www.sargento.com)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68c90621f9c6ff7aedf167ca?utm_campaign=1051&utm_source=git)** | Plymouth, WI | Hybrid | Sep 15 |
 | **[MetLife Investment Management](https://investments.metlife.com/)** | **[2026 Institutional Client Group Analyst](https://jobright.ai/jobs/info/68a8ff1d6acf96396f7240c9?utm_campaign=1051&utm_source=git)** | Whippany, NJ | Hybrid | Sep 15 |
@@ -129,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Ticket Sales & Service - Game Day](https://jobright.ai/jobs/info/68c417f814bb275ce0190eb7?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Sep 15 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Summer 2026-Store Management/Leadership Essentials Intern- Cincinnati Division](https://jobright.ai/jobs/info/68c8ad45f9c6ff7aedf11883?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 15 |
 | ↳ | **[Summer 2026-Store Management/Leadership Essentials Intern- Nashville Division](https://jobright.ai/jobs/info/68c8aad6f9c6ff7aedf11582?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Sep 15 |
-| **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/68c8e368983e6768bc552f4c?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 15 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Relationship Banker - Chestnut Hill Financial Center](https://jobright.ai/jobs/info/68c8e06195f5211cd2cea73d?utm_campaign=1051&utm_source=git)** | Chestnut Hill, MA | On Site | Sep 15 |
 | **[A1 Garage Door Service](https://www.linkedin.com/company/89921470)** | **[Apprentice Sales & Service Technician, SE Houston](https://jobright.ai/jobs/info/68c8f3bc983e6768bc5542d8?utm_campaign=1051&utm_source=git)** | SE Houston | On Site | Sep 15 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN Delaware, OH](https://jobright.ai/jobs/info/68c8a627f9c6ff7aedf11046?utm_campaign=1051&utm_source=git)** | Delaware, OH | On Site | Sep 15 |
@@ -150,7 +151,6 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Ticket Sales & Service Intern](https://jobright.ai/jobs/info/68c8881e983e6768bc54e69b?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 15 |
 | **[SkillStorm](http://www.skillstorm.com)** | **[Government Business Development Manager - (DoD SkillBridge Internship – Transitioning Military)](https://jobright.ai/jobs/info/68c8878cf9c6ff7aedf0fb87?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Sep 15 |
 | **[CDK Global](https://www.cdkglobal.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68c8823495f5211cd2ce62ac?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Sep 15 |
-| ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/68c8815695f5211cd2ce6170?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | Hybrid | Sep 15 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[Universal Banking Intern](https://jobright.ai/jobs/info/68c8ada1f9c6ff7aedf118fd?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Sep 15 |
 | **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2026 Summer Internship / Sales - Indianapolis, IN](https://jobright.ai/jobs/info/68c87fdc95f5211cd2ce6037?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 15 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6450](https://jobright.ai/jobs/info/68c8a78f95f5211cd2ce8021?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 15 |
