@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atain Insurance Companies](https://www.atainins.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68ca2079f61c922772a72e24?utm_campaign=1051&utm_source=git)** | US-FL-Tampa | Hybrid | Sep 16 |
+| **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Sales & Promotions Internship](https://jobright.ai/jobs/info/68ca1bc4f16e3266d2822a93?utm_campaign=1051&utm_source=git)** | Wilkes-Barre, PA | On Site | Sep 16 |
+| ↳ | **[Sales & Promotions Internship](https://jobright.ai/jobs/info/68ca1b52f16e3266d28229fa?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Sep 16 |
+| **[Jordan's Furniture](http://www.jordans.com/)** | **[E-Commerce Summer Intern](https://jobright.ai/jobs/info/68ca1b3af61c922772a72ce1?utm_campaign=1051&utm_source=git)** | US-MA-Dedham | On Site | Sep 16 |
+| **[Western National Insurance](https://wnins.com)** | **[Commercial Lines Underwriting Intern](https://jobright.ai/jobs/info/68ca1527f61c922772a728ae?utm_campaign=1051&utm_source=git)** | Edina, MN | Hybrid | Sep 16 |
+| **[Greenleaf Hospitality Group](https://greenleafhospitalitygroup.com/)** | **[Sales Intern / Kalamazoo Wings](https://jobright.ai/jobs/info/68ca14eef61c922772a72859?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Sep 16 |
+| **[Donaldson](http://donaldson.com)** | **[Sales Revenue Support / Data Analyst Intern](https://jobright.ai/jobs/info/68ca1295d4187c55157a5e22?utm_campaign=1051&utm_source=git)** | Bloomington, MN (USA) | On Site | Sep 16 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Relationship Manager Resource Analyst Co-Op](https://jobright.ai/jobs/info/68ca0fe8f16e3266d2822300?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Sep 16 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Relationship Banker - Carolina Place Financial Center](https://jobright.ai/jobs/info/68ca0f72f61c922772a7252e?utm_campaign=1051&utm_source=git)** | Pineville, NC | On Site | Sep 16 |
 | **[MetalTek International](https://www.metaltek.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68ca0afef16e3266d282212c?utm_campaign=1051&utm_source=git)** | Watertown, WI | On Site | Sep 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9b161a0c52d598ea39ec4?utm_campaign=1051&utm_source=git)** | Fort Lauderdale - Corporate | On Site | Sep 16 |
 | **[Moxie Sozo](https://moxiesozo.com)** | **[Business Development Internship (Paid)](https://jobright.ai/jobs/info/68c9b0e5a0c52d598ea39da6?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Sep 16 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[e-Commerce Coordinator Intern](https://jobright.ai/jobs/info/68c9ae07f9c6ff7aedf1c296?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Sep 16 |
-| **[Workshop](https://www.useworkshop.com)** | **[Sales Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68c9ae00f9c6ff7aedf1c285?utm_campaign=1051&utm_source=git)** | Omaha, Nebraska, United States | Hybrid | Sep 16 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Summer 2026 Aggregates Intern - TX/OK](https://jobright.ai/jobs/info/68c9ad4095f5211cd2cf2c0d?utm_campaign=1051&utm_source=git)** | Texas County, OK | On Site | Sep 16 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c9a7f8a0c52d598ea39a1e?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Sep 16 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Sales Analyst Intern - Pomona](https://jobright.ai/jobs/info/68c9a792a0c52d598ea3997a?utm_campaign=1051&utm_source=git)** | Pomona, CA | On Site | Sep 16 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68c9a6a995f5211cd2cf28de?utm_campaign=1051&utm_source=git)** | Meridian, ID | Hybrid | Sep 16 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68c9a6a195f5211cd2cf28cb?utm_campaign=1051&utm_source=git)** | Utica, NY | Hybrid | Sep 16 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68c9a694f9c6ff7aedf1be22?utm_campaign=1051&utm_source=git)** | Waterloo, IA | Hybrid | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
