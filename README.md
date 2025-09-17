@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Donaldson](http://donaldson.com)** | **[Sales Revenue Support / Data Analyst Intern](https://jobright.ai/jobs/info/68ca5b1e06a34016008c769e?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Sep 16 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Strategic Sales & Analytics Intern (February to May)](https://jobright.ai/jobs/info/68ca50bd06a34016008c68bf?utm_campaign=1051&utm_source=git)** | Needham, MA | Hybrid | Sep 16 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68ca4bec46caff4db51fcde4?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Sep 16 |
+| **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Denver, CO (Starting Summer 2026)](https://jobright.ai/jobs/info/68ca4b275f9f0336447db41c?utm_campaign=1051&utm_source=git)** | Lakewood, CO | Hybrid | Sep 16 |
+| **[Moody's Corporation](http://www.moodys.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/68ca4aed5f9f0336447db3d4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Real Estate Services](https://jobright.ai/jobs/info/68ca45ce66f5bd426af8113d?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Sep 16 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68ca443c66f5bd426af80e1e?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Remote | Sep 16 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[SBA Business Development Intern - Summer 2026](https://jobright.ai/jobs/info/68ca43c00456a931db29679a?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Sep 16 |
@@ -67,8 +72,10 @@ For a complete list, click the following sortable link below:
 | **[Corp.Fit](https://www.corp.fit/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/68ca33c9d4187c55157a7f8c?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Agency Enterprise Sales Associate Intern](https://jobright.ai/jobs/info/68ca3345d4187c55157a7dfe?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Development Intern 2026](https://jobright.ai/jobs/info/68ca31a0d4187c55157a794b?utm_campaign=1051&utm_source=git)** | Richfield, OH | On Site | Sep 16 |
+| **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (Cleveland)- Summer 2026](https://jobright.ai/jobs/info/68ca4b1a46caff4db51fcc0c?utm_campaign=1051&utm_source=git)** | Alliance, OH | On Site | Sep 16 |
 | **[Atain Insurance Companies](https://www.atainins.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68ca2079f61c922772a72e24?utm_campaign=1051&utm_source=git)** | US-FL-Tampa | Hybrid | Sep 16 |
-| **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Sales & Promotions Internship](https://jobright.ai/jobs/info/68ca1b52f16e3266d28229fa?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Sep 16 |
+| **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Sales & Promotions Internship](https://jobright.ai/jobs/info/68ca1bc4f16e3266d2822a93?utm_campaign=1051&utm_source=git)** | Wilkes-Barre, PA | On Site | Sep 16 |
+| ↳ | **[Sales & Promotions Internship](https://jobright.ai/jobs/info/68ca1b52f16e3266d28229fa?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Sep 16 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[E-Commerce Summer Intern](https://jobright.ai/jobs/info/68ca1b3af61c922772a72ce1?utm_campaign=1051&utm_source=git)** | US-MA-Dedham | On Site | Sep 16 |
 | **[Western National Insurance](https://wnins.com)** | **[Commercial Lines Underwriting Intern](https://jobright.ai/jobs/info/68ca1527f61c922772a728ae?utm_campaign=1051&utm_source=git)** | Edina, MN | Hybrid | Sep 16 |
 | **[Greenleaf Hospitality Group](https://greenleafhospitalitygroup.com/)** | **[Sales Intern / Kalamazoo Wings](https://jobright.ai/jobs/info/68ca14eef61c922772a72859?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Sep 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Andersen](http://www.Andersen.com)** | **[Accelerate - 2026 – Los Angeles](https://jobright.ai/jobs/info/68c9bd93f9c6ff7aedf1d111?utm_campaign=1051&utm_source=git)** | Los Angeles, California | On Site | Sep 16 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Urban Outfitters Planning & Allocation Intern](https://jobright.ai/jobs/info/68c9bd0ea0c52d598ea3aa87?utm_campaign=1051&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 16 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Sales Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68c9bce2a0c52d598ea3aa27?utm_campaign=1051&utm_source=git)** | US-NY-LONG ISLAND CITY | On Site | Sep 16 |
-| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Oakbrook Center Property Management Summer Internship (6/1/2026-8/7/2026)](https://jobright.ai/jobs/info/68c9bc75f9c6ff7aedf1d075?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL | On Site | Sep 16 |
-| **[TeamViewer](https://www.teamviewer.com)** | **[Sales & Data Internship - Onsite in Clearwater, FL](https://jobright.ai/jobs/info/68c9bbd4a0c52d598ea3a93e?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Sep 16 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative](https://jobright.ai/jobs/info/68c9bb6ef9c6ff7aedf1ce9d?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Sep 16 |
-| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Leasing Intern (Summer Internship 6/1/2026 - 8/7/2026)](https://jobright.ai/jobs/info/68c9bb36f9c6ff7aedf1ce31?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
-| **[Kendall Electric](https://www.kendallelectric.com)** | **[Sales Intern - Summer 2026 - Kendall Electric](https://jobright.ai/jobs/info/68c9bac5f9c6ff7aedf1cd5f?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | Sep 16 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Intern, Client Relations](https://jobright.ai/jobs/info/68c9ba89a0c52d598ea3a72e?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Sep 16 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 MBA Summer Intern - Account Manager, US - PIMCO](https://jobright.ai/jobs/info/68c9ba3c95f5211cd2cf3730?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
