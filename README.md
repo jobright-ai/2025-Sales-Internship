@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Sales & Marketing Co-Op (6 Months)](https://jobright.ai/jobs/info/68cbf058128dc347fd91c5b5?utm_campaign=1051&utm_source=git)** | US-PA-Aston (ESCO) | On Site | Sep 18 |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68cbefe57342c7623ae5c6e0?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Sep 18 |
 | **[H15DEN](https://h15den.com)** | **[Strategy & Business Development (Micro-Internship)](https://jobright.ai/jobs/info/68cbb26e9e3a822f5d24ab07?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 18 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Business Development Internship / Fall 2025](https://jobright.ai/jobs/info/68cbb04d9e3a822f5d24a764?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 18 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68cbaaffefdec76df36c0a5a?utm_campaign=1051&utm_source=git)** | Butte | On Site | Sep 17 |
@@ -89,11 +91,13 @@ For a complete list, click the following sortable link below:
 | **[Reditus Space | YC W25](https://www.reditus.space)** | **[Business Development / Mission Management Summer Internship](https://jobright.ai/jobs/info/68cb59549e3a822f5d245134?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | Sep 17 |
 | **[Plastics Family Americas](https://plasticsfamilyamericas.com)** | **[2026 Summer Sales Internship](https://jobright.ai/jobs/info/68cb5930efdec76df36bb7d6?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 17 |
 | **[Reditus Space | YC W25](https://www.reditus.space)** | **[Business Development / Mission Management Spring Internship](https://jobright.ai/jobs/info/68cb58aaefdec76df36bb65b?utm_campaign=1051&utm_source=git)** | Los Angeles, CA, US | On Site | Sep 17 |
-| ↳ | **[Business Development / Mission Management Summer Internship](https://jobright.ai/jobs/info/68cb57e6ba798c1a501ce78b?utm_campaign=1051&utm_source=git)** | Atlanta, GA, US | On Site | Sep 17 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern- Customer Account Specialist - Starting in Summer 2026](https://jobright.ai/jobs/info/68cbf0257342c7623ae5c74b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 17 |
+| **[Reditus Space | YC W25](https://www.reditus.space)** | **[Business Development / Mission Management Summer Internship](https://jobright.ai/jobs/info/68cb57e6ba798c1a501ce78b?utm_campaign=1051&utm_source=git)** | Atlanta, GA, US | On Site | Sep 17 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/68cb5523ba798c1a501ce48e?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Sep 17 |
 | **[Veritiv](https://www.veritiv.com)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/68cb4e19efdec76df36bb0f6?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 17 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Summer Technical Sales Intern-  Alberta](https://jobright.ai/jobs/info/68cb4ba79e3a822f5d244a64?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Sep 17 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Relationship Banker - South End Financial Center](https://jobright.ai/jobs/info/68cb9aba9e3a822f5d248e1d?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 17 |
+| **[FNIC Trusted insurance advisors](https://www.fnicgroup.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68cb45d59e3a822f5d244630?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Sep 17 |
 | **[A-LIGN](http://www.a-lign.com/)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/68cb435aefdec76df36baab7?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Sep 17 |
 | **[CBI Bank & Trust](https://www.cbibt.com)** | **[Commercial Lending Internship - Summer 2026](https://jobright.ai/jobs/info/68cb43299e3a822f5d24441e?utm_campaign=1051&utm_source=git)** | Muscatine, IA | On Site | Sep 17 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68cb42c89e3a822f5d24438f?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | Remote | Sep 17 |
@@ -120,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship -Revenue Planning and Analysis - Channel Optimization](https://jobright.ai/jobs/info/68cb1dd29e3a822f5d2429e9?utm_campaign=1051&utm_source=git)** | Seattle, WA, United States | On Site | Sep 17 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Northern New England](https://jobright.ai/jobs/info/68cb1db3efdec76df36b911e?utm_campaign=1051&utm_source=git)** | 152 Endicott Street, Danvers MA | Hybrid | Sep 17 |
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[2026 Sales Intern](https://jobright.ai/jobs/info/68cb7aedba798c1a501d039d?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Sep 17 |
+| **[Neato®](http://www.thisisneato.com)** | **[Las Vegas Onsite Internship](https://jobright.ai/jobs/info/68cbf09d16d00d2beeb17290?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Sep 17 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern - Raleigh South](https://jobright.ai/jobs/info/68cb3ea7ba798c1a501cd817?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Sep 17 |
 | **[Subsea7](http://www.subsea7.com/en/index.html)** | **[Commercial Intern](https://jobright.ai/jobs/info/68cb8c50efdec76df36be866?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 17 |
 | **[Turning Stone Enterprises](https://www.turningstoneenterprises.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68cb130cd905e25191d9f6e8?utm_campaign=1051&utm_source=git)** | Verona, NY | On Site | Sep 17 |
@@ -137,24 +142,19 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Peoria, IL - Summer 2026](https://jobright.ai/jobs/info/68cb07a1d905e25191d9e8e9?utm_campaign=1051&utm_source=git)** | Peoria | On Site | Sep 17 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Branch Network Internship](https://jobright.ai/jobs/info/68cb079ad905e25191d9e8c8?utm_campaign=1051&utm_source=git)** | US-NY-New York | On Site | Sep 17 |
 | ↳ | **[2026 Charles Schwab Branch Network Internship](https://jobright.ai/jobs/info/68cb06d4d905e25191d9e760?utm_campaign=1051&utm_source=git)** | US-TX-Westlake | On Site | Sep 17 |
-| **[Universal Processing LLC (uP)](https://www.uprocessing.com/)** | **[Sales Operations Intern (Unpaid)](https://jobright.ai/jobs/info/68cb0641d905e25191d9e5c0?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 17 |
 | **[Tractor Zoom](https://tractorzoom.com)** | **[Inside Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68cb06399e3a822f5d241607?utm_campaign=1051&utm_source=git)** | West Des Moines, Iowa, United States | Hybrid | Sep 17 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cb06209e3a822f5d2415b0?utm_campaign=1051&utm_source=git)** | Turlock, CA | Hybrid | Sep 17 |
 | **[RoleColorFinder](www.rolecolorfinder.com)** | **[Customer Research Interns (Unpaid) – Remote / Immediate Start](https://jobright.ai/jobs/info/68cb060aefdec76df36b7998?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Sep 17 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Branch Network Internship](https://jobright.ai/jobs/info/68cb058fefdec76df36b7821?utm_campaign=1051&utm_source=git)** | US-CO-Denver | On Site | Sep 17 |
 | **[Phillips Edison & Company](http://phillipsedison.com)** | **[Leasing Intern (Summer 2026 - Cincinnati)](https://jobright.ai/jobs/info/68cb05749e3a822f5d2413d0?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 17 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Branch Network Internship](https://jobright.ai/jobs/info/68cb055aefdec76df36b77cd?utm_campaign=1051&utm_source=git)** | US-GA-Alpharetta | On Site | Sep 17 |
-| ↳ | **[2026 Charles Schwab Branch Network Internship](https://jobright.ai/jobs/info/68cb05469e3a822f5d241340?utm_campaign=1051&utm_source=git)** | US-FL-Orlando | On Site | Sep 17 |
 | ↳ | **[2026 Charles Schwab Branch Network Internship](https://jobright.ai/jobs/info/68cb05469e3a822f5d241341?utm_campaign=1051&utm_source=git)** | US-TX-Austin | On Site | Sep 17 |
+| ↳ | **[2026 Charles Schwab Branch Network Internship](https://jobright.ai/jobs/info/68cb05469e3a822f5d241340?utm_campaign=1051&utm_source=git)** | US-FL-Orlando | On Site | Sep 17 |
 | ↳ | **[2026 Charles Schwab Branch Network Internship](https://jobright.ai/jobs/info/68cb05279e3a822f5d241300?utm_campaign=1051&utm_source=git)** | US-MA-Cambridge | On Site | Sep 17 |
 | **[CBI Bank & Trust](https://www.cbibt.com)** | **[Commercial Lending Internship - Summer 2026](https://jobright.ai/jobs/info/68cb04bdefdec76df36b76c4?utm_campaign=1051&utm_source=git)** | Muscatine-Downtown | On Site | Sep 17 |
-| **[FNIC Trusted insurance advisors](https://www.fnicgroup.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68cb043d9e3a822f5d241174?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Sep 17 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Branch Network Internship](https://jobright.ai/jobs/info/68cb04249e3a822f5d241116?utm_campaign=1051&utm_source=git)** | US-IL-Chicago | On Site | Sep 17 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/68cb03999e3a822f5d241074?utm_campaign=1051&utm_source=git)** | Salt Lake City | On Site | Sep 17 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cb02ac9e3a822f5d240f2f?utm_campaign=1051&utm_source=git)** | New Rochelle, NY | Hybrid | Sep 17 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cb02659e3a822f5d240ee8?utm_campaign=1051&utm_source=git)** | North Port, FL | Hybrid | Sep 17 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cb0010d905e25191d9e3ac?utm_campaign=1051&utm_source=git)** | Rancho Cordova, CA | Hybrid | Sep 17 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cb0003d905e25191d9e39a?utm_campaign=1051&utm_source=git)** | Silver Spring, MD | Hybrid | Sep 17 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cafffad905e25191d9e390?utm_campaign=1051&utm_source=git)** | Perris, CA | Hybrid | Sep 17 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cafffad905e25191d9e38f?utm_campaign=1051&utm_source=git)** | Carmichael, CA | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
