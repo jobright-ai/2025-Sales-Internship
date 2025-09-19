@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/68cd09e41ad6b16f02893acb?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Sep 19 |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Sales Intern - Miami, FL](https://jobright.ai/jobs/info/68cd085ee23def7af55b3a58?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Sep 19 |
+| **[Shaw Industries](https://shawinc.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68cd00595954791a1d702b54?utm_campaign=1051&utm_source=git)** | Cartersville, GA | On Site | Sep 19 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship-Travel industry Sales, Marketing & Sales (Summer2026)](https://jobright.ai/jobs/info/68ccffad5954791a1d7029d8?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern – Entry Level Full Time Starting Summer 2024](https://jobright.ai/jobs/info/68ccff605954791a1d702943?utm_campaign=1051&utm_source=git)** | Sartell, MN | On Site | Sep 18 |
+| ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/68ccfdf45954791a1d702678?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Sep 18 |
+| ↳ | **[Intern - Customer Account Specialist - Starting Summer 2026](https://jobright.ai/jobs/info/68ccfd9e5954791a1d7025cf?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Sep 18 |
+| ↳ | **[Intern - Capacity Portfolio Representative - Starting in Summer 2026](https://jobright.ai/jobs/info/68ccfd70d11b445e0bee5945?utm_campaign=1051&utm_source=git)** | Sartell, MN | On Site | Sep 18 |
+| ↳ | **[Intern - Capacity Portfolio Representative - Starting in Summer 2026](https://jobright.ai/jobs/info/68ccf7b95954791a1d701f88?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Sep 18 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68cce1be77add66568abb4dc?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Sep 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68cce178d11b445e0bee3a2f?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 18 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ccca3ad99309000e5a3527?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Sep 18 |
@@ -67,19 +76,14 @@ For a complete list, click the following sortable link below:
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ccb9f9128dc347fd928c27?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Sep 18 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Operations Internship - Westlake](https://jobright.ai/jobs/info/68ccb962128dc347fd928a9b?utm_campaign=1051&utm_source=git)** | US-TX-Westlake | On Site | Sep 18 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Program Specialist, Sales & Delivery (Winter/Spring 2026)](https://jobright.ai/jobs/info/68cce661d11b445e0bee3eec?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Sep 18 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Starting in Summer 2026](https://jobright.ai/jobs/info/68ccb428128dc347fd928759?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Sep 18 |
 | **[EPL Group Inc.](https://eplgroup.co)** | **[M&A Internship (Remote)](https://jobright.ai/jobs/info/68ccb366128dc347fd92851f?utm_campaign=1051&utm_source=git)** | Miami, United States | Remote | Sep 18 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68cce2585954791a1d700812?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Sep 18 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Starting in Summer 2026](https://jobright.ai/jobs/info/68cce72777add66568abbb0e?utm_campaign=1051&utm_source=git)** | Sartell, MN | On Site | Sep 18 |
-| ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/68ccda665954791a1d6ffe1e?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Sep 18 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Sales Intern - Minnetonka, MN](https://jobright.ai/jobs/info/68cca29516d00d2beeb2249f?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | On Site | Sep 18 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Relationship Banker - The Field Building Financial Center](https://jobright.ai/jobs/info/68ccc819d99309000e5a3174?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 18 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Starting Summer 2026](https://jobright.ai/jobs/info/68ccc99cd99309000e5a3412?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Sep 18 |
-| **[Red Hat](http://www.redhat.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68cc98db128dc347fd9272d5?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Sep 18 |
 | **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Partnership Development Internship](https://jobright.ai/jobs/info/68cc98cb128dc347fd9272b0?utm_campaign=1051&utm_source=git)** | Lititz, PA | Hybrid | Sep 18 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68ccc75afa466330fef90fbd?utm_campaign=1051&utm_source=git)** | Barrington, IL | On Site | Sep 18 |
 | **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, California (Starting Summer 2026)](https://jobright.ai/jobs/info/68cc95227342c7623ae66d3c?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[AI Research Partnerships Internship](https://jobright.ai/jobs/info/68ccb89d128dc347fd92891d?utm_campaign=1051&utm_source=git)** | Yorktown Heights, NY | On Site | Sep 18 |
+| ↳ | **[AI Research Partnerships Internship](https://jobright.ai/jobs/info/68ccef9177add66568abc378?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Sep 18 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/68cce9d15954791a1d7011f3?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Sep 18 |
 | ↳ | **[Intern - Commercial Agribusiness (Summer 2026)](https://jobright.ai/jobs/info/68cc8ff87342c7623ae66916?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Sep 18 |
 | ↳ | **[Intern - Commercial Banking and Credit (Summer 2026)](https://jobright.ai/jobs/info/68cc8d85128dc347fd92682a?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 18 |
@@ -117,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Sales Enablement (Analytics) Intern](https://jobright.ai/jobs/info/68cc5c37128dc347fd923711?utm_campaign=1051&utm_source=git)** | US-IL-Skokie | Hybrid | Sep 18 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68cc5bfb7342c7623ae63113?utm_campaign=1051&utm_source=git)** | 53142 | On Site | Sep 18 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/68cc5a4616d00d2beeb1db76?utm_campaign=1051&utm_source=git)** | Kentucky, United States | On Site | Sep 18 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/68cc596016d00d2beeb1d9eb?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 18 |
 | **[AGEISS Inc.](https://www.ageiss.com/)** | **[Realty Specialist - DOD Skillbridge](https://jobright.ai/jobs/info/68cc5895128dc347fd922d06?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Sep 18 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68cc97fa16d00d2beeb21e73?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 18 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68cc5887128dc347fd922cea?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 18 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68cc97fa16d00d2beeb21e73?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 18 |
 | **[HotTakes](https://hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/6882ff95b54cac0f1e73461f?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 18 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68ccd8dfd11b445e0bee2bbd?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Sep 18 |
 | **[IBM](http://www.ibm.com)** | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68cc53e0128dc347fd922bdc?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Sep 18 |
@@ -130,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68cc5260128dc347fd92294d?utm_campaign=1051&utm_source=git)** | Fresno, CA | Hybrid | Sep 18 |
 | ↳ | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68cc517616d00d2beeb1d52d?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Sep 18 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68cce75377add66568abbb61?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Sep 18 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68ccab467342c7623ae67ee3?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 18 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68ccae0016d00d2beeb22e99?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 18 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cc50cf128dc347fd9226f3?utm_campaign=1051&utm_source=git)** | Brentwood, CA | Hybrid | Sep 18 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cc509916d00d2beeb1d42b?utm_campaign=1051&utm_source=git)** | Lakewood, WA | Hybrid | Sep 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Inspirit Equity](inspiritequity.com)** | **[Private Equity Analyst, Business Development Internship](https://jobright.ai/jobs/info/68cc492e16d00d2beeb1cf72?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Sep 18 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cc48cf7342c7623ae6214b?utm_campaign=1051&utm_source=git)** | Bozeman, MT | Hybrid | Sep 18 |
 | **[American Foods Group](https://www.americanfoodsgroup.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccc3aafa466330fef90e03?utm_campaign=1051&utm_source=git)** | US-WI-Green Bay | On Site | Sep 18 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cc48647342c7623ae620c2?utm_campaign=1051&utm_source=git)** | Rowlett, TX | Hybrid | Sep 18 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cc47c37342c7623ae61fdb?utm_campaign=1051&utm_source=git)** | Watsonville, CA | Hybrid | Sep 18 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cc479a128dc347fd921f79?utm_campaign=1051&utm_source=git)** | Dearborn Heights, MI | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
