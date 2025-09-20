@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[Business Developer & Strategy (Micro Intern)](https://jobright.ai/jobs/info/68cf14fedbd9fb154ede4f0e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 20 |
+| **[Tractor Zoom](https://tractorzoom.com)** | **[Inside Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf10ac846f0b04af67f089?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Hybrid | Sep 20 |
+| **[Manhattan Edit Workshop](https://www.mewshop.com/)** | **[Sales Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf1085846f0b04af67f056?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Sep 20 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk (6) PT 6357](https://jobright.ai/jobs/info/68cf0cc5fb49c96ca6ea57e5?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Sep 20 |
+| ↳ | **[Sales Clerk Leader FT 6365](https://jobright.ai/jobs/info/68cf088dfb49c96ca6ea54bf?utm_campaign=1051&utm_source=git)** | Kodiak, AK | On Site | Sep 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Springfield, IL - Summer 2026](https://jobright.ai/jobs/info/68cef5eedbd9fb154ede3dbe?utm_campaign=1051&utm_source=git)** | Springfield | On Site | Sep 20 |
 | **[Property Pros Real Estate](https://goprony.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/68cedd38846f0b04af67d836?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Sep 20 |
 | **[WOW Payments](http://wowpayments.com)** | **[Business Development Intern - NEW YORK Office - CAN START ASAP](https://jobright.ai/jobs/info/68ced4effb49c96ca6ea3c9b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
@@ -74,8 +79,10 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Business Development Intern- Summer 2026 - Franklin, TN](https://jobright.ai/jobs/info/68cea8e0dbd9fb154ede1cf7?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Sep 20 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Sales Internships](https://jobright.ai/jobs/info/68cea704fb49c96ca6ea2838?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68cea5fffb49c96ca6ea2659?utm_campaign=1051&utm_source=git)** | Abilene, TX | On Site | Sep 20 |
+| ↳ | **[Sales and Management Intern (Fairfield Commons)](https://jobright.ai/jobs/info/6898371e83d13d1f5b68bf6c?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Sep 20 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Cincinnati/Dayton, OH](https://jobright.ai/jobs/info/68ce9a08fb49c96ca6ea2004?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 20 |
-| ↳ | **[2026 Management and Sales Intern - Indianapolis](https://jobright.ai/jobs/info/68ce9400846f0b04af67b443?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 20 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Broker Management Internship - Summer 2026](https://jobright.ai/jobs/info/68b29b84f4e41a61efd86f1b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Indianapolis](https://jobright.ai/jobs/info/68ce9400846f0b04af67b443?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 20 |
 | ↳ | **[2026 Management and Sales Intern - St. Louis](https://jobright.ai/jobs/info/68b1ff4bbc187f64e1bd895e?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 20 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – B2B Sales Intern](https://jobright.ai/jobs/info/68c7b50127f073224060370d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68983b5e83d13d1f5b68c5da?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Sep 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdceb6b2a74e1837edc8cb?utm_campaign=1051&utm_source=git)** | Smithfield, RI | Hybrid | Sep 19 |
 | **[Broadway Across America](https://www.broadwayacrossamerica.com)** | **[BAA/BTC Regional Apprenticeship](https://jobright.ai/jobs/info/68cdce9ce23def7af55bf66f?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 19 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Sales Velocity Analyst](https://jobright.ai/jobs/info/68cdce871ad6b16f0289f219?utm_campaign=1051&utm_source=git)** | San Francisco | On Site | Sep 19 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[intern](https://jobright.ai/jobs/info/68cdce401ad6b16f0289f19e?utm_campaign=1051&utm_source=git)** | Beavercreek OH The Greene | On Site | Sep 19 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdce3bb2a74e1837edc84e?utm_campaign=1051&utm_source=git)** | Durham, NC | Hybrid | Sep 19 |
-| ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdce1db2a74e1837edc82b?utm_campaign=1051&utm_source=git)** | Westlake, TX | Hybrid | Sep 19 |
-| **[The Carlyle Group](http://www.carlyle.com)** | **[2026 Global Investor Relations Sales Intern](https://jobright.ai/jobs/info/68cdcaafb2a74e1837edc6df?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 19 |
-| **[CITGO](https://www.citgo.com/Home.jsp)** | **[BUYER INTERN](https://jobright.ai/jobs/info/68cdca441ad6b16f0289f098?utm_campaign=1051&utm_source=git)** | Downers Grove, IL | On Site | Sep 19 |
-| **[Wayfair](https://www.wayfair.com)** | **[Commercial Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68cdc9eab2a74e1837edc5f9?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 19 |
-| ↳ | **[Commercial Associate Co-op - January 2026](https://jobright.ai/jobs/info/68cdc9b91ad6b16f0289efe4?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
