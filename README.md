@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ce2276e23def7af55c29ba?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Sep 19 |
+| **[H15DEN](https://h15den.com)** | **[Strategy & Business Developer (Micro Intern)](https://jobright.ai/jobs/info/68ce2188e23def7af55c27b2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 19 |
+| **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ce1ff01ad6b16f028a21b2?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Sep 19 |
+| **[Jordan's Furniture](http://www.jordans.com/)** | **[Retail Sales Summer Internship](https://jobright.ai/jobs/info/68ce1364e23def7af55c1dfe?utm_campaign=1051&utm_source=git)** | Avon, MA | On Site | Sep 19 |
+| ↳ | **[Retail Sales Summer Internship](https://jobright.ai/jobs/info/68ce12b2e23def7af55c1d64?utm_campaign=1051&utm_source=git)** | Reading, MA | On Site | Sep 19 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern - Nationwide](https://jobright.ai/jobs/info/68ce1220e23def7af55c1cf2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Sep 19 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68ce0bba1ad6b16f028a169b?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Sep 19 |
+| **[McKinstry](http://www.mckinstry.com)** | **[Sales Excellence Intern](https://jobright.ai/jobs/info/68ce08c9e23def7af55c190d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 19 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68ce0776e23def7af55c1702?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Sep 19 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Dairy Market](https://jobright.ai/jobs/info/68ce07631ad6b16f028a146f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[St. Michael's Inc.](http://www.stmichaelsinc.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ce06741ad6b16f028a1294?utm_campaign=1051&utm_source=git)** | Woodbridge, VA | On Site | Sep 19 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdb07d1ad6b16f0289dbf5?utm_campaign=1051&utm_source=git)** | Winter Garden, FL | Hybrid | Sep 19 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdb074e23def7af55be1be?utm_campaign=1051&utm_source=git)** | Fort Pierce, FL | Hybrid | Sep 19 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdb074e23def7af55be1bf?utm_campaign=1051&utm_source=git)** | Niagara Falls, NY | Hybrid | Sep 19 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdafd01ad6b16f0289daee?utm_campaign=1051&utm_source=git)** | Gallatin, TN | Hybrid | Sep 19 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdaf471ad6b16f0289da2e?utm_campaign=1051&utm_source=git)** | Brea, CA | Hybrid | Sep 19 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdae27e23def7af55bdd9e?utm_campaign=1051&utm_source=git)** | Ocoee, FL | Hybrid | Sep 19 |
-| **[Beacon Ridge](https://www.linkedin.com/company/108612819)** | **[Retail Banking Client Solutions Intern](https://jobright.ai/jobs/info/68cdadbde23def7af55bdcdb?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 19 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdab2eb2a74e1837edaeab?utm_campaign=1051&utm_source=git)** | Wilson, NC | Hybrid | Sep 19 |
-| **[Aqua](https://www.aquawater.com/)** | **[Seasonal Intern](https://jobright.ai/jobs/info/68cdaa6a1ad6b16f0289d81a?utm_campaign=1051&utm_source=git)** | PA Bryn Mawr | On Site | Sep 19 |
-| **[GlobalFoundries](https://gf.com/)** | **[Sales Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cda9b6b2a74e1837edab1c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 19 |
-| **[Donaldson](http://donaldson.com)** | **[Revenue Operations Internship](https://jobright.ai/jobs/info/68cda991b2a74e1837edaaa7?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
