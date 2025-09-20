@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Graduate Intern, Dell Venture Capital](https://jobright.ai/jobs/info/68ce555e846f0b04af678c90?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 20 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Indianapolis](https://jobright.ai/jobs/info/68ce9400846f0b04af67b443?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 20 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/68b197d7f4e41a61efd7e6f2?utm_campaign=1051&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 20 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[WinField United Sales Intern, Summer 2026](https://jobright.ai/jobs/info/68ce54f4846f0b04af678ab6?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Sep 20 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Corporate Development Intern - 2026](https://jobright.ai/jobs/info/68ce54de846f0b04af678a66?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Sep 20 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce545e846f0b04af6787fc?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Sep 20 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4fe8846f0b04af678247?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
-| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4f46846f0b04af67819e?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 19 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Graduate Intern, Dell Venture Capital](https://jobright.ai/jobs/info/68ce8f51846f0b04af67b175?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 20 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4f46846f0b04af67819e?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4f2e846f0b04af678181?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4f1cdbd9fb154eddddbb?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4e5bdbd9fb154edddcf5?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
@@ -86,13 +87,9 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68ce0bba1ad6b16f028a169b?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Sep 19 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Sales Excellence Intern](https://jobright.ai/jobs/info/68ce08c9e23def7af55c190d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 19 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68ce0776e23def7af55c1702?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Sep 19 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Dairy Market](https://jobright.ai/jobs/info/68ce07631ad6b16f028a146f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[St. Michael's Inc.](http://www.stmichaelsinc.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ce06741ad6b16f028a1294?utm_campaign=1051&utm_source=git)** | Woodbridge, VA | On Site | Sep 19 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Energy Markets](https://jobright.ai/jobs/info/68ce063b1ad6b16f028a121f?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
-| **[Another Planet Entertainment](http://apeconcerts.com)** | **[Promoter 101 Intern - Fall/Winter](https://jobright.ai/jobs/info/68ce0461e23def7af55c165f?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Sep 19 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Northeastern Co-op Internship - Spring Term 2026](https://jobright.ai/jobs/info/68ce0180b2a74e1837ede566?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Sep 19 |
 | **[Emerson](http://www.emerson.com)** | **[Field Device Management Sales Enablement Intern](https://jobright.ai/jobs/info/68ce00ce1ad6b16f028a0d28?utm_campaign=1051&utm_source=git)** | Round Rock, TX | Hybrid | Sep 19 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Dairy Market](https://jobright.ai/jobs/info/68ce0022b2a74e1837ede2de?utm_campaign=1051&utm_source=git)** | US-IL-Chicago | On Site | Sep 19 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Intern, Account Management](https://jobright.ai/jobs/info/68cdffbe1ad6b16f028a0ac6?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 19 |
 | **[GlobalFoundries](https://gf.com/)** | **[Customer Business Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdfba7b2a74e1837ede04a?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 19 |
 | ↳ | **[Sales Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdfb951ad6b16f028a0906?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 19 |
@@ -102,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[End Markets Intern, Automotive (Summer 2026)](https://jobright.ai/jobs/info/68cdf872e23def7af55c093a?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 19 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Starting in Summer 2026](https://jobright.ai/jobs/info/68cdf5bd1ad6b16f028a039c?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
 | **[PowerChord, Inc.](https://www.powerchord.com/)** | **[Sales Internship (Fall 2025)](https://jobright.ai/jobs/info/68cdf3f9b2a74e1837edd94b?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | On Site | Sep 19 |
+| **[Great Plains Manufacturing, Inc.](http://www.greatplainsmfg.com/)** | **[Ag Equipment Sales Intern](https://jobright.ai/jobs/info/68ce88cf846f0b04af67ad67?utm_campaign=1051&utm_source=git)** | Salina, KS | On Site | Sep 19 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (Missouri Western State Athletics) - Fall 2025](https://jobright.ai/jobs/info/68cde5701ad6b16f0289fc85?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Sep 19 |
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Technical Sales & Service Intern](https://jobright.ai/jobs/info/68cde403e23def7af55bff71?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Sep 19 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Northeastern Co-op Internship - Spring Term 2026](https://jobright.ai/jobs/info/68cde3a41ad6b16f0289faa6?utm_campaign=1051&utm_source=git)** | 75 Arlington Street, Boston, MA, 02116, US | On Site | Sep 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdb474b2a74e1837edb84e?utm_campaign=1051&utm_source=git)** | Los Banos, CA | Hybrid | Sep 19 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdb46bb2a74e1837edb840?utm_campaign=1051&utm_source=git)** | Mentor, OH | Hybrid | Sep 19 |
 | **[GlobalFoundries](https://gf.com/)** | **[End Markets Intern, Automotive (Summer 2026)](https://jobright.ai/jobs/info/68cdb3d6b2a74e1837edb701?utm_campaign=1051&utm_source=git)** | USA - Texas - Austin | On Site | Sep 19 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Retail Location Planning & Allocation Intern, Spring 2026](https://jobright.ai/jobs/info/68cdb3621ad6b16f0289e1b5?utm_campaign=1051&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 19 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Graduate Intern, Dell Venture Capital](https://jobright.ai/jobs/info/68cdb360b2a74e1837edb5c7?utm_campaign=1051&utm_source=git)** | Palo Alto, California, United States | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
