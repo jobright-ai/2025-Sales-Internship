@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Springfield, IL - Summer 2026](https://jobright.ai/jobs/info/68cef5eedbd9fb154ede3dbe?utm_campaign=1051&utm_source=git)** | Springfield | On Site | Sep 20 |
 | **[Property Pros Real Estate](https://goprony.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/68cedd38846f0b04af67d836?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Sep 20 |
 | **[WOW Payments](http://wowpayments.com)** | **[Business Development Intern - NEW YORK Office - CAN START ASAP](https://jobright.ai/jobs/info/68ced4effb49c96ca6ea3c9b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ced3cfdbd9fb154ede3138?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 20 |
@@ -102,8 +103,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce492efb49c96ca6e9e644?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 19 |
 | **[Primetals Technologies](https://primetals.com)** | **[Global Sourcing Associate (INTERNSHIP)](https://jobright.ai/jobs/info/68ce7693fb49c96ca6ea0ade?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Sep 19 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ce2276e23def7af55c29ba?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Sep 19 |
-| **[H15DEN](https://h15den.com)** | **[Strategy & Business Developer (Micro Intern)](https://jobright.ai/jobs/info/68ce2188e23def7af55c27b2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 19 |
-| **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ce1ff01ad6b16f028a21b2?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Sep 19 |
+| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ce1ff01ad6b16f028a21b2?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Sep 19 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Retail Sales Summer Internship](https://jobright.ai/jobs/info/68ce1364e23def7af55c1dfe?utm_campaign=1051&utm_source=git)** | Avon, MA | On Site | Sep 19 |
 | ↳ | **[Retail Sales Summer Internship](https://jobright.ai/jobs/info/68ce12b2e23def7af55c1d64?utm_campaign=1051&utm_source=git)** | Reading, MA | On Site | Sep 19 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern - Nationwide](https://jobright.ai/jobs/info/68ce1220e23def7af55c1cf2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Sep 19 |
