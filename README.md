@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdcee71ad6b16f0289f2c7?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Hybrid | Sep 19 |
 | ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdcebf1ad6b16f0289f27b?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 19 |
 | ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdcebee23def7af55bf6a0?utm_campaign=1051&utm_source=git)** | Merrimack, NH | Hybrid | Sep 19 |
-| ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdceb7e23def7af55bf690?utm_campaign=1051&utm_source=git)** | Covington, KY | Hybrid | Sep 19 |
 | ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdceb7e23def7af55bf691?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 19 |
+| ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdceb7e23def7af55bf690?utm_campaign=1051&utm_source=git)** | Covington, KY | Hybrid | Sep 19 |
 | ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdceb6b2a74e1837edc8cb?utm_campaign=1051&utm_source=git)** | Smithfield, RI | Hybrid | Sep 19 |
 | **[Broadway Across America](https://www.broadwayacrossamerica.com)** | **[BAA/BTC Regional Apprenticeship](https://jobright.ai/jobs/info/68cdce9ce23def7af55bf66f?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 19 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Sales Velocity Analyst](https://jobright.ai/jobs/info/68cdce871ad6b16f0289f219?utm_campaign=1051&utm_source=git)** | San Francisco | On Site | Sep 19 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Dallas, TX](https://jobright.ai/jobs/info/68cdb0b31ad6b16f0289dc42?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 19 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdb0af1ad6b16f0289dc3c?utm_campaign=1051&utm_source=git)** | Attleboro, MA | Hybrid | Sep 19 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdb07d1ad6b16f0289dbf5?utm_campaign=1051&utm_source=git)** | Winter Garden, FL | Hybrid | Sep 19 |
-| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdb074e23def7af55be1be?utm_campaign=1051&utm_source=git)** | Fort Pierce, FL | Hybrid | Sep 19 |
 | ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdb074e23def7af55be1bf?utm_campaign=1051&utm_source=git)** | Niagara Falls, NY | Hybrid | Sep 19 |
+| ↳ | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cdb074e23def7af55be1be?utm_campaign=1051&utm_source=git)** | Fort Pierce, FL | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
