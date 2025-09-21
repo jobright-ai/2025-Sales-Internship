@@ -78,10 +78,13 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[Smart Security Sales Internship](https://jobright.ai/jobs/info/68cebd6e846f0b04af67c911?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68ce48a1846f0b04af677d73?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Sep 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Business Development Intern- Summer 2026 - Franklin, TN](https://jobright.ai/jobs/info/68cea8e0dbd9fb154ede1cf7?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Sep 20 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6895429c73b3a600fe88615f?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Sep 20 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Sales Internships](https://jobright.ai/jobs/info/68cea704fb49c96ca6ea2838?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68cea5fffb49c96ca6ea2659?utm_campaign=1051&utm_source=git)** | Abilene, TX | On Site | Sep 20 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68b201641ade4306aa633b49?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68b20780bc187f64e1bd8dcd?utm_campaign=1051&utm_source=git)** | Rowlett, TX | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern (Fairfield Commons)](https://jobright.ai/jobs/info/6898371e83d13d1f5b68bf6c?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Sep 20 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/689752a873b3a600fe896e40?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Sep 20 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Cincinnati/Dayton, OH](https://jobright.ai/jobs/info/68ce9a08fb49c96ca6ea2004?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 20 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Relationship Manager Resource Analyst Co-Op](https://jobright.ai/jobs/info/68ca0fe8f16e3266d2822300?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Sep 20 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Broker Management Internship - Summer 2026](https://jobright.ai/jobs/info/68b29b84f4e41a61efd86f1b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
@@ -117,7 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ce2276e23def7af55c29ba?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Sep 19 |
 | ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ce1ff01ad6b16f028a21b2?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Sep 19 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Retail Sales Summer Internship](https://jobright.ai/jobs/info/68ce1364e23def7af55c1dfe?utm_campaign=1051&utm_source=git)** | Avon, MA | On Site | Sep 19 |
-| ↳ | **[Retail Sales Summer Internship](https://jobright.ai/jobs/info/68ce12b2e23def7af55c1d64?utm_campaign=1051&utm_source=git)** | Reading, MA | On Site | Sep 19 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Starting in Summer 2026](https://jobright.ai/jobs/info/68cf6bde846f0b04af68203a?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Sep 19 |
+| **[Jordan's Furniture](http://www.jordans.com/)** | **[Retail Sales Summer Internship](https://jobright.ai/jobs/info/68ce12b2e23def7af55c1d64?utm_campaign=1051&utm_source=git)** | Reading, MA | On Site | Sep 19 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern - Nationwide](https://jobright.ai/jobs/info/68ce1220e23def7af55c1cf2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Sep 19 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68ce0bba1ad6b16f028a169b?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Sep 19 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Sales Excellence Intern](https://jobright.ai/jobs/info/68ce08c9e23def7af55c190d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026  Advisory Full-time Internship](https://jobright.ai/jobs/info/68cecb2adbd9fb154ede2d99?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Sep 19 |
 | **[Social Influence Studios](https://www.linkedin.com/company/104686333)** | **[Closer for high ticket offer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa47?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Sep 19 |
 | **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Summer 2026  Advisory Full-time Internship](https://jobright.ai/jobs/info/68cdd471b2a74e1837edcb48?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Sep 19 |
-| **[Broadway Across America](https://www.broadwayacrossamerica.com)** | **[BAA/BTC Regional Apprenticeship](https://jobright.ai/jobs/info/68cdd3a11ad6b16f0289f467?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Sep 19 |
-| **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Sales Velocity Analyst](https://jobright.ai/jobs/info/68cdcf45b2a74e1837edc988?utm_campaign=1051&utm_source=git)** | New York | On Site | Sep 19 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdcf19b2a74e1837edc936?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Sep 19 |
-| ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdcefb1ad6b16f0289f2f4?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
