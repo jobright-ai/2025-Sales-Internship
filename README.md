@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Campus Retail Associate (Seasonal) Bentley](https://jobright.ai/jobs/info/68d047d9dbd9fb154edee3c1?utm_campaign=1051&utm_source=git)** | US-MA-WALTHAM | On Site | Sep 21 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68d04103846f0b04af6884a3?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Sep 21 |
 | **[Nur](nurprotein.com)** | **[E-Commerce & Brand Systems Intern](https://jobright.ai/jobs/info/68d03164fb49c96ca6eae919?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Sep 21 |
 | **[CodePay](https://www.linkedin.com/company/90578354)** | **[customer success intern](https://jobright.ai/jobs/info/68d03155fb49c96ca6eae908?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Sep 21 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68d03014dbd9fb154ededdf0?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Sep 21 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/68d016d7dbd9fb154eded31e?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 21 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d00b89846f0b04af687264?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Sep 21 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Sep 21 |
 | **[H15DEN](https://h15den.com)** | **[Strategy and Business Developer - Micro Internship](https://jobright.ai/jobs/info/68cff22a846f0b04af68651d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 21 |
 | **[AgriVision Equipment Group](https://www.agrivisionequipment.com/)** | **[Ag Dealership Intern](https://jobright.ai/jobs/info/68cfe9c8dbd9fb154edebce5?utm_campaign=1051&utm_source=git)** | Hutchinson, KS | Hybrid | Sep 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern - Fall](https://jobright.ai/jobs/info/68cd404b1ad6b16f02896f25?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 21 |
@@ -71,15 +74,16 @@ For a complete list, click the following sortable link below:
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cf9bc2dbd9fb154ede9306?utm_campaign=1051&utm_source=git)** | Lancaster, TX | On Site | Sep 20 |
 | **[PinPark Inc.](www.pinpark.co)** | **[Business Development Intern – RFPs & Applications](https://jobright.ai/jobs/info/68cfecd5846f0b04af68631f?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Dekalb, IL - Summer 2026](https://jobright.ai/jobs/info/68cf504edbd9fb154ede6728?utm_campaign=1051&utm_source=git)** | Dekalb | On Site | Sep 20 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68cf434dfb49c96ca6ea687c?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Sep 20 |
 | **[Tractor Zoom](https://tractorzoom.com)** | **[Inside Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf10ac846f0b04af67f089?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Hybrid | Sep 20 |
 | **[Manhattan Edit Workshop](https://www.mewshop.com/)** | **[Sales Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf1085846f0b04af67f056?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Sep 20 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk (6) PT 6357](https://jobright.ai/jobs/info/68cf0cc5fb49c96ca6ea57e5?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Sep 20 |
 | ↳ | **[Sales Clerk Leader FT 6365](https://jobright.ai/jobs/info/68cf088dfb49c96ca6ea54bf?utm_campaign=1051&utm_source=git)** | Kodiak, AK | On Site | Sep 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Springfield, IL - Summer 2026](https://jobright.ai/jobs/info/68cef5eedbd9fb154ede3dbe?utm_campaign=1051&utm_source=git)** | Springfield | On Site | Sep 20 |
 | **[WOW Payments](http://wowpayments.com)** | **[Business Development Intern - NEW YORK Office - CAN START ASAP](https://jobright.ai/jobs/info/68ced4effb49c96ca6ea3c9b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
+| **[Siemens](https://www.siemens.com/)** | **[Smart Buildings Fire & Life Safety Sales Internship](https://jobright.ai/jobs/info/68b1b150f4e41a61efd7f275?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ced3cfdbd9fb154ede3138?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 20 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68cecf5b846f0b04af67d24f?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 20 |
+| **[Siemens](https://www.siemens.com/)** | **[Smart Buildings Fire & Life Safety Sales Internship](https://jobright.ai/jobs/info/68b05f312d46f6396cae4d84?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Sep 20 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68cecf5b846f0b04af67d24f?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 20 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68cecb9bdbd9fb154ede2e97?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 20 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68cecb5e846f0b04af67cfb3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68983ae283d13d1f5b68c50e?utm_campaign=1051&utm_source=git)** | Kokomo, IN | On Site | Sep 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce492efb49c96ca6e9e644?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 19 |
 | **[Primetals Technologies](https://primetals.com)** | **[Global Sourcing Associate (INTERNSHIP)](https://jobright.ai/jobs/info/68ce7693fb49c96ca6ea0ade?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Sep 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689835bf83d13d1f5b68bd3c?utm_campaign=1051&utm_source=git)** | Barboursville, WV | On Site | Sep 19 |
-| **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Sales Associate - Summer 2026 Internship Program](https://jobright.ai/jobs/info/68b096182d46f6396cae6c14?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Sep 19 |
-| **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6895001e73b3a600fe884312?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 19 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68984e3d83d13d1f5b68dc0e?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Sep 19 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68983b0efaa4e875e824c52f?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
