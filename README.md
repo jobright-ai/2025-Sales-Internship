@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/68d016d7dbd9fb154eded31e?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 21 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d00b89846f0b04af687264?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Sep 21 |
 | **[H15DEN](https://h15den.com)** | **[Strategy and Business Developer - Micro Internship](https://jobright.ai/jobs/info/68cff22a846f0b04af68651d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 21 |
 | **[AgriVision Equipment Group](https://www.agrivisionequipment.com/)** | **[Ag Dealership Intern](https://jobright.ai/jobs/info/68cfe9c8dbd9fb154edebce5?utm_campaign=1051&utm_source=git)** | Hutchinson, KS | Hybrid | Sep 21 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68cfcc47846f0b04af68525c?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Sep 21 |
@@ -85,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[Smart Security Sales Internship](https://jobright.ai/jobs/info/68cebd6e846f0b04af67c911?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Customer Excellence Intern – Summer 2026](https://jobright.ai/jobs/info/68b25469f4e41a61efd83804?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 MBA Summer Intern – Account Manager, US](https://jobright.ai/jobs/info/68b24293bc187f64e1bda29e?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Sep 20 |
+| **[Siemens](https://www.siemens.com/)** | **[Buildings Automation Solutions & Service Sales Internship](https://jobright.ai/jobs/info/68b1e06abc187f64e1bd774c?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68ce48a1846f0b04af677d73?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Sep 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Business Development Intern- Summer 2026 - Franklin, TN](https://jobright.ai/jobs/info/68cea8e0dbd9fb154ede1cf7?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6897db981b9e81727f1a1fcb?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Sep 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Retail Sales Summer Internship](https://jobright.ai/jobs/info/68ce12b2e23def7af55c1d64?utm_campaign=1051&utm_source=git)** | Reading, MA | On Site | Sep 19 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern - Nationwide](https://jobright.ai/jobs/info/68ce1220e23def7af55c1cf2?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Sep 19 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68ce0bba1ad6b16f028a169b?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Sep 19 |
-| **[McKinstry](http://www.mckinstry.com)** | **[Sales Excellence Intern](https://jobright.ai/jobs/info/68ce08c9e23def7af55c190d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 19 |
-| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68ce0776e23def7af55c1702?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Sep 19 |
-| **[St. Michael's Inc.](http://www.stmichaelsinc.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ce06741ad6b16f028a1294?utm_campaign=1051&utm_source=git)** | Woodbridge, VA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
