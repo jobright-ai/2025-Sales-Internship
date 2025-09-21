@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic National Distributing Company](http://www.rndc-usa.com/)** | **[College Intern, Sales](https://jobright.ai/jobs/info/68cfc363fb49c96ca6eab4c2?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 21 |
+| **[Alpha Omega Consultancy Services](https://www.linkedin.com/company/101694334)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cfb26e846f0b04af684802?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 21 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cf9bc2dbd9fb154ede9306?utm_campaign=1051&utm_source=git)** | Lancaster, TX | On Site | Sep 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Dekalb, IL - Summer 2026](https://jobright.ai/jobs/info/68cf504edbd9fb154ede6728?utm_campaign=1051&utm_source=git)** | Dekalb | On Site | Sep 20 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68cf434dfb49c96ca6ea687c?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Sep 20 |
@@ -89,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern (Fairfield Commons)](https://jobright.ai/jobs/info/6898371e83d13d1f5b68bf6c?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Sep 20 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/689752a873b3a600fe896e40?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Sep 20 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Cincinnati/Dayton, OH](https://jobright.ai/jobs/info/68ce9a08fb49c96ca6ea2004?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 20 |
+| ↳ | **[2026 Management and Sales Intern - Tri-State](https://jobright.ai/jobs/info/68b1fb7ff4e41a61efd81570?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Sep 20 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Relationship Manager Resource Analyst Co-Op](https://jobright.ai/jobs/info/68ca0fe8f16e3266d2822300?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/6898574e5574fd6bc0c7869b?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Sep 20 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Broker Management Internship - Summer 2026](https://jobright.ai/jobs/info/68b29b84f4e41a61efd86f1b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
@@ -101,9 +104,11 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Account Management Intern](https://jobright.ai/jobs/info/68b197d7f4e41a61efd7e6f2?utm_campaign=1051&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 20 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Internship - Business Development](https://jobright.ai/jobs/info/68b1f516f4e41a61efd80f79?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 20 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Business Management Associate, Foodservice Sales](https://jobright.ai/jobs/info/68953a924ed2ea559ca54411?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Sep 20 |
+| **[Homes by WestBay](http://www.homesbywestbay.com)** | **[Land Development Internship](https://jobright.ai/jobs/info/68cfb226fb49c96ca6eaae66?utm_campaign=1051&utm_source=git)** | Riverview, FL | On Site | Sep 20 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[WinField United Sales Intern, Summer 2026](https://jobright.ai/jobs/info/68ce54f4846f0b04af678ab6?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Sep 20 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Corporate Development Intern - 2026](https://jobright.ai/jobs/info/68ce54de846f0b04af678a66?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Sep 20 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce545e846f0b04af6787fc?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Sep 20 |
+| **[Molex](http://www.molex.com)** | **[Molex Business Development Internship Program- Summer 2026](https://jobright.ai/jobs/info/68b16a2104557a6c207bd693?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Sep 20 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Graduate Intern, Dell Venture Capital](https://jobright.ai/jobs/info/68ce8f51846f0b04af67b175?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 20 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68cec5a1dbd9fb154ede298d?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4f46846f0b04af67819e?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 19 |
@@ -114,13 +119,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4acdfb49c96ca6e9e922?utm_campaign=1051&utm_source=git)** | Sartell, MN | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4aa9dbd9fb154edddc54?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4aa8fb49c96ca6e9e8d7?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Sep 19 |
-| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4aa0fb49c96ca6e9e8c4?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Sep 19 |
+| **[Molex](http://www.molex.com)** | **[Molex Associate Sales Engineer Intern 2026](https://jobright.ai/jobs/info/68b17841bc187f64e1bd4e32?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Sep 19 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4aa0fb49c96ca6e9e8c4?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4a65fb49c96ca6e9e874?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68cecf59846f0b04af67d24c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4a19846f0b04af677fb7?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Sep 19 |
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/68ce494afb49c96ca6e9e677?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce492efb49c96ca6e9e644?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 19 |
 | **[Primetals Technologies](https://primetals.com)** | **[Global Sourcing Associate (INTERNSHIP)](https://jobright.ai/jobs/info/68ce7693fb49c96ca6ea0ade?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Sep 19 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689835bf83d13d1f5b68bd3c?utm_campaign=1051&utm_source=git)** | Barboursville, WV | On Site | Sep 19 |
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Sales Associate - Summer 2026 Internship Program](https://jobright.ai/jobs/info/68b096182d46f6396cae6c14?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Sep 19 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6895001e73b3a600fe884312?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 19 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68984e3d83d13d1f5b68dc0e?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Sep 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Dairy Market](https://jobright.ai/jobs/info/68cea828846f0b04af67c27c?utm_campaign=1051&utm_source=git)** | US-IL-Chicago | On Site | Sep 19 |
 | ↳ | **[Intern - Energy Markets](https://jobright.ai/jobs/info/68cea7b0846f0b04af67c1c7?utm_campaign=1051&utm_source=git)** | US-MO-Kansas City | On Site | Sep 19 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Starting in Summer 2026](https://jobright.ai/jobs/info/68cdf8dfe23def7af55c09d1?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
-| **[GlobalFoundries](https://gf.com/)** | **[End Markets Intern, Automotive (Summer 2026)](https://jobright.ai/jobs/info/68cdf872e23def7af55c093a?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 19 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Starting in Summer 2026](https://jobright.ai/jobs/info/68cdf5bd1ad6b16f028a039c?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
-| **[SAP](https://www.sap.com)** | **[Customer Success Manager (CSM) - SAP Academy for Customer Success - Houston (HYBRID)](https://jobright.ai/jobs/info/68cf5060fb49c96ca6ea73c4?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Sep 19 |
-| **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68cf4784fb49c96ca6ea6a08?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Sep 19 |
-| **[PowerChord, Inc.](https://www.powerchord.com/)** | **[Sales Internship (Fall 2025)](https://jobright.ai/jobs/info/68cdf3f9b2a74e1837edd94b?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | On Site | Sep 19 |
-| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (Missouri Western State Athletics) - Fall 2025](https://jobright.ai/jobs/info/68cde5701ad6b16f0289fc85?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Sep 19 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Chicago Metro - North)](https://jobright.ai/jobs/info/68b05c05b47fb001d68916aa?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
