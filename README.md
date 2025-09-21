@@ -73,13 +73,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68cec302846f0b04af67ccf6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Retail Location Planning & Allocation Intern, Spring 2026](https://jobright.ai/jobs/info/68cec1fadbd9fb154ede28c5?utm_campaign=1051&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6894fff64ed2ea559ca527ff?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Sep 20 |
+| **[Siemens](https://www.siemens.com/)** | **[Smart Building X Sales Internship](https://jobright.ai/jobs/info/68cd0cbae23def7af55b471a?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Sep 20 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Sales Intern](https://jobright.ai/jobs/info/68cebd9d846f0b04af67c946?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Merchandise Planning Intern, Spring 2026](https://jobright.ai/jobs/info/68cebd88dbd9fb154ede2790?utm_campaign=1051&utm_source=git)** | Kissimmee, FL | On Site | Sep 20 |
 | **[Siemens](https://www.siemens.com/)** | **[Smart Security Sales Internship](https://jobright.ai/jobs/info/68cebd6e846f0b04af67c911?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Business Development Intern- Summer 2026 - Franklin, TN](https://jobright.ai/jobs/info/68cea8e0dbd9fb154ede1cf7?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Sep 20 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Sales Internships](https://jobright.ai/jobs/info/68cea704fb49c96ca6ea2838?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68cea5fffb49c96ca6ea2659?utm_campaign=1051&utm_source=git)** | Abilene, TX | On Site | Sep 20 |
-| ↳ | **[Sales and Management Intern (Fairfield Commons)](https://jobright.ai/jobs/info/6898371e83d13d1f5b68bf6c?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Sep 20 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68b201641ade4306aa633b49?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern (Fairfield Commons)](https://jobright.ai/jobs/info/6898371e83d13d1f5b68bf6c?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Sep 20 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Cincinnati/Dayton, OH](https://jobright.ai/jobs/info/68ce9a08fb49c96ca6ea2004?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 20 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Broker Management Internship - Summer 2026](https://jobright.ai/jobs/info/68b29b84f4e41a61efd86f1b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Indianapolis](https://jobright.ai/jobs/info/68ce9400846f0b04af67b443?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdceb7e23def7af55bf690?utm_campaign=1051&utm_source=git)** | Covington, KY | Hybrid | Sep 19 |
 | ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdceb7e23def7af55bf691?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 19 |
 | ↳ | **[2026 Interns - Executive Referrals](https://jobright.ai/jobs/info/68cdceb6b2a74e1837edc8cb?utm_campaign=1051&utm_source=git)** | Smithfield, RI | Hybrid | Sep 19 |
-| **[Broadway Across America](https://www.broadwayacrossamerica.com)** | **[BAA/BTC Regional Apprenticeship](https://jobright.ai/jobs/info/68cdce9ce23def7af55bf66f?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 19 |
-| **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Sales Velocity Analyst](https://jobright.ai/jobs/info/68cdce871ad6b16f0289f219?utm_campaign=1051&utm_source=git)** | San Francisco | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
