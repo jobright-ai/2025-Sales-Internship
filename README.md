@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cf9bc2dbd9fb154ede9306?utm_campaign=1051&utm_source=git)** | Lancaster, TX | On Site | Sep 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Dekalb, IL - Summer 2026](https://jobright.ai/jobs/info/68cf504edbd9fb154ede6728?utm_campaign=1051&utm_source=git)** | Dekalb | On Site | Sep 20 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68cf434dfb49c96ca6ea687c?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Sep 20 |
 | **[Tractor Zoom](https://tractorzoom.com)** | **[Inside Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf10ac846f0b04af67f089?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Hybrid | Sep 20 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68ce48a1846f0b04af677d73?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Sep 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Connected Car Business Development Intern- Summer 2026 - Franklin, TN](https://jobright.ai/jobs/info/68cea8e0dbd9fb154ede1cf7?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6895429c73b3a600fe88615f?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Sep 20 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68b205cabc187f64e1bd8c8b?utm_campaign=1051&utm_source=git)** | Bluffton, SC | On Site | Sep 20 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Sales Internships](https://jobright.ai/jobs/info/68cea704fb49c96ca6ea2838?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68cea5fffb49c96ca6ea2659?utm_campaign=1051&utm_source=git)** | Abilene, TX | On Site | Sep 20 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ca63f306a34016008c7fa4?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Sep 20 |
@@ -119,7 +121,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Relations Specialist - Fast Track Opportunity to Freight Broker](https://jobright.ai/jobs/info/68ce494afb49c96ca6e9e677?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce492efb49c96ca6e9e644?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 19 |
 | **[Primetals Technologies](https://primetals.com)** | **[Global Sourcing Associate (INTERNSHIP)](https://jobright.ai/jobs/info/68ce7693fb49c96ca6ea0ade?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Sep 19 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689796808c6d6b442678e555?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Sep 19 |
+| **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Sales Associate - Summer 2026 Internship Program](https://jobright.ai/jobs/info/68b096182d46f6396cae6c14?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Sep 19 |
+| **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6895001e73b3a600fe884312?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 19 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68984e3d83d13d1f5b68dc0e?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Sep 19 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68983b0efaa4e875e824c52f?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 19 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/689796808c6d6b442678e555?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Sep 19 |
 | **[Wonder](https://www.wonder.com)** | **[Buyer Intern - Summer 2026](https://jobright.ai/jobs/info/68b0a2902d46f6396cae7122?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | On Site | Sep 19 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ce2276e23def7af55c29ba?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Sep 19 |
 | ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68ce1ff01ad6b16f028a21b2?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Sep 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PowerChord, Inc.](https://www.powerchord.com/)** | **[Sales Internship (Fall 2025)](https://jobright.ai/jobs/info/68cdf3f9b2a74e1837edd94b?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | On Site | Sep 19 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Corporate Partnerships Internship (Missouri Western State Athletics) - Fall 2025](https://jobright.ai/jobs/info/68cde5701ad6b16f0289fc85?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Sep 19 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Chicago Metro - North)](https://jobright.ai/jobs/info/68b05c05b47fb001d68916aa?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Sep 19 |
-| **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Technical Sales & Service Intern](https://jobright.ai/jobs/info/68cde403e23def7af55bff71?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Sep 19 |
-| **[Aqua](https://www.aquawater.com/)** | **[Seasonal Intern](https://jobright.ai/jobs/info/68ceb441fb49c96ca6ea2efa?utm_campaign=1051&utm_source=git)** | Bryn Mawr, PA | On Site | Sep 19 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Northeastern Co-op Internship - Spring Term 2026](https://jobright.ai/jobs/info/68cde3a41ad6b16f0289faa6?utm_campaign=1051&utm_source=git)** | 75 Arlington Street, Boston, MA, 02116, US | On Site | Sep 19 |
-| **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Sales Operations Field Analyst Intern](https://jobright.ai/jobs/info/68cde39b1ad6b16f0289fa9a?utm_campaign=1051&utm_source=git)** | Jackson, MI | Hybrid | Sep 19 |
-| **[Frazier & Deeter](https://www.frazierdeeter.com/)** | **[Summer 2026  Advisory Full-time Internship](https://jobright.ai/jobs/info/68cddf761ad6b16f0289f921?utm_campaign=1051&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Sep 19 |
-| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68cdde9ce23def7af55bfd0e?utm_campaign=1051&utm_source=git)** | Provo, Utah, United States | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
