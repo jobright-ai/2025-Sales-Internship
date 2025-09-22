@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metalinked](https://www.metalinked.ai)** | **[Growth & Partnerships Fellow](https://jobright.ai/jobs/info/68d0af1bfb49c96ca6eaf75b?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 21 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Terrain Buying Intern- Delaware Valley University](https://jobright.ai/jobs/info/68d09fbafb49c96ca6eaf5df?utm_campaign=1051&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 21 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Iowa City, IA - Summer 2026](https://jobright.ai/jobs/info/68d09cfb846f0b04af688df4?utm_campaign=1051&utm_source=git)** | Iowa City | On Site | Sep 21 |
 | **[H15DEN](https://h15den.com)** | **[Business Developer & Strategy (Micro Intership)](https://jobright.ai/jobs/info/68d08bfbfb49c96ca6eaf3a2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 21 |
@@ -80,7 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Alpha Omega Consultancy Services](https://www.linkedin.com/company/101694334)** | **[Sales Associate Intern](https://jobright.ai/jobs/info/68cfb26e846f0b04af684802?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 21 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cf9bc2dbd9fb154ede9306?utm_campaign=1051&utm_source=git)** | Lancaster, TX | On Site | Sep 20 |
 | **[PinPark Inc.](www.pinpark.co)** | **[Business Development Intern – RFPs & Applications](https://jobright.ai/jobs/info/68cfecd5846f0b04af68631f?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 20 |
+| **[Siemens](https://www.siemens.com/)** | **[Smart Building X Sales Internship](https://jobright.ai/jobs/info/68b2f954bc187f64e1bdf856?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Sep 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Dekalb, IL - Summer 2026](https://jobright.ai/jobs/info/68cf504edbd9fb154ede6728?utm_campaign=1051&utm_source=git)** | Dekalb | On Site | Sep 20 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689859aa83d13d1f5b68ee51?utm_campaign=1051&utm_source=git)** | Grapevine, TX | On Site | Sep 20 |
 | **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2026](https://jobright.ai/jobs/info/68b1ff0bf4e41a61efd81842?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Sales and Services Intern](https://jobright.ai/jobs/info/68b1e571f4e41a61efd8080d?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Sep 20 |
 | **[Tractor Zoom](https://tractorzoom.com)** | **[Inside Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf10ac846f0b04af67f089?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Hybrid | Sep 20 |
@@ -94,8 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[Smart Buildings Fire & Life Safety Sales Internship](https://jobright.ai/jobs/info/68b1b150f4e41a61efd7f275?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ced3cfdbd9fb154ede3138?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 20 |
 | **[Siemens](https://www.siemens.com/)** | **[Smart Buildings Fire & Life Safety Sales Internship](https://jobright.ai/jobs/info/68b05f312d46f6396cae4d84?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Sep 20 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68cecf5b846f0b04af67d24f?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 20 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68cecb9bdbd9fb154ede2e97?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 20 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68cecb9bdbd9fb154ede2e97?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 20 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68cecb5e846f0b04af67cfb3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68983ae283d13d1f5b68c50e?utm_campaign=1051&utm_source=git)** | Kokomo, IN | On Site | Sep 20 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68cecb13846f0b04af67cf12?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4f1cdbd9fb154eddddbb?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4e5bdbd9fb154edddcf5?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce9a7b846f0b04af67b8d1?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
-| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4af7fb49c96ca6e9e955?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Sep 19 |
-| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4acdfb49c96ca6e9e922?utm_campaign=1051&utm_source=git)** | Sartell, MN | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
