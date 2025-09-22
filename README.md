@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[Business Developer & Strategy (Micro Intership)](https://jobright.ai/jobs/info/68d08bfbfb49c96ca6eaf3a2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 21 |
 | **[Great Lakes Wine & Spirits](http://www.GLWAS.com)** | **[2026 Multi-Channel Sales Internship Program](https://jobright.ai/jobs/info/68d06c79dbd9fb154edee8d8?utm_campaign=1051&utm_source=git)** | Highland Park, MI | On Site | Sep 21 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d06200846f0b04af68897e?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 21 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader FT 6458](https://jobright.ai/jobs/info/68d05e6cdbd9fb154edee7a7?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Sep 21 |
 | ↳ | **[Sales Clerk Leader FT 6459](https://jobright.ai/jobs/info/68d05b33fb49c96ca6eaf0a3?utm_campaign=1051&utm_source=git)** | Centreville, VA | On Site | Sep 21 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68d0572efb49c96ca6eaefc3?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 21 |
+| **[HotTakes](https://hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/6887a4b04174df41e0f9f60d?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 21 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Campus Retail Associate (Seasonal) Bentley](https://jobright.ai/jobs/info/68d047d9dbd9fb154edee3c1?utm_campaign=1051&utm_source=git)** | US-MA-WALTHAM | On Site | Sep 21 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68d04103846f0b04af6884a3?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Sep 21 |
-| **[Nur](nurprotein.com)** | **[E-Commerce & Brand Systems Intern](https://jobright.ai/jobs/info/68d03164fb49c96ca6eae919?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Sep 21 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68d03014dbd9fb154ededdf0?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Sep 21 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Representative](https://jobright.ai/jobs/info/68d016d7dbd9fb154eded31e?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 21 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d00b89846f0b04af687264?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Sep 21 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[TractorHouse Sales Intern](https://jobright.ai/jobs/info/664e9858f97ff61ecf83b39e?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Sep 21 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Milwaukee, WI](https://jobright.ai/jobs/info/689d827383d13d1f5b6b0e2a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 21 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68b4309e1ade4306aa63e077?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Sep 21 |
