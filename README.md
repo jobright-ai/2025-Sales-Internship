@@ -57,6 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nosh.com (by BevNET)](https://www.nosh.com/)** | **[Sales Account Management Intern - Once Upon a Farm](https://jobright.ai/jobs/info/68d116e78c62e63bc7fc8ee2?utm_campaign=1051&utm_source=git)** | Florida, United States | On Site | Sep 22 |
+| **[Usermind](https://usermind.com)** | **[SALES DEVELOPMENT REPRESENTATIVE INTERN](https://jobright.ai/jobs/info/68d116dceadd8f0b04fab9b3?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Sep 22 |
+| **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Financial Sales Co-ops (6 Months)](https://jobright.ai/jobs/info/68d1045c7727df7d5a8503bb?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Central GA](https://jobright.ai/jobs/info/68d10382f1976376178f2169?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Sep 22 |
+| **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[College Intern, Sales](https://jobright.ai/jobs/info/68d1033317bd5d3415aa8f6b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - South Metro Atlanta](https://jobright.ai/jobs/info/68d1031f17bd5d3415aa8f3b?utm_campaign=1051&utm_source=git)** | Fayetteville, GA | On Site | Sep 22 |
+| ↳ | **[Retail Store Management Internship - Pensacola, FL (Metro)](https://jobright.ai/jobs/info/68d1029cf1976376178f1fcd?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Sep 22 |
+| ↳ | **[Retail Store Management Internship - Jacksonville, FL](https://jobright.ai/jobs/info/68d101de17bd5d3415aa8bd8?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Sep 22 |
+| ↳ | **[Retail Store Management Internship - North & East Metro Atlanta](https://jobright.ai/jobs/info/68d1015217bd5d3415aa8b5a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Intern, Investor Center - Dublin, CA](https://jobright.ai/jobs/info/68d0ff6df1976376178f1dce?utm_campaign=1051&utm_source=git)** | Dublin, CA | Hybrid | Sep 22 |
+| ↳ | **[Intern, Investor Center - Marin, CA](https://jobright.ai/jobs/info/68d0ff6517bd5d3415aa89ea?utm_campaign=1051&utm_source=git)** | Larkspur, CA | Hybrid | Sep 22 |
+| ↳ | **[Intern, Investor Center - Chandler, AZ](https://jobright.ai/jobs/info/68d0fee27727df7d5a84fc32?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Sep 22 |
+| ↳ | **[Intern, Investor Center - San Diego (Rancho Bernardo), CA](https://jobright.ai/jobs/info/68d0fe8b17bd5d3415aa87c5?utm_campaign=1051&utm_source=git)** | 16745 West Bernardo Drive, San Diego CA | Hybrid | Sep 22 |
+| ↳ | **[Intern, Investor Center - Chandler, AZ](https://jobright.ai/jobs/info/68d0fe2ef1976376178f186e?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 22 |
+| ↳ | **[Intern, Investor Center - Santa Barbara, CA](https://jobright.ai/jobs/info/68d0fdb57727df7d5a84f672?utm_campaign=1051&utm_source=git)** | Santa Barbara, CA | Hybrid | Sep 22 |
+| ↳ | **[Intern, Investor Center - Sacramento, CA](https://jobright.ai/jobs/info/68d0fd827727df7d5a84f57a?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Sep 22 |
+| **[Qualer Asset Management](https://qualer.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/68d0fd7d7727df7d5a84f55e?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Sep 22 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Intern, Investor Center - Campbell, CA](https://jobright.ai/jobs/info/68d0fcaa17bd5d3415aa81a0?utm_campaign=1051&utm_source=git)** | Campbell, CA | Hybrid | Sep 22 |
 | **[Desert Edge Marketing](www.desertedgemarketing.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68d0fca017bd5d3415aa818d?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Sep 22 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d0f76df1976376178f0f60?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 22 |
@@ -126,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern - Fall](https://jobright.ai/jobs/info/68cd404b1ad6b16f02896f25?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Sep 21 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68cfcc47846f0b04af68525c?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Sep 21 |
 | **[Republic National Distributing Company](http://www.rndc-usa.com/)** | **[College Intern, Sales](https://jobright.ai/jobs/info/68cfc363fb49c96ca6eab4c2?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 21 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Lexington](https://jobright.ai/jobs/info/68b1ffecbc187f64e1bd89d3?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Sep 21 |
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cf9bc2dbd9fb154ede9306?utm_campaign=1051&utm_source=git)** | Lancaster, TX | On Site | Sep 20 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6897c0761b9e81727f1a0af0?utm_campaign=1051&utm_source=git)** | Lima, OH | On Site | Sep 20 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/689830a683d13d1f5b68b549?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO | On Site | Sep 20 |
@@ -139,22 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Manhattan Edit Workshop](https://www.mewshop.com/)** | **[Sales Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf1085846f0b04af67f056?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Sep 20 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk (6) PT 6357](https://jobright.ai/jobs/info/68cf0cc5fb49c96ca6ea57e5?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Sep 20 |
 | ↳ | **[Sales Clerk Leader FT 6365](https://jobright.ai/jobs/info/68cf088dfb49c96ca6ea54bf?utm_campaign=1051&utm_source=git)** | Kodiak, AK | On Site | Sep 20 |
-| **[Siemens](https://www.siemens.com/)** | **[Smart Buildings Fire & Life Safety Sales Internship](https://jobright.ai/jobs/info/68b1b056f4e41a61efd7f17c?utm_campaign=1051&utm_source=git)** | Canton, MA | On Site | Sep 20 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Springfield, IL - Summer 2026](https://jobright.ai/jobs/info/68cef5eedbd9fb154ede3dbe?utm_campaign=1051&utm_source=git)** | Springfield | On Site | Sep 20 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689754498c6d6b44267897c0?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 20 |
-| **[WOW Payments](http://wowpayments.com)** | **[Business Development Intern - NEW YORK Office - CAN START ASAP](https://jobright.ai/jobs/info/68ced4effb49c96ca6ea3c9b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
-| **[Siemens](https://www.siemens.com/)** | **[Smart Buildings Fire & Life Safety Sales Internship](https://jobright.ai/jobs/info/68b1b150f4e41a61efd7f275?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ced3cfdbd9fb154ede3138?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 20 |
-| **[Siemens](https://www.siemens.com/)** | **[Smart Buildings Fire & Life Safety Sales Internship](https://jobright.ai/jobs/info/68b05f312d46f6396cae4d84?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Sep 20 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68cecb9bdbd9fb154ede2e97?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 20 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68cecb5e846f0b04af67cfb3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68983ae283d13d1f5b68c50e?utm_campaign=1051&utm_source=git)** | Kokomo, IN | On Site | Sep 20 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68cecb13846f0b04af67cf12?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 20 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68cec302846f0b04af67ccf6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
-| **[Zurich North America](https://www.zurichna.com)** | **[Market Facing Underwriting Trainee](https://jobright.ai/jobs/info/68b1597a04557a6c207bccde?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Sep 20 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Retail Location Planning & Allocation Intern, Spring 2026](https://jobright.ai/jobs/info/68cec1fadbd9fb154ede28c5?utm_campaign=1051&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
-| **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6894fff64ed2ea559ca527ff?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Sep 20 |
-| **[Siemens](https://www.siemens.com/)** | **[Smart Building X Sales Internship](https://jobright.ai/jobs/info/68cd0cbae23def7af55b471a?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Sep 20 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Merchandise Planning Intern, Spring 2026](https://jobright.ai/jobs/info/68cebd88dbd9fb154ede2790?utm_campaign=1051&utm_source=git)** | Kissimmee, FL | On Site | Sep 20 |
-| **[Siemens](https://www.siemens.com/)** | **[Smart Security Sales Internship](https://jobright.ai/jobs/info/68cebd6e846f0b04af67c911?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
