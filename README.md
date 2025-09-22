@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Terrain Buying Intern- Delaware Valley University](https://jobright.ai/jobs/info/68d09fbafb49c96ca6eaf5df?utm_campaign=1051&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 21 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Iowa City, IA - Summer 2026](https://jobright.ai/jobs/info/68d09cfb846f0b04af688df4?utm_campaign=1051&utm_source=git)** | Iowa City | On Site | Sep 21 |
 | **[H15DEN](https://h15den.com)** | **[Business Developer & Strategy (Micro Intership)](https://jobright.ai/jobs/info/68d08bfbfb49c96ca6eaf3a2?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Sep 21 |
 | **[Great Lakes Wine & Spirits](http://www.GLWAS.com)** | **[2026 Multi-Channel Sales Internship Program](https://jobright.ai/jobs/info/68d06c79dbd9fb154edee8d8?utm_campaign=1051&utm_source=git)** | Highland Park, MI | On Site | Sep 21 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d06200846f0b04af68897e?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 21 |
@@ -79,6 +81,8 @@ For a complete list, click the following sortable link below:
 | **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cf9bc2dbd9fb154ede9306?utm_campaign=1051&utm_source=git)** | Lancaster, TX | On Site | Sep 20 |
 | **[PinPark Inc.](www.pinpark.co)** | **[Business Development Intern – RFPs & Applications](https://jobright.ai/jobs/info/68cfecd5846f0b04af68631f?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Dekalb, IL - Summer 2026](https://jobright.ai/jobs/info/68cf504edbd9fb154ede6728?utm_campaign=1051&utm_source=git)** | Dekalb | On Site | Sep 20 |
+| **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2026](https://jobright.ai/jobs/info/68b1ff0bf4e41a61efd81842?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 20 |
+| **[Red Hat](http://www.redhat.com)** | **[Sales and Services Intern](https://jobright.ai/jobs/info/68b1e571f4e41a61efd8080d?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Sep 20 |
 | **[Tractor Zoom](https://tractorzoom.com)** | **[Inside Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf10ac846f0b04af67f089?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Hybrid | Sep 20 |
 | **[Manhattan Edit Workshop](https://www.mewshop.com/)** | **[Sales Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf1085846f0b04af67f056?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Sep 20 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk (6) PT 6357](https://jobright.ai/jobs/info/68cf0cc5fb49c96ca6ea57e5?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Sep 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce9a7b846f0b04af67b8d1?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4af7fb49c96ca6e9e955?utm_campaign=1051&utm_source=git)** | Grandview Heights, OH | On Site | Sep 19 |
 | ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4acdfb49c96ca6e9e922?utm_campaign=1051&utm_source=git)** | Sartell, MN | On Site | Sep 19 |
-| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4aa9dbd9fb154edddc54?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL | On Site | Sep 19 |
-| ↳ | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4aa8fb49c96ca6e9e8d7?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Sep 19 |
-| **[Molex](http://www.molex.com)** | **[Molex Associate Sales Engineer Intern 2026](https://jobright.ai/jobs/info/68b17841bc187f64e1bd4e32?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Sep 19 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68ce4aa0fb49c96ca6e9e8c4?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
