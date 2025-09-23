@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Laveer Engineering](https://laveer.ca/)** | **[Sales Operations Intern Summer 2026](https://jobright.ai/jobs/info/68d267aea54edb3bf3e1df73?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | Hybrid | Sep 23 |
+| **[MeaVana ](https://meavana.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d264e18c62e63bc7fd7765?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Sep 23 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Corporate Business Development MBA Intern - Summer 2026](https://jobright.ai/jobs/info/68d25a31a54edb3bf3e1db32?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | Hybrid | Sep 23 |
+| **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Sales - Indianapolis, IN](https://jobright.ai/jobs/info/68d25907a54edb3bf3e1da7d?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d253b18c62e63bc7fd7127?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Sep 23 |
+| **[Alpha Omega Consultancy Services](https://www.linkedin.com/company/101694334)** | **[Sales Intern](https://jobright.ai/jobs/info/68d252d38c62e63bc7fd70b2?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d25183a54edb3bf3e1d7f3?utm_campaign=1051&utm_source=git)** | Bronxville, NY | On Site | Sep 23 |
+| ↳ | **[Retail Store Management Internship - Manhattan/Brooklyn](https://jobright.ai/jobs/info/68d2516017554c2d9eee6e72?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 23 |
+| **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Retail Sales Intern](https://jobright.ai/jobs/info/68d2514317554c2d9eee6e51?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Sep 23 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Account Management](https://jobright.ai/jobs/info/68d24452a54edb3bf3e1cd87?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Corporate Business Development MBA Intern - Summer 2026](https://jobright.ai/jobs/info/68d241f5a54edb3bf3e1ca3b?utm_campaign=1051&utm_source=git)** | Building A,B,C 2225 Lawson Lane, Santa Clara, CALIFORNIA, United States | Remote | Sep 22 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Revenue Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1a066cece431f8b586136?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 22 |
@@ -69,12 +78,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20b2b8c62e63bc7fd2807?utm_campaign=1051&utm_source=git)** | 11436 - Pennsylvania CVS Pharmacy, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20b1017554c2d9eee26e9?utm_campaign=1051&utm_source=git)** | 01231 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20b0a17554c2d9eee26d9?utm_campaign=1051&utm_source=git)** | OK - Field - OK | On Site | Sep 22 |
-| ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20afe17554c2d9eee26c6?utm_campaign=1051&utm_source=git)** | PA - Jenkintown | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20afe8c62e63bc7fd27b2?utm_campaign=1051&utm_source=git)** | 00630 - CVS Albany, L.L.C. | On Site | Sep 22 |
+| ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20afe17554c2d9eee26c6?utm_campaign=1051&utm_source=git)** | PA - Jenkintown | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20af917554c2d9eee26bc?utm_campaign=1051&utm_source=git)** | 05861 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20ae18c62e63bc7fd2771?utm_campaign=1051&utm_source=git)** | 04609 - CVS Albany, L.L.C. | On Site | Sep 22 |
-| ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20ad98c62e63bc7fd2758?utm_campaign=1051&utm_source=git)** | 01940 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20ad98c62e63bc7fd2759?utm_campaign=1051&utm_source=git)** | PA - Glenside | On Site | Sep 22 |
+| ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20ad98c62e63bc7fd2758?utm_campaign=1051&utm_source=git)** | 01940 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20ad817554c2d9eee2699?utm_campaign=1051&utm_source=git)** | 04745 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20aca17554c2d9eee2688?utm_campaign=1051&utm_source=git)** | PA - Philadelphia | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20ac317554c2d9eee267f?utm_campaign=1051&utm_source=git)** | 04539 - CVS Albany, L.L.C. | On Site | Sep 22 |
@@ -145,16 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - San Francisco, CA](https://jobright.ai/jobs/info/68d1eccc8c62e63bc7fd11e9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Sep 22 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Year-Round Internship - Partnerships Team](https://jobright.ai/jobs/info/68d1ec9e8c62e63bc7fd11ca?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Birmingham, AL](https://jobright.ai/jobs/info/68d1ec918c62e63bc7fd11bc?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Sep 22 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Premium Sales & Service](https://jobright.ai/jobs/info/68ce6cd6fb49c96ca6ea0532?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Sep 22 |
 | **[Sammons Financial Group Companies](https://www.sammonsfinancialgroup.com)** | **[Sales Support Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1eaee17554c2d9eee1173?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Sep 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Mountain View, CA](https://jobright.ai/jobs/info/68d1ea8517554c2d9eee10c3?utm_campaign=1051&utm_source=git)** | Mountain View, CA | Hybrid | Sep 22 |
-| **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[2026 Summer Remote Internship: Sales](https://jobright.ai/jobs/info/68d1ea6117554c2d9eee1088?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Sep 22 |
-| **[Stoke Space](https://www.stokespace.com)** | **[Summer 2026 Boltline Internship - Growth](https://jobright.ai/jobs/info/68d1ea348c62e63bc7fd0f95?utm_campaign=1051&utm_source=git)** | Kent, WA | On Site | Sep 22 |
-| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/68d1e9db8c62e63bc7fd0f4c?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Sep 22 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Merchandise Intern](https://jobright.ai/jobs/info/68d1e92417554c2d9eee0e77?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 22 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Santa Monica, CA](https://jobright.ai/jobs/info/68d1e8e117554c2d9eee0da6?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Sep 22 |
-| ↳ | **[Intern, Investor Center - Dallas, TX](https://jobright.ai/jobs/info/68d1e7fba54edb3bf3e1774c?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Sep 22 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Sales Associate](https://jobright.ai/jobs/info/68d1e78ba54edb3bf3e176ba?utm_campaign=1051&utm_source=git)** | Reston, VA | Remote | Sep 22 |
-| **[Wonder](https://www.wonder.com)** | **[Merchant Intern - Summer 2026](https://jobright.ai/jobs/info/68b9290e07090163b6ba84f8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 22 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Sales Operations Intern Summer 2026](https://jobright.ai/jobs/info/68d1e154a54edb3bf3e17197?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | Hybrid | Sep 22 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales/Business Internship](https://jobright.ai/jobs/info/68d1dff18c62e63bc7fd07ee?utm_campaign=1051&utm_source=git)** | Mesa, AZ | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
