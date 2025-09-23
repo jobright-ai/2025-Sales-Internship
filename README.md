@@ -57,18 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Philo Homes](https://philo.homes/)** | **[Business Development Intern (Mandarin-English)](https://jobright.ai/jobs/info/68d22f3e8c62e63bc7fd53b8?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Sep 22 |
+| **[Pennsylvania Lumbermens Mutual Insurance Company](https://www.plmins.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d2286717554c2d9eee4ef9?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
+| ↳ | **[Brokerage Intern](https://jobright.ai/jobs/info/68d227d48c62e63bc7fd4cf2?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20b468c62e63bc7fd2830?utm_campaign=1051&utm_source=git)** | 01770 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20b428c62e63bc7fd282d?utm_campaign=1051&utm_source=git)** | 00300 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20b348c62e63bc7fd281f?utm_campaign=1051&utm_source=git)** | 07087 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20b2b8c62e63bc7fd2807?utm_campaign=1051&utm_source=git)** | 11436 - Pennsylvania CVS Pharmacy, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20b1017554c2d9eee26e9?utm_campaign=1051&utm_source=git)** | 01231 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20b0a17554c2d9eee26d9?utm_campaign=1051&utm_source=git)** | OK - Field - OK | On Site | Sep 22 |
-| ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20afe8c62e63bc7fd27b2?utm_campaign=1051&utm_source=git)** | 00630 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20afe17554c2d9eee26c6?utm_campaign=1051&utm_source=git)** | PA - Jenkintown | On Site | Sep 22 |
+| ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20afe8c62e63bc7fd27b2?utm_campaign=1051&utm_source=git)** | 00630 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20af917554c2d9eee26bc?utm_campaign=1051&utm_source=git)** | 05861 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20ae18c62e63bc7fd2771?utm_campaign=1051&utm_source=git)** | 04609 - CVS Albany, L.L.C. | On Site | Sep 22 |
-| ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20ad98c62e63bc7fd2759?utm_campaign=1051&utm_source=git)** | PA - Glenside | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20ad98c62e63bc7fd2758?utm_campaign=1051&utm_source=git)** | 01940 - CVS Albany, L.L.C. | On Site | Sep 22 |
+| ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20ad98c62e63bc7fd2759?utm_campaign=1051&utm_source=git)** | PA - Glenside | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20ad817554c2d9eee2699?utm_campaign=1051&utm_source=git)** | 04745 - CVS Albany, L.L.C. | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Philadelphia](https://jobright.ai/jobs/info/68d20aca17554c2d9eee2688?utm_campaign=1051&utm_source=git)** | PA - Philadelphia | On Site | Sep 22 |
 | ↳ | **[Retail Store Management Internship - Westchester](https://jobright.ai/jobs/info/68d20ac317554c2d9eee267f?utm_campaign=1051&utm_source=git)** | 04539 - CVS Albany, L.L.C. | On Site | Sep 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales/Business Internship](https://jobright.ai/jobs/info/68d1dff18c62e63bc7fd07ef?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Sep 22 |
 | ↳ | **[Sales/Business Internship](https://jobright.ai/jobs/info/68d1df178c62e63bc7fd06ae?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | Hybrid | Sep 22 |
 | **[MathWorks](http://www.mathworks.com)** | **[Inside Sales Summer Intern](https://jobright.ai/jobs/info/68d1debf8c62e63bc7fd062f?utm_campaign=1051&utm_source=git)** | Natick, MA | Hybrid | Sep 22 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales/Business Internship](https://jobright.ai/jobs/info/68d1de198c62e63bc7fd0528?utm_campaign=1051&utm_source=git)** | Gilbert, AZ | Hybrid | Sep 22 |
-| **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Sales Intern](https://jobright.ai/jobs/info/68d1ddb2a54edb3bf3e16e3a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Intern, Investor Center - Santa Monica, CA](https://jobright.ai/jobs/info/68d1dd89a54edb3bf3e16df9?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
