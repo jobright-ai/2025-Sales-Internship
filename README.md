@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Account Management](https://jobright.ai/jobs/info/68d24452a54edb3bf3e1cd87?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Corporate Business Development MBA Intern - Summer 2026](https://jobright.ai/jobs/info/68d241f5a54edb3bf3e1ca3b?utm_campaign=1051&utm_source=git)** | Building A,B,C 2225 Lawson Lane, Santa Clara, CALIFORNIA, United States | Remote | Sep 22 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Revenue Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1a066cece431f8b586136?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 22 |
 | **[Philo Homes](https://philo.homes/)** | **[Business Development Intern (Mandarin-English)](https://jobright.ai/jobs/info/68d22f3e8c62e63bc7fd53b8?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Sep 22 |
 | **[Pennsylvania Lumbermens Mutual Insurance Company](https://www.plmins.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d2286717554c2d9eee4ef9?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
 | ↳ | **[Brokerage Intern](https://jobright.ai/jobs/info/68d227d48c62e63bc7fd4cf2?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Sep 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wonder](https://www.wonder.com)** | **[Merchant Intern - Summer 2026](https://jobright.ai/jobs/info/68b9290e07090163b6ba84f8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Sales Operations Intern Summer 2026](https://jobright.ai/jobs/info/68d1e154a54edb3bf3e17197?utm_campaign=1051&utm_source=git)** | Cranberry Township, PA | Hybrid | Sep 22 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales/Business Internship](https://jobright.ai/jobs/info/68d1dff18c62e63bc7fd07ee?utm_campaign=1051&utm_source=git)** | Mesa, AZ | Hybrid | Sep 22 |
-| ↳ | **[Sales/Business Internship](https://jobright.ai/jobs/info/68d1dff18c62e63bc7fd07ef?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Sep 22 |
-| ↳ | **[Sales/Business Internship](https://jobright.ai/jobs/info/68d1df178c62e63bc7fd06ae?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | Hybrid | Sep 22 |
-| **[MathWorks](http://www.mathworks.com)** | **[Inside Sales Summer Intern](https://jobright.ai/jobs/info/68d1debf8c62e63bc7fd062f?utm_campaign=1051&utm_source=git)** | Natick, MA | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
