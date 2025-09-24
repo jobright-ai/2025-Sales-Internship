@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Field Tools and Analytics Internship](https://jobright.ai/jobs/info/68d3d8758c62e63bc7fe4a37?utm_campaign=1051&utm_source=git)** | Mettawa, IL | On Site | Sep 24 |
+| **[Elevare Consulting](elevareconsulting.us)** | **[Retail Banking Client Solutions Intern](https://jobright.ai/jobs/info/68d3d5445ae5a90cfd481d2a?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Remote | Sep 24 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Discovery Program: Capital Markets (On-site) - Susquehanna International Group](https://jobright.ai/jobs/info/68d3ced75ae5a90cfd481bbd?utm_campaign=1051&utm_source=git)** | Bala-Cynwyd, PA | On Site | Sep 24 |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Sales Trainee Intern](https://jobright.ai/jobs/info/68d3c3bd17554c2d9eef47c2?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Sep 24 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Financial Wellness Intern](https://jobright.ai/jobs/info/68d3c339952b4a32e23d8d9c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
 | **[PEAK6](https://www.peak6.com)** | **[Trading Internship for Women+](https://jobright.ai/jobs/info/68d3b4558c62e63bc7fe445a?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Sales - Columbus, OH](https://jobright.ai/jobs/info/68d3a9048c62e63bc7fe3f23?utm_campaign=1051&utm_source=git)** | Dublin, OH | On Site | Sep 24 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68d3a7f7952b4a32e23d8655?utm_campaign=1051&utm_source=git)** | Arden Hills, MN | Hybrid | Sep 24 |
@@ -67,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Sales - Union City, CA](https://jobright.ai/jobs/info/68d39b728c62e63bc7fe365e?utm_campaign=1051&utm_source=git)** | Union City, CA | On Site | Sep 24 |
 | **[Danone](https://www.danone.com/)** | **[Summer 2026: Sales Intern, Undergraduate](https://jobright.ai/jobs/info/68d39a5f17554c2d9eef367b?utm_campaign=1051&utm_source=git)** | US-CO-Louisville | On Site | Sep 24 |
 | ↳ | **[Summer 2026: Sales Intern, Undergraduate](https://jobright.ai/jobs/info/68d3984b8c62e63bc7fe35e5?utm_campaign=1051&utm_source=git)** | US-NY-White Plains | On Site | Sep 24 |
-| **[KRAFZEN](https://www.linkedin.com/company/108076405)** | **[Lead Generation Intern (Canada, USA, Africa, Pakistan abd India)](https://jobright.ai/jobs/info/68d390438c62e63bc7fe2d09?utm_campaign=1051&utm_source=git)** | Wyoming, United States | Remote | Sep 23 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Sales - Cerritos, CA](https://jobright.ai/jobs/info/68d3acc9952b4a32e23d8774?utm_campaign=1051&utm_source=git)** | Cerritos, CA | On Site | Sep 23 |
 | **[Musco Lighting](http://www.musco.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68d3aec5952b4a32e23d88af?utm_campaign=1051&utm_source=git)** | Oskaloosa, IA | On Site | Sep 23 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Sales Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68d385b917554c2d9eef25da?utm_campaign=1051&utm_source=git)** | Dublin, OH | On Site | Sep 23 |
@@ -129,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (ABL-Franchise Finance)](https://jobright.ai/jobs/info/68cd4a43e23def7af55b7ceb?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | ↳ | **[2026 Summer Internship Program - Commercial Banking (Middle Market-Sponsor Backed Finance)](https://jobright.ai/jobs/info/68cd42db1ad6b16f028972e2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 23 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Corporate Customer Focus Internship - Summer 2026](https://jobright.ai/jobs/info/68d32c5c17554c2d9eeee64f?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Sep 23 |
+| **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Business Banking Intern](https://jobright.ai/jobs/info/68d3283df0d9af73038df764?utm_campaign=1051&utm_source=git)** | San Juan Capistrano, CA | On Site | Sep 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Long Island](https://jobright.ai/jobs/info/68d322e3f0d9af73038df53e?utm_campaign=1051&utm_source=git)** | 02442 - CVS Albany, L.L.C. | On Site | Sep 23 |
 | ↳ | **[Retail Store Management Internship - Long Island](https://jobright.ai/jobs/info/68d322d18c62e63bc7fde108?utm_campaign=1051&utm_source=git)** | 00992 - CVS Albany, L.L.C. | On Site | Sep 23 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Relationship Banker - Livernois - Oakman Financial Center](https://jobright.ai/jobs/info/68d322ca8c62e63bc7fde0ff?utm_campaign=1051&utm_source=git)** | Detroit | On Site | Sep 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of America](https://www.bankofamerica.com)** | **[Relationship Banker - Center Line Financial Center](https://jobright.ai/jobs/info/68d321cb17554c2d9eeee161?utm_campaign=1051&utm_source=git)** | Center Line | On Site | Sep 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Long Island](https://jobright.ai/jobs/info/68d321bc17554c2d9eeee142?utm_campaign=1051&utm_source=git)** | 04451 - CVS Albany, L.L.C. | On Site | Sep 23 |
 | ↳ | **[Retail Store Management Internship - Long Island](https://jobright.ai/jobs/info/68d321b58c62e63bc7fddee9?utm_campaign=1051&utm_source=git)** | KS - Leavenworth | On Site | Sep 23 |
-| ↳ | **[Retail Store Management Internship - Long Island](https://jobright.ai/jobs/info/68d321aef0d9af73038df32a?utm_campaign=1051&utm_source=git)** | 00541 - CVS Albany, L.L.C. | On Site | Sep 23 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Sales Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68d321a48c62e63bc7fddecb?utm_campaign=1051&utm_source=git)** | Heathrow, FL - USA (Office) | On Site | Sep 23 |
-| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68d31e648c62e63bc7fddd7b?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Hybrid | Sep 23 |
-| **[Digital Marketing Alive](http://digitalmarketingalive.com/)** | **[Sales Closer Internship](https://jobright.ai/jobs/info/68d31b9017554c2d9eeedf30?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 23 |
-| **[PeopleLens](https://peoplelens.ai)** | **[Sales Development Intern (Fall 2025)](https://jobright.ai/jobs/info/68d31b42f0d9af73038df17b?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
