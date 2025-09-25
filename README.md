@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4a6a28c62e63bc7feb407?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Sep 24 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/68d4a6968c62e63bc7feb3f9?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Sep 24 |
+| ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68d4a3acffc1276de3fdcc07?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Sep 24 |
+| ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68d4a334fcd3367e8df16651?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Sep 24 |
+| ↳ | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68d4a2b3ffc1276de3fdcb75?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Sep 24 |
+| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4a191ffc1276de3fdca9c?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Sep 24 |
 | **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Merchandise Planning & Analysis](https://jobright.ai/jobs/info/68d49f598c62e63bc7feb125?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d49e99fcd3367e8df164ce?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Sep 24 |
 | ↳ | **[Summer 2026 Management and Sales Intern - Orlando](https://jobright.ai/jobs/info/68d49e0f8c62e63bc7feafa5?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 24 |
@@ -83,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Advisory Intern](https://jobright.ai/jobs/info/68d461978c62e63bc7fe8cf6?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 24 |
 | **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Tencent Cloud Business Development Intern - United States](https://jobright.ai/jobs/info/68d45fb8ffc1276de3fda49b?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Sep 24 |
 | **[BWE](https://www.bwe.com/)** | **[Summer 2026 Internship - Production - Nashville](https://jobright.ai/jobs/info/68d45f1617554c2d9eef8df2?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Sep 24 |
-| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Merchandise Planning & Analysis](https://jobright.ai/jobs/info/68d49b04ffc1276de3fdc60d?utm_campaign=1051&utm_source=git)** | Charlotte, NC - Corporate Office | On Site | Sep 24 |
+| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Merchandise Planning & Analysis](https://jobright.ai/jobs/info/68d49b27ffc1276de3fdc648?utm_campaign=1051&utm_source=git)** | Charlotte, NC - Corporate Office | On Site | Sep 24 |
 | **[BWE](https://www.bwe.com/)** | **[Summer 2026 Internship - Production - Charlotte](https://jobright.ai/jobs/info/68d45e2effc1276de3fda2ca?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - Orlando](https://jobright.ai/jobs/info/68d45d99ffc1276de3fda251?utm_campaign=1051&utm_source=git)** | Orlando, FL, United States | On Site | Sep 24 |
 | **[Gabriel AI](https://home.gabrielai.co/)** | **[Sales And Marketing Specialist Intern](https://jobright.ai/jobs/info/68d45b318c62e63bc7fe8961?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 24 |
@@ -99,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68d44f3a17554c2d9eef838f?utm_campaign=1051&utm_source=git)** | SLC Metro Area | Hybrid | Sep 24 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44dfa8c62e63bc7fe8027?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 24 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Business Development and Technology Analyst](https://jobright.ai/jobs/info/68d44c61ffc1276de3fd97f3?utm_campaign=1051&utm_source=git)** | UT MAIN CAMPUS | Remote | Sep 24 |
+| **[Service Wire Company](http://servicewire.com)** | **[Internship - Sales](https://jobright.ai/jobs/info/68d44c598c62e63bc7fe7d0a?utm_campaign=1051&utm_source=git)** | Culloden, WV | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Cleveland](https://jobright.ai/jobs/info/68d44b1c17554c2d9eef8106?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 24 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44b02ffc1276de3fd9766?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d44a3f17554c2d9eef7fef?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Sep 24 |
@@ -119,14 +126,13 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d447598c62e63bc7fe7b45?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Charlotte](https://jobright.ai/jobs/info/68d4474effc1276de3fd92ce?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d447488c62e63bc7fe7b23?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d447068c62e63bc7fe7ade?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Sep 24 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d446ed8c62e63bc7fe7ac5?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d446cb17554c2d9eef78a8?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Sep 24 |
 | **[Subtext](https://subtextliving.com/)** | **[Development Analyst Intern](https://jobright.ai/jobs/info/68d446868c62e63bc7fe7a2d?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d446568c62e63bc7fe79af?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4455f8c62e63bc7fe771f?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4455b8c62e63bc7fe7714?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d445168c62e63bc7fe765a?utm_campaign=1051&utm_source=git)** | Urbandale, IA | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d445128c62e63bc7fe7651?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d444fe8c62e63bc7fe7612?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Cleveland](https://jobright.ai/jobs/info/68d444a38c62e63bc7fe7528?utm_campaign=1051&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d444848c62e63bc7fe74de?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Sep 24 |
@@ -138,23 +144,17 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4443a8c62e63bc7fe740c?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d443df8c62e63bc7fe7308?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d443cb8c62e63bc7fe72dd?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - LTL Pricing Analyst](https://jobright.ai/jobs/info/68d442f917554c2d9eef76c1?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Sep 24 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4426fffc1276de3fd8cb7?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 24 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4426fffc1276de3fd8cb7?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 24 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Santa Monica, CA](https://jobright.ai/jobs/info/68d44263ffc1276de3fd8cab?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Sep 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4422dffc1276de3fd8c71?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4422affc1276de3fd8c6e?utm_campaign=1051&utm_source=git)** | Mendota, MN | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d441ec8c62e63bc7fe725d?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d441ecffc1276de3fd8c38?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d441e4ffc1276de3fd8c2b?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Sep 24 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Toledo, OH](https://jobright.ai/jobs/info/68d441dc8c62e63bc7fe7246?utm_campaign=1051&utm_source=git)** | Perrysburg, OH | Hybrid | Sep 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d441a817554c2d9eef759e?utm_campaign=1051&utm_source=git)** | Radnor, PA | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d441a88c62e63bc7fe7210?utm_campaign=1051&utm_source=git)** | Salem, OR | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4419d8c62e63bc7fe7202?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d441878c62e63bc7fe71ec?utm_campaign=1051&utm_source=git)** | De Pere, WI | On Site | Sep 24 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d441718c62e63bc7fe71de?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d44159ffc1276de3fd8bb3?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d441478c62e63bc7fe71b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4412917554c2d9eef7529?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d441248c62e63bc7fe7193?utm_campaign=1051&utm_source=git)** | Neptune City, NJ | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d44112ffc1276de3fd8b76?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4410fffc1276de3fd8b73?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
