@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Demand Planning](https://jobright.ai/jobs/info/6881cbbaee15177ae9717495?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 25 |
+| **[Usermind](https://usermind.com)** | **[SALES DEVELOPMENT REPRESENTATIVE INTERN](https://jobright.ai/jobs/info/68d51044e678d65ec7d8addc?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Sep 25 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Commercial Lines Co-Op Intern](https://jobright.ai/jobs/info/68d50fba2ed36439e51e4752?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 25 |
 | **[AUTOKINITON](https://www.autokiniton.com)** | **[Sales Internship - (Summer 2026)](https://jobright.ai/jobs/info/68d50bab2ed36439e51e46de?utm_campaign=1051&utm_source=git)** | Romulus, MI | Hybrid | Sep 25 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Sales & Distribution Intern](https://jobright.ai/jobs/info/68b8acff5b42bc4562826f1a?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Sep 25 |
 | **[Qualer, Now a MasterControl Company](https://qualer.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/68d4f56b2ed36439e51e3ad6?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Sep 25 |
 | **[Motum](http://www.motum.io)** | **[Business Development Internship](https://jobright.ai/jobs/info/68d4e52f8c62e63bc7fedb76?utm_campaign=1051&utm_source=git)** | San Diego, California, United States | Hybrid | Sep 24 |
 | **[GSI Engineering LLC](http://gsinetwork.com)** | **[Business Development Intern- Summer 2026](https://jobright.ai/jobs/info/68d4e433fcd3367e8df18fff?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 24 |
@@ -120,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68d44f3a17554c2d9eef838f?utm_campaign=1051&utm_source=git)** | SLC Metro Area | Hybrid | Sep 24 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44dfa8c62e63bc7fe8027?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Sep 24 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Business Development and Technology Analyst](https://jobright.ai/jobs/info/68d44c61ffc1276de3fd97f3?utm_campaign=1051&utm_source=git)** | UT MAIN CAMPUS | Remote | Sep 24 |
+| **[Service Wire Company](http://servicewire.com)** | **[Internship - Sales](https://jobright.ai/jobs/info/68d44c598c62e63bc7fe7d0a?utm_campaign=1051&utm_source=git)** | Culloden, WV | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Cleveland](https://jobright.ai/jobs/info/68d44b1c17554c2d9eef8106?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 24 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44b02ffc1276de3fd9766?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d44a3f17554c2d9eef7fef?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Sep 24 |
@@ -140,13 +144,12 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d447598c62e63bc7fe7b45?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Charlotte](https://jobright.ai/jobs/info/68d4474effc1276de3fd92ce?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Sep 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d447488c62e63bc7fe7b23?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4471b8c62e63bc7fe7afa?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d446ed8c62e63bc7fe7ac5?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d446cb17554c2d9eef78a8?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Sep 24 |
 | **[Subtext](https://subtextliving.com/)** | **[Development Analyst Intern](https://jobright.ai/jobs/info/68d446868c62e63bc7fe7a2d?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d446568c62e63bc7fe79af?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4455f8c62e63bc7fe771f?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d445168c62e63bc7fe765a?utm_campaign=1051&utm_source=git)** | Urbandale, IA | On Site | Sep 24 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d445128c62e63bc7fe7651?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d444fe8c62e63bc7fe7612?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Sales Development Intern- Cleveland](https://jobright.ai/jobs/info/68d444a38c62e63bc7fe7528?utm_campaign=1051&utm_source=git)** | Cleveland, OH, United States | On Site | Sep 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d444848c62e63bc7fe74de?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Sep 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d444628c62e63bc7fe7496?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d444628c62e63bc7fe7495?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 24 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d444488c62e63bc7fe7439?utm_campaign=1051&utm_source=git)** | Parkersburg, WV | On Site | Sep 24 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Global Indirect Sourcing - Facilities & Ops Intern / Summer 2026](https://jobright.ai/jobs/info/68d4443b8c62e63bc7fe7412?utm_campaign=1051&utm_source=git)** | Marlborough US-MA, United States |  N/A | Hybrid | Sep 24 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d4443a8c62e63bc7fe740c?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Sep 24 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68d444218c62e63bc7fe73b7?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
