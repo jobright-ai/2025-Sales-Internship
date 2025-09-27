@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alpha Omega Consultancy Services](https://www.linkedin.com/company/101694334)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68d790197a37c712687d0df4?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 27 |
+| **[Peakflo (YC W22)](https://peakflo.co)** | **[Sales Development Representative (SDR) Intern (Paid - India/Remote)](https://jobright.ai/jobs/info/68d78846295f8e37655dcd4d?utm_campaign=1051&utm_source=git)** | Remote (IN) | Remote | Sep 26 |
 | **[Bubble](https://hellobubble.com/)** | **[Retail Intern](https://jobright.ai/jobs/info/68d77b75267b154f9a2da401?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d75735295f8e37655d5352?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Graduate Intern, Dell Venture Capital](https://jobright.ai/jobs/info/68d75fcc7a37c712687cad79?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 26 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Partnerships](https://jobright.ai/jobs/info/68d6ef2dd3fe025a3015d2be?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Full-Book Sales - West Palm Beach, FL](https://jobright.ai/jobs/info/68d6ee3c894705799a2eedbe?utm_campaign=1051&utm_source=git)** | Miramar, FL | On Site | Sep 26 |
 | **[FCS Financial](http://myfcsfinancial.com)** | **[Marketplace Internship](https://jobright.ai/jobs/info/68d6ec29894705799a2eed7b?utm_campaign=1051&utm_source=git)** | Jefferson City, MO | On Site | Sep 26 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Relationship Banker - Constellation Financial Center](https://jobright.ai/jobs/info/68d6eb46d3fe025a3015d1e7?utm_campaign=1051&utm_source=git)** | Oxon Hill | On Site | Sep 26 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Market and Wealth Services (Boston, MA)](https://jobright.ai/jobs/info/68d6ea5245853d0e39ccb012?utm_campaign=1051&utm_source=git)** | Boston, MA, United States | On Site | Sep 26 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Relationship Banker - Constellation Financial Center](https://jobright.ai/jobs/info/68d6ea47894705799a2eeb14?utm_campaign=1051&utm_source=git)** | Oxon Hill | On Site | Sep 26 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Support Intern - Fall 2025 through Spring 2026](https://jobright.ai/jobs/info/68d6e94045853d0e39ccae9d?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Sep 26 |
 | **[Finley Living](www.finleyliving.co)** | **[Private Equity Sales Intern](https://jobright.ai/jobs/info/68d6e8bb45853d0e39ccae2f?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Sep 26 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Development Intern - John Locke Foundation](https://jobright.ai/jobs/info/68d6e36ed3fe025a3015cbef?utm_campaign=1051&utm_source=git)** | North Carolina | Remote | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cadet College Kallar Kahar](https://cckk.edu.pk/)** | **[Summer Internship – Sales & Business Development](https://jobright.ai/jobs/info/68d6bc5d45853d0e39cc9913?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[Quill](http://www.quill.com)** | **[Quill Merchandising Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d6bc2445853d0e39cc98d6?utm_campaign=1051&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 26 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/68d6bbdfd3fe025a3015ba3b?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Sep 26 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Strategic Partnerships Intern](https://jobright.ai/jobs/info/68d6bb6a45853d0e39cc9816?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Sep 26 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Retail Banking - Financial Wellness Intern](https://jobright.ai/jobs/info/68d6bafe45853d0e39cc978b?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
