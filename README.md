@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Cleveland)](https://jobright.ai/jobs/info/68bb37cf6105227d118a42ac?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 27 |
+| **[Ecogistics](https://ecogistics.org)** | **[Intern](https://jobright.ai/jobs/info/68d7c4b1295f8e37655e1ddc?utm_campaign=1051&utm_source=git)** | Moline, IL | On Site | Sep 27 |
 | **[Alpha Omega Consultancy Services](https://www.linkedin.com/company/101694334)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68d790197a37c712687d0df4?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Peakflo (YC W22)](https://peakflo.co)** | **[Sales Development Representative (SDR) Intern (Paid - India/Remote)](https://jobright.ai/jobs/info/68d78846295f8e37655dcd4d?utm_campaign=1051&utm_source=git)** | Remote (IN) | Remote | Sep 26 |
 | **[Bubble](https://hellobubble.com/)** | **[Retail Intern](https://jobright.ai/jobs/info/68d77b75267b154f9a2da401?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d75735295f8e37655d5352?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Graduate Intern, Dell Venture Capital](https://jobright.ai/jobs/info/68d75fcc7a37c712687cad79?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 26 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d7590f61a175619f8c9999?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 26 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d7585a61a175619f8c94da?utm_campaign=1051&utm_source=git)** | Grand Prairie, TX | On Site | Sep 26 |
 | **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Real Estate Development Internship (Summer 2026)](https://jobright.ai/jobs/info/68d757267a37c712687c9459?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | Sep 26 |
@@ -140,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Finley Living](www.finleyliving.co)** | **[Private Equity Sales Intern](https://jobright.ai/jobs/info/68d6e8bb45853d0e39ccae2f?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Sep 26 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Development Intern - John Locke Foundation](https://jobright.ai/jobs/info/68d6e36ed3fe025a3015cbef?utm_campaign=1051&utm_source=git)** | North Carolina | Remote | Sep 26 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Strategic Relationship Management Co-op - Spring 2026](https://jobright.ai/jobs/info/68d6e366d3fe025a3015cbdd?utm_campaign=1051&utm_source=git)** | Wellesley, MA | Hybrid | Sep 26 |
-| **[Highline Warren](https://highlinewarren.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d6e34e894705799a2ee62e?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Sep 26 |
+| **[Highline Warren](https://highlinewarren.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d6e2f3894705799a2ee576?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Sep 26 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Sales Representative Intern](https://jobright.ai/jobs/info/68d6d64345853d0e39cca457?utm_campaign=1051&utm_source=git)** | St Louis Park, MN | On Site | Sep 26 |
 | **[Workshops Empowerment Inc.](https://weincal.org)** | **[Empower Cafe' Intern](https://jobright.ai/jobs/info/68d76c11295f8e37655d89fb?utm_campaign=1051&utm_source=git)** | Birmingham,  AL | On Site | Sep 26 |
 | **[Diversatek Healthcare](https://www.diversatekhealthcare.com/)** | **[Medical Device Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68d6d202894705799a2edfeb?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Agency Enterprise Sales Associate Intern](https://jobright.ai/jobs/info/68d6bc74d3fe025a3015bacb?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Sep 26 |
 | **[Cadet College Kallar Kahar](https://cckk.edu.pk/)** | **[Summer Internship – Sales & Business Development](https://jobright.ai/jobs/info/68d6bc5d45853d0e39cc9913?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[Quill](http://www.quill.com)** | **[Quill Merchandising Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d6bc2445853d0e39cc98d6?utm_campaign=1051&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 26 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/68d6bbdfd3fe025a3015ba3b?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
