@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bubble](https://hellobubble.com/)** | **[Retail Intern](https://jobright.ai/jobs/info/68d77b75267b154f9a2da401?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
+| **[Ibotta](https://home.ibotta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d75735295f8e37655d5352?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Graduate Intern, Dell Venture Capital](https://jobright.ai/jobs/info/68d75fcc7a37c712687cad79?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 26 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d7590f61a175619f8c9999?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 26 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d7585a61a175619f8c94da?utm_campaign=1051&utm_source=git)** | Grand Prairie, TX | On Site | Sep 26 |
-| **[Ibotta](https://home.ibotta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d75735295f8e37655d5352?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Real Estate Development Internship (Summer 2026)](https://jobright.ai/jobs/info/68d757267a37c712687c9459?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | Sep 26 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d7565e295f8e37655d4d6a?utm_campaign=1051&utm_source=git)** | Sandy, UT | On Site | Sep 26 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68d75001e5293e3538af4040?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Sep 26 |
@@ -137,8 +138,9 @@ For a complete list, click the following sortable link below:
 | **[Finley Living](www.finleyliving.co)** | **[Private Equity Sales Intern](https://jobright.ai/jobs/info/68d6e8bb45853d0e39ccae2f?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Sep 26 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Development Intern - John Locke Foundation](https://jobright.ai/jobs/info/68d6e36ed3fe025a3015cbef?utm_campaign=1051&utm_source=git)** | North Carolina | Remote | Sep 26 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Strategic Relationship Management Co-op - Spring 2026](https://jobright.ai/jobs/info/68d6e366d3fe025a3015cbdd?utm_campaign=1051&utm_source=git)** | Wellesley, MA | Hybrid | Sep 26 |
-| **[Highline Warren](https://highlinewarren.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d6e2f3894705799a2ee576?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Sep 26 |
+| **[Highline Warren](https://highlinewarren.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d6e34e894705799a2ee62e?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Sep 26 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Sales Representative Intern](https://jobright.ai/jobs/info/68d6d64345853d0e39cca457?utm_campaign=1051&utm_source=git)** | St Louis Park, MN | On Site | Sep 26 |
+| **[Workshops Empowerment Inc.](https://weincal.org)** | **[Empower Cafe' Intern](https://jobright.ai/jobs/info/68d76c11295f8e37655d89fb?utm_campaign=1051&utm_source=git)** | Birmingham,  AL | On Site | Sep 26 |
 | **[Diversatek Healthcare](https://www.diversatekhealthcare.com/)** | **[Medical Device Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68d6d202894705799a2edfeb?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Sep 26 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68d6d12545853d0e39cca360?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Sep 26 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Sales Intern Walmart](https://jobright.ai/jobs/info/68d6cf26d3fe025a3015c247?utm_campaign=1051&utm_source=git)** | San José | On Site | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/68d6bbdfd3fe025a3015ba3b?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Sep 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Strategic Partnerships Intern](https://jobright.ai/jobs/info/68d6bb6a45853d0e39cc9816?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Sep 26 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Retail Banking - Financial Wellness Intern](https://jobright.ai/jobs/info/68d6bafe45853d0e39cc978b?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Programmatic Account Manager, TV Platform Intern](https://jobright.ai/jobs/info/68d6ba79d3fe025a3015b8d8?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Sep 26 |
-| ↳ | **[Comcast Sales Strategy Intern](https://jobright.ai/jobs/info/68d6b9d8d3fe025a3015b851?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
