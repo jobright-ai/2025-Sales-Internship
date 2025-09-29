@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Assistant relationship manager](https://jobright.ai/jobs/info/68da58266df7b8311bb0e8fb?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Sep 29 |
 | **[hear.com](http://hear.com)** | **[Internships for College Students](https://jobright.ai/jobs/info/68da48a53c03cd3270944f8f?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Sep 29 |
 | **[ING Americas](http://www.ingwb.com)** | **[Summer 2026 Internship- Transaction Services](https://jobright.ai/jobs/info/68da45c53c03cd3270944f55?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Summer 2026 Internship- Sector Coverage](https://jobright.ai/jobs/info/68da426a6df7b8311bb0e400?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 29 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe08e83d13d1f5b6cb993?utm_campaign=1051&utm_source=git)** | Council Bluffs, IA | On Site | Sep 28 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe08983d13d1f5b6cb984?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
 | ↳ | **[Key Account Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68cf4219846f0b04af67ffb2?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Sep 28 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Sales Intern](https://jobright.ai/jobs/info/68d9395a9a8e451a446a46e3?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Sep 28 |
 | **[All Creators Studio](http://all-creatorsstudio.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d92cc6022fc803b4876d05?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 28 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6884113d835a903aa07f9f44?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Sep 28 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Partnerships Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8d8?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 28 |
@@ -124,6 +124,10 @@ For a complete list, click the following sortable link below:
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Winter 2026 NYC Buying Intern - Dec 25/May 26 Grads](https://jobright.ai/jobs/info/68bc8c0aae79610dacddbd4c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Chase Leadership Development Program - Summer Analyst Opportunity (New York Metro)](https://jobright.ai/jobs/info/68d0292ffb49c96ca6eae5e2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Internship - Summer 2026](https://jobright.ai/jobs/info/68d902e9061b716fa2959d62?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Sep 28 |
+| **[SAP](https://www.sap.com)** | **[Solution Sales Executive - SAP Academy for Customer Success - USA - BTM West (Hybrid)](https://jobright.ai/jobs/info/688275f1835a903aa07eda82?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Sep 28 |
+| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68cf9dd3fb49c96ca6ea9c4e?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Sep 28 |
+| ↳ | **[Spring Jr. Executive Sales Intern - Los Angeles](https://jobright.ai/jobs/info/68bb011f6105227d118a2388?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Sep 28 |
+| ↳ | **[Spring Jr. Executive Sales Intern - Salt Lake City](https://jobright.ai/jobs/info/68bb53cf6105227d118a5490?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Sep 28 |
 | **[SPX Technologies](http://www.spx.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/68bb7e7a6105227d118a65b6?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Sep 28 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[2026 Venture Capital Business Development Summer Analyst](https://jobright.ai/jobs/info/68ccb37116d00d2beeb23126?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Sep 27 |
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 Year-Round Sales FP&A Intern - Grand Rapids, MI](https://jobright.ai/jobs/info/68baf12d5f3832749186aab9?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Sep 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/68ccd968d11b445e0bee2d76?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 27 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ca3c1cd4187c55157a8aec?utm_campaign=1051&utm_source=git)** | Coeur d'Alene, ID | On Site | Sep 27 |
 | **[Centene Corporation](http://www.centene.com)** | **[Account Resource Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d8b8e0ed09d95201eb66c7?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | Sep 27 |
-| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Demand Planning Analyst](https://jobright.ai/jobs/info/68d84633295f8e37655e69af?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Sep 27 |
-| **[Hallmark Financial Services Inc.](http://www.hallmarkgrp.com/)** | **[Internship Opportunities](https://jobright.ai/jobs/info/68d840bb7796a83635f0ff2f?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 27 |
-| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Cincinnati](https://jobright.ai/jobs/info/68bb06866105227d118a2687?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Sep 27 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Business Underwriting - Houston](https://jobright.ai/jobs/info/68d5796d39247e3c807eb976?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
