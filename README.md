@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Ad Sales - Detroit](https://jobright.ai/jobs/info/68da0b4f6df7b8311bb0bbe7?utm_campaign=1051&utm_source=git)** | Detroit, Michigan, USA | On Site | Sep 28 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Buying Intern - Accessories](https://jobright.ai/jobs/info/68d9e39f9a8e451a446a55df?utm_campaign=1051&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 28 |
 | **[Merchant Row](https://www.merchantrowphilly.com/)** | **[Trainee](https://jobright.ai/jobs/info/68d997f7061b716fa295aa6f?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Sep 28 |
 | **[Revolut](http://www.revolut.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68d9924f061b716fa295a919?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 28 |
@@ -112,11 +113,15 @@ For a complete list, click the following sortable link below:
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Sales Intern](https://jobright.ai/jobs/info/68d9395a9a8e451a446a46e3?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Remote | Sep 28 |
 | **[All Creators Studio](http://all-creatorsstudio.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d92cc6022fc803b4876d05?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 28 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6884113d835a903aa07f9f44?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Sep 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/689fca2cfaa4e875e828b24b?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Sep 28 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Partnerships Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8d8?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 28 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689fca2cfaa4e875e828b24b?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Sep 28 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc776868300c452ca15a5a?utm_campaign=1051&utm_source=git)** | Eureka, SD | On Site | Sep 28 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Winter 2026 NYC Buying Intern - Dec 25/May 26 Grads](https://jobright.ai/jobs/info/68bc8c0aae79610dacddbd4c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Chase Leadership Development Program - Summer Analyst Opportunity (New York Metro)](https://jobright.ai/jobs/info/68d0292ffb49c96ca6eae5e2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Internship - Summer 2026](https://jobright.ai/jobs/info/68d902e9061b716fa2959d62?utm_campaign=1051&utm_source=git)** | Montpelier, VT | On Site | Sep 28 |
+| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Indianapolis](https://jobright.ai/jobs/info/68cfe9d8dbd9fb154edebd02?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 27 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6aecc9ee94dc911a8cc?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Sep 27 |
+| **[SPX Technologies](http://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Sep 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/684fa3101b8947024caa2d5c?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 27 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Urban Outfitters Buying Intern- Beauty](https://jobright.ai/jobs/info/68d886e4295f8e37655e80c5?utm_campaign=1051&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Champaign, IL - Spring 2026](https://jobright.ai/jobs/info/68d87a1d295f8e37655e7bf8?utm_campaign=1051&utm_source=git)** | Champaign | On Site | Sep 27 |
@@ -143,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Sales Intern](https://jobright.ai/jobs/info/68d80f077a37c712687d80dc?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | Remote | Sep 27 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[2026 Spring Account Analyst Intern - Revenue](https://jobright.ai/jobs/info/68bb80ca8043103d4f229106?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 27 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Business Development Internship / Fall 2025](https://jobright.ai/jobs/info/68d80e057796a83635f0ea68?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Sep 27 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Futures Clearing & Execution Services](https://jobright.ai/jobs/info/68cc6dd516d00d2beeb1fa76?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Stamford](https://jobright.ai/jobs/info/68cb0df39e3a822f5d241be8?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 | **[Centene Corporation](http://www.centene.com)** | **[Account Resource Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d83dc47796a83635f0fe4e?utm_campaign=1051&utm_source=git)** | Arizona, United States | On Site | Sep 27 |
 | ↳ | **[Account Resource Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7fe8e295f8e37655e4998?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Remote | Sep 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Account Resource Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7fb06295f8e37655e4751?utm_campaign=1051&utm_source=git)** | West Virginia, United States | Remote | Sep 27 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68d01470846f0b04af6875f7?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Sep 27 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – Business Development (Summer 2026)](https://jobright.ai/jobs/info/68d7f97f7a37c712687d7766?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 27 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ccc2c4d99309000e5a2c10?utm_campaign=1051&utm_source=git)** | Sparks, NV | On Site | Sep 27 |
-| **[Centene Corporation](http://www.centene.com)** | **[Account Resource Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7967a37c712687d7681?utm_campaign=1051&utm_source=git)** | Remote-NJ | Remote | Sep 27 |
-| ↳ | **[Account Resource Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f796295f8e37655e4683?utm_campaign=1051&utm_source=git)** | Remote-KY | Remote | Sep 27 |
-| ↳ | **[Account Resource Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7967a37c712687d767b?utm_campaign=1051&utm_source=git)** | Remote-VT | Remote | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
