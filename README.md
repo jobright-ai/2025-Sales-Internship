@@ -109,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0a5faa4e875e828bc17?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 28 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68cedcd7dbd9fb154ede3514?utm_campaign=1051&utm_source=git)** | Woodbury, MN | On Site | Sep 28 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3b4cc9ee94dc911a7ab?utm_campaign=1051&utm_source=git)** | Etna, OH | On Site | Sep 28 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68cf72e0846f0b04af68223b?utm_campaign=1051&utm_source=git)** | Paramus, NJ | On Site | Sep 28 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07dcc9ee94dc911a634?utm_campaign=1051&utm_source=git)** | Monroeville, PA | On Site | Sep 28 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0a483d13d1f5b6cb9af?utm_campaign=1051&utm_source=git)** | Wayne, NJ | On Site | Sep 28 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3e583d13d1f5b6cbb31?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Sep 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d85e66295f8e37655e7354?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 27 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/68ccd968d11b445e0bee2d76?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Sep 27 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ca3c1cd4187c55157a8aec?utm_campaign=1051&utm_source=git)** | Coeur d'Alene, ID | On Site | Sep 27 |
-| **[Centene Corporation](http://www.centene.com)** | **[Account Resource Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d8b8e0ed09d95201eb66c7?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
