@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Fluid Power](https://www.appliedfluidpower.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dc121a6f6c5c3fadf3642e?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Sep 30 |
+| **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[DIP - Hardware Solutions Finance Intern](https://jobright.ai/jobs/info/68dc0f3397329f2f773225aa?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Sep 30 |
+| **[Verizon](https://www.verizon.com)** | **[Verizon Business Market Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68dc0a8e6f6c5c3fadf360b8?utm_campaign=1051&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 30 |
+| **[Per Scholas](http://www.perscholas.org/)** | **[Events & Business Development Support Intern](https://jobright.ai/jobs/info/68dc09ec97329f2f77322138?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 30 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Retail Banking - Financial Wellness Intern](https://jobright.ai/jobs/info/68dc05d197329f2f77321f9e?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Sep 30 |
+| **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern – OTC Sales Operations](https://jobright.ai/jobs/info/68dc025997329f2f77321f19?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 30 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68dc020d97329f2f77321e6f?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Sep 30 |
+| **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern – OTC Sales Operations & Pricing](https://jobright.ai/jobs/info/68dc020797329f2f77321e63?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 30 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Fall 2025](https://jobright.ai/jobs/info/68dc000bd6470e72cf4d7e82?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
+| **[jacobstarr.work LLC](https://jacobstarr.work)** | **[Sales and Leads Intern](https://jobright.ai/jobs/info/68dbfdef6f6c5c3fadf35aca?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Sep 30 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Sales Intern](https://jobright.ai/jobs/info/68dbfc1dd6470e72cf4d7ce0?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | Remote | Sep 30 |
 | **[Octavate](http://www.octavate.io)** | **[MBA/Business Candidate – Strategic Finance & Business Development (Internship)](https://jobright.ai/jobs/info/68dbf6476f6c5c3fadf3569f?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Sep 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Pharmaceutical Sales Intern](https://jobright.ai/jobs/info/68dbf5e96f6c5c3fadf355d3?utm_campaign=1051&utm_source=git)** | Mettawa, IL | On Site | Sep 30 |
 | **[HotTakes](https://hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/6882ff95b54cac0f1e73461f?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 30 |
@@ -68,11 +79,13 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Sales Trainee Intern](https://jobright.ai/jobs/info/68dbdd6397329f2f7731f17f?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Pure Processing](https://pure-processing.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68dbd88e6f6c5c3fadf327ed?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Sep 30 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Lease Administrator, Sales & Service Infrastructure (Winter/Spring 2026)](https://jobright.ai/jobs/info/68dbc9996f6c5c3fadf317f7?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Sep 30 |
+| **[Applied Industrial Technologies](http://www.applied.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dc16e097329f2f7732293c?utm_campaign=1051&utm_source=git)** | 2347 - Saint Louis | Hybrid | Sep 30 |
 | **[Shaw Industries](https://shawinc.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/68dbc4d16f6c5c3fadf315b9?utm_campaign=1051&utm_source=git)** | Cartersville, GA | On Site | Sep 30 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Residential Sales Team Intern](https://jobright.ai/jobs/info/68dbb60797329f2f7731c6f1?utm_campaign=1051&utm_source=git)** | Hennepin County, MN | Hybrid | Sep 30 |
 | **[MeloTech](https://www.melotech.ai)** | **[Music Venture Development Intern](https://jobright.ai/jobs/info/68dbd9336f6c5c3fadf32897?utm_campaign=1051&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Merchandising & Retail Intern - Fall 2025](https://jobright.ai/jobs/info/68dbaf34d6470e72cf4d0b65?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | **[MeloTech](https://www.melotech.ai)** | **[Founders Associate Intern](https://jobright.ai/jobs/info/68dbda53d6470e72cf4d4cca?utm_campaign=1051&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
+| ↳ | **[Founders Associate Intern](https://jobright.ai/jobs/info/68dc02016f6c5c3fadf35c89?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | ↳ | **[Music Venture Development Intern](https://jobright.ai/jobs/info/68dbd93b6f6c5c3fadf328a3?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[ProSoft Electronics](https://prosoftelectronics.com/)** | **[Sales Support Internship](https://jobright.ai/jobs/info/68dbd8fc6f6c5c3fadf32860?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Stylos Security Solutions](https://www.Stylossecuritysolutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dbd93597329f2f7731eea8?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 29 |
@@ -83,23 +96,4 @@ For a complete list, click the following sortable link below:
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Retail Banking Client Solutions Intern](https://jobright.ai/jobs/info/68d472f78c62e63bc7fe969f?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Sep 25 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Client Strategy & Sales Internship](https://jobright.ai/jobs/info/68d2e4038c62e63bc7fdb371?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Sep 23 |
 | **[BBDO Atlanta](http://bbdoatl.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/68d2c1cc8c62e63bc7fd97df?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 23 |
-| **[Crystal Valley](https://www.crystalvalley.coop/)** | **[Sales Agronomist Internship](https://jobright.ai/jobs/info/68dbb09ed6470e72cf4d0ff7?utm_campaign=1051&utm_source=git)** | Jackson, Jackson, MN, US | On Site | Sep 22 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/68dbae9997329f2f7731b0e2?utm_campaign=1051&utm_source=git)** | West Henrietta, New York, United States | On Site | Sep 18 |
-| **[Farmers Mutual Hail Insurance](https://www.fmh.com)** | **[Crop Adjuster Intern - Iowa](https://jobright.ai/jobs/info/68dbc37d97329f2f7731d7d4?utm_campaign=1051&utm_source=git)** | Iowa | On Site | Sep 17 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/682cfa5c4984972cf2445d48?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | On Site | Sep 16 |
-| **[The Larry H. Miller Company](http://www.lhm.com)** | **[Real Estate Acquisitions & Development Intern](https://jobright.ai/jobs/info/68dbb54cd6470e72cf4d1d44?utm_campaign=1051&utm_source=git)** | Sandy, Utah, United States | On Site | Sep 10 |
-| **[Scot Forge](https://www.scotforge.com/)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/68dbb4b4d6470e72cf4d1b92?utm_campaign=1051&utm_source=git)** | Spring Grove, IL, US | On Site | Sep 09 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/68dbe67797329f2f7731fc83?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Sep 09 |
-| **[The Raymond Corporation](https://www.raymondcorp.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68dbd3e3d6470e72cf4d4341?utm_campaign=1051&utm_source=git)** | 4835 Sirona Dr Ste 100, Charlotte, NC28273 | Hybrid | Sep 08 |
-| **[ATI](https://www.atimaterials.com)** | **[Account Representative Internship (May 2026)](https://jobright.ai/jobs/info/68dbb04597329f2f7731b5f8?utm_campaign=1051&utm_source=git)** | 2020 Ashcraft Ave, Monroe, NC28110 | On Site | Sep 08 |
-| **[Hoffman & Hoffman, Inc.](https://www.hoffman-hoffman.com)** | **[Summer Engineering Sales Intern](https://jobright.ai/jobs/info/68dbcf246f6c5c3fadf319ca?utm_campaign=1051&utm_source=git)** | Greensboro, NC, US | On Site | Sep 04 |
-| ↳ | **[Summer Engineering Sales Intern](https://jobright.ai/jobs/info/68dbaef0d6470e72cf4d0aa6?utm_campaign=1051&utm_source=git)** | Knoxville, TN, US | On Site | Sep 04 |
-| ↳ | **[Summer Engineering Sales Intern](https://jobright.ai/jobs/info/68dbec9e97329f2f77320db4?utm_campaign=1051&utm_source=git)** | Columbia, SC, US | On Site | Sep 04 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Individual Sales Representative - Seasonal](https://jobright.ai/jobs/info/68dbc17d97329f2f7731d354?utm_campaign=1051&utm_source=git)** | Minnesota, United States | Remote | Sep 03 |
-| ↳ | **[Individual Sales Representative - Seasonal](https://jobright.ai/jobs/info/68dbc12097329f2f7731d2a9?utm_campaign=1051&utm_source=git)** | Arizona, United States | Remote | Sep 03 |
-| ↳ | **[Individual Sales Representative - Seasonal](https://jobright.ai/jobs/info/68dbc4f86f6c5c3fadf3161a?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Sep 03 |
-| ↳ | **[Individual Sales Representative - Seasonal](https://jobright.ai/jobs/info/68dbaf6f6f6c5c3fadf2ecfb?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Sep 03 |
-| ↳ | **[Individual Sales Representative - Seasonal](https://jobright.ai/jobs/info/68dbc4c56f6c5c3fadf3159f?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Sep 03 |
-| **[Dot Foods](http://dotfoods.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/68dbb2dfd6470e72cf4d1630?utm_campaign=1051&utm_source=git)** | Chesterfield, Missouri, United States | On Site | Sep 02 |
-| **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68dbb18e97329f2f7731b95d?utm_campaign=1051&utm_source=git)** | St. Louis, Missouri, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
