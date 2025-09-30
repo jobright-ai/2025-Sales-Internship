@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[3M](https://www.3m.com)** | **[Internship - 2026 MBA Business Development/Marketing Intern - Transportation & Electronics Business Group (TEBG)](https://jobright.ai/jobs/info/68dc2e1297329f2f77323423?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Sep 30 |
+| ↳ | **[Internship – 2026 Undergraduate Field Sales Intern – Transportation & Electronics Business Group (TEBG)](https://jobright.ai/jobs/info/68dc2d9466059a42a715c500?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Sep 30 |
+| **[Ottermap](https://ottermap.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68dc2d8b66059a42a715c4ed?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 30 |
+| **[VisionSpring](https://visionspring.org/home)** | **[Resource Mobilization Internship](https://jobright.ai/jobs/info/68dc2a0d97329f2f773231e5?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 30 |
+| **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68dc295f66059a42a715c1d2?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Sep 30 |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/68dc26a797329f2f773230dc?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 30 |
+| ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/68dc262a97329f2f77322fd8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Sep 30 |
+| **[ParTee Shack](parteeshack.com)** | **[Event Sales Intern](https://jobright.ai/jobs/info/68dc25bdd6470e72cf4d90af?utm_campaign=1051&utm_source=git)** | Triangle Area | Hybrid | Sep 30 |
+| **[Shamrock Trading Corporation](https://www.shamrocktradingcorp.com/)** | **[Carrier Sales Intern - Ryan Transportation](https://jobright.ai/jobs/info/68dc2589d6470e72cf4d9048?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Sep 30 |
+| **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (UCF Summer 2026)](https://jobright.ai/jobs/info/68b8c77b07090163b6ba4ce7?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Sep 30 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Fairlawn, OH](https://jobright.ai/jobs/info/68dc21ca66059a42a715becd?utm_campaign=1051&utm_source=git)** | Akron, OH | Hybrid | Sep 30 |
+| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68dc216266059a42a715be26?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Sep 30 |
+| **[SVN | Second Story Real Estate Management](https://secondstory.properties)** | **[Brokerage Intern - Junior Sales Associate / Prospector](https://jobright.ai/jobs/info/68dc1d5297329f2f77322b62?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Sep 30 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68dc1ca366059a42a715bc23?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Sep 30 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68dc1c9a66059a42a715bc0e?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Sep 30 |
 | **[Applied Fluid Power](https://www.appliedfluidpower.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dc121a6f6c5c3fadf3642e?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Sep 30 |
 | **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[DIP - Hardware Solutions Finance Intern](https://jobright.ai/jobs/info/68dc0f3397329f2f773225aa?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Sep 30 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Business Market Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68dc0a8e6f6c5c3fadf360b8?utm_campaign=1051&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 30 |
