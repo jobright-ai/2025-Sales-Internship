@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Monetization Strategy and Operations Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/68db68a39f13662d20e4afc1?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Sep 29 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/68db742434f2c406da6d834f?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Sep 29 |
 | **[PentaEye](https://www.pentaeye.com/)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68db5bce9f13662d20e4a670?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/68db58579f13662d20e4a4bd?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Sep 29 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Business Development Intern (Fall/Winter '25)](https://jobright.ai/jobs/info/68db58039f13662d20e4a34c?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Sep 29 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Herzog](https://www.herzog.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/68db298f0dffed6f83d2cd18?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Sep 29 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Spring/Summer 2026](https://jobright.ai/jobs/info/68db20a4e9b48513789b2045?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Sep 29 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68db1c436df7b8311bb16164?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Sep 29 |
-| **[TI Fluid Systems](https://www.tifluidsystems.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/68db1a4ee9b48513789b1e3f?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Ad Sales](https://jobright.ai/jobs/info/68db188b0dffed6f83d2c738?utm_campaign=1051&utm_source=git)** | New York, New York, USA | On Site | Sep 29 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2025 Summer Intern: Digital Business](https://jobright.ai/jobs/info/68db12b26df7b8311bb15e8a?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Dynamic Sourcing Revenue Management Internship](https://jobright.ai/jobs/info/68db0f690dffed6f83d2c4f7?utm_campaign=1051&utm_source=git)** | Wyoming, MI | Hybrid | Sep 29 |
@@ -141,6 +141,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/68daed060dffed6f83d2ac06?utm_campaign=1051&utm_source=git)** | Garland, TX | On Site | Sep 29 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/68daec8a0dffed6f83d2ab68?utm_campaign=1051&utm_source=git)** | Poplar Bluff, MO | On Site | Sep 29 |
 | **[FCX Performance](http://fcxperformance.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68daec250dffed6f83d2aae6?utm_campaign=1051&utm_source=git)** | Kansas City, KS | Hybrid | Sep 29 |
+| **[TI Fluid Systems](https://www.tifluidsystems.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/68daec170dffed6f83d2aadd?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Sep 29 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Inside Sales](https://jobright.ai/jobs/info/68dae83e0dffed6f83d2a885?utm_campaign=1051&utm_source=git)** | Topeka, KS | On Site | Sep 29 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (ABL-Franchise Finance)](https://jobright.ai/jobs/info/68cd4a43e23def7af55b7ceb?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Sep 29 |
 | **[FirstDown PlayBook](http://firstdownplaybook.com)** | **[Coach Relationship & Sales Intern](https://jobright.ai/jobs/info/68dae6f007c157682e56f37a?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle Acquisitions](http://www.oracleacquisitions.com)** | **[Sales And Marketing Specialist](https://jobright.ai/jobs/info/68dadd8307c157682e56eb0b?utm_campaign=1051&utm_source=git)** | Denver Metropolitan Area | On Site | Sep 29 |
 | **[Azeeza](https://www.azeeza.us)** | **[Wholesale & Showroom Intern](https://jobright.ai/jobs/info/68dadd670b832179ca4b20a2?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[Benco Dental](https://www.benco.com/)** | **[Sales Operations Intern (Spring 2026)](https://jobright.ai/jobs/info/68dadd0507c157682e56e951?utm_campaign=1051&utm_source=git)** | Flower Mound, TX | On Site | Sep 29 |
-| **[Verizon](https://www.verizon.com)** | **[Consumer Sales Ops & Partner Channel Summer 2026 Internship](https://jobright.ai/jobs/info/68dadb2d0b832179ca4b1e3a?utm_campaign=1051&utm_source=git)** | Basking Ridge, New Jersey | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
