@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship](https://jobright.ai/jobs/info/68dcf5a6ddc10244dd67bc5e?utm_campaign=1051&utm_source=git)** | San Luis Obispo, CA, United States | On Site | Oct 01 |
+| ↳ | **[2026 Management and Sales Summer Internship - Sacramento](https://jobright.ai/jobs/info/68dcf549a125e75c422a7125?utm_campaign=1051&utm_source=git)** | Gold River, CA, United States | On Site | Oct 01 |
+| ↳ | **[2026 Management and Sales Summer Internship](https://jobright.ai/jobs/info/68dcf53fa125e75c422a70f3?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA, United States | On Site | Oct 01 |
+| ↳ | **[2026 Management and Sales Summer Internship](https://jobright.ai/jobs/info/68dcf53aaccfd24b67e5be55?utm_campaign=1051&utm_source=git)** | Fresno, CA, United States | On Site | Oct 01 |
+| **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68dcebfeaccfd24b67e5ba70?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 01 |
+| ↳ | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/68dceb07ddc10244dd67b6ea?utm_campaign=1051&utm_source=git)** | Downers Grove, IL | On Site | Oct 01 |
 | **[McGohan Brabender](https://www.mcgohanbrabender.com)** | **[University of Cincinnati Co-Op/Sales Intern](https://jobright.ai/jobs/info/68dcda9da125e75c422a60b6?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, USA | On Site | Oct 01 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Mid-Atlantic)](https://jobright.ai/jobs/info/68dcc19fa125e75c422a4f06?utm_campaign=1051&utm_source=git)** | Washington, United States | On Site | Sep 30 |
 | ↳ | **[2026 Sales/Brokerage Intern - Summer (Dallas, TX)](https://jobright.ai/jobs/info/68dcb7d3a125e75c422a45ad?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Sep 30 |
@@ -76,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Victaulic](https://www.victaulic.com)** | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/68dc8f38ddc10244dd676c46?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | Sep 30 |
 | ↳ | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/68dc8be7accfd24b67e56a37?utm_campaign=1051&utm_source=git)** | San Francisco, California | Hybrid | Sep 30 |
 | ↳ | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/68dc8bdfa125e75c422a1ed9?utm_campaign=1051&utm_source=git)** | Atlanta, Georgia | Hybrid | Sep 30 |
-| ↳ | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/68dc8bdeaccfd24b67e56a14?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts | Hybrid | Sep 30 |
 | ↳ | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/68dc8bdeddc10244dd676a8e?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia | Hybrid | Sep 30 |
+| ↳ | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/68dc8bdeaccfd24b67e56a14?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts | Hybrid | Sep 30 |
 | ↳ | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/68dc8bd4a125e75c422a1eb2?utm_campaign=1051&utm_source=git)** | Denver, Colorado | Hybrid | Sep 30 |
 | ↳ | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/68dc8bc7a125e75c422a1e8e?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona | Hybrid | Sep 30 |
 | ↳ | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/68dc8bc5ddc10244dd6769ee?utm_campaign=1051&utm_source=git)** | San Diego, California | Hybrid | Sep 30 |
@@ -128,11 +134,10 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Development Advisory Intern](https://jobright.ai/jobs/info/68dc4721accfd24b67e53cfa?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Sep 30 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Texas Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/68dc471eaccfd24b67e53cf7?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Sep 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Business Underwriting – Chicago - Construction](https://jobright.ai/jobs/info/68dc462addc10244dd67393f?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Sep 30 |
-| **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud Business Development Intern - United States](https://jobright.ai/jobs/info/68dc7cf8accfd24b67e55eae?utm_campaign=1051&utm_source=git)** | US-California-Palo Alto | On Site | Sep 30 |
-| ↳ | **[Tencent Cloud Business Development Intern - United States](https://jobright.ai/jobs/info/68dc7d2ba125e75c422a147c?utm_campaign=1051&utm_source=git)** | US-California-Los Angeles | On Site | Sep 30 |
+| **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud Business Development Intern - United States](https://jobright.ai/jobs/info/68dc7d2ba125e75c422a147c?utm_campaign=1051&utm_source=git)** | US-California-Los Angeles | On Site | Sep 30 |
+| ↳ | **[Tencent Cloud Business Development Intern - United States](https://jobright.ai/jobs/info/68dc7cf8accfd24b67e55eae?utm_campaign=1051&utm_source=git)** | US-California-Palo Alto | On Site | Sep 30 |
 | **[Beacon Funding](http://beaconfunding.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68dc40c9accfd24b67e538b7?utm_campaign=1051&utm_source=git)** | Chicago, Illinois - West Loop | On Site | Sep 30 |
 | **[Growth Sphere](www.growthsphere.io)** | **[Sales and marketing specialist internship](https://jobright.ai/jobs/info/68dc40a8ddc10244dd673674?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 30 |
-| **[Per Scholas](http://www.perscholas.org/)** | **[Events & Business Development Support Intern](https://jobright.ai/jobs/info/68dc38de731a8047320679fc?utm_campaign=1051&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Allegion](https://www.allegion.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68dc7c6dddc10244dd675cbd?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Sep 30 |
 | ↳ | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68dc7dbaaccfd24b67e5619a?utm_campaign=1051&utm_source=git)** | Bothell, WA | On Site | Sep 30 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 MBA Business Development/Marketing Intern - Transportation & Electronics Business Group (TEBG)](https://jobright.ai/jobs/info/68dc2e1297329f2f77323423?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Sep 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Sales & Service Design Thinking Intern](https://jobright.ai/jobs/info/68dc6c4da125e75c422a0acc?utm_campaign=1051&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
 | ↳ | **[Summer 2026 Sales & Service Design Thinking Intern](https://jobright.ai/jobs/info/68dc6c5faccfd24b67e55544?utm_campaign=1051&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Sep 30 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68dc1ca366059a42a715bc23?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Sep 30 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68dc1c9a66059a42a715bc0e?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Sep 30 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern- Customer Account Specialist - Starting in Summer 2026](https://jobright.ai/jobs/info/68dca193ddc10244dd677a9b?utm_campaign=1051&utm_source=git)** | Chicago, IL United States of America | On Site | Sep 30 |
-| **[Applied Fluid Power](https://www.appliedfluidpower.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dc121a6f6c5c3fadf3642e?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Sep 30 |
-| **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[DIP - Hardware Solutions Finance Intern](https://jobright.ai/jobs/info/68dc0f3397329f2f773225aa?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Sep 30 |
-| **[Verizon](https://www.verizon.com)** | **[Verizon Business Market Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68dc0a8e6f6c5c3fadf360b8?utm_campaign=1051&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
