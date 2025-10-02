@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddf87309bda65a4b62572b?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Oct 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddf85509bda65a4b62569c?utm_campaign=1051&utm_source=git)** | Boardman, OH | On Site | Oct 01 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddf83209bda65a4b62562e?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 01 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/68ddf79809bda65a4b6253b2?utm_campaign=1051&utm_source=git)** | West Hartford, CT | On Site | Oct 01 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddf0ad09bda65a4b624edf?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Oct 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddf07b09bda65a4b624e93?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Oct 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddf03909bda65a4b624e27?utm_campaign=1051&utm_source=git)** | Longview, TX | On Site | Oct 01 |
@@ -79,13 +83,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddea47a125e75c422afd51?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Oct 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddea3fa125e75c422afd36?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Oct 01 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddea2ba125e75c422afd10?utm_campaign=1051&utm_source=git)** | Florence, KY | On Site | Oct 01 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Sales Internship - Bremerton](https://jobright.ai/jobs/info/68dde94e09bda65a4b62499c?utm_campaign=1051&utm_source=git)** | Bremerton - Gig Harbor - Port Orchard | On Site | Oct 01 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Burien](https://jobright.ai/jobs/info/68dde94e09bda65a4b62499b?utm_campaign=1051&utm_source=git)** | Burien - Des Moines | On Site | Oct 01 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Sales Internship - Burien](https://jobright.ai/jobs/info/68dde94e09bda65a4b62499b?utm_campaign=1051&utm_source=git)** | Burien - Des Moines | On Site | Oct 01 |
+| ↳ | **[Summer 2026 Management Trainee Sales Internship - Bremerton](https://jobright.ai/jobs/info/68dde94e09bda65a4b62499c?utm_campaign=1051&utm_source=git)** | Bremerton - Gig Harbor - Port Orchard | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Kennewick](https://jobright.ai/jobs/info/68dde93709bda65a4b62497f?utm_campaign=1051&utm_source=git)** | Kennewick (Tri Cities) | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Seattle](https://jobright.ai/jobs/info/68dde93709bda65a4b62497d?utm_campaign=1051&utm_source=git)** | Seattle | On Site | Oct 01 |
 | ↳ | **[Spring 2026 Management Trainee Sales Internship - Fairbanks](https://jobright.ai/jobs/info/68dde92809bda65a4b62496c?utm_campaign=1051&utm_source=git)** | Fairbanks | On Site | Oct 01 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Lynnwood](https://jobright.ai/jobs/info/68dde92709bda65a4b624968?utm_campaign=1051&utm_source=git)** | Northgate - South Lynnwood | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/68dde92709bda65a4b624967?utm_campaign=1051&utm_source=git)** | Bellevue - Issaquah | On Site | Oct 01 |
+| ↳ | **[Summer 2026 Management Trainee Sales Internship - Lynnwood](https://jobright.ai/jobs/info/68dde92709bda65a4b624968?utm_campaign=1051&utm_source=git)** | Northgate - South Lynnwood | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bothell](https://jobright.ai/jobs/info/68dde92209bda65a4b62495e?utm_campaign=1051&utm_source=git)** | Bothell/Woodinville | On Site | Oct 01 |
 | ↳ | **[Spring 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/68dde91b09bda65a4b624954?utm_campaign=1051&utm_source=git)** | Anchorage | On Site | Oct 01 |
 | ↳ | **[Spring 2026 Truck Rental Sales Account Specialist Internship - Spokane](https://jobright.ai/jobs/info/68dde8e809bda65a4b624918?utm_campaign=1051&utm_source=git)** | Spokane | On Site | Oct 01 |
@@ -93,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Truck Rental Sales Account Specialist Internship - Seattle](https://jobright.ai/jobs/info/68dde71744d32141e0bfb9f9?utm_campaign=1051&utm_source=git)** | Seattle | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Seattle International Airport](https://jobright.ai/jobs/info/68dde6fe44d32141e0bfb9cb?utm_campaign=1051&utm_source=git)** | Sea-Tac Intnl Airport | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Spokane](https://jobright.ai/jobs/info/68dde6f544d32141e0bfb9b7?utm_campaign=1051&utm_source=git)** | Spokane | On Site | Oct 01 |
-| ↳ | **[Spring 2026 Management Trainee Sales Internship - Tacoma](https://jobright.ai/jobs/info/68dde6df44d32141e0bfb97f?utm_campaign=1051&utm_source=git)** | Tacoma | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bellingham](https://jobright.ai/jobs/info/68dde6df44d32141e0bfb97d?utm_campaign=1051&utm_source=git)** | Bellingham | On Site | Oct 01 |
+| ↳ | **[Spring 2026 Management Trainee Sales Internship - Tacoma](https://jobright.ai/jobs/info/68dde6df44d32141e0bfb97f?utm_campaign=1051&utm_source=git)** | Tacoma | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Pasco](https://jobright.ai/jobs/info/68dde6d944d32141e0bfb96f?utm_campaign=1051&utm_source=git)** | Kennewick (Tri Cities) | On Site | Oct 01 |
 | ↳ | **[Spring 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/68dde6d044d32141e0bfb953?utm_campaign=1051&utm_source=git)** | Bellevue - Issaquah | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Olympia](https://jobright.ai/jobs/info/68dde6c3a125e75c422afb98?utm_campaign=1051&utm_source=git)** | Olympia - Lacey | On Site | Oct 01 |
@@ -127,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/68ddda42a125e75c422af62a?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Oct 01 |
 | ↳ | **[Spring 2026 Management Trainee Sales Internship - Yakima](https://jobright.ai/jobs/info/68ddda37ddc10244dd6841f3?utm_campaign=1051&utm_source=git)** | Yakima, WA | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Kennewick](https://jobright.ai/jobs/info/68ddda34a125e75c422af617?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Oct 01 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Parkland](https://jobright.ai/jobs/info/68ddda2ca125e75c422af60f?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Auburn](https://jobright.ai/jobs/info/68ddda2bd624072d9ab04dd1?utm_campaign=1051&utm_source=git)** | Auburn, WA | On Site | Oct 01 |
+| ↳ | **[Summer 2026 Management Trainee Sales Internship - Parkland](https://jobright.ai/jobs/info/68ddda2ca125e75c422af60f?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Oct 01 |
 | ↳ | **[Spring 2026 Management Trainee Sales Internship - Downtown Seattle](https://jobright.ai/jobs/info/68ddda2a44d32141e0bfb364?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 01 |
 | ↳ | **[Spring 2026 Management Trainee Sales Internship - Spokane](https://jobright.ai/jobs/info/68ddda1309bda65a4b6247e8?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Oct 01 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Burien](https://jobright.ai/jobs/info/68ddda1244d32141e0bfb325?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merrill Manufacturing Company](https://www.merrillmfg.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ddcc4ca125e75c422aeedf?utm_campaign=1051&utm_source=git)** | Merrill Main Office | On Site | Oct 01 |
 | **[Workato](http://www.workato.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/68ddc9c5d624072d9ab04bc8?utm_campaign=1051&utm_source=git)** | Palo Alto, California | On Site | Oct 01 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68ddc233ddc10244dd68380a?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Oct 01 |
-| **[PURPLE](https://purplepr.com)** | **[Showroom Intern - Spring](https://jobright.ai/jobs/info/68ddbc6d5c94f548c951a8b8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
-| **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (El Paso, TX)](https://jobright.ai/jobs/info/68ddbc535c94f548c951a8ae?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Oct 01 |
-| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Digital Business](https://jobright.ai/jobs/info/68ddbc4ad624072d9ab04adc?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
-| **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Greater Los Angeles, CA)](https://jobright.ai/jobs/info/68ddbc32d624072d9ab04ad0?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
