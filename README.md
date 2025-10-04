@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/68c46eeae396b25cb5c67d0e?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | Hybrid | Oct 04 |
+| **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Sales Intern/ Entry level Sales Representative](https://jobright.ai/jobs/info/68e10f2e1852e62f007f124e?utm_campaign=1051&utm_source=git)** | Carrollton, TX | On Site | Oct 04 |
+| **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/68c47053e471ef3ce16d614d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Northern Connecticut)](https://jobright.ai/jobs/info/68c47c3de396b25cb5c68892?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Oct 04 |
+| **[Xinnor](https://xinnor.io/)** | **[SDR Intern](https://jobright.ai/jobs/info/68e10994f758fe1f97e538b1?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Chicago Metro - West)](https://jobright.ai/jobs/info/68c47c42e471ef3ce16d6ae1?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 04 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c423fde471ef3ce16d3f60?utm_campaign=1051&utm_source=git)** | Rochester, MN | On Site | Oct 04 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c41ab0e471ef3ce16d3ac2?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Oct 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e021a8b99ec3563b0cc3e9?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Oct 03 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e0219af758fe1f97e49f03?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Oct 03 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e02186b99ec3563b0cc3ad?utm_campaign=1051&utm_source=git)** | Mansfield, TX | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e0213bf758fe1f97e49e6d?utm_campaign=1051&utm_source=git)** | Addison, IL | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e020eeb99ec3563b0cc2fc?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Oct 03 |
-| **[Faurecia](https://www.forvia.com)** | **[Year-Round Purchasing Intern](https://jobright.ai/jobs/info/68e02096b99ec3563b0cc29a?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Oct 03 |
-| **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68e0206fb99ec3563b0cc25f?utm_campaign=1051&utm_source=git)** | Halethorpe, MD | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e0205ab99ec3563b0cc23d?utm_campaign=1051&utm_source=git)** | Euless, TX | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
