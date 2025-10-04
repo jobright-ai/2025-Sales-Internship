@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e15ad2b99ec3563b0d71f8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 04 |
+| **[NuStartz](www.NuStartz.com)** | **[Customer Success Manager - Internship](https://jobright.ai/jobs/info/68e1594b1852e62f007f28e4?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Oct 04 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/68e1591b1852e62f007f28d2?utm_campaign=1051&utm_source=git)** | Katy, TX | On Site | Oct 04 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68e14f2b1852e62f007f2824?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 04 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68e14ecc1852e62f007f27ec?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Oct 04 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Entry Level Sales Internship – Financial Services](https://jobright.ai/jobs/info/68e14d27b99ec3563b0d707f?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Oct 04 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e14a12f758fe1f97e54e30?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | **[SASAL, INC](https://sasalinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e13760f758fe1f97e54a79?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Sales Enablement Specialist Internship In Bali](https://jobright.ai/jobs/info/68e1270e1852e62f007f1e42?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 04 |
 | **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/68c46eeae396b25cb5c67d0e?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | Hybrid | Oct 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Sales Intern](https://jobright.ai/jobs/info/68e0326cb99ec3563b0ccf66?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 03 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Co-op Internship: Molecular Imaging – Parkinson’s DaTscan (Commercial & Data Initiatives)](https://jobright.ai/jobs/info/68e02e87f758fe1f97e4aa32?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Oct 03 |
 | **[Kimball International](https://www.kimballinternational.com)** | **[Sales Intern- Jasper, IN](https://jobright.ai/jobs/info/68e02ce9f758fe1f97e4a7e4?utm_campaign=1051&utm_source=git)** | Jasper, IN | On Site | Oct 03 |
-| **[Cirrus](http://cirrusaircraft.com)** | **[Retail Cirrus Store Intern](https://jobright.ai/jobs/info/68e02826b99ec3563b0cc9b1?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Oct 03 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA SALES INTERN SPRING '26 - WIS](https://jobright.ai/jobs/info/68e026c2b99ec3563b0cc67c?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Oct 03 |
-| **[Pella Corporation](http://www.pella.com)** | **[PDSN Account Team Intern - Summer 2026](https://jobright.ai/jobs/info/68e024691852e62f007e7dbb?utm_campaign=1051&utm_source=git)** | Pella, IA | On Site | Oct 03 |
-| **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68e0225eb99ec3563b0cc524?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e021ceb99ec3563b0cc427?utm_campaign=1051&utm_source=git)** | Chantilly, VA | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e021c4f758fe1f97e49f47?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e021a8b99ec3563b0cc3e9?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
