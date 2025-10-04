@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA SALES INTERN SPRING '26 - KTVK/KPHO](https://jobright.ai/jobs/info/68e07a2ab99ec3563b0cfb41?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
+| **[Muon Space](https://www.muonspace.com)** | **[Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68e06bb3b99ec3563b0cf407?utm_campaign=1051&utm_source=git)** | Woodbridge, VA | On Site | Oct 03 |
 | **[Gallagher](http://www.ajg.com)** | **[Sales Intern GSIP](https://jobright.ai/jobs/info/68e05a1d1852e62f007ea6c1?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Oct 03 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68e058a51852e62f007ea550?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Muon Space](https://www.muonspace.com)** | **[Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68e053d2b99ec3563b0ceab6?utm_campaign=1051&utm_source=git)** | Woodbridge, VA | On Site | Oct 03 |
@@ -72,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ca71852e62f007e9271?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c7db99ec3563b0cdc1a?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c77b99ec3563b0cdc0b?utm_campaign=1051&utm_source=git)** | Lima, OH | On Site | Oct 03 |
@@ -137,15 +139,13 @@ For a complete list, click the following sortable link below:
 | **[PowerChord, Inc.](https://www.powerchord.com/)** | **[Market Launch Entrepreneurship and Sales Intern](https://jobright.ai/jobs/info/68e00960f758fe1f97e48f46?utm_campaign=1051&utm_source=git)** | Durham, NC | Hybrid | Oct 03 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern (Summer 2026) Portland](https://jobright.ai/jobs/info/68e00922f758fe1f97e48f03?utm_campaign=1051&utm_source=git)** | Vancouver, WA | Hybrid | Oct 03 |
 | ↳ | **[Sales Intern (Summer 2026) Seattle](https://jobright.ai/jobs/info/68e008fa1852e62f007e6b46?utm_campaign=1051&utm_source=git)** | Everett, WA | Hybrid | Oct 03 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Future Talent Program - Companion Animal Sales - Intern](https://jobright.ai/jobs/info/68e003b8f758fe1f97e48ad4?utm_campaign=1051&utm_source=git)** | Rahway, NJ | Hybrid | Oct 03 |
 | **[Pella Corporation](http://www.pella.com)** | **[PDSN Account Team Intern - Summer 2026](https://jobright.ai/jobs/info/68e001691852e62f007e6511?utm_campaign=1051&utm_source=git)** | 102 Main St, Pella, IA, 50219, US | On Site | Oct 03 |
 | **[Crest Vale](crestvale.us)** | **[Summer Internship – Sales & Business Development](https://jobright.ai/jobs/info/68dffea5f758fe1f97e488bf?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Oct 03 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Knoxville, TN](https://jobright.ai/jobs/info/68dffdfdf758fe1f97e487f7?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Oct 03 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Future Talent Program - Companion Animal Sales - Intern](https://jobright.ai/jobs/info/68dffe291852e62f007e64c4?utm_campaign=1051&utm_source=git)** | Rahway, NJ | Hybrid | Oct 03 |
 | **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68dffd461852e62f007e63b4?utm_campaign=1051&utm_source=git)** | Beverly, MA | On Site | Oct 03 |
-| **[Zoetis](https://www.zoetis.com)** | **[Pork Sales Intern](https://jobright.ai/jobs/info/68dffc151852e62f007e6267?utm_campaign=1051&utm_source=git)** | US IA Remote | Remote | Oct 03 |
-| ↳ | **[Pork Sales Intern](https://jobright.ai/jobs/info/68dffbf1b99ec3563b0cac11?utm_campaign=1051&utm_source=git)** | US IA Remote | Remote | Oct 03 |
+| **[Zoetis](https://www.zoetis.com)** | **[Pork Sales Intern](https://jobright.ai/jobs/info/68dffbf1b99ec3563b0cac11?utm_campaign=1051&utm_source=git)** | US IA Remote | Remote | Oct 03 |
+| ↳ | **[Pork Sales Intern](https://jobright.ai/jobs/info/68dffbc01852e62f007e6170?utm_campaign=1051&utm_source=git)** | US IA Remote | Remote | Oct 03 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Co-op Internship: Molecular Imaging – Parkinson’s DaTscan (Commercial & Data Initiatives)](https://jobright.ai/jobs/info/68dffb94f758fe1f97e484c0?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 03 |
-| **[Zoetis](https://www.zoetis.com)** | **[Pork Sales Intern](https://jobright.ai/jobs/info/68e03b8fb99ec3563b0cdac8?utm_campaign=1051&utm_source=git)** | Iowa, United States | On Site | Oct 03 |
 | **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (Iowa State Summer 2026)](https://jobright.ai/jobs/info/68b9fe1d6105227d1189a068?utm_campaign=1051&utm_source=git)** | Urbandale, IA | On Site | Oct 03 |
 | **[Friends of The Underline](https://www.theunderline.org/)** | **[Business & Community Partnerships Intern](https://jobright.ai/jobs/info/68dff725f758fe1f97e48414?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Oct 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfeb241852e62f007e5969?utm_campaign=1051&utm_source=git)** | Ardmore, OK | On Site | Oct 03 |
