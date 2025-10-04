@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Sytems - Dallas, TX](https://jobright.ai/jobs/info/68e0e98a1852e62f007f05fb?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 04 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e5cb1852e62f007f0501?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Oct 04 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship-Travel industry Sales, Marketing & Sales (Summer2026)](https://jobright.ai/jobs/info/68e0e58ab99ec3563b0d4d03?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e3a2b99ec3563b0d48b7?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Oct 04 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[2026 Summer Sales Engineer Internship](https://jobright.ai/jobs/info/68e0c342f758fe1f97e50c1f?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Oct 03 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Inside Sales Intern - Summer](https://jobright.ai/jobs/info/68e0a879f758fe1f97e4fb13?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Oct 03 |
 | **[Covenant Logistics Group](https://www.linkedin.com/company/76806676)** | **[Lead Conversion Intern](https://jobright.ai/jobs/info/68e0a864f758fe1f97e4faf0?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Oct 03 |
@@ -94,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Oct 03 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Sales Intern - Future Opportunity](https://jobright.ai/jobs/info/68e0471b1852e62f007e9a34?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ca71852e62f007e9271?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c7db99ec3563b0cdc1a?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Oct 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01db01852e62f007e78b1?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | On Site | Oct 03 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01d701852e62f007e785c?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Oct 03 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01d2c1852e62f007e77f5?utm_campaign=1051&utm_source=git)** | Pomona, CA | On Site | Oct 03 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Marquette Book Mark Campus Retail Associate (Seasonal)](https://jobright.ai/jobs/info/68e01ab0b99ec3563b0cbce6?utm_campaign=1051&utm_source=git)** | US-WI-MILWAUKEE | On Site | Oct 03 |
-| **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Sales Intern/ Entry level Sales Representative](https://jobright.ai/jobs/info/68e01a651852e62f007e7335?utm_campaign=1051&utm_source=git)** | Carrollton, TX 75007 | On Site | Oct 03 |
-| **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01a5ff758fe1f97e4972a?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e017e91852e62f007e711e?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
