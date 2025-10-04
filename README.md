@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starbeam](www.starbeam.org)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68e18856b99ec3563b0d785b?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Remote | Oct 04 |
+| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Ticket Sales & Service](https://jobright.ai/jobs/info/68e187aaf758fe1f97e556c5?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6484](https://jobright.ai/jobs/info/68e1791ab99ec3563b0d7519?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 04 |
 | ↳ | **[Sales Clerk INT 6485](https://jobright.ai/jobs/info/68e1763fb99ec3563b0d74f7?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Oct 04 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e167191852e62f007f29ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Oct 04 |
@@ -126,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ca71852e62f007e9271?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c7db99ec3563b0cdc1a?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c77b99ec3563b0cdc0b?utm_campaign=1051&utm_source=git)** | Lima, OH | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68e0345c1852e62f007e898d?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 03 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6475](https://jobright.ai/jobs/info/68e0341fb99ec3563b0cd367?utm_campaign=1051&utm_source=git)** | Yorktown, VA | On Site | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[2026 Sales Returning Intern – IBM Early Sales Professional](https://jobright.ai/jobs/info/68e0334cf758fe1f97e4abc9?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Oct 03 |
-| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Non-Alc Sales Intern](https://jobright.ai/jobs/info/68e03310f758fe1f97e4ab2d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Oct 03 |
-| **[IBM](http://www.ibm.com)** | **[2026 Customer Success Manager Co-Op - Entry Level Sales Program](https://jobright.ai/jobs/info/68e03305b99ec3563b0cd03d?utm_campaign=1051&utm_source=git)** | University Park, MD | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
