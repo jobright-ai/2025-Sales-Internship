@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SASAL, INC](https://sasalinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e13760f758fe1f97e54a79?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 04 |
+| **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Sales Enablement Specialist Internship In Bali](https://jobright.ai/jobs/info/68e1270e1852e62f007f1e42?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 04 |
 | **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/68c46eeae396b25cb5c67d0e?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | Hybrid | Oct 04 |
 | **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Sales Intern/ Entry level Sales Representative](https://jobright.ai/jobs/info/68e10f2e1852e62f007f124e?utm_campaign=1051&utm_source=git)** | Carrollton, TX | On Site | Oct 04 |
 | **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/68c47053e471ef3ce16d614d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
@@ -72,8 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c4187114bb275ce0190ef4?utm_campaign=1051&utm_source=git)** | Lemmon, SD | On Site | Oct 04 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Sytems - Dallas, TX](https://jobright.ai/jobs/info/68e0e98a1852e62f007f05fb?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 04 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e5cb1852e62f007f0501?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Oct 04 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship-Travel industry Sales, Marketing & Sales (Summer2026)](https://jobright.ai/jobs/info/68e0e58ab99ec3563b0d4d03?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e3a2b99ec3563b0d48b7?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Oct 04 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e3a2b99ec3563b0d48b7?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Oct 04 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[2026 Summer Sales Engineer Internship](https://jobright.ai/jobs/info/68e0c342f758fe1f97e50c1f?utm_campaign=1051&utm_source=git)** | Eden Prairie, MN | On Site | Oct 03 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Inside Sales Intern - Summer](https://jobright.ai/jobs/info/68e0a879f758fe1f97e4fb13?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Oct 03 |
 | **[Covenant Logistics Group](https://www.linkedin.com/company/76806676)** | **[Lead Conversion Intern](https://jobright.ai/jobs/info/68e0a864f758fe1f97e4faf0?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Oct 03 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Gallagher Re](https://www.gallagherre.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68e0821db99ec3563b0cffed?utm_campaign=1051&utm_source=git)** | New York, New York | Remote | Oct 03 |
 | ↳ | **[Sales Intern GSIP](https://jobright.ai/jobs/info/68e081c5f758fe1f97e4dbb2?utm_campaign=1051&utm_source=git)** | Pittsburgh, Pennsylvania | Remote | Oct 03 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Champaign, IL - Summer 2026](https://jobright.ai/jobs/info/68e07c51b99ec3563b0cfd6b?utm_campaign=1051&utm_source=git)** | Champaign | On Site | Oct 03 |
+| **[GlobalFoundries](https://gf.com/)** | **[Sales Account Manager Intern, Electrical Engineering & Business (Summer 2026)](https://jobright.ai/jobs/info/68e12a6df758fe1f97e54401?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 03 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA SALES INTERN FALL '26 - WALA](https://jobright.ai/jobs/info/68e07b3ab99ec3563b0cfc28?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Oct 03 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Sales Internship](https://jobright.ai/jobs/info/68e07b1e1852e62f007eb3e3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Oct 03 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA SALES INTERN SPRING '26 - KTVK/KPHO](https://jobright.ai/jobs/info/68e07a2ab99ec3563b0cfb41?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e021ceb99ec3563b0cc427?utm_campaign=1051&utm_source=git)** | Chantilly, VA | On Site | Oct 03 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e021c4f758fe1f97e49f47?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 03 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e021a8b99ec3563b0cc3e9?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e0219af758fe1f97e49f03?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e02186b99ec3563b0cc3ad?utm_campaign=1051&utm_source=git)** | Mansfield, TX | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
