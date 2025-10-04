@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e15ad2b99ec3563b0d71f8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 04 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk PT 6484](https://jobright.ai/jobs/info/68e1791ab99ec3563b0d7519?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 04 |
+| ↳ | **[Sales Clerk INT 6485](https://jobright.ai/jobs/info/68e1763fb99ec3563b0d74f7?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Oct 04 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e167191852e62f007f29ee?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Oct 04 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68e166ce1852e62f007f29d5?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Oct 04 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68e15ad2b99ec3563b0d71f8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 04 |
 | **[NuStartz](www.NuStartz.com)** | **[Customer Success Manager - Internship](https://jobright.ai/jobs/info/68e1594b1852e62f007f28e4?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Oct 04 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/68e1591b1852e62f007f28d2?utm_campaign=1051&utm_source=git)** | Katy, TX | On Site | Oct 04 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68e14f2b1852e62f007f2824?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2026 Sales Returning Intern – IBM Early Sales Professional](https://jobright.ai/jobs/info/68e0334cf758fe1f97e4abc9?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Oct 03 |
 | **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Non-Alc Sales Intern](https://jobright.ai/jobs/info/68e03310f758fe1f97e4ab2d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[2026 Customer Success Manager Co-Op - Entry Level Sales Program](https://jobright.ai/jobs/info/68e03305b99ec3563b0cd03d?utm_campaign=1051&utm_source=git)** | University Park, MD | Hybrid | Oct 03 |
-| ↳ | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/68e03287f758fe1f97e4aa6c?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Oct 03 |
-| **[TalentSphere Global](talentsphereglobal.us)** | **[Sales Intern](https://jobright.ai/jobs/info/68e0326cb99ec3563b0ccf66?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 03 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Co-op Internship: Molecular Imaging – Parkinson’s DaTscan (Commercial & Data Initiatives)](https://jobright.ai/jobs/info/68e02e87f758fe1f97e4aa32?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Oct 03 |
-| **[Kimball International](https://www.kimballinternational.com)** | **[Sales Intern- Jasper, IN](https://jobright.ai/jobs/info/68e02ce9f758fe1f97e4a7e4?utm_campaign=1051&utm_source=git)** | Jasper, IN | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
