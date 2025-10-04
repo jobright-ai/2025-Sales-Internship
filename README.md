@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Chicago Metro - West)](https://jobright.ai/jobs/info/68c47c42e471ef3ce16d6ae1?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 04 |
+| **[CHS Inc.](http://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c423fde471ef3ce16d3f60?utm_campaign=1051&utm_source=git)** | Rochester, MN | On Site | Oct 04 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c41ab0e471ef3ce16d3ac2?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Oct 04 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c417d114bb275ce0190e9d?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Oct 04 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c4164514bb275ce0190da8?utm_campaign=1051&utm_source=git)** | Herman, MN | On Site | Oct 04 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c41886e396b25cb5c657c1?utm_campaign=1051&utm_source=git)** | Elgin, ND | On Site | Oct 04 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c417c214bb275ce0190e90?utm_campaign=1051&utm_source=git)** | Miles City, MT | On Site | Oct 04 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c4187114bb275ce0190ef4?utm_campaign=1051&utm_source=git)** | Lemmon, SD | On Site | Oct 04 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[BEST - Technical Sales - Fire Sytems - Dallas, TX](https://jobright.ai/jobs/info/68e0e98a1852e62f007f05fb?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 04 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e5cb1852e62f007f0501?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Oct 04 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship-Travel industry Sales, Marketing & Sales (Summer2026)](https://jobright.ai/jobs/info/68e0e58ab99ec3563b0d4d03?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
@@ -98,9 +106,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Oct 03 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Sales Intern - Future Opportunity](https://jobright.ai/jobs/info/68e0471b1852e62f007e9a34?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ca71852e62f007e9271?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c7db99ec3563b0cdc1a?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c77b99ec3563b0cdc0b?utm_campaign=1051&utm_source=git)** | Lima, OH | On Site | Oct 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Purchasing Intern](https://jobright.ai/jobs/info/68e02096b99ec3563b0cc29a?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Oct 03 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68e0206fb99ec3563b0cc25f?utm_campaign=1051&utm_source=git)** | Halethorpe, MD | On Site | Oct 03 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e0205ab99ec3563b0cc23d?utm_campaign=1051&utm_source=git)** | Euless, TX | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01fe4f758fe1f97e49c6e?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01f6e1852e62f007e7afc?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01f081852e62f007e7a6f?utm_campaign=1051&utm_source=git)** | West Chicago, IL | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01ee11852e62f007e7a3d?utm_campaign=1051&utm_source=git)** | Santa Clarita, CA | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01e9a1852e62f007e79d4?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01db01852e62f007e78b1?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01d701852e62f007e785c?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Oct 03 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01d2c1852e62f007e77f5?utm_campaign=1051&utm_source=git)** | Pomona, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
