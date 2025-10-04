@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carrier](https://www.corporate.carrier.com)** | **[Inside Sales Intern - Summer](https://jobright.ai/jobs/info/68e0a879f758fe1f97e4fb13?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Oct 03 |
+| **[Covenant Logistics Group](https://www.linkedin.com/company/76806676)** | **[Lead Conversion Intern](https://jobright.ai/jobs/info/68e0a864f758fe1f97e4faf0?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Oct 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e09037f758fe1f97e4e74a?utm_campaign=1051&utm_source=git)** | Pineville, NC | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern (Jordan Creek Town Center)](https://jobright.ai/jobs/info/68e09013f758fe1f97e4e722?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Oct 03 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e08ff7f758fe1f97e4e6f6?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Oct 03 |
@@ -91,9 +93,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Oct 03 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Sales Intern - Future Opportunity](https://jobright.ai/jobs/info/68e0471b1852e62f007e9a34?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ca71852e62f007e9271?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c7db99ec3563b0cdc1a?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c77b99ec3563b0cdc0b?utm_campaign=1051&utm_source=git)** | Lima, OH | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68e01a5ff758fe1f97e4972a?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Oct 03 |
 | ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68e017e91852e62f007e711e?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Oct 03 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Sales Support Intern, Travel Industry and Central Florida Sales, Spring 2026](https://jobright.ai/jobs/info/68e00a5bf758fe1f97e49077?utm_campaign=1051&utm_source=git)** | Celebration, FL | On Site | Oct 03 |
-| **[PowerChord, Inc.](https://www.powerchord.com/)** | **[Market Launch Entrepreneurship and Sales Intern](https://jobright.ai/jobs/info/68e00960f758fe1f97e48f46?utm_campaign=1051&utm_source=git)** | Durham, NC | Hybrid | Oct 03 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern (Summer 2026) Portland](https://jobright.ai/jobs/info/68e00922f758fe1f97e48f03?utm_campaign=1051&utm_source=git)** | Vancouver, WA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
