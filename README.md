@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern (First and Main)](https://jobright.ai/jobs/info/68e1dcd7f758fe1f97e563b8?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Oct 04 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/689ccb5bfaa4e875e826a88b?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Oct 04 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/689d1f5283d13d1f5b6ad542?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 04 |
+| ↳ | **[Sales and Management Intern (First and Main)](https://jobright.ai/jobs/info/68e1dcd7f758fe1f97e563b8?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Oct 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dcb81852e62f007f3d9a?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Oct 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dca5f758fe1f97e56328?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Oct 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc95f758fe1f97e562f2?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Oct 04 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e1dc69f758fe1f97e5628e?utm_campaign=1051&utm_source=git)** | Fort Dodge, IA | On Site | Oct 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc441852e62f007f3c5b?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Oct 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc38f758fe1f97e56224?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Oct 04 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc301852e62f007f3c25?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc241852e62f007f3c0c?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Oct 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc061852e62f007f3bbe?utm_campaign=1051&utm_source=git)** | Jacksonville, NC | On Site | Oct 04 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc02f758fe1f97e56183?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Oct 04 |
@@ -136,8 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08e86b99ec3563b0d092a?utm_campaign=1051&utm_source=git)** | Riverton, UT | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08e7e1852e62f007ec0ad?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08e531852e62f007ec08b?utm_campaign=1051&utm_source=git)** | Pearland, TX | On Site | Oct 03 |
-| **[Zoetis](https://www.zoetis.com)** | **[Pork Sales Intern](https://jobright.ai/jobs/info/68e1e9c6b99ec3563b0d8c7a?utm_campaign=1051&utm_source=git)** | Iowa, United States | On Site | Oct 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08ae4b99ec3563b0d077e?utm_campaign=1051&utm_source=git)** | Sugar Land, TX | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08ae4b99ec3563b0d077e?utm_campaign=1051&utm_source=git)** | Sugar Land, TX | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08adeb99ec3563b0d076e?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08a38f758fe1f97e4e18d?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Oct 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[2026 Mortgage Capital Markets Internship](https://jobright.ai/jobs/info/68e08389b99ec3563b0d00bd?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 03 |
