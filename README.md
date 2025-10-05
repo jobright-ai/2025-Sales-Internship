@@ -125,9 +125,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Oct 03 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Sales Intern - Future Opportunity](https://jobright.ai/jobs/info/68e0471b1852e62f007e9a34?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ca71852e62f007e9271?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c7db99ec3563b0cdc1a?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c77b99ec3563b0cdc0b?utm_campaign=1051&utm_source=git)** | Lima, OH | On Site | Oct 03 |
@@ -148,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e039acb99ec3563b0cd7a6?utm_campaign=1051&utm_source=git)** | Rome, GA | On Site | Oct 03 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e039921852e62f007e8d9d?utm_campaign=1051&utm_source=git)** | Wichita, KS, United States | On Site | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68e03967f758fe1f97e4b219?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Oct 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0395af758fe1f97e4b1f8?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Oct 03 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e0395af758fe1f97e4b1fa?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Oct 03 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e0395af758fe1f97e4b1fa?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0395af758fe1f97e4b1f8?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03935b99ec3563b0cd69e?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[2026 Customer Success Manager Co-Op - Entry Level Sales Program](https://jobright.ai/jobs/info/68e035d6b99ec3563b0cd663?utm_campaign=1051&utm_source=git)** | No Name, CO | Hybrid | Oct 03 |
 | ↳ | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68e034c51852e62f007e8a10?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Oct 03 |
