@@ -76,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[AlphaGraphics](https://www.alphagraphics.com/)** | **[Sales Intern/ Entry level Sales Representative](https://jobright.ai/jobs/info/68e10f2e1852e62f007f124e?utm_campaign=1051&utm_source=git)** | Carrollton, TX | On Site | Oct 04 |
 | **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/68c47053e471ef3ce16d614d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 04 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Northern Connecticut)](https://jobright.ai/jobs/info/68c47c3de396b25cb5c68892?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Oct 04 |
-| **[Xinnor](https://xinnor.io/)** | **[SDR Intern](https://jobright.ai/jobs/info/68e10994f758fe1f97e538b1?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 04 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Chicago Metro - West)](https://jobright.ai/jobs/info/68c47c42e471ef3ce16d6ae1?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 04 |
+| ↳ | **[2026 Management and Sales Summer Intern (Chicago Metro - West)](https://jobright.ai/jobs/info/68c47c42e471ef3ce16d6ae1?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 04 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c423fde471ef3ce16d3f60?utm_campaign=1051&utm_source=git)** | Rochester, MN | On Site | Oct 04 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c41ab0e471ef3ce16d3ac2?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Oct 04 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c417d114bb275ce0190e9d?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Oct 04 |
@@ -126,9 +125,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Oct 03 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Sales Intern - Future Opportunity](https://jobright.ai/jobs/info/68e0471b1852e62f007e9a34?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e948a?utm_campaign=1051&utm_source=git)** | Sherman, TX | On Site | Oct 03 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ca71852e62f007e9271?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c7db99ec3563b0cdc1a?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Oct 03 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c77b99ec3563b0cdc0b?utm_campaign=1051&utm_source=git)** | Lima, OH | On Site | Oct 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68e0345c1852e62f007e898d?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 03 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk FT 6475](https://jobright.ai/jobs/info/68e0341fb99ec3563b0cd367?utm_campaign=1051&utm_source=git)** | Yorktown, VA | On Site | Oct 03 |
 | **[IBM](http://www.ibm.com)** | **[2026 Sales Returning Intern – IBM Early Sales Professional](https://jobright.ai/jobs/info/68e0334cf758fe1f97e4abc9?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Oct 03 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Non-Alc Sales Intern](https://jobright.ai/jobs/info/68e03310f758fe1f97e4ab2d?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
