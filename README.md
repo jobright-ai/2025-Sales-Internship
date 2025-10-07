@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales Development Executive](https://jobright.ai/jobs/info/68e4be46ae2b894b1d7082c3?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 07 |
+| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales Support [Chicago, IL/Boston, MA]](https://jobright.ai/jobs/info/68e4b8bd1852e62f00808d4a?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 06 |
+| ↳ | **[SAP iXp Intern – Sales Development Executive](https://jobright.ai/jobs/info/68e4b789b99ec3563b0ed1da?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 06 |
+| **[Southwest Airlines](http://www.southwest.com/)** | **[Revenue Management Planning & Initiatives Summer 2026 Intern](https://jobright.ai/jobs/info/68e4aa90b99ec3563b0ecc5c?utm_campaign=1051&utm_source=git)** | TX-Dallas | On Site | Oct 06 |
 | **[Philo Homes](https://philo.homes/)** | **[Business Development Intern (Mandarin-English)](https://jobright.ai/jobs/info/68e4a0a7ae2b894b1d7073b5?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Oct 06 |
 | **[Klava AI](getklava.com)** | **[Tech Sales Intern (AI SaaS)](https://jobright.ai/jobs/info/68e49c03b99ec3563b0ec51b?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Premium Sales & Service](https://jobright.ai/jobs/info/68e49b5ab99ec3563b0ec3ef?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Professional Photographers of America](https://www.ppa.com)** | **[Membership Intern](https://jobright.ai/jobs/info/68e41cf1f758fe1f97e64220?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 06 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Technical Sales Engineer Intern (MPSNow)](https://jobright.ai/jobs/info/68e41c83b99ec3563b0e634f?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Heathlcare Market Sales Intern - Atlanta - Summer 2026](https://jobright.ai/jobs/info/68e41c2c1852e62f00801a88?utm_campaign=1051&utm_source=git)** | US - GA - Atlanta | On Site | Oct 06 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fleet Management Intern Summer 2026](https://jobright.ai/jobs/info/68e41becf758fe1f97e640d8?utm_campaign=1051&utm_source=git)** | Baltimore | On Site | Oct 06 |
-| **[RR Donnelley](http://www.rrd.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e41be21852e62f008019bd?utm_campaign=1051&utm_source=git)** | Parsippany-Troy Hills, NJ, USA | On Site | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Healthcare Market Sales Intern -  Detroit - Summer 2026](https://jobright.ai/jobs/info/68e41bde1852e62f008019b9?utm_campaign=1051&utm_source=git)** | US - Remote | Remote | Oct 06 |
-| ↳ | **[Heathlcare Market Sales Intern - Atlanta - Summer 2026](https://jobright.ai/jobs/info/68e41b8eb99ec3563b0e60e7?utm_campaign=1051&utm_source=git)** | US - Remote | Remote | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
