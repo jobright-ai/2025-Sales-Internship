@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetLife](http://www.metlife.com)** | **[Group Benefits Sales Intern](https://jobright.ai/jobs/info/68d2ecca8c62e63bc7fdb6e8?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Oct 06 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Business Underwriting – Los Angeles](https://jobright.ai/jobs/info/68e482f71852e62f00806ade?utm_campaign=1051&utm_source=git)** | Brea, CA | Hybrid | Oct 06 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Partnerships & Alliances](https://jobright.ai/jobs/info/68e47d68f758fe1f97e68d75?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| ↳ | **[Summer 2026 Internship - B2B Sales Intern](https://jobright.ai/jobs/info/68e47d35f758fe1f97e68d3d?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Internship - Sales Planning & Development Intern](https://jobright.ai/jobs/info/68e47ccbf758fe1f97e68cda?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Partner Management](https://jobright.ai/jobs/info/68e47c2db99ec3563b0eac97?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| ↳ | **[Summer 2026 Intern, Sales Operations](https://jobright.ai/jobs/info/68e47a84f758fe1f97e68a74?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Financial Services + Luxury &/Lifestyle Sales Intern](https://jobright.ai/jobs/info/68e4795c1852e62f0080649d?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Healthcare Market Sales Intern - Iron Valley - Summer 2026](https://jobright.ai/jobs/info/68e47798b99ec3563b0eaafe?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Oct 06 |
+| ↳ | **[Commercial Sales Analytics Intern](https://jobright.ai/jobs/info/68e476f6b99ec3563b0eaa57?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Oct 06 |
+| ↳ | **[Healthcare Market Sales Intern - Iron Valley - Summer 2026](https://jobright.ai/jobs/info/68e4766db99ec3563b0ea9cd?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 06 |
+| **[Prosource](https://www.totalprosource.com/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/68e474eeb99ec3563b0ea845?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Oct 06 |
+| **[Enterprise Fleet Management](https://www.efleets.com/)** | **[Fleet Management Intern Summer 2026](https://jobright.ai/jobs/info/68e47487f758fe1f97e68725?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Oct 06 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Healthcare Market Sales Intern - Iron Valley - Summer 2026](https://jobright.ai/jobs/info/68e472df1852e62f00806113?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Oct 06 |
+| ↳ | **[PO Commercial Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68e472301852e62f0080606d?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Oct 06 |
+| **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Business Development Intern [Mandarin Preferred]](https://jobright.ai/jobs/info/68e46f65b99ec3563b0ea590?utm_campaign=1051&utm_source=git)** | Houston, TX | Remote | Oct 06 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/68e46e7c1852e62f00805f60?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Oct 06 |
 | **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR (47968)](https://jobright.ai/jobs/info/68e469d8b99ec3563b0ea213?utm_campaign=1051&utm_source=git)** | Vancouver, WA, USA | On Site | Oct 06 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Temporary Sales & Marketing Intern](https://jobright.ai/jobs/info/68e464501852e62f008053f9?utm_campaign=1051&utm_source=git)** | Conrad New York102 North End Ave | On Site | Oct 06 |
@@ -86,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68e446d71852e62f00803f08?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Commercial Sales Analytics Intern](https://jobright.ai/jobs/info/68e446481852e62f00803d56?utm_campaign=1051&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - NA Enterprise Offer Management Analyst - Summer 2026](https://jobright.ai/jobs/info/68e4435af758fe1f97e664c3?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 06 |
-| **[Downstream](https://www.trydownstream.io)** | **[Business Development Representative (BDR) – Internship](https://jobright.ai/jobs/info/68e44317b99ec3563b0e8557?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Oct 06 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e44256f758fe1f97e66382?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 06 |
 | **[Amwins](http://www.amwins.com)** | **[Access Insurance Internship](https://jobright.ai/jobs/info/68e441c9f758fe1f97e662b3?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Oct 06 |
 | **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Sales Intern - Summer 2026 - Norcross, GA](https://jobright.ai/jobs/info/68e44180b99ec3563b0e836b?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Oct 06 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RR Donnelley](http://www.rrd.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e41b4cb99ec3563b0e6048?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 06 |
 | **[ColonialWebb](https://www.colonialwebb.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/68bf7bb85c5d5f14f46d741f?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | Oct 06 |
 | **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR (47974)](https://jobright.ai/jobs/info/68e41b3a1852e62f008017de?utm_campaign=1051&utm_source=git)** | Washougal, WA, USA | On Site | Oct 06 |
-| ↳ | **[Intern MSR (48015)](https://jobright.ai/jobs/info/68e41afdb99ec3563b0e5f6d?utm_campaign=1051&utm_source=git)** | Vancouver, WA, USA | On Site | Oct 06 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship - Transition Support Partner](https://jobright.ai/jobs/info/68e41ae6b99ec3563b0e5f37?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | Hybrid | Oct 06 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Development Intern - UNPAID](https://jobright.ai/jobs/info/68e41ad0b99ec3563b0e5f0c?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Heathlcare Market Sales Intern - Carolinas - Summer 2026](https://jobright.ai/jobs/info/68e41a57f758fe1f97e63d7b?utm_campaign=1051&utm_source=git)** | US - Remote | Remote | Oct 06 |
-| ↳ | **[Healthcare Market Sales Intern -  Detroit - Summer 2026](https://jobright.ai/jobs/info/68e419e3f758fe1f97e63c4c?utm_campaign=1051&utm_source=git)** | US - MI - Detroit | On Site | Oct 06 |
-| **[Taylor Corporation](https://taylor.taylor.com)** | **[Sales Intern (Spring 2026 OR Summer 2026)](https://jobright.ai/jobs/info/68e419db1852e62f008014dc?utm_campaign=1051&utm_source=git)** | Hennepin County, MN | Remote | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Healthcare Market Sales Intern - Mid Atlantic - Summer 2026](https://jobright.ai/jobs/info/68e419a0f758fe1f97e63b8d?utm_campaign=1051&utm_source=git)** | US - Remote | Remote | Oct 06 |
-| **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR (47961)](https://jobright.ai/jobs/info/68e4198ef758fe1f97e63b63?utm_campaign=1051&utm_source=git)** | Vancouver, WA, USA | On Site | Oct 06 |
-| **[Heartland Co-op](http://heartlandcoop.com)** | **[Sales Intern - Feed](https://jobright.ai/jobs/info/68e414c61852e62f00801272?utm_campaign=1051&utm_source=git)** | Clive, IA, USA | On Site | Oct 06 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Strategy &amp; Business Development - Intern](https://jobright.ai/jobs/info/68e414a11852e62f008011f4?utm_campaign=1051&utm_source=git)** | Texas | Hybrid | Oct 06 |
-| **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[Business Development Intern [Mandarin Preferred]](https://jobright.ai/jobs/info/68e41489b99ec3563b0e59c8?utm_campaign=1051&utm_source=git)** | Houston, Texas, United States | On Site | Oct 06 |
-| **[Watts Water Technologies](https://www.watts.com)** | **[Sales Production Intern, Summer 2026](https://jobright.ai/jobs/info/68e41479b99ec3563b0e5992?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Oct 06 |
-| **[Bankers Life](https://www.bankerslife.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/68e4145c1852e62f00801113?utm_campaign=1051&utm_source=git)** | Charleston, WV | Hybrid | Oct 06 |
-| **[Heartland Co-op](http://heartlandcoop.com)** | **[Sales Intern - Energy Sales &amp; Marketing](https://jobright.ai/jobs/info/68e413c01852e62f00800f42?utm_campaign=1051&utm_source=git)** | Clive, IA, USA | On Site | Oct 06 |
-| **[Symbotic](https://bit.ly/m/Symbotic)** | **[MBA Intern- Customer Success](https://jobright.ai/jobs/info/68e413991852e62f00800ecf?utm_campaign=1051&utm_source=git)** | Wilmington, MA | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
