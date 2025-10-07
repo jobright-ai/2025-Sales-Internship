@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/68e46e7c1852e62f00805f60?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Oct 06 |
+| **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR (47968)](https://jobright.ai/jobs/info/68e469d8b99ec3563b0ea213?utm_campaign=1051&utm_source=git)** | Vancouver, WA, USA | On Site | Oct 06 |
+| **[Hilton](https://www.hilton.com/en/)** | **[Temporary Sales & Marketing Intern](https://jobright.ai/jobs/info/68e464501852e62f008053f9?utm_campaign=1051&utm_source=git)** | Conrad New York102 North End Ave | On Site | Oct 06 |
+| **[Brighthouse Financial](https://www.brighthousefinancial.com)** | **[Internal Sales Associate - Spring 2026 (Charlotte, NC (Hybrid) or Remote)](https://jobright.ai/jobs/info/68e45cddf758fe1f97e677b6?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Oct 06 |
+| **[Conrad New York Downtown](www.newyorkdowntown.conradhotels.com)** | **[Temporary Sales & Marketing Intern](https://jobright.ai/jobs/info/68e45c8eb99ec3563b0e9880?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Account Management - Summer 2026](https://jobright.ai/jobs/info/68e4562ff758fe1f97e6741d?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 06 |
+| **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Pittsburgh, PA](https://jobright.ai/jobs/info/68e455a0f758fe1f97e67389?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Oct 06 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e454a41852e62f00804d83?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 06 |
 | **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/68e45479f758fe1f97e67274?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 06 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[RapidScale / GTM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68e453d81852e62f00804ccf?utm_campaign=1051&utm_source=git)** | Raleigh NC | Hybrid | Oct 06 |
@@ -128,12 +135,12 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fleet Management Intern Summer 2026](https://jobright.ai/jobs/info/68e41becf758fe1f97e640d8?utm_campaign=1051&utm_source=git)** | Baltimore | On Site | Oct 06 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e41be21852e62f008019bd?utm_campaign=1051&utm_source=git)** | Parsippany-Troy Hills, NJ, USA | On Site | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Healthcare Market Sales Intern -  Detroit - Summer 2026](https://jobright.ai/jobs/info/68e41bde1852e62f008019b9?utm_campaign=1051&utm_source=git)** | US - Remote | Remote | Oct 06 |
-| ↳ | **[Heathlcare Market Sales Intern - Ohio / PA - Summer 2026](https://jobright.ai/jobs/info/68e43b6df758fe1f97e65dc7?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 06 |
 | ↳ | **[Heathlcare Market Sales Intern - Atlanta - Summer 2026](https://jobright.ai/jobs/info/68e41b8eb99ec3563b0e60e7?utm_campaign=1051&utm_source=git)** | US - Remote | Remote | Oct 06 |
 | ↳ | **[Healthcare Market Sales Intern - Iron Valley - Summer 2026](https://jobright.ai/jobs/info/68e41b84f758fe1f97e63fd0?utm_campaign=1051&utm_source=git)** | US - Remote | Remote | Oct 06 |
 | **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR (47836)](https://jobright.ai/jobs/info/68e41b7df758fe1f97e63fc2?utm_campaign=1051&utm_source=git)** | Ridgefield, WA, USA | On Site | Oct 06 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Partnerships & Alliances](https://jobright.ai/jobs/info/68e41b7ab99ec3563b0e60ba?utm_campaign=1051&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e41b4cb99ec3563b0e6048?utm_campaign=1051&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 06 |
+| **[ColonialWebb](https://www.colonialwebb.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/68bf7bb85c5d5f14f46d741f?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | Oct 06 |
 | **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR (47974)](https://jobright.ai/jobs/info/68e41b3a1852e62f008017de?utm_campaign=1051&utm_source=git)** | Washougal, WA, USA | On Site | Oct 06 |
 | ↳ | **[Intern MSR (48015)](https://jobright.ai/jobs/info/68e41afdb99ec3563b0e5f6d?utm_campaign=1051&utm_source=git)** | Vancouver, WA, USA | On Site | Oct 06 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship - Transition Support Partner](https://jobright.ai/jobs/info/68e41ae6b99ec3563b0e5f37?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | Hybrid | Oct 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bankers Life](https://www.bankerslife.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/68e4145c1852e62f00801113?utm_campaign=1051&utm_source=git)** | Charleston, WV | Hybrid | Oct 06 |
 | **[Heartland Co-op](http://heartlandcoop.com)** | **[Sales Intern - Energy Sales &amp; Marketing](https://jobright.ai/jobs/info/68e413c01852e62f00800f42?utm_campaign=1051&utm_source=git)** | Clive, IA, USA | On Site | Oct 06 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[MBA Intern- Customer Success](https://jobright.ai/jobs/info/68e413991852e62f00800ecf?utm_campaign=1051&utm_source=git)** | Wilmington, MA | On Site | Oct 06 |
-| **[OVD Insurance](https://ovdinsurance.com)** | **[OVD Programs Insurance Intern](https://jobright.ai/jobs/info/68e4132c1852e62f00800d88?utm_campaign=1051&utm_source=git)** | OVD Insurance, Grand Rapids | On Site | Oct 06 |
-| **[Bankers Life](https://www.bankerslife.com)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/68e412ebf758fe1f97e634b3?utm_campaign=1051&utm_source=git)** | Pocatello, ID | Hybrid | Oct 06 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Subcontract Administrator - Intern](https://jobright.ai/jobs/info/68e41288f758fe1f97e63396?utm_campaign=1051&utm_source=git)** | Texas | Hybrid | Oct 06 |
-| **[Heartland Co-op](http://heartlandcoop.com)** | **[Sales Intern - Grain Origination](https://jobright.ai/jobs/info/68e41250f758fe1f97e632e3?utm_campaign=1051&utm_source=git)** | Clive, IA, USA | On Site | Oct 06 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern](https://jobright.ai/jobs/info/68e411b21852e62f00800a11?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship - Transition Support Partner](https://jobright.ai/jobs/info/68e410ebb99ec3563b0e528f?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Oct 06 |
-| **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e40c501852e62f0080082f?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
