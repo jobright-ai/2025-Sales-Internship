@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/68e5d34be8daec61499a4ef2?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Oct 07 |
+| ↳ | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/68e5d1551852e62f00814baa?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
+| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Donor Relations and Data Entry Intern](https://jobright.ai/jobs/info/68e5cca1e8daec61499a4aac?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[Account Manager Intern](https://jobright.ai/jobs/info/68e5c644ae2b894b1d713699?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 07 |
+| **[Orkin](https://www.orkin.com/)** | **[Home Sales Inspector - Intern](https://jobright.ai/jobs/info/68e5c3a61852e62f0081424b?utm_campaign=1051&utm_source=git)** | Covington, LA | On Site | Oct 07 |
+| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Sales Analytics Intern](https://jobright.ai/jobs/info/68e5c33bae2b894b1d713384?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e5c3331852e62f008141df?utm_campaign=1051&utm_source=git)** | Monroe, LA | On Site | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Learning & Development Intern - Summer 2026](https://jobright.ai/jobs/info/68e5c03be8daec61499a437c?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Guardian Summer Intern - Sales Trainee](https://jobright.ai/jobs/info/68e5bf3eae2b894b1d713288?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
 | **[Cisco](http://www.cisco.com)** | **[Senior Director, Americas Internet & Mass Infrastructure Sales](https://jobright.ai/jobs/info/68e5bd6fe8daec61499a40e5?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Oct 07 |
@@ -64,8 +71,10 @@ For a complete list, click the following sortable link below:
 | **[ServiceAgent](https://www.fsagent.com/)** | **[AI Recruiting & Business Development Intern](https://jobright.ai/jobs/info/68e5b156ae2b894b1d712a0e?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Learning & Development Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac411852e62f0081378f?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
 | ↳ | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ab401852e62f008136a6?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
+| ↳ | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/68e5c535ae2b894b1d7135ba?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
 | **[Rollins, Inc.](http://www.rollins.com/)** | **[Home Sales Inspector - Intern](https://jobright.ai/jobs/info/68e5a692e8daec61499a355d?utm_campaign=1051&utm_source=git)** | Covington, LA | On Site | Oct 07 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Technical Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/68e5a63ce8daec61499a34b2?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 07 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Hotel Franchise Finance](https://jobright.ai/jobs/info/68e5a5ccae2b894b1d7124f8?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 07 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern - Raleigh South](https://jobright.ai/jobs/info/68e5a3c2e8daec61499a3086?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Oct 07 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68e59ed1b99ec3563b0f75fb?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Oct 07 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Excellence Data Analytics Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/68e59e6cae2b894b1d711ed2?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 07 |
@@ -93,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68e57a5bae2b894b1d70fb38?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - North Attleboro, MA](https://jobright.ai/jobs/info/68e57a36ae2b894b1d70fb02?utm_campaign=1051&utm_source=git)** | Fall River, MA | On Site | Oct 07 |
 | **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68e579341852e62f008108d9?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 07 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - B2B Sales Intern](https://jobright.ai/jobs/info/68e578ebae2b894b1d70f8de?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 07 |
 | **[Carrier Climate Solutions Transportation](https://www.carrier.com/refrigeration/en/worldwide/)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/68e57808b99ec3563b0f4eb3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 07 |
 | **[Orkin](https://www.orkin.com/)** | **[Home Sales Inspector - Intern](https://jobright.ai/jobs/info/68e573d01852e62f008102aa?utm_campaign=1051&utm_source=git)** | Covington, Louisiana | On Site | Oct 07 |
 | **[Rollins, Inc.](http://www.rollins.com/)** | **[Home Sales Inspector - Intern](https://jobright.ai/jobs/info/68e5733fae2b894b1d70f43a?utm_campaign=1051&utm_source=git)** | Covington, Louisiana | On Site | Oct 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68e57765ae2b894b1d70f635?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68e517f9b99ec3563b0f0010?utm_campaign=1051&utm_source=git)** | Dickinson, ND | On Site | Oct 07 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship](https://jobright.ai/jobs/info/68e510cab99ec3563b0efe67?utm_campaign=1051&utm_source=git)** | Miami-FTL Area | On Site | Oct 07 |
-| **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative Internship (2026 Grads)](https://jobright.ai/jobs/info/68e51099b99ec3563b0efe4e?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 07 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Purchasing Intern- Summer 2026- Farmington Hills, MI](https://jobright.ai/jobs/info/68cd132d1ad6b16f028947b5?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | On Site | Oct 07 |
-| **[Puppy Sphere](thepuppysphere.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e51f6db99ec3563b0f051a?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 07 |
-| **[RapidScale](https://rapidscale.net/)** | **[RapidScale / GTM Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68e50c7dae2b894b1d70a70d?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Oct 07 |
-| **[Fitnescity](https://www.fitnescity.com/)** | **[Business Development Associate (Intern)](https://jobright.ai/jobs/info/68e50a01b99ec3563b0efc31?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 07 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68e4db0bb99ec3563b0eef4b?utm_campaign=1051&utm_source=git)** | Perrysburg, OH | On Site | Oct 07 |
-| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales Development Executive](https://jobright.ai/jobs/info/68e4be46ae2b894b1d7082c3?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 07 |
-| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales Support [Chicago, IL/Boston, MA]](https://jobright.ai/jobs/info/68e4b8bd1852e62f00808d4a?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
