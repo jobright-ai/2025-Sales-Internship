@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Springfield District)](https://jobright.ai/jobs/info/68e5efbe1852e62f0081662e?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Oct 07 |
+| **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Consumer Products, Licensing Intern IMS/INDYCAR, 2026 Season](https://jobright.ai/jobs/info/68e5ea7b1852e62f008162d0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 07 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Missouri District)](https://jobright.ai/jobs/info/68e5e45aae2b894b1d714e6e?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Oct 07 |
+| ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68e5e3af1852e62f00815be8?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Oct 07 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/68e5d34be8daec61499a4ef2?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Oct 07 |
 | ↳ | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/68e5d1551852e62f00814baa?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Donor Relations and Data Entry Intern](https://jobright.ai/jobs/info/68e5cca1e8daec61499a4aac?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
@@ -102,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68e57a5bae2b894b1d70fb38?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - North Attleboro, MA](https://jobright.ai/jobs/info/68e57a36ae2b894b1d70fb02?utm_campaign=1051&utm_source=git)** | Fall River, MA | On Site | Oct 07 |
 | **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68e579341852e62f008108d9?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 07 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - B2B Sales Intern](https://jobright.ai/jobs/info/68e578ebae2b894b1d70f8de?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 07 |
 | **[Carrier Climate Solutions Transportation](https://www.carrier.com/refrigeration/en/worldwide/)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/68e57808b99ec3563b0f4eb3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 07 |
 | **[Orkin](https://www.orkin.com/)** | **[Home Sales Inspector - Intern](https://jobright.ai/jobs/info/68e573d01852e62f008102aa?utm_campaign=1051&utm_source=git)** | Covington, Louisiana | On Site | Oct 07 |
 | **[Rollins, Inc.](http://www.rollins.com/)** | **[Home Sales Inspector - Intern](https://jobright.ai/jobs/info/68e5733fae2b894b1d70f43a?utm_campaign=1051&utm_source=git)** | Covington, Louisiana | On Site | Oct 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Western National Insurance](https://wnins.com)** | **[Commercial Lines Underwriting Intern](https://jobright.ai/jobs/info/68e537801852e62f0080d001?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 07 |
 | **[CLS Health](https://www.clearlake-specialties.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e530eaae2b894b1d70bbc9?utm_campaign=1051&utm_source=git)** | Webster, TX | On Site | Oct 07 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/68e5309bae2b894b1d70bb4f?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Oct 07 |
-| **[AnA Sourcing](https://www.anasourcing.com)** | **[Sales & Service Intern](https://jobright.ai/jobs/info/68e52dbeae2b894b1d70b688?utm_campaign=1051&utm_source=git)** | Collingswood, NJ | Hybrid | Oct 07 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - B2B Risk & Compliance Specialty Sales Intern](https://jobright.ai/jobs/info/68e528b41852e62f0080c208?utm_campaign=1051&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 07 |
-| **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68e57765ae2b894b1d70f635?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68e517f9b99ec3563b0f0010?utm_campaign=1051&utm_source=git)** | Dickinson, ND | On Site | Oct 07 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship](https://jobright.ai/jobs/info/68e510cab99ec3563b0efe67?utm_campaign=1051&utm_source=git)** | Miami-FTL Area | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
