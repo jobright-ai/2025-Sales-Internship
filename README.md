@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Feed Sales Intern – Beef/Equine](https://jobright.ai/jobs/info/68e64a5eae2b894b1d7199bd?utm_campaign=1051&utm_source=git)** | Arden Hills, MN | On Site | Oct 08 |
+| ↳ | **[Feed Sales Intern – Dairy](https://jobright.ai/jobs/info/68e6481f1852e62f0081a4ed?utm_campaign=1051&utm_source=git)** | Arden Hills, MN | On Site | Oct 08 |
+| ↳ | **[Feed Sales Intern – Beef](https://jobright.ai/jobs/info/68e642071852e62f0081a380?utm_campaign=1051&utm_source=git)** | Arden Hills, MN | On Site | Oct 08 |
+| ↳ | **[Feed Sales Intern – Equine](https://jobright.ai/jobs/info/68e63e70e8daec61499aa330?utm_campaign=1051&utm_source=git)** | Arden Hills, MN | On Site | Oct 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68e6281f1852e62f00819896?utm_campaign=1051&utm_source=git)** | Atlantic City, NJ | On Site | Oct 08 |
 | **[Valorantum](valorantum.us)** | **[Entry Level Sales Internship – Financial Services](https://jobright.ai/jobs/info/68e61d73e8daec61499a8e57?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | Oct 08 |
 | **[ConsciousAbraxas](https://www.linkedin.com/company/104888467)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e61a12e8daec61499a8ccf?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Oct 08 |
+| **[Renewable Innovations Inc](https://www.renewable-innovations.com)** | **[Business development Intern](https://jobright.ai/jobs/info/68e640f81852e62f0081a2d2?utm_campaign=1051&utm_source=git)** | American Fork, UT | Remote | Oct 08 |
+| **[ConsciousAbraxas](https://www.linkedin.com/company/104888467)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e63490ae2b894b1d7190f5?utm_campaign=1051&utm_source=git)** | East Lake-Orient Park, FL | On Site | Oct 08 |
 | **[Revyl](https://www.revyl.ai)** | **[GTM/Sales - Intern](https://jobright.ai/jobs/info/68e6095f1852e62f00817930?utm_campaign=1051&utm_source=git)** | Remote (US) | Remote | Oct 07 |
 | ↳ | **[GTM/Sales - Intern](https://jobright.ai/jobs/info/68e609251852e62f00817905?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | Hybrid | Oct 07 |
 | ↳ | **[GTM/Sales - Intern](https://jobright.ai/jobs/info/68e60925ae2b894b1d716b5d?utm_campaign=1051&utm_source=git)** | San Francisco, CA, US | Hybrid | Oct 07 |
@@ -78,18 +84,20 @@ For a complete list, click the following sortable link below:
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Learning & Development Intern - Summer 2026](https://jobright.ai/jobs/info/68e5c03be8daec61499a437c?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Guardian Summer Intern - Sales Trainee](https://jobright.ai/jobs/info/68e5bf3eae2b894b1d713288?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
 | **[Cisco](http://www.cisco.com)** | **[Senior Director, Americas Internet & Mass Infrastructure Sales](https://jobright.ai/jobs/info/68e5bd6fe8daec61499a40e5?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Oct 07 |
+| **[Ferguson](http://www.ferguson.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68e0225eb99ec3563b0cc524?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 07 |
 | **[Central Farm Service](https://www.cfscoop.com/)** | **[Feed Sales Internship](https://jobright.ai/jobs/info/68e5b181ae2b894b1d712a37?utm_campaign=1051&utm_source=git)** | Truman, MN | On Site | Oct 07 |
 | **[ServiceAgent](https://www.fsagent.com/)** | **[AI Recruiting & Business Development Intern](https://jobright.ai/jobs/info/68e5b156ae2b894b1d712a0e?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Learning & Development Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ac411852e62f0081378f?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
 | ↳ | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/68e5ab401852e62f008136a6?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
-| **[Innovative Ag Services](https://www.innovativeag.com)** | **[2026 Summer Internship - Agronomy Level 1](https://jobright.ai/jobs/info/68e60968ae2b894b1d716b87?utm_campaign=1051&utm_source=git)** | Cleves, IA | On Site | Oct 07 |
-| ↳ | **[2026 Summer Internship - Agronomy Level 1 or 2](https://jobright.ai/jobs/info/68e6093c1852e62f00817914?utm_campaign=1051&utm_source=git)** | Andrew, IA | On Site | Oct 07 |
+| **[Innovative Ag Services](https://www.innovativeag.com)** | **[2026 Summer Internship - Agronomy Level 1 or 2](https://jobright.ai/jobs/info/68e6093c1852e62f00817914?utm_campaign=1051&utm_source=git)** | Andrew, IA | On Site | Oct 07 |
+| ↳ | **[2026 Summer Internship - Agronomy Level 1](https://jobright.ai/jobs/info/68e60968ae2b894b1d716b87?utm_campaign=1051&utm_source=git)** | Cleves, IA | On Site | Oct 07 |
 | ↳ | **[2026 Summer Internship - Agronomy Level 1](https://jobright.ai/jobs/info/68e60940e8daec61499a7ad6?utm_campaign=1051&utm_source=git)** | Masonville, IA | On Site | Oct 07 |
 | ↳ | **[2026 Summer Internship - Agronomy Level 1](https://jobright.ai/jobs/info/68e608f21852e62f008178ea?utm_campaign=1051&utm_source=git)** | Elkader, IA | On Site | Oct 07 |
 | ↳ | **[2026 Summer Internship - Agronomy Level 1](https://jobright.ai/jobs/info/68e608aae8daec61499a79f5?utm_campaign=1051&utm_source=git)** | Elma, IA | On Site | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/68e5c535ae2b894b1d7135ba?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
 | **[Rollins, Inc.](http://www.rollins.com/)** | **[Home Sales Inspector - Intern](https://jobright.ai/jobs/info/68e5a692e8daec61499a355d?utm_campaign=1051&utm_source=git)** | Covington, LA | On Site | Oct 07 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Technical Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/68e5a63ce8daec61499a34b2?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 07 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Hotel Franchise Finance](https://jobright.ai/jobs/info/68e5a5ccae2b894b1d7124f8?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 07 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern - Raleigh South](https://jobright.ai/jobs/info/68e5a3c2e8daec61499a3086?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Oct 07 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68e59ed1b99ec3563b0f75fb?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | On Site | Oct 07 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Excellence Data Analytics Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/68e59e6cae2b894b1d711ed2?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 07 |
@@ -117,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68e57a5bae2b894b1d70fb38?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - North Attleboro, MA](https://jobright.ai/jobs/info/68e57a36ae2b894b1d70fb02?utm_campaign=1051&utm_source=git)** | Fall River, MA | On Site | Oct 07 |
 | **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68e579341852e62f008108d9?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 07 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - B2B Sales Intern](https://jobright.ai/jobs/info/68e578ebae2b894b1d70f8de?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 07 |
 | **[Carrier Climate Solutions Transportation](https://www.carrier.com/refrigeration/en/worldwide/)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/68e57808b99ec3563b0f4eb3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 07 |
 | **[Orkin](https://www.orkin.com/)** | **[Home Sales Inspector - Intern](https://jobright.ai/jobs/info/68e573d01852e62f008102aa?utm_campaign=1051&utm_source=git)** | Covington, Louisiana | On Site | Oct 07 |
 | **[Rollins, Inc.](http://www.rollins.com/)** | **[Home Sales Inspector - Intern](https://jobright.ai/jobs/info/68e5733fae2b894b1d70f43a?utm_campaign=1051&utm_source=git)** | Covington, Louisiana | On Site | Oct 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Site Testing](https://jobright.ai/jobs/info/68e567a41852e62f0080f6b3?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Oct 07 |
 | **[DFX](www.dealflowxchange.com)** | **[Capital Markets Intern - New York](https://jobright.ai/jobs/info/68e5674eae2b894b1d70e5f8?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Oct 07 |
 | **[OVD Insurance](https://ovdinsurance.com)** | **[Commercial Insurance Sales Intern](https://jobright.ai/jobs/info/68e564111852e62f0080f422?utm_campaign=1051&utm_source=git)** | OVD Insurance, Raleigh | On Site | Oct 07 |
-| **[SEPHORA](https://www.sephora.com)** | **[Intern, Merchandising, Sephora @ Kohl's](https://jobright.ai/jobs/info/68e5632a1852e62f0080f2c4?utm_campaign=1051&utm_source=git)** | California, United States | Hybrid | Oct 07 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Healthcare Sales Intern – Paid Internship](https://jobright.ai/jobs/info/68e563291852e62f0080f2c2?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Oct 07 |
-| **[Globe Life American Income Division: Surace Smith & Partners](https://globelifessps.com/)** | **[Remote Sales Intern](https://jobright.ai/jobs/info/68e562f1b99ec3563b0f3a43?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 07 |
-| **[DFX](www.dealflowxchange.com)** | **[AI Intern - Boston](https://jobright.ai/jobs/info/68e561e4b99ec3563b0f37d8?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 07 |
-| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship (NY-FY26-Q4)](https://jobright.ai/jobs/info/68e559911852e62f0080eafc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 07 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/68e5536c1852e62f0080e69d?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 07 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68e5534f1852e62f0080e659?utm_campaign=1051&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
