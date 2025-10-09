@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e73973e8daec61499b3586?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Oct 08 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Returning Business Intern - Plymouth MN - R10204073](https://jobright.ai/jobs/info/68e73966ae2b894b1d722921?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Oct 08 |
+| **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Business Solutions Season 2026](https://jobright.ai/jobs/info/68e734041852e62f00823291?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 08 |
+| ↳ | **[Intern, Partnership Activation Season 2026](https://jobright.ai/jobs/info/68e7317aae2b894b1d72223c?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 08 |
 | **[Sunoco LP](https://www.sunocolp.com)** | **[Intern - Race Fuels Sales Support](https://jobright.ai/jobs/info/68e7269c1852e62f00822a8d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 08 |
 | **[Virginia Green](https://virginiagreen.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68e72636ae2b894b1d721d19?utm_campaign=1051&utm_source=git)** | Chesterfield, VA | On Site | Oct 08 |
 | **[Sunoco LP](https://www.sunocolp.com)** | **[Interns -Retailing Pricing](https://jobright.ai/jobs/info/68e723b0ae2b894b1d721a8d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 08 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/68e6916cae2b894b1d71b6d4?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Oct 08 |
 | ↳ | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/68e690f91852e62f0081c35d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | ↳ | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/68e68ffee8daec61499ac396?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 08 |
-| **[RTX](http://www.raytheon.com)** | **[Aftermarket Pricing Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68e68a661852e62f0081c072?utm_campaign=1051&utm_source=git)** | HKS31: US041-Lenexa, KS 15701 W 95th Street  , Lenexa, KS, 66219 USA | On Site | Oct 08 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Commercial Excellence, Training and Enablement Summer Internship](https://jobright.ai/jobs/info/68e68a1e1852e62f0081c003?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 08 |
-| **[BUCS Analytics](https://bucsanalytics.com/)** | **[Client Success Summer Intern 2026](https://jobright.ai/jobs/info/68e689e01852e62f0081bf97?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Oct 08 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Commercial Excellence, Training and Enablement Summer Internship](https://jobright.ai/jobs/info/68e689d81852e62f0081bf85?utm_campaign=1051&utm_source=git)** | Milwaukee, Wisconsin, United States | On Site | Oct 08 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Strategic Sales & Analytics Intern (February to May)](https://jobright.ai/jobs/info/68cc6b7f128dc347fd92495d?utm_campaign=1051&utm_source=git)** | Needham, MA | Hybrid | Oct 08 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Commercial Excellence, Training and Enablement Summer Internship](https://jobright.ai/jobs/info/68e68a89ae2b894b1d71b3e2?utm_campaign=1051&utm_source=git)** | Milwaukee, Wisconsin, United States | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
