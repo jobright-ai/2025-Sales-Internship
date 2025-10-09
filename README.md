@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ISEC, Inc.](http://www.isecinc.com)** | **[Preconstruction Intern](https://jobright.ai/jobs/info/68e76adfde7ec24c9893b898?utm_campaign=1051&utm_source=git)** | San Diego, CA, USA | On Site | Oct 09 |
 | **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Business Innovation Internship](https://jobright.ai/jobs/info/68e75e71e8daec61499b4f30?utm_campaign=1051&utm_source=git)** | MA- Cambridge, NY- New York | On Site | Oct 09 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Business Development  (NGL)- PA](https://jobright.ai/jobs/info/68e75c61ae2b894b1d723f97?utm_campaign=1051&utm_source=git)** | NEWTOWN SQUARE, Pennsylvania, United States | On Site | Oct 08 |
 | **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Business Innovation Internship](https://jobright.ai/jobs/info/68e75c281852e62f00824c12?utm_campaign=1051&utm_source=git)** | US-MA-Cambridge | On Site | Oct 08 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Business Solutions Season 2026](https://jobright.ai/jobs/info/68e734041852e62f00823291?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 08 |
 | ↳ | **[Intern, Partnership Activation Season 2026](https://jobright.ai/jobs/info/68e7317aae2b894b1d72223c?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 08 |
 | **[griddable.io](https://griddable.io)** | **[Sales Development Representative (Early Career)](https://jobright.ai/jobs/info/68e75541ae2b894b1d723834?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68de68a709bda65a4b62a7df?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Oct 08 |
 | **[Sunoco LP](https://www.sunocolp.com)** | **[Intern - Race Fuels Sales Support](https://jobright.ai/jobs/info/68e7269c1852e62f00822a8d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 08 |
 | **[Virginia Green](https://virginiagreen.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68e72636ae2b894b1d721d19?utm_campaign=1051&utm_source=git)** | Chesterfield, VA | On Site | Oct 08 |
 | **[Sunoco LP](https://www.sunocolp.com)** | **[Interns -Retailing Pricing](https://jobright.ai/jobs/info/68e723b0ae2b894b1d721a8d?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 08 |
@@ -93,12 +95,13 @@ For a complete list, click the following sortable link below:
 | **[New York Hilton Midtown](http://www.newyorkhiltonmidtown.com)** | **[Front Office Rooms Operations Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68e6f46f1852e62f00820bcc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/68e6f2d4e8daec61499b0cc3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 08 |
 | **[Avery Dennison](http://www.averydennison.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e6f260e8daec61499b0c5c?utm_campaign=1051&utm_source=git)** | Mentor, OH | On Site | Oct 08 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Intern - Partnership Sales](https://jobright.ai/jobs/info/68e6f20de8daec61499b0bfc?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Oct 08 |
 | **[TE Connectivity](http://www.te.com)** | **[SALES OPS INTERN](https://jobright.ai/jobs/info/68e6eeb1e8daec61499b0b3d?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Oct 08 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68e30711f758fe1f97e5b27c?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Oct 08 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68e6ee20e8daec61499b0ab8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 08 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Intern Client Experience - Asset Management](https://jobright.ai/jobs/info/68e6ee0fe8daec61499b0aa8?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Oct 08 |
 | **[Motive](http://gomotive.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68e6ed3b1852e62f00820738?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 08 |
 | **[NewDay USA](https://newdayusa.com/)** | **[Account Executive or Credit Analyst](https://jobright.ai/jobs/info/68e6ed2a1852e62f00820725?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Oct 08 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Intern - Partnership Sales](https://jobright.ai/jobs/info/68e6eb69ae2b894b1d71fa10?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Oct 08 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern (Industrial Brokerage)](https://jobright.ai/jobs/info/68e6ea72ae2b894b1d71f931?utm_campaign=1051&utm_source=git)** | Portland, Oregon, USA | On Site | Oct 08 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e6e97a1852e62f008205fa?utm_campaign=1051&utm_source=git)** | Portland, OR US | Hybrid | Oct 08 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Business Development Internship / Spring 2026](https://jobright.ai/jobs/info/68e6e7dcae2b894b1d71f8de?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e6a8ae1852e62f0081d2ad?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Oct 08 |
 | **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Graduate](https://jobright.ai/jobs/info/68e6bf02ae2b894b1d71d41e?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 08 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Sales Intern](https://jobright.ai/jobs/info/68e6a214ae2b894b1d71c145?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Oct 08 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Sales Internship](https://jobright.ai/jobs/info/68e6a0bbe8daec61499ace44?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Oct 08 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Brokers Assistant](https://jobright.ai/jobs/info/68e69ebe1852e62f0081cacc?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 08 |
-| **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Representative Intern (Hybrid)](https://jobright.ai/jobs/info/68e699e8ae2b894b1d71bbc0?utm_campaign=1051&utm_source=git)** | Clearwater, Florida | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
