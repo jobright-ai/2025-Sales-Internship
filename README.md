@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68e89e8ecc49a84b7e1080ee?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 09 |
+| ↳ | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68e8b8d9c72beb74cb32200b?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 09 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Feed Sales Intern - Beef/Equine](https://jobright.ai/jobs/info/68e892a5c72beb74cb320302?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
 | ↳ | **[Feed Sales Intern - Equine](https://jobright.ai/jobs/info/68e8925909580a2fe57f9304?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e88f7109580a2fe57f92b6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 09 |
@@ -114,18 +116,18 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Kroger Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68e83ce909580a2fe57f5bcf?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Oct 09 |
 | **[Imperium Dynamics](https://imperiumdynamics.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e83c47cc49a84b7e104171?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Case Ready Beef & Pork Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68e83aae09580a2fe57f58fd?utm_campaign=1051&utm_source=git)** | Springdale, AR | On Site | Oct 09 |
-| ↳ | **[Case Ready Beef & Pork Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68e839b3cc49a84b7e104121?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Oct 09 |
 | ↳ | **[Beef & Pork Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68e8393fc4895107182c418b?utm_campaign=1051&utm_source=git)** | Springdale, AR | On Site | Oct 09 |
+| ↳ | **[Case Ready Beef & Pork Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68e838adcc49a84b7e103fd9?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Oct 09 |
 | **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Investment RFP Team](https://jobright.ai/jobs/info/68e835d509580a2fe57f5501?utm_campaign=1051&utm_source=git)** | Wayne, PA | Hybrid | Oct 09 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e8353ecc49a84b7e103a1d?utm_campaign=1051&utm_source=git)** | Eugene, OR | Hybrid | Oct 09 |
 | **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e830f009580a2fe57f4f8a?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Hybrid | Oct 09 |
 | **[ServiceAgent](https://www.fsagent.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e830bac4895107182c3ad5?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 09 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Beef & Pork Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68e8302c09580a2fe57f4f16?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Oct 09 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e82f67cc49a84b7e10367f?utm_campaign=1051&utm_source=git)** | Tacoma, WA | Hybrid | Oct 09 |
 | **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e82f21c4895107182c385e?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Oct 09 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e82ed0cc49a84b7e10355d?utm_campaign=1051&utm_source=git)** | Olympia, WA | Hybrid | Oct 09 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e82e85c4895107182c3750?utm_campaign=1051&utm_source=git)** | Ashland, OR | Hybrid | Oct 09 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Beef & Pork Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68e82e35cc49a84b7e10341c?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Oct 09 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e82d7fcc49a84b7e1032bc?utm_campaign=1051&utm_source=git)** | Ellensburg, WA | Hybrid | Oct 09 |
+| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e82d7fcc49a84b7e1032bc?utm_campaign=1051&utm_source=git)** | Ellensburg, WA | Hybrid | Oct 09 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68e82cf3cc49a84b7e10317f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Oct 09 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e82cedcc49a84b7e103174?utm_campaign=1051&utm_source=git)** | Bellingham, WA | Hybrid | Oct 09 |
 | **[Janji](http://janji.com/)** | **[Retail Growth & Strategy Intern](https://jobright.ai/jobs/info/68e82c7a09580a2fe57f4b9a?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Oct 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Merchandise Internship (Free Housing)](https://jobright.ai/jobs/info/68e8436909580a2fe57f609a?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Sales Development Program Internship](https://jobright.ai/jobs/info/68e80d6e09580a2fe57f2cf3?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA | On Site | Oct 09 |
 | **[Ovintiv](https://www.ovintiv.com/)** | **[Intern Supply Management Services](https://jobright.ai/jobs/info/68e8092f09580a2fe57f293d?utm_campaign=1051&utm_source=git)** | Denver, CO, US | On Site | Oct 09 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e808cd09580a2fe57f288c?utm_campaign=1051&utm_source=git)** | Natchitoches | On Site | Oct 09 |
-| **[Grimco, Inc.](http://midwestsign.com)** | **[Pricing Internship - Summer 2026](https://jobright.ai/jobs/info/68e82ff7cc49a84b7e103748?utm_campaign=1051&utm_source=git)** | Sunset Hills, MO | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
