@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Feed Sales Intern - Beef/Equine](https://jobright.ai/jobs/info/68e892a5c72beb74cb320302?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
+| ↳ | **[Feed Sales Intern - Equine](https://jobright.ai/jobs/info/68e8925909580a2fe57f9304?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e88f7109580a2fe57f92b6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Partnerships & Promotions Intern, Spring 2026](https://jobright.ai/jobs/info/68e88ed5cc49a84b7e107765?utm_campaign=1051&utm_source=git)** | New York, NY, USA | Hybrid | Oct 09 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Sales Strategy & Operations Manager](https://jobright.ai/jobs/info/68e88e64c72beb74cb320111?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 09 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Feed Sales Intern - Beef](https://jobright.ai/jobs/info/68e88cd809580a2fe57f8ea4?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
+| **[Sully-Miller Contracting Co.](http://sully-miller.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e8878a09580a2fe57f8bd0?utm_campaign=1051&utm_source=git)** | Brea, CA | On Site | Oct 09 |
 | **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e8821f09580a2fe57f86ba?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Hybrid | Oct 09 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Arlington/Waco, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e88161c72beb74cb31f64c?utm_campaign=1051&utm_source=git)** | 1801 Highway 287 N, Mansfield,TX 76063-7533 | Hybrid | Oct 09 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Fort Worth/Denton, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e88136c72beb74cb31f612?utm_campaign=1051&utm_source=git)** | 301 Carroll St, Fort Worth,TX 76107-1956 | Hybrid | Oct 09 |
@@ -107,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Kroger Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68e83ce909580a2fe57f5bcf?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Oct 09 |
 | **[Imperium Dynamics](https://imperiumdynamics.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e83c47cc49a84b7e104171?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Case Ready Beef & Pork Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68e83aae09580a2fe57f58fd?utm_campaign=1051&utm_source=git)** | Springdale, AR | On Site | Oct 09 |
+| ↳ | **[Case Ready Beef & Pork Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68e839b3cc49a84b7e104121?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Oct 09 |
 | ↳ | **[Beef & Pork Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68e8393fc4895107182c418b?utm_campaign=1051&utm_source=git)** | Springdale, AR | On Site | Oct 09 |
-| ↳ | **[Case Ready Beef & Pork Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68e838adcc49a84b7e103fd9?utm_campaign=1051&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Oct 09 |
 | **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Investment RFP Team](https://jobright.ai/jobs/info/68e835d509580a2fe57f5501?utm_campaign=1051&utm_source=git)** | Wayne, PA | Hybrid | Oct 09 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e8353ecc49a84b7e103a1d?utm_campaign=1051&utm_source=git)** | Eugene, OR | Hybrid | Oct 09 |
 | **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e830f009580a2fe57f4f8a?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Hybrid | Oct 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ovintiv](https://www.ovintiv.com/)** | **[Intern Supply Management Services](https://jobright.ai/jobs/info/68e8092f09580a2fe57f293d?utm_campaign=1051&utm_source=git)** | Denver, CO, US | On Site | Oct 09 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e808cd09580a2fe57f288c?utm_campaign=1051&utm_source=git)** | Natchitoches | On Site | Oct 09 |
 | **[Grimco, Inc.](http://midwestsign.com)** | **[Pricing Internship - Summer 2026](https://jobright.ai/jobs/info/68e82ff7cc49a84b7e103748?utm_campaign=1051&utm_source=git)** | Sunset Hills, MO | On Site | Oct 09 |
-| **[CodePay](codepay.us)** | **[Customer Success Specialist intern(korean speaker)](https://jobright.ai/jobs/info/68e807c009580a2fe57f2669?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Oct 09 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship Program](https://jobright.ai/jobs/info/68e8071dc4895107182c0f58?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Oct 09 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/68e805f309580a2fe57f2187?utm_campaign=1051&utm_source=git)** | Ashburn, VA | On Site | Oct 09 |
-| **[Ovintiv](https://www.ovintiv.com/)** | **[Intern Supply Management Services](https://jobright.ai/jobs/info/68e80522c4895107182c0b5c?utm_campaign=1051&utm_source=git)** | The Woodlands, TX, US | On Site | Oct 09 |
-| **[Paschall Logistics](https://www.paschall-logistics.com/)** | **[Logistics Sales & Operations Intern](https://jobright.ai/jobs/info/68e7ff3cc4895107182c0893?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 09 |
-| **[Crest Vale](crestvale.us)** | **[Healthcare Sales Intern – Paid Internship](https://jobright.ai/jobs/info/68e7feddcc49a84b7e1005fa?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Oct 09 |
-| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 E-Commerce Internship](https://jobright.ai/jobs/info/68e7f9b9c4895107182c0663?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
