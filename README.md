@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Sales Strategy & Operations Manager](https://jobright.ai/jobs/info/68e88e64c72beb74cb320111?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 09 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Feed Sales Intern - Beef](https://jobright.ai/jobs/info/68e88cd809580a2fe57f8ea4?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
 | **[Sully-Miller Contracting Co.](http://sully-miller.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e8878a09580a2fe57f8bd0?utm_campaign=1051&utm_source=git)** | Brea, CA | On Site | Oct 09 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern - Upper Extremities Sales - Iowa City, IA](https://jobright.ai/jobs/info/68e8df3001c6482bd8777f8c?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Hybrid | Oct 09 |
 | **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e8821f09580a2fe57f86ba?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Hybrid | Oct 09 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Arlington/Waco, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e88161c72beb74cb31f64c?utm_campaign=1051&utm_source=git)** | 1801 Highway 287 N, Mansfield,TX 76063-7533 | Hybrid | Oct 09 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Fort Worth/Denton, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e88136c72beb74cb31f612?utm_campaign=1051&utm_source=git)** | 301 Carroll St, Fort Worth,TX 76107-1956 | Hybrid | Oct 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e833e209580a2fe57f5218?utm_campaign=1051&utm_source=git)** | Cheney, WA | Hybrid | Oct 09 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e82f03cc49a84b7e1035c5?utm_campaign=1051&utm_source=git)** | Corvallis, OR | Hybrid | Oct 09 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68e832e4c4895107182c3d6f?utm_campaign=1051&utm_source=git)** | Salem, OR | Hybrid | Oct 09 |
-| **[Titan Machinery](http://www.titanmachinery.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68e80e88c4895107182c155e?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
