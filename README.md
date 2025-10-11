@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68e9d65acfc08e4908913392?utm_campaign=1051&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Oct 10 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/68e9d60acdf8d94b293a297c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Southwestern Advantage – Arizona Campus Division](https://www.linkedin.com/in/sandra-perez1/)** | **[Entrepreneurial Sales & Leadership Intern – Summer 2026](https://jobright.ai/jobs/info/68e9d0ef54fbf903f6a7ef77?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Oct 10 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Alliance Analyst Intern](https://jobright.ai/jobs/info/68e9cc98cdf8d94b293a2712?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Oct 10 |
 | ↳ | **[Alliance Analyst Intern](https://jobright.ai/jobs/info/68e9b507feeb0006c1a56bc7?utm_campaign=1051&utm_source=git)** | San Jose, California | On Site | Oct 10 |
@@ -78,21 +80,21 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68e97cc3f195760c354a9bca?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Oct 10 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Private Client Group Intern (Boston) (Summer 2026)](https://jobright.ai/jobs/info/68e978ef0930fe0bc4626202?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 10 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Dallas, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e978db65768b6412b1c6c9?utm_campaign=1051&utm_source=git)** | Richardson, TX | Hybrid | Oct 10 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Buying Intern](https://jobright.ai/jobs/info/68e978c365768b6412b1c6a6?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e9753465768b6412b1c5ad?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Oct 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e974590930fe0bc4626009?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 10 |
 | **[SCS Financial](http://scsfinancial.com)** | **[Private Client Group Intern (Boston) (Summer 2026)](https://jobright.ai/jobs/info/68e973c1f195760c354a9459?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 10 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Fort Worth/Denton, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e96cec65768b6412b1bf07?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 10 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Arlington/Waco, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e96c2ef195760c354a8e2e?utm_campaign=1051&utm_source=git)** | Cedar Hill, TX | Hybrid | Oct 10 |
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Sales Intern](https://jobright.ai/jobs/info/68e96c290930fe0bc4625969?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Oct 10 |
+| **[David Yurman](http://www.davidyurman.com)** | **[CRM Intern](https://jobright.ai/jobs/info/68e96aa10930fe0bc46257ae?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - El Paso, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e96a0f0930fe0bc4625716?utm_campaign=1051&utm_source=git)** | El Paso, TX | Hybrid | Oct 10 |
 | **[Capital Farm Credit](https://www.capitalfarmcredit.com/)** | **[Internship - Crop Insurance Services](https://jobright.ai/jobs/info/68e987970930fe0bc4626dec?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Oct 10 |
 | **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Financial Wellness Leadership Development Intern](https://jobright.ai/jobs/info/68e9658565768b6412b1b98a?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA SALES INTERN SPRING '26 - WSMV](https://jobright.ai/jobs/info/68e9653665768b6412b1b930?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68e964caf195760c354a88e1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Oct 10 |
-| **[David Yurman](http://www.davidyurman.com)** | **[CRM Intern](https://jobright.ai/jobs/info/68e96482f195760c354a8886?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
-| ↳ | **[Demand Planning Intern](https://jobright.ai/jobs/info/68e964630930fe0bc4625349?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68e964630930fe0bc4625349?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e454a41852e62f00804d83?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 10 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Buying Intern](https://jobright.ai/jobs/info/68e96366f195760c354a8777?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | **[3 Men Movers](http://3menmovers.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68e97ac465768b6412b1c905?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 10 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Naples, FL](https://jobright.ai/jobs/info/68e950c09020b95add6a5a34?utm_campaign=1051&utm_source=git)** | Naples, FL | Hybrid | Oct 10 |
 | **[First South Farm Credit](https://www.firstsouthfarmcredit.com/)** | **[Loan Officer Intern - Summer 2026 (Ridgeland, MS)](https://jobright.ai/jobs/info/68e944df9020b95add6a54c4?utm_campaign=1051&utm_source=git)** | Ridgeland, MS | On Site | Oct 10 |
@@ -109,8 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[Intern - C2C Sales](https://jobright.ai/jobs/info/68e927570930fe0bc4622b5a?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 10 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Intern, Investor Center - Naples, FL](https://jobright.ai/jobs/info/68e925c30930fe0bc4622945?utm_campaign=1051&utm_source=git)** | Naples, FL | On Site | Oct 10 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Internal Sales Analyst - PIMCO](https://jobright.ai/jobs/info/68e9257a65768b6412b18d88?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 10 |
-| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Investor Operations Summer Intern](https://jobright.ai/jobs/info/68e925f565768b6412b18e0c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Client Solutions Internship - Austin, Summer 2026 - FACTSET](https://jobright.ai/jobs/info/68e942a90930fe0bc46238d6?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 10 |
+| ↳ | **[Client Solutions Internship - Austin, Summer 2026 - FACTSET](https://jobright.ai/jobs/info/68e942a90930fe0bc46238d6?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 10 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 10 |
 | ↳ | **[Fresh Food Category Manager Intern](https://jobright.ai/jobs/info/68e914670930fe0bc46221e7?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 10 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Intern, Sales Desk - MMSD Annuity Distribution](https://jobright.ai/jobs/info/68e90f5c65768b6412b185c1?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Oct 10 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Fort Worth/Denton, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e8807fcc49a84b7e106cb8?utm_campaign=1051&utm_source=git)** | 1801 S Loop 288, Denton, TX 76205-4801 | Hybrid | Oct 09 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Arlington/Waco, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e87f3b09580a2fe57f83c0?utm_campaign=1051&utm_source=git)** | 739 N Highway 67, Cedar Hill, TX 75104-2142 | Hybrid | Oct 09 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Fort Worth/Denton, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e87ed709580a2fe57f836d?utm_campaign=1051&utm_source=git)** | 8000 Denton Hwy, Watauga,TX 76148-2464 | Hybrid | Oct 09 |
+| **[ScribeAI](https://www.getscribeai.co/)** | **[Sales Development intern](https://jobright.ai/jobs/info/68e9e9d354fbf903f6a7f624?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 09 |
 | **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e87a2509580a2fe57f808a?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Oct 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - Wolcott, CT](https://jobright.ai/jobs/info/68e873d509580a2fe57f7bd9?utm_campaign=1051&utm_source=git)** | Waterbury, CT | On Site | Oct 09 |
 | ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e8735e09580a2fe57f7b4e?utm_campaign=1051&utm_source=git)** | Alexandria, LA | On Site | Oct 09 |
 | ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e87232cc49a84b7e106417?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Oct 09 |
-| ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e87136cc49a84b7e1062e7?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Oct 09 |
-| ↳ | **[Summer Truck Rental Account Specialist Internship - Chicopee, Massachusetts](https://jobright.ai/jobs/info/68e870b9cc49a84b7e106250?utm_campaign=1051&utm_source=git)** | Chicopee, MA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
