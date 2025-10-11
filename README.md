@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Sales - Aurora, Co](https://jobright.ai/jobs/info/68eab35a2f64880ca0b53dd2?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Oct 11 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Retail Location Planning & Allocation Intern, Spring 2026](https://jobright.ai/jobs/info/68eab11a8369791ef7822b55?utm_campaign=1051&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 11 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68eaabd976a1db7c5985bd0c?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 11 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68eaab922f64880ca0b53c93?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Oct 11 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68eaa8092f64880ca0b53c13?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Oct 11 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68eaa7ce76a1db7c5985bc3b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 11 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68eaa57a8369791ef782283a?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 11 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68eaa04976a1db7c5985b9b2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[Stratify Edge](stratifyedge.us)** | **[Entry Level Sales Internship – Financial Services](https://jobright.ai/jobs/info/68ea7c658369791ef7822291?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | Oct 11 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/68ea722976a1db7c5985b08a?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 11 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Mortgage Sales](https://jobright.ai/jobs/info/68b0f60a6fab621da7b08e47?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Oct 11 |
@@ -64,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68cdb862e23def7af55be955?utm_campaign=1051&utm_source=git)** | San Ramon, CA | On Site | Oct 11 |
 | **[Redbridge Debt & Treasury Advisory](https://www.redbridgedta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ea5cae76a1db7c5985a634?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 11 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/68cdb8061ad6b16f0289e308?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 11 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Corporate Partnerships Intern - Spring 2026](https://jobright.ai/jobs/info/68ea5dbe8369791ef78216c7?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 11 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern -Middle Market Banking](https://jobright.ai/jobs/info/68ea461276a1db7c59859c83?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 11 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, Trade & Distribution Support (Wholesaler & Pharmacy Relations) - Summer 2026](https://jobright.ai/jobs/info/68ea14d854fbf903f6a815e2?utm_campaign=1051&utm_source=git)** | Princeton, NJ | Hybrid | Oct 11 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Healthcare Sales Intern – Paid Internship](https://jobright.ai/jobs/info/68ea4b868369791ef7820bd7?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Oct 11 |
@@ -80,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/68e9ae7f65768b6412b1e9b1?utm_campaign=1051&utm_source=git)** | New York, New York | On Site | Oct 10 |
 | **[Puppy Sphere](thepuppysphere.com)** | **[Sales and Business Development Intern](https://jobright.ai/jobs/info/68e9ae3afeeb0006c1a56862?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Nexren](https://thenexren.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68ea5c842f64880ca0b52747?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Corporate Partnerships Intern - Spring 2026](https://jobright.ai/jobs/info/68e9ad7365768b6412b1e8b0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
 | **[FlyteVu](https://www.flytevu.com)** | **[Account Intern (F.L.O.C.K.)](https://jobright.ai/jobs/info/68e9abde0930fe0bc46281aa?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/68e9969ef195760c354aaf7e?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Oct 10 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/68e993d565768b6412b1dc03?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Oct 10 |
@@ -96,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e9753465768b6412b1c5ad?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Oct 10 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e974590930fe0bc4626009?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 10 |
 | **[SCS Financial](http://scsfinancial.com)** | **[Private Client Group Intern (Boston) (Summer 2026)](https://jobright.ai/jobs/info/68e973c1f195760c354a9459?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 10 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68e96eb9f195760c354a9144?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Fort Worth/Denton, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e96cec65768b6412b1bf07?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 10 |
 | ↳ | **[Store Executive Intern (Store Leadership Intern) - Arlington/Waco, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e96c2ef195760c354a8e2e?utm_campaign=1051&utm_source=git)** | Cedar Hill, TX | Hybrid | Oct 10 |
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Sales Intern](https://jobright.ai/jobs/info/68e96c290930fe0bc4625969?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Oct 10 |
@@ -106,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA SALES INTERN SPRING '26 - WSMV](https://jobright.ai/jobs/info/68e9653665768b6412b1b930?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68e964caf195760c354a88e1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Oct 10 |
 | **[David Yurman](http://www.davidyurman.com)** | **[CRM Intern](https://jobright.ai/jobs/info/68e96482f195760c354a8886?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
+| ↳ | **[Demand Planning Intern](https://jobright.ai/jobs/info/68e964630930fe0bc4625349?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e454a41852e62f00804d83?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 10 |
 | **[3 Men Movers](http://3menmovers.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68e97ac465768b6412b1c905?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 10 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Naples, FL](https://jobright.ai/jobs/info/68e950c09020b95add6a5a34?utm_campaign=1051&utm_source=git)** | Naples, FL | Hybrid | Oct 10 |
@@ -126,12 +134,12 @@ For a complete list, click the following sortable link below:
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Internal Sales Analyst - PIMCO](https://jobright.ai/jobs/info/68e9257a65768b6412b18d88?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 10 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Investor Operations Summer Intern](https://jobright.ai/jobs/info/68e925f565768b6412b18e0c?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Client Solutions Internship - Austin, Summer 2026 - FACTSET](https://jobright.ai/jobs/info/68e942a90930fe0bc46238d6?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 10 |
+| **[HotTakes](https://hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/689ce8bd83d13d1f5b6abd52?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 10 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 10 |
 | ↳ | **[Fresh Food Category Manager Intern](https://jobright.ai/jobs/info/68e914670930fe0bc46221e7?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 10 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Intern, Sales Desk - MMSD Annuity Distribution](https://jobright.ai/jobs/info/68e90f5c65768b6412b185c1?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Oct 10 |
 | **[Ram Realty Advisors](http://ramrealestate.com)** | **[Summer Intern - Real Estate Development](https://jobright.ai/jobs/info/68ccbd58128dc347fd928d3e?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | On Site | Oct 10 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Investor Center - Tucson, AZ](https://jobright.ai/jobs/info/68e907f265768b6412b18219?utm_campaign=1051&utm_source=git)** | Tucson, AZ | Hybrid | Oct 10 |
-| **[HotTakes](https://hottakes.com)** | **[Business Development Associate (Student Position)](https://jobright.ai/jobs/info/6882ff95b54cac0f1e73461f?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Chicago Metro - North)](https://jobright.ai/jobs/info/68b05c05b47fb001d68916aa?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 10 |
 | ↳ | **[2026 Management and Sales Summer Internship (Madison)](https://jobright.ai/jobs/info/68b0b4172d46f6396cae7d67?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Oct 10 |
 | ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b05f902d46f6396cae4e51?utm_campaign=1051&utm_source=git)** | South Bend, IN | On Site | Oct 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68ea167ecdf8d94b293a5066?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68e89e8ecc49a84b7e1080ee?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Building Automation and Fire & Life Safety Sales Internship](https://jobright.ai/jobs/info/68e8ca492e74df3042370ad0?utm_campaign=1051&utm_source=git)** | Buffalo Grove, IL | On Site | Oct 09 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68e8b8d9c72beb74cb32200b?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 09 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Feed Sales Intern - Beef/Equine](https://jobright.ai/jobs/info/68e892a5c72beb74cb320302?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
-| ↳ | **[Feed Sales Intern - Equine](https://jobright.ai/jobs/info/68e8925909580a2fe57f9304?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e88f7109580a2fe57f92b6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 09 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Partnerships & Promotions Intern, Spring 2026](https://jobright.ai/jobs/info/68e88ed5cc49a84b7e107765?utm_campaign=1051&utm_source=git)** | New York, NY, USA | Hybrid | Oct 09 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Sales Strategy & Operations Manager](https://jobright.ai/jobs/info/68e88e64c72beb74cb320111?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 09 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Feed Sales Intern - Beef](https://jobright.ai/jobs/info/68e88cd809580a2fe57f8ea4?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
-| **[Sully-Miller Contracting Co.](http://sully-miller.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68e8878a09580a2fe57f8bd0?utm_campaign=1051&utm_source=git)** | Brea, CA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
