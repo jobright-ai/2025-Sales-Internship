@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fitnescity Health](https://www.fitnescity.com/)** | **[Business Development Associate (Full Time or Intern)](https://jobright.ai/jobs/info/68ebd62f2f64880ca0b597cd?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 12 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/68ebcef98369791ef78284b6?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Oct 12 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Client Solutions Internship (NY-FY26-Q4) - FACTSET](https://jobright.ai/jobs/info/68ebc4288369791ef78283bb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 12 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/68ebab658369791ef78280f8?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Oct 12 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Newark](https://jobright.ai/jobs/info/68eb76858369791ef782738b?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship London](https://jobright.ai/jobs/info/68eb767f8369791ef7827381?utm_campaign=1051&utm_source=git)** | London, KY | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Lawton](https://jobright.ai/jobs/info/68eb76792f64880ca0b5860f?utm_campaign=1051&utm_source=git)** | Lawton, OK | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship Blue Springs](https://jobright.ai/jobs/info/68eb766a8369791ef7827369?utm_campaign=1051&utm_source=git)** | Blue Springs, MO | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb766a8369791ef7827368?utm_campaign=1051&utm_source=git)** | Elk Grove, CA | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship Blue Springs](https://jobright.ai/jobs/info/68eb766a8369791ef7827369?utm_campaign=1051&utm_source=git)** | Blue Springs, MO | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb76428369791ef782733f?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Rosenberg](https://jobright.ai/jobs/info/68eb76412f64880ca0b585df?utm_campaign=1051&utm_source=git)** | Rosenberg, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Cutler Bay](https://jobright.ai/jobs/info/68eb76358369791ef7827335?utm_campaign=1051&utm_source=git)** | Cutler Bay, FL | On Site | Oct 12 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb75188369791ef782720b?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb751776a1db7c598603bd?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb750e76a1db7c598603b4?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship In The Carolinas 	Clayton](https://jobright.ai/jobs/info/68eb74f92f64880ca0b58497?utm_campaign=1051&utm_source=git)** | Clayton, NC | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Montebello](https://jobright.ai/jobs/info/68eb74f92f64880ca0b58496?utm_campaign=1051&utm_source=git)** | Montebello, CA | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship In The Carolinas 	Clayton](https://jobright.ai/jobs/info/68eb74f92f64880ca0b58497?utm_campaign=1051&utm_source=git)** | Clayton, NC | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Elyria](https://jobright.ai/jobs/info/68eb74f22f64880ca0b5848d?utm_campaign=1051&utm_source=git)** | Elyria, OH | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Socorro](https://jobright.ai/jobs/info/68eb74ed8369791ef78271e4?utm_campaign=1051&utm_source=git)** | Socorro, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb74d78369791ef78271c8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 12 |
@@ -140,15 +141,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Cedar Park](https://jobright.ai/jobs/info/68eb6f2b8369791ef7826ebb?utm_campaign=1051&utm_source=git)** | Cedar Park, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6ee22f64880ca0b58125?utm_campaign=1051&utm_source=git)** | New Braunfels, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6ec32f64880ca0b5810b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship Concord](https://jobright.ai/jobs/info/68eb6e8f2f64880ca0b580cd?utm_campaign=1051&utm_source=git)** | Concord, NH | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6e8f8369791ef7826e25?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship Concord](https://jobright.ai/jobs/info/68eb6e8f2f64880ca0b580cd?utm_campaign=1051&utm_source=git)** | Concord, NH | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6e2a8369791ef7826dc6?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6def8369791ef7826d7c?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship 	Elgin](https://jobright.ai/jobs/info/68eb6de72f64880ca0b5804d?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Killeen](https://jobright.ai/jobs/info/68eb6d312f64880ca0b58017?utm_campaign=1051&utm_source=git)** | Killeen, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Kearney](https://jobright.ai/jobs/info/68eb6b0876a1db7c5985ff71?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6aec76a1db7c5985ff5b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Bullhead City](https://jobright.ai/jobs/info/68eb6aec76a1db7c5985ff5a?utm_campaign=1051&utm_source=git)** | Bullhead City, AZ | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6aec76a1db7c5985ff5b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Georgetown](https://jobright.ai/jobs/info/68eb6adb76a1db7c5985ff4b?utm_campaign=1051&utm_source=git)** | Georgetown, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Portland](https://jobright.ai/jobs/info/68eb6ad776a1db7c5985ff43?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6ace76a1db7c5985ff37?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Oct 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6aa676a1db7c5985ff16?utm_campaign=1051&utm_source=git)** | Brookline, MA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Redwood City](https://jobright.ai/jobs/info/68eb6a8d76a1db7c5985fef6?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Escondido](https://jobright.ai/jobs/info/68eb6a7c8369791ef7826cf6?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship West Hollywood](https://jobright.ai/jobs/info/68eb6a7b76a1db7c5985feea?utm_campaign=1051&utm_source=git)** | West Hollywood, CA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
