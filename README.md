@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/68eb7b788369791ef78274fe?utm_campaign=1051&utm_source=git)** | Statesville, NC | On Site | Oct 12 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Purchasing Intern- Summer 2026- Farmington Hills, MI](https://jobright.ai/jobs/info/68eb81f28369791ef7827786?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | On Site | Oct 12 |
+| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Franklin](https://jobright.ai/jobs/info/68eb80fc2f64880ca0b58902?utm_campaign=1051&utm_source=git)** | Franklin, NJ | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship Corpus Christi](https://jobright.ai/jobs/info/68eb805476a1db7c598607f1?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/68eb7b788369791ef78274fe?utm_campaign=1051&utm_source=git)** | Statesville, NC | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Enid](https://jobright.ai/jobs/info/68eb7b698369791ef78274ec?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Saint Marys](https://jobright.ai/jobs/info/68eb7b5d8369791ef78274e3?utm_campaign=1051&utm_source=git)** | St Marys, GA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Conway](https://jobright.ai/jobs/info/68eb7b552f64880ca0b5870c?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Oct 12 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb75188369791ef782720b?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb751776a1db7c598603bd?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb750e76a1db7c598603b4?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship In The Carolinas 	Clayton](https://jobright.ai/jobs/info/68eb74f92f64880ca0b58497?utm_campaign=1051&utm_source=git)** | Clayton, NC | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Montebello](https://jobright.ai/jobs/info/68eb74f92f64880ca0b58496?utm_campaign=1051&utm_source=git)** | Montebello, CA | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship In The Carolinas 	Clayton](https://jobright.ai/jobs/info/68eb74f92f64880ca0b58497?utm_campaign=1051&utm_source=git)** | Clayton, NC | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Elyria](https://jobright.ai/jobs/info/68eb74f22f64880ca0b5848d?utm_campaign=1051&utm_source=git)** | Elyria, OH | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Socorro](https://jobright.ai/jobs/info/68eb74ed8369791ef78271e4?utm_campaign=1051&utm_source=git)** | Socorro, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb74d78369791ef78271c8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 12 |
@@ -141,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship 	Elgin](https://jobright.ai/jobs/info/68eb6de72f64880ca0b5804d?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Killeen](https://jobright.ai/jobs/info/68eb6d312f64880ca0b58017?utm_campaign=1051&utm_source=git)** | Killeen, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Kearney](https://jobright.ai/jobs/info/68eb6b0876a1db7c5985ff71?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship Bullhead City](https://jobright.ai/jobs/info/68eb6aec76a1db7c5985ff5a?utm_campaign=1051&utm_source=git)** | Bullhead City, AZ | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6aec76a1db7c5985ff5b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship Bullhead City](https://jobright.ai/jobs/info/68eb6aec76a1db7c5985ff5a?utm_campaign=1051&utm_source=git)** | Bullhead City, AZ | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Georgetown](https://jobright.ai/jobs/info/68eb6adb76a1db7c5985ff4b?utm_campaign=1051&utm_source=git)** | Georgetown, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Portland](https://jobright.ai/jobs/info/68eb6ad776a1db7c5985ff43?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6ace76a1db7c5985ff37?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Oct 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Saint Charles](https://jobright.ai/jobs/info/68eb6a5776a1db7c5985fec4?utm_campaign=1051&utm_source=git)** | St Charles, MO | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Vista](https://jobright.ai/jobs/info/68eb6a468369791ef7826cca?utm_campaign=1051&utm_source=git)** | Vista, CA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6a398369791ef7826cbd?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/68eb6a1f8369791ef7826cae?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6a1376a1db7c5985fe80?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6a098369791ef7826c9e?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
