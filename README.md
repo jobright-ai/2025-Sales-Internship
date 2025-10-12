@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Sales Intern](https://jobright.ai/jobs/info/68ec19f676a1db7c59861e87?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Remote | Oct 12 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Sales Internship](https://jobright.ai/jobs/info/68ec154d2f64880ca0b59f26?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Oct 12 |
+| **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Partnership Development Season 2026](https://jobright.ai/jobs/info/68ec0e4c76a1db7c59861cf7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 12 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/68ebcef98369791ef78284b6?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Oct 12 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Client Solutions Internship (NY-FY26-Q4) - FACTSET](https://jobright.ai/jobs/info/68ebc4288369791ef78283bb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 12 |
 | **[NielsenIQ](https://nielseniq.com)** | **[NIQ Early Career Program: Consumer Intelligence Intern - Commercial Strategy & Insights](https://jobright.ai/jobs/info/68e89182cc49a84b7e107ac0?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 12 |
@@ -81,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Newark](https://jobright.ai/jobs/info/68eb76858369791ef782738b?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship London](https://jobright.ai/jobs/info/68eb767f8369791ef7827381?utm_campaign=1051&utm_source=git)** | London, KY | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Lawton](https://jobright.ai/jobs/info/68eb76792f64880ca0b5860f?utm_campaign=1051&utm_source=git)** | Lawton, OK | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb766a8369791ef7827368?utm_campaign=1051&utm_source=git)** | Elk Grove, CA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Blue Springs](https://jobright.ai/jobs/info/68eb766a8369791ef7827369?utm_campaign=1051&utm_source=git)** | Blue Springs, MO | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb766a8369791ef7827368?utm_campaign=1051&utm_source=git)** | Elk Grove, CA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb76428369791ef782733f?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Rosenberg](https://jobright.ai/jobs/info/68eb76412f64880ca0b585df?utm_campaign=1051&utm_source=git)** | Rosenberg, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Cutler Bay](https://jobright.ai/jobs/info/68eb76358369791ef7827335?utm_campaign=1051&utm_source=git)** | Cutler Bay, FL | On Site | Oct 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Portland](https://jobright.ai/jobs/info/68eb6ad776a1db7c5985ff43?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6ace76a1db7c5985ff37?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6ac976a1db7c5985ff2f?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6aa676a1db7c5985ff16?utm_campaign=1051&utm_source=git)** | Brookline, MA | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship Redwood City](https://jobright.ai/jobs/info/68eb6a8d76a1db7c5985fef6?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship Escondido](https://jobright.ai/jobs/info/68eb6a7c8369791ef7826cf6?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
