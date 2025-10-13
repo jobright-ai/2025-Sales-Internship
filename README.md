@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68ec32662f64880ca0b5a0e3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 12 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68ec32518369791ef7828df8?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 12 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68ec291c2f64880ca0b5a081?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 12 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Sales Intern](https://jobright.ai/jobs/info/68ec19f676a1db7c59861e87?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Remote | Oct 12 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Sales Internship](https://jobright.ai/jobs/info/68ec154d2f64880ca0b59f26?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Oct 12 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Partnership Development Season 2026](https://jobright.ai/jobs/info/68ec0e4c76a1db7c59861cf7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 12 |
@@ -112,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Socorro](https://jobright.ai/jobs/info/68eb74ed8369791ef78271e4?utm_campaign=1051&utm_source=git)** | Socorro, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb74d78369791ef78271c8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Westminster](https://jobright.ai/jobs/info/68eb74d076a1db7c59860358?utm_campaign=1051&utm_source=git)** | Westminster, CA | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb74cf76a1db7c59860354?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Eau Claire](https://jobright.ai/jobs/info/68eb74cf76a1db7c59860356?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb74cf76a1db7c59860354?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Watsonville](https://jobright.ai/jobs/info/68eb74c376a1db7c59860345?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb74ba76a1db7c59860334?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Staten Island](https://jobright.ai/jobs/info/68eb74a02f64880ca0b58444?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Oct 12 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship 	Elgin](https://jobright.ai/jobs/info/68eb6de72f64880ca0b5804d?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Killeen](https://jobright.ai/jobs/info/68eb6d312f64880ca0b58017?utm_campaign=1051&utm_source=git)** | Killeen, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Kearney](https://jobright.ai/jobs/info/68eb6b0876a1db7c5985ff71?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship Bullhead City](https://jobright.ai/jobs/info/68eb6aec76a1db7c5985ff5a?utm_campaign=1051&utm_source=git)** | Bullhead City, AZ | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6aec76a1db7c5985ff5b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship Bullhead City](https://jobright.ai/jobs/info/68eb6aec76a1db7c5985ff5a?utm_campaign=1051&utm_source=git)** | Bullhead City, AZ | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Georgetown](https://jobright.ai/jobs/info/68eb6adb76a1db7c5985ff4b?utm_campaign=1051&utm_source=git)** | Georgetown, TX | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship Portland](https://jobright.ai/jobs/info/68eb6ad776a1db7c5985ff43?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6ace76a1db7c5985ff37?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb6ac976a1db7c5985ff2f?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
