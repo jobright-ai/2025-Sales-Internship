@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Socorro](https://jobright.ai/jobs/info/68eb74ed8369791ef78271e4?utm_campaign=1051&utm_source=git)** | Socorro, TX | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb74d78369791ef78271c8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Westminster](https://jobright.ai/jobs/info/68eb74d076a1db7c59860358?utm_campaign=1051&utm_source=git)** | Westminster, CA | On Site | Oct 12 |
-| ↳ | **[Summer Sales Internship Eau Claire](https://jobright.ai/jobs/info/68eb74cf76a1db7c59860356?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb74cf76a1db7c59860354?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Oct 12 |
+| ↳ | **[Summer Sales Internship Eau Claire](https://jobright.ai/jobs/info/68eb74cf76a1db7c59860356?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Watsonville](https://jobright.ai/jobs/info/68eb74c376a1db7c59860345?utm_campaign=1051&utm_source=git)** | Watsonville, CA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68eb74ba76a1db7c59860334?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Oct 12 |
 | ↳ | **[Summer Sales Internship Staten Island](https://jobright.ai/jobs/info/68eb74a02f64880ca0b58444?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Oct 12 |
