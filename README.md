@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68ee35e2d078b81ad16036ac?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Oct 14 |
+| **[NewDay USA](https://newdayusa.com/)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68ee5014d078b81ad1606aed?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Oct 14 |
+| **[Crest Vale](crestvale.us)** | **[Healthcare Sales Intern – Paid Internship](https://jobright.ai/jobs/info/68ee4d9446e5b153e5a56b38?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Oct 14 |
+| **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68ee458de0db9242258018bc?utm_campaign=1051&utm_source=git)** | Camillus, NY | On Site | Oct 14 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Sales & Operations Support Intern, Spring 2026](https://jobright.ai/jobs/info/68ee418546e5b153e5a55247?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 14 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1fd58a54edb3bf3e188ae?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Oct 14 |
+| ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1fc43a54edb3bf3e186a2?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 14 |
+| ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1fa6ea54edb3bf3e18413?utm_campaign=1051&utm_source=git)** | Cherry Hill, NJ | On Site | Oct 14 |
+| ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1f78a8c62e63bc7fd1b38?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 14 |
+| ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1a91517554c2d9eede102?utm_campaign=1051&utm_source=git)** | South Portland, ME | On Site | Oct 14 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68ee35e2d078b81ad16036ac?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Oct 14 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1fc8917554c2d9eee1eff?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | On Site | Oct 14 |
 | ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1fd1017554c2d9eee1fd6?utm_campaign=1051&utm_source=git)** | Charleston, WV | On Site | Oct 14 |
 | ↳ | **[Management and Sales Intern](https://jobright.ai/jobs/info/68d1f9b88c62e63bc7fd1dd5?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Oct 14 |
@@ -106,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Inside Sales Internship](https://jobright.ai/jobs/info/68ed9d1c81fdd1626d39db97?utm_campaign=1051&utm_source=git)** | Redlands, CA | On Site | Oct 13 |
 | **[Tesla](https://www.tesla.com)** | **[Internship,  Operations, North America Sales & Service Delivery (Winter/Spring 2026)](https://jobright.ai/jobs/info/68ed9ce66335d3323612a3bf?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Oct 13 |
 | **[Colliers](http://www.colliers.com)** | **[2026 Summer Internship - Debt & Equity (Colliers Mortgage)](https://jobright.ai/jobs/info/68ed992181fdd1626d39dac2?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 13 |
-| **[Eurofins Viracor BioPharma Services](https://www.eurofins-viracorbiopharma.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ed956070b66e2345d3f366?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Oct 13 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68e6fcd71852e62f00821164?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 13 |
 | **[Fleet Team, Inc.](https://fleet-team.com/)** | **[Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed8e0970b66e2345d3f09a?utm_campaign=1051&utm_source=git)** | Mather, CA | On Site | Oct 13 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Boston, MA)](https://jobright.ai/jobs/info/68ed8d8981fdd1626d39d715?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed65b981fdd1626d39bfbe?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed62e170b66e2345d3d928?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed628570b66e2345d3d834?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed61b170b66e2345d3d5fe?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed619570b66e2345d3d5d4?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed619570b66e2345d3d5d5?utm_campaign=1051&utm_source=git)** | Northridge, CA | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed617381fdd1626d39bd7c?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed616b81fdd1626d39bd6d?utm_campaign=1051&utm_source=git)** | Honolulu, HI | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed614081fdd1626d39bd33?utm_campaign=1051&utm_source=git)** | Pearl City, HI | Hybrid | Oct 13 |
-| **[San Diego Rescue Mission](https://www.sdrescue.org/)** | **[Church Partnership Intern](https://jobright.ai/jobs/info/68ed613870b66e2345d3d552?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Oct 13 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed611070b66e2345d3d509?utm_campaign=1051&utm_source=git)** | Mililani Town, HI | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
