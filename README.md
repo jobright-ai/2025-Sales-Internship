@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Internship Program - Customer Success Intern (Campus)](https://jobright.ai/jobs/info/68d1d5da17554c2d9eee00e4?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
+| **[Feeding America Eastern Wisconsin](https://feedingamericawi.org)** | **[Retail Partnership Intern](https://jobright.ai/jobs/info/68ee0f6781fdd1626d3a22ce?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 14 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - New Ventures & Strategic Alliances](https://jobright.ai/jobs/info/68edfc7381fdd1626d3a1824?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Oct 14 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 366](https://jobright.ai/jobs/info/68edf89c6335d3323612ded5?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Oct 14 |
 | **[KCC Capital Partners](kcccapitalpartners.com)** | **[Intern](https://jobright.ai/jobs/info/68ede64170b66e2345d41f60?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Remote | Oct 13 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Office Hours](http://www.officehours.com/)** | **[Winter 2026 Client Solutions Intern, New York](https://jobright.ai/jobs/info/68ed828d70b66e2345d3eb92?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Hybrid | Oct 13 |
 | **[Swiss Re](http://www.swissre.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68ed824981fdd1626d39d28b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68ed81b970b66e2345d3ea41?utm_campaign=1051&utm_source=git)** | Brookfield, WI | On Site | Oct 13 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/682cfa5c4984972cf2445d48?utm_campaign=1051&utm_source=git)** | Greater Tampa Bay Area | On Site | Oct 13 |
 | **[Office Hours](http://www.officehours.com/)** | **[Winter 2026 Client Solutions Intern, San Francisco](https://jobright.ai/jobs/info/68ed7db181fdd1626d39d044?utm_campaign=1051&utm_source=git)** | San Francisco, California, United States | Hybrid | Oct 13 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Gas Sales Intern - Telecommuter in MI](https://jobright.ai/jobs/info/68ed7d906335d3323612981d?utm_campaign=1051&utm_source=git)** | Annapolis, MD | Remote | Oct 13 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68ed790581fdd1626d39ce05?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Oct 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed5f596335d33236128447?utm_campaign=1051&utm_source=git)** | Long Beach, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed5ebb6335d332361282a1?utm_campaign=1051&utm_source=git)** | Anchorage, AK | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed5eba6335d332361282a0?utm_campaign=1051&utm_source=git)** | Berkeley, CA | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed5eba6335d3323612829f?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed5e506335d33236128185?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed5df36335d33236128081?utm_campaign=1051&utm_source=git)** | Rexburg, ID | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
