@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinstry](http://www.mckinstry.com)** | **[Sales Excellence Intern](https://jobright.ai/jobs/info/68edd57270b66e2345d4164b?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 13 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Spokane)](https://jobright.ai/jobs/info/68edd13781fdd1626d39fbc1?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Oct 13 |
+| **[Southwestern Advantage – Arizona Campus Division](https://www.linkedin.com/in/sandra-perez1/)** | **[Entrepreneurial Sales and Leadership Intern - Summer 2026](https://jobright.ai/jobs/info/68edcd286335d3323612c1cd?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Oct 13 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Cascade)](https://jobright.ai/jobs/info/68edcc6e6335d3323612bf97?utm_campaign=1051&utm_source=git)** | Eugene, OR | On Site | Oct 13 |
+| ↳ | **[Management and Sales Summer Internship 2026 (Boise)](https://jobright.ai/jobs/info/68edcc646335d3323612bf74?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Oct 13 |
+| ↳ | **[Management and Sales Summer Internship 2026 (Seattle)](https://jobright.ai/jobs/info/68edcc3170b66e2345d41009?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 13 |
+| ↳ | **[Management and Sales Summer Internship 2026 (Portland)](https://jobright.ai/jobs/info/68edcbca6335d3323612bdaf?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Oct 13 |
+| ↳ | **[Management and Sales Summer Internship 2026 (Tri Cities)](https://jobright.ai/jobs/info/68edcb876335d3323612bcd8?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Oct 13 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/68edbc2d81fdd1626d39ed57?utm_campaign=1051&utm_source=git)** | Largo, FL | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68edbb6581fdd1626d39eb85?utm_campaign=1051&utm_source=git)** | Clemson, SC | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68edbb2b81fdd1626d39eadd?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Oct 13 |
@@ -130,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed62e170b66e2345d3d928?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed628570b66e2345d3d834?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed61b170b66e2345d3d5fe?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed619570b66e2345d3d5d4?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed619570b66e2345d3d5d5?utm_campaign=1051&utm_source=git)** | Northridge, CA | Hybrid | Oct 13 |
+| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed619570b66e2345d3d5d4?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed617381fdd1626d39bd7c?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed616b81fdd1626d39bd6d?utm_campaign=1051&utm_source=git)** | Honolulu, HI | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed614081fdd1626d39bd33?utm_campaign=1051&utm_source=git)** | Pearl City, HI | Hybrid | Oct 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader FT - 6495](https://jobright.ai/jobs/info/68ed5c7b81fdd1626d39bb83?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Oct 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - Johnston, RI](https://jobright.ai/jobs/info/68ed5c0381fdd1626d39ba88?utm_campaign=1051&utm_source=git)** | North Providence, RI | On Site | Oct 13 |
 | **[NewDay USA](https://newdayusa.com/)** | **[Account Executive Sales Internship](https://jobright.ai/jobs/info/68ed5a6481fdd1626d39b769?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Oct 13 |
-| **[Valorantum](valorantum.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/68ed598a6335d33236127ed1?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Oct 13 |
-| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68ed583370b66e2345d3d128?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Oct 13 |
-| **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA SALES INTERN WINTER '26 - WGGB](https://jobright.ai/jobs/info/68ed579170b66e2345d3cfd9?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Oct 13 |
-| **[Fortrea](https://www.fortrea.com)** | **[Intern - New Ventures & Strategic Alliances](https://jobright.ai/jobs/info/68ed56776335d33236127b98?utm_campaign=1051&utm_source=git)** | Remote_United States | Remote | Oct 13 |
-| **[Elevare Consulting](elevareconsulting.us)** | **[Employee Financial Wellness Solutions Intern](https://jobright.ai/jobs/info/68ed518e81fdd1626d39afdc?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Oct 13 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Gas Sales Intern - Telecommuter in MI](https://jobright.ai/jobs/info/68ed4ebb70b66e2345d3c855?utm_campaign=1051&utm_source=git)** | Annapolis, Maryland | Remote | Oct 13 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Retail Operations Intern](https://jobright.ai/jobs/info/68ed4eaf81fdd1626d39ace4?utm_campaign=1051&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Oct 13 |
-| **[FC Industries, Inc.](https://www.fcindinc.com/)** | **[Paid Business Intern](https://jobright.ai/jobs/info/68ed4e356335d33236127624?utm_campaign=1051&utm_source=git)** | AFCS Inc. | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
