@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - New Ventures & Strategic Alliances](https://jobright.ai/jobs/info/68edfc7381fdd1626d3a1824?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Oct 14 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 366](https://jobright.ai/jobs/info/68edf89c6335d3323612ded5?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Oct 14 |
+| **[KCC Capital Partners](kcccapitalpartners.com)** | **[Intern](https://jobright.ai/jobs/info/68ede64170b66e2345d41f60?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | Remote | Oct 13 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Sales Excellence Intern](https://jobright.ai/jobs/info/68edd57270b66e2345d4164b?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 13 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Spokane)](https://jobright.ai/jobs/info/68edd13781fdd1626d39fbc1?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Oct 13 |
 | **[Southwestern Advantage – Arizona Campus Division](https://www.linkedin.com/in/sandra-perez1/)** | **[Entrepreneurial Sales and Leadership Intern - Summer 2026](https://jobright.ai/jobs/info/68edcd286335d3323612c1cd?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Oct 13 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed62e170b66e2345d3d928?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed628570b66e2345d3d834?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed61b170b66e2345d3d5fe?utm_campaign=1051&utm_source=git)** | San Jose, CA | Hybrid | Oct 13 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed619570b66e2345d3d5d5?utm_campaign=1051&utm_source=git)** | Northridge, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed619570b66e2345d3d5d4?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | Hybrid | Oct 13 |
+| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed619570b66e2345d3d5d5?utm_campaign=1051&utm_source=git)** | Northridge, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed617381fdd1626d39bd7c?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed616b81fdd1626d39bd6d?utm_campaign=1051&utm_source=git)** | Honolulu, HI | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed614081fdd1626d39bd33?utm_campaign=1051&utm_source=git)** | Pearl City, HI | Hybrid | Oct 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed5eba6335d3323612829f?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed5e506335d33236128185?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Oct 13 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/68ed5df36335d33236128081?utm_campaign=1051&utm_source=git)** | Rexburg, ID | Hybrid | Oct 13 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader FT - 6495](https://jobright.ai/jobs/info/68ed5c7b81fdd1626d39bb83?utm_campaign=1051&utm_source=git)** | Miami Beach, FL | On Site | Oct 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - Johnston, RI](https://jobright.ai/jobs/info/68ed5c0381fdd1626d39ba88?utm_campaign=1051&utm_source=git)** | North Providence, RI | On Site | Oct 13 |
-| **[NewDay USA](https://newdayusa.com/)** | **[Account Executive Sales Internship](https://jobright.ai/jobs/info/68ed5a6481fdd1626d39b769?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
