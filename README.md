@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KHAITE](https://khaite.com/)** | **[Client Experience & CRM Intern, Spring 2026](https://jobright.ai/jobs/info/68eff48b9821486c423c8214?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 15 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/68eff486de50091dbfa51168?utm_campaign=1051&utm_source=git)** | Annapolis, MD | Remote | Oct 15 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68eff3cf9821486c423c818a?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Oct 15 |
+| **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68efe5a69821486c423c7efb?utm_campaign=1051&utm_source=git)** | Lynn, MA | On Site | Oct 15 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68efe43dde50091dbfa50d32?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Oct 15 |
+| **[Eurofins BioPharma Product Testing North America](https://www.eurofinsus.com/bpt)** | **[12 Week Onsite Business Development Intern](https://jobright.ai/jobs/info/68efe41178ba1621431e0f8f?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Oct 15 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68efe2fcde50091dbfa50cbc?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Oct 15 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Sales Internship](https://jobright.ai/jobs/info/68efdd8ede50091dbfa50b94?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Oct 15 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative](https://jobright.ai/jobs/info/68efd80a78ba1621431e0c48?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Oct 15 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - ReImagine](https://jobright.ai/jobs/info/68efd78b78ba1621431e0be3?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Oct 15 |
@@ -108,13 +115,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b7971d2124650c140242fe?utm_campaign=1051&utm_source=git)** | Casper, WY | On Site | Oct 15 |
 | ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b792f21ade4306aa64c144?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Oct 15 |
 | ↳ | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68b7989d1ade4306aa64c6ec?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Oct 15 |
-| **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68ef877078ba1621431df283?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 15 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Employee Financial Wellness Solutions Intern](https://jobright.ai/jobs/info/68ef874078ba1621431df26e?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Carboline](https://www.carboline.com)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/68d34ed18c62e63bc7fdfb6e?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Oct 15 |
 | **[Aircall](https://aircall.io/)** | **[Sales Intern - New York City - 6 months](https://jobright.ai/jobs/info/68c85407983e6768bc54bc82?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Phoenix Summer 2026](https://jobright.ai/jobs/info/68ef7e069821486c423c6054?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 15 |
-| ↳ | **[Management and Sales Intern - San Diego Summer 2026](https://jobright.ai/jobs/info/68ef7d0e78ba1621431df0b1?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Oct 15 |
 | ↳ | **[Management and Sales Intern - Las Vegas Summer 2026](https://jobright.ai/jobs/info/68ef7d0e78ba1621431df0b2?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Oct 15 |
+| ↳ | **[Management and Sales Intern - San Diego Summer 2026](https://jobright.ai/jobs/info/68ef7d0e78ba1621431df0b1?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Oct 15 |
 | ↳ | **[Management and Sales Intern - Los Angeles Summer 2026](https://jobright.ai/jobs/info/68ef7c3878ba1621431df035?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 15 |
 | **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Graduate](https://jobright.ai/jobs/info/68ef76e078ba1621431def59?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 15 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/68d3332a8c62e63bc7fde917?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 15 |
@@ -124,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68ef60189821486c423c5181?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Hybrid | Oct 15 |
 | **[Hawx Smart Pest Control](https://www.hawxpestcontrol.com)** | **[Professional Sales Internship](https://jobright.ai/jobs/info/68ef5eee78ba1621431de118?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 15 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Sales](https://jobright.ai/jobs/info/68ef4e899821486c423c3f94?utm_campaign=1051&utm_source=git)** | Shanghai, VA | Hybrid | Oct 15 |
+| **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68ef47809821486c423c355d?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 15 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Divisional Internship](https://jobright.ai/jobs/info/68ef29ed230ae70a14c410ff?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Oct 14 |
 | **[PlayStation](https://www.playstation.com/)** | **[Associate Peripheral Licensing Intern - MBA](https://jobright.ai/jobs/info/68ef29d5230ae70a14c410f0?utm_campaign=1051&utm_source=git)** | United States of America | On Site | Oct 14 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Divisional Internship](https://jobright.ai/jobs/info/68ef2655a1a1d02df61e9ceb?utm_campaign=1051&utm_source=git)** | Wyoming, Michigan | On Site | Oct 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hawx Smart Pest Control](https://www.hawxpestcontrol.com)** | **[Professional Sales Internship](https://jobright.ai/jobs/info/68eef388d078b81ad1610bff?utm_campaign=1051&utm_source=git)** | GEORGIA - ATLANTA EAST | On Site | Oct 14 |
 | **[David C Cook](https://davidccook.org)** | **[Commercial Partnerships/Digital Intern (Unpaid)](https://jobright.ai/jobs/info/68eef077d078b81ad1610af4?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Oct 14 |
 | **[Clēnera](https://www.clenera.com/)** | **[Intern, Business Development Analytics](https://jobright.ai/jobs/info/68eeebd9e0db92422580c9d2?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Oct 14 |
-| **[Schaeffler](https://www.schaeffler.us)** | **[Sales Intern](https://jobright.ai/jobs/info/68eeeb73e0db92422580c927?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | Hybrid | Oct 14 |
-| **[Office Hours](http://www.officehours.com/)** | **[Summer 2026 Client Solutions Intern, San Francisco](https://jobright.ai/jobs/info/68eeeb3ee0db92422580c8d6?utm_campaign=1051&utm_source=git)** | San Francisco, California, United States | Hybrid | Oct 14 |
-| ↳ | **[Summer 2026 Client Solutions Intern, New York](https://jobright.ai/jobs/info/68eeeab7d078b81ad1610787?utm_campaign=1051&utm_source=git)** | San Francisco, California, United States | Hybrid | Oct 14 |
-| **[Wayflyer](https://www.wayflyer.com)** | **[Credit Internship (Charlotte)](https://jobright.ai/jobs/info/68ef7dc79821486c423c6026?utm_campaign=1051&utm_source=git)** | Charlotte, North Carolina | Hybrid | Oct 14 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedbd046e5b153e5a60a63?utm_campaign=1051&utm_source=git)** | Dublin, OH | On Site | Oct 14 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9ddd078b81ad16101c1?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Oct 14 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9c4e0db92422580c151?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
