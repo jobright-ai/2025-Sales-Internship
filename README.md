@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Sales](https://jobright.ai/jobs/info/68ef4e899821486c423c3f94?utm_campaign=1051&utm_source=git)** | Shanghai, VA | Hybrid | Oct 15 |
+| **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68ef47809821486c423c355d?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 15 |
+| ↳ | **[Sales and Marketing - Intern, Graduate](https://jobright.ai/jobs/info/68ef47129821486c423c33d3?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 15 |
+| ↳ | **[Sales and Marketing - Intern, Bachelor](https://jobright.ai/jobs/info/68ef46869821486c423c325d?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 15 |
+| **[Intel Corporation](http://www.intel.com)** | **[Technical Sales  - Intern, Graduate](https://jobright.ai/jobs/info/68ef462c9821486c423c3165?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
 | **[Impact Advertising](http://www.impact-ec.com)** | **[Swag Solutions Intern](https://jobright.ai/jobs/info/68ef25ff230ae70a14c40d25?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Oct 14 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Divisional Internship](https://jobright.ai/jobs/info/68ef29ed230ae70a14c410ff?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Oct 14 |
 | **[PlayStation](https://www.playstation.com/)** | **[Associate Peripheral Licensing Intern - MBA](https://jobright.ai/jobs/info/68ef29d5230ae70a14c410f0?utm_campaign=1051&utm_source=git)** | United States of America | On Site | Oct 14 |
@@ -77,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Branson](https://jobright.ai/jobs/info/68ef0d1820456578d5eb4416?utm_campaign=1051&utm_source=git)** | Branson, MO | On Site | Oct 14 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/68ef089720456578d5eb42ae?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Oct 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68ef07f620456578d5eb4230?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | Oct 14 |
-| **[Victaulic](https://www.victaulic.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68ef2674230ae70a14c40ed6?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Truck Rental Account Specialist Internship](https://jobright.ai/jobs/info/68ef0031a1a1d02df61e80d3?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Oct 14 |
 | **[Erin Hills Golf Course](http://erinhills.com)** | **[Retail Management Internship](https://jobright.ai/jobs/info/68eef8aed078b81ad1611234?utm_campaign=1051&utm_source=git)** | Hartford Town, WI | On Site | Oct 14 |
 | **[AQUILA Commercial, LLC](http://aquilacommercial.com)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/68eef7d7e0db92422580d163?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 14 |
@@ -125,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed37ae0db92422580bc74?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 14 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed363e0db92422580bc4f?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Oct 14 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed355d078b81ad160fc2c?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Oct 14 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed30bd078b81ad160fbb8?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Oct 14 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed30bd078b81ad160fbbd?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Oct 14 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed30bd078b81ad160fbb8?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Oct 14 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2f7d078b81ad160fb9b?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Oct 14 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2d746e5b153e5a606ae?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 14 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2bd46e5b153e5a6067b?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Oct 14 |
@@ -134,13 +138,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed28c46e5b153e5a605ff?utm_campaign=1051&utm_source=git)** | Medina, OH | On Site | Oct 14 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed26f46e5b153e5a605d5?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Oct 14 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed25046e5b153e5a60593?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Oct 14 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed23246e5b153e5a6054d?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 14 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed23246e5b153e5a6054e?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Oct 14 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed23246e5b153e5a6054d?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 14 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed22a46e5b153e5a60542?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Oct 14 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed21946e5b153e5a60524?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Oct 14 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20a46e5b153e5a60502?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Oct 14 |
-| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed1e746e5b153e5a604c5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Oct 14 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed1e746e5b153e5a604c6?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Oct 14 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed1e746e5b153e5a604c5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Oct 14 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed1b046e5b153e5a60430?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Oct 14 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed19e46e5b153e5a603f8?utm_campaign=1051&utm_source=git)** | Medina, OH | On Site | Oct 14 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed16a46e5b153e5a60354?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Oct 14 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eeceafe0db92422580b9e1?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Oct 14 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece7bd078b81ad160f94d?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 14 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece28d078b81ad160f8ff?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Oct 14 |
-| **[AQUILA Commercial, LLC](http://aquilacommercial.com)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/68eece0ce0db92422580b96d?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 14 |
 | **[Panduit](http://www.panduit.com)** | **[Renewable Energy Business Development Intern](https://jobright.ai/jobs/info/68eec78346e5b153e5a5fe93?utm_campaign=1051&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Oct 14 |
 | **[Gentherm](https://gentherm.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68eec60c46e5b153e5a5fa6b?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Oct 14 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68eec49ae0db92422580b0c4?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Oct 14 |
-| **[NEBCO, Inc.](http://nebcoinc.com)** | **[Sales, Marketing and Promotions Intern](https://jobright.ai/jobs/info/68eec3e8d078b81ad160f0c9?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Oct 14 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Mortgage](https://jobright.ai/jobs/info/68eec0ad46e5b153e5a5f61c?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
