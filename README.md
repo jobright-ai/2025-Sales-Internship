@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern,  Partnership Development Season 2026](https://jobright.ai/jobs/info/68f0b2bca6b9004b5e32443b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 16 |
 | **[Artext Wholesale](www.artextwholesale.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f0ab24eb273a32d976b792?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Oct 16 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Partnership Activation Season 2026](https://jobright.ai/jobs/info/68f0aabc1f624a7ec1cf5c99?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 16 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68ee08c170b66e2345d437ec?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Oct 16 |
 | **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Access Insurance Internship](https://jobright.ai/jobs/info/68f09e78a6b9004b5e322083?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Oct 16 |
 | **[Meijer](https://www.meijer.com/)** | **[Corporate Store Experience Intern- Summer 2026](https://jobright.ai/jobs/info/68f0983b1f624a7ec1cf456c?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Oct 16 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (CBUS)](https://jobright.ai/jobs/info/68f08d991f624a7ec1cf403b?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 15 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f001c69821486c423c8900?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Oct 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effd88de50091dbfa513db?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Remote | Oct 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f0001778ba1621431e17f2?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | Remote | Oct 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effcc678ba1621431e14e8?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Oct 15 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f001e378ba1621431e19b2?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Oct 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effdd19821486c423c853c?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | Oct 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f0007978ba1621431e1852?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Oct 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f001e378ba1621431e19b2?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Oct 15 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effcc678ba1621431e14e8?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Oct 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effd0cde50091dbfa5135f?utm_campaign=1051&utm_source=git)** | Wellington, FL | Remote | Oct 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effb83de50091dbfa511e8?utm_campaign=1051&utm_source=git)** | Kentucky, United States | Remote | Oct 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f0012d78ba1621431e18f7?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Oct 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effd0cde50091dbfa5135e?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Oct 15 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effb83de50091dbfa511e8?utm_campaign=1051&utm_source=git)** | Kentucky, United States | Remote | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
