@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern- Capacity Portfolio Representative - Starting in Summer 2026](https://jobright.ai/jobs/info/68f0f766ef766b3f0fd074b7?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
+| ↳ | **[Intern - Associate Portfolio Executive - Starting in Summer 2026](https://jobright.ai/jobs/info/68f0f2ace6870116b1f5209b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
+| **[Ballotpedia](https://ballotpedia.org/)** | **[External Relations Spring 2026 Internship Program (Paid/Remote)](https://jobright.ai/jobs/info/68f0f109e6870116b1f51f67?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 16 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Agriculture Sales Intern (California) - Summer '26](https://jobright.ai/jobs/info/68f0b8c9eb273a32d976cb90?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Oct 16 |
 | **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/68f0b7b533489f7bb1c18893?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Business Solutions Season 2026](https://jobright.ai/jobs/info/68f0b3d3a6b9004b5e32458f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 16 |
@@ -90,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (NYC)](https://jobright.ai/jobs/info/68f085aaeb273a32d97691d1?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | ↳ | **[Sales Intern (OC)](https://jobright.ai/jobs/info/68f085921f624a7ec1cf396f?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Oct 15 |
 | ↳ | **[Sales Intern (MSP)](https://jobright.ai/jobs/info/68f08578eb273a32d97691b8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 15 |
-| ↳ | **[Sales Intern (PHL)](https://jobright.ai/jobs/info/68f084fceb273a32d976915f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 15 |
 | ↳ | **[Sales Intern (NJ)](https://jobright.ai/jobs/info/68f084fceb273a32d976915e?utm_campaign=1051&utm_source=git)** | Hackensack, NJ | On Site | Oct 15 |
+| ↳ | **[Sales Intern (PHL)](https://jobright.ai/jobs/info/68f084fceb273a32d976915f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 15 |
 | ↳ | **[Sales Intern (NASH)](https://jobright.ai/jobs/info/68f084fbeb273a32d976915d?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 15 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Corporate Development Intern - Graduate](https://jobright.ai/jobs/info/68f07aadeb273a32d9768caa?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Upper Extremities Sales Intern -Indianapolis, IN](https://jobright.ai/jobs/info/68f06d2aeb273a32d9768182?utm_campaign=1051&utm_source=git)** | Carmel, IN | Hybrid | Oct 15 |
@@ -133,12 +136,14 @@ For a complete list, click the following sortable link below:
 | **[Cohesity](https://www.cohesity.com/)** | **[Sales Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68f022da9821486c423c93b7?utm_campaign=1051&utm_source=git)** | Heathrow, FL | On Site | Oct 15 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68efff979821486c423c86e1?utm_campaign=1051&utm_source=git)** | Goodhue, MN | On Site | Oct 15 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Inside Sales Internship](https://jobright.ai/jobs/info/68efff5a9821486c423c86ad?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Oct 15 |
+| **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Business Strategy and Performance Analytics](https://jobright.ai/jobs/info/68f0e3e3ef766b3f0fd064c2?utm_campaign=1051&utm_source=git)** | Miami, FL, United States | Remote | Oct 15 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68f01e4878ba1621431e1f41?utm_campaign=1051&utm_source=git)** | Monroe, MI | On Site | Oct 15 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader PT 6415](https://jobright.ai/jobs/info/68f015d39821486c423c8c75?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Oct 15 |
-| **[Mountain West Commercial Real Estate](https://www.mtnwest.com/)** | **[Commercial Brokerage Intern](https://jobright.ai/jobs/info/68f0157378ba1621431e1d6e?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 15 |
+| **[Newmark Mountain West](https://www.mtnwest.com/)** | **[Commercial Brokerage Intern](https://jobright.ai/jobs/info/68f0157378ba1621431e1d6e?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 15 |
 | **[KHAITE](https://khaite.com/)** | **[Client Experience & CRM Intern, Spring 2026](https://jobright.ai/jobs/info/68eff48b9821486c423c8214?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/68eff486de50091dbfa51168?utm_campaign=1051&utm_source=git)** | Annapolis, MD | Remote | Oct 15 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68eff3cf9821486c423c818a?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Oct 15 |
+| **[Eurofins](http://eurofins.com)** | **[12 Week Onsite Business Development Intern](https://jobright.ai/jobs/info/68f0e520ef766b3f0fd06651?utm_campaign=1051&utm_source=git)** | Lancaster, PA, USA | On Site | Oct 15 |
 | **[Atlus Pest Solutions](https://www.atluspestsolutions.com/)** | **[Summer Entrepreneurial Sales Internship](https://jobright.ai/jobs/info/68f01579de50091dbfa51afc?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Oct 15 |
 | **[findings inc](https://findingsinc.com)** | **[Fashion Wholesale Intern](https://jobright.ai/jobs/info/68f00b68de50091dbfa51a46?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68efe5a69821486c423c7efb?utm_campaign=1051&utm_source=git)** | Lynn, MA | On Site | Oct 15 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effd88de50091dbfa513db?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Remote | Oct 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f0001778ba1621431e17f2?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | Remote | Oct 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f001e378ba1621431e19b2?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Oct 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effdd19821486c423c853c?utm_campaign=1051&utm_source=git)** | Nevada, United States | Remote | Oct 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f0007978ba1621431e1852?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Oct 15 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effcc678ba1621431e14e8?utm_campaign=1051&utm_source=git)** | Georgia, United States | Remote | Oct 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effd0cde50091dbfa5135f?utm_campaign=1051&utm_source=git)** | Wellington, FL | Remote | Oct 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effd0cde50091dbfa5135e?utm_campaign=1051&utm_source=git)** | Tennessee, United States | Remote | Oct 15 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68effb83de50091dbfa511e8?utm_campaign=1051&utm_source=git)** | Kentucky, United States | Remote | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
