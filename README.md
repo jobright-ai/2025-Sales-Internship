@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Boldt Company](https://www.boldt.com)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/68f1916def766b3f0fd0f78a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 16 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f18660e6870116b1f5a19f?utm_campaign=1051&utm_source=git)** | Woodbury, MN | On Site | Oct 16 |
+| ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f18644ef766b3f0fd0f197?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Oct 16 |
 | **[Verizon Connect](https://www.verizonconnect.com/)** | **[Verizon Business Public Sector Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68f181a6e6870116b1f59e14?utm_campaign=1051&utm_source=git)** | Ashburn, VA | Hybrid | Oct 16 |
 | **[Xivius](https://www.linkedin.com/company/107599035)** | **[Business Development, Partnership & Growth Strategy Intern](https://jobright.ai/jobs/info/68f18119e6870116b1f59da6?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Oct 16 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Business Public Sector Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68f180c7ef766b3f0fd0ed1d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 16 |
 | ↳ | **[Verizon Business Public Sector Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68f18099ef766b3f0fd0eced?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f18099ef766b3f0fd0ecec?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 16 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Irving, TX - Loan Processing](https://jobright.ai/jobs/info/68f18045ef766b3f0fd0eca0?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f1801def766b3f0fd0ec78?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Oct 16 |
 | ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f17fc0ef766b3f0fd0ec2c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 16 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Business Public Sector Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68f17f73ef766b3f0fd0ebe3?utm_campaign=1051&utm_source=git)** | Ashburn, VA | On Site | Oct 16 |
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 Merchandise Internship - Dollywood Theme Park - Seasonal](https://jobright.ai/jobs/info/68f17d21f462172a5a7d920a?utm_campaign=1051&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 16 |
@@ -108,10 +113,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f14e86f462172a5a7d5efe?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Oct 16 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68f14e78f462172a5a7d5ee0?utm_campaign=1051&utm_source=git)** | Byron Center, MI | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f14e2ce6870116b1f56768?utm_campaign=1051&utm_source=git)** | Hudson, WI | On Site | Oct 16 |
-| ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f14df8e6870116b1f56747?utm_campaign=1051&utm_source=git)** | Woodbury, MN | On Site | Oct 16 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Sales Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/68f14df5f462172a5a7d5df2?utm_campaign=1051&utm_source=git)** | Orrville, OH | Hybrid | Oct 16 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f14dd0ef766b3f0fd0b905?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Oct 16 |
-| ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f14ccdef766b3f0fd0b76a?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Oct 16 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Sales / Houston, TX](https://jobright.ai/jobs/info/68f14a9fe6870116b1f56580?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 16 |
 | ↳ | **[2026 Summer Internship / Sales / Austin, TX](https://jobright.ai/jobs/info/68f14893e6870116b1f562c7?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 16 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Wilmington](https://jobright.ai/jobs/info/68f147fce6870116b1f561f6?utm_campaign=1051&utm_source=git)** | Wilmington, NC, United States | On Site | Oct 16 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / National Accounts / Dallas, TX](https://jobright.ai/jobs/info/68f14375ef766b3f0fd0aeff?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
 | **[Rackley Realty](https://www.rackleyteam.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/68f14308ef766b3f0fd0addf?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Oct 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Bergen County, NJ](https://jobright.ai/jobs/info/68f14279e6870116b1f55d48?utm_campaign=1051&utm_source=git)** | NJ - Dumont | On Site | Oct 16 |
-| ↳ | **[Retail Store Management Internship - Brooklyn](https://jobright.ai/jobs/info/68f1426fe6870116b1f55d28?utm_campaign=1051&utm_source=git)** | 02428 - CVS Albany, L.L.C. | On Site | Oct 16 |
 | ↳ | **[Retail Store Management Internship - Hudson County, NJ](https://jobright.ai/jobs/info/68f1426fe6870116b1f55d2a?utm_campaign=1051&utm_source=git)** | NJ - Bayonne | On Site | Oct 16 |
+| ↳ | **[Retail Store Management Internship - Brooklyn](https://jobright.ai/jobs/info/68f1426fe6870116b1f55d28?utm_campaign=1051&utm_source=git)** | 02428 - CVS Albany, L.L.C. | On Site | Oct 16 |
 | ↳ | **[Retail Store Management Internship - Brooklyn](https://jobright.ai/jobs/info/68f1426bf462172a5a7d54a2?utm_campaign=1051&utm_source=git)** | 02699 - CVS Albany, L.L.C. | On Site | Oct 16 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Business Public Sector Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68f14251e6870116b1f55cc5?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona | Hybrid | Oct 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Hudson County, NJ](https://jobright.ai/jobs/info/68f14229f462172a5a7d5457?utm_campaign=1051&utm_source=git)** | NJ - Jersey City | On Site | Oct 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Store Management Internship - Brooklyn](https://jobright.ai/jobs/info/68f1407ce6870116b1f557ae?utm_campaign=1051&utm_source=git)** | 02441 - CVS Albany, L.L.C. | On Site | Oct 16 |
 | ↳ | **[Retail Store Management Internship - Brooklyn](https://jobright.ai/jobs/info/68f1407bef766b3f0fd0a69b?utm_campaign=1051&utm_source=git)** | 17861 - CVS Albany, L.L.C. | On Site | Oct 16 |
 | ↳ | **[Retail Store Management Internship - The Bronx](https://jobright.ai/jobs/info/68f14068e6870116b1f55741?utm_campaign=1051&utm_source=git)** | 02551 - CVS Albany, L.L.C. | On Site | Oct 16 |
-| ↳ | **[Retail Store Management Internship - Brooklyn](https://jobright.ai/jobs/info/68f1405ee6870116b1f5571a?utm_campaign=1051&utm_source=git)** | 02769 - CVS Albany, L.L.C. | On Site | Oct 16 |
-| ↳ | **[Retail Store Management Internship - Brooklyn](https://jobright.ai/jobs/info/68f1404cf462172a5a7d5265?utm_campaign=1051&utm_source=git)** | 17681 - CVS Albany, L.L.C. | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
