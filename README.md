@@ -78,7 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Henry Schein](http://www.henryschein.com)** | **[Dental Field Sales Intern - Wisconsin](https://jobright.ai/jobs/info/68f19b9eef766b3f0fd10038?utm_campaign=1051&utm_source=git)** | Wisconsin, United States | On Site | Oct 16 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68f1972ee6870116b1f5ad82?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
 | **[The Boldt Company](https://www.boldt.com)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/68f1916def766b3f0fd0f78a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 16 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f18644ef766b3f0fd0f197?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Oct 16 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f18660e6870116b1f5a19f?utm_campaign=1051&utm_source=git)** | Woodbury, MN | On Site | Oct 16 |
+| ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f18644ef766b3f0fd0f197?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Oct 16 |
 | **[Verizon Connect](https://www.verizonconnect.com/)** | **[Verizon Business Public Sector Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68f181a6e6870116b1f59e14?utm_campaign=1051&utm_source=git)** | Ashburn, VA | Hybrid | Oct 16 |
 | **[Xivius](https://www.linkedin.com/company/107599035)** | **[Business Development, Partnership & Growth Strategy Intern](https://jobright.ai/jobs/info/68f18119e6870116b1f59da6?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Oct 16 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Business Public Sector Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68f180c7ef766b3f0fd0ed1d?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 16 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f18099ef766b3f0fd0ecec?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Oct 16 |
 | ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f1801def766b3f0fd0ec78?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Oct 16 |
 | ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f18007ef766b3f0fd0ec64?utm_campaign=1051&utm_source=git)** | Council Bluffs, IA | On Site | Oct 16 |
+| ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f17fc0ef766b3f0fd0ec2c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 16 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Business Public Sector Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68f17f73ef766b3f0fd0ebe3?utm_campaign=1051&utm_source=git)** | Ashburn, VA | On Site | Oct 16 |
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 Merchandise Internship - Dollywood Theme Park - Seasonal](https://jobright.ai/jobs/info/68f17d21f462172a5a7d920a?utm_campaign=1051&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 16 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Business Public Sector Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68f17ccef462172a5a7d9174?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 16 |
@@ -132,9 +134,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f14e86f462172a5a7d5efe?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Oct 16 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68f14e78f462172a5a7d5ee0?utm_campaign=1051&utm_source=git)** | Byron Center, MI | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f14e2ce6870116b1f56768?utm_campaign=1051&utm_source=git)** | Hudson, WI | On Site | Oct 16 |
-| ↳ | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f14df8e6870116b1f56747?utm_campaign=1051&utm_source=git)** | Woodbury, MN | On Site | Oct 16 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Sales Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/68f14df5f462172a5a7d5df2?utm_campaign=1051&utm_source=git)** | Orrville, OH | Hybrid | Oct 16 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship](https://jobright.ai/jobs/info/68f14dbaef766b3f0fd0b8ef?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 16 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Sales / Houston, TX](https://jobright.ai/jobs/info/68f14a9fe6870116b1f56580?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 16 |
 | ↳ | **[2026 Summer Internship / Sales / Austin, TX](https://jobright.ai/jobs/info/68f14893e6870116b1f562c7?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 16 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Wilmington](https://jobright.ai/jobs/info/68f147fce6870116b1f561f6?utm_campaign=1051&utm_source=git)** | Wilmington, NC, United States | On Site | Oct 16 |
