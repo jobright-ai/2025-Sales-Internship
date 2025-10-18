@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f3d3ae9a65fd34585886a3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68f3d23776a51a4307bcfa09?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f3cefa9a63986de7573928?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 18 |
+| **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68f3bf4976a51a4307bcf7d9?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Oct 18 |
+| **[First Stop Dental](firststopdental.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f3bb3e76a51a4307bcf725?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc57?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | Oct 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Pricing Deal Work, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/68d71f89d3fe025a3015f0fc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Performance Management](https://jobright.ai/jobs/info/68d7055bd3fe025a3015e1ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d8894705799a2ef985?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Oct 18 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68b9dc3b6105227d1189867a?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Oct 18 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70220894705799a2efb7d?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 18 |
-| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70292894705799a2efc55?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 18 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca3750f61c922772a750f1?utm_campaign=1051&utm_source=git)** | Ethan, SD | On Site | Oct 18 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca2709d4187c55157a6cb2?utm_campaign=1051&utm_source=git)** | Kingfisher, OK | On Site | Oct 18 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68cee5d8fb49c96ca6ea4272?utm_campaign=1051&utm_source=git)** | Yuma, CO | On Site | Oct 18 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d7067cd3fe025a3015e352?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
