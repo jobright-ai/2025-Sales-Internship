@@ -57,7 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f3d3ae9a65fd34585886a3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3ed049a65fd3458588bb1?utm_campaign=1051&utm_source=git)** | Hollister, MO | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3ecc99a65fd3458588b97?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3ec9e9a65fd3458588b86?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb669a63986de7573e2c?utm_campaign=1051&utm_source=git)** | Bessemer, AL | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb2f9a63986de7573e18?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb2c9a63986de7573e17?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb0b76a51a4307bcfe77?utm_campaign=1051&utm_source=git)** | Kansas City, KS | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb0176a51a4307bcfe74?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb009a63986de7573e09?utm_campaign=1051&utm_source=git)** | Walton, KY | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eafd76a51a4307bcfe72?utm_campaign=1051&utm_source=git)** | Warrensburg, MO | On Site | Oct 18 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f3e4ca76a51a4307bcfe2c?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Oct 18 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Oct 18 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f3d87e9a63986de7573aa5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 18 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68f3d55a76a51a4307bcfa63?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Oct 18 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f3d3ae9a65fd34585886a3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68f3d23776a51a4307bcfa09?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f3cefa9a63986de7573928?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68f3bf4976a51a4307bcf7d9?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Oct 18 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d7894705799a2ef983?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 18 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d3775f383274918612d3?utm_campaign=1051&utm_source=git)** | Ropesville, TX | On Site | Oct 18 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d701c0894705799a2efaec?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 18 |
-| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6ffa445853d0e39ccbcef?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Oct 18 |
-| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fe3e894705799a2ef6e0?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Oct 18 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Columbus)](https://jobright.ai/jobs/info/68bb38575f3832749186d5c7?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 18 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9dc5c6105227d11898692?utm_campaign=1051&utm_source=git)** | Worthing, SD | On Site | Oct 18 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Mid-OH)](https://jobright.ai/jobs/info/68c64f22db52c07d2884707f?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Oct 18 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d4775f3832749186139d?utm_campaign=1051&utm_source=git)** | Colton, SD | On Site | Oct 18 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d6fc8043103d4f21adce?utm_campaign=1051&utm_source=git)** | Bridgewater, SD | On Site | Oct 18 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d6fc8043103d4f21adcf?utm_campaign=1051&utm_source=git)** | Magnolia, MN | On Site | Oct 18 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fde1894705799a2ef640?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Oct 18 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5505f38327491861473?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Oct 18 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d705f3d3fe025a3015e285?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 18 |
-| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d8894705799a2ef985?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Oct 18 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68b9dc3b6105227d1189867a?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Oct 18 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70220894705799a2efb7d?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
