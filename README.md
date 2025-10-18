@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3ed049a65fd3458588bb1?utm_campaign=1051&utm_source=git)** | Hollister, MO | On Site | Oct 18 |
+| **[Professional Photographers of America](https://www.ppa.com)** | **[Membership Intern](https://jobright.ai/jobs/info/68f407979a63986de75742e8?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
+| **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Preconstruction Intern](https://jobright.ai/jobs/info/68f4012c9a63986de7574272?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Oct 18 |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3f8a59a63986de757409c?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3f8499a63986de7574079?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3f81f9a63986de7574069?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3f7229a65fd3458588d71?utm_campaign=1051&utm_source=git)** | Groveport, OH | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3f5519a65fd3458588cfc?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3ed049a65fd3458588bb1?utm_campaign=1051&utm_source=git)** | Hollister, MO | On Site | Oct 18 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3ecc99a65fd3458588b97?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Oct 18 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3ec9e9a65fd3458588b86?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Oct 18 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb669a63986de7573e2c?utm_campaign=1051&utm_source=git)** | Bessemer, AL | On Site | Oct 18 |
@@ -90,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Providence](https://jobright.ai/jobs/info/68bb03018043103d4f224db4?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Oct 18 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0be83d13d1f5b6cba02?utm_campaign=1051&utm_source=git)** | Union Grove, WI | On Site | Oct 18 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689f8cc683d13d1f5b6c97d2?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 18 |
-| **[Citi](https://www.citi.com)** | **[Banking - Capital Markets, Summer Associate, New York (North America – 2026)](https://jobright.ai/jobs/info/68d70b4fd3fe025a3015e6d5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Chicago West](https://jobright.ai/jobs/info/68bb01d25f3832749186b5e5?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Oct 18 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe384faa4e875e828bce6?utm_campaign=1051&utm_source=git)** | King of Prussia, PA | On Site | Oct 18 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07efaa4e875e828bb9f?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Oct 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Individual Retirement Sales Desk](https://jobright.ai/jobs/info/68ef3bf920456578d5eb7601?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Oct 18 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68e21548b99ec3563b0da000?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Oct 18 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ca53755f9f0336447dbd67?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 18 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d81e8043103d4f21aeaf?utm_campaign=1051&utm_source=git)** | Pierre, SD | On Site | Oct 18 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5fc8043103d4f21ace6?utm_campaign=1051&utm_source=git)** | Wausa, NE | On Site | Oct 18 |
-| **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/689f1fde79a9f96662554906?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 18 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d7894705799a2ef983?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 18 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d3775f383274918612d3?utm_campaign=1051&utm_source=git)** | Ropesville, TX | On Site | Oct 18 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d701c0894705799a2efaec?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
