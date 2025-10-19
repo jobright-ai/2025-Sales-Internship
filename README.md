@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Corinth](https://jobright.ai/jobs/info/68f445529a65fd34585894b6?utm_campaign=1051&utm_source=git)** | Corinth, TX | On Site | Oct 18 |
 | **[Dale Carnegie of Tennessee, Georgia, and Central Florida](https://www.dalecarnegie.com/en/locations/nashville)** | **[Sales Intern, Knoxville-based](https://jobright.ai/jobs/info/68f417659a63986de75743d3?utm_campaign=1051&utm_source=git)** | Norcross, GA | Hybrid | Oct 18 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f40df59a63986de7574344?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Professional Photographers of America](https://www.ppa.com)** | **[Membership Intern](https://jobright.ai/jobs/info/68f407979a63986de75742e8?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Sales and Communication Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68b9e5836105227d11898fff?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Oct 18 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68bb88b28043103d4f22972e?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 18 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68ba3b5d5f3832749186554e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Individual Retirement Sales Desk](https://jobright.ai/jobs/info/68ef3bf920456578d5eb7601?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
