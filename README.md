@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jeu de paume](jeudepaume.com)** | **[Fashion Sales Internship Role](https://jobright.ai/jobs/info/68f522ea9a65fd345858d3ff?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/684fa3101b8947024caa2d5c?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 19 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe08883d13d1f5b6cb97d?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc57?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | Oct 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Pricing Deal Work, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/68d71f89d3fe025a3015f0fc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Performance Management](https://jobright.ai/jobs/info/68d7055bd3fe025a3015e1ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
-| **[ABB](https://global.abb/group/en)** | **[Quotations Intern- Summer 2026](https://jobright.ai/jobs/info/68e437be1852e62f00803105?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
