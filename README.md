@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Winter 2026 NYC Buying Intern - Dec 25/May 26 Grads](https://jobright.ai/jobs/info/68e52658b99ec3563b0f06d2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 19 |
+| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/68ca645d46caff4db51fed03?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Oct 19 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Intern - Buying or Planning - New York](https://jobright.ai/jobs/info/689e879c83d13d1f5b6bd61e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 19 |
+| **[TeamViewer](https://www.teamviewer.com)** | **[Bilingual Sales Intern - (Spanish Fluency Required) -Onsite at Office in Clearwater, FL](https://jobright.ai/jobs/info/689f78d783d13d1f5b6c85d5?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Oct 19 |
+| **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68bb80266105227d118a66f6?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Oct 19 |
+| ↳ | **[Intern, Sales](https://jobright.ai/jobs/info/68bb7e7a6105227d118a65b6?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Oct 19 |
+| **[Steelcase](https://www.steelcase.com/)** | **[Consultative Sales Internship Program (Multiple Locations)](https://jobright.ai/jobs/info/68baf3745f3832749186ace5?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 19 |
+| **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Oct 19 |
 | **[WOW Payments](http://wowpayments.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68f48c6e9a63986de7576099?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Nixa](https://jobright.ai/jobs/info/68f44ac19a63986de757489f?utm_campaign=1051&utm_source=git)** | Nixa, MO | On Site | Oct 18 |
 | ↳ | **[Summer Sales Internship Johnstown](https://jobright.ai/jobs/info/68f44ab976a51a4307bd091d?utm_campaign=1051&utm_source=git)** | Johnstown, CO | On Site | Oct 18 |
@@ -93,7 +101,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68f3d23776a51a4307bcfa09?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f3cefa9a63986de7573928?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68f3bf4976a51a4307bcf7d9?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Oct 18 |
-| **[First Stop Dental](firststopdental.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f3bb3e76a51a4307bcf725?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc57?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | Oct 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Pricing Deal Work, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/68d71f89d3fe025a3015f0fc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Performance Management](https://jobright.ai/jobs/info/68d7055bd3fe025a3015e1ab?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ec88141eecd439f43f9924?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Oct 18 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68c63e01db52c07d28845dbd?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Oct 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern](https://jobright.ai/jobs/info/682ce64e811786983641eae1?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Oct 18 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d7585a61a175619f8c94da?utm_campaign=1051&utm_source=git)** | Grand Prairie, TX | On Site | Oct 18 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ba3b625f38327491865553?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Oct 18 |
-| **[UPS](http://www.ups.com)** | **[UPS Sales Summer 2026 Internship](https://jobright.ai/jobs/info/68ba18215f38327491863ed1?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d7590f61a175619f8c9999?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Oct 18 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Fixed Operations Internships](https://jobright.ai/jobs/info/68f391cc9a65fd345858775b?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Oct 18 |
-| **[Elanco](https://www.elanco.com)** | **[Farm Animal Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68b9d05b8043103d4f21aad8?utm_campaign=1051&utm_source=git)** | Field, MN | On Site | Oct 18 |
-| **[Ibotta](https://home.ibotta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d75735295f8e37655d5352?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
