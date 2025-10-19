@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/689e6981faa4e875e827bfe6?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Oct 19 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Outside Sales Internship - Newton, MA](https://jobright.ai/jobs/info/68ad3a9c758f2e4ac300bdf3?utm_campaign=1051&utm_source=git)** | Newton, MA | On Site | Oct 19 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68f0a409a6b9004b5e3222d1?utm_campaign=1051&utm_source=git)** | Columbia, MD | On Site | Oct 19 |
+| **[Norfolk Southern](https://www.nscorp.com)** | **[2026 Spring Account Analyst Intern - Revenue](https://jobright.ai/jobs/info/68e22cf81852e62f007f6c83?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 19 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/684855ab7664b7262f85472a?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Oct 19 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Winter 2026 NYC Buying Intern - Dec 25/May 26 Grads](https://jobright.ai/jobs/info/68e52658b99ec3563b0f06d2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/68ca645d46caff4db51fed03?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Oct 19 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Intern - Buying or Planning - New York](https://jobright.ai/jobs/info/689e879c83d13d1f5b6bd61e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68ccd82d5954791a1d6ff860?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 18 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68cf9dd3fb49c96ca6ea9c4e?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 18 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Orange County](https://jobright.ai/jobs/info/68cb729fba798c1a501cfa6c?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Oct 18 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Global Sales Enablement (Analytics) Intern](https://jobright.ai/jobs/info/68cb87baba798c1a501d12e8?utm_campaign=1051&utm_source=git)** | Skokie, IL | Hybrid | Oct 18 |
-| **[Crest Vale](crestvale.us)** | **[Healthcare Sales Intern – Paid Internship](https://jobright.ai/jobs/info/68f399cd76a51a4307bcee36?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Oct 18 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ec88141eecd439f43f9924?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Oct 18 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68c63e01db52c07d28845dbd?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Oct 18 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Intern](https://jobright.ai/jobs/info/682ce64e811786983641eae1?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
