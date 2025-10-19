@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oklahoma City Zoo and Botanical Garden](https://www.okczoo.org)** | **[Events and Sales Intern - OKC Zoo](https://jobright.ai/jobs/info/68f55dff9a63986de7578ded?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 19 |
+| **[Sudra Analytics](https://sudraanalytics.com/)** | **[Sales & Business Relations Intern](https://jobright.ai/jobs/info/68f5571376a51a4307bd4cb1?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | Oct 19 |
+| **[UFC GYM](http://UFCGYM.com)** | **[UFC Global Partnerships Intern - Spring 2025](https://jobright.ai/jobs/info/68f546589a63986de7578ba6?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 19 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f534c99a63986de75789a5?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 19 |
 | **[Jeu de paume](jeudepaume.com)** | **[Fashion Sales Internship Role](https://jobright.ai/jobs/info/68f522ea9a65fd345858d3ff?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f3d3ae9a65fd34585886a3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68f3d23776a51a4307bcfa09?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f3cefa9a63986de7573928?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[Platinum Coastal Group](https://www.platinumcoastalgroup.com/)** | **[Paid Intern](https://jobright.ai/jobs/info/68f3bf4976a51a4307bcf7d9?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Oct 18 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6e883d13d1f5b6cbc57?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | Oct 18 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Pricing Deal Work, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/68d71f89d3fe025a3015f0fc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
