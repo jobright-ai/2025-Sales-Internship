@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Nixa](https://jobright.ai/jobs/info/68f44ac19a63986de757489f?utm_campaign=1051&utm_source=git)** | Nixa, MO | On Site | Oct 18 |
+| ↳ | **[Summer Sales Internship Johnstown](https://jobright.ai/jobs/info/68f44ab976a51a4307bd091d?utm_campaign=1051&utm_source=git)** | Johnstown, CO | On Site | Oct 18 |
+| ↳ | **[Summer Sales Internship Grandview](https://jobright.ai/jobs/info/68f44a1e9a63986de757485e?utm_campaign=1051&utm_source=git)** | Grandview, MO | On Site | Oct 18 |
+| **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Sales Intern (Summer 2026) - Northern California](https://jobright.ai/jobs/info/68f44a029a63986de7574851?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Oct 18 |
+| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship South Portland](https://jobright.ai/jobs/info/68f4467b76a51a4307bd0846?utm_campaign=1051&utm_source=git)** | South Portland, ME | On Site | Oct 18 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern](https://jobright.ai/jobs/info/68f445c676a51a4307bd0811?utm_campaign=1051&utm_source=git)** | Norwich, CT | On Site | Oct 18 |
+| **[Janji](http://janji.com/)** | **[Retail Growth & Strategy Intern](https://jobright.ai/jobs/info/68f4458a9a63986de7574780?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Oct 18 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Corinth](https://jobright.ai/jobs/info/68f445529a65fd34585894b6?utm_campaign=1051&utm_source=git)** | Corinth, TX | On Site | Oct 18 |
 | **[Dale Carnegie of Tennessee, Georgia, and Central Florida](https://www.dalecarnegie.com/en/locations/nashville)** | **[Sales Intern, Knoxville-based](https://jobright.ai/jobs/info/68f417659a63986de75743d3?utm_campaign=1051&utm_source=git)** | Norcross, GA | Hybrid | Oct 18 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f40df59a63986de7574344?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elanco](https://www.elanco.com)** | **[Farm Animal Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68b9d05b8043103d4f21aad8?utm_campaign=1051&utm_source=git)** | Field, MN | On Site | Oct 18 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d75735295f8e37655d5352?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Oct 18 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Eastern Region)](https://jobright.ai/jobs/info/68f390e176a51a4307bcea97?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Oct 18 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Cleveland)](https://jobright.ai/jobs/info/68bb37cf6105227d118a42ac?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Oct 18 |
-| ↳ | **[Management and Sales Summer Internship 2026 (Toledo)](https://jobright.ai/jobs/info/68bb3b648043103d4f226ebe?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Oct 18 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Sales Internship, Summer 2026](https://jobright.ai/jobs/info/68bb1c126105227d118a306a?utm_campaign=1051&utm_source=git)** | Lowell, AR | On Site | Oct 18 |
-| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Oct 18 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Sales and Communication Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68b9e5836105227d11898fff?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Oct 18 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68bb88b28043103d4f22972e?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 18 |
-| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68ba3b5d5f3832749186554e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
