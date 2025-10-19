@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dale Carnegie of Tennessee, Georgia, and Central Florida](https://www.dalecarnegie.com/en/locations/nashville)** | **[Sales Intern, Knoxville-based](https://jobright.ai/jobs/info/68f417659a63986de75743d3?utm_campaign=1051&utm_source=git)** | Norcross, GA | Hybrid | Oct 18 |
+| **[Fusion100](http://Fusion100co.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f40df59a63986de7574344?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Professional Photographers of America](https://www.ppa.com)** | **[Membership Intern](https://jobright.ai/jobs/info/68f407979a63986de75742e8?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
 | **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Preconstruction Intern](https://jobright.ai/jobs/info/68f4012c9a63986de7574272?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Oct 18 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3f8a59a63986de757409c?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Oct 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68bb88b28043103d4f22972e?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 18 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68ba3b5d5f3832749186554e?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Individual Retirement Sales Desk](https://jobright.ai/jobs/info/68ef3bf920456578d5eb7601?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Oct 18 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68e21548b99ec3563b0da000?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Oct 18 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68ca53755f9f0336447dbd67?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
