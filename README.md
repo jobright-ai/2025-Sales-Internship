@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advaisori](https://www.advaisori.com)** | **[Startup AI Intern - Development & Outreach](https://jobright.ai/jobs/info/68f46e1076a51a4307bd14e1?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Oct 18 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Nixa](https://jobright.ai/jobs/info/68f44ac19a63986de757489f?utm_campaign=1051&utm_source=git)** | Nixa, MO | On Site | Oct 18 |
 | ↳ | **[Summer Sales Internship Johnstown](https://jobright.ai/jobs/info/68f44ab976a51a4307bd091d?utm_campaign=1051&utm_source=git)** | Johnstown, CO | On Site | Oct 18 |
 | ↳ | **[Summer Sales Internship Grandview](https://jobright.ai/jobs/info/68f44a1e9a63986de757485e?utm_campaign=1051&utm_source=git)** | Grandview, MO | On Site | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Fixed Operations Internships](https://jobright.ai/jobs/info/68f391cc9a65fd345858775b?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Oct 18 |
 | **[Elanco](https://www.elanco.com)** | **[Farm Animal Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68b9d05b8043103d4f21aad8?utm_campaign=1051&utm_source=git)** | Field, MN | On Site | Oct 18 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d75735295f8e37655d5352?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Oct 18 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Eastern Region)](https://jobright.ai/jobs/info/68f390e176a51a4307bcea97?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
