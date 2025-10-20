@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cronus Capital Management LLC](www.cronusam.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68f5aa8c76a51a4307bd585f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Oct 19 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/68f5a16d9a63986de7579448?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Oct 19 |
+| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Prior Lake](https://jobright.ai/jobs/info/68f59a819a63986de75793bb?utm_campaign=1051&utm_source=git)** | Prior Lake, MN | On Site | Oct 19 |
+| ↳ | **[Summer Sales Internship Maryland Heights](https://jobright.ai/jobs/info/68f59a3c9a63986de75793af?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Oct 19 |
+| ↳ | **[Summer Sales Internship Duarte](https://jobright.ai/jobs/info/68f599c776a51a4307bd51f6?utm_campaign=1051&utm_source=git)** | Duarte, CA | On Site | Oct 19 |
+| ↳ | **[Summer Sales Internship Hobart](https://jobright.ai/jobs/info/68f5998a76a51a4307bd51de?utm_campaign=1051&utm_source=git)** | Hobart, IN | On Site | Oct 19 |
+| ↳ | **[Summer Sales Internship Acworth](https://jobright.ai/jobs/info/68f5974b9a65fd345858df0f?utm_campaign=1051&utm_source=git)** | Acworth, GA | On Site | Oct 19 |
 | **[Another](joinanother.io)** | **[Business Development MBA Intern](https://jobright.ai/jobs/info/68f5691176a51a4307bd4e2b?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 19 |
 | **[Oklahoma City Zoo and Botanical Garden](https://www.okczoo.org)** | **[Events and Sales Intern - OKC Zoo](https://jobright.ai/jobs/info/68f55dff9a63986de7578ded?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 19 |
 | **[Sudra Analytics](https://sudraanalytics.com/)** | **[Sales & Business Relations Intern](https://jobright.ai/jobs/info/68f5571376a51a4307bd4cb1?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | Oct 19 |
 | **[UFC GYM](http://UFCGYM.com)** | **[UFC Global Partnerships Intern - Spring 2025](https://jobright.ai/jobs/info/68f546589a63986de7578ba6?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 19 |
+| **[NewDay USA](https://newdayusa.com/)** | **[Winter Internship - Credit & Sales (NewDay USA)](https://jobright.ai/jobs/info/68f541d49a63986de7578aed?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Oct 19 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f534c99a63986de75789a5?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 19 |
 | **[Jeu de paume](jeudepaume.com)** | **[Fashion Sales Internship Role](https://jobright.ai/jobs/info/68f522ea9a65fd345858d3ff?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 19 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb2c9a63986de7573e17?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Oct 18 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb0b76a51a4307bcfe77?utm_campaign=1051&utm_source=git)** | Kansas City, KS | On Site | Oct 18 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb0176a51a4307bcfe74?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Oct 18 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb009a63986de7573e09?utm_campaign=1051&utm_source=git)** | Walton, KY | On Site | Oct 18 |
-| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eafd76a51a4307bcfe72?utm_campaign=1051&utm_source=git)** | Warrensburg, MO | On Site | Oct 18 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f3e4ca76a51a4307bcfe2c?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Oct 18 |
-| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Oct 18 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f3d87e9a63986de7573aa5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68f3d55a76a51a4307bcfa63?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Oct 18 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68f3d3ae9a65fd34585886a3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
-| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68f3d23776a51a4307bcfa09?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
