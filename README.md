@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cronus Capital Management LLC](www.cronusam.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68f5aa8c76a51a4307bd585f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Oct 19 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/68f5a16d9a63986de7579448?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Oct 19 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Prior Lake](https://jobright.ai/jobs/info/68f59a819a63986de75793bb?utm_campaign=1051&utm_source=git)** | Prior Lake, MN | On Site | Oct 19 |
 | ↳ | **[Summer Sales Internship Maryland Heights](https://jobright.ai/jobs/info/68f59a3c9a63986de75793af?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Oct 19 |
@@ -68,9 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Oklahoma City Zoo and Botanical Garden](https://www.okczoo.org)** | **[Events and Sales Intern - OKC Zoo](https://jobright.ai/jobs/info/68f55dff9a63986de7578ded?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 19 |
 | **[Sudra Analytics](https://sudraanalytics.com/)** | **[Sales & Business Relations Intern](https://jobright.ai/jobs/info/68f5571376a51a4307bd4cb1?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | Oct 19 |
 | **[UFC GYM](http://UFCGYM.com)** | **[UFC Global Partnerships Intern - Spring 2025](https://jobright.ai/jobs/info/68f546589a63986de7578ba6?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 19 |
-| **[NewDay USA](https://newdayusa.com/)** | **[Winter Internship - Credit & Sales (NewDay USA)](https://jobright.ai/jobs/info/68f541d49a63986de7578aed?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Oct 19 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f534c99a63986de75789a5?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 19 |
-| **[Jeu de paume](jeudepaume.com)** | **[Fashion Sales Internship Role](https://jobright.ai/jobs/info/68f522ea9a65fd345858d3ff?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Development Executive](https://jobright.ai/jobs/info/684fa3101b8947024caa2d5c?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 19 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/689fe08883d13d1f5b6cb97d?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
@@ -131,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Steelcase](https://www.steelcase.com/)** | **[Consultative Sales Internship Program (Multiple Locations)](https://jobright.ai/jobs/info/68baf3745f3832749186ace5?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 19 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Oct 19 |
 | **[WOW Payments](http://wowpayments.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/68f48c6e9a63986de7576099?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 18 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Field Sales Intern - Pacific Region](https://jobright.ai/jobs/info/68c0d5015c5d5f14f46e16fc?utm_campaign=1051&utm_source=git)** | Irvine, CA | Hybrid | Oct 18 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Nixa](https://jobright.ai/jobs/info/68f44ac19a63986de757489f?utm_campaign=1051&utm_source=git)** | Nixa, MO | On Site | Oct 18 |
 | ↳ | **[Summer Sales Internship Johnstown](https://jobright.ai/jobs/info/68f44ab976a51a4307bd091d?utm_campaign=1051&utm_source=git)** | Johnstown, CO | On Site | Oct 18 |
 | ↳ | **[Summer Sales Internship Grandview](https://jobright.ai/jobs/info/68f44a1e9a63986de757485e?utm_campaign=1051&utm_source=git)** | Grandview, MO | On Site | Oct 18 |
@@ -141,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Corinth](https://jobright.ai/jobs/info/68f445529a65fd34585894b6?utm_campaign=1051&utm_source=git)** | Corinth, TX | On Site | Oct 18 |
 | **[Uplane (YC F25)](https://uplane.com)** | **[Founder’s Associate Intern (Business) ; Full-time](https://jobright.ai/jobs/info/68f4e4d99a63986de75780a3?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 18 |
 | **[Dale Carnegie of Tennessee, Georgia, and Central Florida](https://www.dalecarnegie.com/en/locations/nashville)** | **[Sales Intern, Knoxville-based](https://jobright.ai/jobs/info/68f417659a63986de75743d3?utm_campaign=1051&utm_source=git)** | Norcross, GA | Hybrid | Oct 18 |
-| **[Fusion100](http://Fusion100co.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f40df59a63986de7574344?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Professional Photographers of America](https://www.ppa.com)** | **[Membership Intern](https://jobright.ai/jobs/info/68f407979a63986de75742e8?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
 | **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Preconstruction Intern](https://jobright.ai/jobs/info/68f4012c9a63986de7574272?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Oct 18 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3f8a59a63986de757409c?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Oct 18 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb2c9a63986de7573e17?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Oct 18 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb0b76a51a4307bcfe77?utm_campaign=1051&utm_source=git)** | Kansas City, KS | On Site | Oct 18 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb0176a51a4307bcfe74?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eb009a63986de7573e09?utm_campaign=1051&utm_source=git)** | Walton, KY | On Site | Oct 18 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f3eafd76a51a4307bcfe72?utm_campaign=1051&utm_source=git)** | Warrensburg, MO | On Site | Oct 18 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f3e4ca76a51a4307bcfe2c?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
