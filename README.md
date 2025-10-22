@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Hutchins, TX - Summer 2026](https://jobright.ai/jobs/info/68f889666de2db04dc3e028a?utm_campaign=1051&utm_source=git)** | Monroe, LA | On Site | Oct 22 |
+| **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Brokerage Insurance Internship](https://jobright.ai/jobs/info/68f887fa4bafad6d2d763b0f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 22 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**Internal Only** Storekeeper](https://jobright.ai/jobs/info/68f8872c4bafad6d2d763a45?utm_campaign=1051&utm_source=git)** | Topeka Metropolitan Area | On Site | Oct 22 |
+| **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Access Insurance Internship](https://jobright.ai/jobs/info/68f88187a628d10664e83738?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 22 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Subcontract Administrator - Intern](https://jobright.ai/jobs/info/68f88127a628d10664e836ed?utm_campaign=1051&utm_source=git)** | Texas | Hybrid | Oct 22 |
 | **[Vertex Inc.](https://www.vertexinc.com)** | **[Intern - Marketplace Data and Operations](https://jobright.ai/jobs/info/68f868eda628d10664e82992?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 21 |
 | **[Siemens](https://www.siemens.com)** | **[Energy and Sustainability Sales & Project Management Internship](https://jobright.ai/jobs/info/68f867864bafad6d2d7626ea?utm_campaign=1051&utm_source=git)** | Scarborough, ME | Hybrid | Oct 21 |
 | **[Modish.Ai | DBM 3D Transformative Digest](https://modish.ai/)** | **[Procurement internship](https://jobright.ai/jobs/info/68f860f86de2db04dc3de80d?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 21 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f86040a628d10664e82520?utm_campaign=1051&utm_source=git)** | Joliet, IL | On Site | Oct 21 |
 | **[Eurofins BioPharma Product Testing North America](https://www.eurofinsus.com/bpt)** | **[12 Week Onsite Business Development Intern](https://jobright.ai/jobs/info/68f85ffd6de2db04dc3de762?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Oct 21 |
+| **[Siemens](https://www.siemens.com)** | **[Sales Development Program Internship](https://jobright.ai/jobs/info/68f87b216de2db04dc3df932?utm_campaign=1051&utm_source=git)** | Peachtree Corners, GA | On Site | Oct 21 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Spring 2026](https://jobright.ai/jobs/info/68f8590e4bafad6d2d761dfe?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Oct 21 |
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / National Accounts / Dallas, TX](https://jobright.ai/jobs/info/68f0375778ba1621431e3ba2?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 21 |
 | **[Le Alfré](https://www.lealfre.com)** | **[Retail Operations Intern](https://jobright.ai/jobs/info/68f857974bafad6d2d761d43?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Twiddy & Company Realtors](http://twiddy.com)** | **[Owner Services Intern](https://jobright.ai/jobs/info/68f7c86eb0edcf159dc88f85?utm_campaign=1051&utm_source=git)** | Kitty Hawk, NC, US | On Site | Oct 21 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[U.S. Employers - Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f7c855b0edcf159dc88f43?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 21 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/68f7c73fb0edcf159dc88ca3?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 21 |
-| ↳ | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/68f7c7055dc1be601281b20d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 21 |
-| **[Cigna Healthcare](http://www.cigna.com)** | **[U.S. Employers - Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f7c68b5dc1be601281b11e?utm_campaign=1051&utm_source=git)** | Bloomfield, CT | Hybrid | Oct 21 |
-| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68f7c6845dc1be601281b110?utm_campaign=1051&utm_source=git)** | Baltimore, MD | Hybrid | Oct 21 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Client Solutions Internship - New York, Summer 2026 - FACTSET](https://jobright.ai/jobs/info/68f7c65dec6dbe7073fcb449?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 21 |
-| **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f7c36db0edcf159dc8871f?utm_campaign=1051&utm_source=git)** | South Carolina, United States | Remote | Oct 21 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f7c2ef5dc1be601281af1c?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
