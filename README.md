@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/68f8a690a628d10664e84fd9?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Oct 22 |
+| **[Arity](http://www.arity.com)** | **[Arity - Sales Engineer Intern - Arity](https://jobright.ai/jobs/info/68ccfe1d77add66568abd53a?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 22 |
+| ↳ | **[Arity - Customer Success Implementation Engineer Intern - Arity](https://jobright.ai/jobs/info/68c8ddabf9c6ff7aedf13718?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 22 |
+| **[Veeam Software](http://www.veeam.com)** | **[Customer Success Intern - Summer 2026](https://jobright.ai/jobs/info/68c54a44c96a22563ece8419?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Oct 22 |
+| **[EVEREVE](http://www.evereve.com/)** | **[Store Intern [Part Time]-2nd and PCH-Long Beach, CA](https://jobright.ai/jobs/info/68f8a3006de2db04dc3e11fa?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Oct 22 |
+| **[UFC Brasil](http://ufc.com.br)** | **[UFC Global Partnerships Intern - Spring 2026](https://jobright.ai/jobs/info/68f89cef4bafad6d2d764709?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Oct 22 |
+| **[Steinway & Sons](https://www.steinway.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/68f89b3a6de2db04dc3e0c50?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Hutchins, TX - Summer 2026](https://jobright.ai/jobs/info/68f889666de2db04dc3e028a?utm_campaign=1051&utm_source=git)** | Monroe, LA | On Site | Oct 22 |
 | **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Brokerage Insurance Internship](https://jobright.ai/jobs/info/68f887fa4bafad6d2d763b0f?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 22 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**Internal Only** Storekeeper](https://jobright.ai/jobs/info/68f8872c4bafad6d2d763a45?utm_campaign=1051&utm_source=git)** | Topeka Metropolitan Area | On Site | Oct 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/68f7cfc1b0edcf159dc89975?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Oct 21 |
 | **[Trinity Logistics](https://trinitylogistics.com/)** | **[Sales/Operations Internship (UCF Summer 2026)](https://jobright.ai/jobs/info/68c6532c7d0db41142738772?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Oct 21 |
 | **[Steinway & Sons](https://www.steinway.com)** | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/68f7ec32ec6dbe7073fce8dc?utm_campaign=1051&utm_source=git)** | Astoria Location | On Site | Oct 21 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/68f7cbc7b0edcf159dc893e5?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Oct 21 |
-| **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68f7cb835dc1be601281bc33?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Oct 21 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Program Specialist - Emma Sheehan (Intern Conversion)](https://jobright.ai/jobs/info/68f7e8375dc1be601281e13a?utm_campaign=1051&utm_source=git)** | Framingham, MA 01701 | On Site | Oct 21 |
-| **[AIFP](https://www.lumber.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68f862db6de2db04dc3de93e?utm_campaign=1051&utm_source=git)** | Tigard, OR | On Site | Oct 21 |
-| **[Twiddy & Company Realtors](http://twiddy.com)** | **[Owner Services Intern](https://jobright.ai/jobs/info/68f7c86eb0edcf159dc88f85?utm_campaign=1051&utm_source=git)** | Kitty Hawk, NC, US | On Site | Oct 21 |
-| **[Cigna Healthcare](http://www.cigna.com)** | **[U.S. Employers - Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f7c855b0edcf159dc88f43?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 21 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/68f7c73fb0edcf159dc88ca3?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
