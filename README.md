@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T Intern Wholesale](https://jobright.ai/jobs/info/68f830a25dc1be6012821a1d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 21 |
+| **[Neon](https://neon.tech)** | **[NEON International Sales & Distribution Intern - Spring 2026](https://jobright.ai/jobs/info/68f83031b0edcf159dc8f38b?utm_campaign=1051&utm_source=git)** | Los Angeles, California, United States | On Site | Oct 21 |
+| **[Ultimate Fighting Championship](http://UFC.com)** | **[UFC Global Partnerships Intern - Spring 2026](https://jobright.ai/jobs/info/68f82b55ec6dbe7073fd198e?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Oct 21 |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Account Management Intern](https://jobright.ai/jobs/info/68d3527e17554c2d9eeefd30?utm_campaign=1051&utm_source=git)** | Shakopee, MN | On Site | Oct 21 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Inside Sales](https://jobright.ai/jobs/info/68f8236bb0edcf159dc8ed6f?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Oct 21 |
+| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Agency - Agricultural Insurance Intern](https://jobright.ai/jobs/info/68f81f76b0edcf159dc8ecaa?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Oct 21 |
+| **[Vertex Inc.](https://www.vertexinc.com)** | **[Intern - Marketplace Data and Operations](https://jobright.ai/jobs/info/68f81efbec6dbe7073fd1596?utm_campaign=1051&utm_source=git)** | Remote - PA | Remote | Oct 21 |
 | **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Internship - Summer (Orange County/Inland Empire)](https://jobright.ai/jobs/info/68f81b8b5dc1be6012821112?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Oct 21 |
 | **[Fintech](https://www.fintech.com/)** | **[Distributor Sales Specialist Intern](https://jobright.ai/jobs/info/68f81862ec6dbe7073fd127c?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Oct 21 |
 | **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/68e44e98f758fe1f97e66df4?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Oct 21 |
@@ -86,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f7faa85dc1be601281f6b9?utm_campaign=1051&utm_source=git)** | Pleasant Hill, CA | Hybrid | Oct 21 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68f7fa69ec6dbe7073fcf7ba?utm_campaign=1051&utm_source=git)** | South Jordan, UT | Hybrid | Oct 21 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - Jackson, MS/New Orleans, LA (Starting Summer 2026)](https://jobright.ai/jobs/info/68f7f19c5dc1be601281ebd9?utm_campaign=1051&utm_source=git)** | Jackson, MS | Hybrid | Oct 21 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[Software Sales Development Summer Intern](https://jobright.ai/jobs/info/68f7f167ec6dbe7073fcedfd?utm_campaign=1051&utm_source=git)** | Santa Rosa, California | On Site | Oct 21 |
 | **[Target River](https://www.targetriver.com)** | **[Professional Sales Intern](https://jobright.ai/jobs/info/68f7f1495dc1be601281eb7c?utm_campaign=1051&utm_source=git)** | Utah, United States | Remote | Oct 21 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[Software Sales Development Summer Intern](https://jobright.ai/jobs/info/68f7f0bbec6dbe7073fcecb1?utm_campaign=1051&utm_source=git)** | Santa Rosa, California | On Site | Oct 21 |
 | **[INTERSTATE REALTY MANAGEMENT CO](https://www.linkedin.com/company/9525868)** | **[Intern - Acquisitions](https://jobright.ai/jobs/info/68f7ed3fec6dbe7073fce9bf?utm_campaign=1051&utm_source=git)** | US-NJ-Camden | On Site | Oct 21 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Agency - Agricultural Insurance Intern](https://jobright.ai/jobs/info/68f7ed37b0edcf159dc8c090?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Oct 21 |
 | **[REI](https://www.rei.com/)** | **[0145 - Greenville SC - Seasonal](https://jobright.ai/jobs/info/68f7ecd5ec6dbe7073fce961?utm_campaign=1051&utm_source=git)** | Greenville, South Carolina | On Site | Oct 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable Advisors](https://equitable.com/about-us/careers/equitable-advisors)** | **[Financial Sales Professional Assistant Intern](https://jobright.ai/jobs/info/68f7b0c25dc1be6012819163?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 21 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68f7b0b4b0edcf159dc86a0a?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Oct 21 |
 | ↳ | **[Underwriting Intern](https://jobright.ai/jobs/info/68d3108df0d9af73038debf5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 21 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68cd1046b2a74e1837ed1927?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 21 |
-| ↳ | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/68cc297a7342c7623ae602d9?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 21 |
-| ↳ | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68cda41ee23def7af55bd18b?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Oct 21 |
-| ↳ | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/68cc83a87342c7623ae65fa1?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Oct 21 |
-| ↳ | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/68ccd7ca77add66568aba257?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Oct 21 |
-| **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Store Development](https://jobright.ai/jobs/info/68bea1e33d31ec76b7e8b26d?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Oct 21 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Richmond (North) VA](https://jobright.ai/jobs/info/68daff9a0dffed6f83d2bc05?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
