@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern -Sales Strategy](https://jobright.ai/jobs/info/68f984f86de2db04dc3e9ccb?utm_campaign=1051&utm_source=git)** | DALLAS, Texas, United States | On Site | Oct 22 |
+| **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Sales Internship](https://jobright.ai/jobs/info/68f97ed0a628d10664e8d5c2?utm_campaign=1051&utm_source=git)** | Springfield, OH | On Site | Oct 22 |
+| **[CRH](http://crh.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f97e736de2db04dc3e9857?utm_campaign=1051&utm_source=git)** | Newington, CT | On Site | Oct 22 |
+| **[Capital Farm Credit](https://www.capitalfarmcredit.com/)** | **[Internship - Crop Insurance Services](https://jobright.ai/jobs/info/68e93e229020b95add6a51bc?utm_campaign=1051&utm_source=git)** | Lubbock, Texas | On Site | Oct 22 |
+| **[CRH](http://crh.com)** | **[PM/Estimating Intern](https://jobright.ai/jobs/info/68f97cdacadb2e5a06a6524c?utm_campaign=1051&utm_source=git)** | New Britain, CT | On Site | Oct 22 |
+| **[CBRE](https://www.cbre.com)** | **[2026 Sales/Brokerage Intern - Summer (Bay Area)](https://jobright.ai/jobs/info/68f970a4a628d10664e8d010?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Oct 22 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68f9679f6de2db04dc3e9023?utm_campaign=1051&utm_source=git)** | Springfield, OH | On Site | Oct 22 |
 | **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Norcross, GA](https://jobright.ai/jobs/info/68e44fe2f758fe1f97e66fee?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Oct 22 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Divisional Internship](https://jobright.ai/jobs/info/68f96614cadb2e5a06a649f3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 22 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Corporate Business Development](https://jobright.ai/jobs/info/68f964b86de2db04dc3e8f1f?utm_campaign=1051&utm_source=git)** | South San Francisco | On Site | Oct 22 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/68f95fe8a628d10664e8c864?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Oct 22 |
+| **[Aptiv](http://www.aptiv.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f95cbda628d10664e8c7a8?utm_campaign=1051&utm_source=git)** | Troy, MI - USA | On Site | Oct 22 |
 | **[Threddle](https://threddle.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68f95bada628d10664e8c6dd?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 22 |
-| **[Aptiv](http://www.aptiv.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f95babcadb2e5a06a6453f?utm_campaign=1051&utm_source=git)** | Troy, MI - USA | On Site | Oct 22 |
 | **[Huse Culinary](http://www.huseculinary.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/68f9584ecadb2e5a06a642b7?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 22 |
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Sales / Dallas, TX](https://jobright.ai/jobs/info/68f02f8a9821486c423ca10c?utm_campaign=1051&utm_source=git)** | Farmers Branch, TX | On Site | Oct 22 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Part-Time Sales Intern (Spring 2026)](https://jobright.ai/jobs/info/68f951e7a628d10664e8bf45?utm_campaign=1051&utm_source=git)** | Lewisville, TX | On Site | Oct 22 |
@@ -139,22 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Commercial Sales Intern, West Region – Summer 2026](https://jobright.ai/jobs/info/68bf69175c5d5f14f46d6ad1?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 22 |
 | **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/68a3d2b91ab5f8579e8a8b13?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 22 |
 | **[Kenvue](https://www.kenvue.com)** | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68c0a5628e65e77df55c36ba?utm_campaign=1051&utm_source=git)** | Cumberland, RI | Hybrid | Oct 22 |
-| **[Cronus Capital Management LLC](www.cronusam.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68f8e86c4bafad6d2d766140?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Oct 22 |
-| **[Kenvue](https://www.kenvue.com)** | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68ccf00777add66568abc46a?utm_campaign=1051&utm_source=git)** | Summit, NJ | Hybrid | Oct 22 |
+| ↳ | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68ccf00777add66568abc46a?utm_campaign=1051&utm_source=git)** | Summit, NJ | Hybrid | Oct 22 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68cecad6dbd9fb154ede2ce9?utm_campaign=1051&utm_source=git)** | San Fernando, CA | Remote | Oct 22 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68bf74b0702aa35207aa67c2?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Oct 22 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Food Science Technical Sales Account Representative Intern](https://jobright.ai/jobs/info/68bf26248e65e77df55b766e?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Spring](https://jobright.ai/jobs/info/68b505b91ade4306aa63f053?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Oct 22 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Fort Wayne, IN](https://jobright.ai/jobs/info/68e73edcae2b894b1d722bbf?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Oct 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Spring](https://jobright.ai/jobs/info/68a3af311ab5f8579e8a77a6?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Oct 22 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68a3d47a403ad4363b1c422c?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Oct 22 |
 | ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68cd7120b2a74e1837ed7083?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Oct 22 |
 | **[Kenvue](https://www.kenvue.com)** | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68c09ab95c5d5f14f46dfa38?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 22 |
 | **[Greystone](https://www.greystone.com)** | **[Summer 2026: Agency Lending Internship](https://jobright.ai/jobs/info/68c090b45c5d5f14f46df3a9?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68c0e8175c5d5f14f46e2282?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Oct 22 |
 | **[Elanco](https://www.elanco.com)** | **[Veterinary Student Internship- Beef Cattle (Summer 2026)](https://jobright.ai/jobs/info/68c8ffe1983e6768bc555154?utm_campaign=1051&utm_source=git)** | Field, MN | On Site | Oct 22 |
-| **[Verkada](https://www.verkada.com)** | **[Sales Development Representative, Internship](https://jobright.ai/jobs/info/68c082098e65e77df55c1eab?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Oct 22 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68dc6744accfd24b67e55230?utm_campaign=1051&utm_source=git)** | San Marcos, TX | On Site | Oct 22 |
-| **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/68a3c3461ab5f8579e8a8135?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Oct 22 |
-| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/68a3ca5137d3cc6b0d5798b6?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Oct 22 |
-| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Treasury Management intern](https://jobright.ai/jobs/info/68f8ddf34bafad6d2d765e9c?utm_campaign=1051&utm_source=git)** | Irvine, CA | Remote | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
