@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bernhard](https://bernhard.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f9dc078a7359609b8c6f8a?utm_campaign=1051&utm_source=git)** | US-UT-Salt Lake City | On Site | Oct 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Business Development & Incubation Manager Project Intern(E-Commerce Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68f9c72dcadb2e5a06a67a9a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
+| **[Greystar](https://www.stoneridgemp.com)** | **[Finance & Data Analytics Intern](https://jobright.ai/jobs/info/68f9c5cecadb2e5a06a67a2e?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Oct 22 |
 | **[LumoraX](lumorax.us)** | **[Sales Internship](https://jobright.ai/jobs/info/68f9abf26de2db04dc3eb1a9?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Oct 22 |
 | **[TalentSphere Global](talentsphereglobal.us)** | **[Sales Intern](https://jobright.ai/jobs/info/68f9a693cadb2e5a06a66a4c?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Remote | Oct 22 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68f9a28d6de2db04dc3ead09?utm_campaign=1051&utm_source=git)** | Tampa, FL | Hybrid | Oct 22 |
@@ -64,9 +67,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Bloomingdale](https://jobright.ai/jobs/info/68f99ba16de2db04dc3ea887?utm_campaign=1051&utm_source=git)** | Bloomingdale, IL | On Site | Oct 22 |
 | ↳ | **[Summer Sales Internship Dyersburg](https://jobright.ai/jobs/info/68f99949cadb2e5a06a6622c?utm_campaign=1051&utm_source=git)** | Dyersburg, TN | On Site | Oct 22 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Corporate Business Development](https://jobright.ai/jobs/info/68f9939ba628d10664e8e088?utm_campaign=1051&utm_source=git)** | South San Francisco, CA | On Site | Oct 22 |
-| **[Aptiv](http://www.aptiv.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f993696de2db04dc3ea367?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Oct 22 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Lewistown](https://jobright.ai/jobs/info/68f99367a628d10664e8e05c?utm_campaign=1051&utm_source=git)** | Lewistown, PA | On Site | Oct 22 |
 | ↳ | **[Summer Sales Internship Paragould](https://jobright.ai/jobs/info/68f991b96de2db04dc3ea25b?utm_campaign=1051&utm_source=git)** | Paragould, AR | On Site | Oct 22 |
+| **[Aptiv](http://www.aptiv.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f9911aa628d10664e8decd?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Oct 22 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Customer Service Sales Internship](https://jobright.ai/jobs/info/68f98c2ca628d10664e8dc25?utm_campaign=1051&utm_source=git)** | Dubuque, IA | Hybrid | Oct 22 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern -Sales Strategy](https://jobright.ai/jobs/info/68f984f86de2db04dc3e9ccb?utm_campaign=1051&utm_source=git)** | DALLAS, Texas, United States | On Site | Oct 22 |
 | **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Sales Internship](https://jobright.ai/jobs/info/68f97ed0a628d10664e8d5c2?utm_campaign=1051&utm_source=git)** | Springfield, OH | On Site | Oct 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Commercial Sales Intern, West Region – Summer 2026](https://jobright.ai/jobs/info/68bf69175c5d5f14f46d6ad1?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 22 |
 | **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/68a3d2b91ab5f8579e8a8b13?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 22 |
 | **[Kenvue](https://www.kenvue.com)** | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68c0a5628e65e77df55c36ba?utm_campaign=1051&utm_source=git)** | Cumberland, RI | Hybrid | Oct 22 |
-| ↳ | **[2026 - Customer Development Summer Intern](https://jobright.ai/jobs/info/68ccf00777add66568abc46a?utm_campaign=1051&utm_source=git)** | Summit, NJ | Hybrid | Oct 22 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68cecad6dbd9fb154ede2ce9?utm_campaign=1051&utm_source=git)** | San Fernando, CA | Remote | Oct 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Spring](https://jobright.ai/jobs/info/68b52762bc187f64e1be584f?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
