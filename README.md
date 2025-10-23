@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gordon Food Service](https://www.gfs.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68f9679f6de2db04dc3e9023?utm_campaign=1051&utm_source=git)** | Springfield, OH | On Site | Oct 22 |
+| **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Norcross, GA](https://jobright.ai/jobs/info/68e44fe2f758fe1f97e66fee?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Oct 22 |
+| **[Gordon Food Service](https://www.gfs.com)** | **[Divisional Internship](https://jobright.ai/jobs/info/68f96614cadb2e5a06a649f3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 22 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Corporate Business Development](https://jobright.ai/jobs/info/68f964b86de2db04dc3e8f1f?utm_campaign=1051&utm_source=git)** | South San Francisco | On Site | Oct 22 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/68f95fe8a628d10664e8c864?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Oct 22 |
+| **[Threddle](https://threddle.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68f95bada628d10664e8c6dd?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 22 |
+| **[Aptiv](http://www.aptiv.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f95babcadb2e5a06a6453f?utm_campaign=1051&utm_source=git)** | Troy, MI - USA | On Site | Oct 22 |
+| **[Huse Culinary](http://www.huseculinary.com)** | **[Retail Sales Intern](https://jobright.ai/jobs/info/68f9584ecadb2e5a06a642b7?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 22 |
+| **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Sales / Dallas, TX](https://jobright.ai/jobs/info/68f02f8a9821486c423ca10c?utm_campaign=1051&utm_source=git)** | Farmers Branch, TX | On Site | Oct 22 |
+| **[RR Donnelley](http://www.rrd.com)** | **[Part-Time Sales Intern (Spring 2026)](https://jobright.ai/jobs/info/68f951e7a628d10664e8bf45?utm_campaign=1051&utm_source=git)** | Lewisville, TX | On Site | Oct 22 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68f951d9a628d10664e8bf31?utm_campaign=1051&utm_source=git)** | CS-Bryan Area | On Site | Oct 22 |
+| **[Alliance of Community Health Plans (ACHP)](http://www.achp.org)** | **[Membership and Operations Intern](https://jobright.ai/jobs/info/68f95140a628d10664e8be97?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Oct 22 |
 | **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Internship - Business Development](https://jobright.ai/jobs/info/68dc563ba125e75c4229fcc9?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 22 |
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Sales / St. Louis, MO](https://jobright.ai/jobs/info/68f037c69821486c423caaa8?utm_campaign=1051&utm_source=git)** | St Charles, MO | On Site | Oct 22 |
 | **[HP](http://www.hp.com)** | **[Year-round Inside Sales Intern](https://jobright.ai/jobs/info/68f5cc3a76a51a4307bd620e?utm_campaign=1051&utm_source=git)** | Rio Rancho, NM | Hybrid | Oct 22 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/68a3c3461ab5f8579e8a8135?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Oct 22 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/68a3ca5137d3cc6b0d5798b6?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Oct 22 |
 | **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Treasury Management intern](https://jobright.ai/jobs/info/68f8ddf34bafad6d2d765e9c?utm_campaign=1051&utm_source=git)** | Irvine, CA | Remote | Oct 22 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Technical Sales Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68dc4adea125e75c4229f3fc?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Oct 22 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Sales Technology (AI Innovation) Intern](https://jobright.ai/jobs/info/68ce4a8cdbd9fb154edddc1a?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Oct 22 |
-| **[Greystone](https://www.greystone.com)** | **[Summer 2026: Healthcare Lending Internship](https://jobright.ai/jobs/info/68c26b054d652f0447760749?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Sales Intern](https://jobright.ai/jobs/info/68bf7b5c702aa35207aa69c7?utm_campaign=1051&utm_source=git)** | Northbrook, IL | Remote | Oct 22 |
-| **[Greystone](https://www.greystone.com)** | **[Summer 2026: Agency Lending Internship](https://jobright.ai/jobs/info/68c08eb38e65e77df55c2975?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Oct 22 |
-| **[Scoular](http://www.scoular.com/)** | **[Commodity Merchandising Intern - Summer 2026](https://jobright.ai/jobs/info/68d09a02846f0b04af688d57?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Oct 22 |
-| **[DRB Homes](http://danryanbuilders.com)** | **[Intern](https://jobright.ai/jobs/info/68dc5b4addc10244dd6748c6?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Oct 22 |
-| **[GOOD AMERICAN](https://www.goodamerican.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/68c0d94d702aa35207ab1239?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
-| **[Unum](http://www.unum.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c067535c5d5f14f46dd6c7?utm_campaign=1051&utm_source=git)** | Portland, ME | Hybrid | Oct 22 |
-| **[Per Scholas](http://www.perscholas.org/)** | **[Events & Business Development Support Intern](https://jobright.ai/jobs/info/68dc38de731a8047320679fc?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 22 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Near Shore Diversification Buyer Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/68c08a1d8e65e77df55c2541?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Oct 22 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Development Intern - Summer 2026 - Phoenix Regional Office](https://jobright.ai/jobs/info/68a36fc237d3cc6b0d576c6e?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
