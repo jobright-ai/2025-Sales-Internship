@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68f6b8b69a63986de758198a?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Oct 23 |
+| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/68f2be6c9a63986de756bc34?utm_campaign=1051&utm_source=git)** | Oak Park Heights, MN | On Site | Oct 23 |
+| **[Salam Consulting](www.salam-consulting.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68fafae19e8e925ac6c88172?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Oct 23 |
+| **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Remarketing (Spring 2026)](https://jobright.ai/jobs/info/68faf8ad3c99cc1d96027f97?utm_campaign=1051&utm_source=git)** | Shippensburg, PA | On Site | Oct 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[2026 Spring Technical Sales Intern (HOU)](https://jobright.ai/jobs/info/686896ea35584b65426d7518?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 23 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Franchise Sales and Systems Intern](https://jobright.ai/jobs/info/68faf0263c99cc1d96027abd?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 23 |
 | **[Artera](https://artera.io)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68faf01c9e8e925ac6c87a56?utm_campaign=1051&utm_source=git)** | Santa Barbara, CA | On Site | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[CRM Summer Intern](https://jobright.ai/jobs/info/68a4b9d4541cc3479840d4c9?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Oct 23 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/68fa6d1b67272b29af72f217?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 23 |
 | **[Shamrock Trading Corporation](https://www.shamrocktradingcorp.com/)** | **[Carrier Sales Intern- Ryan Transportation](https://jobright.ai/jobs/info/68dd3b75ddc10244dd67d6c2?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) McClellan, CA](https://jobright.ai/jobs/info/68cd10481ad6b16f028942d4?utm_campaign=1051&utm_source=git)** | McClellan Park, CA | On Site | Oct 23 |
-| **[Ecolab](http://www.ecolab.com)** | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/68a3c8641ab5f8579e8a8261?utm_campaign=1051&utm_source=git)** | Brunswick, ME | Hybrid | Oct 23 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Detroit](https://jobright.ai/jobs/info/68cdb254b2a74e1837edb35f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Oct 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Spring](https://jobright.ai/jobs/info/68b52725bc187f64e1be5752?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
