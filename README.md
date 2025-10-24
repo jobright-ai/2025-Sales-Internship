@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hydrite](http://www.hydrite.com)** | **[Food Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68fab97767272b29af7330c3?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 23 |
+| **[Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org/)** | **[Intern, Business Development](https://jobright.ai/jobs/info/68fab6b667272b29af732ed7?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 23 |
+| **[Hydrite](http://www.hydrite.com)** | **[Food Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68fab5d3b2c86843bf211548?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
+| ↳ | **[Food Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68fab5b9b2c86843bf21152a?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Oct 23 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 371](https://jobright.ai/jobs/info/68fab57fedd1901442390274?utm_campaign=1051&utm_source=git)** | 8555 W Sahara Ave, Las Vegas, NV, 89117, US | On Site | Oct 23 |
+| **[Hydrite](http://www.hydrite.com)** | **[Food Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68fab227b2c86843bf21120a?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Oct 23 |
+| ↳ | **[Food Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68fab0b8b2c86843bf2110ee?utm_campaign=1051&utm_source=git)** | Akron, OH | Hybrid | Oct 23 |
+| **[Highgate](https://www.highgate.com)** | **[Intern - Sales & Marketing](https://jobright.ai/jobs/info/68fab054edd190144238ffcc?utm_campaign=1051&utm_source=git)** | Princeton, NJ | On Site | Oct 23 |
+| **[WPHL-TV](https://www.phl17.com)** | **[Sales Department Spring Semester Intern](https://jobright.ai/jobs/info/68faabb0edd190144238fc25?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 23 |
+| **[GenAIx](https://genaix.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/68faaaa2edd190144238fb86?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 23 |
+| **[HP](http://www.hp.com)** | **[Year-round Inside Sales Intern](https://jobright.ai/jobs/info/68faa8fcb2c86843bf210c5e?utm_campaign=1051&utm_source=git)** | Rio Rancho, NM | Hybrid | Oct 23 |
+| **[Unifi](https://www.unifiservice.com/)** | **[Sales Development Internship Program](https://jobright.ai/jobs/info/68faa410edd190144238f735?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Oct 23 |
+| **[Inmar Intelligence](http://www.inmar.com)** | **[Field Sales Operations Intern, Healthcare, Summer 2026](https://jobright.ai/jobs/info/68faa409edd190144238f728?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Oct 23 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Sales Department Spring Semester Intern](https://jobright.ai/jobs/info/68faa318b2c86843bf210892?utm_campaign=1051&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Oct 23 |
 | **[Metro Housing|Boston](https://www.metrohousingboston.org)** | **[Intern](https://jobright.ai/jobs/info/68fa9e15b2c86843bf210465?utm_campaign=1051&utm_source=git)** | Boston, MA, US | On Site | Oct 23 |
 | **[Jeu de paume](jeudepaume.com)** | **[Sales Intern – Fashion & Apparel](https://jobright.ai/jobs/info/68fa9dba67272b29af731e74?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68fa99eb67272b29af731aa6?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Oct 23 |
@@ -112,11 +126,11 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Detroit](https://jobright.ai/jobs/info/68cdb254b2a74e1837edb35f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Oct 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Spring](https://jobright.ai/jobs/info/68b52725bc187f64e1be5752?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Oct 23 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern – Sales](https://jobright.ai/jobs/info/68cb817cba798c1a501d0b37?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Private Banking](https://jobright.ai/jobs/info/68fa43cf7959161d33e6134a?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Naperville, IL](https://jobright.ai/jobs/info/68e4c38bb99ec3563b0eda18?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Oct 23 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - DC](https://jobright.ai/jobs/info/68cd8d8de23def7af55bbb93?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Oct 23 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group](https://jobright.ai/jobs/info/68f94d4bcadb2e5a06a639e8?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Oct 23 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Nashville](https://jobright.ai/jobs/info/68cd3bd0e23def7af55b71db?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 23 |
-| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Private Banking](https://jobright.ai/jobs/info/68fa42b8edd190144238a34a?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Lynnwood](https://jobright.ai/jobs/info/68ddd992e967857477ae61f8?utm_campaign=1051&utm_source=git)** | Lynnwood, WA | On Site | Oct 23 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8c70ddc10244dd680b61?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Oct 23 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8b1044d32141e0bf7ce5?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Oct 23 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Bothell](https://jobright.ai/jobs/info/68ddda07ddc10244dd6841c8?utm_campaign=1051&utm_source=git)** | Bothell, WA | On Site | Oct 23 |
 | ↳ | **[Spring 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/68ddd9a2e967857477ae6210?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Oct 23 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68c1efde63b706703e110642?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Oct 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Oct 23 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Bremerton](https://jobright.ai/jobs/info/68ddda7b44d32141e0bfb3c5?utm_campaign=1051&utm_source=git)** | Port Orchard, WA | On Site | Oct 23 |
-| ↳ | **[Spring 2026 Management Trainee Sales Internship - Fairbanks](https://jobright.ai/jobs/info/68dddd03e967857477ae6230?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Oct 23 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Baltimore](https://jobright.ai/jobs/info/68c1f28133864f172f9bbfa4?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Oct 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8ccc44d32141e0bf80d4?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Oct 23 |
-| ↳ | **[Spring 2026 Management Trainee Sales Internship - Tacoma](https://jobright.ai/jobs/info/68dddd64a125e75c422af704?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Oct 23 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Pittsburgh](https://jobright.ai/jobs/info/68c1ee1a33864f172f9bba55?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Oct 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/68ddddb844d32141e0bfb4d2?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Oct 23 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8b5ba125e75c422abf45?utm_campaign=1051&utm_source=git)** | Oxford, MS | On Site | Oct 23 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Auburn](https://jobright.ai/jobs/info/68ddda2bd624072d9ab04dd1?utm_campaign=1051&utm_source=git)** | Auburn, WA | On Site | Oct 23 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Parkland](https://jobright.ai/jobs/info/68ddda2ca125e75c422af60f?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Oct 23 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - St. Louis](https://jobright.ai/jobs/info/68c1f1a663b706703e1108b9?utm_campaign=1051&utm_source=git)** | Clayton, MO | On Site | Oct 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8aa8a125e75c422abdad?utm_campaign=1051&utm_source=git)** | Anniston, AL | On Site | Oct 23 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Sales Intern (Year-Round)](https://jobright.ai/jobs/info/68de53fa44d32141e0bff7fc?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
