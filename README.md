@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2343f33864f172f9bdc18?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | Hybrid | Oct 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Business Development & Incubation Intern (TikTok Shop - US Operation) - 2025 Project Intern (MBA)](https://jobright.ai/jobs/info/68a829b5d627244576e31c37?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
+| ↳ | **[Seller Account Operations Project Intern (TikTok Shop - US Operation) - 2025 start (BS/MS)](https://jobright.ai/jobs/info/68cf6411846f0b04af681cd9?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
+| **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/68fb4e0cf55bb021a8899280?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Oct 24 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/68df25b46be63b6ec996cab1?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Oct 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cd3b8fe23def7af55b7186?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
 | **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68fb45653c99cc1d9602a3f0?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 24 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68fb3580e154835f11efaa27?utm_campaign=1051&utm_source=git)** | Texas City, TX | On Site | Oct 24 |
@@ -137,13 +142,14 @@ For a complete list, click the following sortable link below:
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Export Intern](https://jobright.ai/jobs/info/68faceec3c99cc1d96026612?utm_campaign=1051&utm_source=git)** | New York,NY,US | On Site | Oct 23 |
 | **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR](https://jobright.ai/jobs/info/68fa6cc067272b29af72f1d0?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Oct 23 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Guardian Summer Intern - Sales Trainee](https://jobright.ai/jobs/info/68fa64f77959161d33e62d84?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Oct 23 |
+| **[Formlabs](http://www.formlabs.com)** | **[Go-to-Market MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/68fa60c7edd190144238bab7?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Oct 23 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Field Sales Operations Intern, Healthcare, Summer 2026](https://jobright.ai/jobs/info/68fa5f7b67272b29af72e5e4?utm_campaign=1051&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Oct 23 |
 | **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR](https://jobright.ai/jobs/info/68fa5f4eedd190144238b8f8?utm_campaign=1051&utm_source=git)** | Washougal, WA | On Site | Oct 23 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c1c9693fd8b059a20f253c?utm_campaign=1051&utm_source=git)** | Highland Heights, OH | On Site | Oct 23 |
 | **[SWBC](https://www.swbc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd8beea125e75c422ac0aa?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Oct 23 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68fa5645edd190144238b1f8?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | Hybrid | Oct 23 |
 | ↳ | **[Underwriting Intern](https://jobright.ai/jobs/info/68fa737c67272b29af72f5ac?utm_campaign=1051&utm_source=git)** | Ruston, LA | On Site | Oct 23 |
-| **[The Higher Ed Plug](https://www.linkedin.com/company/90424660)** | **[Booking Agent  / Commission Sales / Social Media Intern](https://jobright.ai/jobs/info/68fa5450edd190144238affe?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 23 |
+| **[The Higher Ed Plug](www.thehigheredplug.com)** | **[Booking Agent  / Commission Sales / Social Media Intern](https://jobright.ai/jobs/info/68fa5450edd190144238affe?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 23 |
 | **[MathWorks](http://www.mathworks.com)** | **[Inside Sales Summer Intern](https://jobright.ai/jobs/info/68fa4fc1edd190144238ab62?utm_campaign=1051&utm_source=git)** | Natick, MA | Hybrid | Oct 23 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Digital Underwriting Intern](https://jobright.ai/jobs/info/68fa4e907959161d33e61a48?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | On Site | Oct 23 |
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/68dd8b48ddc10244dd680876?utm_campaign=1051&utm_source=git)** | Lakeville, MA | Hybrid | Oct 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Richmond](https://jobright.ai/jobs/info/68c1eb694d652f044775ba5e?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Oct 23 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Ohio](https://jobright.ai/jobs/info/68c1edf84d652f044775bca1?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Oct 23 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Taylor, MI](https://jobright.ai/jobs/info/68dd5291ddc10244dd67e4e4?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Oct 23 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/68fa68757959161d33e63060?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 23 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Bay Area](https://jobright.ai/jobs/info/68c1f03c33864f172f9bbc80?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern – Business Insurance](https://jobright.ai/jobs/info/68c22f1633864f172f9bdafd?utm_campaign=1051&utm_source=git)** | Brookfield, WI | Hybrid | Oct 23 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Chicago](https://jobright.ai/jobs/info/68c1ee0a63b706703e110438?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Support [Chicago, IL/Boston, MA]](https://jobright.ai/jobs/info/68dd4af744d32141e0bf5416?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Private Banking](https://jobright.ai/jobs/info/68fa494e7959161d33e616f8?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
