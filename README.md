@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cd3b8fe23def7af55b7186?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
+| **[SpotHopper](https://www.spothopperapp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68fb45653c99cc1d9602a3f0?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 24 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68fb3580e154835f11efaa27?utm_campaign=1051&utm_source=git)** | Texas City, TX | On Site | Oct 24 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 396](https://jobright.ai/jobs/info/68fb2a9a9e8e925ac6c8946a?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Oct 24 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Sales Internship](https://jobright.ai/jobs/info/68f6b8b69a63986de758198a?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Oct 23 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/68f2be6c9a63986de756bc34?utm_campaign=1051&utm_source=git)** | Oak Park Heights, MN | On Site | Oct 23 |
@@ -91,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Hydrite](http://www.hydrite.com)** | **[Food Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68fac989b2c86843bf211e81?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Oct 23 |
 | ↳ | **[Food Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68fac934b2c86843bf211e62?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | ↳ | **[Food Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68fac82e67272b29af7337dc?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 23 |
+| **[Jack Henry](http://www.jackhenry.com)** | **[Sales Strategy & Data Analysis Intern, Summer 2026](https://jobright.ai/jobs/info/68fb41f03c99cc1d9602a12a?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | Oct 23 |
 | **[Lotus Sales](www.lotussales.co)** | **[Sales Intern](https://jobright.ai/jobs/info/68fac26b67272b29af73357c?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Oct 23 |
 | **[Hydrite](http://www.hydrite.com)** | **[Food Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68fab97767272b29af7330c3?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 23 |
 | **[Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org/)** | **[Intern, Business Development](https://jobright.ai/jobs/info/68fab6b667272b29af732ed7?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 23 |
@@ -133,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Export Intern](https://jobright.ai/jobs/info/68faceec3c99cc1d96026612?utm_campaign=1051&utm_source=git)** | New York,NY,US | On Site | Oct 23 |
 | **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR](https://jobright.ai/jobs/info/68fa6cc067272b29af72f1d0?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Oct 23 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Guardian Summer Intern - Sales Trainee](https://jobright.ai/jobs/info/68fa64f77959161d33e62d84?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Oct 23 |
-| **[Formlabs](http://www.formlabs.com)** | **[Go-to-Market MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/68fa60c7edd190144238bab7?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Oct 23 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Field Sales Operations Intern, Healthcare, Summer 2026](https://jobright.ai/jobs/info/68fa5f7b67272b29af72e5e4?utm_campaign=1051&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Oct 23 |
 | **[iQ Credit Union](https://www.iqcu.com/business/credit-cards)** | **[Intern MSR](https://jobright.ai/jobs/info/68fa5f4eedd190144238b8f8?utm_campaign=1051&utm_source=git)** | Washougal, WA | On Site | Oct 23 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c1c9693fd8b059a20f253c?utm_campaign=1051&utm_source=git)** | Highland Heights, OH | On Site | Oct 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Chicago](https://jobright.ai/jobs/info/68c1ee0a63b706703e110438?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Support [Chicago, IL/Boston, MA]](https://jobright.ai/jobs/info/68dd4af744d32141e0bf5416?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Private Banking](https://jobright.ai/jobs/info/68fa494e7959161d33e616f8?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
-| **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[CRM Summer Intern](https://jobright.ai/jobs/info/68a4b9d4541cc3479840d4c9?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Oct 23 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/68fa6d1b67272b29af72f217?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 23 |
-| **[Shamrock Trading Corporation](https://www.shamrocktradingcorp.com/)** | **[Carrier Sales Intern- Ryan Transportation](https://jobright.ai/jobs/info/68dd3b75ddc10244dd67d6c2?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
