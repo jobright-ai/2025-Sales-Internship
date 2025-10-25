@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Finance Treasury Management Intern](https://jobright.ai/jobs/info/68fc7fabbf1f431bc45f5322?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Oct 25 |
+| **[Neon](https://neon.tech)** | **[NEON / DECAL Spring Intern - 2026](https://jobright.ai/jobs/info/68fc740593c49825ab10d1db?utm_campaign=1051&utm_source=git)** | New York, New York, United States | Remote | Oct 24 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 346](https://jobright.ai/jobs/info/68fc71c54129dd33cd13c069?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Oct 24 |
+| **[Mental Health Association of Rochester](https://www.annamarieresnikoffphd.com/)** | **[Store Executive Intern (Store Leadership Intern) - East Kansas City, MO (Starting Summer 2026)](https://jobright.ai/jobs/info/68fc6d09f55bb021a88a3acd?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Oct 24 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Affiliate Partnership Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68fc4a11f55bb021a88a257c?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 24 |
 | **[NEON](https://neonrated.com)** | **[NEON / DECAL Spring Intern - 2026](https://jobright.ai/jobs/info/68fc436493c49825ab10b4b2?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Oct 24 |
 | **[Artera](https://artera.io)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68fc3fd2f55bb021a88a1ece?utm_campaign=1051&utm_source=git)** | Santa Barbara, CA | On Site | Oct 24 |
@@ -94,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/68fbf26e4129dd33cd136b33?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Oct 24 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern](https://jobright.ai/jobs/info/68fbf2544129dd33cd136b10?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Oct 24 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68fbef0293c49825ab1078f4?utm_campaign=1051&utm_source=git)** | Williamsburg, VA | On Site | Oct 24 |
+| **[United Insurance](http://unitedinsurance.net)** | **[Intern - Multiple Locations Available](https://jobright.ai/jobs/info/68fc7d8dbf1f431bc45f4cd9?utm_campaign=1051&utm_source=git)** | Portland, ME, US | On Site | Oct 24 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Oct 24 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader- Uniforms FT 6509](https://jobright.ai/jobs/info/68fbed7c93c49825ab1077eb?utm_campaign=1051&utm_source=git)** | Centreville, VA | On Site | Oct 24 |
 | **[Unicorn Technologies LLC](https://unicorntek.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68fbecf393c49825ab107795?utm_campaign=1051&utm_source=git)** | Georgia, United States | On Site | Oct 24 |
@@ -107,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern](https://jobright.ai/jobs/info/68fbe631f55bb021a889dc8b?utm_campaign=1051&utm_source=git)** | US-California-Palo Alto | On Site | Oct 24 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68fbe43ff55bb021a889db0c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 24 |
 | **[ON24](http://www.on24.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68fbe2e693c49825ab106e98?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Oct 24 |
+| **[Pelican Realty Capital](www.prcap.org)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68fc7dc0bf1f431bc45f4d6f?utm_campaign=1051&utm_source=git)** | Raleigh, NC, US | On Site | Oct 24 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Spring 2026](https://jobright.ai/jobs/info/68fbfe144129dd33cd13774a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
 | **[Blackmont Consulting](https://www.blackmontconsulting.com/)** | **[Business Development Intern (students only)](https://jobright.ai/jobs/info/68fc29d64129dd33cd139625?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Oct 24 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Intern (Stores) / Pasadena, CA](https://jobright.ai/jobs/info/68fbdb554129dd33cd1356e8?utm_campaign=1051&utm_source=git)** | Pasadena, CA 91107 | Hybrid | Oct 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Grain Origination Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2e4d863829b0a8a4fdbd3?utm_campaign=1051&utm_source=git)** | West Memphis, AR | On Site | Oct 24 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[AYF Parts Intern](https://jobright.ai/jobs/info/68a614b7758f2e4ac3fe25c5?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 24 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Minneapolis, MN](https://jobright.ai/jobs/info/6889888eaab47a17f6702446?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/68fb9c1ef55bb021a889ac49?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Oct 24 |
-| **[Cargill](https://www.cargill.com/home)** | **[Grain Origination Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2da6a5adaee6c9bda4cde?utm_campaign=1051&utm_source=git)** | Sidney, OH | On Site | Oct 24 |
-| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Oct 24 |
-| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd9674ddc10244dd681634?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 24 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Relationship Manager (Sales)](https://jobright.ai/jobs/info/68fb9a2cf55bb021a889ab64?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Oct 24 |
-| **[Greysteel](https://www.greysteel.com/)** | **[CRE Sales Intern](https://jobright.ai/jobs/info/68fb99604129dd33cd132ff9?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
