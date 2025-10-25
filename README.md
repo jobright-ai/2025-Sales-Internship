@@ -57,8 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Kansas City District)](https://jobright.ai/jobs/info/68f1efe5e6870116b1f5ebe6?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Oct 25 |
+| **[CHS Inc.](http://www.chsinc.com)** | **[Originator Intern](https://jobright.ai/jobs/info/68cbdcbb9e3a822f5d24c2e9?utm_campaign=1051&utm_source=git)** | St Hilaire, MN | On Site | Oct 25 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Valley District](https://jobright.ai/jobs/info/68cf1d2a846f0b04af67f634?utm_campaign=1051&utm_source=git)** | Mission, TX | On Site | Oct 25 |
+| **[CHS Inc.](http://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c924f9a0c52d598ea36263?utm_campaign=1051&utm_source=git)** | Kalispell, MT | On Site | Oct 25 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - Mid-Texas](https://jobright.ai/jobs/info/68c7ac40db52c07d2884e0b1?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Oct 25 |
+| ↳ | **[2026 Management and Sales Internship - Houston](https://jobright.ai/jobs/info/68cd18dfe23def7af55b52e0?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 25 |
+| **[IBM](http://www.ibm.com)** | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68e0345c1852e62f007e898d?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 25 |
+| ↳ | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68e034c51852e62f007e8a10?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Oct 25 |
+| ↳ | **[AI Research Partnerships Internship](https://jobright.ai/jobs/info/68f4c9c99a63986de7577a26?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
+| ↳ | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/68e03287f758fe1f97e4aa6c?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Sales Strategy Internship - Summer 2026](https://jobright.ai/jobs/info/68f6f73c9a65fd3458598950?utm_campaign=1051&utm_source=git)** | Middleton, WI | On Site | Oct 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Partnership Intern - (TikTok Shop - Global Selling) - 2026 Summer(BS/MS))](https://jobright.ai/jobs/info/68cf3f73fb49c96ca6ea66af?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Excellence Elite Intern (Summer 2026)](https://jobright.ai/jobs/info/68e052a3f758fe1f97e4c597?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 25 |
+| **[Kimball International](https://www.kimballinternational.com)** | **[Sales Intern- Jasper, IN](https://jobright.ai/jobs/info/68e02ce9f758fe1f97e4a7e4?utm_campaign=1051&utm_source=git)** | Jasper, IN | On Site | Oct 25 |
+| **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Retirement & Insurance Leadership Development Internship Program](https://jobright.ai/jobs/info/68c7bbdb5c38e536d41a5bf0?utm_campaign=1051&utm_source=git)** | Newark, NJ | Hybrid | Oct 25 |
+| **[Capital Farm Credit](https://www.capitalfarmcredit.com/)** | **[Internship - Crop Insurance Services](https://jobright.ai/jobs/info/68e93e229020b95add6a51bc?utm_campaign=1051&utm_source=git)** | Lubbock, Texas | On Site | Oct 25 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/68fc999c0ab3b2224629d321?utm_campaign=1051&utm_source=git)** | Long Beach, NJ, US | On Site | Oct 25 |
 | **[Veeam Software](http://www.veeam.com)** | **[Business Partner Intern - Summer 2026](https://jobright.ai/jobs/info/68cd7aa6b2a74e1837ed7932?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Oct 25 |
+| **[Cheekwood](https://cheekwood.org)** | **[Development Intern - Spring 2026](https://jobright.ai/jobs/info/68fca75ae0c73b3a1118e64e?utm_campaign=1051&utm_source=git)** | Nashville, TN, US | On Site | Oct 25 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Intern (Stores) / New York, NY](https://jobright.ai/jobs/info/68fc85cabf1f431bc45f5f65?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
 | ↳ | **[Loss Prevention Intern (Stores) / Atlanta, GA](https://jobright.ai/jobs/info/68fc849b39d0ae3279af67d3?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Oct 25 |
 | ↳ | **[Loss Prevention Intern (Stores) / Orlando, FL](https://jobright.ai/jobs/info/68fc8386bf1f431bc45f5990?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Oct 25 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amrize](http://www.amrize.com)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbd667f55bb021a889cfaf?utm_campaign=1051&utm_source=git)** | Bloomsdale, MO | On Site | Oct 24 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Intern (Stores) / Boston, MA](https://jobright.ai/jobs/info/68fbd43293c49825ab1064c8?utm_campaign=1051&utm_source=git)** | Boston, MA 02108 | Hybrid | Oct 24 |
 | ↳ | **[Loss Prevention Intern (Stores) / Orlando, FL](https://jobright.ai/jobs/info/68fbd3ca4129dd33cd135269?utm_campaign=1051&utm_source=git)** | Orlando, FL 32828 | Hybrid | Oct 24 |
-| ↳ | **[Loss Prevention Intern (Stores) / Sacramento, CA](https://jobright.ai/jobs/info/68fbd34d93c49825ab1063b1?utm_campaign=1051&utm_source=git)** | Sacramento, CA 95831 | Hybrid | Oct 24 |
-| **[Feline Apparel](www.felineapparel.com)** | **[Experiential Retail Intern](https://jobright.ai/jobs/info/68fbcf124129dd33cd134f35?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 24 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Intern (Stores) / New York, NY](https://jobright.ai/jobs/info/68fbce7493c49825ab105ed3?utm_campaign=1051&utm_source=git)** | New York, NY 10025 | Hybrid | Oct 24 |
-| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68fbf3fd4129dd33cd136d62?utm_campaign=1051&utm_source=git)** | Earth City, MO | On Site | Oct 24 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Intern (Stores) / Atlanta, GA](https://jobright.ai/jobs/info/68fbccf6f55bb021a889c921?utm_campaign=1051&utm_source=git)** | Atlanta, GA 30305 | Hybrid | Oct 24 |
-| ↳ | **[Loss Prevention Intern (Stores) / Miramar, FL](https://jobright.ai/jobs/info/68fbcb1af55bb021a889c701?utm_campaign=1051&utm_source=git)** | Miramar, FL 33027 | Hybrid | Oct 24 |
-| **[ON24](http://www.on24.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68fbcb07f55bb021a889c6ec?utm_campaign=1051&utm_source=git)** | Charlotte, North Carolina | Hybrid | Oct 24 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Intern (Stores) / New York, NY](https://jobright.ai/jobs/info/68fbcaed4129dd33cd134aa0?utm_campaign=1051&utm_source=git)** | New York, NY 10107 | Hybrid | Oct 24 |
-| **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Inventory Internship – Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/68fbc9a793c49825ab105a65?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | On Site | Oct 24 |
-| **[Ever.Ag](https://www.ever.ag)** | **[Feed Advisor Intern](https://jobright.ai/jobs/info/68fbc82c93c49825ab10596b?utm_campaign=1051&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 24 |
-| **[Threddle](https://threddle.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68fbc42f93c49825ab10570e?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 24 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68fbc3494129dd33cd1346f2?utm_campaign=1051&utm_source=git)** | Dorchester, NE | Hybrid | Oct 24 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Account Management Intern](https://jobright.ai/jobs/info/68dab9c96df7b8311bb1190e?utm_campaign=1051&utm_source=git)** | Grayslake, IL | On Site | Oct 24 |
-| **[Novastone Capital Advisors](https://www.novastone-ca.com)** | **[Internship: Business Operations and Project Management](https://jobright.ai/jobs/info/68fbb35493c49825ab104dbc?utm_campaign=1051&utm_source=git)** | Destin, FL | Hybrid | Oct 24 |
-| ↳ | **[Internship: Business Operations and Project Management](https://jobright.ai/jobs/info/68fbb2a84129dd33cd133e40?utm_campaign=1051&utm_source=git)** | Panama City, FL | Hybrid | Oct 24 |
-| ↳ | **[Internship: Business Operations and Project Management](https://jobright.ai/jobs/info/68fbb2964129dd33cd133e30?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 24 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026-Store Management/Leadership Essentials Intern- Bowling Green Area](https://jobright.ai/jobs/info/68fbb1ba4129dd33cd133d64?utm_campaign=1051&utm_source=git)** | 2620 Elm Hill Pike, Nashville, TN, 37214, US | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
