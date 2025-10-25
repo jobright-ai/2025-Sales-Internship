@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68fcf7bae04ac838fb5adeb7?utm_campaign=1051&utm_source=git)** | Columbus, OH | Remote | Oct 25 |
+| ↳ | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68fcf6aee04ac838fb5ade4c?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Oct 25 |
+| ↳ | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68fcf686e0c73b3a11190e72?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Remote | Oct 25 |
+| ↳ | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68fcf67ee0c73b3a11190e6b?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Oct 25 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/68fcf65ee04ac838fb5ade28?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Oct 25 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68fcf5fa0ab3b222462a0a32?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Oct 25 |
+| **[WOW Payments](http://wowpayments.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68fcf4aee0c73b3a11190d8b?utm_campaign=1051&utm_source=git)** | Kearny, NJ | On Site | Oct 25 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68fcf4abe04ac838fb5add66?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 25 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68fcf4680ab3b222462a099f?utm_campaign=1051&utm_source=git)** | Morrisville, NC | Remote | Oct 25 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Channel Sales/Marketing Intern, Foodservice & Private Label](https://jobright.ai/jobs/info/68cd5b9ce23def7af55b89d0?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 25 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68df212e6be63b6ec996c5db?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Oct 25 |
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Sales Intern - Cincinnati Summer 2026](https://jobright.ai/jobs/info/68c3317b5001f8077bf61f28?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Oct 25 |
 | **[BeamSphere](beamsphere.us)** | **[Proposal Engineer Intern](https://jobright.ai/jobs/info/68fce903e0c73b3a11190adb?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Remote | Oct 25 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Management & Sales Intern - East Texas](https://jobright.ai/jobs/info/68f4843d76a51a4307bd1f82?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Oct 25 |
 | ↳ | **[Management and Sales Summer 2026 Internship (Kansas City District)](https://jobright.ai/jobs/info/68f1efe5e6870116b1f5ebe6?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Oct 25 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Originator Intern](https://jobright.ai/jobs/info/68cbdcbb9e3a822f5d24c2e9?utm_campaign=1051&utm_source=git)** | St Hilaire, MN | On Site | Oct 25 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Valley District](https://jobright.ai/jobs/info/68cf1d2a846f0b04af67f634?utm_campaign=1051&utm_source=git)** | Mission, TX | On Site | Oct 25 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c924f9a0c52d598ea36263?utm_campaign=1051&utm_source=git)** | Kalispell, MT | On Site | Oct 25 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - Mid-Texas](https://jobright.ai/jobs/info/68c7ac40db52c07d2884e0b1?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Oct 25 |
-| ↳ | **[2026 Management and Sales Internship - Houston](https://jobright.ai/jobs/info/68cd18dfe23def7af55b52e0?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 25 |
-| **[IBM](http://www.ibm.com)** | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68e0345c1852e62f007e898d?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 25 |
-| ↳ | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68e034c51852e62f007e8a10?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Oct 25 |
-| ↳ | **[AI Research Partnerships Internship](https://jobright.ai/jobs/info/68f4c9c99a63986de7577a26?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
-| ↳ | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/68e03287f758fe1f97e4aa6c?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Oct 25 |
-| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Sales Strategy Internship - Summer 2026](https://jobright.ai/jobs/info/68f6f73c9a65fd3458598950?utm_campaign=1051&utm_source=git)** | Middleton, WI | On Site | Oct 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Partnership Intern - (TikTok Shop - Global Selling) - 2026 Summer(BS/MS))](https://jobright.ai/jobs/info/68cf3f73fb49c96ca6ea66af?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
