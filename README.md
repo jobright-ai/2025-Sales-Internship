@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guaranty Bank](https://www.gbankmo.com/)** | **[Retail Intern (Joplin) - Summer 2026](https://jobright.ai/jobs/info/68fc0d4cf55bb021a889fdaa?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Oct 24 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Sales Intern - Spring 2026](https://jobright.ai/jobs/info/68fc0c3093c49825ab10939f?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
+| **[ITW](http://www.itw.com/)** | **[Strategic Sourcing Group Intern (Rising Senior, Class of ’27) - Summer 2026](https://jobright.ai/jobs/info/68fc0b314129dd33cd13816b?utm_campaign=1051&utm_source=git)** | Libertyville, IL | On Site | Oct 24 |
+| **[Guaranty Bank](https://www.gbankmo.com/)** | **[Retail Intern - Summer 2026](https://jobright.ai/jobs/info/68fc0a5793c49825ab109106?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Oct 24 |
+| **[Radiant](https://radiantnuclear.com)** | **[Spring 2026 Internship - Business Development (Government Relations)](https://jobright.ai/jobs/info/68fc07fa93c49825ab108dd2?utm_campaign=1051&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 24 |
+| **[KIKI DE MONTPARNASSE](https://kikidm.com)** | **[Showroom & Sales Intern](https://jobright.ai/jobs/info/68fc069cf55bb021a889f88a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 24 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WGAL Sales/Creative Services Intern - 2026 Summer](https://jobright.ai/jobs/info/68fc04b693c49825ab108ca7?utm_campaign=1051&utm_source=git)** | 1300 Columbia Avenue, Lancaster, PA, 17603, US | On Site | Oct 24 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Business Development Sales Associate - Waltham, MA](https://jobright.ai/jobs/info/68fbffd693c49825ab10879e?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Oct 24 |
+| **[Kienast Unternehmensgruppe](http://www.kienast-schuhe.de)** | **[Ausbildung Kauffrau/Kaufmann im Einzelhandel (m/w/d)](https://jobright.ai/jobs/info/68fbf8abf55bb021a889eec2?utm_campaign=1051&utm_source=git)** | Skipwith, VA | On Site | Oct 24 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Sales Intern - Spring 2026](https://jobright.ai/jobs/info/68fbf85493c49825ab1081bc?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
+| **[Ever.Ag](https://www.ever.ag)** | **[Feed Advisor Intern](https://jobright.ai/jobs/info/68fbf5e0f55bb021a889eade?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[Puff Media](https://www.puffmedia.co/)** | **[Affiliate & E-Commerce Data Intern](https://jobright.ai/jobs/info/68fbf2af4129dd33cd136b95?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Oct 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Representative Intern](https://jobright.ai/jobs/info/68fbf26e4129dd33cd136b33?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Oct 24 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern](https://jobright.ai/jobs/info/68fbf2544129dd33cd136b10?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Oct 24 |
@@ -73,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern](https://jobright.ai/jobs/info/68fbe631f55bb021a889dc8b?utm_campaign=1051&utm_source=git)** | US-California-Palo Alto | On Site | Oct 24 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68fbe43ff55bb021a889db0c?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 24 |
 | **[ON24](http://www.on24.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68fbe2e693c49825ab106e98?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Oct 24 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Merchandising & Retail Intern - Spring 2026](https://jobright.ai/jobs/info/68fbfe144129dd33cd13774a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Intern (Stores) / Pasadena, CA](https://jobright.ai/jobs/info/68fbdb554129dd33cd1356e8?utm_campaign=1051&utm_source=git)** | Pasadena, CA 91107 | Hybrid | Oct 24 |
 | **[Waresport](waresport.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68fbdac493c49825ab106944?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship (2026 Graduates)](https://jobright.ai/jobs/info/68fbda15f55bb021a889d2ea?utm_campaign=1051&utm_source=git)** | Estero, FL | On Site | Oct 24 |
@@ -117,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Minneapolis, MN](https://jobright.ai/jobs/info/6889888eaab47a17f6702446?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/68fb9c1ef55bb021a889ac49?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Oct 24 |
 | **[Cargill](https://www.cargill.com/home)** | **[Grain Origination Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2da6a5adaee6c9bda4cde?utm_campaign=1051&utm_source=git)** | Sidney, OH | On Site | Oct 24 |
-| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd964044d32141e0bf8989?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 24 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Oct 24 |
+| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd9674ddc10244dd681634?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 24 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Relationship Manager (Sales)](https://jobright.ai/jobs/info/68fb9a2cf55bb021a889ab64?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Oct 24 |
 | **[Greysteel](https://www.greysteel.com/)** | **[CRE Sales Intern](https://jobright.ai/jobs/info/68fb99604129dd33cd132ff9?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Oct 24 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68fb9877f55bb021a889aad5?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 24 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Jr. Executive Sales Intern - Los Angeles](https://jobright.ai/jobs/info/68c1f08233864f172f9bbcc9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68df2d5e6be63b6ec996cde5?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Oct 24 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Intern - Asset Development](https://jobright.ai/jobs/info/68fb8eb14129dd33cd132beb?utm_campaign=1051&utm_source=git)** | Hillsborough County, FL | On Site | Oct 24 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Sacramento](https://jobright.ai/jobs/info/68c1eb544d652f044775ba49?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Oct 24 |
-| **[Cargill](https://www.cargill.com/home)** | **[Grain Origination Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2e42063829b0a8a4fdb5a?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Oct 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68fb8d284129dd33cd132b13?utm_campaign=1051&utm_source=git)** | Fort Walton Beach, FL | On Site | Oct 24 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Portland](https://jobright.ai/jobs/info/68c1ee1c33864f172f9bba56?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Oct 24 |
-| ↳ | **[Summer Jr. Executive Sales Intern - New Jersey](https://jobright.ai/jobs/info/68c1eae34d652f044775b9d3?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Oct 24 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Oct 24 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Minneapolis](https://jobright.ai/jobs/info/68c1ee7f63b706703e1104b9?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Oct 24 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Cloud Software Security Sales Intern](https://jobright.ai/jobs/info/68fba8e74129dd33cd1337ce?utm_campaign=1051&utm_source=git)** | Round Rock, TX | On Site | Oct 24 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Boston](https://jobright.ai/jobs/info/68c1efca63b706703e110623?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Oct 24 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Denver](https://jobright.ai/jobs/info/68c1f07033864f172f9bbcb5?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 24 |
-| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Austin, Summer 2026](https://jobright.ai/jobs/info/68df18e35ab4977c2e950062?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 24 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68c1edf963b706703e110423?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
