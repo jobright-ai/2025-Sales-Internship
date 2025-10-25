@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68fd28130ab3b222462a1174?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 25 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68fd27c1e0c73b3a11191523?utm_campaign=1051&utm_source=git)** | Texas City, TX | On Site | Oct 25 |
+| **[Conexant](http://www.conexant.com/)** | **[Intern - May 2026 - Agriculture & Turf Division](https://jobright.ai/jobs/info/68fd1cb30ab3b222462a0f0e?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Oct 25 |
+| **[Qualer, Now a MasterControl Company](https://qualer.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/68fd19670ab3b222462a0e76?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68fcf7bae04ac838fb5adeb7?utm_campaign=1051&utm_source=git)** | Columbus, OH | Remote | Oct 25 |
 | ↳ | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68fcf6aee04ac838fb5ade4c?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Oct 25 |
 | ↳ | **[Field Sales & Service Intern](https://jobright.ai/jobs/info/68fcf686e0c73b3a11190e72?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Remote | Oct 25 |
@@ -121,6 +125,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08ef21852e62f007ec105?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe78bb99ec3563b0c9faf?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Oct 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e3a2b99ec3563b0d48b7?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Oct 25 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfea28f758fe1f97e47c42?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Oct 25 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Store Operations - Summer 2026](https://jobright.ai/jobs/info/68fccbc1e04ac838fb5acc21?utm_campaign=1051&utm_source=git)** | Mattoon, IL | On Site | Oct 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern (The Greene)](https://jobright.ai/jobs/info/68fccbb80ab3b2224629f7ad?utm_campaign=1051&utm_source=git)** | Beavercreek, OH | On Site | Oct 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08adeb99ec3563b0d076e?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Oct 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Hardlines Licensing Intern, Spring 2026](https://jobright.ai/jobs/info/68fcbc500ab3b2224629f18f?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Oct 25 |
 | **[Gruve](https://www.gruve.ai)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68c3557480e77b1fa6fc8605?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 25 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c4187114bb275ce0190ef4?utm_campaign=1051&utm_source=git)** | Lemmon, SD | On Site | Oct 25 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Oct 25 |
-| ↳ | **[Management and Sales Summer 2026 Internship (Oklahoma City District)](https://jobright.ai/jobs/info/68f4800476a51a4307bd1e6b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 25 |
-| ↳ | **[2026 Management & Sales Intern - East Texas](https://jobright.ai/jobs/info/68f4843d76a51a4307bd1f82?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Oct 25 |
-| ↳ | **[Management and Sales Summer 2026 Internship (Kansas City District)](https://jobright.ai/jobs/info/68f1efe5e6870116b1f5ebe6?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Oct 25 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Originator Intern](https://jobright.ai/jobs/info/68cbdcbb9e3a822f5d24c2e9?utm_campaign=1051&utm_source=git)** | St Hilaire, MN | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
