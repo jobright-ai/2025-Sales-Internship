@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Affiliate Partnership Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68fc4a11f55bb021a88a257c?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 24 |
 | **[NEON](https://neonrated.com)** | **[NEON / DECAL Spring Intern - 2026](https://jobright.ai/jobs/info/68fc436493c49825ab10b4b2?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Oct 24 |
 | **[Artera](https://artera.io)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68fc3fd2f55bb021a88a1ece?utm_campaign=1051&utm_source=git)** | Santa Barbara, CA | On Site | Oct 24 |
 | **[PHI Air Medical](https://www.phiairmedical.com)** | **[Intern, Business Development and Marketing](https://jobright.ai/jobs/info/68fc3dfa4129dd33cd13a166?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 24 |
@@ -100,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026-Store Management/Leadership Essentials Intern- Bowling Green Area](https://jobright.ai/jobs/info/68fbe9a84129dd33cd136479?utm_campaign=1051&utm_source=git)** | Bowling Green, KY | On Site | Oct 24 |
 | ↳ | **[Summer 2026-Store Management/Leadership Essentials Intern- Knoxville Area](https://jobright.ai/jobs/info/68fbe813f55bb021a889dd72?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Oct 24 |
 | **[INSURICA](http://insurica.com/)** | **[Digital Division Intern](https://jobright.ai/jobs/info/68fbe8064129dd33cd1362d6?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Oct 24 |
+| **[Johnson & Johnson, Inc.](https://www.jjins.com/home/)** | **[Summer Intern](https://jobright.ai/jobs/info/68fc53b9f55bb021a88a2d20?utm_campaign=1051&utm_source=git)** | Mount Pleasant, SC | On Site | Oct 24 |
 | **[Georgia Swarm Professional Lacrosse](https://www.georgiaswarm.com/)** | **[Partnership Activation Internship](https://jobright.ai/jobs/info/68fbe6e54129dd33cd136174?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Oct 24 |
 | **[Johns Manville](http://www.jm.com/)** | **[Sales Internship- Roofing Systems](https://jobright.ai/jobs/info/68c062208e65e77df55c08bb?utm_campaign=1051&utm_source=git)** | Mountain Home, TX | Hybrid | Oct 24 |
 | **[Tencent](https://www.tencent.com/)** | **[Global Business Development Intern](https://jobright.ai/jobs/info/68fbe631f55bb021a889dc8b?utm_campaign=1051&utm_source=git)** | US-California-Palo Alto | On Site | Oct 24 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/68fb9c1ef55bb021a889ac49?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Oct 24 |
 | **[Cargill](https://www.cargill.com/home)** | **[Grain Origination Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2da6a5adaee6c9bda4cde?utm_campaign=1051&utm_source=git)** | Sidney, OH | On Site | Oct 24 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Oct 24 |
+| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd9674ddc10244dd681634?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 24 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Relationship Manager (Sales)](https://jobright.ai/jobs/info/68fb9a2cf55bb021a889ab64?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Oct 24 |
 | **[Greysteel](https://www.greysteel.com/)** | **[CRE Sales Intern](https://jobright.ai/jobs/info/68fb99604129dd33cd132ff9?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Oct 24 |
-| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68fb9877f55bb021a889aad5?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 24 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - New Orleans, LA](https://jobright.ai/jobs/info/68e8a24cc72beb74cb320c1b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Oct 24 |
-| ↳ | **[Pharmaceutical Sales Intern - Norwich, CT](https://jobright.ai/jobs/info/68e4ca81ae2b894b1d708f10?utm_campaign=1051&utm_source=git)** | Norwich, CT | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
