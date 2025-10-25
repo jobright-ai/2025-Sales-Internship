@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEON](https://neonrated.com)** | **[NEON / DECAL Spring Intern - 2026](https://jobright.ai/jobs/info/68fc436493c49825ab10b4b2?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Oct 24 |
+| **[Artera](https://artera.io)** | **[Sales Development Representative](https://jobright.ai/jobs/info/68fc3fd2f55bb021a88a1ece?utm_campaign=1051&utm_source=git)** | Santa Barbara, CA | On Site | Oct 24 |
+| **[PHI Air Medical](https://www.phiairmedical.com)** | **[Intern, Business Development and Marketing](https://jobright.ai/jobs/info/68fc3dfa4129dd33cd13a166?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 24 |
+| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Associate Director or Director of International Partnerships, UNLV Global Education [R0147086]](https://jobright.ai/jobs/info/68fc3caf93c49825ab10b123?utm_campaign=1051&utm_source=git)** | LV Metro Area | On Site | Oct 24 |
+| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Lincolnton](https://jobright.ai/jobs/info/68fc3c56f55bb021a88a1d4a?utm_campaign=1051&utm_source=git)** | Lincolnton, NC | On Site | Oct 24 |
+| ↳ | **[Summer Sales Internship Casselberry](https://jobright.ai/jobs/info/68fc3b64f55bb021a88a1c9e?utm_campaign=1051&utm_source=git)** | Casselberry, FL | On Site | Oct 24 |
+| **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL Sales/Creative Services Intern - 2026 Summer](https://jobright.ai/jobs/info/68fc39964129dd33cd139efe?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Oct 24 |
+| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Biddeford](https://jobright.ai/jobs/info/68fc37424129dd33cd139dc1?utm_campaign=1051&utm_source=git)** | Biddeford, ME | On Site | Oct 24 |
+| ↳ | **[Summer Sales Internship North Augusta](https://jobright.ai/jobs/info/68fc35e393c49825ab10ad5e?utm_campaign=1051&utm_source=git)** | North Augusta, SC | On Site | Oct 24 |
+| ↳ | **[Summer Sales Internship Hudson](https://jobright.ai/jobs/info/68fc35d593c49825ab10ad54?utm_campaign=1051&utm_source=git)** | Hudson, OH | On Site | Oct 24 |
+| ↳ | **[Summer Sales Internship LaPorte](https://jobright.ai/jobs/info/68fc34fe93c49825ab10acf6?utm_campaign=1051&utm_source=git)** | La Porte, IN | On Site | Oct 24 |
+| **[Radiant](https://radiantnuclear.com)** | **[Spring 2026 Internship - Business Development (Government Relations)](https://jobright.ai/jobs/info/68fc2fac4129dd33cd139885?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Investor Relations & Business Development Intern](https://jobright.ai/jobs/info/68fc2414f55bb021a88a0da8?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Oct 24 |
 | ↳ | **[Intern, Sales Operations](https://jobright.ai/jobs/info/68fc21ee93c49825ab10a102?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Oct 24 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Summer 2026-Store Management/Leadership Essentials Intern- Knoxville Area](https://jobright.ai/jobs/info/68fc1a9193c49825ab109cdc?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 24 |
@@ -139,22 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Minneapolis, MN](https://jobright.ai/jobs/info/6889888eaab47a17f6702446?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/68fb9c1ef55bb021a889ac49?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Oct 24 |
 | **[Cargill](https://www.cargill.com/home)** | **[Grain Origination Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2da6a5adaee6c9bda4cde?utm_campaign=1051&utm_source=git)** | Sidney, OH | On Site | Oct 24 |
-| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd964044d32141e0bf8989?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Oct 24 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Michigan) - Summer '26](https://jobright.ai/jobs/info/68c2893903b99f6b3429507d?utm_campaign=1051&utm_source=git)** | Edmore, MI | On Site | Oct 24 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Relationship Manager (Sales)](https://jobright.ai/jobs/info/68fb9a2cf55bb021a889ab64?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Oct 24 |
 | **[Greysteel](https://www.greysteel.com/)** | **[CRE Sales Intern](https://jobright.ai/jobs/info/68fb99604129dd33cd132ff9?utm_campaign=1051&utm_source=git)** | Bethesda, MD | On Site | Oct 24 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68fb9877f55bb021a889aad5?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 24 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - New Orleans, LA](https://jobright.ai/jobs/info/68e8a24cc72beb74cb320c1b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Oct 24 |
 | ↳ | **[Pharmaceutical Sales Intern - Norwich, CT](https://jobright.ai/jobs/info/68e4ca81ae2b894b1d708f10?utm_campaign=1051&utm_source=git)** | Norwich, CT | On Site | Oct 24 |
-| ↳ | **[Pharmaceutical Sales Intern - Las Vegas, NV](https://jobright.ai/jobs/info/68e008861852e62f007e6acc?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Oct 24 |
-| ↳ | **[Pharmaceutical Sales Intern - Oxford, MS](https://jobright.ai/jobs/info/68df8533fe896042b0b7bcaa?utm_campaign=1051&utm_source=git)** | Oxford, MS | On Site | Oct 24 |
-| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Texas) - Summer '26](https://jobright.ai/jobs/info/68c23d9433864f172f9be2c7?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | Oct 24 |
-| **[SBA Communications](http://www.sbasite.com)** | **[Intern - Asset Development](https://jobright.ai/jobs/info/68fb93c9f55bb021a889a975?utm_campaign=1051&utm_source=git)** | FL - Virtual | On Site | Oct 24 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Stamford](https://jobright.ai/jobs/info/68c1ece04d652f044775bbb0?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Oct 24 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Fresno, CA](https://jobright.ai/jobs/info/68df4f0b6be63b6ec996ea85?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Oct 24 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Providence](https://jobright.ai/jobs/info/68c1f02c33864f172f9bbc6d?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Oct 24 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Orange County Irvine](https://jobright.ai/jobs/info/68c1ede54d652f044775bc8b?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Oct 24 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Atlanta](https://jobright.ai/jobs/info/68c1eed14d652f044775bd6d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Chico/Redding, CA](https://jobright.ai/jobs/info/68def84ea125e75c422b8c22?utm_campaign=1051&utm_source=git)** | Redding, CA | On Site | Oct 24 |
-| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Chicago, Summer 2026](https://jobright.ai/jobs/info/68df1a616be63b6ec996bc2d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
