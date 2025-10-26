@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship University Park](https://jobright.ai/jobs/info/68fd84a3e04ac838fb5afc1a?utm_campaign=1051&utm_source=git)** | University Park, TX | On Site | Oct 25 |
 | ↳ | **[Summer Sales Internship Marina](https://jobright.ai/jobs/info/68fd8482e04ac838fb5afc10?utm_campaign=1051&utm_source=git)** | Marina, CA | On Site | Oct 25 |
 | ↳ | **[Summer Sales Internship Sugar Hill](https://jobright.ai/jobs/info/68fd806be04ac838fb5af88d?utm_campaign=1051&utm_source=git)** | Sugar Hill, GA | On Site | Oct 25 |
-| **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Business Development & Writing Intern](https://jobright.ai/jobs/info/68fd7736e0c73b3a111922c7?utm_campaign=1051&utm_source=git)** | Fairfax County, VA | Hybrid | Oct 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/68fd6895e0c73b3a111920e1?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Oct 25 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68fd67820ab3b222462a1ce2?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Oct 25 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68fd67690ab3b222462a1cdd?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 25 |
@@ -111,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0395af758fe1f97e4b1f8?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Oct 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe8a8b99ec3563b0ca132?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Oct 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe737b99ec3563b0c9f32?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Oct 25 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c29f758fe1f97e4b6ff?utm_campaign=1051&utm_source=git)** | Abilene, TX | On Site | Oct 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c77b99ec3563b0cdc0b?utm_campaign=1051&utm_source=git)** | Lima, OH | On Site | Oct 25 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Sales/Operations Internship - Raleigh, NC](https://jobright.ai/jobs/info/68a9204f758f2e4ac3ff77c5?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Oct 25 |
@@ -132,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c7db99ec3563b0cdc1a?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Oct 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe98af758fe1f97e47b64?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Oct 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe94e1852e62f007e5710?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Oct 25 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 25 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[2026 Mortgage Capital Markets Internship](https://jobright.ai/jobs/info/68e08389b99ec3563b0d00bd?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Oct 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03a4ff758fe1f97e4b3f3?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 25 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08f98f758fe1f97e4e66c?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Oct 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Commercial Leader Program Intern – Aesthetics (MBA)](https://jobright.ai/jobs/info/68cfd72adbd9fb154edeb329?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Oct 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c2db99ec3563b0cdb8e?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Oct 25 |
 | **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/68c47053e471ef3ce16d614d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08a38f758fe1f97e4e18d?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
