@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bunzl plc](http://www.bunzl.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68fd983d0ab3b222462a3732?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Oct 25 |
+| ↳ | **[Sales Intern -Summer 2026 (Bunzl Processor Division)](https://jobright.ai/jobs/info/68fd94d2e0c73b3a11193a0a?utm_campaign=1051&utm_source=git)** | Riverside, MO | On Site | Oct 25 |
+| **[The Commencement Group ](https://www.thecommencementgroup.com)** | **[TX Outside Sales Intern Fall 2025](https://jobright.ai/jobs/info/68fd8b7fe0c73b3a11193006?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 25 |
+| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Summit](https://jobright.ai/jobs/info/68fd89020ab3b222462a2bb0?utm_campaign=1051&utm_source=git)** | Summit, NJ | On Site | Oct 25 |
+| ↳ | **[Summer Sales Internship Trussville](https://jobright.ai/jobs/info/68fd87a10ab3b222462a2a63?utm_campaign=1051&utm_source=git)** | Trussville, AL | On Site | Oct 25 |
+| ↳ | **[Summer Sales Internship University Park](https://jobright.ai/jobs/info/68fd84a3e04ac838fb5afc1a?utm_campaign=1051&utm_source=git)** | University Park, TX | On Site | Oct 25 |
+| ↳ | **[Summer Sales Internship Marina](https://jobright.ai/jobs/info/68fd8482e04ac838fb5afc10?utm_campaign=1051&utm_source=git)** | Marina, CA | On Site | Oct 25 |
+| ↳ | **[Summer Sales Internship Sugar Hill](https://jobright.ai/jobs/info/68fd806be04ac838fb5af88d?utm_campaign=1051&utm_source=git)** | Sugar Hill, GA | On Site | Oct 25 |
 | **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Business Development & Writing Intern](https://jobright.ai/jobs/info/68fd7736e0c73b3a111922c7?utm_campaign=1051&utm_source=git)** | Fairfax County, VA | Hybrid | Oct 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Business Development Intern](https://jobright.ai/jobs/info/68fd6895e0c73b3a111920e1?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Oct 25 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/68fd67820ab3b222462a1ce2?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Oct 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Commercial Leader Program Intern – Aesthetics (MBA)](https://jobright.ai/jobs/info/68cfd72adbd9fb154edeb329?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Oct 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c2db99ec3563b0cdb8e?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Oct 25 |
 | **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/68c47053e471ef3ce16d614d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08a38f758fe1f97e4e18d?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Oct 25 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41886e396b25cb5c657c1?utm_campaign=1051&utm_source=git)** | Elgin, ND | On Site | Oct 25 |
-| ↳ | **[Originator Intern](https://jobright.ai/jobs/info/68c50eb1c96a22563ece6cea?utm_campaign=1051&utm_source=git)** | St Charles, MN | On Site | Oct 25 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08e86b99ec3563b0d092a?utm_campaign=1051&utm_source=git)** | Riverton, UT | On Site | Oct 25 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Chicago Metro - West)](https://jobright.ai/jobs/info/68c47c42e471ef3ce16d6ae1?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 25 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c4164514bb275ce0190da8?utm_campaign=1051&utm_source=git)** | Herman, MN | On Site | Oct 25 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e09037f758fe1f97e4e74a?utm_campaign=1051&utm_source=git)** | Pineville, NC | On Site | Oct 25 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - El Paso, TX](https://jobright.ai/jobs/info/68c47f5114bb275ce019416d?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
