@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Services](https://jobright.ai/jobs/info/68fdec7f0ab3b222462a56dc?utm_campaign=1051&utm_source=git)** | Fenton, MO | On Site | Oct 26 |
 | **[Bunzl plc](http://www.bunzl.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68fd983d0ab3b222462a3732?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Oct 25 |
 | ↳ | **[Sales Intern -Summer 2026 (Bunzl Processor Division)](https://jobright.ai/jobs/info/68fd94d2e0c73b3a11193a0a?utm_campaign=1051&utm_source=git)** | Riverside, MO | On Site | Oct 25 |
 | **[The Commencement Group ](https://www.thecommencementgroup.com)** | **[TX Outside Sales Intern Fall 2025](https://jobright.ai/jobs/info/68fd8b7fe0c73b3a11193006?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 25 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 25 |
 | **[Johnson Brothers](https://www.johnsonbrothers.com/)** | **[2026 Retail Sales Intern](https://jobright.ai/jobs/info/68dfda7bb99ec3563b0c997e?utm_campaign=1051&utm_source=git)** | North Kingstown, RI | On Site | Oct 25 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Harrisonburg, VA](https://jobright.ai/jobs/info/68a7cb6533dd7158bbca9afb?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Oct 25 |
-| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Entry Level Sales Intern – Summer 2026](https://jobright.ai/jobs/info/68fcdd5e0ab3b222462a0286?utm_campaign=1051&utm_source=git)** | Columbus, Ohio Metropolitan Area | Remote | Oct 25 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[2026 Internship - Underwriting Business Development](https://jobright.ai/jobs/info/68cce84077add66568abbcf9?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Oct 25 |
 | **[TYLin](http://www.tylin.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68c853baf9c6ff7aedf0d04c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68cbb99cefdec76df36c1465?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Oct 25 |
