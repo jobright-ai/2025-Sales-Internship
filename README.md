@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Value Aligners](Valuealigners.com)** | **[Cybersecurity Success Management Intern](https://jobright.ai/jobs/info/68fe4b0f0ab3b222462a6b65?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Oct 26 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Business Development Internship / Fall 2025](https://jobright.ai/jobs/info/68fe43c3e0c73b3a11196ea7?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Oct 26 |
 | **[Higher Heights](https://www.higherheights.work)** | **[Membership Intern](https://jobright.ai/jobs/info/68fe3e74e0c73b3a11196de4?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Oct 26 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Marshfield, WI](https://jobright.ai/jobs/info/68e5e557e8daec61499a60ab?utm_campaign=1051&utm_source=git)** | Marshfield, WI | On Site | Oct 26 |
@@ -65,19 +66,19 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23bb21852e62f007f76cc?utm_campaign=1051&utm_source=git)** | Pueblo, CO | On Site | Oct 26 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Field Sales](https://jobright.ai/jobs/info/68cf3ff5dbd9fb154ede5c88?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Oct 26 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68cd098e1ad6b16f02893a49?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Oct 26 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1d9ceb99ec3563b0d83be?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 26 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e233aab99ec3563b0dba00?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Oct 26 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e233aab99ec3563b0dba00?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23700b99ec3563b0dbb2d?utm_campaign=1051&utm_source=git)** | Mason City, IA | On Site | Oct 26 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1d9ceb99ec3563b0d83be?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1da6ab99ec3563b0d852d?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23294b99ec3563b0db8cd?utm_campaign=1051&utm_source=git)** | Stockton, CA | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1d939b99ec3563b0d82eb?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Oct 26 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232c11852e62f007f70e5?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1da56b99ec3563b0d84eb?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e233491852e62f007f717f?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc7a1852e62f007f3d0b?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e236a61852e62f007f726e?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Oct 26 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e236b11852e62f007f728c?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Oct 26 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232e6b99ec3563b0db924?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Oct 26 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e1dc811852e62f007f3d18?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Oct 26 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232e6b99ec3563b0db924?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232781852e62f007f708b?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e233471852e62f007f717a?utm_campaign=1051&utm_source=git)** | Norfolk, NE | On Site | Oct 26 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dcb81852e62f007f3d9a?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Oct 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern -Summer 2026 (Bunzl Processor Division)](https://jobright.ai/jobs/info/68fd94d2e0c73b3a11193a0a?utm_campaign=1051&utm_source=git)** | Riverside, MO | On Site | Oct 25 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Summit](https://jobright.ai/jobs/info/68fd89020ab3b222462a2bb0?utm_campaign=1051&utm_source=git)** | Summit, NJ | On Site | Oct 25 |
 | ↳ | **[Summer Sales Internship Trussville](https://jobright.ai/jobs/info/68fd87a10ab3b222462a2a63?utm_campaign=1051&utm_source=git)** | Trussville, AL | On Site | Oct 25 |
-| ↳ | **[Summer Sales Internship University Park](https://jobright.ai/jobs/info/68fd84a3e04ac838fb5afc1a?utm_campaign=1051&utm_source=git)** | University Park, TX | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
