@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Channel Sales/Marketing Intern, Foodservice & Private Label](https://jobright.ai/jobs/info/68cd5b9ce23def7af55b89d0?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 25 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/68df212e6be63b6ec996c5db?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Oct 25 |
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Sales Intern - Cincinnati Summer 2026](https://jobright.ai/jobs/info/68c3317b5001f8077bf61f28?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Oct 25 |
-| **[BeamSphere](beamsphere.us)** | **[Proposal Engineer Intern](https://jobright.ai/jobs/info/68fce903e0c73b3a11190adb?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Remote | Oct 25 |
 | **[Henkel](http://www.henkel.com)** | **[Account Management Intern - 2026](https://jobright.ai/jobs/info/68c35a356031587f8458a1ef?utm_campaign=1051&utm_source=git)** | Mooresville, NC | Hybrid | Oct 25 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/688c81753a30793eb9643f2a?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Oct 25 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/68fce5eae0c73b3a11190950?utm_campaign=1051&utm_source=git)** | Torrance, CA | On Site | Oct 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c2db99ec3563b0cdb8e?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Oct 25 |
 | **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/68c47053e471ef3ce16d614d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08a38f758fe1f97e4e18d?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Oct 25 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41886e396b25cb5c657c1?utm_campaign=1051&utm_source=git)** | Elgin, ND | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
