@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68ccfc70d11b445e0bee572e?utm_campaign=1051&utm_source=git)** | New Town, ND | Hybrid | Oct 27 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Revenue Management (Summer 2026)](https://jobright.ai/jobs/info/68efa83678ba1621431df9d6?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Oct 27 |
 | **[Newmark Mountain West](https://www.mtnwest.com/)** | **[Commercial Brokerage Intern](https://jobright.ai/jobs/info/68ff04efe0c73b3a11198f80?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 26 |
 | **[Work4Flow](www.work4flow.com)** | **[Sales Intern – ServiceNow & Enterprise Solutions](https://jobright.ai/jobs/info/68ff02cfe04ac838fb5b5f05?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Grand Forks](https://jobright.ai/jobs/info/68fed9aee0c73b3a11197ea2?utm_campaign=1051&utm_source=git)** | Grand Forks, ND | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship Bremerton](https://jobright.ai/jobs/info/68fed9a4e04ac838fb5b4df0?utm_campaign=1051&utm_source=git)** | Bremerton, WA | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship Zanesville](https://jobright.ai/jobs/info/68fed993e04ac838fb5b4dea?utm_campaign=1051&utm_source=git)** | Zanesville, OH | On Site | Oct 26 |
-| ↳ | **[Summer Sales Internship Rocklin](https://jobright.ai/jobs/info/68fed981e04ac838fb5b4de5?utm_campaign=1051&utm_source=git)** | Rocklin, CA | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
