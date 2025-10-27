@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68feb1e80ab3b222462a7565?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Oct 26 |
+| **[ALTINAD (Alternative Investment Advisors)](https://www.altinad.com)** | **[Investor Relations Associate - Internship (Dubai-based applicants only)](https://jobright.ai/jobs/info/68fea9180ab3b222462a74e0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 26 |
+| **[Care Crest Holdings](www.carecrestholdings.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/68fe9f5ae04ac838fb5b481f?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/68fe96570ab3b222462a73bf?utm_campaign=1051&utm_source=git)** | Woodbridge, NJ | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship New Castle](https://jobright.ai/jobs/info/68fe94e4e04ac838fb5b4773?utm_campaign=1051&utm_source=git)** | New Castle, IN | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship Forney](https://jobright.ai/jobs/info/68fe94dfe04ac838fb5b4772?utm_campaign=1051&utm_source=git)** | Forney, TX | On Site | Oct 26 |
@@ -74,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Hempstead](https://jobright.ai/jobs/info/68fe8cfb0ab3b222462a72fd?utm_campaign=1051&utm_source=git)** | Hempstead, NY | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship Hayward](https://jobright.ai/jobs/info/68fe8aaee04ac838fb5b46a5?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68fe8aaae04ac838fb5b46a4?utm_campaign=1051&utm_source=git)** | Santa Maria, CA | On Site | Oct 26 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68fe8a65e04ac838fb5b468f?utm_campaign=1051&utm_source=git)** | Summerville, SC | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship Louisville](https://jobright.ai/jobs/info/68fe8a65e04ac838fb5b4690?utm_campaign=1051&utm_source=git)** | Louisville, CO | On Site | Oct 26 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/68fe8a65e04ac838fb5b468f?utm_campaign=1051&utm_source=git)** | Summerville, SC | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship Griffin](https://jobright.ai/jobs/info/68fe8a4ee04ac838fb5b468a?utm_campaign=1051&utm_source=git)** | Griffin, GA | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship Caldwell](https://jobright.ai/jobs/info/68fe8a0de0c73b3a111976e0?utm_campaign=1051&utm_source=git)** | Caldwell, ID | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship Modesto](https://jobright.ai/jobs/info/68fe89efe04ac838fb5b466f?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Oct 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Universal City](https://jobright.ai/jobs/info/68fe8546e0c73b3a111975e9?utm_campaign=1051&utm_source=git)** | Universal City, TX | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship Garden Grove](https://jobright.ai/jobs/info/68fe8541e04ac838fb5b4597?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Oct 26 |
 | ↳ | **[Summer Sales Internship Alexandria](https://jobright.ai/jobs/info/68fe853ce04ac838fb5b4596?utm_campaign=1051&utm_source=git)** | Alexandria, MN | On Site | Oct 26 |
-| ↳ | **[Summer Sales Internship Farmington](https://jobright.ai/jobs/info/68fe8538e04ac838fb5b4595?utm_campaign=1051&utm_source=git)** | Farmington, NM | On Site | Oct 26 |
-| ↳ | **[Summer Sales Internship East Stroudsburg](https://jobright.ai/jobs/info/68fe852fe04ac838fb5b4593?utm_campaign=1051&utm_source=git)** | East Stroudsburg, PA | On Site | Oct 26 |
-| ↳ | **[Summer Sales Internship Hanover Park](https://jobright.ai/jobs/info/68fe852a0ab3b222462a720f?utm_campaign=1051&utm_source=git)** | Hanover Park, IL | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
