@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steelcase](https://www.steelcase.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ffcc85e04ac838fb5bb6c9?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 27 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68ffc78a0ab3b222462ade5d?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Oct 27 |
+| **[SoFlo PR](https://www.sofloprllc.com/)** | **[Winter Sales Intern](https://jobright.ai/jobs/info/68ffc6d3e04ac838fb5bb25a?utm_campaign=1051&utm_source=git)** | Plymouth, MA | Remote | Oct 27 |
+| **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Showroom Operations Internship](https://jobright.ai/jobs/info/68ffba35e04ac838fb5bac03?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Oct 27 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68ffb8870ab3b222462ad6a2?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Remote | Oct 27 |
+| **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Ticket Sales & Service Intern - Spring 2026](https://jobright.ai/jobs/info/68ffb8040ab3b222462ad65e?utm_campaign=1051&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105 | On Site | Oct 27 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Wealth Service Delivery (Pittsburgh, PA)](https://jobright.ai/jobs/info/68cf11d3fb49c96ca6ea5977?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 27 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68ffb20de0c73b3a1119d856?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Oct 27 |
 | **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Corporate Partnerships Intern - Fall 2025](https://jobright.ai/jobs/info/68ffb1b4e0c73b3a1119d81a?utm_campaign=1051&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105 | On Site | Oct 27 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Rotating Insurance Summer Intern](https://jobright.ai/jobs/info/68ffb1780ab3b222462ad1bc?utm_campaign=1051&utm_source=git)** | Schaumburg - Martingale | Hybrid | Oct 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Consumer Products Global Hardlines Licensing Intern, Spring 2026](https://jobright.ai/jobs/info/68ffaed4e04ac838fb5ba581?utm_campaign=1051&utm_source=git)** | Glendale, CA, USA | Hybrid | Oct 27 |
 | **[Standard Chartered](https://www.sc.com)** | **[Client Coverage Internship Programme US Houston 2026](https://jobright.ai/jobs/info/68ffa8cce04ac838fb5ba2a2?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Oct 27 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/68ffa852e04ac838fb5ba255?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Remote | Oct 27 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[NonStop Sales Analyst Internship](https://jobright.ai/jobs/info/68ff9a44e0c73b3a1119cb51?utm_campaign=1051&utm_source=git)** | Manchester, NC | Hybrid | Oct 27 |
 | **[Digital Marketing Alive](https://www.digitalmarketingalive.com)** | **[Sales Closer Internship](https://jobright.ai/jobs/info/68ff96f5e04ac838fb5b97fc?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Altria](http://www.altria.com)** | **[Undergraduate Internship Sales - West](https://jobright.ai/jobs/info/68b8b59bea901c0d269f8e9e?utm_campaign=1051&utm_source=git)** | United States | On Site | Oct 27 |
-| **[The Brand Makeover Marketing Agency](https://www.thebrandmakeover.net/)** | **[Account Marketing Executive Intern](https://jobright.ai/jobs/info/68ff94a2e04ac838fb5b962e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/68ff929ae04ac838fb5b953b?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 27 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/68ff915fe0c73b3a1119c5a5?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Oct 27 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e381dff758fe1f97e5ebca?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Oct 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68ccfc70d11b445e0bee572e?utm_campaign=1051&utm_source=git)** | New Town, ND | Hybrid | Oct 27 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Revenue Management (Summer 2026)](https://jobright.ai/jobs/info/68efa83678ba1621431df9d6?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Oct 27 |
 | **[Newmark Mountain West](https://www.mtnwest.com/)** | **[Commercial Brokerage Intern](https://jobright.ai/jobs/info/68ff04efe0c73b3a11198f80?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 26 |
-| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/68fee6120ab3b222462a81ee?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Oct 26 |
-| ↳ | **[Summer Sales Internship Newport](https://jobright.ai/jobs/info/68fee5bfe0c73b3a111985a0?utm_campaign=1051&utm_source=git)** | Newport, RI | On Site | Oct 26 |
-| ↳ | **[Summer Sales Internship Hamilton](https://jobright.ai/jobs/info/68fee5a60ab3b222462a8190?utm_campaign=1051&utm_source=git)** | Hamilton, OH | On Site | Oct 26 |
-| ↳ | **[Summer Sales Internship Nicholasville](https://jobright.ai/jobs/info/68fee59de0c73b3a11198569?utm_campaign=1051&utm_source=git)** | Nicholasville, KY | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
