@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Provident](http://www.providentrealty.net/)** | **[Intern - Real Estate Development (Data Centers)](https://jobright.ai/jobs/info/69001f61e0c73b3a111a260f?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Oct 27 |
+| **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Sales Planning Intern](https://jobright.ai/jobs/info/69001961e0c73b3a111a22c3?utm_campaign=1051&utm_source=git)** | Miami-FTL Area | On Site | Oct 27 |
+| **[Cedar Rapids Bank & Trust](https://crbt.com)** | **[Retail Intern - Summer 2026](https://jobright.ai/jobs/info/69001403e04ac838fb5bedcb?utm_campaign=1051&utm_source=git)** | Cedar Rapids,IA,US | On Site | Oct 27 |
+| **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6900137de04ac838fb5bed4d?utm_campaign=1051&utm_source=git)** | Cincinnati,OH,US | On Site | Oct 27 |
+| **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Events & Membership Internship (Immediate Start)](https://jobright.ai/jobs/info/690012c30ab3b222462b16c2?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 27 |
+| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/69000faa0ab3b222462b167a?utm_campaign=1051&utm_source=git)** | Miami-FTL Area | On Site | Oct 27 |
+| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Regional Sales (Buffalo/WNY Region)](https://jobright.ai/jobs/info/69000a6fe04ac838fb5bea02?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Oct 27 |
 | **[Cookiy AI](https://cookiy.ai/)** | **[AI Sales Intern (Commission-Based)](https://jobright.ai/jobs/info/690002f1e0c73b3a111a1738?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Coviance](https://www.coviance.com/)** | **[Sales & Data Operations Intern Co-Op](https://jobright.ai/jobs/info/690002b8e0c73b3a111a1714?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | Hybrid | Oct 27 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Elite Horizon Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/68fffb45e0c73b3a111a12e7?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c4bf758fe1f97e5e91b?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Oct 27 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Buyer/Planner Intern](https://jobright.ai/jobs/info/68ff8848e0c73b3a1119c149?utm_campaign=1051&utm_source=git)** | Ripon, WI | Hybrid | Oct 27 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d3bf758fe1f97e5e9db?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Oct 27 |
-| **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative Internship](https://jobright.ai/jobs/info/68ff87e1e04ac838fb5b900e?utm_campaign=1051&utm_source=git)** | Aventura, FL | On Site | Oct 27 |
-| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Oct 27 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e38139f758fe1f97e5ea7c?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Oct 27 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e03b99ec3563b0e0b76?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Oct 27 |
-| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d9db99ec3563b0e0b3d?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Oct 27 |
-| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d23b99ec3563b0e0ae8?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Oct 27 |
-| **[Cargill](https://www.cargill.com/home)** | **[Price Risk Solutions Internship Summer 2026 - Wayzata, MN](https://jobright.ai/jobs/info/68aa04a3d627244576e3c153?utm_campaign=1051&utm_source=git)** | Wayzata, MN | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
