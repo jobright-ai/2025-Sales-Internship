@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Bank & Trust](http://bankeasy.com)** | **[Universal Banking Intern](https://jobright.ai/jobs/info/68c8ada1f9c6ff7aedf118fd?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Oct 28 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Technical Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca38bdaf1431824c96d85?utm_campaign=1051&utm_source=git)** | Westerville, OH | On Site | Oct 28 |
+| **[Smithfield Foods](http://smithfieldfoods.com)** | **[Summer - Fresh Sales Intern](https://jobright.ai/jobs/info/68ccd31bb274cd205ab4fdfa?utm_campaign=1051&utm_source=git)** | Smithfield, VA | On Site | Oct 28 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - B2B Sales Intern](https://jobright.ai/jobs/info/68f0207278ba1621431e21b5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Healthcare Market Sales Intern - Iron Valley - Summer 2026](https://jobright.ai/jobs/info/68e4766db99ec3563b0ea9cd?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 28 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Sales Internship - Group Benefits (Summer 2026)](https://jobright.ai/jobs/info/68e449dcb99ec3563b0e8b85?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Oct 28 |
+| **[Conrad New York Downtown](www.newyorkdowntown.conradhotels.com)** | **[Temporary Sales & Marketing Intern](https://jobright.ai/jobs/info/68e45c8eb99ec3563b0e9880?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 28 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Healthcare Market Sales Intern - Carolinas - Summer 2026](https://jobright.ai/jobs/info/68ef18c0a1a1d02df61e91e6?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 28 |
+| **[HDR](http://www.hdrinc.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/68ccfd0177add66568abd2e2?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Oct 28 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Healthcare Market Sales Intern - Atlanta - Summer 2026](https://jobright.ai/jobs/info/68ef45e89821486c423c30bd?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 28 |
+| **[BlueGrace Logistics](http://www.mybluegrace.com)** | **[Carrier Sales Internship - Summer 2026 - Riverview, FL](https://jobright.ai/jobs/info/68e44ec0b99ec3563b0e8f0e?utm_campaign=1051&utm_source=git)** | Riverview, FL | On Site | Oct 28 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025](https://jobright.ai/jobs/info/68e42b291852e62f0080263f?utm_campaign=1051&utm_source=git)** | Trumbull, CT | On Site | Oct 28 |
+| **[SPS Commerce](http://spscommerce.com)** | **[Sales Intern (Talent Pool)](https://jobright.ai/jobs/info/68c7b576c008cf3402c8f0e2?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 28 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Sales & Service Design Thinking Intern](https://jobright.ai/jobs/info/690091020ab3b222462b55cc?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 28 |
 | **[BlueGrace Logistics](http://www.mybluegrace.com)** | **[Carrier Sales Internship - Summer 2026 - Chicago, IL](https://jobright.ai/jobs/info/68e448faf758fe1f97e668e3?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f9e4427ab77a56387e8091?utm_campaign=1051&utm_source=git)** | Earth City, MO | On Site | Oct 28 |
@@ -104,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69003541e04ac838fb5c04e3?utm_campaign=1051&utm_source=git)** | Palmdale, CA | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69003538e04ac838fb5c04d6?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Scottsdale](https://jobright.ai/jobs/info/690034e8e04ac838fb5c04a0?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/690034e1e04ac838fb5c0495?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/690034e1e04ac838fb5c0496?utm_campaign=1051&utm_source=git)** | Oxford, MS | On Site | Oct 27 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/690034e1e04ac838fb5c0495?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Half Moon Bay](https://jobright.ai/jobs/info/690034c1e04ac838fb5c047d?utm_campaign=1051&utm_source=git)** | Half Moon Bay, CA | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Hudson](https://jobright.ai/jobs/info/690034bce04ac838fb5c047a?utm_campaign=1051&utm_source=git)** | Hudson, WI | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship New Rochelle](https://jobright.ai/jobs/info/690034bbe04ac838fb5c0479?utm_campaign=1051&utm_source=git)** | New Rochelle, NY | On Site | Oct 27 |
@@ -116,14 +129,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69003433e04ac838fb5c0425?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Prescott Valley](https://jobright.ai/jobs/info/69003406e04ac838fb5c0406?utm_campaign=1051&utm_source=git)** | Prescott Valley, AZ | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Urbandale](https://jobright.ai/jobs/info/69003402e04ac838fb5c0401?utm_campaign=1051&utm_source=git)** | Urbandale, IA | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Farmington](https://jobright.ai/jobs/info/69003400e04ac838fb5c0400?utm_campaign=1051&utm_source=git)** | Farmington, MO | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Paradise](https://jobright.ai/jobs/info/69003400e04ac838fb5c03ff?utm_campaign=1051&utm_source=git)** | Paradise, CA | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship East Palo Alto](https://jobright.ai/jobs/info/690033f9e04ac838fb5c03f9?utm_campaign=1051&utm_source=git)** | East Palo Alto, CA | On Site | Oct 27 |
+| ↳ | **[Summer Sales Internship Farmington](https://jobright.ai/jobs/info/69003400e04ac838fb5c0400?utm_campaign=1051&utm_source=git)** | Farmington, MO | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Salina](https://jobright.ai/jobs/info/690033f9e04ac838fb5c03f8?utm_campaign=1051&utm_source=git)** | Salina, KS | On Site | Oct 27 |
+| ↳ | **[Summer Sales Internship East Palo Alto](https://jobright.ai/jobs/info/690033f9e04ac838fb5c03f9?utm_campaign=1051&utm_source=git)** | East Palo Alto, CA | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Crystal Lake](https://jobright.ai/jobs/info/690033f8e04ac838fb5c03f7?utm_campaign=1051&utm_source=git)** | Crystal Lake, IL | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/690033ef0ab3b222462b2d64?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship San Carlos](https://jobright.ai/jobs/info/690033e2e04ac838fb5c03e4?utm_campaign=1051&utm_source=git)** | San Carlos, CA | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Colleyville](https://jobright.ai/jobs/info/690033e2e04ac838fb5c03e3?utm_campaign=1051&utm_source=git)** | Colleyville, TX | On Site | Oct 27 |
+| ↳ | **[Summer Sales Internship San Carlos](https://jobright.ai/jobs/info/690033e2e04ac838fb5c03e4?utm_campaign=1051&utm_source=git)** | San Carlos, CA | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Chillicothe](https://jobright.ai/jobs/info/690033c3e04ac838fb5c03ca?utm_campaign=1051&utm_source=git)** | Chillicothe, OH | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/690033b8e04ac838fb5c03c3?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/690033b7e04ac838fb5c03c2?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Oct 27 |
@@ -142,19 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship South Lake Tahoe](https://jobright.ai/jobs/info/69003280e04ac838fb5c02a8?utm_campaign=1051&utm_source=git)** | South Lake Tahoe, CA | On Site | Oct 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6900326ae04ac838fb5c028f?utm_campaign=1051&utm_source=git)** | Petersburg, VA | On Site | Oct 27 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6900325ae04ac838fb5c0277?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69003252e04ac838fb5c0271?utm_campaign=1051&utm_source=git)** | Killeen, TX | On Site | Oct 27 |
 | ↳ | **[Summer Sales Internship Radcliff](https://jobright.ai/jobs/info/69003252e04ac838fb5c0270?utm_campaign=1051&utm_source=git)** | Radcliff, KY | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Plainfield](https://jobright.ai/jobs/info/69003248e04ac838fb5c0268?utm_campaign=1051&utm_source=git)** | Plainfield, IN | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Grayslake](https://jobright.ai/jobs/info/69003236e04ac838fb5c0255?utm_campaign=1051&utm_source=git)** | Grayslake, IL | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Rockville](https://jobright.ai/jobs/info/69003227e04ac838fb5c024b?utm_campaign=1051&utm_source=git)** | Rockville, MD | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Parkland](https://jobright.ai/jobs/info/69003227e04ac838fb5c024a?utm_campaign=1051&utm_source=git)** | Parkland, FL | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Hampton](https://jobright.ai/jobs/info/6900320ae04ac838fb5c0229?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6900320ae04ac838fb5c022a?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Mentor](https://jobright.ai/jobs/info/69003205e04ac838fb5c0221?utm_campaign=1051&utm_source=git)** | Mentor, OH | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Canton](https://jobright.ai/jobs/info/690031ece04ac838fb5c0207?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Warsaw](https://jobright.ai/jobs/info/690031dbe04ac838fb5c01f8?utm_campaign=1051&utm_source=git)** | Warsaw, IN | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Irving](https://jobright.ai/jobs/info/690031bae04ac838fb5c01da?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Waynesboro](https://jobright.ai/jobs/info/690031a7e04ac838fb5c01cb?utm_campaign=1051&utm_source=git)** | Waynesboro, PA | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/690031a4e0c73b3a111a3335?utm_campaign=1051&utm_source=git)** | Palmdale, CA | On Site | Oct 27 |
-| ↳ | **[Summer Sales Internship Alamogordo](https://jobright.ai/jobs/info/6900319fe0c73b3a111a332d?utm_campaign=1051&utm_source=git)** | Alamogordo, NM | On Site | Oct 27 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69003252e04ac838fb5c0271?utm_campaign=1051&utm_source=git)** | Killeen, TX | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
