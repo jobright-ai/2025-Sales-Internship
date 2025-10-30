@@ -57,9 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phillips Edison & Company](http://phillipsedison.com)** | **[Leasing Intern (Summer 2026 - Atlanta)](https://jobright.ai/jobs/info/68cb08afd905e25191d9eaa1?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/68e6ae6eae2b894b1d71c74f?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Oct 30 |
+| **[Nucor Corporation](http://www.nucor.com)** | **[VNY Sales Intern](https://jobright.ai/jobs/info/68cd11e1e23def7af55b4b4d?utm_campaign=1051&utm_source=git)** | Salem, NH | On Site | Oct 30 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/6882f5256fcd973d15add641?utm_campaign=1051&utm_source=git)** | Home, MI | On Site | Oct 30 |
+| **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891709ef47efe21139553a8?utm_campaign=1051&utm_source=git)** | Moorpark, CA | On Site | Oct 30 |
+| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae6914d627244576e53b61?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Oct 30 |
+| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Intern - Golf Retail, Blackwolf Run](https://jobright.ai/jobs/info/68ad16b6758f2e4ac300ae47?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | Oct 30 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69033ff4d64a22104aa8e5e9?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Oct 30 |
+| **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cd5b1ce23def7af55b88d7?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
+| ↳ | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68ca5c6b5f9f0336447dc938?utm_campaign=1051&utm_source=git)** | Golden Valley, MN | On Site | Oct 30 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Intern Client Experience - Asset Management](https://jobright.ai/jobs/info/68e6ee0fe8daec61499b0aa8?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Oct 30 |
 | **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689184214c7e851b90acf6ce?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 30 |
 | ↳ | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c90865f9c6ff7aedf16bf8?utm_campaign=1051&utm_source=git)** | Apex, NC | On Site | Oct 30 |
+| **[Oklahoma City Zoo and Botanical Garden](https://www.okczoo.org)** | **[Events and Sales Intern - OKC Zoo](https://jobright.ai/jobs/info/69034bc4d64a22104aa8e969?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Oct 30 |
+| **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891739ff5ee707a15dbe985?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 30 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Correspondent Lending Operations](https://jobright.ai/jobs/info/6902fb0e98707b2b0fe74619?utm_campaign=1051&utm_source=git)** | Westlake Village, CA | On Site | Oct 29 |
 | **[Santander](https://www.santander.com/)** | **[Partnerships Intern](https://jobright.ai/jobs/info/6902ed5300a1816c41ea2ac1?utm_campaign=1051&utm_source=git)** | Boston | On Site | Oct 29 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Pensacola](https://jobright.ai/jobs/info/6902e60eff462851fefe76a0?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Oct 29 |
@@ -144,17 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Starkville](https://jobright.ai/jobs/info/6902db0698707b2b0fe735bf?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902db01ff462851fefe6fd5?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902db00ff462851fefe6fd4?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902dafeff462851fefe6fce?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902dafe00a1816c41ea2001?utm_campaign=1051&utm_source=git)** | Chula Vista, CA | On Site | Oct 29 |
-| ↳ | **[Summer Sales Intern Glendale](https://jobright.ai/jobs/info/6902daf898707b2b0fe735ba?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship White Plains](https://jobright.ai/jobs/info/6902daf500a1816c41ea1ffb?utm_campaign=1051&utm_source=git)** | White Plains, NY | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship Athens](https://jobright.ai/jobs/info/6902daecff462851fefe6fbc?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902daeb98707b2b0fe735b0?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship Livonia](https://jobright.ai/jobs/info/6902dadb00a1816c41ea1fe3?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship Mason City](https://jobright.ai/jobs/info/6902daca00a1816c41ea1fd1?utm_campaign=1051&utm_source=git)** | Mason City, IA | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902daa698707b2b0fe7357d?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship Foley](https://jobright.ai/jobs/info/6902daa5ff462851fefe6f8a?utm_campaign=1051&utm_source=git)** | Foley, AL | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship Cabot](https://jobright.ai/jobs/info/6902da9800a1816c41ea1fb1?utm_campaign=1051&utm_source=git)** | Cabot, AR | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship Tifton](https://jobright.ai/jobs/info/6902da92ff462851fefe6f7a?utm_campaign=1051&utm_source=git)** | Tifton, GA | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902da8bff462851fefe6f71?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
