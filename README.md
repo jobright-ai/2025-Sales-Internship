@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander Private Banking International](http://pb-santander.com)** | **[Intern - Travel & Procurement](https://jobright.ai/jobs/info/6902bddd00a1816c41ea1131?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 29 |
+| **[JM&A Group](https://www.jmagroup.com/)** | **[Sales Operations- Strategy & Execution Intern](https://jobright.ai/jobs/info/6902b53b98707b2b0fe72293?utm_campaign=1051&utm_source=git)** | Miami-FTL Area | On Site | Oct 29 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Buyer Intern](https://jobright.ai/jobs/info/6902a8afff462851fefe596c?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Oct 29 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/6902a60c98707b2b0fe71e0b?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Oct 29 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Account Management Intern](https://jobright.ai/jobs/info/68dab9c96df7b8311bb1190e?utm_campaign=1051&utm_source=git)** | Grayslake, IL | On Site | Oct 29 |
 | **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6902a061ff462851fefe55c2?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Oct 29 |
@@ -135,8 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690255dcff462851fefe2052?utm_campaign=1051&utm_source=git)** | Lehighton, PA | On Site | Oct 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6902559500a1816c41e9d04c?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Oct 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6902553300a1816c41e9d00d?utm_campaign=1051&utm_source=git)** | Union Grove, WI | On Site | Oct 29 |
-| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Underwriting Intern - Personal Lines](https://jobright.ai/jobs/info/6902552e98707b2b0fe6e4eb?utm_campaign=1051&utm_source=git)** | Bedford, NH | On Site | Oct 29 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690254f198707b2b0fe6e4c7?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | Oct 29 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690254f198707b2b0fe6e4c7?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | Oct 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690254bd98707b2b0fe6e4b4?utm_campaign=1051&utm_source=git)** | Etna, OH | On Site | Oct 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690254a998707b2b0fe6e49d?utm_campaign=1051&utm_source=git)** | Clifton, NJ | On Site | Oct 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690253c298707b2b0fe6e3f8?utm_campaign=1051&utm_source=git)** | Paramus, NJ | On Site | Oct 29 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Partnerships Intern](https://jobright.ai/jobs/info/6902485900a1816c41e9c81c?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Remote | Oct 29 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690266a898707b2b0fe6eede?utm_campaign=1051&utm_source=git)** | Monroeville, PA | On Site | Oct 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690266dfff462851fefe2ad0?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Oct 29 |
-| **[Santander](https://www.santander.com/)** | **[Intern - Travel & Procurement](https://jobright.ai/jobs/info/690241bf98707b2b0fe6d88e?utm_campaign=1051&utm_source=git)** | Brickell Plaza-Corp | On Site | Oct 29 |
-| **[Schneider](https://schneider.com)** | **[Freight Broker Intern - Summer 2026](https://jobright.ai/jobs/info/69023fcf98707b2b0fe6d85e?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Oct 29 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69023db098707b2b0fe6d720?utm_campaign=1051&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Oct 29 |
+| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Underwriting Intern - Personal Lines](https://jobright.ai/jobs/info/6902439d00a1816c41e9c4b6?utm_campaign=1051&utm_source=git)** | Bedford, NH | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
