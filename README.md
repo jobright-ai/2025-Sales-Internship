@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stravyn Hill](https://www.linkedin.com/company/108148379)** | **[Business Development Intern](https://jobright.ai/jobs/info/690301aeff462851fefe820b?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Correspondent Lending Operations](https://jobright.ai/jobs/info/6902fb0e98707b2b0fe74619?utm_campaign=1051&utm_source=git)** | Westlake Village, CA | On Site | Oct 29 |
 | **[Santander](https://www.santander.com/)** | **[Partnerships Intern](https://jobright.ai/jobs/info/6902ed5300a1816c41ea2ac1?utm_campaign=1051&utm_source=git)** | Boston | On Site | Oct 29 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Pensacola](https://jobright.ai/jobs/info/6902e60eff462851fefe76a0?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Oct 29 |
@@ -134,15 +135,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Santa Monica](https://jobright.ai/jobs/info/6902db4498707b2b0fe735f2?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/6902db3fff462851fefe7012?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship Manhattan Beach](https://jobright.ai/jobs/info/6902db34ff462851fefe7008?utm_campaign=1051&utm_source=git)** | Manhattan Beach, CA | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/6902db2898707b2b0fe735db?utm_campaign=1051&utm_source=git)** | Asheboro, NC | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship Norwalk](https://jobright.ai/jobs/info/6902db2800a1816c41ea2022?utm_campaign=1051&utm_source=git)** | Norwalk, OH | On Site | Oct 29 |
+| ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/6902db2898707b2b0fe735db?utm_campaign=1051&utm_source=git)** | Asheboro, NC | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship Arlington](https://jobright.ai/jobs/info/6902db1eff462851fefe6ff3?utm_campaign=1051&utm_source=git)** | Arlington, TX | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship Elko](https://jobright.ai/jobs/info/6902db0bff462851fefe6fe0?utm_campaign=1051&utm_source=git)** | Elko, NV | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship Starkville](https://jobright.ai/jobs/info/6902db0698707b2b0fe735bf?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902db01ff462851fefe6fd5?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902db00ff462851fefe6fd4?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902dafe00a1816c41ea2001?utm_campaign=1051&utm_source=git)** | Chula Vista, CA | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902dafeff462851fefe6fce?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Oct 29 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902dafe00a1816c41ea2001?utm_campaign=1051&utm_source=git)** | Chula Vista, CA | On Site | Oct 29 |
 | ↳ | **[Summer Sales Intern Glendale](https://jobright.ai/jobs/info/6902daf898707b2b0fe735ba?utm_campaign=1051&utm_source=git)** | Glendale, AZ | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship White Plains](https://jobright.ai/jobs/info/6902daf500a1816c41ea1ffb?utm_campaign=1051&utm_source=git)** | White Plains, NY | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship Athens](https://jobright.ai/jobs/info/6902daecff462851fefe6fbc?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Oct 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902da8bff462851fefe6f71?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship Arroyo Grande](https://jobright.ai/jobs/info/6902da82ff462851fefe6f68?utm_campaign=1051&utm_source=git)** | Arroyo Grande, CA | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship North Platte](https://jobright.ai/jobs/info/6902da7c00a1816c41ea1f96?utm_campaign=1051&utm_source=git)** | North Platte, NE | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship Lake Oswego](https://jobright.ai/jobs/info/6902da7798707b2b0fe7355f?utm_campaign=1051&utm_source=git)** | Lake Oswego, OR | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
