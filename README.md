@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stravyn Hill](https://www.linkedin.com/company/108148379)** | **[Business Development Intern](https://jobright.ai/jobs/info/690301aeff462851fefe820b?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 29 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Intern Client Experience - Asset Management](https://jobright.ai/jobs/info/68e6ee0fe8daec61499b0aa8?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Oct 30 |
+| **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689184214c7e851b90acf6ce?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Oct 30 |
+| ↳ | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c90865f9c6ff7aedf16bf8?utm_campaign=1051&utm_source=git)** | Apex, NC | On Site | Oct 30 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Correspondent Lending Operations](https://jobright.ai/jobs/info/6902fb0e98707b2b0fe74619?utm_campaign=1051&utm_source=git)** | Westlake Village, CA | On Site | Oct 29 |
 | **[Santander](https://www.santander.com/)** | **[Partnerships Intern](https://jobright.ai/jobs/info/6902ed5300a1816c41ea2ac1?utm_campaign=1051&utm_source=git)** | Boston | On Site | Oct 29 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Pensacola](https://jobright.ai/jobs/info/6902e60eff462851fefe76a0?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Oct 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Cabot](https://jobright.ai/jobs/info/6902da9800a1816c41ea1fb1?utm_campaign=1051&utm_source=git)** | Cabot, AR | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship Tifton](https://jobright.ai/jobs/info/6902da92ff462851fefe6f7a?utm_campaign=1051&utm_source=git)** | Tifton, GA | On Site | Oct 29 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6902da8bff462851fefe6f71?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship Arroyo Grande](https://jobright.ai/jobs/info/6902da82ff462851fefe6f68?utm_campaign=1051&utm_source=git)** | Arroyo Grande, CA | On Site | Oct 29 |
-| ↳ | **[Summer Sales Internship North Platte](https://jobright.ai/jobs/info/6902da7c00a1816c41ea1f96?utm_campaign=1051&utm_source=git)** | North Platte, NE | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
