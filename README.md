@@ -57,6 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/6902a60c98707b2b0fe71e0b?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Oct 29 |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Account Management Intern](https://jobright.ai/jobs/info/68dab9c96df7b8311bb1190e?utm_campaign=1051&utm_source=git)** | Grayslake, IL | On Site | Oct 29 |
+| **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6902a061ff462851fefe55c2?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Oct 29 |
+| **[Carlyle Avenue](https://carlyleavenue.com)** | **[Customer Service & E-Commerce Intern](https://jobright.ai/jobs/info/69029e57ff462851fefe5414?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 29 |
+| **[The KINN](www.thekinn.co)** | **[Membership Intern at The KINN](https://jobright.ai/jobs/info/69029df7ff462851fefe53cb?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Oct 29 |
+| **[GenAIx](https://genaix.org)** | **[Business Development Intern(Sales)](https://jobright.ai/jobs/info/69029b7900a1816c41ea02f7?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 29 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)– Eau Claire, WI (Starting Summer 2026)](https://jobright.ai/jobs/info/69029a3eff462851fefe52cd?utm_campaign=1051&utm_source=git)** | 151 Tyler Rd N, Red Wing,MN 55066-1865 | Hybrid | Oct 29 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– Eau Claire, WI (Starting Summer 2026)](https://jobright.ai/jobs/info/69029a05ff462851fefe52be?utm_campaign=1051&utm_source=git)** | 301 Park Dr, Owatonna,MN 55060-5639 | Hybrid | Oct 29 |
+| **[Intuit](https://www.intuit.com)** | **[MBA Finance Intern, Intuit Customer Success](https://jobright.ai/jobs/info/69029811ff462851fefe50e6?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)– Eau Claire, WI (Starting Summer 2026)](https://jobright.ai/jobs/info/690295b9ff462851fefe4f83?utm_campaign=1051&utm_source=git)** | 3450 4th St SW, Mason City,IA 50401-1572 | Hybrid | Oct 29 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– Eau Claire, WI (Starting Summer 2026)](https://jobright.ai/jobs/info/6902930e00a1816c41e9feac?utm_campaign=1051&utm_source=git)** | 3827 Marketplace Dr NW, Rochester,MN 55901-3192 | Hybrid | Oct 29 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– Eau Claire, WI (Starting Summer 2026)](https://jobright.ai/jobs/info/6902925b00a1816c41e9fd90?utm_campaign=1051&utm_source=git)** | 4611 Maine Ave SE, Rochester, MN 55904-6929 | Hybrid | Oct 29 |
+| **[RR Donnelley](http://www.rrd.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6902920c00a1816c41e9fd18?utm_campaign=1051&utm_source=git)** | Laurel, MD | On Site | Oct 29 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)– Eau Claire, WI (Starting Summer 2026)](https://jobright.ai/jobs/info/6902910a98707b2b0fe711ff?utm_campaign=1051&utm_source=git)** | 9400 State Road 16, Onalaska,WI 54650-8540 | Hybrid | Oct 29 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern)– Eau Claire, WI (Starting Summer 2026)](https://jobright.ai/jobs/info/690290ac98707b2b0fe7119f?utm_campaign=1051&utm_source=git)** | 3649 S Hastings Way, Eau Claire,WI 54701-8182 | Hybrid | Oct 29 |
+| **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Asset Management](https://jobright.ai/jobs/info/69028d8300a1816c41e9f914?utm_campaign=1051&utm_source=git)** | Smithfield, RI | On Site | Oct 29 |
+| **[The Plug Drink](https://theplugdrink.com/)** | **[Sales Development Intern (Greater Los Angeles Area)](https://jobright.ai/jobs/info/69028cdd98707b2b0fe70e15?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Oct 29 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69028af3ff462851fefe46e0?utm_campaign=1051&utm_source=git)** | Dedham, MA | On Site | Oct 29 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690287e6ff462851fefe438c?utm_campaign=1051&utm_source=git)** | Chantilly, VA | On Site | Oct 29 |
 | **[Navier](https://www.navierboat.com/)** | **[MBA Internship](https://jobright.ai/jobs/info/68dad21907c157682e56df00?utm_campaign=1051&utm_source=git)** | Alameda, CA | On Site | Oct 29 |
@@ -78,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690262dc98707b2b0fe6ec80?utm_campaign=1051&utm_source=git)** | Franklin, WI | On Site | Oct 29 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/69026230ff462851fefe2785?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Commercial & CX Internship (Early Careers) - S&P Global](https://jobright.ai/jobs/info/6902622dff462851fefe2782?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Oct 29 |
+| **[Symphony](http://www.symphony.com)** | **[Intern, Customer Success](https://jobright.ai/jobs/info/68d5969e63d77d6f6f3f0c71?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Oct 29 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/69026124ff462851fefe26db?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Oct 29 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/68fe79fce04ac838fb5b4375?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Oct 29 |
 | ↳ | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/6902604b00a1816c41e9d63f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 29 |
@@ -139,22 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Santander](https://www.santander.com/)** | **[Intern - Travel & Procurement](https://jobright.ai/jobs/info/690241bf98707b2b0fe6d88e?utm_campaign=1051&utm_source=git)** | Brickell Plaza-Corp | On Site | Oct 29 |
 | **[Schneider](https://schneider.com)** | **[Freight Broker Intern - Summer 2026](https://jobright.ai/jobs/info/69023fcf98707b2b0fe6d85e?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Oct 29 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69023db098707b2b0fe6d720?utm_campaign=1051&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Oct 29 |
-| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Oct 29 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/690237d798707b2b0fe6d35d?utm_campaign=1051&utm_source=git)** | Portsmouth, NH | On Site | Oct 29 |
-| **[Royal Oak Leprechauns](https://northwoodsleague.com/royal-oak-leprechauns/)** | **[Merchandise & Sales Intern](https://jobright.ai/jobs/info/690258adff462851fefe2285?utm_campaign=1051&utm_source=git)** | Royal Oak, MI | On Site | Oct 29 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/690236e500a1816c41e9bdf4?utm_campaign=1051&utm_source=git)** | Heath, OH | On Site | Oct 29 |
-| **[CDK Global](http://www.cdkglobal.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68c8823495f5211cd2ce62ac?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Oct 29 |
-| **[FM](https://www.fmglobal.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68c8cb5895f5211cd2ce9603?utm_campaign=1051&utm_source=git)** | Johnston, RI | On Site | Oct 29 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6902777d98707b2b0fe6faf1?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Oct 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8ef7195f5211cd2ceb937?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Oct 29 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Sales Analyst Intern - Pomona](https://jobright.ai/jobs/info/68ce771cfb49c96ca6ea0b6d?utm_campaign=1051&utm_source=git)** | Pomona, CA | On Site | Oct 29 |
-| **[CDK Global](http://www.cdkglobal.com/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/68c87b0395f5211cd2ce5ac0?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Oct 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68cd3149e23def7af55b69e5?utm_campaign=1051&utm_source=git)** | Helena, MT | On Site | Oct 29 |
-| **[CDK Global](http://www.cdkglobal.com/)** | **[Customer Success Intern](https://jobright.ai/jobs/info/68ce24ec1ad6b16f028a25a7?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | Hybrid | Oct 29 |
-| ↳ | **[Sales Operations Intern](https://jobright.ai/jobs/info/68c94a7295f5211cd2cef943?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | Hybrid | Oct 29 |
-| **[Merchants Bank IN](http://bankmerchants.com)** | **[SBA Business Development Intern - Summer 2026](https://jobright.ai/jobs/info/68ca43c00456a931db29679a?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Oct 29 |
-| **[CivicPlus](http://www.civicplus.com)** | **[Sales Development Rep Internship](https://jobright.ai/jobs/info/68c9cb2da0c52d598ea3b60a?utm_campaign=1051&utm_source=git)** | Kansas, United States | On Site | Oct 29 |
-| **[IIRR](http://www.iirr.org)** | **[Fundraising Officer - Intern](https://jobright.ai/jobs/info/69024d57ff462851fefe1bb9?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 29 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69024eb400a1816c41e9ccf5?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Oct 29 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Land Intern - Panama City East](https://jobright.ai/jobs/info/68c9d1d1f9c6ff7aedf1e1a6?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
