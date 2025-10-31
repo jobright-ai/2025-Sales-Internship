@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RaceTrac](http://www.racetrac.com/)** | **[Partnerships Intern (Summer 2026)](https://jobright.ai/jobs/info/690412bdff462851feff27a0?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
+| **[Michaels Stores](https://teachitpro.com)** | **[Intern - Store Experience (Corporate)](https://jobright.ai/jobs/info/6904036c63502c0aded6f792?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Oct 30 |
+| **[SparkPrintz](https://www.sparkprintz.com/)** | **[High School Sales and Marketing Intern](https://jobright.ai/jobs/info/6903fef363502c0aded6f3db?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 30 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Intern / Co-op](https://jobright.ai/jobs/info/6903fe5663502c0aded6f38a?utm_campaign=1051&utm_source=git)** | Beachwood, OH | On Site | Oct 30 |
+| **[AMRIscan](https://www.amriscan.com/)** | **[Health Partnerships Intern](https://jobright.ai/jobs/info/6903fd1ad64a22104aa95b31?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Financial Services Development Associate (Intern or Entry-Level)](https://jobright.ai/jobs/info/6903f358d64a22104aa95332?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Oct 30 |
 | **[Worthington Steel](https://www.worthingtonsteel.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6903e77d63502c0aded6e3ec?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
-| **[Northwest Bank](https://www.northwest.bank)** | **[Retail Lending Intern](https://jobright.ai/jobs/info/6903e70f63502c0aded6e367?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Sales and Trading Internships - NYC](https://jobright.ai/jobs/info/6903d42f63502c0aded6cfe3?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Oct 30 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Materials Sales Representative Intern](https://jobright.ai/jobs/info/6903e5c563502c0aded6e24a?utm_campaign=1051&utm_source=git)** | Everett, WA | On Site | Oct 30 |
+| **[Northwest Bank](https://www.northwest.bank)** | **[Retail Lending Intern](https://jobright.ai/jobs/info/6903e12063502c0aded6ddcd?utm_campaign=1051&utm_source=git)** | Warren, PA | On Site | Oct 30 |
 | **[Orbient 24](orbient24.us)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/6903e0cfd64a22104aa9468c?utm_campaign=1051&utm_source=git)** | Redland, MD | Remote | Oct 30 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Intern / Co-op](https://jobright.ai/jobs/info/6903e068d64a22104aa9461e?utm_campaign=1051&utm_source=git)** | Beachwood, OH | On Site | Oct 30 |
 | **[Double A Solutions](http://www.doubleasolutions.net/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6903df0bff462851fefeff9a?utm_campaign=1051&utm_source=git)** | Toledo, OH | Hybrid | Oct 30 |
@@ -82,9 +87,9 @@ For a complete list, click the following sortable link below:
 | **[Sonepar USA](http://sonepar-us.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6903c79fff462851fefeea72?utm_campaign=1051&utm_source=git)** | North Charleston, SC | Hybrid | Oct 30 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Operations Support](https://jobright.ai/jobs/info/6903e721d64a22104aa94c87?utm_campaign=1051&utm_source=git)** | Columbia, MO | Hybrid | Oct 30 |
 | **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Access Insurance Internship](https://jobright.ai/jobs/info/6903c55dff462851fefee8d2?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Oct 30 |
+| **[Northwest Bank](https://www.northwest.bank)** | **[Retail Lending Intern](https://jobright.ai/jobs/info/6903c001d64a22104aa92764?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Oct 30 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Sales and Trading Internships - NYC](https://jobright.ai/jobs/info/6903bfdfd64a22104aa9274b?utm_campaign=1051&utm_source=git)** | New York | On Site | Oct 30 |
 | **[Roger Dean Chevrolet Stadium](https://rogerdeanchevroletstadium.com/)** | **[Merchandise Intern](https://jobright.ai/jobs/info/6903d9a1d64a22104aa93f37?utm_campaign=1051&utm_source=git)** | Jupiter, FL | On Site | Oct 30 |
-| **[Northwest Bank](https://www.northwest.bank)** | **[Retail Lending Intern](https://jobright.ai/jobs/info/6903bc1bff462851fefee161?utm_campaign=1051&utm_source=git)** | Warren, PA | On Site | Oct 30 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern - Race Fuels Sales Support](https://jobright.ai/jobs/info/6903b7bb63502c0aded6b704?utm_campaign=1051&utm_source=git)** | NEWTOWN SQUARE, Pennsylvania, United States | On Site | Oct 30 |
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6903f838d64a22104aa9556c?utm_campaign=1051&utm_source=git)** | Darrell Waltrip Honda | On Site | Oct 30 |
 | **[Tenacity](https://tenacity.org)** | **[Tenacity Development Internship](https://jobright.ai/jobs/info/6903b78c63502c0aded6b6c4?utm_campaign=1051&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Oct 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Field Sales Intern (Miami), Summer 2026](https://jobright.ai/jobs/info/690378d4d64a22104aa8fa9a?utm_campaign=1051&utm_source=git)** | Working Remote USA | Remote | Oct 30 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68c9d5b395f5211cd2cf4f60?utm_campaign=1051&utm_source=git)** | Smyrna, TN | On Site | Oct 30 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Commercial Excellence, Training and Enablement Summer Internship](https://jobright.ai/jobs/info/68e68a1e1852e62f0081c003?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Oct 30 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69036fcd63502c0aded68d5b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Oct 30 |
-| **[Playhouse](https://playhouse-ai.world)** | **[Forward Deployed Engineer & Sales Strategist (Unpaid – Remote)](https://jobright.ai/jobs/info/69039156ff462851fefec3fb?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | Oct 30 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69036d6f63502c0aded68be5?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Oct 30 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69036d6bd64a22104aa8f593?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Oct 30 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Strategic Sales & Analytics Intern (February to May)](https://jobright.ai/jobs/info/68cc6b7f128dc347fd92495d?utm_campaign=1051&utm_source=git)** | Needham, MA | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
