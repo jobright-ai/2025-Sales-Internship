@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Business Development & Strategy](https://jobright.ai/jobs/info/69045aaaff462851feff4cdc?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Oct 30 |
 | **[Altius](altiusinnovate.com)** | **[SDR Intern (Commission)](https://jobright.ai/jobs/info/69044e5bff462851feff49f8?utm_campaign=1051&utm_source=git)** | Triangle Area | Remote | Oct 30 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Materials Sales Representative Intern](https://jobright.ai/jobs/info/6904465f63502c0aded721f7?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Oct 30 |
+| **[zant](https://www.zant.app/)** | **[Sales Intern](https://jobright.ai/jobs/info/69046b3fd64a22104aa995e3?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Oct 30 |
 | **[Steva](https://steva.co)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69043c0ed64a22104aa985fd?utm_campaign=1051&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Intuit](https://www.intuit.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69043ad9d64a22104aa98580?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Shoreline](https://jobright.ai/jobs/info/6904322563502c0aded716e3?utm_campaign=1051&utm_source=git)** | Shoreline, WA | On Site | Oct 30 |
@@ -87,15 +88,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Clinton](https://jobright.ai/jobs/info/69042b75d64a22104aa97c24?utm_campaign=1051&utm_source=git)** | Clinton, MS | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Sioux City](https://jobright.ai/jobs/info/69042b6e63502c0aded71333?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69042b4dd64a22104aa97bfc?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Oct 30 |
-| ↳ | **[Summer Sales Internship Nashville](https://jobright.ai/jobs/info/69042b1663502c0aded71300?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Rome](https://jobright.ai/jobs/info/69042b1663502c0aded712fe?utm_campaign=1051&utm_source=git)** | Rome, NY | On Site | Oct 30 |
+| ↳ | **[Summer Sales Internship Nashville](https://jobright.ai/jobs/info/69042b1663502c0aded71300?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69042b11d64a22104aa97bc7?utm_campaign=1051&utm_source=git)** | Sterling Heights, MI | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69042b08d64a22104aa97bbc?utm_campaign=1051&utm_source=git)** | West Covina, CA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Seguin](https://jobright.ai/jobs/info/69042b0163502c0aded712e8?utm_campaign=1051&utm_source=git)** | Seguin, TX | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Margate](https://jobright.ai/jobs/info/69042abdd64a22104aa97b7e?utm_campaign=1051&utm_source=git)** | Margate, FL | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Fitchburg](https://jobright.ai/jobs/info/69042ab4d64a22104aa97b77?utm_campaign=1051&utm_source=git)** | Fitchburg, MA | On Site | Oct 30 |
-| ↳ | **[Summer Sales Internship Kennewick](https://jobright.ai/jobs/info/69042a8b63502c0aded71293?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Pasadena](https://jobright.ai/jobs/info/69042a8b63502c0aded71292?utm_campaign=1051&utm_source=git)** | Pasadena, TX | On Site | Oct 30 |
+| ↳ | **[Summer Sales Internship Kennewick](https://jobright.ai/jobs/info/69042a8b63502c0aded71293?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Auburn](https://jobright.ai/jobs/info/69042a7d63502c0aded7128a?utm_campaign=1051&utm_source=git)** | Auburn, CA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Lancaster](https://jobright.ai/jobs/info/69042a79d64a22104aa97b3f?utm_campaign=1051&utm_source=git)** | Lancaster, CA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship 	San Angelo](https://jobright.ai/jobs/info/69042a7663502c0aded71282?utm_campaign=1051&utm_source=git)** | San Angelo, TX | On Site | Oct 30 |
@@ -136,14 +137,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Garland](https://jobright.ai/jobs/info/69042942ff462851feff379c?utm_campaign=1051&utm_source=git)** | Garland, TX | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Richfield](https://jobright.ai/jobs/info/6904293cff462851feff3798?utm_campaign=1051&utm_source=git)** | Richfield, MN | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69042934ff462851feff378f?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Oct 30 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6904292563502c0aded71157?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Mission](https://jobright.ai/jobs/info/69042925ff462851feff3781?utm_campaign=1051&utm_source=git)** | Mission, TX | On Site | Oct 30 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6904292563502c0aded71157?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6904291fff462851feff3779?utm_campaign=1051&utm_source=git)** | Fayetteville, NC | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Sanford](https://jobright.ai/jobs/info/69042913ff462851feff376d?utm_campaign=1051&utm_source=git)** | Sanford, ME | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Santa Cruz](https://jobright.ai/jobs/info/690428ff63502c0aded71138?utm_campaign=1051&utm_source=git)** | Santa Cruz, CA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Adelanto](https://jobright.ai/jobs/info/690428f2ff462851feff3756?utm_campaign=1051&utm_source=git)** | Adelanto, CA | On Site | Oct 30 |
-| ↳ | **[Summer Sales Internship Little Rock](https://jobright.ai/jobs/info/690428f0d64a22104aa979ee?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Staten Island](https://jobright.ai/jobs/info/690428f0d64a22104aa979ed?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Oct 30 |
+| ↳ | **[Summer Sales Internship Little Rock](https://jobright.ai/jobs/info/690428f0d64a22104aa979ee?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship 	Seattle](https://jobright.ai/jobs/info/690428ecff462851feff374b?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Norfolk](https://jobright.ai/jobs/info/690428e063502c0aded7111c?utm_campaign=1051&utm_source=git)** | Norfolk, NE | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/690428d6ff462851feff3733?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Oct 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Elkhart](https://jobright.ai/jobs/info/690428a3d64a22104aa979a8?utm_campaign=1051&utm_source=git)** | Elkhart, IN | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship 	Thousand Oaks](https://jobright.ai/jobs/info/6904289fff462851feff3703?utm_campaign=1051&utm_source=git)** | Thousand Oaks, CA | On Site | Oct 30 |
 | ↳ | **[Summer Sales Internship Missoula](https://jobright.ai/jobs/info/6904287363502c0aded710bb?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Oct 30 |
-| ↳ | **[Summer Sales Internship 	East Los Angeles](https://jobright.ai/jobs/info/6904287263502c0aded710ba?utm_campaign=1051&utm_source=git)** | East Los Angeles, CA | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
