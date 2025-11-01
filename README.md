@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6906452f122e8474c78dfa1e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 01 |
+| **[Inpro](http://inpro.co.kr)** | **[Sales Intern](https://jobright.ai/jobs/info/690662c5122e8474c78dfe7e?utm_campaign=1051&utm_source=git)** | Muskego, WI | On Site | Nov 01 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/690653ae63502c0aded81f8e?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Nov 01 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/690653ad122e8474c78dfbe2?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 01 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69064ca4ff462851fe0043e9?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 01 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/69064c88ff462851fe0043e2?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 01 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69064c6263502c0aded81ee4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 01 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69064c5c122e8474c78dfb20?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 01 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6906452f122e8474c78dfa1e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[True Northon](https://www.linkedin.com/company/108612821)** | **[Sales Intern](https://jobright.ai/jobs/info/69062dd1122e8474c78df4b1?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | Remote | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68cc494f16d00d2beeb1cfac?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Nov 01 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Mortgage Sales](https://jobright.ai/jobs/info/68b0f60a6fab621da7b08e47?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Nov 01 |
@@ -131,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Real Estate Services](https://jobright.ai/jobs/info/6905b808ff462851fefffb59?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Nov 01 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Industry & Partner Engagement Internship - Spring 2026](https://jobright.ai/jobs/info/6905f5b863502c0aded7f91a?utm_campaign=1051&utm_source=git)** | Cleveland, Ohio | On Site | Nov 01 |
 | **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Brokerage Insurance Internship](https://jobright.ai/jobs/info/6905adabff462851fefff3c4?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
+| **[Optimum](http://www.optimum.com)** | **[Intern](https://jobright.ai/jobs/info/69057ea863502c0aded7b908?utm_campaign=1051&utm_source=git)** | Bethpage, NY | On Site | Oct 31 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Skokie](https://jobright.ai/jobs/info/69057e6c63502c0aded7b8d6?utm_campaign=1051&utm_source=git)** | Skokie, IL | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Gaffney](https://jobright.ai/jobs/info/69057b7163502c0aded7b759?utm_campaign=1051&utm_source=git)** | Gaffney, SC | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Tumwater](https://jobright.ai/jobs/info/69057af2ff462851feffdd5f?utm_campaign=1051&utm_source=git)** | Tumwater, WA | On Site | Oct 31 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Aliso Viejo](https://jobright.ai/jobs/info/6905772cff462851feffdb35?utm_campaign=1051&utm_source=git)** | Aliso Viejo, CA | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/69057728ff462851feffdb33?utm_campaign=1051&utm_source=git)** | Leland, NC | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Streamwood](https://jobright.ai/jobs/info/69057724ff462851feffdb30?utm_campaign=1051&utm_source=git)** | Streamwood, IL | On Site | Oct 31 |
-| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/690576fcff462851feffdb12?utm_campaign=1051&utm_source=git)** | Ohio, United States | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Cheyenne](https://jobright.ai/jobs/info/690576f1ff462851feffdb08?utm_campaign=1051&utm_source=git)** | Cheyenne, WY | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Brunswick](https://jobright.ai/jobs/info/690576cdff462851feffdaf3?utm_campaign=1051&utm_source=git)** | Brunswick, GA | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/690576b4ff462851feffdae3?utm_campaign=1051&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Waterloo](https://jobright.ai/jobs/info/690576a3ff462851feffdadb?utm_campaign=1051&utm_source=git)** | Waterloo, IA | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Spring Valley](https://jobright.ai/jobs/info/69057695ff462851feffdad5?utm_campaign=1051&utm_source=git)** | Spring Valley, NY | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Longview](https://jobright.ai/jobs/info/6905768fff462851feffdad2?utm_campaign=1051&utm_source=git)** | Longview, WA | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship DeKalb](https://jobright.ai/jobs/info/69057685ff462851feffdacb?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
