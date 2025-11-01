@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Beaumont](https://jobright.ai/jobs/info/69057671ff462851feffdabd?utm_campaign=1051&utm_source=git)** | Beaumont, CA | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/6905766f122e8474c78d9296?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship New Smyrna Beach](https://jobright.ai/jobs/info/69057662122e8474c78d9292?utm_campaign=1051&utm_source=git)** | New Smyrna Beach, FL | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Oak Park](https://jobright.ai/jobs/info/6905764fff462851feffdaa5?utm_campaign=1051&utm_source=git)** | Oak Park, MI | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Palatka](https://jobright.ai/jobs/info/6905764fff462851feffdaa7?utm_campaign=1051&utm_source=git)** | Palatka, FL | On Site | Oct 31 |
+| ↳ | **[Summer Sales Internship Oak Park](https://jobright.ai/jobs/info/6905764fff462851feffdaa5?utm_campaign=1051&utm_source=git)** | Oak Park, MI | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Corvallis](https://jobright.ai/jobs/info/69057648122e8474c78d9289?utm_campaign=1051&utm_source=git)** | Corvallis, OR | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Moline](https://jobright.ai/jobs/info/69057645ff462851feffda9c?utm_campaign=1051&utm_source=git)** | Moline, IL | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6905763aff462851feffda95?utm_campaign=1051&utm_source=git)** | El Monte, CA | On Site | Oct 31 |
@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Hialeah Gardens](https://jobright.ai/jobs/info/69057552122e8474c78d91d5?utm_campaign=1051&utm_source=git)** | Hialeah Gardens, FL | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Oakland Park](https://jobright.ai/jobs/info/6905754f122e8474c78d91d1?utm_campaign=1051&utm_source=git)** | Oakland Park, FL | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Northbrook](https://jobright.ai/jobs/info/6905754f122e8474c78d91d2?utm_campaign=1051&utm_source=git)** | Northbrook, IL | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6905754e122e8474c78d91cf?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6905754e122e8474c78d91d0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Oct 31 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6905754e122e8474c78d91cf?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Bristol](https://jobright.ai/jobs/info/6905752e122e8474c78d91af?utm_campaign=1051&utm_source=git)** | Bristol, CT | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Mundelein](https://jobright.ai/jobs/info/6905752cff462851feffd9e1?utm_campaign=1051&utm_source=git)** | Mundelein, IL | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Staunton](https://jobright.ai/jobs/info/69057529122e8474c78d91ac?utm_campaign=1051&utm_source=git)** | Staunton, VA | On Site | Oct 31 |
@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Livermore](https://jobright.ai/jobs/info/6905750f122e8474c78d9198?utm_campaign=1051&utm_source=git)** | Livermore, CA | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Jacksonville](https://jobright.ai/jobs/info/69057509122e8474c78d9196?utm_campaign=1051&utm_source=git)** | Jacksonville, IL | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Peabody](https://jobright.ai/jobs/info/69057504122e8474c78d9192?utm_campaign=1051&utm_source=git)** | Peabody, MA | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Port Orange](https://jobright.ai/jobs/info/690574ec122e8474c78d917c?utm_campaign=1051&utm_source=git)** | Port Orange, FL | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Walnut Creek](https://jobright.ai/jobs/info/690574ec122e8474c78d917e?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Oct 31 |
+| ↳ | **[Summer Sales Internship Port Orange](https://jobright.ai/jobs/info/690574ec122e8474c78d917c?utm_campaign=1051&utm_source=git)** | Port Orange, FL | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/690574ec122e8474c78d917d?utm_campaign=1051&utm_source=git)** | Boone, NC | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Roswell](https://jobright.ai/jobs/info/690574e8ff462851feffd9bb?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Sonora](https://jobright.ai/jobs/info/690574e7122e8474c78d9174?utm_campaign=1051&utm_source=git)** | Sonora, CA | On Site | Oct 31 |
