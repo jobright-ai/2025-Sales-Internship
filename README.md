@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader- Uniforms PT 6516](https://jobright.ai/jobs/info/6906737163502c0aded8251c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 01 |
+| **[MetLife](http://www.metlife.com)** | **[Group Benefits Sales Intern](https://jobright.ai/jobs/info/68d2ecca8c62e63bc7fdb6e8?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Nov 01 |
+| **[SAS](http://www.sas.com)** | **[Offering Management Intern (Year-Round)](https://jobright.ai/jobs/info/69066bc4122e8474c78e003f?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Nov 01 |
 | **[Inpro](http://inpro.co.kr)** | **[Sales Intern](https://jobright.ai/jobs/info/690662c5122e8474c78dfe7e?utm_campaign=1051&utm_source=git)** | Muskego, WI | On Site | Nov 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/690653ae63502c0aded81f8e?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Nov 01 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/690653ad122e8474c78dfbe2?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 01 |
@@ -125,8 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68af63541f0a2a568a06134a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 01 |
 | **[IBM](http://www.ibm.com)** | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68cc53e0128dc347fd922bdc?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Nov 01 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 01 |
-| **[IBM](http://www.ibm.com)** | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68cc4f8f16d00d2beeb1d30e?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Nov 01 |
-| ↳ | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68fc6672f55bb021a88a3775?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Nov 01 |
+| **[IBM](http://www.ibm.com)** | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68fc6672f55bb021a88a3775?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Nov 01 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Crop Insurance Intern](https://jobright.ai/jobs/info/68ec90ac1eecd439f43fa1d7?utm_campaign=1051&utm_source=git)** | Lenexa, KS | Hybrid | Nov 01 |
 | **[Red Hat](http://www.redhat.com)** | **[Deal Management Intern](https://jobright.ai/jobs/info/68ca2750d4187c55157a6d4e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Nov 01 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Business Development Intern- Spring 2026](https://jobright.ai/jobs/info/68b06dd7b47fb001d6892353?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Nov 01 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Real Estate Services](https://jobright.ai/jobs/info/6905b808ff462851fefffb59?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Nov 01 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Industry & Partner Engagement Internship - Spring 2026](https://jobright.ai/jobs/info/6905f5b863502c0aded7f91a?utm_campaign=1051&utm_source=git)** | Cleveland, Ohio | On Site | Nov 01 |
 | **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Brokerage Insurance Internship](https://jobright.ai/jobs/info/6905adabff462851fefff3c4?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
-| **[Optimum](http://www.optimum.com)** | **[Intern](https://jobright.ai/jobs/info/69057ea863502c0aded7b908?utm_campaign=1051&utm_source=git)** | Bethpage, NY | On Site | Oct 31 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Skokie](https://jobright.ai/jobs/info/69057e6c63502c0aded7b8d6?utm_campaign=1051&utm_source=git)** | Skokie, IL | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Gaffney](https://jobright.ai/jobs/info/69057b7163502c0aded7b759?utm_campaign=1051&utm_source=git)** | Gaffney, SC | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Tumwater](https://jobright.ai/jobs/info/69057af2ff462851feffdd5f?utm_campaign=1051&utm_source=git)** | Tumwater, WA | On Site | Oct 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Tupelo](https://jobright.ai/jobs/info/69057731ff462851feffdb39?utm_campaign=1051&utm_source=git)** | Tupelo, MS | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Aliso Viejo](https://jobright.ai/jobs/info/6905772cff462851feffdb35?utm_campaign=1051&utm_source=git)** | Aliso Viejo, CA | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/69057728ff462851feffdb33?utm_campaign=1051&utm_source=git)** | Leland, NC | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Streamwood](https://jobright.ai/jobs/info/69057724ff462851feffdb30?utm_campaign=1051&utm_source=git)** | Streamwood, IL | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
