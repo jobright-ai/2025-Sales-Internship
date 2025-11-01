@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6906452f122e8474c78dfa1e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 01 |
+| **[True Northon](https://www.linkedin.com/company/108612821)** | **[Sales Intern](https://jobright.ai/jobs/info/69062dd1122e8474c78df4b1?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | Remote | Nov 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68cc494f16d00d2beeb1cfac?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Nov 01 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Mortgage Sales](https://jobright.ai/jobs/info/68b0f60a6fab621da7b08e47?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Nov 01 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68e98d1765768b6412b1d614?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Summer Internship – Sales & Business Development](https://jobright.ai/jobs/info/690625f6122e8474c78df25a?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Nov 01 |
@@ -89,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Ram Realty Advisors](http://ramrealestate.com)** | **[Summer Intern - Real Estate Development](https://jobright.ai/jobs/info/68ccc21da77e5d7d744f4e76?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Spring 2026)](https://jobright.ai/jobs/info/68cd09b11ad6b16f02893a7b?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - San Diego, CA](https://jobright.ai/jobs/info/68cefdaddbd9fb154ede4062?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68cce0c4d11b445e0bee3852?utm_campaign=1051&utm_source=git)** | Wichita Falls, TX | On Site | Nov 01 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Northern Michigan)](https://jobright.ai/jobs/info/68b0b5f713563e782a9f8ba5?utm_campaign=1051&utm_source=git)** | Flushing, MI | On Site | Nov 01 |
 | ↳ | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/68cdb8061ad6b16f0289e308?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 01 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68e97cc3f195760c354a9bca?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Nov 01 |
@@ -127,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Real Estate Services](https://jobright.ai/jobs/info/6905b808ff462851fefffb59?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Nov 01 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Industry & Partner Engagement Internship - Spring 2026](https://jobright.ai/jobs/info/6905f5b863502c0aded7f91a?utm_campaign=1051&utm_source=git)** | Cleveland, Ohio | On Site | Nov 01 |
 | **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Brokerage Insurance Internship](https://jobright.ai/jobs/info/6905adabff462851fefff3c4?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
-| **[Optimum](http://www.optimum.com)** | **[Intern](https://jobright.ai/jobs/info/69057ea863502c0aded7b908?utm_campaign=1051&utm_source=git)** | Bethpage, NY | On Site | Oct 31 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship Skokie](https://jobright.ai/jobs/info/69057e6c63502c0aded7b8d6?utm_campaign=1051&utm_source=git)** | Skokie, IL | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Gaffney](https://jobright.ai/jobs/info/69057b7163502c0aded7b759?utm_campaign=1051&utm_source=git)** | Gaffney, SC | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Tumwater](https://jobright.ai/jobs/info/69057af2ff462851feffdd5f?utm_campaign=1051&utm_source=git)** | Tumwater, WA | On Site | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Spring Valley](https://jobright.ai/jobs/info/69057695ff462851feffdad5?utm_campaign=1051&utm_source=git)** | Spring Valley, NY | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Longview](https://jobright.ai/jobs/info/6905768fff462851feffdad2?utm_campaign=1051&utm_source=git)** | Longview, WA | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship DeKalb](https://jobright.ai/jobs/info/69057685ff462851feffdacb?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Kernersville](https://jobright.ai/jobs/info/69057684ff462851feffdaca?utm_campaign=1051&utm_source=git)** | Kernersville, NC | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship South Lyon](https://jobright.ai/jobs/info/69057683122e8474c78d92a9?utm_campaign=1051&utm_source=git)** | South Lyon, MI | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Schertz](https://jobright.ai/jobs/info/69057683122e8474c78d92a8?utm_campaign=1051&utm_source=git)** | Schertz, TX | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
