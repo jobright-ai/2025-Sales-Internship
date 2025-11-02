@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68c77ec1c96a22563ecf15ff?utm_campaign=1051&utm_source=git)** | Iowa City, IA | Remote | Nov 01 |
+| **[Swing Supplies](https://swingsupplies.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6906a70e122e8474c78e0579?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 01 |
+| **[Dyson Benelux](http://www.dyson.com)** | **[Global Demand Planning Internship](https://jobright.ai/jobs/info/6906a6cf122e8474c78e0558?utm_campaign=1051&utm_source=git)** | St James, NY | On Site | Nov 01 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader- Uniforms PT 6516](https://jobright.ai/jobs/info/6906737163502c0aded8251c?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 01 |
 | **[MetLife](http://www.metlife.com)** | **[Group Benefits Sales Intern](https://jobright.ai/jobs/info/68d2ecca8c62e63bc7fdb6e8?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Nov 01 |
 | **[SAS](http://www.sas.com)** | **[Offering Management Intern (Year-Round)](https://jobright.ai/jobs/info/69066bc4122e8474c78e003f?utm_campaign=1051&utm_source=git)** | US-NC-Cary HQ | Hybrid | Nov 01 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Investor Operations Summer Intern](https://jobright.ai/jobs/info/6905f8ec63502c0aded7f9eb?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 01 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68ec99a51eecd439f43faf30?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 01 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Fresh Food Category Manager Intern](https://jobright.ai/jobs/info/68e914670930fe0bc46221e7?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 01 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Associate Graduate](https://jobright.ai/jobs/info/6906113fff462851fe002f7d?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Nov 01 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Merchandising Center Store Intern](https://jobright.ai/jobs/info/6905efc0ff462851fe001b89?utm_campaign=1051&utm_source=git)** | Carlisle, PA | On Site | Nov 01 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 01 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68af63541f0a2a568a06134a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6905774aff462851feffdb45?utm_campaign=1051&utm_source=git)** | Pasadena, TX | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69057734ff462851feffdb3b?utm_campaign=1051&utm_source=git)** | Jurupa Valley, CA | On Site | Oct 31 |
 | ↳ | **[Summer Sales Internship Tupelo](https://jobright.ai/jobs/info/69057731ff462851feffdb39?utm_campaign=1051&utm_source=git)** | Tupelo, MS | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship Aliso Viejo](https://jobright.ai/jobs/info/6905772cff462851feffdb35?utm_campaign=1051&utm_source=git)** | Aliso Viejo, CA | On Site | Oct 31 |
-| ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/69057728ff462851feffdb33?utm_campaign=1051&utm_source=git)** | Leland, NC | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
