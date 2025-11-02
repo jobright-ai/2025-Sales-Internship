@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Business Development & Writing Intern](https://jobright.ai/jobs/info/69079cd2122e8474c78e5d43?utm_campaign=1051&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 02 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Associate Graduates](https://jobright.ai/jobs/info/69078e6763502c0aded87e80?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23bd91ade4306aa6351af?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 02 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/6907840063502c0aded87c41?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 02 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/6906c262122e8474c78e0bb1?utm_campaign=1051&utm_source=git)** | Sanford, NC | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c25e63502c0aded82eab?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Johnson City](https://jobright.ai/jobs/info/6906c25663502c0aded82ea1?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Albany](https://jobright.ai/jobs/info/6906c255ff462851fe00536d?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Aberdeen](https://jobright.ai/jobs/info/6906c255ff462851fe00536e?utm_campaign=1051&utm_source=git)** | Aberdeen, SD | On Site | Nov 01 |
+| ↳ | **[Summer Sales Internship Albany](https://jobright.ai/jobs/info/6906c255ff462851fe00536d?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Niagara Falls](https://jobright.ai/jobs/info/6906c25263502c0aded82e9e?utm_campaign=1051&utm_source=git)** | Niagara Falls, NY | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Kennesaw](https://jobright.ai/jobs/info/6906c24fff462851fe00536b?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Salinas](https://jobright.ai/jobs/info/6906c24263502c0aded82e94?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Elmira](https://jobright.ai/jobs/info/6906c234122e8474c78e0b93?utm_campaign=1051&utm_source=git)** | Elmira, NY | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Traverse City](https://jobright.ai/jobs/info/6906c228ff462851fe00535a?utm_campaign=1051&utm_source=git)** | Traverse City, MI | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c21b63502c0aded82e7e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Ellensburg](https://jobright.ai/jobs/info/6906c219122e8474c78e0b85?utm_campaign=1051&utm_source=git)** | Ellensburg, WA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
