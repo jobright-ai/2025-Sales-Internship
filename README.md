@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Niagara Falls](https://jobright.ai/jobs/info/6906c25263502c0aded82e9e?utm_campaign=1051&utm_source=git)** | Niagara Falls, NY | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Kennesaw](https://jobright.ai/jobs/info/6906c24fff462851fe00536b?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Salinas](https://jobright.ai/jobs/info/6906c24263502c0aded82e94?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c23d122e8474c78e0b9c?utm_campaign=1051&utm_source=git)** | Inglewood, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c23d122e8474c78e0b9d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c23d122e8474c78e0b9c?utm_campaign=1051&utm_source=git)** | Inglewood, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Lemon Grove](https://jobright.ai/jobs/info/6906c23cff462851fe005362?utm_campaign=1051&utm_source=git)** | Lemon Grove, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c238122e8474c78e0b97?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Elmira](https://jobright.ai/jobs/info/6906c234122e8474c78e0b93?utm_campaign=1051&utm_source=git)** | Elmira, NY | On Site | Nov 01 |
@@ -107,18 +107,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship West Jordan](https://jobright.ai/jobs/info/6906c1e2122e8474c78e0b67?utm_campaign=1051&utm_source=git)** | West Jordan, UT | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Montgomery](https://jobright.ai/jobs/info/6906c1c8122e8474c78e0b5f?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Nov 01 |
 | **[Advisors Asset Management, Inc.](http://aamlive.com)** | **[Internal Sales Associate](https://jobright.ai/jobs/info/6906c1bb63502c0aded82e51?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Nov 01 |
-| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship 	Compton](https://jobright.ai/jobs/info/6906c1b1ff462851fe005316?utm_campaign=1051&utm_source=git)** | Compton, CA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship El Cerrito](https://jobright.ai/jobs/info/6906c1b1122e8474c78e0b52?utm_campaign=1051&utm_source=git)** | El Cerrito, CA | On Site | Nov 01 |
+| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship El Cerrito](https://jobright.ai/jobs/info/6906c1b1122e8474c78e0b52?utm_campaign=1051&utm_source=git)** | El Cerrito, CA | On Site | Nov 01 |
+| ↳ | **[Summer Sales Internship 	Compton](https://jobright.ai/jobs/info/6906c1b1ff462851fe005316?utm_campaign=1051&utm_source=git)** | Compton, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Bentonville](https://jobright.ai/jobs/info/6906c1afff462851fe005315?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Denison](https://jobright.ai/jobs/info/6906c1a763502c0aded82e49?utm_campaign=1051&utm_source=git)** | Denison, TX | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Benton Harbor](https://jobright.ai/jobs/info/6906c1a6122e8474c78e0b4b?utm_campaign=1051&utm_source=git)** | Benton Harbor, MI | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c1a1122e8474c78e0b48?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Lawrence](https://jobright.ai/jobs/info/6906c195122e8474c78e0b3d?utm_campaign=1051&utm_source=git)** | Lawrence, KS | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Rolling Meadows](https://jobright.ai/jobs/info/6906c190122e8474c78e0b3b?utm_campaign=1051&utm_source=git)** | Rolling Meadows, IL | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship 	Sandy Springs](https://jobright.ai/jobs/info/6906c189122e8474c78e0b39?utm_campaign=1051&utm_source=git)** | Sandy Springs, GA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c189ff462851fe005302?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Kansas City](https://jobright.ai/jobs/info/6906c17bff462851fe0052fa?utm_campaign=1051&utm_source=git)** | Kansas City, KS | On Site | Nov 01 |
+| ↳ | **[Summer Sales Internship 	Sandy Springs](https://jobright.ai/jobs/info/6906c189122e8474c78e0b39?utm_campaign=1051&utm_source=git)** | Sandy Springs, GA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Youngstown](https://jobright.ai/jobs/info/6906c17b63502c0aded82e38?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Nov 01 |
+| ↳ | **[Summer Sales Internship Kansas City](https://jobright.ai/jobs/info/6906c17bff462851fe0052fa?utm_campaign=1051&utm_source=git)** | Kansas City, KS | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Owasso](https://jobright.ai/jobs/info/6906c17a122e8474c78e0b2f?utm_campaign=1051&utm_source=git)** | Owasso, OK | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Sedalia](https://jobright.ai/jobs/info/6906c17763502c0aded82e35?utm_campaign=1051&utm_source=git)** | Sedalia, MO | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c173122e8474c78e0b2c?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Nov 01 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Hanahan](https://jobright.ai/jobs/info/6906c11363502c0aded82df6?utm_campaign=1051&utm_source=git)** | Hanahan, SC | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Sioux Falls](https://jobright.ai/jobs/info/6906c111ff462851fe0052c9?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship 	Sparks](https://jobright.ai/jobs/info/6906c10cff462851fe0052c7?utm_campaign=1051&utm_source=git)** | Sparks, NV | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Manitowoc](https://jobright.ai/jobs/info/6906c10963502c0aded82df4?utm_campaign=1051&utm_source=git)** | Manitowoc, WI | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Torrington](https://jobright.ai/jobs/info/6906c10963502c0aded82df5?utm_campaign=1051&utm_source=git)** | Torrington, CT | On Site | Nov 01 |
+| ↳ | **[Summer Sales Internship Manitowoc](https://jobright.ai/jobs/info/6906c10963502c0aded82df4?utm_campaign=1051&utm_source=git)** | Manitowoc, WI | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Lawrenceville](https://jobright.ai/jobs/info/6906c10163502c0aded82dee?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Lake Elsinore](https://jobright.ai/jobs/info/6906c0df122e8474c78e0aea?utm_campaign=1051&utm_source=git)** | Lake Elsinore, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Moreno Valley](https://jobright.ai/jobs/info/6906c0d463502c0aded82dd3?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Nov 01 |
