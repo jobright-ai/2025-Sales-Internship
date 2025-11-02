@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Try New Things Club](https://www.trynewthingsclub.com/)** | **[Community Ambassador Sales Internship](https://jobright.ai/jobs/info/6906d9b6122e8474c78e13a5?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c60e63502c0aded82f41?utm_campaign=1051&utm_source=git)** | Berkeley, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Hopewell](https://jobright.ai/jobs/info/6906c36cff462851fe005420?utm_campaign=1051&utm_source=git)** | Hopewell, VA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Windsor](https://jobright.ai/jobs/info/6906c359ff462851fe005417?utm_campaign=1051&utm_source=git)** | Windsor, CA | On Site | Nov 01 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Niagara Falls](https://jobright.ai/jobs/info/6906c25263502c0aded82e9e?utm_campaign=1051&utm_source=git)** | Niagara Falls, NY | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Kennesaw](https://jobright.ai/jobs/info/6906c24fff462851fe00536b?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Salinas](https://jobright.ai/jobs/info/6906c24263502c0aded82e94?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c23d122e8474c78e0b9c?utm_campaign=1051&utm_source=git)** | Inglewood, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c23d122e8474c78e0b9d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c23d122e8474c78e0b9c?utm_campaign=1051&utm_source=git)** | Inglewood, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Lemon Grove](https://jobright.ai/jobs/info/6906c23cff462851fe005362?utm_campaign=1051&utm_source=git)** | Lemon Grove, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c238122e8474c78e0b97?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Elmira](https://jobright.ai/jobs/info/6906c234122e8474c78e0b93?utm_campaign=1051&utm_source=git)** | Elmira, NY | On Site | Nov 01 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship West Jordan](https://jobright.ai/jobs/info/6906c1e2122e8474c78e0b67?utm_campaign=1051&utm_source=git)** | West Jordan, UT | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Montgomery](https://jobright.ai/jobs/info/6906c1c8122e8474c78e0b5f?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Nov 01 |
 | **[Advisors Asset Management, Inc.](http://aamlive.com)** | **[Internal Sales Associate](https://jobright.ai/jobs/info/6906c1bb63502c0aded82e51?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Nov 01 |
-| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship 	Compton](https://jobright.ai/jobs/info/6906c1b1ff462851fe005316?utm_campaign=1051&utm_source=git)** | Compton, CA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship El Cerrito](https://jobright.ai/jobs/info/6906c1b1122e8474c78e0b52?utm_campaign=1051&utm_source=git)** | El Cerrito, CA | On Site | Nov 01 |
+| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship El Cerrito](https://jobright.ai/jobs/info/6906c1b1122e8474c78e0b52?utm_campaign=1051&utm_source=git)** | El Cerrito, CA | On Site | Nov 01 |
+| ↳ | **[Summer Sales Internship 	Compton](https://jobright.ai/jobs/info/6906c1b1ff462851fe005316?utm_campaign=1051&utm_source=git)** | Compton, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Bentonville](https://jobright.ai/jobs/info/6906c1afff462851fe005315?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Denison](https://jobright.ai/jobs/info/6906c1a763502c0aded82e49?utm_campaign=1051&utm_source=git)** | Denison, TX | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Benton Harbor](https://jobright.ai/jobs/info/6906c1a6122e8474c78e0b4b?utm_campaign=1051&utm_source=git)** | Benton Harbor, MI | On Site | Nov 01 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Sedalia](https://jobright.ai/jobs/info/6906c17763502c0aded82e35?utm_campaign=1051&utm_source=git)** | Sedalia, MO | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c173122e8474c78e0b2c?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Morrisville](https://jobright.ai/jobs/info/6906c17163502c0aded82e32?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Nogales](https://jobright.ai/jobs/info/6906c16b63502c0aded82e2f?utm_campaign=1051&utm_source=git)** | Nogales, AZ | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Lisle](https://jobright.ai/jobs/info/6906c16bff462851fe0052ef?utm_campaign=1051&utm_source=git)** | Lisle, IL | On Site | Nov 01 |
+| ↳ | **[Summer Sales Internship Nogales](https://jobright.ai/jobs/info/6906c16b63502c0aded82e2f?utm_campaign=1051&utm_source=git)** | Nogales, AZ | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Laguna Niguel](https://jobright.ai/jobs/info/6906c16aff462851fe0052ed?utm_campaign=1051&utm_source=git)** | Laguna Niguel, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Rancho Palos Verdes](https://jobright.ai/jobs/info/6906c164122e8474c78e0b25?utm_campaign=1051&utm_source=git)** | Rancho Palos Verdes, CA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Gardner](https://jobright.ai/jobs/info/6906c152122e8474c78e0b1a?utm_campaign=1051&utm_source=git)** | Gardner, MA | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Oak Lawn](https://jobright.ai/jobs/info/6906c064122e8474c78e0a9e?utm_campaign=1051&utm_source=git)** | Oak Lawn, IL | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c04e122e8474c78e0a91?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c03a122e8474c78e0a7f?utm_campaign=1051&utm_source=git)** | Midland, TX | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship South Plainfield](https://jobright.ai/jobs/info/6906c025122e8474c78e0a75?utm_campaign=1051&utm_source=git)** | South Plainfield, NJ | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
