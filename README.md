@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Intern (Stores) / Orlando, FL](https://jobright.ai/jobs/info/69084213ff462851fe00da39?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Nov 02 |
+| ↳ | **[Loss Prevention Internship (Stores) / New York, NY](https://jobright.ai/jobs/info/690840f5122e8474c78e8ffc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
+| ↳ | **[Merchandising Internship Program / Summer 2026 / Framingham, MA](https://jobright.ai/jobs/info/690840b1ff462851fe00d76e?utm_campaign=1051&utm_source=git)** | Framingham, MA | Hybrid | Nov 02 |
+| ↳ | **[Loss Prevention Intern (Stores) / Boston, MA](https://jobright.ai/jobs/info/69083f7f122e8474c78e8d2a?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Nov 02 |
+| ↳ | **[Loss Prevention Intern (Stores) / Sacramento, CA](https://jobright.ai/jobs/info/69083f7d63502c0aded8b17e?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Nov 02 |
+| ↳ | **[Loss Prevention Intern (Stores) / Pasadena, CA](https://jobright.ai/jobs/info/690839d4ff462851fe00d149?utm_campaign=1051&utm_source=git)** | Pasadena, CA | Hybrid | Nov 02 |
+| ↳ | **[Loss Prevention Intern (Stores) / Atlanta, GA](https://jobright.ai/jobs/info/69083984122e8474c78e88d7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 02 |
+| **[H15DEN](https://h15den.com)** | **[Business Development - Micro Internship](https://jobright.ai/jobs/info/69082fb7122e8474c78e8516?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Nov 02 |
+| **[Abby Care](https://www.joinwellspring.com)** | **[Part-time Business Development & Partnership Intern](https://jobright.ai/jobs/info/69082c3863502c0aded8a8d7?utm_campaign=1051&utm_source=git)** | Gettysburg, PA | Hybrid | Nov 02 |
 | **[Bunzl plc](http://www.bunzl.com)** | **[Sales Intern -Summer 2026 (Bunzl Processor Division)](https://jobright.ai/jobs/info/69082224122e8474c78e80c6?utm_campaign=1051&utm_source=git)** | Riverside, MO | On Site | Nov 02 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Columbia, SC](https://jobright.ai/jobs/info/690821b6ff462851fe00c8cc?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Nov 02 |
 | **[Bunzl plc](http://www.bunzl.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6908216fff462851fe00c8b0?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Nov 02 |
@@ -101,8 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Enablement Corporate Internship](https://jobright.ai/jobs/info/690771c1ff462851fe009805?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Nov 02 |
 | ↳ | **[Retail Store Management Internship - Ventura / Santa Barbara](https://jobright.ai/jobs/info/6907719a122e8474c78e4fde?utm_campaign=1051&utm_source=git)** | Santa Maria, CA | On Site | Nov 02 |
 | ↳ | **[Retail Store Management Internship - San Antonio](https://jobright.ai/jobs/info/6907715f63502c0aded87354?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 02 |
-| **[Matrid Technologies](https://www.matridtech.net/)** | **[Business Development Interns](https://jobright.ai/jobs/info/6908042663502c0aded89d39?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Nov 02 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Greensboro/Winston-Salem](https://jobright.ai/jobs/info/6907710dff462851fe009725?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 02 |
+| ↳ | **[Retail Store Management Internship - Greensboro/Winston-Salem](https://jobright.ai/jobs/info/6907710dff462851fe009725?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 02 |
 | ↳ | **[Retail Store Management Internship - Pensacola, FL (Metro)](https://jobright.ai/jobs/info/690770eaff462851fe0096f1?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Nov 02 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68cdb862e23def7af55be955?utm_campaign=1051&utm_source=git)** | San Ramon, CA | On Site | Nov 02 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/68cdb5abe23def7af55be69e?utm_campaign=1051&utm_source=git)** | Twin Cities Area | On Site | Nov 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Johnston](https://jobright.ai/jobs/info/6906c348ff462851fe00540b?utm_campaign=1051&utm_source=git)** | Johnston, IA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Boone](https://jobright.ai/jobs/info/6906c320ff462851fe0053f7?utm_campaign=1051&utm_source=git)** | Boone, NC | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship Gillette](https://jobright.ai/jobs/info/6906c30bff462851fe0053ef?utm_campaign=1051&utm_source=git)** | Gillette, WY | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Waukesha](https://jobright.ai/jobs/info/6906c2feff462851fe0053e7?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Lufkin](https://jobright.ai/jobs/info/6906c2fa63502c0aded82f08?utm_campaign=1051&utm_source=git)** | Lufkin, TX | On Site | Nov 01 |
-| **[Sevan Multi-Site Solutions](https://www.sevansolutions.com/)** | **[Intern, Estimating & Preconstruction](https://jobright.ai/jobs/info/6906c2ef63502c0aded82f03?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Nov 01 |
-| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c2e463502c0aded82efb?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Rochester](https://jobright.ai/jobs/info/6906c2dc63502c0aded82ef8?utm_campaign=1051&utm_source=git)** | Rochester, NH | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Converse](https://jobright.ai/jobs/info/6906c2cb63502c0aded82ef4?utm_campaign=1051&utm_source=git)** | Converse, TX | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c2baff462851fe0053af?utm_campaign=1051&utm_source=git)** | Goldsboro, NC | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c2a4ff462851fe00539f?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
