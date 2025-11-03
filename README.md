@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Buying Intern - Apparel](https://jobright.ai/jobs/info/69080870122e8474c78e794b?utm_campaign=1051&utm_source=git)** | US-PA-Philadelphia | On Site | Nov 02 |
+| **[Patterson-Kelley](http://harscopk.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6908005b63502c0aded89c07?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Nov 02 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Development Associate Internship](https://jobright.ai/jobs/info/6907ffd7ff462851fe00bf38?utm_campaign=1051&utm_source=git)** | USA MD Annapolis Junction | Hybrid | Nov 02 |
+| **[Patterson-Kelley](http://harscopk.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6907ffb9ff462851fe00bf20?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Nov 02 |
+| **[AfterQuery Experts](https://experts.afterquery.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/6907fd11ff462851fe00befb?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 02 |
+| **[Steelcase](https://www.steelcase.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6907f071122e8474c78e75f3?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Monetization Strategy and Operations Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/6907e48b63502c0aded898e7?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Nov 02 |
 | **[barrière](https://www.mybarriere.com/)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/6907e0f4122e8474c78e731d?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Nov 02 |
 | **[Desert Edge Marketing](www.desertedgemarketing.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6907cc99122e8474c78e6eed?utm_campaign=1051&utm_source=git)** | LV Metro Area | On Site | Nov 02 |
@@ -68,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Business Development & Writing Intern](https://jobright.ai/jobs/info/69079cd2122e8474c78e5d43?utm_campaign=1051&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 02 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Associate Graduates](https://jobright.ai/jobs/info/69078e6763502c0aded87e80?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23bd91ade4306aa6351af?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 02 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/6907840063502c0aded87c41?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Chicago](https://jobright.ai/jobs/info/6907835563502c0aded87c10?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Nov 02 |
 | ↳ | **[Retail Store Management Internship - Sacramento/Redding/Chico](https://jobright.ai/jobs/info/69077f2663502c0aded87b1b?utm_campaign=1051&utm_source=git)** | Roseville, CA | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Customer Excellence Intern – Summer 2026](https://jobright.ai/jobs/info/68b25469f4e41a61efd83804?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 02 |
@@ -92,7 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Enablement Corporate Internship](https://jobright.ai/jobs/info/690771c1ff462851fe009805?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Nov 02 |
 | ↳ | **[Retail Store Management Internship - Ventura / Santa Barbara](https://jobright.ai/jobs/info/6907719a122e8474c78e4fde?utm_campaign=1051&utm_source=git)** | Santa Maria, CA | On Site | Nov 02 |
 | ↳ | **[Retail Store Management Internship - San Antonio](https://jobright.ai/jobs/info/6907715f63502c0aded87354?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 02 |
-| ↳ | **[Retail Store Management Internship - Greensboro/Winston-Salem](https://jobright.ai/jobs/info/6907710dff462851fe009725?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 02 |
+| **[Matrid Technologies](https://www.matridtech.net/)** | **[Business Development Interns](https://jobright.ai/jobs/info/6908042663502c0aded89d39?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Nov 02 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Greensboro/Winston-Salem](https://jobright.ai/jobs/info/6907710dff462851fe009725?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 02 |
 | ↳ | **[Retail Store Management Internship - Pensacola, FL (Metro)](https://jobright.ai/jobs/info/690770eaff462851fe0096f1?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Nov 02 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68cdb862e23def7af55be955?utm_campaign=1051&utm_source=git)** | San Ramon, CA | On Site | Nov 02 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/68cdb5abe23def7af55be69e?utm_campaign=1051&utm_source=git)** | Twin Cities Area | On Site | Nov 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Centralia](https://jobright.ai/jobs/info/6906c293ff462851fe00539c?utm_campaign=1051&utm_source=git)** | Centralia, WA | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c28d63502c0aded82ed6?utm_campaign=1051&utm_source=git)** | Burlington, VT | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c28863502c0aded82ecf?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Edgewater](https://jobright.ai/jobs/info/6906c26d63502c0aded82ebf?utm_campaign=1051&utm_source=git)** | Edgewater, FL | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship In The Carolinas](https://jobright.ai/jobs/info/6906c262122e8474c78e0bb1?utm_campaign=1051&utm_source=git)** | Sanford, NC | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c25e63502c0aded82eab?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Johnson City](https://jobright.ai/jobs/info/6906c25663502c0aded82ea1?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Aberdeen](https://jobright.ai/jobs/info/6906c255ff462851fe00536e?utm_campaign=1051&utm_source=git)** | Aberdeen, SD | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Albany](https://jobright.ai/jobs/info/6906c255ff462851fe00536d?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
