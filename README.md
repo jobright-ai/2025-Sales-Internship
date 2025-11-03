@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/69085f8063502c0aded8cbca?utm_campaign=1051&utm_source=git)** | Twin Falls, ID | Hybrid | Nov 02 |
+| ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/69085f1763502c0aded8cb55?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Nov 02 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/69085ed5ff462851fe00ef4a?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Nov 02 |
+| **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/690859b8122e8474c78ea25a?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Nov 02 |
+| ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/69085991ff462851fe00ebad?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Nov 02 |
+| **[Abby Care](https://www.joinwellspring.com)** | **[Part-Time Business Development & Partnership Intern](https://jobright.ai/jobs/info/68ba171d8043103d4f21d683?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Nov 02 |
+| **[Ecolab](http://www.ecolab.com)** | **[Animal Health, Dairy Farm, Agriculture Industry - Technical Sales Intern](https://jobright.ai/jobs/info/69085129122e8474c78e9bb1?utm_campaign=1051&utm_source=git)** | Madison, WI | Hybrid | Nov 02 |
+| **[MantraCare](https://mantracare.org/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69084731ff462851fe00df71?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 02 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Intern (Stores) / Orlando, FL](https://jobright.ai/jobs/info/69084213ff462851fe00da39?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Nov 02 |
 | ↳ | **[Loss Prevention Internship (Stores) / New York, NY](https://jobright.ai/jobs/info/690840f5122e8474c78e8ffc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | ↳ | **[Merchandising Internship Program / Summer 2026 / Framingham, MA](https://jobright.ai/jobs/info/690840b1ff462851fe00d76e?utm_campaign=1051&utm_source=git)** | Framingham, MA | Hybrid | Nov 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Sales and Services Intern](https://jobright.ai/jobs/info/68b1e571f4e41a61efd8080d?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Nov 02 |
 | ↳ | **[Sales and Services Intern](https://jobright.ai/jobs/info/68b1e7f8bc187f64e1bd7b4e?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Nov 02 |
 | ↳ | **[Sales and Services Intern](https://jobright.ai/jobs/info/68cd66b41ad6b16f02899480?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | Remote | Nov 02 |
-| **[Try New Things Club](https://www.trynewthingsclub.com/)** | **[Community Ambassador Sales Internship](https://jobright.ai/jobs/info/6906d9b6122e8474c78e13a5?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 01 |
-| **[Forge Marketing](http://forgemktg.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c60e63502c0aded82f41?utm_campaign=1051&utm_source=git)** | Berkeley, CA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Hopewell](https://jobright.ai/jobs/info/6906c36cff462851fe005420?utm_campaign=1051&utm_source=git)** | Hopewell, VA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Windsor](https://jobright.ai/jobs/info/6906c359ff462851fe005417?utm_campaign=1051&utm_source=git)** | Windsor, CA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Irvine](https://jobright.ai/jobs/info/6906c352ff462851fe005411?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Johnston](https://jobright.ai/jobs/info/6906c348ff462851fe00540b?utm_campaign=1051&utm_source=git)** | Johnston, IA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Boone](https://jobright.ai/jobs/info/6906c320ff462851fe0053f7?utm_campaign=1051&utm_source=git)** | Boone, NC | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Gillette](https://jobright.ai/jobs/info/6906c30bff462851fe0053ef?utm_campaign=1051&utm_source=git)** | Gillette, WY | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
