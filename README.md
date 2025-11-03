@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bunzl plc](http://www.bunzl.com)** | **[Sales Intern -Summer 2026 (Bunzl Processor Division)](https://jobright.ai/jobs/info/69082224122e8474c78e80c6?utm_campaign=1051&utm_source=git)** | Riverside, MO | On Site | Nov 02 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Columbia, SC](https://jobright.ai/jobs/info/690821b6ff462851fe00c8cc?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Nov 02 |
+| **[Bunzl plc](http://www.bunzl.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6908216fff462851fe00c8b0?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Nov 02 |
+| **[Abby Care](https://www.joinwellspring.com)** | **[Part-time Business Development & Partnership Intern](https://jobright.ai/jobs/info/6908216d63502c0aded8a559?utm_campaign=1051&utm_source=git)** | Reading, PA | Hybrid | Nov 02 |
+| **[PlayStation](https://www.playstation.com/)** | **[Associate Peripheral Licensing Intern - MBA](https://jobright.ai/jobs/info/68ef29d5230ae70a14c410f0?utm_campaign=1051&utm_source=git)** | United States of America | On Site | Nov 02 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Buying Intern - Apparel](https://jobright.ai/jobs/info/69080870122e8474c78e794b?utm_campaign=1051&utm_source=git)** | US-PA-Philadelphia | On Site | Nov 02 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6908005b63502c0aded89c07?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Nov 02 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Development Associate Internship](https://jobright.ai/jobs/info/6907ffd7ff462851fe00bf38?utm_campaign=1051&utm_source=git)** | USA MD Annapolis Junction | Hybrid | Nov 02 |
@@ -72,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/6907c87b122e8474c78e6d70?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 02 |
 | ↳ | **[Commercial & CX Internship (Early Careers) - S&P Global](https://jobright.ai/jobs/info/6907c70eff462851fe00b4df?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Nov 02 |
 | **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Business Development & Writing Intern](https://jobright.ai/jobs/info/69079cd2122e8474c78e5d43?utm_campaign=1051&utm_source=git)** | DC-Baltimore Area | Hybrid | Nov 02 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Associate Graduates](https://jobright.ai/jobs/info/69078e6763502c0aded87e80?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Channel Development Intern – Spring 2026](https://jobright.ai/jobs/info/68b23bd91ade4306aa6351af?utm_campaign=1051&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - Chicago](https://jobright.ai/jobs/info/6907835563502c0aded87c10?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Nov 02 |
 | ↳ | **[Retail Store Management Internship - Sacramento/Redding/Chico](https://jobright.ai/jobs/info/69077f2663502c0aded87b1b?utm_campaign=1051&utm_source=git)** | Roseville, CA | On Site | Nov 02 |
@@ -134,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Tri-State](https://jobright.ai/jobs/info/68b1fb7ff4e41a61efd81570?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Nov 02 |
 | ↳ | **[2026 Management and Sales Intern - Fort Wayne](https://jobright.ai/jobs/info/68b201511ade4306aa633b3c?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Nov 02 |
 | ↳ | **[2026 Management and Sales Intern - Cincinnati/Dayton, OH](https://jobright.ai/jobs/info/68ce9a08fb49c96ca6ea2004?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Nov 02 |
-| **[GenPark](https://genpark.ai)** | **[Business Development Intern](https://jobright.ai/jobs/info/6907480463502c0aded85bde?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 02 |
 | **[Red Hat](http://www.redhat.com)** | **[Sales and Services Intern](https://jobright.ai/jobs/info/68b1e571f4e41a61efd8080d?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Nov 02 |
 | ↳ | **[Sales and Services Intern](https://jobright.ai/jobs/info/68b1e7f8bc187f64e1bd7b4e?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Nov 02 |
 | ↳ | **[Sales and Services Intern](https://jobright.ai/jobs/info/68cd66b41ad6b16f02899480?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | Remote | Nov 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Converse](https://jobright.ai/jobs/info/6906c2cb63502c0aded82ef4?utm_campaign=1051&utm_source=git)** | Converse, TX | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c2baff462851fe0053af?utm_campaign=1051&utm_source=git)** | Goldsboro, NC | On Site | Nov 01 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c2a4ff462851fe00539f?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship Centralia](https://jobright.ai/jobs/info/6906c293ff462851fe00539c?utm_campaign=1051&utm_source=git)** | Centralia, WA | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c28d63502c0aded82ed6?utm_campaign=1051&utm_source=git)** | Burlington, VT | On Site | Nov 01 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6906c28863502c0aded82ecf?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
