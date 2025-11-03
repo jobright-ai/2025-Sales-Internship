@@ -57,14 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/69086fe7d046ab6061cc975b?utm_campaign=1051&utm_source=git)** | Wichita, KS | Hybrid | Nov 03 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/69086d90d046ab6061cc941a?utm_campaign=1051&utm_source=git)** | Corvallis, OR | Hybrid | Nov 03 |
+| ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/69086d14d046ab6061cc93e4?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Nov 03 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern (Industrial Brokerage)](https://jobright.ai/jobs/info/690862ce122e8474c78ea7f1?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Nov 03 |
 | **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/69085f8063502c0aded8cbca?utm_campaign=1051&utm_source=git)** | Twin Falls, ID | Hybrid | Nov 02 |
 | ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/69085f1763502c0aded8cb55?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Nov 02 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/69085ed5ff462851fe00ef4a?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Nov 02 |
 | **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/690859b8122e8474c78ea25a?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Nov 02 |
 | ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/69085991ff462851fe00ebad?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Nov 02 |
+| ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690879d0d046ab6061cca8c3?utm_campaign=1051&utm_source=git)** | Huntsville, AL | Hybrid | Nov 02 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/69087bf9d046ab6061ccac73?utm_campaign=1051&utm_source=git)** | Savannah, GA | Hybrid | Nov 02 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/690878da4a1b456627af5852?utm_campaign=1051&utm_source=git)** | Naperville, IL | Hybrid | Nov 02 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Part-Time Business Development & Partnership Intern](https://jobright.ai/jobs/info/68ba171d8043103d4f21d683?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Nov 02 |
-| **[Ecolab](http://www.ecolab.com)** | **[Animal Health, Dairy Farm, Agriculture Industry - Technical Sales Intern](https://jobright.ai/jobs/info/69085129122e8474c78e9bb1?utm_campaign=1051&utm_source=git)** | Madison, WI | Hybrid | Nov 02 |
-| **[MantraCare](https://mantracare.org/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69084731ff462851fe00df71?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 02 |
+| **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/690875d2bcccf20de59cf86f?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Hybrid | Nov 02 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/690876abbcccf20de59cfa08?utm_campaign=1051&utm_source=git)** | Madison, WI | Hybrid | Nov 02 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6908750e4a1b456627af52b4?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Nov 02 |
+| ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/6908748ed046ab6061cca0ee?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Nov 02 |
+| ↳ | **[Animal Health, Dairy Farm, Agriculture Industry - Technical Sales Intern](https://jobright.ai/jobs/info/69085129122e8474c78e9bb1?utm_campaign=1051&utm_source=git)** | Madison, WI | Hybrid | Nov 02 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/69087427d046ab6061cca0c3?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 02 |
+| ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/69087432d046ab6061cca0cb?utm_campaign=1051&utm_source=git)** | Covington, LA | Hybrid | Nov 02 |
+| ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/69086e824a1b456627af45c7?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Nov 02 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Loss Prevention Intern (Stores) / Orlando, FL](https://jobright.ai/jobs/info/69084213ff462851fe00da39?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Nov 02 |
 | ↳ | **[Loss Prevention Internship (Stores) / New York, NY](https://jobright.ai/jobs/info/690840f5122e8474c78e8ffc?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | ↳ | **[Merchandising Internship Program / Summer 2026 / Framingham, MA](https://jobright.ai/jobs/info/690840b1ff462851fe00d76e?utm_campaign=1051&utm_source=git)** | Framingham, MA | Hybrid | Nov 02 |
@@ -84,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Development Associate Internship](https://jobright.ai/jobs/info/6907ffd7ff462851fe00bf38?utm_campaign=1051&utm_source=git)** | USA MD Annapolis Junction | Hybrid | Nov 02 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6907ffb9ff462851fe00bf20?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Nov 02 |
 | **[AfterQuery Experts](https://experts.afterquery.com)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/6907fd11ff462851fe00befb?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 02 |
+| **[Delaware North](http://www.delawarenorth.com/)** | **[Retail Internship, Nationwide Arena](https://jobright.ai/jobs/info/69087ad74a1b456627af5c4d?utm_campaign=1051&utm_source=git)** | Columbus, OH | Hybrid | Nov 02 |
 | **[Steelcase](https://www.steelcase.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6907f071122e8474c78e75f3?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Monetization Strategy and Operations Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/6907e48b63502c0aded898e7?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Nov 02 |
 | **[barrière](https://www.mybarriere.com/)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/6907e0f4122e8474c78e731d?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Nov 02 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - DC/ Northern VA Area](https://jobright.ai/jobs/info/68985ac95574fd6bc0c78cf1?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Nov 02 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Spring 2026)](https://jobright.ai/jobs/info/689507218c6d6b4426776bc0?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 02 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - New England & Capital District,](https://jobright.ai/jobs/info/68ec99aad4b0106e703ea285?utm_campaign=1051&utm_source=git)** | South Windsor, CT | On Site | Nov 02 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d6463?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Nov 02 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - Dallas/Houston Area](https://jobright.ai/jobs/info/689852215574fd6bc0c78291?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Nov 02 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68ce9967fb49c96ca6ea1f33?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Nov 02 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - Chicago Area](https://jobright.ai/jobs/info/6898369afaa4e875e824be6f?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Nov 02 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Spring 2026)](https://jobright.ai/jobs/info/68ce9c05dbd9fb154ede13e4?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 02 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Indianapolis](https://jobright.ai/jobs/info/68ce9400846f0b04af67b443?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 02 |
-| ↳ | **[2026 Management and Sales Intern - St. Louis](https://jobright.ai/jobs/info/68b1ff4bbc187f64e1bd895e?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Nov 02 |
-| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68ce0776e23def7af55c1702?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Nov 02 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Tri-State](https://jobright.ai/jobs/info/68b1fb7ff4e41a61efd81570?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Nov 02 |
-| ↳ | **[2026 Management and Sales Intern - Fort Wayne](https://jobright.ai/jobs/info/68b201511ade4306aa633b3c?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Nov 02 |
-| ↳ | **[2026 Management and Sales Intern - Cincinnati/Dayton, OH](https://jobright.ai/jobs/info/68ce9a08fb49c96ca6ea2004?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Nov 02 |
-| **[Red Hat](http://www.redhat.com)** | **[Sales and Services Intern](https://jobright.ai/jobs/info/68b1e571f4e41a61efd8080d?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Nov 02 |
-| ↳ | **[Sales and Services Intern](https://jobright.ai/jobs/info/68b1e7f8bc187f64e1bd7b4e?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Nov 02 |
-| ↳ | **[Sales and Services Intern](https://jobright.ai/jobs/info/68cd66b41ad6b16f02899480?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | Remote | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
