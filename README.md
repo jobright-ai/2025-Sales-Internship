@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - University of Wisconsin Madison](https://jobright.ai/jobs/info/6899824efaa4e875e8252f4b?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 03 |
+| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Sales Internship - Summer 2026 (Omaha, NE)](https://jobright.ai/jobs/info/68b53b43f4e41a61efd8eb87?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Nov 03 |
+| **[Grainger](https://www.grainger.com)** | **[Inside Sales Intern - Lake Forest](https://jobright.ai/jobs/info/6899822b83d13d1f5b69337a?utm_campaign=1051&utm_source=git)** | Lake Forest, IL | Hybrid | Nov 03 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccf7f6d11b445e0bee53c8?utm_campaign=1051&utm_source=git)** | Millsboro, DE | On Site | Nov 03 |
+| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Texas A&M](https://jobright.ai/jobs/info/689981f0faa4e875e8252e9e?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 03 |
+| **[Abby Care](https://www.joinwellspring.com)** | **[Part-Time Business Development & Partnership Intern](https://jobright.ai/jobs/info/68ba17885f38327491863e57?utm_campaign=1051&utm_source=git)** | Gettysburg, PA | On Site | Nov 03 |
+| **[Worxwide Consulting](https://worxwide.com)** | **[Sales Intern- IT Services](https://jobright.ai/jobs/info/69089f504a1b456627af7a03?utm_campaign=1051&utm_source=git)** | California, United States | On Site | Nov 03 |
+| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Pittsburgh](https://jobright.ai/jobs/info/68c8a147983e6768bc54fd1a?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | On Site | Nov 03 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/68cc2fdf128dc347fd92079e?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Nov 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b54f3ff4e41a61efd8f56f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 03 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/68cc32f416d00d2beeb1b808?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 03 |
 | ↳ | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/68fb5fc54129dd33cd131cff?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Nov 03 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Store Management Internship - San Antonio](https://jobright.ai/jobs/info/6907715f63502c0aded87354?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 02 |
 | ↳ | **[Retail Store Management Internship - Greensboro/Winston-Salem](https://jobright.ai/jobs/info/6907710dff462851fe009725?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 02 |
 | ↳ | **[Retail Store Management Internship - Pensacola, FL (Metro)](https://jobright.ai/jobs/info/690770eaff462851fe0096f1?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Nov 02 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68cdb862e23def7af55be955?utm_campaign=1051&utm_source=git)** | San Ramon, CA | On Site | Nov 02 |
-| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/68cdb5abe23def7af55be69e?utm_campaign=1051&utm_source=git)** | Twin Cities Area | On Site | Nov 02 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - DFW Metroplex](https://jobright.ai/jobs/info/690770a5ff462851fe0096b3?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 02 |
-| ↳ | **[Retail Store Management Internship - South Sacramento](https://jobright.ai/jobs/info/69077080ff462851fe009682?utm_campaign=1051&utm_source=git)** | Concord, CA | On Site | Nov 02 |
-| ↳ | **[Retail Store Management Internship - Los Angeles](https://jobright.ai/jobs/info/69077075ff462851fe00966e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
-| ↳ | **[Retail Store Management Internship - North & East Metro Atlanta](https://jobright.ai/jobs/info/69076f50122e8474c78e4d3f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 02 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Spring 2026)](https://jobright.ai/jobs/info/6895824a73b3a600fe8882e4?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Nov 02 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Retail Store Management Internship - The Bronx](https://jobright.ai/jobs/info/69076ec8122e8474c78e4cbb?utm_campaign=1051&utm_source=git)** | Bronx, NY | On Site | Nov 02 |
-| ↳ | **[Retail Store Management Internship - Bakersfield](https://jobright.ai/jobs/info/69076eadff462851fe0094cb?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
