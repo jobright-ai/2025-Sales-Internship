@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern, Sourcing](https://jobright.ai/jobs/info/6909aa1cbcccf20de59dd0a1?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 03 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (North Lima, OH - Summer 2025)](https://jobright.ai/jobs/info/6909a8e84a1b456627b02575?utm_campaign=1051&utm_source=git)** | North Lima, OH | On Site | Nov 03 |
+| **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Brokerage Insurance Internship](https://jobright.ai/jobs/info/6909a808bcccf20de59dcff2?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Nov 03 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Account Operations Management Intern](https://jobright.ai/jobs/info/690983a0d046ab6061cd62cc?utm_campaign=1051&utm_source=git)** | Spring, TX | On Site | Nov 03 |
 | ↳ | **[Account Operations Management Intern](https://jobright.ai/jobs/info/690983524a1b456627b01402?utm_campaign=1051&utm_source=git)** | Spring, TX | On Site | Nov 03 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8e795ab4977c2e955c56?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 03 |
@@ -98,8 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/690966e6bcccf20de59dabac?utm_campaign=1051&utm_source=git)** | East Peoria, IL | On Site | Nov 03 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/690966d74a1b456627b000de?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Nov 03 |
 | ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6909663c4a1b456627b00083?utm_campaign=1051&utm_source=git)** | Waterloo, IA | On Site | Nov 03 |
-| **[SAP](https://www.sap.com)** | **[Solution Advisor Associate- SAP Academy for Customer Success - USA (Hybrid)](https://jobright.ai/jobs/info/69096624bcccf20de59daafa?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 03 |
-| ↳ | **[Solution Advisor Associate- SAP Academy for Customer Success - USA (Hybrid)](https://jobright.ai/jobs/info/690965a1bcccf20de59daa95?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 03 |
+| **[SAP](https://www.sap.com)** | **[Solution Advisor Associate- SAP Academy for Customer Success - USA (Hybrid)](https://jobright.ai/jobs/info/690965a1bcccf20de59daa95?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 03 |
 | **[American Water](http://amwater.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6909659ed046ab6061cd4dcd?utm_campaign=1051&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 03 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/690965764a1b456627b0001e?utm_campaign=1051&utm_source=git)** | Westlake, LA | On Site | Nov 03 |
 | **[Grimmway Produce Group](http://www.grimmway.com)** | **[Sales Internship](https://jobright.ai/jobs/info/690964c3bcccf20de59da9f9?utm_campaign=1051&utm_source=git)** | 93311 | On Site | Nov 03 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Partner Engagement Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/69092968d046ab6061cd2535?utm_campaign=1051&utm_source=git)** | Neenah, WI | Hybrid | Nov 03 |
 | **[SAP](https://www.sap.com)** | **[Customer Success Manager (CSM) - SAP Academy for Customer Success - Chicago (HYBRID)](https://jobright.ai/jobs/info/69092947bcccf20de59d81ae?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 03 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Distribution Sales Strategy Internship / Hybrid](https://jobright.ai/jobs/info/690927e0bcccf20de59d802a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 03 |
-| **[CULT GAIA](https://cultgaia.com/)** | **[Wholesale Intern](https://jobright.ai/jobs/info/69093d6bbcccf20de59d9242?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 03 |
 | **[Ever.Ag](https://www.ever.ag)** | **[Producer Analyst Intern - Dairy](https://jobright.ai/jobs/info/690926b9bcccf20de59d7f58?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
 | **[SAP](https://www.sap.com)** | **[Customer Success Manager (CSM) - SAP Academy for Customer Success - Atlanta (HYBRID)](https://jobright.ai/jobs/info/690926564a1b456627afd426?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 03 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Idaho) - Summer '26](https://jobright.ai/jobs/info/6909461ad046ab6061cd3bb2?utm_campaign=1051&utm_source=git)** | Caldwell, Idaho, United States | On Site | Nov 03 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Commercial Sales Intern - Spring 2026](https://jobright.ai/jobs/info/690923804a1b456627afd122?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Nov 03 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - Palm Beach](https://jobright.ai/jobs/info/690923304a1b456627afd0b3?utm_campaign=1051&utm_source=git)** | Palm Beach, FL | On Site | Nov 03 |
 | **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69092296d046ab6061cd1e77?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Nov 03 |
+| **[CULT GAIA](https://cultgaia.com/)** | **[Wholesale Sales Intern](https://jobright.ai/jobs/info/69093d6bbcccf20de59d9242?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 03 |
 | **[AllianceBernstein](http://www.alliancebernstein.com)** | **[Private Wealth Summer Intern - WDC](https://jobright.ai/jobs/info/69091d30bcccf20de59d7590?utm_campaign=1051&utm_source=git)** | Washington DC | On Site | Nov 03 |
 | **[Tulip Interfaces](https://tulip.co)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69091c68bcccf20de59d74c0?utm_campaign=1051&utm_source=git)** | Somerville, MA | Hybrid | Nov 03 |
 | **[Daxko](https://www.daxko.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69091ab84a1b456627afc7a9?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Remote | Nov 03 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Strategic Opportunities Internship - NYC](https://jobright.ai/jobs/info/690918e4d046ab6061cd150a?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Nov 03 |
-| **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern- Dream Bank](https://jobright.ai/jobs/info/69093912d046ab6061cd3187?utm_campaign=1051&utm_source=git)** | WI Madison | Hybrid | Nov 03 |
-| **[AllianceBernstein](http://www.alliancebernstein.com)** | **[Private Wealth Summer Intern - Los Angeles](https://jobright.ai/jobs/info/6909186d4a1b456627afc5e6?utm_campaign=1051&utm_source=git)** | Los Angeles, California | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
