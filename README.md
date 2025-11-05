@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/68d331268c62e63bc7fde637?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 05 |
+| ↳ | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/68d3340ff0d9af73038dfe1d?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
+| **[Echo Global Logistics](https://www.echo.com)** | **[Carrier Sales Intern - Chicago](https://jobright.ai/jobs/info/68cd4bc91ad6b16f02897ad2?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - Sales](https://jobright.ai/jobs/info/6901bc6fd5259a1b3cff7899?utm_campaign=1051&utm_source=git)** | Shanghai, VA | Hybrid | Nov 05 |
+| **[Echo Global Logistics](https://www.echo.com)** | **[Client Sales Intern – Dallas](https://jobright.ai/jobs/info/68b794371ade4306aa64c39f?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Nov 05 |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Sales Internship - Group Benefits (Summer 2026)](https://jobright.ai/jobs/info/68d2fb2b8c62e63bc7fdc462?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 05 |
+| **[Experian](http://www.experianplc.com)** | **[Sales & Curation Summer Intern (Hybrid & Paid)](https://jobright.ai/jobs/info/68eead0846e5b153e5a5e2bd?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 05 |
+| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Feed Sales Intern - Feed Mill Operations](https://jobright.ai/jobs/info/690b22aed046ab6061ce2fea?utm_campaign=1051&utm_source=git)** | Arden Hills, MN | On Site | Nov 05 |
+| **[La French Tech Taiwan](https://www.frenchtechtaiwan.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/690b20a0d046ab6061ce2f0a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/690af566d046ab6061ce1ac3?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Nov 04 |
 | **[EmpiricBio LLC](www.empiricbio.com)** | **[Business Development Intern (Unpaid)](https://jobright.ai/jobs/info/690ae27e4a1b456627b0c431?utm_campaign=1051&utm_source=git)** | Westlake Village, CA | Remote | Nov 04 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/690ae8b4bcccf20de59e71ae?utm_campaign=1051&utm_source=git)** | Boise, ID - Main Site | On Site | Nov 04 |
@@ -133,7 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Nextdoor](http://nextdoor.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68d6262cebcef82ef5cf6cfa?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | **[Mirakl](http://www.mirakl.com)** | **[Sales Internship](https://jobright.ai/jobs/info/690a59b2bcccf20de59e1296?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 04 |
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Consumer Lending Intern](https://jobright.ai/jobs/info/690a58fa4a1b456627b06740?utm_campaign=1051&utm_source=git)** | Tuscaloosa,AL,US | On Site | Nov 04 |
-| **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) -Santa Monica - Hawthorne, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/690a8262bcccf20de59e34ee?utm_campaign=1051&utm_source=git)** | Hawthorne, CA | Hybrid | Nov 04 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) -Austin, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/690a7a32bcccf20de59e2eb5?utm_campaign=1051&utm_source=git)** | Round Rock, TX | Hybrid | Nov 04 |
+| ↳ | **[Store Assets Protection Executive Intern (Store Leadership Intern) -Santa Monica - Hawthorne, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/690a8262bcccf20de59e34ee?utm_campaign=1051&utm_source=git)** | Hawthorne, CA | Hybrid | Nov 04 |
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Commercial Lending Intern](https://jobright.ai/jobs/info/690a5145bcccf20de59e0ce1?utm_campaign=1051&utm_source=git)** | Tuscaloosa,AL,US | On Site | Nov 04 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Asset Management](https://jobright.ai/jobs/info/690a6d73d046ab6061cdc6e4?utm_campaign=1051&utm_source=git)** | Smithfield, RI | On Site | Nov 04 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/690b0be14a1b456627b0d6d8?utm_campaign=1051&utm_source=git)** | Urbana, IL | On Site | Nov 04 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Member Care Intern](https://jobright.ai/jobs/info/690a67e14a1b456627b07248?utm_campaign=1051&utm_source=git)** | Tuscaloosa,AL,US | On Site | Nov 04 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Business Development Research Intern](https://jobright.ai/jobs/info/690a60e44a1b456627b06d66?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Citizen Watch America](https://www.citizenwatch.com/)** | **[Retail Development Specialist SA (Seasonal)](https://jobright.ai/jobs/info/690a3be4d046ab6061cda4d9?utm_campaign=1051&utm_source=git)** | US | On Site | Nov 04 |
-| **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Feed Sales Intern - Feed Mill Operations](https://jobright.ai/jobs/info/690a33a34a1b456627b051bc?utm_campaign=1051&utm_source=git)** | Virtual (USA) | Remote | Nov 04 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/690a642ed046ab6061cdbdb6?utm_campaign=1051&utm_source=git)** | Boston, MA, USA | Hybrid | Nov 04 |
-| **[CME Group](http://www.cmegroup.com)** | **[Client Development & Sales Intern - Summer 2025](https://jobright.ai/jobs/info/690a5b37bcccf20de59e13d3?utm_campaign=1051&utm_source=git)** | Chicago - 20 S. Wacker | Hybrid | Nov 04 |
-| **[Arvento A](arventoa.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/690a2c45bcccf20de59df895?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Nov 04 |
-| **[Coinbase](https://www.coinbase.com)** | **[Sales, Trading, & Prime Intern](https://jobright.ai/jobs/info/68ed868070b66e2345d3ee09?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 04 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[TruckPaper Sales Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382910?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Nov 04 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Financial Planning Sales Internship - Spring 2026 (Paid)](https://jobright.ai/jobs/info/690a3815bcccf20de59dff11?utm_campaign=1051&utm_source=git)** | Florham Park, NJ | On Site | Nov 04 |
-| **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Leadership Intern) -Santa Monica - Hawthorne, CA (Starting Summer 2026)](https://jobright.ai/jobs/info/690a25f5bcccf20de59df4be?utm_campaign=1051&utm_source=git)** | 2700 W 120th St, Hawthorne, CA 90250-3388 | Hybrid | Nov 04 |
-| **[Trustedge Business Research](https://trustedgebusinessresearch.com/)** | **[Client Acquisition Intern](https://jobright.ai/jobs/info/690a257bd046ab6061cd9875?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 04 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Los Angeles, CA](https://jobright.ai/jobs/info/6898a41e5574fd6bc0c7a4b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
