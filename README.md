@@ -85,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c59f74a1b456627b17a78?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c59ecd046ab6061cec8b9?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c59a8d046ab6061cec89a?utm_campaign=1051&utm_source=git)** | Monterey, CA | On Site | Nov 06 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c5951d046ab6061cec874?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c5912221b890c277fd020?utm_campaign=1051&utm_source=git)** | Coralville, IA | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c58eb4a1b456627b17a08?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c589f221b890c277fcfe8?utm_campaign=1051&utm_source=git)** | Spokane Valley, WA | On Site | Nov 06 |
@@ -114,6 +113,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c540dd046ab6061cec6fc?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c53fb4a1b456627b178c1?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Nov 05 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c53ded046ab6061cec6f3?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 05 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c53cb221b890c277fce88?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 05 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c53c4221b890c277fce86?utm_campaign=1051&utm_source=git)** | Queens, NY | On Site | Nov 05 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c539e4a1b456627b178b3?utm_campaign=1051&utm_source=git)** | Gilbert, AZ | On Site | Nov 05 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690c53974a1b456627b178b1?utm_campaign=1051&utm_source=git)** | Crown Point, IN | On Site | Nov 05 |
