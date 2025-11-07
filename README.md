@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Softbinator Technologies](https://softbinator.com/)** | **[Account Representative](https://jobright.ai/jobs/info/690dbf91d046ab6061cf8ceb?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Nov 07 |
+| **[Huntsman Corporation](https://www.huntsman.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690dbda144146d3b6ec4f665?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Nov 07 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[NACG Intern](https://jobright.ai/jobs/info/690d986044146d3b6ec4dffb?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Nov 06 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Sales Intern (PT)](https://jobright.ai/jobs/info/690d6ef54a1b456627b214ce?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 06 |
 | **[NORMA Group](http://normagroup.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68db4d49e19b9e63ba20a6da?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 06 |
@@ -77,10 +79,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4dd1d046ab6061cf5323?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4dae221b890c27805b64?utm_campaign=1051&utm_source=git)** | Ontario, CA | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4d9ad046ab6061cf5315?utm_campaign=1051&utm_source=git)** | Salem, OR | On Site | Nov 06 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4d5ed046ab6061cf52fb?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Nov 06 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/690d4d28d046ab6061cf52e2?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Post Falls, ID - Summer 2026)](https://jobright.ai/jobs/info/690d4c7ad046ab6061cf52b2?utm_campaign=1051&utm_source=git)** | Post Falls, ID | On Site | Nov 06 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4b9b221b890c27805a1e?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Nov 06 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4b9b4a1b456627b20458?utm_campaign=1051&utm_source=git)** | Hoover, AL | On Site | Nov 06 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4b9b4a1b456627b20458?utm_campaign=1051&utm_source=git)** | Hoover, AL | On Site | Nov 06 |
+| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4b9b221b890c27805a1e?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4b86d046ab6061cf5238?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Nov 06 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Memphis (Summer 2026)](https://jobright.ai/jobs/info/690d4b7a4a1b456627b20433?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 06 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4b6d221b890c278059fb?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Nov 06 |
@@ -91,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4abb4a1b456627b203ae?utm_campaign=1051&utm_source=git)** | Skokie, IL | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4a9ed046ab6061cf516f?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4a6e4a1b456627b20384?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4a474a1b456627b20373?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4a45d046ab6061cf513b?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4a40221b890c2780592c?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4a3a221b890c27805927?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Nov 06 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d48dfd046ab6061cf5040?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d48de4a1b456627b20298?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d48ce4a1b456627b20289?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Nov 06 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d48b9221b890c2780588e?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d48add046ab6061cf501d?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4896221b890c27805881?utm_campaign=1051&utm_source=git)** | Tulsa, OK | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d48714a1b456627b20262?utm_campaign=1051&utm_source=git)** | Lakeland, FL | On Site | Nov 06 |
@@ -116,7 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d46284a1b456627b20053?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d45c84a1b456627b20005?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d45af4a1b456627b1ffe6?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 06 |
-| ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4491d046ab6061cf4cd7?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Nov 06 |
+| **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Sales Intern (Summer 2026) - Chicago Area](https://jobright.ai/jobs/info/690daa9dd046ab6061cf80d5?utm_campaign=1051&utm_source=git)** | Aurora, IL | On Site | Nov 06 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d4491d046ab6061cf4cd7?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d982044146d3b6ec4dfe4?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d446fd046ab6061cf4cb2?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d445f221b890c278054f3?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Nov 06 |
@@ -139,6 +141,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d3e2c221b890c278050d6?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 06 |
 | ↳ | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d3e29d046ab6061cf48a8?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 06 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690d3b8a4a1b456627b1f8fc?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Nov 06 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d605c221b890c278062f9?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Nov 06 |
 | **[Ravinia Festival](http://ravinia.org)** | **[Development Operations Intern](https://jobright.ai/jobs/info/690d65aa4a1b456627b20fbc?utm_campaign=1051&utm_source=git)** | Highland Park, IL, US | Hybrid | Nov 06 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/690d54d9221b890c27805e67?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/690d54a0d046ab6061cf5631?utm_campaign=1051&utm_source=git)** | Akron, OH | On Site | Nov 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[Sales Account Executive - SAP Academy for Customer Success - Palo Alto (Hybrid)](https://jobright.ai/jobs/info/690d1d6a221b890c278036c5?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 06 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2026 Retail Buying Intern / New York City](https://jobright.ai/jobs/info/690d3014221b890c27804798?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/690d166d4a1b456627b1d7fe?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Nov 06 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690d15974a1b456627b1d750?utm_campaign=1051&utm_source=git)** | Joliet, IL | On Site | Nov 06 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690d151fd046ab6061cf2828?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Nov 06 |
-| **[Crowe](https://www.crowe.com/)** | **[Corporate Development Intern (Part-time)](https://jobright.ai/jobs/info/690d1431221b890c27802e34?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
