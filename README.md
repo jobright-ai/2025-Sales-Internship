@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690eef8ad046ab6061d02390?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 07 |
+| ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690eea6bd046ab6061d020f0?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Nov 07 |
+| **[Giant Eagle, Inc.](https://www.gianteagle.com/)** | **[Retail, Intern](https://jobright.ai/jobs/info/690eea31d046ab6061d020dd?utm_campaign=1051&utm_source=git)** | Boardman, OH | On Site | Nov 07 |
+| **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690ee99344146d3b6ec58a22?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Nov 07 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/690ee60e44146d3b6ec589a6?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 07 |
+| ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/690ee16fd046ab6061d01e12?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 07 |
+| **[ADP](http://www.adp.com)** | **[Winter Sales Intern](https://jobright.ai/jobs/info/690edbe044146d3b6ec5859a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 07 |
 | **[Chicken N Pickle](https://chickennpickle.com)** | **[Intern - Sales & Events](https://jobright.ai/jobs/info/690ed28b221b890c27811e7f?utm_campaign=1051&utm_source=git)** | North Kansas City, MO | On Site | Nov 07 |
 | **[Empower Your Business](eybcoach.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/690ed084d046ab6061d01647?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Customer Value Strategy](https://jobright.ai/jobs/info/690ecfe544146d3b6ec58005?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 07 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/690e33ef44146d3b6ec51e2f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 07 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690e338b44146d3b6ec51de3?utm_campaign=1051&utm_source=git)** | Swedesboro, NJ | On Site | Nov 07 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/690e4fb3221b890c2780cb21?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 07 |
-| ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/690e5119d046ab6061cfc3eb?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Foundry Commercial](https://www.foundrycommercial.com/)** | **[Intern, Brokerage](https://jobright.ai/jobs/info/690e4d8544146d3b6ec52bfb?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
-| **[TransPerfect](http://www.transperfect.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/690e30b9221b890c2780b9f4?utm_campaign=1051&utm_source=git)** | Atlanta Metro | Hybrid | Nov 07 |
-| **[Helios HR](https://www.helioshr.com/)** | **[Development Intern / Gun Violence Prevention / Paid Intern](https://jobright.ai/jobs/info/690e3031d046ab6061cfb226?utm_campaign=1051&utm_source=git)** | Washington, DC, US | Hybrid | Nov 07 |
-| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Business Development Research Intern](https://jobright.ai/jobs/info/6900e432d5259a1b3cfef53c?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Nov 07 |
-| **[SpartanNash](https://www.spartannash.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68f14e78f462172a5a7d5ee0?utm_campaign=1051&utm_source=git)** | Byron Center, MI | On Site | Nov 07 |
-| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/690e4afb221b890c2780c7b9?utm_campaign=1051&utm_source=git)** | Rogers, MN | On Site | Nov 07 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690e4d15d046ab6061cfc198?utm_campaign=1051&utm_source=git)** | Gilroy, CA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
