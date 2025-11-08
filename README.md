@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690f02b5221b890c278132f2?utm_campaign=1051&utm_source=git)** | Troy, MI | Hybrid | Nov 08 |
+| **[Carrier Climate Solutions Transportation](https://www.carrier.com/refrigeration/en/worldwide/)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/690f1164d046ab6061d033fd?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 07 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690eef8ad046ab6061d02390?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 07 |
 | ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690eea6bd046ab6061d020f0?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Nov 07 |
 | **[Giant Eagle, Inc.](https://www.gianteagle.com/)** | **[Retail, Intern](https://jobright.ai/jobs/info/690eea31d046ab6061d020dd?utm_campaign=1051&utm_source=git)** | Boardman, OH | On Site | Nov 07 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea4d3221b890c27810334?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Nov 07 |
 | **[Exodus Capital](exoduscapitalcre.com)** | **[Winter Real Estate Internship](https://jobright.ai/jobs/info/690ea4d044146d3b6ec565a1?utm_campaign=1051&utm_source=git)** | White Plains, NY | On Site | Nov 07 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea48c221b890c2781030c?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Nov 07 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/690e9f3cd046ab6061cff6e5?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 07 |
 | **[Alro Steel](http://www.alro.com)** | **[Internship](https://jobright.ai/jobs/info/690e9d1644146d3b6ec55fbf?utm_campaign=1051&utm_source=git)** | Morrisville, Pennsylvania | On Site | Nov 07 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Sales Intern (Summer 2026) - Murfreesboro, TN](https://jobright.ai/jobs/info/690ebe5f44146d3b6ec57603?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Nov 07 |
 | ↳ | **[Sales Intern (Summer 2026) - San Jose, CA](https://jobright.ai/jobs/info/690eb9d544146d3b6ec5738e?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Nov 07 |
@@ -101,11 +102,11 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - Washington DC](https://jobright.ai/jobs/info/690e794544146d3b6ec54a96?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Nov 07 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - South Florida](https://jobright.ai/jobs/info/690e76a7221b890c2780e4ab?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 07 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - San Jose, CA](https://jobright.ai/jobs/info/690e70dad046ab6061cfdaa8?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Nov 07 |
+| **[Crown Equipment Corporation](http://www.crown.com)** | **[SALES SUPPORT - PAID INTERNSHIP](https://jobright.ai/jobs/info/690e6b2e221b890c2780dd30?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Nov 07 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - East Coast Florida](https://jobright.ai/jobs/info/690e69aad046ab6061cfd3f7?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | On Site | Nov 07 |
 | **[Martin Brower](http://martinbrower.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690e691544146d3b6ec53e26?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana | On Site | Nov 07 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/690e691444146d3b6ec53e24?utm_campaign=1051&utm_source=git)** | Kansas City, Missouri | On Site | Nov 07 |
 | **[Aircall](https://aircall.io/)** | **[Digital Customer Success Intern - New York (6 months)](https://jobright.ai/jobs/info/690e68ced046ab6061cfd329?utm_campaign=1051&utm_source=git)** | New York Office | Hybrid | Nov 07 |
-| **[Crown Equipment Corporation](http://www.crown.com)** | **[SALES SUPPORT - PAID INTERNSHIP](https://jobright.ai/jobs/info/690e671b44146d3b6ec53c7b?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Nov 07 |
 | **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Commercial Success Intern](https://jobright.ai/jobs/info/690e656d221b890c2780d7df?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 07 |
 | **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[Sales Intern](https://jobright.ai/jobs/info/690e6446d046ab6061cfd02f?utm_campaign=1051&utm_source=git)** | Indianapolis, Indiana | On Site | Nov 07 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690e634d44146d3b6ec5391e?utm_campaign=1051&utm_source=git)** | US-NC-Raleigh | On Site | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/690e33ef44146d3b6ec51e2f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 07 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690e338b44146d3b6ec51de3?utm_campaign=1051&utm_source=git)** | Swedesboro, NJ | On Site | Nov 07 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/690e4fb3221b890c2780cb21?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Foundry Commercial](https://www.foundrycommercial.com/)** | **[Intern, Brokerage](https://jobright.ai/jobs/info/690e4d8544146d3b6ec52bfb?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
