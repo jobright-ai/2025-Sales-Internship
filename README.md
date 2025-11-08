@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690f7f44bb519377733e8cc7?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
+| **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative Internship (2026 Graduates)](https://jobright.ai/jobs/info/690fa050183be660d2676083?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 08 |
+| **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690f9ba2183be660d2675eee?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Nov 08 |
+| **[Dynamic Gurus](dynamicmarketinggurus.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690f96c1183be660d2675d72?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Nov 08 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/690f924c183be660d2675cf6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/690f91ea988c2b7b4ec4e91f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/690f91a6bb519377733e91ea?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 08 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/690f9122183be660d2675c4b?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690f909bbb519377733e914a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/690f8fd4183be660d2675b77?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 08 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690f8fd3bb519377733e90e5?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 08 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690f833c988c2b7b4ec4e480?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690f7f44bb519377733e8cc7?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Sales Intern](https://jobright.ai/jobs/info/690f7e0a183be660d2675705?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Nov 08 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/690f7affbb519377733e8c19?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/690f7ae2bb519377733e8c12?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 08 |
@@ -101,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Client Success Manager Intern - Skillbridge](https://jobright.ai/jobs/info/68f2efa69a63986de756d552?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 08 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68f89197a628d10664e84202?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 08 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/690c35a44a1b456627b16e3f?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 08 |
-| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68cf41c1846f0b04af67ff30?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Nov 08 |
-| ↳ | **[Spring Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68ccd82d5954791a1d6ff860?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 08 |
+| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68ccd82d5954791a1d6ff860?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 08 |
+| ↳ | **[Spring Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68cf41c1846f0b04af67ff30?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Nov 08 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/690b01f6bcccf20de59e7e0a?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Nov 08 |
 | **[Copart](http://www.copart.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68fdc7410ab3b222462a46ae?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d7590f61a175619f8c9999?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 08 |
@@ -137,8 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5505f38327491861473?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Nov 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fe3e894705799a2ef6e0?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d3775f383274918612d3?utm_campaign=1051&utm_source=git)** | Ropesville, TX | On Site | Nov 08 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/690f3c9244146d3b6ec5ac8b?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 08 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68b9dc3b6105227d1189867a?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Nov 08 |
+| ↳ | **[Energy Sales Intern](https://jobright.ai/jobs/info/68b9dc3b6105227d1189867a?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Nov 08 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca2709d4187c55157a6cb2?utm_campaign=1051&utm_source=git)** | Kingfisher, OK | On Site | Nov 08 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68cee5d8fb49c96ca6ea4272?utm_campaign=1051&utm_source=git)** | Yuma, CO | On Site | Nov 08 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca3750f61c922772a750f1?utm_campaign=1051&utm_source=git)** | Ethan, SD | On Site | Nov 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d6fc8043103d4f21adcf?utm_campaign=1051&utm_source=git)** | Magnolia, MN | On Site | Nov 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6ffa445853d0e39ccbcef?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 08 |
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fde1894705799a2ef640?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Nov 08 |
-| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70292894705799a2efc55?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
-| **[Vertex Inc.](https://www.vertexinc.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/68f2af6f9a65fd345857f59a?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Grain Originator Intern](https://jobright.ai/jobs/info/68b9dad56105227d11898589?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Nov 08 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/690f50e844146d3b6ec5b3fe?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d7894705799a2ef983?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
-| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fd41d3fe025a3015d9e3?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 08 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Sales Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68f8a579a628d10664e84cdd?utm_campaign=1051&utm_source=git)** | Heathrow, FL | On Site | Nov 08 |
-| **[IBM](http://www.ibm.com)** | **[AI Research Partnerships Internship](https://jobright.ai/jobs/info/68ff0ef9e0c73b3a11199205?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
-| ↳ | **[AI Research Partnerships Internship](https://jobright.ai/jobs/info/68fbb00c4129dd33cd133bcb?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Nov 08 |
-| ↳ | **[AI Research Partnerships Internship](https://jobright.ai/jobs/info/68fb4af44129dd33cd13168e?utm_campaign=1051&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
