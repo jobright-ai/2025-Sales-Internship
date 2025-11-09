@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Health & Social Services Intern - Business Development](https://jobright.ai/jobs/info/69110a31988c2b7b4ec536f4?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Nov 09 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Pittsburgh South/Uniontown, PA](https://jobright.ai/jobs/info/69110938bb519377733edf8c?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 09 |
+| ↳ | **[Pharmaceutical Sales Intern - Greensboro, NC](https://jobright.ai/jobs/info/6911089dbb519377733edf60?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 09 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk (4) FT 6525](https://jobright.ai/jobs/info/6910fde3183be660d267a95f?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Nov 09 |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6910fd8ebb519377733ede3f?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 09 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader FT 6526](https://jobright.ai/jobs/info/6910fccbbb519377733ede11?utm_campaign=1051&utm_source=git)** | Petaluma, CA | On Site | Nov 09 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/690965764a1b456627b0001e?utm_campaign=1051&utm_source=git)** | Westlake, LA | On Site | Nov 09 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6909663c4a1b456627b00083?utm_campaign=1051&utm_source=git)** | Waterloo, IA | On Site | Nov 09 |
+| ↳ | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6909676cbcccf20de59dac31?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Nov 09 |
+| **[Octaura](https://www.octaura.com)** | **[Intern, Sales GTM](https://jobright.ai/jobs/info/6910f26d183be660d267a69e?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Nov 09 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Sales Internship](https://jobright.ai/jobs/info/6910eca5183be660d267a512?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Nov 09 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6910e3d7bb519377733ed78b?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 09 |
 | ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6910e2d2bb519377733ed719?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
@@ -114,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Sales Intern](https://jobright.ai/jobs/info/690f7e0a183be660d2675705?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Nov 08 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/690f7affbb519377733e8c19?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/690f7ae2bb519377733e8c12?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 08 |
-| **[H15DEN](https://h15den.com)** | **[Business Development Micro Internship](https://jobright.ai/jobs/info/690f79eebb519377733e8bc8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
 | **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2026](https://jobright.ai/jobs/info/68d710e3d3fe025a3015e9e0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Plainville Farms](https://www.plainvillefarms.com)** | **[Summer Intern](https://jobright.ai/jobs/info/690f6b75bc852e6dc187d505?utm_campaign=1051&utm_source=git)** | New Oxford, PA | On Site | Nov 08 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Pasadena](https://jobright.ai/jobs/info/68bb00875f3832749186b4fd?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | Nov 08 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elanco](https://www.elanco.com)** | **[Farm Animal Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68b9d05b8043103d4f21aad8?utm_campaign=1051&utm_source=git)** | Field, MN | On Site | Nov 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Business to Business Sales Internship Warren](https://jobright.ai/jobs/info/68f2f5e39a63986de756d777?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 08 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[Corporate Partnerships & Client Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f175f4e6870116b1f5954f?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 08 |
-| **[Ibility LLC](http://ibility.io)** | **[Business Development Intern - Winter 2025/26](https://jobright.ai/jobs/info/690f5843221b890c278154c9?utm_campaign=1051&utm_source=git)** | Washington DC | Remote | Nov 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68d746a6f9dbe42bf62c0e51?utm_campaign=1051&utm_source=git)** | Suffolk, VA | On Site | Nov 08 |
-| **[Paycom](http://www.paycom.com)** | **[Client Success Manager Intern - Skillbridge](https://jobright.ai/jobs/info/68f2efa69a63986de756d552?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 08 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68f89197a628d10664e84202?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 08 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/690c35a44a1b456627b16e3f?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 08 |
-| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68cf41c1846f0b04af67ff30?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Nov 08 |
-| ↳ | **[Spring Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68ccd82d5954791a1d6ff860?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 08 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/690b01f6bcccf20de59e7e0a?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Nov 08 |
-| **[Copart](http://www.copart.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68fdc7410ab3b222462a46ae?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
