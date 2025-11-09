@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steelcase](https://www.steelcase.com/)** | **[Consultative Sales Internship Program (Multiple Locations)](https://jobright.ai/jobs/info/68baf3745f3832749186ace5?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 09 |
+| **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Nov 09 |
+| ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/68bb80266105227d118a66f6?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Nov 09 |
+| ↳ | **[Intern, Sales](https://jobright.ai/jobs/info/68bb7e7a6105227d118a65b6?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Nov 09 |
 | **[Janus Henderson Group PLC](http://hendersonglobalinvestors.com)** | **[NACG Intern](https://jobright.ai/jobs/info/6910619d183be660d2678c58?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Nov 09 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Corporate Development Intern - 2026](https://jobright.ai/jobs/info/6910605fbb519377733ebfc2?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Nov 09 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Development Representative Internship](https://jobright.ai/jobs/info/69105ff3bb519377733ebfaa?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
@@ -123,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Client Success Manager Intern - Skillbridge](https://jobright.ai/jobs/info/68f2efa69a63986de756d552?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 08 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68f89197a628d10664e84202?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 08 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/690c35a44a1b456627b16e3f?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 08 |
-| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68ccd82d5954791a1d6ff860?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 08 |
-| ↳ | **[Spring Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68cf41c1846f0b04af67ff30?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Nov 08 |
+| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68cf41c1846f0b04af67ff30?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Nov 08 |
+| ↳ | **[Spring Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68ccd82d5954791a1d6ff860?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 08 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/690b01f6bcccf20de59e7e0a?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Nov 08 |
 | **[Copart](http://www.copart.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68fdc7410ab3b222462a46ae?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d7590f61a175619f8c9999?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d8894705799a2ef985?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Nov 08 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9dc5c6105227d11898692?utm_campaign=1051&utm_source=git)** | Worthing, SD | On Site | Nov 08 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Sales and Communication Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68b9e5836105227d11898fff?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Nov 08 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d7067cd3fe025a3015e352?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Nov 08 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d81e8043103d4f21aeaf?utm_campaign=1051&utm_source=git)** | Pierre, SD | On Site | Nov 08 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5505f38327491861473?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Nov 08 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fe3e894705799a2ef6e0?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
