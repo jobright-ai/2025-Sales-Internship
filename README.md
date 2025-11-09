@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LINKANA](https://www.linkedin.com/company/105245405)** | **[USA Residents Only – Internship E-Commerce](https://jobright.ai/jobs/info/6910cb28988c2b7b4ec528b2?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 09 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 09 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Entry Level Sales Internship – Financial Services](https://jobright.ai/jobs/info/6910b476183be660d2679b03?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | Nov 09 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Los Angeles](https://jobright.ai/jobs/info/68bb011f6105227d118a2388?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 09 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Austin](https://jobright.ai/jobs/info/68bb014e6105227d118a23b6?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 09 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Development Representative Internship](https://jobright.ai/jobs/info/69105ff3bb519377733ebfaa?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/69103197bb519377733eb097?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
 | ↳ | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/69103193183be660d2677b6e?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 08 |
-| ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/69102b17988c2b7b4ec5069c?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Hirello.ai](https://hirello.ai)** | **[UNPAID Sales, Marketing, Growth Hacking AI Startup Internship HIRING NOW](https://jobright.ai/jobs/info/6910147a183be660d2677442?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern -Joint Replacement Sales - Orlando, FL](https://jobright.ai/jobs/info/68c91e75a0c52d598ea36068?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Operations Intern](https://jobright.ai/jobs/info/690ff349bb519377733e9fb1?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Subtext](https://subtextliving.com/)** | **[Development Analyst Intern](https://jobright.ai/jobs/info/68d446868c62e63bc7fe7a2d?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Nov 08 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d75735295f8e37655d5352?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[Kimball International](https://www.kimballinternational.com)** | **[Sales Intern- Jasper, IN](https://jobright.ai/jobs/info/690f4db7d046ab6061d0489f?utm_campaign=1051&utm_source=git)** | Jasper, IN | On Site | Nov 08 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Sales Internship, Summer 2026](https://jobright.ai/jobs/info/68bb1c126105227d118a306a?utm_campaign=1051&utm_source=git)** | Lowell, AR | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
