@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janus Henderson Group PLC](http://hendersonglobalinvestors.com)** | **[NACG Intern](https://jobright.ai/jobs/info/6910619d183be660d2678c58?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Nov 09 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Corporate Development Intern - 2026](https://jobright.ai/jobs/info/6910605fbb519377733ebfc2?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Nov 09 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Development Representative Internship](https://jobright.ai/jobs/info/69105ff3bb519377733ebfaa?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/69103197bb519377733eb097?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
 | ↳ | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/69103193183be660d2677b6e?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 08 |
 | ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/69102b17988c2b7b4ec5069c?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
@@ -72,10 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690f9ba2183be660d2675eee?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Nov 08 |
 | **[Dynamic Gurus](dynamicmarketinggurus.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690f96c1183be660d2675d72?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Nov 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/690f924c183be660d2675cf6?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/690f91ea988c2b7b4ec4e91f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/690f91a6bb519377733e91ea?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 08 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/690f9122183be660d2675c4b?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690f909bbb519377733e914a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/690f91a6bb519377733e91ea?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 08 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690f909bbb519377733e914a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/690f8fd4183be660d2675b77?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 08 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690f8fd3bb519377733e90e5?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 08 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690f833c988c2b7b4ec4e480?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d81e8043103d4f21aeaf?utm_campaign=1051&utm_source=git)** | Pierre, SD | On Site | Nov 08 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5505f38327491861473?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Nov 08 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fe3e894705799a2ef6e0?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d3775f383274918612d3?utm_campaign=1051&utm_source=git)** | Ropesville, TX | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
