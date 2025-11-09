@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/690fd757988c2b7b4ec4f4ac?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 08 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[RV Sales Internship](https://jobright.ai/jobs/info/690faaa0988c2b7b4ec4f094?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Nov 08 |
 | **[All Jobs Info](https://www.alljobsinfo.com)** | **[Leasing Summer 2026 Internship - Phoenix - AZ](https://jobright.ai/jobs/info/690fa250183be660d26761cd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/690fa1f8183be660d267618c?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 08 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/690f7affbb519377733e8c19?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/690f7ae2bb519377733e8c12?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[H15DEN](https://h15den.com)** | **[Business Development Micro Internship](https://jobright.ai/jobs/info/690f79eebb519377733e8bc8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
-| **[Peapack Private Bank & Trust](https://www.peapackprivate.com/)** | **[Intern](https://jobright.ai/jobs/info/690f79d0988c2b7b4ec4e2b1?utm_campaign=1051&utm_source=git)** | Bedminster, NJ | On Site | Nov 08 |
 | **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2026](https://jobright.ai/jobs/info/68d710e3d3fe025a3015e9e0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Plainville Farms](https://www.plainvillefarms.com)** | **[Summer Intern](https://jobright.ai/jobs/info/690f6b75bc852e6dc187d505?utm_campaign=1051&utm_source=git)** | New Oxford, PA | On Site | Nov 08 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Pasadena](https://jobright.ai/jobs/info/68bb00875f3832749186b4fd?utm_campaign=1051&utm_source=git)** | Pasadena, CA | On Site | Nov 08 |
