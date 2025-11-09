@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/69102b17988c2b7b4ec5069c?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
+| **[Hirello.ai](https://hirello.ai)** | **[UNPAID Sales, Marketing, Growth Hacking AI Startup Internship HIRING NOW](https://jobright.ai/jobs/info/6910147a183be660d2677442?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern -Joint Replacement Sales - Orlando, FL](https://jobright.ai/jobs/info/68c91e75a0c52d598ea36068?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Operations Intern](https://jobright.ai/jobs/info/690ff349bb519377733e9fb1?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Nov 08 |
 | **[ProForce Pest Control](https://www.proforcepest.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690fee12988c2b7b4ec4f64b?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Nov 08 |
 | **[InComm Payments](https://www.incomm.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/690fe4d1bb519377733e9e14?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d3775f383274918612d3?utm_campaign=1051&utm_source=git)** | Ropesville, TX | On Site | Nov 08 |
 | ↳ | **[Energy Sales Intern](https://jobright.ai/jobs/info/68b9dc3b6105227d1189867a?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Nov 08 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca2709d4187c55157a6cb2?utm_campaign=1051&utm_source=git)** | Kingfisher, OK | On Site | Nov 08 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68cee5d8fb49c96ca6ea4272?utm_campaign=1051&utm_source=git)** | Yuma, CO | On Site | Nov 08 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca3750f61c922772a750f1?utm_campaign=1051&utm_source=git)** | Ethan, SD | On Site | Nov 08 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Mid-OH)](https://jobright.ai/jobs/info/68c64f22db52c07d2884707f?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
