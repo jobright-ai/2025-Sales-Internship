@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/684855ab7664b7262f85472a?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Nov 09 |
+| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/68ca645d46caff4db51fed03?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Nov 09 |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business Intern (Central Region)](https://jobright.ai/jobs/info/69109262bb519377733eca0a?utm_campaign=1051&utm_source=git)** | Coppell, TX | On Site | Nov 09 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/691091c9bb519377733ec9f4?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 09 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Winter 2026 NYC Buying Intern - Dec 25/May 26 Grads](https://jobright.ai/jobs/info/68e52658b99ec3563b0f06d2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 09 |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western Region)](https://jobright.ai/jobs/info/69108da0183be660d26794ac?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 09 |
 | **[Steelcase](https://www.steelcase.com/)** | **[Consultative Sales Internship Program (Multiple Locations)](https://jobright.ai/jobs/info/68baf3745f3832749186ace5?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 09 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Nov 09 |
 | ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/68bb80266105227d118a66f6?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Nov 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d705f3d3fe025a3015e285?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 08 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/690f474444146d3b6ec5af28?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Nov 08 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Gas Sales Intern - Telecommuter in VA](https://jobright.ai/jobs/info/68f319a59a65fd3458583c93?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Nov 08 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Columbus)](https://jobright.ai/jobs/info/68bb38575f3832749186d5c7?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Nov 08 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5fc8043103d4f21ace6?utm_campaign=1051&utm_source=git)** | Wausa, NE | On Site | Nov 08 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d701c0894705799a2efaec?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
-| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d8894705799a2ef985?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Nov 08 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9dc5c6105227d11898692?utm_campaign=1051&utm_source=git)** | Worthing, SD | On Site | Nov 08 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Sales and Communication Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68b9e5836105227d11898fff?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
