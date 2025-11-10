@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[Business Development Micro-Internship](https://jobright.ai/jobs/info/691135c5183be660d267ae17?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Nov 09 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/69112d40bb519377733ee2da?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
+| ↳ | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/69112c16988c2b7b4ec539af?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Intern Program - Sales](https://jobright.ai/jobs/info/69111e0b183be660d267ac72?utm_campaign=1051&utm_source=git)** | Beloit, WI | Remote | Nov 09 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/6911193abb519377733ee104?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Nov 09 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Health & Social Services Intern - Business Development](https://jobright.ai/jobs/info/69110a31988c2b7b4ec536f4?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Nov 09 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Sales Internship](https://jobright.ai/jobs/info/6910eca5183be660d267a512?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Nov 09 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6910e3d7bb519377733ed78b?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 09 |
 | ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6910e2d2bb519377733ed719?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
-| ↳ | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/6910df36183be660d267a04f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Kiva](http://kiva.org)** | **[Entrepreneurial Ecosystem Intern](https://jobright.ai/jobs/info/6910d89b988c2b7b4ec52bff?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Nov 09 |
 | **[LINKANA](https://www.linkedin.com/company/105245405)** | **[USA Residents Only – Internship E-Commerce](https://jobright.ai/jobs/info/6910cb28988c2b7b4ec528b2?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 09 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 09 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Winter 2026 NYC Buying Intern - Dec 25/May 26 Grads](https://jobright.ai/jobs/info/68e52658b99ec3563b0f06d2?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 09 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business (Western Region)](https://jobright.ai/jobs/info/69108da0183be660d26794ac?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 09 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6910a6b0988c2b7b4ec5250f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
-| ↳ | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6910a36f988c2b7b4ec5243c?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Steelcase](https://www.steelcase.com/)** | **[Consultative Sales Internship Program (Multiple Locations)](https://jobright.ai/jobs/info/68baf3745f3832749186ace5?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 09 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Nov 09 |
 | ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/68bb80266105227d118a66f6?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Jr. Executive Sales Intern - Providence](https://jobright.ai/jobs/info/68bb03018043103d4f224db4?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Nov 08 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Gas Sales Intern - Telecommuter in PA, MD, or NC](https://jobright.ai/jobs/info/68f316389a65fd3458583b8e?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Nov 08 |
 | **[Elanco](https://www.elanco.com)** | **[Farm Animal Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68b9d05b8043103d4f21aad8?utm_campaign=1051&utm_source=git)** | Field, MN | On Site | Nov 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Business to Business Sales Internship Warren](https://jobright.ai/jobs/info/68f2f5e39a63986de756d777?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
