@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6911ea80c98948514c477a0c?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 10 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc776868300c452ca15a5a?utm_campaign=1051&utm_source=git)** | Eureka, SD | On Site | Nov 10 |
 | **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6911ca806018ad4956aab71a?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Nov 10 |
 | **[Virtual Building Studio Inc](https://www.virtualbuildingstudio.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6911c7f48b818a6dda66b938?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 10 |
-| **[PRTNRRecruiting ](http://www.prtnrrecruiting.com)** | **[Winter 2025 Partnerships & Business Development Intern](https://jobright.ai/jobs/info/691192b1bb519377733efe46?utm_campaign=1051&utm_source=git)** | Los Angeles, CA  | Remote | Nov 09 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Associates Graduates](https://jobright.ai/jobs/info/6911e6dad1047e3565cf867f?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Nov 09 |
+| **[PRTNRRecruiting](https://www.linkedin.com/company/72314157)** | **[Winter 2025 Partnerships & Business Development Intern](https://jobright.ai/jobs/info/691192b1bb519377733efe46?utm_campaign=1051&utm_source=git)** | Los Angeles, CA  | Remote | Nov 09 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/691182abbb519377733ef8c3?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 09 |
 | ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6911814c183be660d267c43b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
 | ↳ | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/69117e2d183be660d267c410?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Janus Henderson Group PLC](http://hendersonglobalinvestors.com)** | **[NACG Intern](https://jobright.ai/jobs/info/6910619d183be660d2678c58?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Nov 09 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Corporate Development Intern - 2026](https://jobright.ai/jobs/info/6910605fbb519377733ebfc2?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Nov 09 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Development Representative Internship](https://jobright.ai/jobs/info/69105ff3bb519377733ebfaa?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern-Customer Success Management-Nashville, TN-Summer 2026](https://jobright.ai/jobs/info/6911b2ab988c2b7b4ec56396?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 09 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/69103193183be660d2677b6e?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 08 |
 | **[Hirello.ai](https://hirello.ai)** | **[UNPAID Sales, Marketing, Growth Hacking AI Startup Internship HIRING NOW](https://jobright.ai/jobs/info/6910147a183be660d2677442?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern -Joint Replacement Sales - Orlando, FL](https://jobright.ai/jobs/info/68c91e75a0c52d598ea36068?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68cf9dd3fb49c96ca6ea9c4e?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/68ccd968d11b445e0bee2d76?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Nov 08 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/68bb024b8043103d4f224d2a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Nov 08 |
-| ↳ | **[Spring Jr. Executive Sales Intern - Providence](https://jobright.ai/jobs/info/68bb03018043103d4f224db4?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Nov 08 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Gas Sales Intern - Telecommuter in PA, MD, or NC](https://jobright.ai/jobs/info/68f316389a65fd3458583b8e?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
