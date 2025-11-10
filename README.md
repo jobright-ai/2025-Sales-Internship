@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PRTNRRecruiting ](http://www.prtnrrecruiting.com)** | **[Winter 2025 Partnerships & Business Development Intern](https://jobright.ai/jobs/info/691192b1bb519377733efe46?utm_campaign=1051&utm_source=git)** | Los Angeles, CA  | Remote | Nov 09 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/691182abbb519377733ef8c3?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 09 |
+| ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6911814c183be660d267c43b?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
+| ↳ | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/69117e2d183be660d267c410?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
 | **[LexTrack AI](https://www.lextrackai.com)** | **[Business Development Intern – VC & Strategic Partnerships](https://jobright.ai/jobs/info/691173b5bb519377733ef47d?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Remote | Nov 09 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6911727b183be660d267bfd6?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Nov 09 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/6911723d988c2b7b4ec54bd7?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Nov 09 |
 | **[H15DEN](https://h15den.com)** | **[Business Development Micro-Internship](https://jobright.ai/jobs/info/691135c5183be660d267ae17?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Nov 09 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/69112d40bb519377733ee2da?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
-| ↳ | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/69112c16988c2b7b4ec539af?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Intern Program - Sales](https://jobright.ai/jobs/info/69111e0b183be660d267ac72?utm_campaign=1051&utm_source=git)** | Beloit, WI | Remote | Nov 09 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/6911193abb519377733ee104?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Nov 09 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Health & Social Services Intern - Business Development](https://jobright.ai/jobs/info/69110a31988c2b7b4ec536f4?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Nov 09 |
@@ -105,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Development Representative Internship](https://jobright.ai/jobs/info/69105ff3bb519377733ebfaa?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/69103193183be660d2677b6e?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 08 |
 | **[Hirello.ai](https://hirello.ai)** | **[UNPAID Sales, Marketing, Growth Hacking AI Startup Internship HIRING NOW](https://jobright.ai/jobs/info/6910147a183be660d2677442?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 08 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern -Joint Replacement Sales - Orlando, FL](https://jobright.ai/jobs/info/68c91e75a0c52d598ea36068?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Hudson, CO - Summer 2026)](https://jobright.ai/jobs/info/690d5fc94a1b456627b20cd1?utm_campaign=1051&utm_source=git)** | Hudson, CO | On Site | Nov 08 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Operations Intern](https://jobright.ai/jobs/info/690ff349bb519377733e9fb1?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Nov 08 |
 | **[ProForce Pest Control](https://www.proforcepest.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690fee12988c2b7b4ec4f64b?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Nov 08 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690f833c988c2b7b4ec4e480?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690f7f44bb519377733e8cc7?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Sales Intern](https://jobright.ai/jobs/info/690f7e0a183be660d2675705?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Nov 08 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Sales Intern Financial Services](https://jobright.ai/jobs/info/690f7affbb519377733e8c19?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/690f7ae2bb519377733e8c12?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2026](https://jobright.ai/jobs/info/68d710e3d3fe025a3015e9e0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Plainville Farms](https://www.plainvillefarms.com)** | **[Summer Intern](https://jobright.ai/jobs/info/690f6b75bc852e6dc187d505?utm_campaign=1051&utm_source=git)** | New Oxford, PA | On Site | Nov 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Jr. Executive Sales Intern - Providence](https://jobright.ai/jobs/info/68bb03018043103d4f224db4?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Nov 08 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Gas Sales Intern - Telecommuter in PA, MD, or NC](https://jobright.ai/jobs/info/68f316389a65fd3458583b8e?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Nov 08 |
 | **[Elanco](https://www.elanco.com)** | **[Farm Animal Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68b9d05b8043103d4f21aad8?utm_campaign=1051&utm_source=git)** | Field, MN | On Site | Nov 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Business to Business Sales Internship Warren](https://jobright.ai/jobs/info/68f2f5e39a63986de756d777?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 08 |
-| **[SPORTFIVE](http://www.sportfive.com/)** | **[Corporate Partnerships & Client Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f175f4e6870116b1f5954f?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
