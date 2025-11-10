@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Intern Program - Sales](https://jobright.ai/jobs/info/69111e0b183be660d267ac72?utm_campaign=1051&utm_source=git)** | Beloit, WI | Remote | Nov 09 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Summer Intern](https://jobright.ai/jobs/info/6911193abb519377733ee104?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Nov 09 |
 | **[Western Reserve Area Agency on Aging](https://areaagingsolutions.org/)** | **[Health & Social Services Intern - Business Development](https://jobright.ai/jobs/info/69110a31988c2b7b4ec536f4?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Nov 09 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Pittsburgh South/Uniontown, PA](https://jobright.ai/jobs/info/69110938bb519377733edf8c?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Nov 09 |
 | ↳ | **[Pharmaceutical Sales Intern - Greensboro, NC](https://jobright.ai/jobs/info/6911089dbb519377733edf60?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Nov 09 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Columbus](https://jobright.ai/jobs/info/68bb016a5f3832749186b5a1?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Nov 09 |
 | ↳ | **[Spring Jr. Executive Sales Intern - San Francisco](https://jobright.ai/jobs/info/68bd16aa68300c452ca18229?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 09 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Intern - Buying or Planning - New York](https://jobright.ai/jobs/info/689e879c83d13d1f5b6bd61e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 09 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Associates Graduate](https://jobright.ai/jobs/info/6910a61dbb519377733ecda4?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Nov 09 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Outside Sales Internship - Newton, MA](https://jobright.ai/jobs/info/68ad3a9c758f2e4ac300bdf3?utm_campaign=1051&utm_source=git)** | Newton, MA | On Site | Nov 09 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/69073d0cff462851fe007d04?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 09 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/689e6981faa4e875e827bfe6?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[Gas Sales Intern - Telecommuter in PA, MD, or NC](https://jobright.ai/jobs/info/68f316389a65fd3458583b8e?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Nov 08 |
 | **[Elanco](https://www.elanco.com)** | **[Farm Animal Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68b9d05b8043103d4f21aad8?utm_campaign=1051&utm_source=git)** | Field, MN | On Site | Nov 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Business to Business Sales Internship Warren](https://jobright.ai/jobs/info/68f2f5e39a63986de756d777?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 08 |
-| **[SPORTFIVE](http://www.sportfive.com/)** | **[Corporate Partnerships & Client Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f175f4e6870116b1f5954f?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
