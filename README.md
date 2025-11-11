@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Technical Sales Intern - Services](https://jobright.ai/jobs/info/691321cee344172248f6f902?utm_campaign=1051&utm_source=git)** | Springfield, MO | Hybrid | Nov 11 |
-| ↳ | **[2026 Technical Sales Intern - Controls (Remote)](https://jobright.ai/jobs/info/691321b9e344172248f6f900?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 11 |
-| ↳ | **[2026 Technical Sales Intern -Controls](https://jobright.ai/jobs/info/69132198e344172248f6f8f8?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Nov 11 |
-| ↳ | **[2026 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/69131df0d1047e3565d0175e?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | Nov 11 |
-| ↳ | **[2026 Technical Sales Intern - Equipment](https://jobright.ai/jobs/info/69131dd3d1047e3565d01756?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Nov 11 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Hawaii](https://jobright.ai/jobs/info/68db58579f13662d20e4a4bd?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Nov 11 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Ad Sales](https://jobright.ai/jobs/info/68db349134f2c406da6d54b5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 11 |
+| **[Capital Farm Credit](https://www.capitalfarmcredit.com/)** | **[Internship - Crop Insurance Services](https://jobright.ai/jobs/info/68e93e229020b95add6a51bc?utm_campaign=1051&utm_source=git)** | Lubbock, Texas | On Site | Nov 11 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2026 Summer Internship Program: Sales](https://jobright.ai/jobs/info/68bf25508e65e77df55b7574?utm_campaign=1051&utm_source=git)** | Spokane, WA | Hybrid | Nov 11 |
+| **[Texas Instruments](http://www.ti.com)** | **[Sales Engineering Intern (Waltham, MA)](https://jobright.ai/jobs/info/68bf830c5c5d5f14f46d79be?utm_campaign=1051&utm_source=git)** | Waltham, MA | On Site | Nov 11 |
+| **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Sales Intern Summer 2026](https://jobright.ai/jobs/info/68bf92c38e65e77df55bb731?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Nov 11 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/68f6ca939a63986de758260e?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Nov 11 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Sales Internship - Group Benefits (Summer 2026)](https://jobright.ai/jobs/info/69131d3f1465e02904e93093?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 11 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/691317f11465e02904e92ee0?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Nov 11 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Healthcare & Life Sciences Division [UG/MS]](https://jobright.ai/jobs/info/688dab82cdbd821a3663d8a1?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 11 |
 | **[FasterPay](https://www.fasterpay.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6913150fe344172248f6f591?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 11 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/68f6e8539a63986de7583578?utm_campaign=1051&utm_source=git)** | Reston, VA | Hybrid | Nov 11 |
 | **[ALCIVIA](https://www.alcivia.com)** | **[Agronomy Sales Internship](https://jobright.ai/jobs/info/691310c8d1047e3565d01362?utm_campaign=1051&utm_source=git)** | New Richmond, WI | Hybrid | Nov 11 |
 | ↳ | **[Agronomy Sales Internship](https://jobright.ai/jobs/info/69130f40d1047e3565d012d0?utm_campaign=1051&utm_source=git)** | Durand, WI | Hybrid | Nov 11 |
 | **[Carrier Climate Solutions Transportation](https://www.carrier.com/refrigeration/en/worldwide/)** | **[Sales Engineer Intern - Summer](https://jobright.ai/jobs/info/691305e2e344172248f6f042?utm_campaign=1051&utm_source=git)** | Pasadena, TX | On Site | Nov 11 |
@@ -79,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/6912ebded1047e3565d00568?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Nov 10 |
 | ↳ | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/6912eaebc98948514c47f83b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 10 |
 | **[PNC](http://www.pnc.com)** | **[Retail Banking Summer Intern Program - Organizational Financial Wellness](https://jobright.ai/jobs/info/69130786d1047e3565d0108b?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 10 |
+| **[zant](https://www.zant.app/)** | **[Commission Sales Intern](https://jobright.ai/jobs/info/69132b2be344172248f6fd1e?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Nov 10 |
 | **[INVIOX STUDIOS LTD](https://www.invioxstudios.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6912e955ea9ab01b82bf64e2?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Chanshow Biotechnology Inc](https://www.chanshow-biotech.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6912e91bea9ab01b82bf64cc?utm_campaign=1051&utm_source=git)** | South Plainfield, NJ | On Site | Nov 10 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/6912e8a7c98948514c47f6f2?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 10 |
@@ -107,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Automotive Key Account Management Intern - Summer 2026](https://jobright.ai/jobs/info/6912d853c98948514c47ebcb?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | Remote | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Sales Analytics Intern](https://jobright.ai/jobs/info/6912be20ea9ab01b82bf4a70?utm_campaign=1051&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6912e7e0ea9ab01b82bf641f?utm_campaign=1051&utm_source=git)** | Los Angeles - Downtown | On Site | Nov 10 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern)–OshKosh, WI (Starting Summer 2026)](https://jobright.ai/jobs/info/69132729e344172248f6fb21?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Sales Analytics Intern](https://jobright.ai/jobs/info/6912dd47d1047e3565cffbaf?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/6912964ec98948514c47cbcf?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/69129309ea9ab01b82bf397f?utm_campaign=1051&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bayer](https://www.bayer.com)** | **[Sales Analyst Walmart Intern](https://jobright.ai/jobs/info/69126c82d1047e3565cfc806?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Nov 10 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Development Intern](https://jobright.ai/jobs/info/69124bf7d1047e3565cfb089?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 10 |
 | **[Crystal Group](https://www.crystalrugged.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/69124b89ea9ab01b82bf11c2?utm_campaign=1051&utm_source=git)** | Hiawatha, IA | On Site | Nov 10 |
-| **[Schneider Electric](https://www.se.com)** | **[Electrical Contractor Business Intern](https://jobright.ai/jobs/info/69124b62c98948514c47a386?utm_campaign=1051&utm_source=git)** | Nashville, Tennessee | On Site | Nov 10 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Development Intern](https://jobright.ai/jobs/info/69124b43d1047e3565cfb040?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 10 |
-| **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69124a26c98948514c47a2ed?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Nov 10 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Demand Planning Analyst Intern - Bachelor's Degree](https://jobright.ai/jobs/info/69126748d1047e3565cfc3dd?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Nov 10 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship](https://jobright.ai/jobs/info/691249aeea9ab01b82bf1091?utm_campaign=1051&utm_source=git)** | Greater Boston | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
