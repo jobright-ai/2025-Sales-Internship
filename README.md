@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/6914e2226f36db06ef0496a4?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 12 |
+| **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Spring 2026 Wholesale Intern / New York City](https://jobright.ai/jobs/info/6914cf68286ccf0a15128925?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Partnerships, Creators](https://jobright.ai/jobs/info/6914c5e99c388539cbded925?utm_campaign=1051&utm_source=git)** | USA-TX - Texas Remote | Remote | Nov 12 |
 | **[FTI](http://www.faithtechinc.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6914c0c79c388539cbded7d3?utm_campaign=1051&utm_source=git)** | WI - Menasha | On Site | Nov 12 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Partnerships, Creators](https://jobright.ai/jobs/info/6914be7f6f36db06ef04896e?utm_campaign=1051&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Nov 12 |
@@ -65,12 +67,17 @@ For a complete list, click the following sortable link below:
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - South Bend, IN](https://jobright.ai/jobs/info/68dca886accfd24b67e58520?utm_campaign=1051&utm_source=git)** | South Bend, IN | On Site | Nov 12 |
 | **[Southwestern Family of Companies](http://southwestern.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6914bb576f36db06ef0487e8?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 12 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Technical Sales Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68dc4adea125e75c4229f3fc?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Nov 12 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6914d17c6f36db06ef049092?utm_campaign=1051&utm_source=git)** | Kansas City, KS | On Site | Nov 12 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Partnerships, Creators](https://jobright.ai/jobs/info/6914cf3c6f36db06ef048fab?utm_campaign=1051&utm_source=git)** | USA-NY - New York Remote | Remote | Nov 12 |
+| ↳ | **[Spring 2026 Internship - Partnerships, Creators](https://jobright.ai/jobs/info/6914d1ac9c388539cbdedd8b?utm_campaign=1051&utm_source=git)** | USA-CA - California Remote | Remote | Nov 12 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Orlando, FL](https://jobright.ai/jobs/info/68db00000dffed6f83d2bd2e?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Nov 12 |
+| **[Tanium](http://www.tanium.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/68bf7aa1702aa35207aa6914?utm_campaign=1051&utm_source=git)** | Addison, TX | On Site | Nov 12 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Sales Summer Internship](https://jobright.ai/jobs/info/6888ec2caab47a17f66fd9b2?utm_campaign=1051&utm_source=git)** | Greeley, CO | On Site | Nov 12 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[NextGen Sales Academy Intern](https://jobright.ai/jobs/info/6914ab666f36db06ef04832f?utm_campaign=1051&utm_source=git)** | Hopkinton, Massachusetts, United States | On Site | Nov 12 |
 | **[Henkel](http://www.henkel.com)** | **[Commercial Sales Intern, West Region – Summer 2026](https://jobright.ai/jobs/info/68bf69175c5d5f14f46d6ad1?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 12 |
 | ↳ | **[North America Sales and Business Support Intern – Summer 2026](https://jobright.ai/jobs/info/68cd1a4fb2a74e1837ed26cb?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Remote | Nov 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68b51902bc187f64e1be4cbe?utm_campaign=1051&utm_source=git)** | Morrow, GA | On Site | Nov 12 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Food Science Technical Sales Account Representative Intern](https://jobright.ai/jobs/info/68bf26248e65e77df55b766e?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 12 |
 | **[Henkel](http://www.henkel.com)** | **[North America Sales and Business Support Intern – Summer 2026](https://jobright.ai/jobs/info/68ce5cb0846f0b04af67925e?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Remote | Nov 12 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Fort Wayne, IN](https://jobright.ai/jobs/info/68e73edcae2b894b1d722bbf?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Nov 12 |
 | ↳ | **[Pharmaceutical Sales Intern - York/Harrisburg, PA](https://jobright.ai/jobs/info/68e339bcf758fe1f97e5c02b?utm_campaign=1051&utm_source=git)** | York, PA | On Site | Nov 12 |
@@ -103,7 +110,9 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Internship](https://jobright.ai/jobs/info/68c8f9a795f5211cd2cec60f?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Nov 12 |
 | **[Scoular](http://www.scoular.com/)** | **[Commodity Merchandising Intern - Summer 2026](https://jobright.ai/jobs/info/68d09a02846f0b04af688d57?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Nov 12 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Sales](https://jobright.ai/jobs/info/68c2498633864f172f9beab2?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Nov 12 |
-| **[Greystone](https://www.greystone.com)** | **[Summer 2026: Agency Lending Internship](https://jobright.ai/jobs/info/68c09925702aa35207aaefe7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 12 |
+| **[Greystone](https://www.greystone.com)** | **[Summer 2026: Agency Lending Internship](https://jobright.ai/jobs/info/68c090b45c5d5f14f46df3a9?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
+| ↳ | **[Summer 2026: Agency Lending Internship](https://jobright.ai/jobs/info/68c09925702aa35207aaefe7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 12 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Sales Summer Internship Program (Farmington, CT)](https://jobright.ai/jobs/info/68f8516aa628d10664e81a59?utm_campaign=1051&utm_source=git)** | Farmington, CT | On Site | Nov 12 |
 | **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/691480cc286ccf0a1512724b?utm_campaign=1051&utm_source=git)** | Rancho Cucamonga, CA | On Site | Nov 12 |
 | **[Lids](https://www.lids.com)** | **[Summer 2026 - Store Operations Intern](https://jobright.ai/jobs/info/68bf8f085c5d5f14f46d7fd3?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 12 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship](https://jobright.ai/jobs/info/68dcfd87a125e75c422a7981?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Nov 12 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69141dd01465e02904e9a7c8?utm_campaign=1051&utm_source=git)** | St Charles, MO | Hybrid | Nov 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/69141b5e1465e02904e9a711?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/69141ad2e344172248f76fce?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 11 |
-| **[GALLO](http://www.gallocareers.com)** | **[Sales Leadership Development Internship 2026](https://jobright.ai/jobs/info/69141946d1047e3565d08d00?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Nov 11 |
-| ↳ | **[Sales Leadership Development Internship 2026](https://jobright.ai/jobs/info/691415601465e02904e9a155?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 11 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6914141cd1047e3565d08af8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 11 |
-| ↳ | **[Sales Business Development Intern](https://jobright.ai/jobs/info/691413591465e02904e9a097?utm_campaign=1051&utm_source=git)** | Winter Park, FL | On Site | Nov 11 |
-| **[GALLO](http://www.gallocareers.com)** | **[Sales Leadership Development Internship 2026](https://jobright.ai/jobs/info/6914120f1465e02904e99ff3?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 11 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2026 Intern - Joint Replacement Sales - Cleveland, OH](https://jobright.ai/jobs/info/691407f6d1047e3565d0833e?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Hybrid | Nov 11 |
-| **[Crest Vale](crestvale.us)** | **[Summer Internship – Sales & Business Development](https://jobright.ai/jobs/info/69141e231465e02904e9a7e6?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Nov 11 |
-| **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Client Strategy Intern - Amazon & Walmart](https://jobright.ai/jobs/info/6913fd291465e02904e99185?utm_campaign=1051&utm_source=git)** | Bentonville, AR | Hybrid | Nov 11 |
-| **[NORMA Group](http://normagroup.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6913fd1c1465e02904e9917c?utm_campaign=1051&utm_source=git)** | Polk County, FL | Hybrid | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
