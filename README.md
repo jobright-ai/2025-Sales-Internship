@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Intern - 2026 Ag. Business Development](https://jobright.ai/jobs/info/690d131c4a1b456627b1d582?utm_campaign=1051&utm_source=git)** | Jefferson City, MO | On Site | Nov 13 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Development Advisory Intern](https://jobright.ai/jobs/info/68fa268e324f6f3670005c4a?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 13 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/6915d96b9c388539cbdf65cc?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 13 |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Healthcare & Life Sciences Division [UG/MS]](https://jobright.ai/jobs/info/68a44ee2e9f1c744da121868?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 13 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Inside Sales Rep Intern- Summer 2026](https://jobright.ai/jobs/info/68f22f92cb0abf15612f5710?utm_campaign=1051&utm_source=git)** | Heathrow, FL | On Site | Nov 13 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Undergrad Commercial Summer Internship: Sales, E-Commerce, & Marketing - Parsippany, NJ](https://jobright.ai/jobs/info/68cd96d0e23def7af55bc534?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | Hybrid | Nov 13 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c88ae6983e6768bc54eb50?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Inside Sales Rep Intern- Summer 2026](https://jobright.ai/jobs/info/68cd2145e23def7af55b5ce8?utm_campaign=1051&utm_source=git)** | Heathrow, FL | On Site | Nov 13 |
 | **[Aptiv](http://www.aptiv.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68f993696de2db04dc3ea367?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Subscription and Annuity Representative Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/68f886a56de2db04dc3dfffd?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Nov 13 |
 | **[Everest](https://www.everestglobal.com/)** | **[2026 Claims Internship Program](https://jobright.ai/jobs/info/6915bbf06f36db06ef050b92?utm_campaign=1051&utm_source=git)** | Warren, NJ | Hybrid | Nov 13 |
+| **[Ferrara](https://www.ferrara.com)** | **[Sales Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c1e334233c7d3e64d05900?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 13 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Healthcare & Life Sciences Division [UG/MS]](https://jobright.ai/jobs/info/68a4520c541cc3479840b3f0?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Schroders](https://www.schroders.com/)** | **[2026 Client Group Internship Program (Sales & Marketing) - NYC](https://jobright.ai/jobs/info/68f949becadb2e5a06a63871?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8deffe896042b0b7c1b7?utm_campaign=1051&utm_source=git)** | Brandon, FL | On Site | Nov 13 |
@@ -70,7 +75,8 @@ For a complete list, click the following sortable link below:
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6915a2cf6f36db06ef050216?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 13 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/69159c036f36db06ef04fc50?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Nov 13 |
 | ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/69159ba19c388539cbdf4a3e?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Nov 13 |
-| ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/69159b806f36db06ef04fc39?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Nov 13 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6915ccb29c388539cbdf613d?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Nov 13 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/69159b806f36db06ef04fc39?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Nov 13 |
 | ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/69159b4b286ccf0a1512f764?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
 | ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/69159a14286ccf0a1512f710?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Nov 13 |
 | ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/691598ec9c388539cbdf49e6?utm_campaign=1051&utm_source=git)** | Rochester, MN | On Site | Nov 13 |
@@ -79,11 +85,13 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/69158f35286ccf0a1512f16d?utm_campaign=1051&utm_source=git)** | Waterloo-CF Area | On Site | Nov 12 |
 | ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/69158d669c388539cbdf463a?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Nov 12 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Sales](https://jobright.ai/jobs/info/6915b3326f36db06ef050905?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Nov 12 |
+| ↳ | **[Summer 2026 Internship - Sales](https://jobright.ai/jobs/info/6915cad49c388539cbdf60e2?utm_campaign=1051&utm_source=git)** | Omaha, Nebraska | On Site | Nov 12 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/69158995286ccf0a1512f046?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Nov 12 |
 | ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/691589889c388539cbdf4541?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Nov 12 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/691588146f36db06ef04f764?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 12 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/6915a806286ccf0a1512ff23?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 12 |
 | ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/6915b262286ccf0a15130234?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Nov 12 |
+| ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/6915cf3b286ccf0a15130cbe?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Nov 12 |
 | ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/6915a1ce286ccf0a1512f904?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 12 |
 | ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/6915aa2e6f36db06ef050408?utm_campaign=1051&utm_source=git)** | Mankato, MN | On Site | Nov 12 |
 | ↳ | **[Retail Store Operations Intern](https://jobright.ai/jobs/info/6915aa966f36db06ef050435?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Nov 12 |
@@ -100,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69155d7c6f36db06ef04e2ec?utm_campaign=1051&utm_source=git)** | Burlington, MA | On Site | Nov 12 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69155cde6f36db06ef04e28b?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 12 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69155ab59c388539cbdf2ee2?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Nov 12 |
-| ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69155849286ccf0a1512d835?utm_campaign=1051&utm_source=git)** | Warrenville, IL | On Site | Nov 12 |
 | ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6915582b286ccf0a1512d824?utm_campaign=1051&utm_source=git)** | Warrenville, IL | On Site | Nov 12 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Sales](https://jobright.ai/jobs/info/691557e76f36db06ef04de13?utm_campaign=1051&utm_source=git)** | Oakland, CA | On Site | Nov 12 |
 | **[Comcast](https://corporate.comcast.com)** | **[CRM Intern - Spring 2026 Semester](https://jobright.ai/jobs/info/6912ca54ea9ab01b82bf4fb9?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 12 |
@@ -140,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[ADM](http://www.adm.com)** | **[ADMIS Futures Sales &amp; Operations Intern - New York, NY](https://jobright.ai/jobs/info/691540269c388539cbdf1d59?utm_campaign=1051&utm_source=git)** | New York | On Site | Nov 12 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/69153e999c388539cbdf1c4d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 12 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Sales Internship - Lees Summit, MO](https://jobright.ai/jobs/info/691516be9c388539cbdf05dd?utm_campaign=1051&utm_source=git)** | Lees Summit, MO | On Site | Nov 12 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group - PIMCO](https://jobright.ai/jobs/info/6908fc1c4a1b456627afadce?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Nov 12 |
 | **[Highgate](https://www.highgate.com)** | **[Sales & Marketing Summer Intern](https://jobright.ai/jobs/info/69150cd69c388539cbdf0047?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69152a9e9c388539cbdf12c4?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 12 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Partnerships, Creators](https://jobright.ai/jobs/info/691507d76f36db06ef04aedb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship- 2026 Grads Only](https://jobright.ai/jobs/info/691501d49c388539cbdef6d7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 12 |
 | **[SAP](https://www.sap.com)** | **[Customer Success Manager (CSM) - SAP Academy for Customer Success - Tempe (HYBRID)](https://jobright.ai/jobs/info/6915004f6f36db06ef04aa53?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Nov 12 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6914ffa86f36db06ef04a9ac?utm_campaign=1051&utm_source=git)** | La Jolla, CA | On Site | Nov 12 |
-| **[Central Bank](https://www.centralbank.net/)** | **[Business Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/6914fecf9c388539cbdef65a?utm_campaign=1051&utm_source=git)** | Lee's Summit, MO, 64086, United States | On Site | Nov 12 |
-| **[Jigsaw Medical](https://www.jigsawmed.com)** | **[Summer 2026 Intern, Medical Device Sales](https://jobright.ai/jobs/info/6914fd896f36db06ef04a7a1?utm_campaign=1051&utm_source=git)** | North Aurora, IL | On Site | Nov 12 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Ecommererce Sales- Summer 2026](https://jobright.ai/jobs/info/6914fd456f36db06ef04a756?utm_campaign=1051&utm_source=git)** | US-OH-Avon | Hybrid | Nov 12 |
-| **[84 Lumber](http://www.84lumber.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6914f8776f36db06ef04a31d?utm_campaign=1051&utm_source=git)** | Eighty Four, Pennsylvania | On Site | Nov 12 |
-| **[SAP](https://www.sap.com)** | **[Customer Success Manager (CSM) - SAP Academy for Customer Success - Tempe (HYBRID)](https://jobright.ai/jobs/info/6914f783286ccf0a15129b8f?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Nov 12 |
-| **[Plan B®](https://www.thisisplanb.com/)** | **[Account Coordinator Internship AD AGENCY](https://jobright.ai/jobs/info/6915098f286ccf0a1512a94e?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
