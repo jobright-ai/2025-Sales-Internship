@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/69172e23bcdbf3560c9c5e62?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 14 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship - San Antonio](https://jobright.ai/jobs/info/68c4ccd17279451d6a037c94?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 14 |
+| **[UPS](http://www.ups.com)** | **[UPS Sales Summer 2026 Internship](https://jobright.ai/jobs/info/69172b373ea85638ae1c883b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 14 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship - Texas Coast](https://jobright.ai/jobs/info/68ccf53e77add66568abc935?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller Account Operations Project Intern (TikTok Shop - US Operation) - 2025 start (BS/MS)](https://jobright.ai/jobs/info/68cf6411846f0b04af681cd9?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | ↳ | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cd3b8fe23def7af55b7186?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
 | ↳ | **[Creator Business Development & Incubation Intern (TikTok Shop - US Operation) - 2025 Project Intern (MBA)](https://jobright.ai/jobs/info/6916fc34370fde633d07be26?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Healthcare & Life Sciences Division Toronto [UG/MS]](https://jobright.ai/jobs/info/69172d113ea85638ae1c8928?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 14 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Sales & Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/6916f8736f36db06ef05bb5e?utm_campaign=1051&utm_source=git)** | San Diego, California, United States of America | On Site | Nov 14 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6917000a370fde633d07c116?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Nov 13 |
 | **[Carrier Climate Solutions Transportation](https://www.carrier.com/refrigeration/en/worldwide/)** | **[Building Automation Sales Intern - Summer](https://jobright.ai/jobs/info/6916dffc286ccf0a1513a020?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 13 |
@@ -112,9 +117,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8dbb6be63b6ec99714cf?utm_campaign=1051&utm_source=git)** | Wichita Falls, TX | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df90655ab4977c2e955fa0?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d95fe896042b0b7c17d?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8e885ab4977c2e955c75?utm_campaign=1051&utm_source=git)** | Logan, UT | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d866be63b6ec9971495?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df90095ab4977c2e955f14?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 13 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8e885ab4977c2e955c75?utm_campaign=1051&utm_source=git)** | Logan, UT | On Site | Nov 13 |
 | **[AnA Sourcing](https://www.anasourcing.com)** | **[Sales & Service Intern](https://jobright.ai/jobs/info/691666a2286ccf0a15135651?utm_campaign=1051&utm_source=git)** | Collingswood, NJ | Hybrid | Nov 13 |
 | **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/68f12132ef766b3f0fd08d10?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 13 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6916f046286ccf0a1513b046?utm_campaign=1051&utm_source=git)** | Bridgewater, Nova Scotia, Canada | Hybrid | Nov 13 |
@@ -143,7 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Account Manager Intern](https://jobright.ai/jobs/info/691700b4370fde633d07c18b?utm_campaign=1051&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Nov 13 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/691634fb286ccf0a151335cc?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691614969c388539cbdf7aec?utm_campaign=1051&utm_source=git)** | Highland Heights, OH | On Site | Nov 13 |
-| **[Humanity & Wellness Expansion LLC ](Humanityexpansion.com)** | **[Partnership Development Intern (DMV, Pensylvania, New York)](https://jobright.ai/jobs/info/691648c06f36db06ef05496f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Nov 13 |
+| **[Humanity & Wellness Expansion LLC](Humanityexpansion.com)** | **[Partnership Development Intern (DMV, Pensylvania, New York)](https://jobright.ai/jobs/info/691648c06f36db06ef05496f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Nov 13 |
 | **[Precision eControl](https://www.precisionecontrol.com)** | **[eControl Sales Operations Intern](https://jobright.ai/jobs/info/691610486f36db06ef0529b9?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, US | On Site | Nov 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Nov 13 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8c4344d32141e0bf7fc7?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Nov 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - North Carolina](https://jobright.ai/jobs/info/68c1ee394d652f044775bcdb?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Seattle](https://jobright.ai/jobs/info/68ddd9c509bda65a4b62477e?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 13 |
 | ↳ | **[Sales Management Trainee Intern - Spring](https://jobright.ai/jobs/info/68b52725bc187f64e1be5752?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Nov 13 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8b5ba125e75c422abf45?utm_campaign=1051&utm_source=git)** | Oxford, MS | On Site | Nov 13 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Sales Internship](https://jobright.ai/jobs/info/691602756f36db06ef05241f?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Nov 13 |
-| **[Nike](http://www.nike.com)** | **[Nike, Inc. Global Stores Graduate Internship](https://jobright.ai/jobs/info/691687429c388539cbdfc45c?utm_campaign=1051&utm_source=git)** | Beaverton, Oregon | On Site | Nov 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Olympia](https://jobright.ai/jobs/info/68ddda67a125e75c422af663?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Nov 13 |
-| ↳ | **[Spring 2026 Management Trainee Sales Internship - Bellingham](https://jobright.ai/jobs/info/68ddd9ded624072d9ab04da0?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
