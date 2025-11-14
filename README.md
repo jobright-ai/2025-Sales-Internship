@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Sales & Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/6916f8736f36db06ef05bb5e?utm_campaign=1051&utm_source=git)** | San Diego, California, United States of America | On Site | Nov 14 |
+| **[Carrier Climate Solutions Transportation](https://www.carrier.com/refrigeration/en/worldwide/)** | **[Building Automation Sales Intern - Summer](https://jobright.ai/jobs/info/6916dffc286ccf0a1513a020?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 13 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6916d4f06f36db06ef05a06a?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 13 |
 | ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6916ce506f36db06ef059e55?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 13 |
 | ↳ | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/6916cafa9c388539cbdfeb6c?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 13 |
@@ -96,20 +98,21 @@ For a complete list, click the following sortable link below:
 | **[BGB Group](http://bgbgroup.com/)** | **[Spring 2026 Account Services Internship](https://jobright.ai/jobs/info/68ffd2d90ab3b222462ae777?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Nov 13 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/691666fb286ccf0a151356bb?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Nov 13 |
 | ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/691666929c388539cbdfac93?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Nov 13 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d43fe896042b0b7c148?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Nov 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d3cfe896042b0b7c13f?utm_campaign=1051&utm_source=git)** | Lutz, FL | On Site | Nov 13 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d3cfe896042b0b7c13f?utm_campaign=1051&utm_source=git)** | Lutz, FL | On Site | Nov 13 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d43fe896042b0b7c148?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df90815ab4977c2e955fd4?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df911c5ab4977c2e9560bf?utm_campaign=1051&utm_source=git)** | Altoona, PA | On Site | Nov 13 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68df90925ab4977c2e955ff0?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8cb6fe896042b0b7c0aa?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Nov 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df90655ab4977c2e955fa0?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8dbb6be63b6ec99714cf?utm_campaign=1051&utm_source=git)** | Wichita Falls, TX | On Site | Nov 13 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df90655ab4977c2e955fa0?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d95fe896042b0b7c17d?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 13 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8e885ab4977c2e955c75?utm_campaign=1051&utm_source=git)** | Logan, UT | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df90095ab4977c2e955f14?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d866be63b6ec9971495?utm_campaign=1051&utm_source=git)** | Beaumont, TX | On Site | Nov 13 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8e885ab4977c2e955c75?utm_campaign=1051&utm_source=git)** | Logan, UT | On Site | Nov 13 |
 | **[AnA Sourcing](https://www.anasourcing.com)** | **[Sales & Service Intern](https://jobright.ai/jobs/info/691666a2286ccf0a15135651?utm_campaign=1051&utm_source=git)** | Collingswood, NJ | Hybrid | Nov 13 |
 | **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/68f12132ef766b3f0fd08d10?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 13 |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6916f046286ccf0a1513b046?utm_campaign=1051&utm_source=git)** | Bridgewater, Nova Scotia, Canada | Hybrid | Nov 13 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69166ed06f36db06ef0566bb?utm_campaign=1051&utm_source=git)** | Aliso Viejo, CA | On Site | Nov 13 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8f325ab4977c2e955de5?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO | On Site | Nov 13 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df905c5ab4977c2e955f93?utm_campaign=1051&utm_source=git)** | Victoria, TX | On Site | Nov 13 |
@@ -131,14 +134,15 @@ For a complete list, click the following sortable link below:
 | **[Grandir Solutions](https://lnk.bio/GrandirSolutions)** | **[Sales Intern](https://jobright.ai/jobs/info/69163e469c388539cbdf906e?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Cargill](https://www.cargill.com/home)** | **[Beef Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69161f62286ccf0a15132af1?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Nov 13 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Life Settlements Intern](https://jobright.ai/jobs/info/69163e639c388539cbdf9087?utm_campaign=1051&utm_source=git)** | Akron, OH, United States | On Site | Nov 13 |
+| **[Desjardins](https://www.desjardins.com)** | **[Business Account Manager Intern](https://jobright.ai/jobs/info/6916f5146f36db06ef05b81a?utm_campaign=1051&utm_source=git)** | Trois-Rivières, Quebec, Canada | Hybrid | Nov 13 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/691634fb286ccf0a151335cc?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
-| **[The Port of Virginia](https://www.portofvirginia.com/)** | **[Intern- Sales](https://jobright.ai/jobs/info/691616f36f36db06ef052dd1?utm_campaign=1051&utm_source=git)** | Norfolk, VA, US | On Site | Nov 13 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691614969c388539cbdf7aec?utm_campaign=1051&utm_source=git)** | Highland Heights, OH | On Site | Nov 13 |
 | **[Humanity & Wellness Expansion LLC ](Humanityexpansion.com)** | **[Partnership Development Intern (DMV, Pensylvania, New York)](https://jobright.ai/jobs/info/691648c06f36db06ef05496f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Nov 13 |
 | **[Precision eControl](https://www.precisionecontrol.com)** | **[eControl Sales Operations Intern](https://jobright.ai/jobs/info/691610486f36db06ef0529b9?utm_campaign=1051&utm_source=git)** | Cincinnati, OH, US | On Site | Nov 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Nov 13 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8c4344d32141e0bf7fc7?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Nov 13 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Reno Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691624086f36db06ef053367?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Nov 13 |
+| **[The Port of Virginia](https://www.portofvirginia.com/)** | **[Intern- Sales](https://jobright.ai/jobs/info/691623079c388539cbdf8094?utm_campaign=1051&utm_source=git)** | Norfolk, VA, US | On Site | Nov 13 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - North Carolina](https://jobright.ai/jobs/info/68c1ee394d652f044775bcdb?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Seattle](https://jobright.ai/jobs/info/68ddd9c509bda65a4b62477e?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 13 |
 | ↳ | **[Sales Management Trainee Intern - Spring](https://jobright.ai/jobs/info/68b52725bc187f64e1be5752?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Nov 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Tampa](https://jobright.ai/jobs/info/68c1ed8a4d652f044775bc30?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 13 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Baltimore](https://jobright.ai/jobs/info/68c1f28133864f172f9bbfa4?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Nov 13 |
 | **[Univest](http://www.univest.net/)** | **[Insurance Intern - Summer 2026](https://jobright.ai/jobs/info/6915f92b286ccf0a15131a6c?utm_campaign=1051&utm_source=git)** | Lansdale, PA | On Site | Nov 13 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Nashville](https://jobright.ai/jobs/info/68cd3bd0e23def7af55b71db?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 13 |
-| ↳ | **[Summer Jr. Executive Sales Intern - New Orleans](https://jobright.ai/jobs/info/68c1ec044d652f044775baee?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Nov 13 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Sales Intern – Sales](https://jobright.ai/jobs/info/68cb817cba798c1a501d0b37?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68b51fbc1ade4306aa64042f?utm_campaign=1051&utm_source=git)** | Fayetteville, GA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
