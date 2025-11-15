@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Sales Engineer II (OEM)](https://jobright.ai/jobs/info/6918e8e215b4156367184045?utm_campaign=1051&utm_source=git)** | Bethlehem, PA | Hybrid | Nov 15 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6918d83415b4156367183d2a?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6114](https://jobright.ai/jobs/info/6918f2efbcdbf3560c9d3f48?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Nov 15 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6918cfa9bcdbf3560c9d39ba?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 15 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Investor Relations & Business Development](https://jobright.ai/jobs/info/6918cc5945fb6f5ead8a6c99?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Nov 15 |
 | **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Access Insurance Internship](https://jobright.ai/jobs/info/6918cc0d45fb6f5ead8a6c75?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Nov 15 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[-Summer Internship – Sales & Business Development](https://jobright.ai/jobs/info/6918c7d645fb6f5ead8a6c11?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Nov 15 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6918c2c3bcdbf3560c9d3814?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 15 |
+| **[Comcast](https://corporate.comcast.com)** | **[CRM Intern - Spring 2026 Semester](https://jobright.ai/jobs/info/6912ca54ea9ab01b82bf4fb9?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 15 |
 | **[Wellbots](https://www.wellbots.com/)** | **[Sales Intern/Associate](https://jobright.ai/jobs/info/6918b98945fb6f5ead8a6a0f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68cbb99cefdec76df36c1465?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 15 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/688c81753a30793eb9643f2a?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Nov 15 |
@@ -117,10 +119,11 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08adeb99ec3563b0d076e?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Nov 15 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08e7e1852e62f007ec0ad?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Nov 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe9791852e62f007e573a?utm_campaign=1051&utm_source=git)** | Liberal, KS | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e5cb1852e62f007f0501?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe94e1852e62f007e5710?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
+| ↳ | **[Sales and Management Intern (Jordan Creek Town Center)](https://jobright.ai/jobs/info/68e09013f758fe1f97e4e722?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Nov 15 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41886e396b25cb5c657c1?utm_campaign=1051&utm_source=git)** | Elgin, ND | On Site | Nov 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe953f758fe1f97e47b16?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | On Site | Nov 15 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Atlanta](https://jobright.ai/jobs/info/68c1eed14d652f044775bd6d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Oklahoma City District)](https://jobright.ai/jobs/info/68f4800476a51a4307bd1e6b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/691877c445fb6f5ead8a57ae?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - Mid-Texas](https://jobright.ai/jobs/info/68c7ac40db52c07d2884e0b1?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Nov 15 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - New Orleans, LA](https://jobright.ai/jobs/info/68e8a24cc72beb74cb320c1b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Nov 15 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Nov 15 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e0395af758fe1f97e4b1fa?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
