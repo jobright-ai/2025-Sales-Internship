@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valorantum](valorantum.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/691807f945fb6f5ead8a111e?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Nov 14 |
+| **[Shanna Day Team](shannadayteam.com)** | **[Open House Intern](https://jobright.ai/jobs/info/6918025015b415636717dc3a?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Nov 14 |
+| ↳ | **[Arizona Valley - Open House Intern](https://jobright.ai/jobs/info/69180017bcdbf3560c9cd85b?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Nov 14 |
+| **[Siemens](https://www.siemens.com)** | **[Smart Building Sales Internship (part-time) ~ Miami](https://jobright.ai/jobs/info/6917feb6bcdbf3560c9cd784?utm_campaign=1051&utm_source=git)** | Buffalo Grove, IL | Hybrid | Nov 14 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026 - Insurance Brokerage Intern](https://jobright.ai/jobs/info/6917f665bcdbf3560c9cd0fc?utm_campaign=1051&utm_source=git)** | Abbotsford, British Columbia, Canada | On Site | Nov 14 |
 | **[Insight](https://www.insight.com)** | **[Client Operations Intern](https://jobright.ai/jobs/info/6917f639bcdbf3560c9cd0e5?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Sourcing](https://jobright.ai/jobs/info/6914424d286ccf0a15126233?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 14 |
@@ -104,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6917854045fb6f5ead89ba75?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Membership Intern](https://jobright.ai/jobs/info/6917842a45fb6f5ead89b9be?utm_campaign=1051&utm_source=git)** | Austin,TX,US | Hybrid | Nov 14 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Special Missions - Aftermarket](https://jobright.ai/jobs/info/6917a6cd15b415636717a0f3?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Nov 14 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Sales - Part Time](https://jobright.ai/jobs/info/6917a66315b415636717a085?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Nov 14 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Summer 2026)](https://jobright.ai/jobs/info/69178f5745fb6f5ead89c053?utm_campaign=1051&utm_source=git)** | Provo, UT | On Site | Nov 14 |
 | **[Barn Owl Technologies](https://www.barnowltechnologies.com)** | **[Business Development & Sales Operations Intern (Spring 2026)](https://jobright.ai/jobs/info/691792e0bcdbf3560c9c8fda?utm_campaign=1051&utm_source=git)** | Wellesley, MA | Hybrid | Nov 14 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Building Automation Sales Intern - Summer](https://jobright.ai/jobs/info/691771e9370fde633d0800fb?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
@@ -117,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) McClellan, CA](https://jobright.ai/jobs/info/68cd10481ad6b16f028942d4?utm_campaign=1051&utm_source=git)** | McClellan Park, CA | On Site | Nov 14 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Intern - Asset Development](https://jobright.ai/jobs/info/68fb8eb14129dd33cd132beb?utm_campaign=1051&utm_source=git)** | Hillsborough County, FL | On Site | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68fb8d284129dd33cd132b13?utm_campaign=1051&utm_source=git)** | Fort Walton Beach, FL | On Site | Nov 14 |
+| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd9674ddc10244dd681634?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
 | **[SMS group](http://www.sms-group.com/)** | **[Now Hiring for Fall 2025 Business Coordinator/Intern Position](https://jobright.ai/jobs/info/691779f33ea85638ae1caefa?utm_campaign=1051&utm_source=git)** | Arlington Heights, IL | On Site | Nov 14 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Texas) - Summer '26](https://jobright.ai/jobs/info/68c23d9433864f172f9be2c7?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | Nov 14 |
-| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd9750a125e75c422acefd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Chicago, Summer 2026](https://jobright.ai/jobs/info/68df1a616be63b6ec996bc2d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Rochester](https://jobright.ai/jobs/info/68c1f00c63b706703e110680?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Nov 14 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Texas](https://jobright.ai/jobs/info/68c1ee4963b706703e110470?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
@@ -141,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Grain Origination Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2e42063829b0a8a4fdb5a?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Nov 14 |
 | **[Galloup](https://www.galloup.com)** | **[Sales Intern - Summer 2026 - Galloup](https://jobright.ai/jobs/info/68df31706be63b6ec996cf57?utm_campaign=1051&utm_source=git)** | Wyoming, MI | On Site | Nov 14 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Miami](https://jobright.ai/jobs/info/68c1edb363b706703e1103d7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 14 |
-| **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[CRM Summer Intern](https://jobright.ai/jobs/info/690d3ad34a1b456627b1f878?utm_campaign=1051&utm_source=git)** | Overland Park, KS | Hybrid | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68cf6c35dbd9fb154ede7c7e?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 14 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Inside Sales Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/6901972a4539ea1f21421868?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Chico/Redding, CA](https://jobright.ai/jobs/info/68def84ea125e75c422b8c22?utm_campaign=1051&utm_source=git)** | Redding, CA | On Site | Nov 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - DC](https://jobright.ai/jobs/info/68cd8d8de23def7af55bbb93?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Nov 14 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Jacksonville](https://jobright.ai/jobs/info/68cf2cdd846f0b04af67fb24?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Nov 14 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern - Charlotte North](https://jobright.ai/jobs/info/68d756717a37c712687c8f91?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 14 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/6912ee54ea9ab01b82bf66eb?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Nov 14 |
-| ↳ | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/6912e8a7c98948514c47f6f2?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
