@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wellbots](https://www.wellbots.com/)** | **[Sales Intern/Associate](https://jobright.ai/jobs/info/6918b98945fb6f5ead8a6a0f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68cbb99cefdec76df36c1465?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 15 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/688c81753a30793eb9643f2a?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Nov 15 |
+| **[Veritiv](https://www.veritiv.com)** | **[Pricing Analyst Intern](https://jobright.ai/jobs/info/68e0422bf758fe1f97e4bb4b?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 15 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Harrisonburg, VA](https://jobright.ai/jobs/info/68a7cb6533dd7158bbca9afb?utm_campaign=1051&utm_source=git)** | Harrisonburg, VA | On Site | Nov 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68fcd4fde0c73b3a1119005f?utm_campaign=1051&utm_source=git)** | Newark, DE | On Site | Nov 15 |
+| **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Supply Chain Replenishment Planning Internship – Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/68fbc9a793c49825ab105a65?utm_campaign=1051&utm_source=git)** | Oak Brook, IL | On Site | Nov 15 |
+| **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Fleet Services](https://jobright.ai/jobs/info/6918a14715b415636718327d?utm_campaign=1051&utm_source=git)** | Renton, WA | Hybrid | Nov 15 |
+| **[TYLin](http://www.tylin.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/68c853baf9c6ff7aedf0d04c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[Ascendo AI](http://www.ascendo.ai)** | **[AI Solutions Engineer pre-sales Intern](https://jobright.ai/jobs/info/69189fe245fb6f5ead8a632f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Johnson Brothers](https://www.johnsonbrothers.com/)** | **[2026 Retail Sales Intern](https://jobright.ai/jobs/info/68dfda7bb99ec3563b0c997e?utm_campaign=1051&utm_source=git)** | North Kingstown, RI | On Site | Nov 15 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Strategic Sales and Credit](https://jobright.ai/jobs/info/68cb8d229e3a822f5d248153?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 15 |
@@ -102,10 +111,10 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08adeb99ec3563b0d076e?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Nov 15 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08e7e1852e62f007ec0ad?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Nov 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe9791852e62f007e573a?utm_campaign=1051&utm_source=git)** | Liberal, KS | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e5cb1852e62f007f0501?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe94e1852e62f007e5710?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41886e396b25cb5c657c1?utm_campaign=1051&utm_source=git)** | Elgin, ND | On Site | Nov 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe953f758fe1f97e47b16?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | On Site | Nov 15 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Atlanta](https://jobright.ai/jobs/info/68c1eed14d652f044775bd6d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
@@ -140,21 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/691877c445fb6f5ead8a57ae?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - Mid-Texas](https://jobright.ai/jobs/info/68c7ac40db52c07d2884e0b1?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Nov 15 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - New Orleans, LA](https://jobright.ai/jobs/info/68e8a24cc72beb74cb320c1b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Nov 15 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e0395af758fe1f97e4b1fa?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Nov 15 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ddd1852e62f007e9489?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Nov 15 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e0395af758fe1f97e4b1fa?utm_campaign=1051&utm_source=git)** | Johnson City, TN | On Site | Nov 15 |
 | **[IBM](http://www.ibm.com)** | **[Digital Sales Specialist Intern – Entry Level Sales Program 2026 (September Start)](https://jobright.ai/jobs/info/691874c5bcdbf3560c9d239c?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 15 |
 | ↳ | **[Sales Development Representative Intern - Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6918709345fb6f5ead8a55b3?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 15 |
 | ↳ | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/68e03287f758fe1f97e4aa6c?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Nov 15 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68c1edf963b706703e110423?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Excellence Elite Intern (Summer 2026)](https://jobright.ai/jobs/info/68e052a3f758fe1f97e4c597?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[IBM](http://www.ibm.com)** | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/690d7a5e4a1b456627b21a7b?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Nov 15 |
-| ↳ | **[Customer Success Manager Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/690dc4c344146d3b6ec4fa27?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Nov 15 |
-| **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL Sales/Creative Services Intern - 2026 Summer](https://jobright.ai/jobs/info/68fc39964129dd33cd139efe?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Nov 15 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Client Management Intern](https://jobright.ai/jobs/info/68c5065edb52c07d2884002f?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Nov 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Partnership Intern - (TikTok Shop - Global Selling) - 2026 Summer(BS/MS))](https://jobright.ai/jobs/info/6916135c9c388539cbdf7957?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68defc2ea125e75c422b8d28?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Nov 15 |
-| **[Amrize](http://www.amrize.com)** | **[Sales Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbd667f55bb021a889cfaf?utm_campaign=1051&utm_source=git)** | Bloomsdale, MO | On Site | Nov 15 |
-| **[Trench Group](https://trench-group.com/)** | **[Technical Sales Intern](https://jobright.ai/jobs/info/6918811045fb6f5ead8a5a56?utm_campaign=1051&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Nov 15 |
-| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Sales Strategy Internship - Summer 2026](https://jobright.ai/jobs/info/68f6f73c9a65fd3458598950?utm_campaign=1051&utm_source=git)** | Middleton, WI | On Site | Nov 15 |
-| **[IBM](http://www.ibm.com)** | **[Digital Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6918769a15b4156367182622?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 15 |
-| ↳ | **[Technical Specialist Intern – Entry Level Sales Program 2026 (January start - 12 months)](https://jobright.ai/jobs/info/691873dfbcdbf3560c9d22ed?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
