@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PEAK6](https://www.peak6.com)** | **[Trading Internship for Women+](https://jobright.ai/jobs/info/6919a9afbcdbf3560c9d6e95?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Adobe Sales Academy BDR](https://jobright.ai/jobs/info/68c9ae1cf9c6ff7aedf1c2b5?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Nov 16 |
 | **[Phoenix Companies, LLC](https://phoenixcompaniesllc.com/)** | **[2026 Intern - ReImagine](https://jobright.ai/jobs/info/6919984945fb6f5ead8a9d5c?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Nov 16 |
 | **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913e2c2d1047e3565d06d9c?utm_campaign=1051&utm_source=git)** | St Charles | On Site | Nov 16 |
+| **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship](https://jobright.ai/jobs/info/6919ab7015b41563671870e8?utm_campaign=1051&utm_source=git)** | Underwood, IA | On Site | Nov 16 |
 | **[Blanchard Machinery](http://blanchardmachinery.com)** | **[2026 Inside Rental Coordinator Intern](https://jobright.ai/jobs/info/6919679ebcdbf3560c9d557f?utm_campaign=1051&utm_source=git)** | South Carolina, United States | On Site | Nov 15 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/69198d45bcdbf3560c9d6281?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Signal Theory Inc.](https://www.signaltheory.com)** | **[Account Management Internship](https://jobright.ai/jobs/info/691920fb45fb6f5ead8a75f1?utm_campaign=1051&utm_source=git)** | Kansas City, Kansas City, MO, US | Hybrid | Nov 15 |
@@ -126,10 +129,10 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08adeb99ec3563b0d076e?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Nov 15 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08e7e1852e62f007ec0ad?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Nov 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe9791852e62f007e573a?utm_campaign=1051&utm_source=git)** | Liberal, KS | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e5cb1852e62f007f0501?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe94e1852e62f007e5710?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern (Jordan Creek Town Center)](https://jobright.ai/jobs/info/68e09013f758fe1f97e4e722?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Nov 15 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41886e396b25cb5c657c1?utm_campaign=1051&utm_source=git)** | Elgin, ND | On Site | Nov 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe953f758fe1f97e47b16?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | On Site | Nov 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship - Houston](https://jobright.ai/jobs/info/68cd18dfe23def7af55b52e0?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c924f9a0c52d598ea36263?utm_campaign=1051&utm_source=git)** | Kalispell, MT | On Site | Nov 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e3a2b99ec3563b0d48b7?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD | On Site | Nov 15 |
-| **[ON24](http://www.on24.com/)** | **[Sales Operations Intern (Immediate start at 40 hours per week)](https://jobright.ai/jobs/info/68fbe2e693c49825ab106e98?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Nov 15 |
-| **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Development Intern - Spring 2026](https://jobright.ai/jobs/info/69187b34bcdbf3560c9d24e2?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Nov 15 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
