@@ -122,10 +122,10 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08adeb99ec3563b0d076e?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Nov 15 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08e7e1852e62f007ec0ad?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Nov 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe9791852e62f007e573a?utm_campaign=1051&utm_source=git)** | Liberal, KS | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0e5cb1852e62f007f0501?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe94e1852e62f007e5710?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 15 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | ↳ | **[Sales and Management Intern (Jordan Creek Town Center)](https://jobright.ai/jobs/info/68e09013f758fe1f97e4e722?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Nov 15 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41886e396b25cb5c657c1?utm_campaign=1051&utm_source=git)** | Elgin, ND | On Site | Nov 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe953f758fe1f97e47b16?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | On Site | Nov 15 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[ON24](http://www.on24.com/)** | **[Sales Operations Intern (Immediate start at 40 hours per week)](https://jobright.ai/jobs/info/68fbe2e693c49825ab106e98?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Nov 15 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Development Intern - Spring 2026](https://jobright.ai/jobs/info/69187b34bcdbf3560c9d24e2?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Nov 15 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Nov 15 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/691879dcbcdbf3560c9d24a1?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 15 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Sales Intern - Future Opportunity](https://jobright.ai/jobs/info/690f08d944146d3b6ec597b7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Kansas City District)](https://jobright.ai/jobs/info/68f1efe5e6870116b1f5ebe6?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Nov 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68fb914ff55bb021a889a820?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Nov 15 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Oklahoma City District)](https://jobright.ai/jobs/info/68f4800476a51a4307bd1e6b?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
