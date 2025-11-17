@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Business Development (Chicago, IL)](https://jobright.ai/jobs/info/691acf47bcdbf3560c9dab40?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
+| ↳ | **[Summer 2026 Intern - Partnerships (Memphis, TN)](https://jobright.ai/jobs/info/691acef6bcdbf3560c9dab2d?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| ↳ | **[Summer 2026 Intern - Assistant Buyer (Memphis, TN)](https://jobright.ai/jobs/info/691acc9045fb6f5ead8adda3?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/691abce5bcdbf3560c9da3d9?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 16 |
 | **[PlayStation](https://www.playstation.com/)** | **[Associate Peripheral Licensing Intern - MBA](https://jobright.ai/jobs/info/68ef29d5230ae70a14c410f0?utm_campaign=1051&utm_source=git)** | United States of America | On Site | Nov 16 |
 | **[Saproh Private Limited](www.saproh.com)** | **[Internship - Sales Executive](https://jobright.ai/jobs/info/691a982815b4156367189274?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a92d015b4156367188f23?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Nov 16 |
@@ -76,15 +80,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a715b41563671888ac?utm_campaign=1051&utm_source=git)** | Mesa, AZ | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a445fb6f5ead8ab9fe?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a215b41563671888aa?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Nov 16 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a1bcdbf3560c9d8684?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a145fb6f5ead8ab9fd?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a1bcdbf3560c9d8684?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a045fb6f5ead8ab9fc?utm_campaign=1051&utm_source=git)** | San Bernardino, CA | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859c45fb6f5ead8ab9fb?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859bbcdbf3560c9d8683?utm_campaign=1051&utm_source=git)** | Centennial, CO | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859bbcdbf3560c9d8682?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8598bcdbf3560c9d8681?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Nov 16 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859545fb6f5ead8ab9f8?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859515b41563671888a8?utm_campaign=1051&utm_source=git)** | Santa Clarita, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859545fb6f5ead8ab9f8?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859245fb6f5ead8ab9f7?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859115b41563671888a7?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a858d15b41563671888a6?utm_campaign=1051&utm_source=git)** | Fontana, CA | On Site | Nov 16 |
@@ -112,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a852dbcdbf3560c9d866a?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a852c45fb6f5ead8ab9e4?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a852945fb6f5ead8ab9e3?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Nov 16 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8528bcdbf3560c9d8669?utm_campaign=1051&utm_source=git)** | Greeley, CO | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a852815b4156367188893?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8528bcdbf3560c9d8669?utm_campaign=1051&utm_source=git)** | Greeley, CO | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a852145fb6f5ead8ab9e1?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a851c45fb6f5ead8ab9df?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a851abcdbf3560c9d8666?utm_campaign=1051&utm_source=git)** | Peoria, AZ | On Site | Nov 16 |
@@ -129,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a850415b415636718888a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a850015b4156367188889?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84fe15b4156367188887?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Nov 16 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84fa45fb6f5ead8ab9d7?utm_campaign=1051&utm_source=git)** | Pueblo, CO | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84fabcdbf3560c9d865d?utm_campaign=1051&utm_source=git)** | Bridgeport, CT | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84fa45fb6f5ead8ab9d7?utm_campaign=1051&utm_source=git)** | Pueblo, CO | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84f645fb6f5ead8ab9d6?utm_campaign=1051&utm_source=git)** | Joliet, IL | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84f6bcdbf3560c9d865c?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84f415b4156367188885?utm_campaign=1051&utm_source=git)** | East Honolulu, HI | On Site | Nov 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84b215b4156367188875?utm_campaign=1051&utm_source=git)** | New Haven, CT | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a822745fb6f5ead8ab9a6?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a822445fb6f5ead8ab9a5?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 16 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a822345fb6f5ead8ab9a4?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Nov 16 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a821245fb6f5ead8ab9a0?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Nov 16 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a820515b4156367188855?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Nov 16 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a820245fb6f5ead8ab99e?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
