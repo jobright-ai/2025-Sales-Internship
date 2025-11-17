@@ -57,104 +57,104 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/691a6aa415b4156367188620?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
-| ↳ | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/691a675a15b41563671885f9?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 16 |
-| ↳ | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/691a671545fb6f5ead8ab725?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 16 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/691a434b45fb6f5ead8ab4d4?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 16 |
-| **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/691a38dc45fb6f5ead8ab3d0?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Nov 16 |
-| **[Dynamic Gurus](dynamicmarketinggurus.com)** | **[Sales Intern](https://jobright.ai/jobs/info/691a38bf15b4156367188285?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Nov 16 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk INT 6533](https://jobright.ai/jobs/info/691a304545fb6f5ead8ab2af?utm_campaign=1051&utm_source=git)** | Astoria, OR | On Site | Nov 16 |
-| ↳ | **[Sales Clerk Leader FT 6537](https://jobright.ai/jobs/info/691a2f3dbcdbf3560c9d7f09?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Nov 16 |
-| ↳ | **[Sales Clerk PT 6536](https://jobright.ai/jobs/info/691a280e45fb6f5ead8ab143?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Nov 16 |
-| ↳ | **[Sales Clerk INT 6452](https://jobright.ai/jobs/info/691a26e1bcdbf3560c9d7da2?utm_campaign=1051&utm_source=git)** | New London, CT | On Site | Nov 16 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/691a1457bcdbf3560c9d7bfe?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 16 |
-| ↳ | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/691a1153bcdbf3560c9d7bdd?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 16 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Intern Program - Sales](https://jobright.ai/jobs/info/691a0789bcdbf3560c9d7b11?utm_campaign=1051&utm_source=git)** | Beloit, WI | Remote | Nov 16 |
-| **[H15DEN](https://h15den.com)** | **[Business Development Micro Internship (1 month)](https://jobright.ai/jobs/info/691a00c445fb6f5ead8aade0?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Nov 16 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6919f76215b4156367187b52?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 16 |
-| **[Henkel](http://www.henkel.com)** | **[E-commerce Management Intern, Hair Pros – Summer 2026](https://jobright.ai/jobs/info/68cea8eedbd9fb154ede1d1e?utm_campaign=1051&utm_source=git)** | Culver City, CA | Hybrid | Nov 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23bb21852e62f007f76cc?utm_campaign=1051&utm_source=git)** | Pueblo, CO | On Site | Nov 16 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2023 Summer Intern - Sales](https://jobright.ai/jobs/info/67c7908b684906ab34c54a32?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Nov 16 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Metro New York)](https://jobright.ai/jobs/info/68c6754e7d0db4114273aa07?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23430f758fe1f97e5981e?utm_campaign=1051&utm_source=git)** | Temecula, CA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern (First and Main)](https://jobright.ai/jobs/info/68e1dcd7f758fe1f97e563b8?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Nov 16 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Field Sales](https://jobright.ai/jobs/info/6902f7bd98707b2b0fe743c8?utm_campaign=1051&utm_source=git)** | Johnstown, CO | On Site | Nov 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23849f758fe1f97e59af4?utm_campaign=1051&utm_source=git)** | Visalia, CA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e233411852e62f007f7175?utm_campaign=1051&utm_source=git)** | Grand Island, NE | On Site | Nov 16 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e1dc69f758fe1f97e5628e?utm_campaign=1051&utm_source=git)** | Fort Dodge, IA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc38f758fe1f97e56224?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232781852e62f007f708b?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1db831852e62f007f3a8e?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68fe1cece04ac838fb5b3891?utm_campaign=1051&utm_source=git)** | Bellingham, WA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dbc51852e62f007f3b1f?utm_campaign=1051&utm_source=git)** | Sparks, NV | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23294b99ec3563b0db8cd?utm_campaign=1051&utm_source=git)** | Stockton, CA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232e6b99ec3563b0db924?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e2328e1852e62f007f70aa?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dcb81852e62f007f3d9a?utm_campaign=1051&utm_source=git)** | Nampa, ID | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1db881852e62f007f3a96?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e237b91852e62f007f74e3?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e233471852e62f007f717a?utm_campaign=1051&utm_source=git)** | Norfolk, NE | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1da37b99ec3563b0d84b7?utm_campaign=1051&utm_source=git)** | Denton, TX | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc061852e62f007f3bbe?utm_campaign=1051&utm_source=git)** | Jacksonville, NC | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc721852e62f007f3ce4?utm_campaign=1051&utm_source=git)** | Cedar Falls, IA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23733b99ec3563b0dbbb1?utm_campaign=1051&utm_source=git)** | Sterling, CO | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc301852e62f007f3c25?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232131852e62f007f701b?utm_campaign=1051&utm_source=git)** | Friendswood, TX | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc941852e62f007f3d65?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e236b11852e62f007f728c?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e24157f758fe1f97e59e4f?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232de1852e62f007f7101?utm_campaign=1051&utm_source=git)** | Grand Junction, CO | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc92f758fe1f97e562d4?utm_campaign=1051&utm_source=git)** | Cedar Hill, TX | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1d9c7b99ec3563b0d83b5?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68fe0f480ab3b222462a605a?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e2376ff758fe1f97e59921?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23283f758fe1f97e59685?utm_campaign=1051&utm_source=git)** | Rapid City, SD | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1da56b99ec3563b0d84eb?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e237d9b99ec3563b0dbd28?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Nov 16 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e237951852e62f007f748d?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dca5f758fe1f97e56328?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232ccb99ec3563b0db904?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1d9ceb99ec3563b0d83be?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23700b99ec3563b0dbb2d?utm_campaign=1051&utm_source=git)** | Mason City, IA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23ca7f758fe1f97e59d6d?utm_campaign=1051&utm_source=git)** | Palmdale, CA | On Site | Nov 16 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68c41d8ae396b25cb5c65978?utm_campaign=1051&utm_source=git)** | Lynden, WA | On Site | Nov 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1da6ab99ec3563b0d852d?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc721852e62f007f3ce5?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dbaa1852e62f007f3ac7?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e2337ff758fe1f97e59729?utm_campaign=1051&utm_source=git)** | Greeley, CO | On Site | Nov 16 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Commercial Internship - Summer 2026](https://jobright.ai/jobs/info/68a9c39d6acf96396f728dfb?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Nov 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232b1b99ec3563b0db8e6?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e237d7f758fe1f97e599fe?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc92f758fe1f97e562d5?utm_campaign=1051&utm_source=git)** | Garden City, KS | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dbbef758fe1f97e5610d?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc02f758fe1f97e56183?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Nov 16 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68c47c23e471ef3ce16d6ac2?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Nov 16 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Commercial Internship - Summer 2026](https://jobright.ai/jobs/info/68a9b33d758f2e4ac3ffb23f?utm_campaign=1051&utm_source=git)** | Charleroi, PA | On Site | Nov 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dbae1852e62f007f3ad0?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Nov 16 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68a8ff186acf96396f7240c3?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Nov 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e1dc811852e62f007f3d18?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e237621852e62f007f741a?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e2333a1852e62f007f716c?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e236a61852e62f007f726e?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc7a1852e62f007f3d0b?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e233491852e62f007f717f?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232ef1852e62f007f710d?utm_campaign=1051&utm_source=git)** | Victor, NY | On Site | Nov 16 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e233aab99ec3563b0dba00?utm_campaign=1051&utm_source=git)** | Pensacola, FL | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1d95eb99ec3563b0d8318?utm_campaign=1051&utm_source=git)** | Stillwater, OK | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e2327eb99ec3563b0db8be?utm_campaign=1051&utm_source=git)** | Enid, OK | On Site | Nov 16 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Originator Intern](https://jobright.ai/jobs/info/68c502337d0db41142731227?utm_campaign=1051&utm_source=git)** | Herman, MN | On Site | Nov 16 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Channel Sales/Marketing Intern, Foodservice & Private Label](https://jobright.ai/jobs/info/68cd5b9ce23def7af55b89d0?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 16 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Northern Connecticut)](https://jobright.ai/jobs/info/68c47c3de396b25cb5c68892?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Nov 16 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6919cb1f15b4156367187584?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c4163714bb275ce0190da4?utm_campaign=1051&utm_source=git)** | Sycamore, IL | On Site | Nov 16 |
-| **[Trench Group](https://trench-group.com/)** | **[Factory Sales Intern (12 Month Contract)](https://jobright.ai/jobs/info/6919c9b145fb6f5ead8aa643?utm_campaign=1051&utm_source=git)** | Pickering, Ontario, Canada | On Site | Nov 16 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41ab0e471ef3ce16d3ac2?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Nov 16 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - Texarkana](https://jobright.ai/jobs/info/68c47a89e396b25cb5c686ee?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Nov 16 |
-| **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/67a7505562c8951a8e6d862f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 16 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41d0be396b25cb5c6592c?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Nov 16 |
-| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca511406a34016008c697f?utm_campaign=1051&utm_source=git)** | Dixon, NE | On Site | Nov 16 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68cecf37dbd9fb154ede2fa4?utm_campaign=1051&utm_source=git)** | Dickinson, ND | On Site | Nov 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68dfe7eeb99ec3563b0ca03e?utm_campaign=1051&utm_source=git)** | Dubuque, IA | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfea4bf758fe1f97e47c7c?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Nov 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e0395af758fe1f97e4b1f8?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Nov 16 |
+| **[Saproh Private Limited](www.saproh.com)** | **[Internship - Sales Executive](https://jobright.ai/jobs/info/691a982815b4156367189274?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 16 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a92d015b4156367188f23?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8d4e15b4156367188b03?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 16 |
+| **[Gala Circle Inc.](http://www.galacircle.com)** | **[Business Development Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/691a8d0c45fb6f5ead8abc53?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Nov 16 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8a16bcdbf3560c9d88b0?utm_campaign=1051&utm_source=git)** | Sandy Springs, GA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a894145fb6f5ead8abbf3?utm_campaign=1051&utm_source=git)** | Metairie, LA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85d445fb6f5ead8aba0b?utm_campaign=1051&utm_source=git)** | Hollywood, FL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85c645fb6f5ead8aba07?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85c015b41563671888b0?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85bcbcdbf3560c9d868a?utm_campaign=1051&utm_source=git)** | West Lafayette, IN | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85b2bcdbf3560c9d8688?utm_campaign=1051&utm_source=git)** | Rockville, MD | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85afbcdbf3560c9d8687?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85af45fb6f5ead8aba01?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85aa15b41563671888ad?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a945fb6f5ead8ab9ff?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a715b41563671888ac?utm_campaign=1051&utm_source=git)** | Mesa, AZ | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a445fb6f5ead8ab9fe?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a215b41563671888aa?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a145fb6f5ead8ab9fd?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a1bcdbf3560c9d8684?utm_campaign=1051&utm_source=git)** | Wilmington, DE | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a85a045fb6f5ead8ab9fc?utm_campaign=1051&utm_source=git)** | San Bernardino, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859c45fb6f5ead8ab9fb?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859bbcdbf3560c9d8683?utm_campaign=1051&utm_source=git)** | Centennial, CO | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859bbcdbf3560c9d8682?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8598bcdbf3560c9d8681?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859515b41563671888a8?utm_campaign=1051&utm_source=git)** | Santa Clarita, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859545fb6f5ead8ab9f8?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859245fb6f5ead8ab9f7?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a859115b41563671888a7?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a858d15b41563671888a6?utm_campaign=1051&utm_source=git)** | Fontana, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a858bbcdbf3560c9d867f?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a858a45fb6f5ead8ab9f5?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a858445fb6f5ead8ab9f3?utm_campaign=1051&utm_source=git)** | Westminster, CO | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8583bcdbf3560c9d867d?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a857d15b41563671888a3?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8577bcdbf3560c9d867a?utm_campaign=1051&utm_source=git)** | Thornton, CO | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a857715b41563671888a0?utm_campaign=1051&utm_source=git)** | Fresno, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a857015b415636718889f?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a856d45fb6f5ead8ab9ef?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a856cbcdbf3560c9d8678?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a856415b415636718889d?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a855f15b415636718889c?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a855dbcdbf3560c9d8676?utm_campaign=1051&utm_source=git)** | Dover, DE | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8550bcdbf3560c9d8673?utm_campaign=1051&utm_source=git)** | Shreveport, LA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a854dbcdbf3560c9d8671?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a854cbcdbf3560c9d8670?utm_campaign=1051&utm_source=git)** | Chula Vista, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a854815b4156367188897?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8538bcdbf3560c9d866d?utm_campaign=1051&utm_source=git)** | Oxnard, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8534bcdbf3560c9d866c?utm_campaign=1051&utm_source=git)** | Newark, DE | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a853045fb6f5ead8ab9e5?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8530bcdbf3560c9d866b?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a852dbcdbf3560c9d866a?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a852c45fb6f5ead8ab9e4?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a852945fb6f5ead8ab9e3?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8528bcdbf3560c9d8669?utm_campaign=1051&utm_source=git)** | Greeley, CO | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a852815b4156367188893?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a852145fb6f5ead8ab9e1?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a851c45fb6f5ead8ab9df?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a851abcdbf3560c9d8666?utm_campaign=1051&utm_source=git)** | Peoria, AZ | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a851915b415636718888e?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8518bcdbf3560c9d8665?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8517bcdbf3560c9d8664?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a850e45fb6f5ead8ab9dc?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a850a45fb6f5ead8ab9db?utm_campaign=1051&utm_source=git)** | Gilbert, AZ | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a850abcdbf3560c9d8661?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a850745fb6f5ead8ab9da?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a850715b415636718888b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a8506bcdbf3560c9d8660?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a850415b415636718888a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a850015b4156367188889?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84fe15b4156367188887?utm_campaign=1051&utm_source=git)** | Bloomington, IL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84fa45fb6f5ead8ab9d7?utm_campaign=1051&utm_source=git)** | Pueblo, CO | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84fabcdbf3560c9d865d?utm_campaign=1051&utm_source=git)** | Bridgeport, CT | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84f6bcdbf3560c9d865c?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84f645fb6f5ead8ab9d6?utm_campaign=1051&utm_source=git)** | Joliet, IL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84f415b4156367188885?utm_campaign=1051&utm_source=git)** | East Honolulu, HI | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84edbcdbf3560c9d865a?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84e7bcdbf3560c9d8659?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84debcdbf3560c9d8656?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84dc15b4156367188880?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84dabcdbf3560c9d8653?utm_campaign=1051&utm_source=git)** | Madison, AL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84d345fb6f5ead8ab9cf?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84d1bcdbf3560c9d8651?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84cfbcdbf3560c9d8650?utm_campaign=1051&utm_source=git)** | Evanston, IL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84ca15b415636718887b?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84c7bcdbf3560c9d864f?utm_campaign=1051&utm_source=git)** | Bowling Green, KY | On Site | Nov 16 |
+| ↳ | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/691a84c345fb6f5ead8ab9cc?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84c3bcdbf3560c9d864e?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84c215b4156367188879?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84be15b4156367188878?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84bb15b4156367188877?utm_campaign=1051&utm_source=git)** | Port St Lucie, FL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84b615b4156367188876?utm_campaign=1051&utm_source=git)** | South Fulton, GA | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a84b215b4156367188875?utm_campaign=1051&utm_source=git)** | New Haven, CT | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a822745fb6f5ead8ab9a6?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a822445fb6f5ead8ab9a5?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a822345fb6f5ead8ab9a4?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a821245fb6f5ead8ab9a0?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a820515b4156367188855?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a820245fb6f5ead8ab99e?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Nov 16 |
+| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691a81f2bcdbf3560c9d861b?utm_campaign=1051&utm_source=git)** | Lawrence, KS | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
