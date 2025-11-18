@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025](https://jobright.ai/jobs/info/68e42b291852e62f0080263f?utm_campaign=1051&utm_source=git)** | Trumbull, CT | On Site | Nov 18 |
+| **[SPS Commerce](http://spscommerce.com)** | **[Sales Intern (Talent Pool)](https://jobright.ai/jobs/info/68c7b576c008cf3402c8f0e2?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 18 |
+| **[BlueGrace Logistics](http://www.mybluegrace.com)** | **[Carrier Sales Internship - Summer 2026 - Chicago, IL](https://jobright.ai/jobs/info/68e448faf758fe1f97e668e3?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69006d230ab3b222462b4566?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Nov 18 |
+| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Technical Sales Engineer Intern (MPSNow)](https://jobright.ai/jobs/info/68e43a60f758fe1f97e65c54?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Nov 18 |
+| **[HP](http://www.hp.com)** | **[Year-round Inside Sales Intern](https://jobright.ai/jobs/info/68ffa51ce04ac838fb5b9fc2?utm_campaign=1051&utm_source=git)** | Rio Rancho, NM | Hybrid | Nov 18 |
+| **[BlueGrace Logistics](http://www.mybluegrace.com)** | **[Carrier Sales Internship - Summer 2026 - Riverview, FL](https://jobright.ai/jobs/info/68e44ec0b99ec3563b0e8f0e?utm_campaign=1051&utm_source=git)** | Riverview, FL | On Site | Nov 18 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - AVS Go To Market Transformation](https://jobright.ai/jobs/info/69166487286ccf0a15135434?utm_campaign=1051&utm_source=git)** | Holtsville, NY | On Site | Nov 18 |
 | **[InfiVR](https://www.infivr.com)** | **[Internship Sales And Marketing (USA)](https://jobright.ai/jobs/info/691c2b5cbcdbf3560c9e60ae?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/691c22ad22a2cb4b9bd1962d?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 17 |
@@ -64,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/691bf85ebcdbf3560c9e4963?utm_campaign=1051&utm_source=git)** | Petrolia, Ontario, Canada | Hybrid | Nov 17 |
 | **[Klijian Sports Management](https://sites.google.com/view/klijiansportsmanagement/home)** | **[Athlete Marketing & Partnership Intern (Remote, Unpaid)](https://jobright.ai/jobs/info/691c1b7022a2cb4b9bd19348?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 17 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026 - Insurance Brokerage Intern](https://jobright.ai/jobs/info/6917f0d445fb6f5ead8a011a?utm_campaign=1051&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Nov 17 |
+| **[MARS EXPLORATION](https://intern.marsexploration.in/)** | **[Sale Trainee](https://jobright.ai/jobs/info/691c546122a2cb4b9bd1a46d?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Wealth Advisor Intern](https://jobright.ai/jobs/info/691be3cb15b4156367193cfd?utm_campaign=1051&utm_source=git)** | Greenwich, CT | On Site | Nov 17 |
 | ↳ | **[Wealth Advisor Intern](https://jobright.ai/jobs/info/691bdf2422a2cb4b9bd16f23?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Nov 17 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/691c0c0a22a2cb4b9bd18c0f?utm_campaign=1051&utm_source=git)** | Chatham-Kent, Ontario, Canada | Hybrid | Nov 17 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern - Upper Extremities Sales - Kansas City, MO](https://jobright.ai/jobs/info/691bae7922a2cb4b9bd14e67?utm_campaign=1051&utm_source=git)** | Missouri, United States | Hybrid | Nov 17 |
 | ↳ | **[Summer 2026 Intern - Upper Extremities Sales - Philadelphia, PA](https://jobright.ai/jobs/info/691bd4d422a2cb4b9bd169df?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 17 |
 | **[PURIS](https://puris.com/)** | **[Sales Development Intern](https://jobright.ai/jobs/info/691bcbccbcdbf3560c9e2b44?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Nov 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691b8e3115b4156367190351?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 17 |
-| **[PURIS](https://puris.com/)** | **[Field Research Intern](https://jobright.ai/jobs/info/691bc4af15b4156367192953?utm_campaign=1051&utm_source=git)** | Oskaloosa, IA | On Site | Nov 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691b8ccf15b415636719024b?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Nov 17 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691b8c7915b41563671901f1?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 17 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691b8bf415b415636719017a?utm_campaign=1051&utm_source=git)** | Wake Forest, NC | On Site | Nov 17 |
-| ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691b8b9e15b415636719011e?utm_campaign=1051&utm_source=git)** | Worcester, MA | On Site | Nov 17 |
-| **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/691b8b9822a2cb4b9bd1370d?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Nov 17 |
-| **[Paychex](https://www.paychex.com/)** | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/691b8b6622a2cb4b9bd136e8?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
