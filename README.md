@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - AVS Go To Market Transformation](https://jobright.ai/jobs/info/69166487286ccf0a15135434?utm_campaign=1051&utm_source=git)** | Holtsville, NY | On Site | Nov 18 |
+| **[InfiVR](https://www.infivr.com)** | **[Internship Sales And Marketing (USA)](https://jobright.ai/jobs/info/691c2b5cbcdbf3560c9e60ae?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/691c22ad22a2cb4b9bd1962d?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Comcast](https://corporate.comcast.com)** | **[CRM Intern - Spring 2026 Semester](https://jobright.ai/jobs/info/6912ca54ea9ab01b82bf4fb9?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 17 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/691bf85ebcdbf3560c9e4963?utm_campaign=1051&utm_source=git)** | Petrolia, Ontario, Canada | Hybrid | Nov 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691b8b9e15b415636719011e?utm_campaign=1051&utm_source=git)** | Worcester, MA | On Site | Nov 17 |
 | **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/691b8b9822a2cb4b9bd1370d?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Nov 17 |
 | **[Paychex](https://www.paychex.com/)** | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/691b8b6622a2cb4b9bd136e8?utm_campaign=1051&utm_source=git)** | Phoenix, Arizona | On Site | Nov 17 |
-| **[Nashville Sports Council](http://www.nashvillesports.com/)** | **[Strategic Partnerships Intern - Spring 2026](https://jobright.ai/jobs/info/691b8b6315b41563671900f4?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/691b8b3815b41563671900c8?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
