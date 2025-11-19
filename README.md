@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insight](https://www.insight.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/691d8ef1bcdbf3560c9f1b70?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 19 |
+| **[Goomi Group](https://goomigroup.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/691d8daf0b7dff73415044d4?utm_campaign=1051&utm_source=git)** | Wesley Chapel, FL | Hybrid | Nov 19 |
+| **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (Lansing)- Summer 2026](https://jobright.ai/jobs/info/691d817c0b7dff7341504185?utm_campaign=1051&utm_source=git)** | Okemos, MI | On Site | Nov 19 |
+| ↳ | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/691d7daebcdbf3560c9f1769?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Nov 19 |
+| **[Amwins Global Risks](https://www.amwins.com/solutions/global-risks)** | **[Access Insurance Internship](https://jobright.ai/jobs/info/691d79160b7dff7341503d64?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Nov 19 |
+| **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (Kalamazoo)- Summer 2026](https://jobright.ai/jobs/info/691d775b0b7dff7341503ceb?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Nov 18 |
+| **[Bluecrest Partners](bluecrestpartners.us)** | **[Inside Sales Internship](https://jobright.ai/jobs/info/691d8fd97481340785ed8745?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Nov 18 |
 | **[Best Plumbing Supply](http://bestplg.com)** | **[Sales Intern](https://jobright.ai/jobs/info/691d705abcdbf3560c9f0f35?utm_campaign=1051&utm_source=git)** | Cowan Supply, 6515 McDonough Dr., Norcross, Georgia, United States of America | On Site | Nov 18 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Summer 2026](https://jobright.ai/jobs/info/68d572d51f7fb2169ab100ab?utm_campaign=1051&utm_source=git)** | Centennial, CO | On Site | Nov 18 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/691d62e67481340785ed71fe?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 18 |
@@ -64,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Iowa Custom T-Shirts & Hats](www.iowatees.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691d629a7481340785ed71e6?utm_campaign=1051&utm_source=git)** | Coralville, IA | Hybrid | Nov 18 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/691d62560b7dff734150316a?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 18 |
 | ↳ | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/691d62460b7dff7341503163?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 18 |
+| **[Gala Circle Inc.](http://www.galacircle.com)** | **[Community Outreach Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/691d83277481340785ed8418?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Nov 18 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Intern - Golf Retail, Blackwolf Run](https://jobright.ai/jobs/info/691d5e95bcdbf3560c9f0510?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | Nov 18 |
 | ↳ | **[Intern - Golf Retail, Whistling Straits](https://jobright.ai/jobs/info/691d5c6cbcdbf3560c9f0420?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | Nov 18 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Sales Intern](https://jobright.ai/jobs/info/691d5147bcdbf3560c9efd26?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Remote | Nov 18 |
@@ -120,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d0882ff7024498416d272?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Nov 18 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d087e22a2cb4b9bd200f1?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 18 |
 | **[Yazaki North America](http://www.yazaki-na.com/en/)** | **[Intern, Sales & Program Management](https://jobright.ai/jobs/info/691d316cbcdbf3560c9ee0aa?utm_campaign=1051&utm_source=git)** | Canton, MI | On Site | Nov 18 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/691d23c27481340785ed436e?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 18 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/691d06e0ff7024498416d120?utm_campaign=1051&utm_source=git)** | Denver, CO | Remote | Nov 18 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f7c05fec6dbe7073fcaeed?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Nov 18 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f86e2d6de2db04dc3df086?utm_campaign=1051&utm_source=git)** | Ohio, United States | Remote | Nov 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.](https://www.gaccmidwest.org/us)** | **[12 month full time internship Trade Show Services GACC New York, Inc. within the German American Chamber of Commerce, Inc., in New York City](https://jobright.ai/jobs/info/691d068e22a2cb4b9bd1ff2c?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[Nextdoor](http://nextdoor.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/68d6262cebcef82ef5cf6cfa?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[Atos](http://atos.net)** | **[SALES INTERN](https://jobright.ai/jobs/info/691ce6f3ff7024498416b93c?utm_campaign=1051&utm_source=git)** | Garden Home, OR | Remote | Nov 18 |
-| **[Donaldson Group](https://donaldson-group.co.uk)** | **[Internal Sales Representative - MGM Timber, Hamilton](https://jobright.ai/jobs/info/691d1566bcdbf3560c9ed17b?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Nov 18 |
-| **[Workato](http://www.workato.com)** | **[Intern, Sales Development Representative](https://jobright.ai/jobs/info/691ce449ff7024498416b6f1?utm_campaign=1051&utm_source=git)** | Denver, Colorado | On Site | Nov 18 |
-| **[NewDay USA](https://newdayusa.com/)** | **[Financial Internship & Full-Time Positions](https://jobright.ai/jobs/info/691cff6ebcdbf3560c9ec26e?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Nov 18 |
-| **[Crown Equipment Corporation](http://www.crown.com)** | **[SALES SUPPORT - PAID INTERNSHIP](https://jobright.ai/jobs/info/691ce25522a2cb4b9bd1e3eb?utm_campaign=1051&utm_source=git)** | Newnan, GA | On Site | Nov 18 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/690417bc63502c0aded7034a?utm_campaign=1051&utm_source=git)** | Rapid City, SD | On Site | Nov 18 |
-| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - MacAllister Rentals Sales Intern](https://jobright.ai/jobs/info/691ce0d422a2cb4b9bd1e29a?utm_campaign=1051&utm_source=git)** | Byron Center, MI | On Site | Nov 18 |
-| **[Vertex Inc.](https://www.vertexinc.com)** | **[Global Reference Program Intern](https://jobright.ai/jobs/info/691d016522a2cb4b9bd1fb86?utm_campaign=1051&utm_source=git)** | Remote - PA | Remote | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
