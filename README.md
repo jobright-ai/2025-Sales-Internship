@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPX Technologies](https://www.spx.com)** | **[Sales Development Program](https://jobright.ai/jobs/info/6919677345fb6f5ead8a8812?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Nov 19 |
+| **[FMC Corporation](http://www.fmc.com)** | **[Technical Sales Sumer Intern](https://jobright.ai/jobs/info/691db873ad5a517034795b77?utm_campaign=1051&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Nov 19 |
+| **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6900e70f4539ea1f2141a876?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | Hybrid | Nov 19 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Technical Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/68e5a63ce8daec61499a34b2?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 19 |
 | **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6900dcbbd5259a1b3cfef1a3?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Nov 19 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Associate Business - Fresh Graduates](https://jobright.ai/jobs/info/691da531ad5a517034794fd8?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Nov 19 |
 | **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cfbec9fb49c96ca6eab300?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Nov 19 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Sales Internship - Retirement Sales (Summer 2026)](https://jobright.ai/jobs/info/691d7a98bcdbf3560c9f1355?utm_campaign=1051&utm_source=git)** | Des Moines, IA | On Site | Nov 19 |
 | **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/690d95f6d046ab6061cf7307?utm_campaign=1051&utm_source=git)** | Research Park, CA | Hybrid | Nov 19 |
 | ↳ | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6901e9b9ff462851fefdf310?utm_campaign=1051&utm_source=git)** | Brookhaven, PA | Hybrid | Nov 19 |
+| **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Sales/Customer Success](https://jobright.ai/jobs/info/68e58dd0ae2b894b1d710ef8?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Nov 19 |
 | **[Amazon](https://amazon.com)** | **[2026 Account Representative Intern](https://jobright.ai/jobs/info/691d9170bcdbf3560c9f1c0f?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Nov 19 |
 | **[Insight](https://www.insight.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/691d8ef1bcdbf3560c9f1b70?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 19 |
 | **[Goomi Group](https://goomigroup.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/691d8daf0b7dff73415044d4?utm_campaign=1051&utm_source=git)** | Wesley Chapel, FL | Hybrid | Nov 19 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Sales Intern/Co-op](https://jobright.ai/jobs/info/691d62aa7481340785ed71eb?utm_campaign=1051&utm_source=git)** | South Gate, CA | On Site | Nov 18 |
 | **[Iowa Custom T-Shirts & Hats](www.iowatees.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691d629a7481340785ed71e6?utm_campaign=1051&utm_source=git)** | Coralville, IA | Hybrid | Nov 18 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/691d62560b7dff734150316a?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 18 |
-| ↳ | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/691d62460b7dff7341503163?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 18 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Community Outreach Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/691d83277481340785ed8418?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Nov 18 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Intern - Golf Retail, Blackwolf Run](https://jobright.ai/jobs/info/691d5e95bcdbf3560c9f0510?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | Nov 18 |
 | ↳ | **[Intern - Golf Retail, Whistling Straits](https://jobright.ai/jobs/info/691d5c6cbcdbf3560c9f0420?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | Nov 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/691d1492bcdbf3560c9ed0cd?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Nov 18 |
 | **[Trace3](http://trace3.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/691cf49422a2cb4b9bd1f1cd?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 18 |
 | **[lululemon](http://shop.lululemon.com)** | **[Planning Intern - Accessories / Contract June-August 2026](https://jobright.ai/jobs/info/691cf31122a2cb4b9bd1f0b9?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 18 |
-| **[Hunter Engineering Company](http://www.hunter.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/691cf1fcff7024498416c134?utm_campaign=1051&utm_source=git)** | Bridgeton, MO | Hybrid | Nov 18 |
-| **[Vertex Inc.](https://www.vertexinc.com)** | **[Global Reference Program Intern](https://jobright.ai/jobs/info/691d165c22a2cb4b9bd2092d?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 18 |
-| **[NFI](http://www.nfiindustries.com/)** | **[Intern](https://jobright.ai/jobs/info/691d34367481340785ed4bdd?utm_campaign=1051&utm_source=git)** | Camden, NJ | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
