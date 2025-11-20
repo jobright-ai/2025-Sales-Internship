@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Strategic Initiatives Analyst, Intern](https://jobright.ai/jobs/info/691ece0ba49a885af9a2aeb6?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 19 |
 | **[Formee Holdings](https://www.formeeholdings.com)** | **[Business Development (Sales) Internship Program](https://jobright.ai/jobs/info/691ea73a09cc522e8773b663?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL | On Site | Nov 19 |
 | **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913d50a1465e02904e97f66?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Nov 19 |
 | **[Puro Climate](www.puro-climate.org)** | **[Account Executive](https://jobright.ai/jobs/info/691e8e1509cc522e8773aef0?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Nov 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691e02fb09cc522e87734d2e?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Nov 19 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691db6b3748c4e1301ec7e18?utm_campaign=1051&utm_source=git)** | St Albert, Alberta, Canada | On Site | Nov 19 |
 | **[Gallagher](http://www.ajg.com)** | **[Canada Internship - Sales](https://jobright.ai/jobs/info/691ddc5f748c4e1301ec97b7?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 19 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691e08b809cc522e8773515b?utm_campaign=1051&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
