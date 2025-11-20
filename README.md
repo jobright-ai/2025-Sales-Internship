@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891709ef47efe21139553a8?utm_campaign=1051&utm_source=git)** | Moorpark, CA | On Site | Nov 20 |
+| ↳ | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68ca5c6b5f9f0336447dc938?utm_campaign=1051&utm_source=git)** | Golden Valley, MN | On Site | Nov 20 |
+| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/691abb73bcdbf3560c9da0c7?utm_campaign=1051&utm_source=git)** | Geneva, IL | On Site | Nov 20 |
+| **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891739ff5ee707a15dbe985?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 20 |
+| ↳ | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c90865f9c6ff7aedf16bf8?utm_campaign=1051&utm_source=git)** | Apex, NC | On Site | Nov 20 |
+| ↳ | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cd5b1ce23def7af55b88d7?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Sales, GTA Toronto, ON](https://jobright.ai/jobs/info/691ee3543f782d2f1afb7701?utm_campaign=1051&utm_source=git)** | Canada - Remote | Remote | Nov 20 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Strategic Initiatives Analyst, Intern](https://jobright.ai/jobs/info/691ece0ba49a885af9a2aeb6?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 19 |
 | **[Formee Holdings](https://www.formeeholdings.com)** | **[Business Development (Sales) Internship Program](https://jobright.ai/jobs/info/691ea73a09cc522e8773b663?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL | On Site | Nov 19 |
 | **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913d50a1465e02904e97f66?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Nov 19 |
@@ -66,7 +73,8 @@ For a complete list, click the following sortable link below:
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Spring 2026](https://jobright.ai/jobs/info/68e6d543ae2b894b1d71e730?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 19 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/691e847d09cc522e8773aa59?utm_campaign=1051&utm_source=git)** | University Park, PA | Remote | Nov 19 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/691e84193f782d2f1afb5855?utm_campaign=1051&utm_source=git)** | Bloomington, IN | Remote | Nov 19 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/691e7f99a49a885af9a2933c?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Nov 19 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Sales Operations Coordinator](https://jobright.ai/jobs/info/691eee8509cc522e8773cc8c?utm_campaign=1051&utm_source=git)** | CA-Remote | Remote | Nov 19 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/691e7f99a49a885af9a2933c?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Nov 19 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern (ECU Sports Properties)](https://jobright.ai/jobs/info/691e7d333f782d2f1afb53de?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | Nov 19 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/691e7cfea49a885af9a290da?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | Nov 19 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/691e7c6fa49a885af9a29052?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Nov 19 |
@@ -96,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e4bb2a49a885af9a275f0?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Gregory Assurance Solutions](www.gregoryins.info)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691e49463f782d2f1afb3659?utm_campaign=1051&utm_source=git)** | Texas, United States | Remote | Nov 19 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Semiconductor Sales Intern](https://jobright.ai/jobs/info/691e49183f782d2f1afb362d?utm_campaign=1051&utm_source=git)** | Plymouth, MI | On Site | Nov 19 |
-| **[H15DEN](https://h15den.com)** | **[Business Development (Micro Internship) - 1 month](https://jobright.ai/jobs/info/691e48a63f782d2f1afb35cb?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Nov 19 |
 | **[Valerie James Showroom](http://www.valeriejames.com)** | **[Showroom Salesperson/Social Media Intern](https://jobright.ai/jobs/info/691e487e09cc522e87738833?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Nov 19 |
 | **[Cinq à Sept](http://cinqasept.nyc)** | **[Cinq á Sept Wholesale Spring Intern](https://jobright.ai/jobs/info/691e432f09cc522e877382e8?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[Corcoran Icon Properties](https://corcoranicon.com)** | **[Commercial Real Estate Brokerage Internship- Spring 2026](https://jobright.ai/jobs/info/691e41a93f782d2f1afb2f2e?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Nov 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SageSure](https://www.sagesure.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6916c21b286ccf0a151392f1?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 19 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68fc44614129dd33cd13a533?utm_campaign=1051&utm_source=git)** | Richmond, TX | On Site | Nov 19 |
 | **[Fitch Solutions](https://www.fitchsolutions.com)** | **[Commercial Graduate Program, Fitch Solutions, New York - September 2026](https://jobright.ai/jobs/info/691ae78cbcdbf3560c9db973?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
-| **[Indeez](https://indeez.eu)** | **[Risk & Insurance Partnerships Analyst](https://jobright.ai/jobs/info/691e15ab3f782d2f1afb0d1b?utm_campaign=1051&utm_source=git)** | Greater Paris Metropolitan Region | Hybrid | Nov 19 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691e0f7a3f782d2f1afb05cf?utm_campaign=1051&utm_source=git)** | Carleton Place, Ontario, Canada | On Site | Nov 19 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691e11fd3f782d2f1afb0846?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Nov 19 |
-| **[Schneider](https://schneider.com)** | **[Inside Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69013f9cd5259a1b3cff38da?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 19 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691e02fb09cc522e87734d2e?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Nov 19 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691db6b3748c4e1301ec7e18?utm_campaign=1051&utm_source=git)** | St Albert, Alberta, Canada | On Site | Nov 19 |
-| **[Gallagher](http://www.ajg.com)** | **[Canada Internship - Sales](https://jobright.ai/jobs/info/691ddc5f748c4e1301ec97b7?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
