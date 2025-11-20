@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Formee Holdings](https://www.formeeholdings.com)** | **[Business Development (Sales) Internship Program](https://jobright.ai/jobs/info/691ea73a09cc522e8773b663?utm_campaign=1051&utm_source=git)** | Oakbrook Terrace, IL | On Site | Nov 19 |
+| **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913d50a1465e02904e97f66?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Nov 19 |
+| **[Puro Climate](www.puro-climate.org)** | **[Account Executive](https://jobright.ai/jobs/info/691e8e1509cc522e8773aef0?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Nov 19 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/691e869fa49a885af9a296ce?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | Remote | Nov 19 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/691e8684a49a885af9a296c1?utm_campaign=1051&utm_source=git)** | College Station, TX | Remote | Nov 19 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Spring 2026](https://jobright.ai/jobs/info/68e6d543ae2b894b1d71e730?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 19 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/691e847d09cc522e8773aa59?utm_campaign=1051&utm_source=git)** | University Park, PA | Remote | Nov 19 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/691e84193f782d2f1afb5855?utm_campaign=1051&utm_source=git)** | Bloomington, IN | Remote | Nov 19 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/691e7f99a49a885af9a2933c?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Nov 19 |
-| **[JD Machine Corp.](http://www.jdmachine.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/691e7ebd09cc522e8773a6fc?utm_campaign=1051&utm_source=git)** | Ogden, UT | On Site | Nov 19 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Partnership Services Intern (ECU Sports Properties)](https://jobright.ai/jobs/info/691e7d333f782d2f1afb53de?utm_campaign=1051&utm_source=git)** | Greenville, NC | On Site | Nov 19 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/691e7cfea49a885af9a290da?utm_campaign=1051&utm_source=git)** | Gainesville, FL | Remote | Nov 19 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/691e7c6fa49a885af9a29052?utm_campaign=1051&utm_source=git)** | East Lansing, MI | On Site | Nov 19 |
@@ -80,13 +82,11 @@ For a complete list, click the following sortable link below:
 | **[Black Copper](blackcopper.org)** | **[Sales Intern](https://jobright.ai/jobs/info/691e7e0d09cc522e8773a63e?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Nov 19 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/68fa5645edd190144238b1f8?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | Hybrid | Nov 19 |
 | **[Fusion100](http://Fusion100co.com)** | **[Sales Management Intern](https://jobright.ai/jobs/info/691e5bff09cc522e8773942d?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 19 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - Commercial SBA Lending](https://jobright.ai/jobs/info/691e56cea49a885af9a27cd0?utm_campaign=1051&utm_source=git)** | Pottstown, PA | On Site | Nov 19 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e567f3f782d2f1afb3f3b?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 19 |
 | ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e5660a49a885af9a27c7f?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 19 |
 | **[UES](https://www.teamues.com)** | **[Business Development Intern- Summer 2026](https://jobright.ai/jobs/info/691e55d8a49a885af9a27c29?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 19 |
 | **[Care Crest Holdings](www.carecrestholdings.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/691e548da49a885af9a27b98?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 19 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e532b09cc522e87738fbd?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 19 |
-| ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e52803f782d2f1afb3ccd?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 19 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e52803f782d2f1afb3ccd?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 19 |
 | ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e51da09cc522e87738e86?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 19 |
 | ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e515ca49a885af9a27954?utm_campaign=1051&utm_source=git)** | Austin, TX, United States | On Site | Nov 19 |
 | ↳ | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e50a83f782d2f1afb3b5b?utm_campaign=1051&utm_source=git)** | Nashville, TN, United States | On Site | Nov 19 |
@@ -106,8 +106,7 @@ For a complete list, click the following sortable link below:
 | **[INSURICA](http://insurica.com/home/partneragencies/partners/Plano/)** | **[Digital Division Intern](https://jobright.ai/jobs/info/68fbe8064129dd33cd1362d6?utm_campaign=1051&utm_source=git)** | Norman, OK | On Site | Nov 19 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Sales and Sales Support Internships – Summer 2026](https://jobright.ai/jobs/info/691e348909cc522e8773778b?utm_campaign=1051&utm_source=git)** | Birmingham, MI | On Site | Nov 19 |
 | ↳ | **[Advertising & Partnerships Sales and Sales Support Internships – Summer 2026](https://jobright.ai/jobs/info/691e341809cc522e877376fb?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - Commercial SBA Lending](https://jobright.ai/jobs/info/691e3345a49a885af9a261ce?utm_campaign=1051&utm_source=git)** | Creekside | On Site | Nov 19 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Filmed Entertainment Group Global Distribution Internships – Summer 2026](https://jobright.ai/jobs/info/691e32d63f782d2f1afb23e1?utm_campaign=1051&utm_source=git)** | Universal City, CA | On Site | Nov 19 |
+| ↳ | **[Universal Filmed Entertainment Group Global Distribution Internships – Summer 2026](https://jobright.ai/jobs/info/691e32d63f782d2f1afb23e1?utm_campaign=1051&utm_source=git)** | Universal City, CA | On Site | Nov 19 |
 | ↳ | **[Advertising & Partnerships Sales and Sales Support Internships – Summer 2026](https://jobright.ai/jobs/info/691e3258a49a885af9a260c9?utm_campaign=1051&utm_source=git)** | Universal City, CA | On Site | Nov 19 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - Commercial SBA Lending](https://jobright.ai/jobs/info/691e2ea43f782d2f1afb1f2f?utm_campaign=1051&utm_source=git)** | US-PA-Pottstown | On Site | Nov 19 |
 | **[Workato](http://www.workato.com)** | **[Intern, Customer Success](https://jobright.ai/jobs/info/691e2e963f782d2f1afb1f1f?utm_campaign=1051&utm_source=git)** | New Boston, NY | On Site | Nov 19 |
@@ -149,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68cd3149e23def7af55b69e5?utm_campaign=1051&utm_source=git)** | Helena, MT | On Site | Nov 19 |
 | **[SageSure](https://www.sagesure.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/6916c21b286ccf0a151392f1?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 19 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68fc44614129dd33cd13a533?utm_campaign=1051&utm_source=git)** | Richmond, TX | On Site | Nov 19 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/68cf1d9d846f0b04af67f6ec?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 19 |
 | **[Fitch Solutions](https://www.fitchsolutions.com)** | **[Commercial Graduate Program, Fitch Solutions, New York - September 2026](https://jobright.ai/jobs/info/691ae78cbcdbf3560c9db973?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | **[Indeez](https://indeez.eu)** | **[Risk & Insurance Partnerships Analyst](https://jobright.ai/jobs/info/691e15ab3f782d2f1afb0d1b?utm_campaign=1051&utm_source=git)** | Greater Paris Metropolitan Region | Hybrid | Nov 19 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691e0f7a3f782d2f1afb05cf?utm_campaign=1051&utm_source=git)** | Carleton Place, Ontario, Canada | On Site | Nov 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Schneider](https://schneider.com)** | **[Inside Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69013f9cd5259a1b3cff38da?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 19 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691e02fb09cc522e87734d2e?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Nov 19 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691db6b3748c4e1301ec7e18?utm_campaign=1051&utm_source=git)** | St Albert, Alberta, Canada | On Site | Nov 19 |
+| **[Gallagher](http://www.ajg.com)** | **[Canada Internship - Sales](https://jobright.ai/jobs/info/691ddc5f748c4e1301ec97b7?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 19 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/691e08b809cc522e8773515b?utm_campaign=1051&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
