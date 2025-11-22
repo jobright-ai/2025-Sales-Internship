@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6921fd5b3f782d2f1afd44b8?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 22 |
 | **[H15DEN](https://h15den.com)** | **[Business Development (Micro-Internship - 1 month)](https://jobright.ai/jobs/info/6921f3e33f782d2f1afd4382?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Nov 22 |
 | **[Inpro](http://inpro.co.kr)** | **[Sales Intern](https://jobright.ai/jobs/info/6921eec3a49a885af9a47f75?utm_campaign=1051&utm_source=git)** | Muskego, WI | On Site | Nov 22 |
 | **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/68fa1c8d5703ec4868fde89b?utm_campaign=1051&utm_source=git)** | Creve Coeur, MO | Hybrid | Nov 22 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Business Development Intern- Spring 2026](https://jobright.ai/jobs/info/68b06dd7b47fb001d6892353?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Nov 22 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68af63541f0a2a568a06134a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 22 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Crop Insurance Intern](https://jobright.ai/jobs/info/68ec8c12c26b9574506f2ee9?utm_campaign=1051&utm_source=git)** | Fargo, ND | Hybrid | Nov 22 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Trading Associate - Fresh Graduates](https://jobright.ai/jobs/info/6921c0f5d1ec2c3565c45d1f?utm_campaign=1051&utm_source=git)** | Illinois, United States | Remote | Nov 22 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e85ceb09580a2fe57f6d34?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Crop Insurance Intern](https://jobright.ai/jobs/info/68ec90ac1eecd439f43fa1d7?utm_campaign=1051&utm_source=git)** | Lenexa, KS | Hybrid | Nov 22 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/69053720122e8474c78d7977?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Nov 22 |
@@ -145,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69218823a49a885af9a468dc?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6921881da49a885af9a468d8?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Nov 22 |
 | **[TARGET](https://www.targetsapps.com/)** | **[Store Executive Intern (Store Leadership Intern) - East St Louis, MO (Starting Summer 2026)](https://jobright.ai/jobs/info/692187fed1ec2c3565c44e45?utm_campaign=1051&utm_source=git)** | Fairview Heights, IL, US | Hybrid | Nov 22 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187eba49a885af9a468c8?utm_campaign=1051&utm_source=git)** | Brookville, NY | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187eba49a885af9a468c7?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Nov 22 |
+| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187eba49a885af9a468c7?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Nov 22 |
+| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187eba49a885af9a468c8?utm_campaign=1051&utm_source=git)** | Brookville, NY | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/692187caa49a885af9a468bc?utm_campaign=1051&utm_source=git)** | Reno, NV | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187c8a49a885af9a468ba?utm_campaign=1051&utm_source=git)** | St Paul, MN | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187c1a49a885af9a468b9?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Nov 22 |
