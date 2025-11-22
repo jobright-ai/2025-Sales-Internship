@@ -57,13 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Investor Operations Summer Intern](https://jobright.ai/jobs/info/6905f8ec63502c0aded7f9eb?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/6921b794a49a885af9a4743d?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 22 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - Louisville](https://jobright.ai/jobs/info/68ce4ab1fb49c96ca6e9e8ea?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Nov 22 |
+| **[Cable One/Sparklight Careers](https://ir.cableone.net)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 22 |
+| **[Norfolk Southern](https://www.nscorp.com)** | **[2026 Summer Account Analyst Intern - Revenue](https://jobright.ai/jobs/info/691a918945fb6f5ead8abe59?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Fresh Food Category Manager Intern](https://jobright.ai/jobs/info/68e914670930fe0bc46221e7?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 22 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Madison)](https://jobright.ai/jobs/info/68b0b4172d46f6396cae7d67?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 22 |
+| ↳ | **[2026 Management and Sales Summer Internship (Green Bay)](https://jobright.ai/jobs/info/68b0afe7b47fb001d6894a8f?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Nov 22 |
+| **[Trade Republic](https://traderepublic.com)** | **[Corporate Development Intern](https://jobright.ai/jobs/info/6921afbe3f782d2f1afd3580?utm_campaign=1051&utm_source=git)** | Headquarter | On Site | Nov 22 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[7-Ventures and Emerging Brands Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 22 |
+| **[MathWorks](http://www.mathworks.com)** | **[Inside Sales Summer Intern](https://jobright.ai/jobs/info/69052cb2122e8474c78d70e9?utm_campaign=1051&utm_source=git)** | Natick, MA | Hybrid | Nov 22 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Business Development Intern- Spring 2026](https://jobright.ai/jobs/info/68b06dd7b47fb001d6892353?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Nov 22 |
+| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68af63541f0a2a568a06134a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 22 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Crop Insurance Intern](https://jobright.ai/jobs/info/68ec8c12c26b9574506f2ee9?utm_campaign=1051&utm_source=git)** | Fargo, ND | Hybrid | Nov 22 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e85ceb09580a2fe57f6d34?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Crop Insurance Intern](https://jobright.ai/jobs/info/68ec90ac1eecd439f43fa1d7?utm_campaign=1051&utm_source=git)** | Lenexa, KS | Hybrid | Nov 22 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/69053720122e8474c78d7977?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Nov 22 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/69218bf93f782d2f1afd2d52?utm_campaign=1051&utm_source=git)** | Lawrence, KS | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69218bf8a49a885af9a46a30?utm_campaign=1051&utm_source=git)** | Bellevue, NE | Hybrid | Nov 22 |
 | ↳ | **[Sales/Business Internship](https://jobright.ai/jobs/info/69218bf83f782d2f1afd2d51?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Nov 22 |
+| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69218bf8a49a885af9a46a30?utm_campaign=1051&utm_source=git)** | Bellevue, NE | Hybrid | Nov 22 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69218be03f782d2f1afd2d4c?utm_campaign=1051&utm_source=git)** | Mount Pleasant, MI | Hybrid | Nov 22 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69218be0d1ec2c3565c44ff5?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69218ba0d1ec2c3565c44fd5?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Nov 22 |
@@ -90,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69218823a49a885af9a468dc?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6921881da49a885af9a468d8?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Nov 22 |
 | **[TARGET](https://www.targetsapps.com/)** | **[Store Executive Intern (Store Leadership Intern) - East St Louis, MO (Starting Summer 2026)](https://jobright.ai/jobs/info/692187fed1ec2c3565c44e45?utm_campaign=1051&utm_source=git)** | Fairview Heights, IL, US | Hybrid | Nov 22 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187eba49a885af9a468c8?utm_campaign=1051&utm_source=git)** | Brookville, NY | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187eba49a885af9a468c7?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Nov 22 |
+| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187eba49a885af9a468c7?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Hybrid | Nov 22 |
+| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187eba49a885af9a468c8?utm_campaign=1051&utm_source=git)** | Brookville, NY | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/692187caa49a885af9a468bc?utm_campaign=1051&utm_source=git)** | Reno, NV | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187c8a49a885af9a468ba?utm_campaign=1051&utm_source=git)** | St Paul, MN | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692187c1a49a885af9a468b9?utm_campaign=1051&utm_source=git)** | Provo, UT | Hybrid | Nov 22 |
@@ -131,7 +144,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69218624a49a885af9a46814?utm_campaign=1051&utm_source=git)** | West Hartford, CT | Hybrid | Nov 22 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/692185fdd1ec2c3565c44dc9?utm_campaign=1051&utm_source=git)** | New Orleans, LA | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/692185f1a49a885af9a46808?utm_campaign=1051&utm_source=git)** | Ellensburg, WA | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692185ead1ec2c3565c44dc5?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692185e9d1ec2c3565c44dc4?utm_campaign=1051&utm_source=git)** | Angola, IN | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692185d3d1ec2c3565c44dbb?utm_campaign=1051&utm_source=git)** | Syracuse, NY | Hybrid | Nov 22 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/692185d1d1ec2c3565c44db9?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | Hybrid | Nov 22 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6921856ad1ec2c3565c44dab?utm_campaign=1051&utm_source=git)** | Lees Summit, MO | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692185683f782d2f1afd2aef?utm_campaign=1051&utm_source=git)** | Columbus, OH | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6921855dd1ec2c3565c44da9?utm_campaign=1051&utm_source=git)** | Bristol, RI | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69218550d1ec2c3565c44da4?utm_campaign=1051&utm_source=git)** | University Park, PA | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69218547d1ec2c3565c44da2?utm_campaign=1051&utm_source=git)** | La Crosse, WI | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692185373f782d2f1afd2ae4?utm_campaign=1051&utm_source=git)** | Salem, OR | Hybrid | Nov 22 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69218534d1ec2c3565c44d9f?utm_campaign=1051&utm_source=git)** | American Fork, UT | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692185263f782d2f1afd2adf?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/6921851e3f782d2f1afd2ada?utm_campaign=1051&utm_source=git)** | Cedar City, UT | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6921851ad1ec2c3565c44d98?utm_campaign=1051&utm_source=git)** | Mobile, AL | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/69218512d1ec2c3565c44d94?utm_campaign=1051&utm_source=git)** | Pullman, WA | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692184f7d1ec2c3565c44d8c?utm_campaign=1051&utm_source=git)** | Racine, WI | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692184ef3f782d2f1afd2ac9?utm_campaign=1051&utm_source=git)** | Cheney, WA | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692184e83f782d2f1afd2ac6?utm_campaign=1051&utm_source=git)** | Ames, IA | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692184e53f782d2f1afd2ac4?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
