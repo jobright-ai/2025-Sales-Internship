@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69214293a49a885af9a44565?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Nov 21 |
+| **[Varda Space Industries](http://varda.com)** | **[Business Development SkillBridge Intern ( Summer 2026)](https://jobright.ai/jobs/info/6921417000c9ee50eaecd213?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Nov 21 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d43fe896042b0b7c148?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Nov 21 |
+| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6921356f3f782d2f1afd0527?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6921354a3f782d2f1afd0510?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/692131d6a49a885af9a43ddf?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69213020a49a885af9a43c97?utm_campaign=1051&utm_source=git)** | Gainesville, FL | On Site | Nov 21 |
+| **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[AI Business Development Intern](https://jobright.ai/jobs/info/69212fa3a49a885af9a43c56?utm_campaign=1051&utm_source=git)** | Syracuse, NY | Hybrid | Nov 21 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69212dae3f782d2f1afd0017?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 21 |
 | **[DC Breeze Ultimate, LLC](https://watchufa.com/breeze)** | **[Business Development Internship](https://jobright.ai/jobs/info/69212d793f782d2f1afcfff7?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/69212984a49a885af9a43905?utm_campaign=1051&utm_source=git)** | St Thomas, Ontario, Canada | Hybrid | Nov 21 |
@@ -64,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[COE - Presales Intern (2026 Summer Internship) - Remote](https://jobright.ai/jobs/info/692122fea49a885af9a433b1?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Nov 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6921226400c9ee50eaecc023?utm_campaign=1051&utm_source=git)** | Springfield, PA | On Site | Nov 21 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/692121b9a49a885af9a432ae?utm_campaign=1051&utm_source=git)** | Exton, PA | On Site | Nov 21 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Earn $7k to $20k+](https://jobright.ai/jobs/info/69214dae3f782d2f1afd12df?utm_campaign=1051&utm_source=git)** | South Fulton, GA, US | On Site | Nov 21 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern - New York, NY](https://jobright.ai/jobs/info/69211f54a49a885af9a43125?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Nov 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211f253f782d2f1afcf61a?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | Nov 21 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211e20a49a885af9a4302e?utm_campaign=1051&utm_source=git)** | Conshohocken, PA | On Site | Nov 21 |
@@ -134,13 +143,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f7963f782d2f1afcd87e?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f91d00c9ee50eaeca307?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f7b33f782d2f1afcd899?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6921007300c9ee50eaecab70?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920fa193f782d2f1afcdc63?utm_campaign=1051&utm_source=git)** | Oakland, CA | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f9f63f782d2f1afcdc27?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f9393f782d2f1afcdb29?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920fa193f782d2f1afcdc63?utm_campaign=1051&utm_source=git)** | Oakland, CA | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6921007300c9ee50eaecab70?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920ff7800c9ee50eaecaa65?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/692107083f782d2f1afce722?utm_campaign=1051&utm_source=git)** | Santa Clarita, CA | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f96c00c9ee50eaeca360?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920ff7800c9ee50eaecaa65?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f9393f782d2f1afcdb29?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6921001800c9ee50eaecab01?utm_campaign=1051&utm_source=git)** | Port St Lucie, FL | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f02aa49a885af9a40ba0?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/692100b000c9ee50eaecabb0?utm_campaign=1051&utm_source=git)** | Newark, DE | On Site | Nov 21 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2026 - PLT](https://jobright.ai/jobs/info/6920c9f73f782d2f1afcb863?utm_campaign=1051&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | On Site | Nov 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[N.A. Wholesale, Men's Sales Intern](https://jobright.ai/jobs/info/6920f41da49a885af9a41218?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Internship - Sales](https://jobright.ai/jobs/info/6920c9743f782d2f1afcb7df?utm_campaign=1051&utm_source=git)** | 6000-MidSouth Region Office | On Site | Nov 21 |
-| **[News-Press & Gazette Company](http://www.npgco.com/)** | **[Sales Internship Paid Winter/Spring 2026](https://jobright.ai/jobs/info/6920e4a83f782d2f1afcc8e5?utm_campaign=1051&utm_source=git)** | Columbia, MO, 65201, United States | On Site | Nov 21 |
-| **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2026 - Truck Tire](https://jobright.ai/jobs/info/6920c76c00c9ee50eaec7e7a?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Nov 21 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b9ceff462851fefedf36?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Nov 21 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6920f88f3f782d2f1afcda0b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 21 |
-| **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Sales](https://jobright.ai/jobs/info/6920e82da49a885af9a4081b?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Nov 21 |
-| **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Sourcing Intern](https://jobright.ai/jobs/info/6920c2393f782d2f1afcb1c0?utm_campaign=1051&utm_source=git)** | Sycamore, IL | On Site | Nov 21 |
-| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920e6e2a49a885af9a4075c?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920e156a49a885af9a403fe?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920e3be3f782d2f1afcc841?utm_campaign=1051&utm_source=git)** | Thornton, CO | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
