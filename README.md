@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913e6aed1047e3565d06f88?utm_campaign=1051&utm_source=git)** | Kansas City | On Site | Nov 21 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6921549500c9ee50eaecdf8b?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 21 |
+| ↳ | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/692153723f782d2f1afd167b?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69214293a49a885af9a44565?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Nov 21 |
 | **[Varda Space Industries](http://varda.com)** | **[Business Development SkillBridge Intern ( Summer 2026)](https://jobright.ai/jobs/info/6921417000c9ee50eaecd213?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Nov 21 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d43fe896042b0b7c148?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Nov 21 |
@@ -87,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/6921125e00c9ee50eaecb746?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 21 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6921105ca49a885af9a427e4?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Big Ass Fans](http://www.bigassfans.com)** | **[Sourcing Intern (Summer Semester 2026)](https://jobright.ai/jobs/info/69210f7e00c9ee50eaecb3f9?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Nov 21 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/69210c0800c9ee50eaecb233?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Part-Time Business Development Intern - Underground District](https://jobright.ai/jobs/info/69210913a49a885af9a4236f?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Nov 21 |
 | **[Xinnor](https://xinnor.io/)** | **[SDR Intern](https://jobright.ai/jobs/info/692105563f782d2f1afce5ff?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 21 |
@@ -143,18 +145,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f7963f782d2f1afcd87e?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f91d00c9ee50eaeca307?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f7b33f782d2f1afcd899?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f9f63f782d2f1afcdc27?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920fa193f782d2f1afcdc63?utm_campaign=1051&utm_source=git)** | Oakland, CA | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6921007300c9ee50eaecab70?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920ff7800c9ee50eaecaa65?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/692107083f782d2f1afce722?utm_campaign=1051&utm_source=git)** | Santa Clarita, CA | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f96c00c9ee50eaeca360?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920fa193f782d2f1afcdc63?utm_campaign=1051&utm_source=git)** | Oakland, CA | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f9f63f782d2f1afcdc27?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f9393f782d2f1afcdb29?utm_campaign=1051&utm_source=git)** | Hialeah, FL | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f96c00c9ee50eaeca360?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/692107083f782d2f1afce722?utm_campaign=1051&utm_source=git)** | Santa Clarita, CA | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920ff7800c9ee50eaecaa65?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6921001800c9ee50eaecab01?utm_campaign=1051&utm_source=git)** | Port St Lucie, FL | On Site | Nov 21 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f02aa49a885af9a40ba0?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/692100b000c9ee50eaecabb0?utm_campaign=1051&utm_source=git)** | Newark, DE | On Site | Nov 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920f02aa49a885af9a40ba0?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Nov 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6920fe9100c9ee50eaeca925?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Nov 21 |
 | **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2026 - PLT](https://jobright.ai/jobs/info/6920c9f73f782d2f1afcb863?utm_campaign=1051&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | On Site | Nov 21 |
-| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[N.A. Wholesale, Men's Sales Intern](https://jobright.ai/jobs/info/6920f41da49a885af9a41218?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
-| **[Waste Connections](http://www.wasteconnections.com/)** | **[Internship - Sales](https://jobright.ai/jobs/info/6920c9743f782d2f1afcb7df?utm_campaign=1051&utm_source=git)** | 6000-MidSouth Region Office | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
