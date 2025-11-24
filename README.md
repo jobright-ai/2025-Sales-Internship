@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6923fdb5c0cefa13343dca31?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 23 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[National Sales Internship](https://jobright.ai/jobs/info/6923f8e638cd5478a8d58439?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Nov 23 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6923f55638cd5478a8d583f0?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 23 |
 | **[FTNSS](https://www.FTNSS.fit)** | **[(USA Based ONLY) Sales & Partnerships Intern (Part-Time → Full-Time Potential, Commission Sales + Equity)](https://jobright.ai/jobs/info/6923dd4e38cd5478a8d57b8a?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Nov 23 |
 | **[Kenvue](https://www.kenvue.com)** | **[Associate Sales Manager Internship (May – Aug 2026), Markham Based](https://jobright.ai/jobs/info/6923ba91c0cefa13343db2eb?utm_campaign=1051&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 23 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/6923a42bc0cefa13343db02b?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 23 |
-| ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6923a40638cd5478a8d56db2?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 23 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/6923a40638cd5478a8d56db2?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 23 |
 | **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[Intern](https://jobright.ai/jobs/info/6923a3e4c0cefa13343db013?utm_campaign=1051&utm_source=git)** | Naples, FL | On Site | Nov 23 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/6923a39dc0cefa13343db000?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/6894fff64ed2ea559ca527ff?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Nov 23 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/692357587795cd460c838704?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 23 |
-| ↳ | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/692357247795cd460c8386e4?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 23 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/692357247795cd460c8386e4?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 23 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales Management Trainee Internship - Quincy, IL - Spring 2026](https://jobright.ai/jobs/info/6923563c38cd5478a8d56690?utm_campaign=1051&utm_source=git)** | Quincy | On Site | Nov 23 |
 | **[WOW Payments](http://wowpayments.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6923335a38cd5478a8d562eb?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 23 |
 | ↳ | **[Business Development Intern](https://jobright.ai/jobs/info/6923330c38cd5478a8d562cf?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 23 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/692276327795cd460c835ad3?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69227621c0cefa13343d7cec?utm_campaign=1051&utm_source=git)** | Conway, SC | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6922760bc0cefa13343d7ce7?utm_campaign=1051&utm_source=git)** | Athens, OH | Hybrid | Nov 22 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69227607c0cefa13343d7ce3?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69227607c0cefa13343d7ce4?utm_campaign=1051&utm_source=git)** | Davis, CA | Hybrid | Nov 22 |
+| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69227607c0cefa13343d7ce3?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692275f97795cd460c835ac9?utm_campaign=1051&utm_source=git)** | Davenport, IA | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692275e07795cd460c835ac1?utm_campaign=1051&utm_source=git)** | Morgantown, WV | Hybrid | Nov 22 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/692275d538cd5478a8d53b05?utm_campaign=1051&utm_source=git)** | Monroe, LA | Hybrid | Nov 22 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6922747bc0cefa13343d7c6a?utm_campaign=1051&utm_source=git)** | New Castle, DE | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6922747bc0cefa13343d7c6b?utm_campaign=1051&utm_source=git)** | Montpelier, VT | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69227473c0cefa13343d7c67?utm_campaign=1051&utm_source=git)** | Boone, NC | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6922746538cd5478a8d53a9f?utm_campaign=1051&utm_source=git)** | Olathe, KS | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69227465c0cefa13343d7c61?utm_campaign=1051&utm_source=git)** | Kent, OH | Hybrid | Nov 22 |
+| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6922746538cd5478a8d53a9f?utm_campaign=1051&utm_source=git)** | Olathe, KS | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692274637795cd460c835a3e?utm_campaign=1051&utm_source=git)** | Hempstead, NY | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6922745938cd5478a8d53a9c?utm_campaign=1051&utm_source=git)** | Evansville, IN | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship (Door to Door)](https://jobright.ai/jobs/info/6922744cc0cefa13343d7c5b?utm_campaign=1051&utm_source=git)** | Casper, WY | Hybrid | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BASF](https://www.basf.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6918485115b415636718121e?utm_campaign=1051&utm_source=git)** | Peace River, Alberta, Canada | On Site | Nov 22 |
 | **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/69226da7a49a885af9a48f17?utm_campaign=1051&utm_source=git)** | Bloomsburg, PA | Hybrid | Nov 22 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69226da5a49a885af9a48f16?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Nov 22 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69226d88a49a885af9a48f0e?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
