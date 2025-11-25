@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Dallas (Summer 2026)](https://jobright.ai/jobs/info/69254e24d47de4798eccf315?utm_campaign=1051&utm_source=git)** | Plano, TX | Hybrid | Nov 24 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69254db7d47de4798eccf2f8?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Nov 24 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Sales Intern - Government (Summer 2026)](https://jobright.ai/jobs/info/69254daff0beb0723261cc7d?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 24 |
+| ↳ | **[Sales Intern - Chicago (Summer 2026)](https://jobright.ai/jobs/info/69254ca427bf2f41a2c3e097?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/692536c727bf2f41a2c3d40b?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Nov 24 |
 | ↳ | **[Sales Intern - Summer 2026 - Norcross, GA](https://jobright.ai/jobs/info/69253614f0beb0723261bf8e?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Nov 24 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6925338cf0beb0723261be29?utm_campaign=1051&utm_source=git)** | Oak Bay, British Columbia, Canada | On Site | Nov 24 |
@@ -133,9 +137,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/692529c4d47de4798eccdab5?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | Hybrid | Nov 24 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252b6df0beb0723261b6bf?utm_campaign=1051&utm_source=git)** | Teaneck, NJ | Hybrid | Nov 24 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69252910f0beb0723261b4e3?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 24 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252b1ad47de4798eccdbf5?utm_campaign=1051&utm_source=git)** | Dover, DE | Hybrid | Nov 24 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69252da4f0beb0723261b8bc?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | Hybrid | Nov 24 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252bdff0beb0723261b723?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 24 |
+| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252b1ad47de4798eccdbf5?utm_campaign=1051&utm_source=git)** | Dover, DE | Hybrid | Nov 24 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252d13f0beb0723261b839?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | Hybrid | Nov 24 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252890d47de4798eccd98f?utm_campaign=1051&utm_source=git)** | College Park, MD | Hybrid | Nov 24 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69252878f0beb0723261b471?utm_campaign=1051&utm_source=git)** | Adrian, MI | Hybrid | Nov 24 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252babd47de4798eccdc67?utm_campaign=1051&utm_source=git)** | Brookings, SD | Hybrid | Nov 24 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692537aff0beb0723261c053?utm_campaign=1051&utm_source=git)** | Towson, MD | Hybrid | Nov 24 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/6925374fd47de4798ecce609?utm_campaign=1051&utm_source=git)** | Memphis, TN | Hybrid | Nov 24 |
-| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6925280af0beb0723261b3fa?utm_campaign=1051&utm_source=git)** | Aberdeen, SD | Hybrid | Nov 24 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252b7127bf2f41a2c3cc35?utm_campaign=1051&utm_source=git)** | Bemidji, MN | Hybrid | Nov 24 |
+| ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/6925280af0beb0723261b3fa?utm_campaign=1051&utm_source=git)** | Aberdeen, SD | Hybrid | Nov 24 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/692528a6d47de4798eccd9a7?utm_campaign=1051&utm_source=git)** | Olathe, KS | Hybrid | Nov 24 |
 | ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69252d70d47de4798eccddf3?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Hybrid | Nov 24 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252b4627bf2f41a2c3cc12?utm_campaign=1051&utm_source=git)** | Omaha, NE | Hybrid | Nov 24 |
 | ↳ | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252d82f0beb0723261b8a6?utm_campaign=1051&utm_source=git)** | St Paul, MN | Hybrid | Nov 24 |
-| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/692509bcec574f4265bbacae?utm_campaign=1051&utm_source=git)** | Michigan, United States | Remote | Nov 24 |
-| **[Shift - Actions, Perspective, Future](workwithshift.com)** | **[Sales & Business Internship](https://jobright.ai/jobs/info/69252983d47de4798eccda81?utm_campaign=1051&utm_source=git)** | Lincoln, NE | Hybrid | Nov 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69252bc6f0beb0723261b70b?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 24 |
-| ↳ | **[Sales & Marketing Internship](https://jobright.ai/jobs/info/69252c72f0beb0723261b7a9?utm_campaign=1051&utm_source=git)** | Akron, OH | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
