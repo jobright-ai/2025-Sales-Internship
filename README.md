@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/68d330f317554c2d9eeee836?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 27 |
+| ↳ | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/68d331fc17554c2d9eeee941?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69283123f0beb0723262fa8a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 27 |
 | **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281cd9f0beb0723262f759?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281c93f0beb0723262f741?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281a6c91ceeb2e8a544836?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Nov 27 |
@@ -112,16 +115,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280ba691ceeb2e8a5444bf?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b84f0beb0723262f39a?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b8091ceeb2e8a5444ab?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b7bf0beb0723262f397?utm_campaign=1051&utm_source=git)** | Grand Prairie, TX | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b7b91ceeb2e8a5444a6?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Nov 27 |
+| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b7bf0beb0723262f397?utm_campaign=1051&utm_source=git)** | Grand Prairie, TX | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b68f0beb0723262f38e?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b66f0beb0723262f38c?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b5f91ceeb2e8a54449a?utm_campaign=1051&utm_source=git)** | Lubbock, TX | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b4591ceeb2e8a54448d?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b3b91ceeb2e8a544487?utm_campaign=1051&utm_source=git)** | Lowell, MA | On Site | Nov 27 |
+| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b3691ceeb2e8a544485?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b3691ceeb2e8a544486?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b36d47de4798ece1a49?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b3691ceeb2e8a544485?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b32f0beb0723262f375?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b3091ceeb2e8a544483?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280b28f0beb0723262f36e?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Nov 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280a12d47de4798ece19d5?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280a01d47de4798ece19cd?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Nov 27 |
 | ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69280a00f0beb0723262f2f8?utm_campaign=1051&utm_source=git)** | Eugene, OR | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692809ebd47de4798ece19bf?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692809dcf0beb0723262f2e8?utm_campaign=1051&utm_source=git)** | McAllen, TX | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692809d791ceeb2e8a5443fc?utm_campaign=1051&utm_source=git)** | Virginia, United States | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
