@@ -57,7 +57,41 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed41fe0db92422580bd73?utm_campaign=1051&utm_source=git)** | Coppell, TX | On Site | Nov 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Decatur, IL - Spring 2026](https://jobright.ai/jobs/info/68d3ffdd17554c2d9eef55c8?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Nov 27 |
+| **[CoreVista Strategies](corevistastrategies.us)** | **[Sales Internship](https://jobright.ai/jobs/info/69288b21f0beb07232630b85?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | On Site | Nov 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Champaign, IL - Spring 2026](https://jobright.ai/jobs/info/68d403b68c62e63bc7fe557c?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Nov 27 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[-sales internship-](https://jobright.ai/jobs/info/69288a5dd47de4798ece31fd?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | Remote | Nov 27 |
+| **[air up®](https://shop.air-up.com)** | **[Intern Business Development & Creative – US Growth - Munich based Internship - Completing a Semester Abroad](https://jobright.ai/jobs/info/69288a40f0beb07232630b4e?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Nov 27 |
+| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69288666d47de4798ece318e?utm_campaign=1051&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6928858991ceeb2e8a545bf9?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Nov 27 |
+| ↳ | **[Sales Internship - Summer 2026](https://jobright.ai/jobs/info/69288508f0beb07232630a4e?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Nov 27 |
+| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69288490f0beb07232630a2e?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
+| ↳ | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69288466d47de4798ece30de?utm_campaign=1051&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 27 |
+| ↳ | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/69288446d47de4798ece30d5?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
+| **[Blackmont Consulting](https://www.blackmontconsulting.com/)** | **[Business Development Intern (Only for students)](https://jobright.ai/jobs/info/692880f1d47de4798ece307d?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Nov 27 |
+| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d448e017554c2d9eef7e38?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Go-To-Market Sales Enablement Intern](https://jobright.ai/jobs/info/68d447b18c62e63bc7fe7bb4?utm_campaign=1051&utm_source=git)** | Westchester, IL | Hybrid | Nov 27 |
+| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d45a0917554c2d9eef8bdb?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 27 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed39ae0db92422580bcaa?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Nov 27 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Prospect Development Intern: Co-Op](https://jobright.ai/jobs/info/68efd3269821486c423c793e?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Nov 27 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed49ae0db92422580be2b?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | Nov 27 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed410e0db92422580bd5d?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Nov 27 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed363e0db92422580bc4f?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Nov 27 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece28d078b81ad160f8ff?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Nov 27 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed84fd078b81ad1610031?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Nov 27 |
+| **[UPL](http://www.upl-ltd.com/)** | **[Sales Intern, South & East Coast](https://jobright.ai/jobs/info/690c05d04a1b456627b154a0?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Nov 27 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed15a46e5b153e5a6031d?utm_campaign=1051&utm_source=git)** | Florence, SC | On Site | Nov 27 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed355d078b81ad160fc2c?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Nov 27 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed473d078b81ad160fe36?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Nov 27 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3c7d078b81ad160fcf5?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 27 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed958e0db92422580c0dd?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 27 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed26f46e5b153e5a605d5?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Nov 27 |
+| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4593dffc1276de3fd9f96?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
+| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Ecommererce Sales- Summer 2026](https://jobright.ai/jobs/info/690bafe94a1b456627b119cc?utm_campaign=1051&utm_source=git)** | Avon, OH | Hybrid | Nov 27 |
+| **[UPL](http://www.upl-ltd.com/)** | **[Sales Intern, Seed Soil & Crop Health](https://jobright.ai/jobs/info/690c0699221b890c277faaea?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Nov 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Lincoln, NE - Summer 2026](https://jobright.ai/jobs/info/68b779371ade4306aa64b39a?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Nov 27 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20a46e5b153e5a60502?utm_campaign=1051&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 27 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed41fe0db92422580bd73?utm_campaign=1051&utm_source=git)** | Coppell, TX | On Site | Nov 27 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed16a46e5b153e5a60354?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Nov 27 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68d4a334fcd3367e8df16651?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Nov 27 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9ddd078b81ad16101c1?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Nov 27 |
@@ -91,7 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d42eca17554c2d9eef68cc?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Nov 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (MIA)](https://jobright.ai/jobs/info/68f08d30eb273a32d9769859?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 27 |
 | ↳ | **[Sales Intern (CLT)](https://jobright.ai/jobs/info/68f08ab31f624a7ec1cf3bb7?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 27 |
-| ↳ | **[Sales Intern (ELS)](https://jobright.ai/jobs/info/68f08cebeb273a32d97697e2?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Nov 27 |
+| **[Algeco GmbH](https://www.algeco.de)** | **[Werkstudent Sales Support / CRM (m/w/d) – bundesweit / remote](https://jobright.ai/jobs/info/69201b813f782d2f1afc2e9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 27 |
+| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (ELS)](https://jobright.ai/jobs/info/68f08cebeb273a32d97697e2?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Nov 27 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d44a3f17554c2d9eef7fef?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Nov 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (NJ)](https://jobright.ai/jobs/info/68f084fceb273a32d976915e?utm_campaign=1051&utm_source=git)** | Hackensack, NJ | On Site | Nov 27 |
 | **[Indie Campers](https://indiecampers.com/)** | **[International Ops Internship - Erasmus+](https://jobright.ai/jobs/info/692854a5f0beb072326300df?utm_campaign=1051&utm_source=git)** | Europewide | On Site | Nov 27 |
@@ -122,39 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (MSP)](https://jobright.ai/jobs/info/68f08578eb273a32d97691b8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Nov 27 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Sales](https://jobright.ai/jobs/info/6928441991ceeb2e8a544f16?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Grain Intern - Summer 2025-2](https://jobright.ai/jobs/info/68b77d7c2124650c14023250?utm_campaign=1051&utm_source=git)** | Rose Hill, NC | On Site | Nov 27 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (CHI)](https://jobright.ai/jobs/info/68f08c35eb273a32d97696a7?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Distribution Intern](https://jobright.ai/jobs/info/692840ead47de4798ece23e4?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 27 |
-| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/69119187183be660d267c8af?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 27 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (PHX)](https://jobright.ai/jobs/info/68f086131f624a7ec1cf39d6?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 27 |
-| ↳ | **[Sales Intern (AUS)](https://jobright.ai/jobs/info/68f08d461f624a7ec1cf3fc9?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Nov 27 |
-| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/68d330f317554c2d9eeee836?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 27 |
-| ↳ | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/68d331fc17554c2d9eeee941?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
-| **[UNICO Group](http://unicogroup.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69019b84d5259a1b3cff6a90?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Nov 27 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69283123f0beb0723262fa8a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 27 |
-| **[Lotus Sales](www.lotussales.co)** | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281cd9f0beb0723262f759?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281c93f0beb0723262f741?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281a6c91ceeb2e8a544836?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281a3591ceeb2e8a544826?utm_campaign=1051&utm_source=git)** | Denton, TX | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692819fcd47de4798ece1d53?utm_campaign=1051&utm_source=git)** | Corpus Christi, TX | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281992d47de4798ece1d17?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281960d47de4798ece1cfb?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281905d47de4798ece1ccb?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6928189ed47de4798ece1caa?utm_campaign=1051&utm_source=git)** | New Brunswick, NJ | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6928189dd47de4798ece1ca9?utm_campaign=1051&utm_source=git)** | Islip, NY | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281768f0beb0723262f64d?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6928175df0beb0723262f646?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281729f0beb0723262f631?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692816ac91ceeb2e8a5447a2?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6928167491ceeb2e8a54477f?utm_campaign=1051&utm_source=git)** | Warwick, RI | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692815ea91ceeb2e8a544736?utm_campaign=1051&utm_source=git)** | Wake Forest, NC | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692815caf0beb0723262f58d?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/69281593f0beb0723262f583?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6928157d91ceeb2e8a5446f9?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6928156991ceeb2e8a5446ee?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/6928155391ceeb2e8a5446d6?utm_campaign=1051&utm_source=git)** | Fayetteville, NC | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692814ed91ceeb2e8a5446b3?utm_campaign=1051&utm_source=git)** | Lees Summit, MO | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692813bad47de4798ece1b9f?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692811d8f0beb0723262f533?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692811d3f0beb0723262f531?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
-| ↳ | **[Entry-Level Summer Sales Internship - Make Up to $20k - No Experience](https://jobright.ai/jobs/info/692811b5f0beb0723262f525?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
