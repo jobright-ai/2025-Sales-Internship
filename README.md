@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6928a8f491ceeb2e8a546126?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Remote | Nov 27 |
+| ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6928a8ebd47de4798ece368f?utm_campaign=1051&utm_source=git)** | Arizona, United States | Remote | Nov 27 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/6928a1ced47de4798ece356c?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Nov 27 |
+| **[LumoraX](lumorax.us)** | **[Business Optimization Intern](https://jobright.ai/jobs/info/69289865f0beb07232630d33?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Nov 27 |
+| **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - ReImagine](https://jobright.ai/jobs/info/68efd78b78ba1621431e0be3?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Nov 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Decatur, IL - Spring 2026](https://jobright.ai/jobs/info/68d3ffdd17554c2d9eef55c8?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Nov 27 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Sales Internship](https://jobright.ai/jobs/info/69288b21f0beb07232630b85?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | On Site | Nov 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Champaign, IL - Spring 2026](https://jobright.ai/jobs/info/68d403b68c62e63bc7fe557c?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Nov 27 |
@@ -97,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9ddd078b81ad16101c1?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Nov 27 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed1e746e5b153e5a604c5?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Nov 27 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed30bd078b81ad160fbbd?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Nov 27 |
-| **[Property Pros Real Estate](https://goprony.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/69286a93d47de4798ece2c55?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Sales Intern, Seed Soil & Crop Health](https://jobright.ai/jobs/info/690bbc1c221b890c277f776f?utm_campaign=1051&utm_source=git)** | Illinois Grove, IA | On Site | Nov 27 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern - Sales](https://jobright.ai/jobs/info/6916ef20286ccf0a1513ae47?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 27 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed25046e5b153e5a60593?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Nov 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (HOU)](https://jobright.ai/jobs/info/68f08acea6b9004b5e321310?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 27 |
 | ↳ | **[Sales Intern (WC)](https://jobright.ai/jobs/info/68f089e51f624a7ec1cf3a7a?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Nov 27 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Event Sales Intern - Summer 2026](https://jobright.ai/jobs/info/690bb828221b890c277f7402?utm_campaign=1051&utm_source=git)** | Detroit, MI | Hybrid | Nov 27 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (OC)](https://jobright.ai/jobs/info/68f4cf129a63986de7577acc?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Nov 27 |
-| ↳ | **[Sales Intern (MSP)](https://jobright.ai/jobs/info/68f08578eb273a32d97691b8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Nov 27 |
-| **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Sales](https://jobright.ai/jobs/info/6928441991ceeb2e8a544f16?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
-| **[Smithfield Foods](http://smithfieldfoods.com)** | **[Grain Intern - Summer 2025-2](https://jobright.ai/jobs/info/68b77d7c2124650c14023250?utm_campaign=1051&utm_source=git)** | Rose Hill, NC | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
