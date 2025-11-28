@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913d50a1465e02904e97f66?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Nov 27 |
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/6928b93cf0beb07232631259?utm_campaign=1051&utm_source=git)** | Indianola, IA | On Site | Nov 27 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6928b50a91ceeb2e8a5462ed?utm_campaign=1051&utm_source=git)** | North Richland Hills, TX | On Site | Nov 27 |
 | **[Qualer, Now a MasterControl Company](https://qualer.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6928b21091ceeb2e8a5462b0?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 27 |
@@ -89,6 +90,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed84fd078b81ad1610031?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Nov 27 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Sales Intern, South & East Coast](https://jobright.ai/jobs/info/690c05d04a1b456627b154a0?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Nov 27 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed15a46e5b153e5a6031d?utm_campaign=1051&utm_source=git)** | Florence, SC | On Site | Nov 27 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed473d078b81ad160fe36?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Nov 27 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed355d078b81ad160fc2c?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Nov 27 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3c7d078b81ad160fcf5?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 27 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed958e0db92422580c0dd?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (DAL)](https://jobright.ai/jobs/info/68f08ba2a6b9004b5e321454?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Retail Buying Intern](https://jobright.ai/jobs/info/68d498b68c62e63bc7feacfa?utm_campaign=1051&utm_source=git)** | Janesville, WI | On Site | Nov 27 |
 | **[NexLine Communications](https://www.mynexline.com)** | **[Marketing and Business Development Internship](https://jobright.ai/jobs/info/692848d991ceeb2e8a544fac?utm_campaign=1051&utm_source=git)** | Kingston, PA | On Site | Nov 27 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (HOU)](https://jobright.ai/jobs/info/68f08acea6b9004b5e321310?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 27 |
-| ↳ | **[Sales Intern (WC)](https://jobright.ai/jobs/info/68f089e51f624a7ec1cf3a7a?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
