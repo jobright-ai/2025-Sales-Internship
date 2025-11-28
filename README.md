@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/692946acfa28370be2693ebd?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Nov 27 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/692934baf0beb0723263206e?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Nov 27 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6929263fd47de4798ece45ed?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Nov 27 |
 | **[TE Connectivity](http://www.te.com)** | **[SALES INTERN](https://jobright.ai/jobs/info/6929227591ceeb2e8a5470b7?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | Nov 27 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed84fd078b81ad1610031?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | On Site | Nov 27 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Sales Intern, South & East Coast](https://jobright.ai/jobs/info/690c05d04a1b456627b154a0?utm_campaign=1051&utm_source=git)** | Durham, NC | On Site | Nov 27 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed15a46e5b153e5a6031d?utm_campaign=1051&utm_source=git)** | Florence, SC | On Site | Nov 27 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed473d078b81ad160fe36?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Nov 27 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed355d078b81ad160fc2c?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Nov 27 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3c7d078b81ad160fcf5?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 27 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed958e0db92422580c0dd?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 27 |
@@ -124,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/69286880d47de4798ece2bc7?utm_campaign=1051&utm_source=git)** | Redlands, CA | Remote | Nov 27 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68eec49ae0db92422580b0c4?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Nov 27 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed437e0db92422580bd95?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Nov 27 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed473d078b81ad160fe36?utm_campaign=1051&utm_source=git)** | Fairfax, VA | On Site | Nov 27 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/690be0af4a1b456627b13f3c?utm_campaign=1051&utm_source=git)** | Cypress, TX | On Site | Nov 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (PHL)](https://jobright.ai/jobs/info/68f084fceb273a32d976915f?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 27 |
 | **[Ferrovias](ferrovias.us)** | **[2026 Intern Program - Research, Development & Application](https://jobright.ai/jobs/info/69286463f0beb07232630456?utm_campaign=1051&utm_source=git)** | Beloit, WI | Remote | Nov 27 |
@@ -131,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Internship - Sioux City, IA - Spring 2026](https://jobright.ai/jobs/info/68b7776b2124650c14022f62?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Nov 27 |
 | ↳ | **[Sales Management Trainee Internship - Dekalb, IL - Spring 2026](https://jobright.ai/jobs/info/68b77cfa2124650c140231ab?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Nov 27 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/6912e414d1047e3565d001a9?utm_campaign=1051&utm_source=git)** | Winter Park, FL | On Site | Nov 27 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/692003db09cc522e877474d2?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Nov 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (NASH)](https://jobright.ai/jobs/info/68f084fbeb273a32d976915d?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Nov 27 |
 | **[IDEMIA Public Security](https://na.idemia.com/)** | **[Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/69285edaf0beb07232630318?utm_campaign=1051&utm_source=git)** | Reston, VA | Hybrid | Nov 27 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d4305f17554c2d9eef69f4?utm_campaign=1051&utm_source=git)** | Wauwatosa, WI | On Site | Nov 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d44f8b8c62e63bc7fe8221?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Nov 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (DEN)](https://jobright.ai/jobs/info/68f08c4aa6b9004b5e321579?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 27 |
 | **[Synthomer](https://www.synthomer.com)** | **[Leadership Development Program - Commercial Excellence](https://jobright.ai/jobs/info/68d424578c62e63bc7fe6170?utm_campaign=1051&utm_source=git)** | Mogadore, OH | On Site | Nov 27 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (TPA)](https://jobright.ai/jobs/info/68f086251f624a7ec1cf39df?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 27 |
-| ↳ | **[Sales Intern (CBUS)](https://jobright.ai/jobs/info/68f08d991f624a7ec1cf403b?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
