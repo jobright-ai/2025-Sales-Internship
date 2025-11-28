@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/692934baf0beb0723263206e?utm_campaign=1051&utm_source=git)** | Missouri, United States | Remote | Nov 27 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6929263fd47de4798ece45ed?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Nov 27 |
+| **[TE Connectivity](http://www.te.com)** | **[SALES INTERN](https://jobright.ai/jobs/info/6929227591ceeb2e8a5470b7?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | Nov 27 |
+| ↳ | **[SALES OPS INTERN](https://jobright.ai/jobs/info/69291ef691ceeb2e8a54706c?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Nov 27 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/69291daa91ceeb2e8a54701f?utm_campaign=1051&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Nov 27 |
+| **[TE Connectivity](http://www.te.com)** | **[OEM Account Management Intern](https://jobright.ai/jobs/info/69291c18f0beb07232631e76?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Nov 27 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/692918d4d47de4798ece4476?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Nov 27 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69290151f0beb07232631af9?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Nov 27 |
 | **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913d50a1465e02904e97f66?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Nov 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Synthomer](https://www.synthomer.com)** | **[Leadership Development Program - Commercial Excellence](https://jobright.ai/jobs/info/68d424578c62e63bc7fe6170?utm_campaign=1051&utm_source=git)** | Mogadore, OH | On Site | Nov 27 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (TPA)](https://jobright.ai/jobs/info/68f086251f624a7ec1cf39df?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 27 |
 | ↳ | **[Sales Intern (CBUS)](https://jobright.ai/jobs/info/68f08d991f624a7ec1cf403b?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Nov 27 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/6922d160c0cefa13343d97cf?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Nov 27 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (ENC)](https://jobright.ai/jobs/info/68f08ce61f624a7ec1cf3f15?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
-| ↳ | **[Sales Intern (CLE)](https://jobright.ai/jobs/info/68f08cbf1f624a7ec1cf3ed3?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Nov 27 |
-| ↳ | **[Sales Intern (DC)](https://jobright.ai/jobs/info/68f085fd1f624a7ec1cf39c5?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Nov 27 |
-| ↳ | **[Sales Intern (BHM)](https://jobright.ai/jobs/info/68f0897ea6b9004b5e321139?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Nov 27 |
-| ↳ | **[Sales Intern (JAX)](https://jobright.ai/jobs/info/68f08b3ca6b9004b5e3213c0?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
