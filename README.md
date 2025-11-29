@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[O-HIVE.AI](https://www.O-Hive.ai)** | **[Business Development Intern](https://jobright.ai/jobs/info/692a783f4c474121999cc316?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Nov 28 |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692a62d94c474121999cc100?utm_campaign=1051&utm_source=git)** | Bullhead City, AZ | On Site | Nov 28 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692a628c4c474121999cc0d0?utm_campaign=1051&utm_source=git)** | Apache Junction, AZ | On Site | Nov 28 |
 | **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-Retail](https://jobright.ai/jobs/info/692a5e81fa28370be2696fcc?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Nov 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/68f330609a65fd3458584aa2?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Nov 28 |
 | ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/68f2517c65ce784c102f0244?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Nov 28 |
 | ↳ | **[Semester Sales Internship - University of Georgia](https://jobright.ai/jobs/info/68f26059af0b5a06b584cd00?utm_campaign=1051&utm_source=git)** | Athens, GA | Hybrid | Nov 28 |
-| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4a191ffc1276de3fdca9c?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Nov 28 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/68f15f87f462172a5a7d734b?utm_campaign=1051&utm_source=git)** | Columbia, MO | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
