@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/690e338b44146d3b6ec51de3?utm_campaign=1051&utm_source=git)** | Swedesboro, NJ | On Site | Nov 29 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690e3e5ad046ab6061cfb9d1?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Nov 29 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690e4afb221b890c2780c7b9?utm_campaign=1051&utm_source=git)** | Rogers, MN | On Site | Nov 29 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690e3e58d046ab6061cfb9d0?utm_campaign=1051&utm_source=git)** | Shawano, WI | On Site | Nov 29 |
+| ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/69228822c0cefa13343d8253?utm_campaign=1051&utm_source=git)** | Shawano, WI | On Site | Nov 29 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6912e386d1047e3565d00020?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 29 |
+| **[Vertex Inc.](https://www.vertexinc.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/692ada9dfa28370be2697bcb?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 29 |
+| **[Würth Industry USA](http://www.wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d5941639247e3c807ed19b?utm_campaign=1051&utm_source=git)** | Greenwood, FL | Hybrid | Nov 29 |
+| **[Atlassian](https://www.atlassian.com)** | **[Sales Development Representative Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68f2c0b39a63986de756be9d?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Nov 29 |
+| **[Steinhafels Furniture](http://steinhafels.com)** | **[Sales and Leadership Internship](https://jobright.ai/jobs/info/692ad7db66796e3028f8fa1a?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 29 |
+| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69227ee038cd5478a8d53dd3?utm_campaign=1051&utm_source=git)** | Gilroy, CA | On Site | Nov 29 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/690e3fd7221b890c2780c1bc?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Nov 29 |
+| **[SolarVue AI™](https://solarvue.ai)** | **[Strategic E-commerce Builder Intern: B2B Marketplace](https://jobright.ai/jobs/info/692ad01cfa28370be2697b56?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 29 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Customer Value Strategy](https://jobright.ai/jobs/info/690ecfe544146d3b6ec58005?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 29 |
+| **[Atlassian](https://www.atlassian.com)** | **[Sales Development Representative Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68f6fe939a63986de7584187?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Nov 29 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/691ab48abcdbf3560c9d9d20?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Nov 29 |
 | **[ABB](https://global.abb/group/en)** | **[Internship – Sales Administration M/F](https://jobright.ai/jobs/info/692ab7014c474121999cca08?utm_campaign=1051&utm_source=git)** | Location, WV | On Site | Nov 29 |
 | **[BASF](https://www.basf.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6918485115b415636718121e?utm_campaign=1051&utm_source=git)** | Peace River, Alberta, Canada | On Site | Nov 28 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/691d992749c9744234f1ef70?utm_campaign=1051&utm_source=git)** | Tisdale, Saskatchewan, Canada | On Site | Nov 28 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/68d4a6968c62e63bc7feb3f9?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Nov 28 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d450538c62e63bc7fe8317?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Nov 28 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4a6a28c62e63bc7feb407?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Nov 28 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4593d8c62e63bc7fe85ae?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 28 |
-| **[Hotchkiss Insurance](https://hotchkissinsurance.com/)** | **[Insurance Sales Internship](https://jobright.ai/jobs/info/68d593051f7fb2169ab11903?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 28 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6929e61ffa28370be2695a0a?utm_campaign=1051&utm_source=git)** | Edmundston, New Brunswick, Canada | Hybrid | Nov 28 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Gas Sales Intern - Telecommuter in PA, MD, or NC](https://jobright.ai/jobs/info/690cf52d221b890c278014d7?utm_campaign=1051&utm_source=git)** | Annapolis, MD | Remote | Nov 28 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68d4a2b3ffc1276de3fdcb75?utm_campaign=1051&utm_source=git)** | Charleston County, SC | On Site | Nov 28 |
-| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d449deffc1276de3fd9600?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 28 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Business Development Internship](https://jobright.ai/jobs/info/689bb1fd79a9f96662532cb0?utm_campaign=1051&utm_source=git)** | South Burlington, VT | On Site | Nov 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68b6686b1ade4306aa644cdd?utm_campaign=1051&utm_source=git)** | Gainesville, GA | On Site | Nov 28 |
-| **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68b79a9a1ade4306aa64c913?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Nov 28 |
-| **[Hotchkiss Insurance](https://hotchkissinsurance.com/)** | **[Insurance Sales Internship](https://jobright.ai/jobs/info/68d593a11f7fb2169ab11b33?utm_campaign=1051&utm_source=git)** | Carrollton, TX | On Site | Nov 28 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/68f13826e6870116b1f54ef7?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 28 |
-| **[Ibotta](https://home.ibotta.com)** | **[Client Partnerships (Sales) Intern](https://jobright.ai/jobs/info/68d605b22116ff37ee091d8a?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Nov 28 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Gas Sales Intern - Telecommuter in PA, MD, or NC](https://jobright.ai/jobs/info/690cf4fe4a1b456627b1bd30?utm_campaign=1051&utm_source=git)** | Harrisburg, PA | Remote | Nov 28 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Sales Internship](https://jobright.ai/jobs/info/6929ae6d4c474121999ca072?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Nov 28 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68d4a3acffc1276de3fdcc07?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Nov 28 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/69047bf063502c0aded7350f?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
