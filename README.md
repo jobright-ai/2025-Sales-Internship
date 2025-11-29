@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Internship – Sales Administration M/F](https://jobright.ai/jobs/info/692ab7014c474121999cca08?utm_campaign=1051&utm_source=git)** | Location, WV | On Site | Nov 29 |
 | **[BASF](https://www.basf.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6918485115b415636718121e?utm_campaign=1051&utm_source=git)** | Peace River, Alberta, Canada | On Site | Nov 28 |
 | ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/691d992749c9744234f1ef70?utm_campaign=1051&utm_source=git)** | Tisdale, Saskatchewan, Canada | On Site | Nov 28 |
 | **[O-HIVE.AI](https://www.O-Hive.ai)** | **[Business Development Intern](https://jobright.ai/jobs/info/692a783f4c474121999cc316?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valorantum Capital](valorantumcapital.us)** | **[Sales Internship](https://jobright.ai/jobs/info/6929ae6d4c474121999ca072?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Nov 28 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68d4a3acffc1276de3fdcc07?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Nov 28 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/69047bf063502c0aded7350f?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Nov 28 |
-| **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/68f330609a65fd3458584aa2?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
