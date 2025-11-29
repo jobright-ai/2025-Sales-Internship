@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BASF](https://www.basf.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6918485115b415636718121e?utm_campaign=1051&utm_source=git)** | Peace River, Alberta, Canada | On Site | Nov 28 |
+| ↳ | **[Summer Sales Intern](https://jobright.ai/jobs/info/691d992749c9744234f1ef70?utm_campaign=1051&utm_source=git)** | Tisdale, Saskatchewan, Canada | On Site | Nov 28 |
 | **[O-HIVE.AI](https://www.O-Hive.ai)** | **[Business Development Intern](https://jobright.ai/jobs/info/692a783f4c474121999cc316?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Nov 28 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692a62d94c474121999cc100?utm_campaign=1051&utm_source=git)** | Bullhead City, AZ | On Site | Nov 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68d4a3acffc1276de3fdcc07?utm_campaign=1051&utm_source=git)** | Sewickley, PA | On Site | Nov 28 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/69047bf063502c0aded7350f?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Nov 28 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Arizona State University](https://jobright.ai/jobs/info/68f330609a65fd3458584aa2?utm_campaign=1051&utm_source=git)** | Tempe, AZ | Hybrid | Nov 28 |
-| ↳ | **[Semester Sales Internship - University of Alabama](https://jobright.ai/jobs/info/68f2517c65ce784c102f0244?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Nov 28 |
-| ↳ | **[Semester Sales Internship - University of Georgia](https://jobright.ai/jobs/info/68f26059af0b5a06b584cd00?utm_campaign=1051&utm_source=git)** | Athens, GA | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
