@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Sales Internship](https://jobright.ai/jobs/info/692b4ed6fa28370be2698944?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | Remote | Nov 29 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea4d3221b890c27810334?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Nov 29 |
+| ↳ | **[2026 Internship Program: National Sales Intern](https://jobright.ai/jobs/info/690eb1be44146d3b6ec56daa?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Nov 29 |
+| **[StreetSmart](https://streetsmartcareers.com/)** | **[Business Development Intern (Undergrad Student)](https://jobright.ai/jobs/info/692b385366796e3028f904f2?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690eef8ad046ab6061d02390?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 29 |
 | **[Paycom](http://www.paycom.com)** | **[Client Success Manager Intern - Skillbridge](https://jobright.ai/jobs/info/68f2efa69a63986de756d552?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 29 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Orange County](https://jobright.ai/jobs/info/68cb729fba798c1a501cfa6c?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Nov 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Sales and Communication Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68b9e5836105227d11898fff?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Nov 29 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68b9dc3b6105227d1189867a?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Nov 29 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d5c7fc63d77d6f6f3f2434?utm_campaign=1051&utm_source=git)** | Sullivans Island, SC | On Site | Nov 29 |
-| ↳ | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d49ce1ffc1276de3fdc860?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - San Jose, CA](https://jobright.ai/jobs/info/690e70dad046ab6061cfdaa8?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Nov 29 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Gas Sales Intern - Telecommuter in VA](https://jobright.ai/jobs/info/68f319a59a65fd3458583c93?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Nov 29 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9dc5c6105227d11898692?utm_campaign=1051&utm_source=git)** | Worthing, SD | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
