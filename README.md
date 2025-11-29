@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexodus Inc](https://nexodus.biz)** | **[Sales Strategy Intern](https://jobright.ai/jobs/info/692a4bf04c474121999cbdfd?utm_campaign=1051&utm_source=git)** | Remote job | Remote | Nov 28 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/692a14734c474121999cb685?utm_campaign=1051&utm_source=git)** | Berwick, Nova Scotia, Canada | On Site | Nov 28 |
 | ↳ | **[Banking Advisor Intern - Royal Centre Vancouver Main Branch](https://jobright.ai/jobs/info/692a143cfa28370be26965a8?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 28 |
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/692a0d054c474121999cb48e?utm_campaign=1051&utm_source=git)** | Hamlin, IA | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Summer 2026](https://jobright.ai/jobs/info/68d623a4ebcef82ef5cf67eb?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Nov 28 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - University of Colorado - Boulder](https://jobright.ai/jobs/info/68f25285cb0abf15612f6c80?utm_campaign=1051&utm_source=git)** | Boulder, CO | Hybrid | Nov 28 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (SD)](https://jobright.ai/jobs/info/68f085d2eb273a32d97691e4?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 28 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Sales Internship - Summer 2026 (Denver, CO)](https://jobright.ai/jobs/info/68cd3903e23def7af55b6dbd?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
