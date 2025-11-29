@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5af6fa28370be2698acd?utm_campaign=1051&utm_source=git)** | Forrest City, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5ad9fa28370be2698ac8?utm_campaign=1051&utm_source=git)** | Bella Vista, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5a5466796e3028f9083b?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Nov 29 |
+| **[Algeco GmbH](https://www.algeco.de)** | **[Werkstudent Sales Support / CRM (m/w/d) – bundesweit / remote](https://jobright.ai/jobs/info/69201b813f782d2f1afc2e9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 29 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5a07fa28370be2698aa5?utm_campaign=1051&utm_source=git)** | North Little Rock, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59f0fa28370be2698a9c?utm_campaign=1051&utm_source=git)** | Hot Springs Village, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59d84c474121999cdb23?utm_campaign=1051&utm_source=git)** | Magnolia, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59cefa28370be2698a92?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b599f4c474121999cdb0e?utm_campaign=1051&utm_source=git)** | Bryant, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b599c4c474121999cdb0d?utm_campaign=1051&utm_source=git)** | Malvern, AR | On Site | Nov 29 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business operations trainee](https://jobright.ai/jobs/info/692b5683fa28370be2698a42?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Nov 29 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b535afa28370be2698a15?utm_campaign=1051&utm_source=git)** | West Memphis, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b527d4c474121999cda60?utm_campaign=1051&utm_source=git)** | Maumelle, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b525b4c474121999cda56?utm_campaign=1051&utm_source=git)** | Hot Springs, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b51784c474121999cda1a?utm_campaign=1051&utm_source=git)** | Cabot, AR | On Site | Nov 29 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Sales Internship](https://jobright.ai/jobs/info/692b4ed6fa28370be2698944?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | Remote | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea4d3221b890c27810334?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Nov 29 |
 | ↳ | **[2026 Internship Program: National Sales Intern](https://jobright.ai/jobs/info/690eb1be44146d3b6ec56daa?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Nov 29 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03d3fa28370be2698115?utm_campaign=1051&utm_source=git)** | Somerton, AZ | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03bdfa28370be269810b?utm_campaign=1051&utm_source=git)** | Sierra Vista Southeast, AZ | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03ad4c474121999cd160?utm_campaign=1051&utm_source=git)** | Eloy, AZ | On Site | Nov 29 |
-| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44b02ffc1276de3fd9766?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Nov 29 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b039e66796e3028f8fef0?utm_campaign=1051&utm_source=git)** | Flowing Wells, AZ | On Site | Nov 29 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/690b01f6bcccf20de59e7e0a?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Nov 29 |
-| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Assistant Buyer Intern - Los Angeles](https://jobright.ai/jobs/info/689e87cafaa4e875e827d79a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b036a66796e3028f8fee7?utm_campaign=1051&utm_source=git)** | Coolidge, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b036666796e3028f8fee6?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b035ffa28370be26980f5?utm_campaign=1051&utm_source=git)** | Drexel Heights, AZ | On Site | Nov 29 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/692b03474c474121999cd148?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Nov 29 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - South Florida](https://jobright.ai/jobs/info/6922b4617795cd460c836b46?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 29 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b031afa28370be26980e3?utm_campaign=1051&utm_source=git)** | El Mirage, AZ | On Site | Nov 29 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68ca4bac46caff4db51fcd7b?utm_campaign=1051&utm_source=git)** | Roseville, CA | On Site | Nov 29 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/692b0275fa28370be26980bf?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 29 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Sales and Communication Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68b9e5836105227d11898fff?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Nov 29 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68b9dc3b6105227d1189867a?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Nov 29 |
-| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d5c7fc63d77d6f6f3f2434?utm_campaign=1051&utm_source=git)** | Sullivans Island, SC | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
