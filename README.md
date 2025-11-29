@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692a62d94c474121999cc100?utm_campaign=1051&utm_source=git)** | Bullhead City, AZ | On Site | Nov 28 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692a628c4c474121999cc0d0?utm_campaign=1051&utm_source=git)** | Apache Junction, AZ | On Site | Nov 28 |
+| **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-Retail](https://jobright.ai/jobs/info/692a5e81fa28370be2696fcc?utm_campaign=1051&utm_source=git)** | St Cloud, MN | On Site | Nov 28 |
+| **[Trace3](http://trace3.com/)** | **[Technology Sales Intern](https://jobright.ai/jobs/info/690a78c84a1b456627b08289?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 28 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692a571866796e3028f8edbe?utm_campaign=1051&utm_source=git)** | Sierra Vista, AZ | On Site | Nov 28 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692a565e66796e3028f8ed6e?utm_campaign=1051&utm_source=git)** | Catalina Foothills, AZ | On Site | Nov 28 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692a53b64c474121999cbf15?utm_campaign=1051&utm_source=git)** | Oro Valley, AZ | On Site | Nov 28 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692a533366796e3028f8ed32?utm_campaign=1051&utm_source=git)** | Prescott Valley, AZ | On Site | Nov 28 |
 | **[Nexodus Inc](https://nexodus.biz)** | **[Sales Strategy Intern](https://jobright.ai/jobs/info/692a4bf04c474121999cbdfd?utm_campaign=1051&utm_source=git)** | Remote job | Remote | Nov 28 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/692a14734c474121999cb685?utm_campaign=1051&utm_source=git)** | Berwick, Nova Scotia, Canada | On Site | Nov 28 |
 | ↳ | **[Banking Advisor Intern - Royal Centre Vancouver Main Branch](https://jobright.ai/jobs/info/692a143cfa28370be26965a8?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Semester Sales Internship - University of Georgia](https://jobright.ai/jobs/info/68f26059af0b5a06b584cd00?utm_campaign=1051&utm_source=git)** | Athens, GA | Hybrid | Nov 28 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4a191ffc1276de3fdca9c?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Nov 28 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Sales Support](https://jobright.ai/jobs/info/68f15f87f462172a5a7d734b?utm_campaign=1051&utm_source=git)** | Columbia, MO | Hybrid | Nov 28 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d610521f7fb2169ab159ae?utm_campaign=1051&utm_source=git)** | Garland, TX | On Site | Nov 28 |
-| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d459848c62e63bc7fe863f?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Nov 28 |
-| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Spring 2026](https://jobright.ai/jobs/info/68d60ea763d77d6f6f3f4266?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Nov 28 |
-| **[Patterson-Kelley](http://harscopk.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6929a93efa28370be2694f4d?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Nov 28 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Sales Internship - Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/68b73470f4e41a61efd96827?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Nov 28 |
-| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Business Development Intern Summer 2026](https://jobright.ai/jobs/info/68d623a4ebcef82ef5cf67eb?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Nov 28 |
-| **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - University of Colorado - Boulder](https://jobright.ai/jobs/info/68f25285cb0abf15612f6c80?utm_campaign=1051&utm_source=git)** | Boulder, CO | Hybrid | Nov 28 |
-| **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (SD)](https://jobright.ai/jobs/info/68f085d2eb273a32d97691e4?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
