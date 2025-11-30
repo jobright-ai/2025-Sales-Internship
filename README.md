@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/691a88ab45fb6f5ead8abb8a?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Nov 30 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Individual Retirement Sales Desk](https://jobright.ai/jobs/info/68ef3bf920456578d5eb7601?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 30 |
+| **[SPORTFIVE](http://www.sportfive.com/)** | **[Corporate Partnerships & Client Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f175f4e6870116b1f5954f?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 30 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d7590f61a175619f8c9999?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 30 |
+| **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692c439cfa28370be269adcf?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Nov 30 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Intern - Buying or Planning - New York](https://jobright.ai/jobs/info/689e879c83d13d1f5b6bd61e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 30 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/684855ab7664b7262f85472a?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Nov 30 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70220894705799a2efb7d?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 30 |
+| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d8894705799a2ef985?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Nov 30 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Mid-OH)](https://jobright.ai/jobs/info/68c64f22db52c07d2884707f?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Nov 30 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d701c0894705799a2efaec?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 30 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5fc8043103d4f21ace6?utm_campaign=1051&utm_source=git)** | Wausa, NE | On Site | Nov 30 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fe3e894705799a2ef6e0?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 30 |
+| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70292894705799a2efc55?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 30 |
+| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d705f3d3fe025a3015e285?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 30 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/68bb7e7a6105227d118a65b6?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Nov 30 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Sales Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68f8a579a628d10664e84cdd?utm_campaign=1051&utm_source=git)** | Heathrow, FL | On Site | Nov 30 |
 | **[Kimball International](https://www.kimballinternational.com)** | **[Sales Intern- Jasper, IN](https://jobright.ai/jobs/info/690f4db7d046ab6061d0489f?utm_campaign=1051&utm_source=git)** | Jasper, IN | On Site | Nov 30 |
@@ -89,13 +104,12 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/68bb024b8043103d4f224d2a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
 | ↳ | **[Spring Jr. Executive Sales Intern - New York City](https://jobright.ai/jobs/info/68bb09168043103d4f225155?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Boston](https://jobright.ai/jobs/info/68ca2e0cf16e3266d2823a29?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 29 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Sales Internship](https://jobright.ai/jobs/info/692b234d4c474121999cd50b?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | Remote | Nov 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68d746a6f9dbe42bf62c0e51?utm_campaign=1051&utm_source=git)** | Suffolk, VA | On Site | Nov 29 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea9ae221b890c2781070f?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Nov 29 |
 | ↳ | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea737221b890c278104ee?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 29 |
 | ↳ | **[2026 Internship Program: Purchasing Intern](https://jobright.ai/jobs/info/690ea6cc44146d3b6ec56696?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Nov 29 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68c63e01db52c07d28845dbd?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Nov 29 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68c63e01db52c07d28845dbd?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Nov 29 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68f89197a628d10664e84202?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea7dcd046ab6061cffcd9?utm_campaign=1051&utm_source=git)** | Grapevine, TX | On Site | Nov 29 |
 | **[Tom James Company](http://www.tomjames.com)** | **[Semester Sales Internship - Bloomsburg](https://jobright.ai/jobs/info/68f3343676a51a4307bcc03e?utm_campaign=1051&utm_source=git)** | Bloomsburg, PA | Hybrid | Nov 29 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b051c4c474121999cd1b1?utm_campaign=1051&utm_source=git)** | Chino Valley, AZ | On Site | Nov 29 |
 | **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Business Development & Strategy](https://jobright.ai/jobs/info/69045aaaff462851feff4cdc?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 29 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b05004c474121999cd1ac?utm_campaign=1051&utm_source=git)** | Fort Mohave, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b04df66796e3028f8ff39?utm_campaign=1051&utm_source=git)** | Gold Canyon, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b04c7fa28370be2698149?utm_campaign=1051&utm_source=git)** | Nogales, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b04bc66796e3028f8ff31?utm_campaign=1051&utm_source=git)** | Tucson Estates, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b049c4c474121999cd18d?utm_campaign=1051&utm_source=git)** | Saddlebrooke, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b0485fa28370be269813a?utm_campaign=1051&utm_source=git)** | New Kingman-Butler, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b047ffa28370be2698136?utm_campaign=1051&utm_source=git)** | Show Low, AZ | On Site | Nov 29 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - Murfreesboro, TN](https://jobright.ai/jobs/info/690e7ada221b890c2780e84e?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Nov 29 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b0457fa28370be269812f?utm_campaign=1051&utm_source=git)** | Sun City, AZ | On Site | Nov 29 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern - Charlotte South](https://jobright.ai/jobs/info/68d77a84295f8e37655dad0a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 29 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5505f38327491861473?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Nov 29 |
-| **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Sales Internship - 2026](https://jobright.ai/jobs/info/68d59e4714935e31e231a601?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Nov 29 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03fb4c474121999cd175?utm_campaign=1051&utm_source=git)** | Sun Lakes, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03edfa28370be269811d?utm_campaign=1051&utm_source=git)** | Camp Verde, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03e3fa28370be2698119?utm_campaign=1051&utm_source=git)** | Fountain Hills, AZ | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
