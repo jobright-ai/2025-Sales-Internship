@@ -67,8 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59cefa28370be2698a92?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b599f4c474121999cdb0e?utm_campaign=1051&utm_source=git)** | Bryant, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b599c4c474121999cdb0d?utm_campaign=1051&utm_source=git)** | Malvern, AR | On Site | Nov 29 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business operations trainee](https://jobright.ai/jobs/info/692b5683fa28370be2698a42?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Nov 29 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b535afa28370be2698a15?utm_campaign=1051&utm_source=git)** | West Memphis, AR | On Site | Nov 29 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b535afa28370be2698a15?utm_campaign=1051&utm_source=git)** | West Memphis, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b527d4c474121999cda60?utm_campaign=1051&utm_source=git)** | Maumelle, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b525b4c474121999cda56?utm_campaign=1051&utm_source=git)** | Hot Springs, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b51784c474121999cda1a?utm_campaign=1051&utm_source=git)** | Cabot, AR | On Site | Nov 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03bdfa28370be269810b?utm_campaign=1051&utm_source=git)** | Sierra Vista Southeast, AZ | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03ad4c474121999cd160?utm_campaign=1051&utm_source=git)** | Eloy, AZ | On Site | Nov 29 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44b02ffc1276de3fd9766?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Nov 29 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b039e66796e3028f8fef0?utm_campaign=1051&utm_source=git)** | Flowing Wells, AZ | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
