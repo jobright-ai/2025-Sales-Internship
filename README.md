@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/692c98664c474121999d049c?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 30 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/692c984e4c474121999d0495?utm_campaign=1051&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Nov 30 |
+| **[Swiss Finance](https://www.swissfinance.com/)** | **[Investment Banking Intern (Institutional Sales)](https://jobright.ai/jobs/info/692c94b84c474121999d040b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 30 |
+| **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Proposal engineer intern](https://jobright.ai/jobs/info/692c8b2066796e3028f930a0?utm_campaign=1051&utm_source=git)** | Cleveland, OH | Remote | Nov 30 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 30 |
 | **[InComm Payments](https://www.incomm.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/690fe4d1bb519377733e9e14?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 30 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/689e6981faa4e875e827bfe6?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Nov 30 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship, Store Management - Garden City, NY](https://jobright.ai/jobs/info/692c5f91fa28370be269b015?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Nov 30 |
 | **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2026](https://jobright.ai/jobs/info/68d710e3d3fe025a3015e9e0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c5f56fa28370be269b009?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Nov 30 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c5f3efa28370be269b002?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Nov 30 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c5f3efa28370be269b001?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c5f3efa28370be269b002?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Nov 30 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Dallas](https://jobright.ai/jobs/info/68cce84d77add66568abbd13?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 30 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c5de44c474121999d0058?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 30 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - New England](https://jobright.ai/jobs/info/68bb06ef6105227d118a26c9?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Jr. Executive Sales Intern - Boston](https://jobright.ai/jobs/info/68ca2e0cf16e3266d2823a29?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68d746a6f9dbe42bf62c0e51?utm_campaign=1051&utm_source=git)** | Suffolk, VA | On Site | Nov 29 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 29 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea9ae221b890c2781070f?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Nov 29 |
-| ↳ | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea737221b890c278104ee?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 29 |
-| ↳ | **[2026 Internship Program: Purchasing Intern](https://jobright.ai/jobs/info/690ea6cc44146d3b6ec56696?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Nov 29 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68c63e01db52c07d28845dbd?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
