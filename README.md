@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPX Technologies](https://www.spx.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/68bb7e7a6105227d118a65b6?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Nov 30 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Sales Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68f8a579a628d10664e84cdd?utm_campaign=1051&utm_source=git)** | Heathrow, FL | On Site | Nov 30 |
+| **[Kimball International](https://www.kimballinternational.com)** | **[Sales Intern- Jasper, IN](https://jobright.ai/jobs/info/690f4db7d046ab6061d0489f?utm_campaign=1051&utm_source=git)** | Jasper, IN | On Site | Nov 30 |
+| **[PeopleLens](https://peoplelens.ai)** | **[Sales Development Intern (Winter 2025)](https://jobright.ai/jobs/info/692c157e66796e3028f927a3?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 30 |
 | **[Hawx Smart Pest Control](https://www.hawxpestcontrol.com)** | **[Summer Internship - (Paid + Housing Provided)](https://jobright.ai/jobs/info/692bf275fa28370be269a566?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Nov 29 |
 | **[Qualer, Now a MasterControl Company](https://qualer.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/692be70266796e3028f92115?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 29 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5af6fa28370be2698acd?utm_campaign=1051&utm_source=git)** | Forrest City, AR | On Site | Nov 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03fb4c474121999cd175?utm_campaign=1051&utm_source=git)** | Sun Lakes, AZ | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03edfa28370be269811d?utm_campaign=1051&utm_source=git)** | Camp Verde, AZ | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03e3fa28370be2698119?utm_campaign=1051&utm_source=git)** | Fountain Hills, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03de4c474121999cd16c?utm_campaign=1051&utm_source=git)** | Safford, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03d3fa28370be2698115?utm_campaign=1051&utm_source=git)** | Somerton, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03bdfa28370be269810b?utm_campaign=1051&utm_source=git)** | Sierra Vista Southeast, AZ | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03ad4c474121999cd160?utm_campaign=1051&utm_source=git)** | Eloy, AZ | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
