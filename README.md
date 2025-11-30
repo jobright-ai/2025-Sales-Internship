@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hawx Smart Pest Control](https://www.hawxpestcontrol.com)** | **[Summer Internship - (Paid + Housing Provided)](https://jobright.ai/jobs/info/692bf275fa28370be269a566?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Nov 29 |
+| **[Qualer, Now a MasterControl Company](https://qualer.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/692be70266796e3028f92115?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 29 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5af6fa28370be2698acd?utm_campaign=1051&utm_source=git)** | Forrest City, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5ad9fa28370be2698ac8?utm_campaign=1051&utm_source=git)** | Bella Vista, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5a5466796e3028f9083b?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Nov 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03d3fa28370be2698115?utm_campaign=1051&utm_source=git)** | Somerton, AZ | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03bdfa28370be269810b?utm_campaign=1051&utm_source=git)** | Sierra Vista Southeast, AZ | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03ad4c474121999cd160?utm_campaign=1051&utm_source=git)** | Eloy, AZ | On Site | Nov 29 |
-| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44b02ffc1276de3fd9766?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Nov 29 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b039e66796e3028f8fef0?utm_campaign=1051&utm_source=git)** | Flowing Wells, AZ | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
