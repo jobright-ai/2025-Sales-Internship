@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cb7bb66796e3028f934cc?utm_campaign=1051&utm_source=git)** | Pomona, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cadc2fa28370be269b682?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cad60fa28370be269b667?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cad5cfa28370be269b666?utm_campaign=1051&utm_source=git)** | Salinas, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692caba74c474121999d065e?utm_campaign=1051&utm_source=git)** | Victorville, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cab964c474121999d0659?utm_campaign=1051&utm_source=git)** | Torrance, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cab2e66796e3028f93387?utm_campaign=1051&utm_source=git)** | Visalia, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cab1d66796e3028f9337d?utm_campaign=1051&utm_source=git)** | Fullerton, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692ca51e4c474121999d0595?utm_campaign=1051&utm_source=git)** | Oceanside, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692ca1e24c474121999d0558?utm_campaign=1051&utm_source=git)** | Palmdale, CA | On Site | Nov 30 |
 | **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/692c98664c474121999d049c?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 30 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/692c984e4c474121999d0495?utm_campaign=1051&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Nov 30 |
 | **[Swiss Finance](https://www.swissfinance.com/)** | **[Investment Banking Intern (Institutional Sales)](https://jobright.ai/jobs/info/692c94b84c474121999d040b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 30 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea4d3221b890c27810334?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Nov 29 |
 | ↳ | **[2026 Internship Program: National Sales Intern](https://jobright.ai/jobs/info/690eb1be44146d3b6ec56daa?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Nov 29 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690eef8ad046ab6061d02390?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 29 |
-| **[Paycom](http://www.paycom.com)** | **[Client Success Manager Intern - Skillbridge](https://jobright.ai/jobs/info/68f2efa69a63986de756d552?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 29 |
-| ↳ | **[Spring Jr. Executive Sales Intern - Orange County](https://jobright.ai/jobs/info/68cb729fba798c1a501cfa6c?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Nov 29 |
-| ↳ | **[Spring Jr. Executive Sales Intern - Philadelphia](https://jobright.ai/jobs/info/68ccd82d5954791a1d6ff860?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Nov 29 |
-| ↳ | **[Spring Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68cf41c1846f0b04af67ff30?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Nov 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Business to Business Sales Internship Romulus](https://jobright.ai/jobs/info/68f2f8139a65fd3458582570?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Nov 29 |
-| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Milwaukee](https://jobright.ai/jobs/info/68bb024b8043103d4f224d2a?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
-| ↳ | **[Spring Jr. Executive Sales Intern - New York City](https://jobright.ai/jobs/info/68bb09168043103d4f225155?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 29 |
-| ↳ | **[Spring Jr. Executive Sales Intern - Boston](https://jobright.ai/jobs/info/68ca2e0cf16e3266d2823a29?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68d746a6f9dbe42bf62c0e51?utm_campaign=1051&utm_source=git)** | Suffolk, VA | On Site | Nov 29 |
-| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
