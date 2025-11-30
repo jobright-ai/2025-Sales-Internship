@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 30 |
+| **[InComm Payments](https://www.incomm.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/690fe4d1bb519377733e9e14?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 30 |
+| **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/689e6981faa4e875e827bfe6?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Nov 30 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/692c667dfa28370be269b078?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Nov 30 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Columbus](https://jobright.ai/jobs/info/68bb016a5f3832749186b5a1?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Nov 30 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c601dfa28370be269b01f?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Nov 30 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b527d4c474121999cda60?utm_campaign=1051&utm_source=git)** | Maumelle, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b525b4c474121999cda56?utm_campaign=1051&utm_source=git)** | Hot Springs, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b51784c474121999cda1a?utm_campaign=1051&utm_source=git)** | Cabot, AR | On Site | Nov 29 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Sales Internship](https://jobright.ai/jobs/info/692b4ed6fa28370be2698944?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | Remote | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea4d3221b890c27810334?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Nov 29 |
 | ↳ | **[2026 Internship Program: National Sales Intern](https://jobright.ai/jobs/info/690eb1be44146d3b6ec56daa?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Nov 29 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690eef8ad046ab6061d02390?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea737221b890c278104ee?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Nov 29 |
 | ↳ | **[2026 Internship Program: Purchasing Intern](https://jobright.ai/jobs/info/690ea6cc44146d3b6ec56696?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Nov 29 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68c63e01db52c07d28845dbd?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Nov 29 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68f89197a628d10664e84202?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 29 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea7dcd046ab6061cffcd9?utm_campaign=1051&utm_source=git)** | Grapevine, TX | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
