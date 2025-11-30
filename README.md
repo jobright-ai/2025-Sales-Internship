@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Sales Internship](https://jobright.ai/jobs/info/692b4ed6fa28370be2698944?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | Remote | Nov 29 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea4d3221b890c27810334?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Nov 29 |
 | ↳ | **[2026 Internship Program: National Sales Intern](https://jobright.ai/jobs/info/690eb1be44146d3b6ec56daa?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Nov 29 |
-| **[StreetSmart](https://streetsmartcareers.com/)** | **[Business Development Intern (Undergrad Student)](https://jobright.ai/jobs/info/692b385366796e3028f904f2?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690eef8ad046ab6061d02390?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 29 |
 | **[Paycom](http://www.paycom.com)** | **[Client Success Manager Intern - Skillbridge](https://jobright.ai/jobs/info/68f2efa69a63986de756d552?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 29 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Orange County](https://jobright.ai/jobs/info/68cb729fba798c1a501cfa6c?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Nov 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03d3fa28370be2698115?utm_campaign=1051&utm_source=git)** | Somerton, AZ | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03bdfa28370be269810b?utm_campaign=1051&utm_source=git)** | Sierra Vista Southeast, AZ | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b03ad4c474121999cd160?utm_campaign=1051&utm_source=git)** | Eloy, AZ | On Site | Nov 29 |
+| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44b02ffc1276de3fd9766?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
