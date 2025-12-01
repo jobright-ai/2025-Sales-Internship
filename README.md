@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inmar Intelligence](http://www.inmar.com)** | **[Sales Intern, Digital & Media Sales Team, Summer 2026](https://jobright.ai/jobs/info/692cd7af4c474121999d097e?utm_campaign=1051&utm_source=git)** | 6116 - Chicago, IL | On Site | Nov 30 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/692cd3b6fa28370be269b908?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Nov 30 |
+| **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/692ccf594c474121999d0906?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Nov 30 |
+| **[Dynamic Gurus](dynamicmarketinggurus.com)** | **[Sales Intern](https://jobright.ai/jobs/info/692cceac4c474121999d08bf?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Nov 30 |
+| **[TEACH Together Educating All Children In Hospitals](https://www.teach4kids.org/)** | **[Expansion Intern](https://jobright.ai/jobs/info/692cc8b666796e3028f935c1?utm_campaign=1051&utm_source=git)** | Staten Island, NY | On Site | Nov 30 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cb7bb66796e3028f934cc?utm_campaign=1051&utm_source=git)** | Pomona, CA | On Site | Nov 30 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cadc2fa28370be269b682?utm_campaign=1051&utm_source=git)** | Escondido, CA | On Site | Nov 30 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cad60fa28370be269b667?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Nov 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b599c4c474121999cdb0d?utm_campaign=1051&utm_source=git)** | Malvern, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b535afa28370be2698a15?utm_campaign=1051&utm_source=git)** | West Memphis, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b527d4c474121999cda60?utm_campaign=1051&utm_source=git)** | Maumelle, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b525b4c474121999cda56?utm_campaign=1051&utm_source=git)** | Hot Springs, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b51784c474121999cda1a?utm_campaign=1051&utm_source=git)** | Cabot, AR | On Site | Nov 29 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Sales Intern](https://jobright.ai/jobs/info/690ea4d3221b890c27810334?utm_campaign=1051&utm_source=git)** | Meridian, ID | On Site | Nov 29 |
-| ↳ | **[2026 Internship Program: National Sales Intern](https://jobright.ai/jobs/info/690eb1be44146d3b6ec56daa?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Nov 29 |
-| **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690eef8ad046ab6061d02390?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
