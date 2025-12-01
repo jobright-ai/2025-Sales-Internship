@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d5d2d4c474121999d198a?utm_campaign=1051&utm_source=git)** | Vallejo, CA | On Site | Dec 01 |
+| **[Simular](https://simular.ai)** | **[GTM Intern](https://jobright.ai/jobs/info/692d806666796e3028f94efa?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 01 |
+| **[Hoosier Energy](https://www.hoosierenergy.com/)** | **[Member Solutions Internship](https://jobright.ai/jobs/info/692d8024fa28370be269d199?utm_campaign=1051&utm_source=git)** | Bloomington, IN | Hybrid | Dec 01 |
+| **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Dec 01 |
+| ↳ | **[Purchasing Intern](https://jobright.ai/jobs/info/69197cd445fb6f5ead8a8e2f?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Dec 01 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Artist Partnerships Intern](https://jobright.ai/jobs/info/692d76ae66796e3028f94cfa?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA | On Site | Dec 01 |
+| **[Orbient 24](orbient24.us)** | **[Small Business Sales Advisor Intern](https://jobright.ai/jobs/info/692d69e766796e3028f94969?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Dec 01 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/692d66944c474121999d1b7f?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Dec 01 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d60f04c474121999d1a51?utm_campaign=1051&utm_source=git)** | Murrieta, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d5d2d4c474121999d198a?utm_campaign=1051&utm_source=git)** | Vallejo, CA | On Site | Dec 01 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d5c9966796e3028f946d0?utm_campaign=1051&utm_source=git)** | Menifee, CA | On Site | Dec 01 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d5c00fa28370be269c90e?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Dec 01 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d5ba3fa28370be269c8e1?utm_campaign=1051&utm_source=git)** | Temecula, CA | On Site | Dec 01 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Artist Partnerships Intern](https://jobright.ai/jobs/info/692d6fbf4c474121999d1e29?utm_campaign=1051&utm_source=git)** | Beverly Hills, CA, USA | On Site | Dec 01 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d663166796e3028f948ae?utm_campaign=1051&utm_source=git)** | Thousand Oaks, CA | On Site | Nov 30 |
 | **[PlayStation](https://www.playstation.com/)** | **[Peripheral Licensing Intern - MBA](https://jobright.ai/jobs/info/68ef29d5230ae70a14c410f0?utm_campaign=1051&utm_source=git)** | United States of America | On Site | Nov 30 |
 | **[Hawx Smart Pest Control](https://www.hawxpestcontrol.com)** | **[Summer D2D Sales – Highest Paying Internship on LinkedIn ($50k–$150k)](https://jobright.ai/jobs/info/692d3121fa28370be269c1be?utm_campaign=1051&utm_source=git)** | Stillwater, OK | On Site | Nov 30 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692d2ac6fa28370be269c13e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 30 |
@@ -137,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Individual Retirement Sales Desk](https://jobright.ai/jobs/info/68ef3bf920456578d5eb7601?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Nov 30 |
 | **[SPORTFIVE](http://www.sportfive.com/)** | **[Corporate Partnerships & Client Services Intern (Spring 2026)](https://jobright.ai/jobs/info/68f175f4e6870116b1f5954f?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 30 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68d7590f61a175619f8c9999?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Nov 30 |
-| **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692c439cfa28370be269adcf?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Nov 30 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Intern - Buying or Planning - New York](https://jobright.ai/jobs/info/689e879c83d13d1f5b6bd61e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/684855ab7664b7262f85472a?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Nov 30 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70220894705799a2efb7d?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 30 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fe3e894705799a2ef6e0?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 30 |
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70292894705799a2efc55?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 30 |
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d705f3d3fe025a3015e285?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 30 |
-| **[SPX Technologies](https://www.spx.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/68bb7e7a6105227d118a65b6?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Nov 30 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Sales Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68f8a579a628d10664e84cdd?utm_campaign=1051&utm_source=git)** | Heathrow, FL | On Site | Nov 30 |
-| **[Kimball International](https://www.kimballinternational.com)** | **[Sales Intern- Jasper, IN](https://jobright.ai/jobs/info/690f4db7d046ab6061d0489f?utm_campaign=1051&utm_source=git)** | Jasper, IN | On Site | Nov 30 |
-| **[PeopleLens](https://peoplelens.ai)** | **[Sales Development Intern (Winter 2025)](https://jobright.ai/jobs/info/692c157e66796e3028f927a3?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 30 |
-| **[Qualer, Now a MasterControl Company](https://qualer.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/692be70266796e3028f92115?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 29 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5af6fa28370be2698acd?utm_campaign=1051&utm_source=git)** | Forrest City, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5ad9fa28370be2698ac8?utm_campaign=1051&utm_source=git)** | Bella Vista, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5a5466796e3028f9083b?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Nov 29 |
-| **[Algeco GmbH](https://www.algeco.de)** | **[Werkstudent Sales Support / CRM (m/w/d) – bundesweit / remote](https://jobright.ai/jobs/info/69201b813f782d2f1afc2e9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
