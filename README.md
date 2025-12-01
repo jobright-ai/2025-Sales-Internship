@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PlayStation](https://www.playstation.com/)** | **[Peripheral Licensing Intern - MBA](https://jobright.ai/jobs/info/68ef29d5230ae70a14c410f0?utm_campaign=1051&utm_source=git)** | United States of America | On Site | Nov 30 |
+| **[Hawx Smart Pest Control](https://www.hawxpestcontrol.com)** | **[Summer D2D Sales – Highest Paying Internship on LinkedIn ($50k–$150k)](https://jobright.ai/jobs/info/692d3121fa28370be269c1be?utm_campaign=1051&utm_source=git)** | Stillwater, OK | On Site | Nov 30 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692d2ac6fa28370be269c13e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 30 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692d292a4c474121999d1131?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Nov 30 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692d29174c474121999d112d?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 30 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Jr. Executive Sales Intern - Oklahoma City](https://jobright.ai/jobs/info/68cfd18a846f0b04af685568?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Nov 30 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Ft. Worth](https://jobright.ai/jobs/info/68bb02de8043103d4f224d94?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Nov 30 |
 | ↳ | **[Spring Jr. Executive Sales Intern - San Diego](https://jobright.ai/jobs/info/68bb012f8043103d4f224c9b?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 30 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Private, Personal, and Digital Banking](https://jobright.ai/jobs/info/690c9a874a1b456627b19a48?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Business to Business Sales Internship Warren](https://jobright.ai/jobs/info/68f2f5e39a63986de756d777?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Outside Sales Internship - Newton, MA](https://jobright.ai/jobs/info/68ad3a9c758f2e4ac300bdf3?utm_campaign=1051&utm_source=git)** | Newton, MA | On Site | Nov 30 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - New Orleans](https://jobright.ai/jobs/info/68bb025f8043103d4f224d40?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Nov 30 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Cohesity](https://www.cohesity.com/)** | **[Sales Engineer Intern- Summer 2026](https://jobright.ai/jobs/info/68f8a579a628d10664e84cdd?utm_campaign=1051&utm_source=git)** | Heathrow, FL | On Site | Nov 30 |
 | **[Kimball International](https://www.kimballinternational.com)** | **[Sales Intern- Jasper, IN](https://jobright.ai/jobs/info/690f4db7d046ab6061d0489f?utm_campaign=1051&utm_source=git)** | Jasper, IN | On Site | Nov 30 |
 | **[PeopleLens](https://peoplelens.ai)** | **[Sales Development Intern (Winter 2025)](https://jobright.ai/jobs/info/692c157e66796e3028f927a3?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 30 |
-| **[Hawx Smart Pest Control](https://www.hawxpestcontrol.com)** | **[Summer Internship - (Paid + Housing Provided)](https://jobright.ai/jobs/info/692bf275fa28370be269a566?utm_campaign=1051&utm_source=git)** | La Crosse, WI | On Site | Nov 29 |
 | **[Qualer, Now a MasterControl Company](https://qualer.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/692be70266796e3028f92115?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Nov 29 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5af6fa28370be2698acd?utm_campaign=1051&utm_source=git)** | Forrest City, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5ad9fa28370be2698ac8?utm_campaign=1051&utm_source=git)** | Bella Vista, AR | On Site | Nov 29 |
