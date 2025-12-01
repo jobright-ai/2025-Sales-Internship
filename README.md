@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692d2ac6fa28370be269c13e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 30 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692d292a4c474121999d1131?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Nov 30 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692d29174c474121999d112d?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 30 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Sales Intern, Digital & Media Sales Team, Summer 2026](https://jobright.ai/jobs/info/692d0097fa28370be269bd62?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 30 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/692cedfe66796e3028f9390c?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Nov 30 |
 | **[Compass](http://www.compass.com)** | **[Intern](https://jobright.ai/jobs/info/692ceaa366796e3028f9389f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Nov 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59f0fa28370be2698a9c?utm_campaign=1051&utm_source=git)** | Hot Springs Village, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59d84c474121999cdb23?utm_campaign=1051&utm_source=git)** | Magnolia, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59cefa28370be2698a92?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b599f4c474121999cdb0e?utm_campaign=1051&utm_source=git)** | Bryant, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b599c4c474121999cdb0d?utm_campaign=1051&utm_source=git)** | Malvern, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b535afa28370be2698a15?utm_campaign=1051&utm_source=git)** | West Memphis, AR | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
