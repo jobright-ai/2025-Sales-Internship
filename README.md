@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d5d2d4c474121999d198a?utm_campaign=1051&utm_source=git)** | Vallejo, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d5c9966796e3028f946d0?utm_campaign=1051&utm_source=git)** | Menifee, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d5c00fa28370be269c90e?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692d5ba3fa28370be269c8e1?utm_campaign=1051&utm_source=git)** | Temecula, CA | On Site | Dec 01 |
 | **[PlayStation](https://www.playstation.com/)** | **[Peripheral Licensing Intern - MBA](https://jobright.ai/jobs/info/68ef29d5230ae70a14c410f0?utm_campaign=1051&utm_source=git)** | United States of America | On Site | Nov 30 |
 | **[Hawx Smart Pest Control](https://www.hawxpestcontrol.com)** | **[Summer D2D Sales – Highest Paying Internship on LinkedIn ($50k–$150k)](https://jobright.ai/jobs/info/692d3121fa28370be269c1be?utm_campaign=1051&utm_source=git)** | Stillwater, OK | On Site | Nov 30 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692d2ac6fa28370be269c13e?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 30 |
@@ -64,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692d29174c474121999d112d?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 30 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Sales Intern, Digital & Media Sales Team, Summer 2026](https://jobright.ai/jobs/info/692d0097fa28370be269bd62?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 30 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/692cedfe66796e3028f9390c?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Nov 30 |
-| **[Compass](http://www.compass.com)** | **[Intern](https://jobright.ai/jobs/info/692ceaa366796e3028f9389f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Nov 30 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Sales Intern, Digital & Media Sales Team, Summer 2026](https://jobright.ai/jobs/info/692cd7af4c474121999d097e?utm_campaign=1051&utm_source=git)** | 6116 - Chicago, IL | On Site | Nov 30 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/692cd3b6fa28370be269b908?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Nov 30 |
 | **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/692ccf594c474121999d0906?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Nov 30 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship, Store Management - Garden City, NY](https://jobright.ai/jobs/info/692c5f91fa28370be269b015?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Nov 30 |
 | **[Citi](https://www.citi.com)** | **[Services - Summer Analyst Program, New York City - US, 2026](https://jobright.ai/jobs/info/68d710e3d3fe025a3015e9e0?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c5f56fa28370be269b009?utm_campaign=1051&utm_source=git)** | Garden Grove, CA | On Site | Nov 30 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c5f3efa28370be269b002?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Nov 30 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c5f3efa28370be269b001?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Nov 30 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c5f3efa28370be269b002?utm_campaign=1051&utm_source=git)** | Corona, CA | On Site | Nov 30 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Dallas](https://jobright.ai/jobs/info/68cce84d77add66568abbd13?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Nov 30 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c5de44c474121999d0058?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Nov 30 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - New England](https://jobright.ai/jobs/info/68bb06ef6105227d118a26c9?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Nov 30 |
@@ -123,6 +126,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring Jr. Executive Sales Intern - San Diego](https://jobright.ai/jobs/info/68bb012f8043103d4f224c9b?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Business to Business Sales Internship Warren](https://jobright.ai/jobs/info/68f2f5e39a63986de756d777?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Nov 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Outside Sales Internship - Newton, MA](https://jobright.ai/jobs/info/68ad3a9c758f2e4ac300bdf3?utm_campaign=1051&utm_source=git)** | Newton, MA | On Site | Nov 30 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/692d5fa466796e3028f94726?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 30 |
 | **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - New Orleans](https://jobright.ai/jobs/info/68bb025f8043103d4f224d40?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Nov 30 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Cleveland](https://jobright.ai/jobs/info/68ccd968d11b445e0bee2d76?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Nov 30 |
 | ↳ | **[Spring Jr. Executive Sales Intern - Indianapolis](https://jobright.ai/jobs/info/68cfe9d8dbd9fb154edebd02?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Nov 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5ad9fa28370be2698ac8?utm_campaign=1051&utm_source=git)** | Bella Vista, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5a5466796e3028f9083b?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Nov 29 |
 | **[Algeco GmbH](https://www.algeco.de)** | **[Werkstudent Sales Support / CRM (m/w/d) – bundesweit / remote](https://jobright.ai/jobs/info/69201b813f782d2f1afc2e9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Nov 29 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b5a07fa28370be2698aa5?utm_campaign=1051&utm_source=git)** | North Little Rock, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59f0fa28370be2698a9c?utm_campaign=1051&utm_source=git)** | Hot Springs Village, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59d84c474121999cdb23?utm_campaign=1051&utm_source=git)** | Magnolia, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59cefa28370be2698a92?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
