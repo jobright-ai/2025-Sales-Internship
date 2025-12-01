@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales and Leadership Intern](https://jobright.ai/jobs/info/692cedfe66796e3028f9390c?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Nov 30 |
+| **[Compass](http://www.compass.com)** | **[Intern](https://jobright.ai/jobs/info/692ceaa366796e3028f9389f?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Nov 30 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Sales Intern, Digital & Media Sales Team, Summer 2026](https://jobright.ai/jobs/info/692cd7af4c474121999d097e?utm_campaign=1051&utm_source=git)** | 6116 - Chicago, IL | On Site | Nov 30 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales & Leadership Summer Internship](https://jobright.ai/jobs/info/692cd3b6fa28370be269b908?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Nov 30 |
 | **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/692ccf594c474121999d0906?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b59cefa28370be2698a92?utm_campaign=1051&utm_source=git)** | Benton, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b599f4c474121999cdb0e?utm_campaign=1051&utm_source=git)** | Bryant, AR | On Site | Nov 29 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b599c4c474121999cdb0d?utm_campaign=1051&utm_source=git)** | Malvern, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b535afa28370be2698a15?utm_campaign=1051&utm_source=git)** | West Memphis, AR | On Site | Nov 29 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692b527d4c474121999cda60?utm_campaign=1051&utm_source=git)** | Maumelle, AR | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
