@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Internship - B2B Sales](https://jobright.ai/jobs/info/692e0957ef4b48533d13be59?utm_campaign=1051&utm_source=git)** | Boston, MA | Remote | Dec 01 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e08feef4b48533d13be1d?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e0891fa28370be26a0892?utm_campaign=1051&utm_source=git)** | Inglewood, CA | On Site | Dec 01 |
+| **[iMpact - 美讯](https://ecoinst.ca)** | **[Account Executive Intern](https://jobright.ai/jobs/info/692e07584c474121999d5747?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e05404c474121999d5564?utm_campaign=1051&utm_source=git)** | Merced, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e0059fa28370be26a02b9?utm_campaign=1051&utm_source=git)** | Daly City, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692dfd2f4c474121999d501b?utm_campaign=1051&utm_source=git)** | Tracy, CA | On Site | Dec 01 |
+| **[Bayer](https://www.bayer.com)** | **[Crop Science Sales Intern](https://jobright.ai/jobs/info/692dfadf4c474121999d4e3e?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 01 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBCU Local Bay Area - Sales Intern - Summer 2026](https://jobright.ai/jobs/info/692df63eef4b48533d13b1a3?utm_campaign=1051&utm_source=git)** | 360 Third Street Suite 200, San Francisco, CALIFORNIA | Hybrid | Dec 01 |
+| **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/692df25bef4b48533d13aef2?utm_campaign=1051&utm_source=git)** | Florida, USA | On Site | Dec 01 |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Intern (Hybrid)](https://jobright.ai/jobs/info/6925517cd47de4798eccf435?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Dec 01 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Store Operations](https://jobright.ai/jobs/info/68be9e273d31ec76b7e8b227?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Dec 01 |
 | **[Voltpost](https://www.voltpost.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/692deb2666796e3028f973b2?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Digital Retail Transformation](https://jobright.ai/jobs/info/692de82e66796e3028f971d9?utm_campaign=1051&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
@@ -66,11 +77,12 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Sales Intern - Summer 2026](https://jobright.ai/jobs/info/692de3044c474121999d4160?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | **[Genesis](https://www.genesis.com)** | **[Intern, Genesis Sales Operations Analyst](https://jobright.ai/jobs/info/692de2d766796e3028f96f32?utm_campaign=1051&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Sales Intern](https://jobright.ai/jobs/info/692dd99d66796e3028f96b60?utm_campaign=1051&utm_source=git)** | MA - South Boston, 426 E 1st St | On Site | Dec 01 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Analyst Internship Global Sales and Trading](https://jobright.ai/jobs/info/692dd410fa28370be269ebc4?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Dec 01 |
+| **[Workato](http://www.workato.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/692e03e5fa28370be26a04ea?utm_campaign=1051&utm_source=git)** | Palo Alto, California | On Site | Dec 01 |
 | **[LYSSÉ NEW YORK](https://lysse.com)** | **[Junior Account Executive Sales Internship](https://jobright.ai/jobs/info/692dd2e84c474121999d3a43?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 01 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Dec 01 |
 | **[Woodoo Cabinetry Inc](https://woodoocabinetry.com/)** | **[Spring 2026 - Operations & Sales Internship](https://jobright.ai/jobs/info/692dcbbbfa28370be269e7b9?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 | **[LYSSÉ NEW YORK](https://lysse.com)** | **[Junior Account Executive Sales Internship](https://jobright.ai/jobs/info/692dcbb5fa28370be269e7b5?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | Hybrid | Dec 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Development Specialist Intern](https://jobright.ai/jobs/info/692df2954c474121999d4a37?utm_campaign=1051&utm_source=git)** | PA - Pittsburgh, 15 Summit Park Dr | On Site | Dec 01 |
 | **[AIFP](https://www.lumber.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/692dc4b666796e3028f961d9?utm_campaign=1051&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 01 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/692deb1566796e3028f973ad?utm_campaign=1051&utm_source=git)** | Tennessee | On Site | Dec 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[English Business Title (JM) Disney Ad Sales, Graduate Data Science Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/692dbdebfa28370be269e244?utm_campaign=1051&utm_source=git)** | New York, NY, USA | Hybrid | Dec 01 |
@@ -108,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc776868300c452ca15a5a?utm_campaign=1051&utm_source=git)** | Eureka, SD | On Site | Dec 01 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Sales Development Program](https://jobright.ai/jobs/info/692d9147fa28370be269d4e8?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Dec 01 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/691adab3bcdbf3560c9db1ac?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 01 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Client Acquisition Intern](https://jobright.ai/jobs/info/692da46566796e3028f955c4?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Dec 01 |
 | **[Simular](https://simular.ai)** | **[GTM Intern](https://jobright.ai/jobs/info/692d806666796e3028f94efa?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Hoosier Energy](https://www.hoosierenergy.com/)** | **[Member Solutions Internship](https://jobright.ai/jobs/info/692d8024fa28370be269d199?utm_campaign=1051&utm_source=git)** | Bloomington, IN | Hybrid | Dec 01 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Dec 01 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cab2e66796e3028f93387?utm_campaign=1051&utm_source=git)** | Visalia, CA | On Site | Nov 30 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692cab1d66796e3028f9337d?utm_campaign=1051&utm_source=git)** | Fullerton, CA | On Site | Nov 30 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692ca51e4c474121999d0595?utm_campaign=1051&utm_source=git)** | Oceanside, CA | On Site | Nov 30 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692ca1e24c474121999d0558?utm_campaign=1051&utm_source=git)** | Palmdale, CA | On Site | Nov 30 |
-| **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/692c98664c474121999d049c?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Nov 30 |
-| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern](https://jobright.ai/jobs/info/692c984e4c474121999d0495?utm_campaign=1051&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Nov 30 |
-| **[Swiss Finance](https://www.swissfinance.com/)** | **[Investment Banking Intern (Institutional Sales)](https://jobright.ai/jobs/info/692c94b84c474121999d040b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Nov 30 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Miami, FL](https://jobright.ai/jobs/info/68bb46d76105227d118a4c7f?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Nov 30 |
-| **[InComm Payments](https://www.incomm.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/690fe4d1bb519377733e9e14?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Nov 30 |
-| **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/689e6981faa4e875e827bfe6?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Nov 30 |
-| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Columbus](https://jobright.ai/jobs/info/68bb016a5f3832749186b5a1?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Nov 30 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c601dfa28370be269b01f?utm_campaign=1051&utm_source=git)** | Moreno Valley, CA | On Site | Nov 30 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692c600ffa28370be269b01e?utm_campaign=1051&utm_source=git)** | Santa Rosa, CA | On Site | Nov 30 |
-| **[Paycom](http://www.paycom.com)** | **[Spring Jr. Executive Sales Intern - Houston](https://jobright.ai/jobs/info/68bb01098043103d4f224c82?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
