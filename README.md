@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68bc776868300c452ca15a5a?utm_campaign=1051&utm_source=git)** | Eureka, SD | On Site | Dec 01 |
+| **[Blackmont Consulting](https://www.blackmontconsulting.com/)** | **[Business Development Intern (Students Only)](https://jobright.ai/jobs/info/692d933166796e3028f951de?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 01 |
+| **[Patterson-Kelley](http://harscopk.com)** | **[Sales Development Program](https://jobright.ai/jobs/info/692d9147fa28370be269d4e8?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Dec 01 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Internship - Client Acquisition](https://jobright.ai/jobs/info/692d9103fa28370be269d4d1?utm_campaign=1051&utm_source=git)** | California, United States | Remote | Dec 01 |
+| **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Univeristy of Michigan](https://jobright.ai/jobs/info/691adab3bcdbf3560c9db1ac?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 01 |
 | **[Simular](https://simular.ai)** | **[GTM Intern](https://jobright.ai/jobs/info/692d806666796e3028f94efa?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Hoosier Energy](https://www.hoosierenergy.com/)** | **[Member Solutions Internship](https://jobright.ai/jobs/info/692d8024fa28370be269d199?utm_campaign=1051&utm_source=git)** | Bloomington, IN | Hybrid | Dec 01 |
 | **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/68cb7910efdec76df36bd277?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Dec 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70220894705799a2efb7d?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Nov 30 |
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d8894705799a2ef985?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Nov 30 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Mid-OH)](https://jobright.ai/jobs/info/68c64f22db52c07d2884707f?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Nov 30 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d701c0894705799a2efaec?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Nov 30 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5fc8043103d4f21ace6?utm_campaign=1051&utm_source=git)** | Wausa, NE | On Site | Nov 30 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fe3e894705799a2ef6e0?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Nov 30 |
-| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70292894705799a2efc55?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Nov 30 |
-| ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d705f3d3fe025a3015e285?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
