@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692eb3ef4c474121999da90e?utm_campaign=1051&utm_source=git)** | Paso Robles, CA | On Site | Dec 02 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692eb31fef4b48533d140eca?utm_campaign=1051&utm_source=git)** | Temple City, CA | On Site | Dec 02 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692eb18bfa28370be26a5a3f?utm_campaign=1051&utm_source=git)** | San Dimas, CA | On Site | Dec 02 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Sales Intern](https://jobright.ai/jobs/info/692eb0c8ef4b48533d140e1c?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 02 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692eb0c14c474121999da816?utm_campaign=1051&utm_source=git)** | Foster City, CA | On Site | Dec 02 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692ea818ef4b48533d140c48?utm_campaign=1051&utm_source=git)** | Fallbrook, CA | On Site | Dec 02 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692ea530fa28370be26a5782?utm_campaign=1051&utm_source=git)** | Goleta, CA | On Site | Dec 02 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e9d74ef4b48533d140a50?utm_campaign=1051&utm_source=git)** | Banning, CA | On Site | Dec 02 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692eb54c4c474121999da990?utm_campaign=1051&utm_source=git)** | Orcutt, CA | On Site | Dec 01 |
 | **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/692e9354fa28370be26a53da?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Regency Centers](http://www.regencycenters.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/691ff0fd09cc522e87746c46?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 01 |
 | **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Business Development & Strategy](https://jobright.ai/jobs/info/69045aaaff462851feff4cdc?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
@@ -139,22 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Melotech](https://www.melotech.ai)** | **[Entrepreneur in Residence (Intern)](https://jobright.ai/jobs/info/692e75d0fa28370be26a4c6b?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Dec 01 |
 | **[PRTNRRecruiting](https://www.linkedin.com/company/72314157)** | **[Business Development & Marketing Intern (Fashion & Consumer Brands)](https://jobright.ai/jobs/info/692e4ced4c474121999d831b?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Riddell](http://www.riddell.com/)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/692e4b0afa28370be26a3332?utm_campaign=1051&utm_source=git)** | Des Plaines, IL 60018, USA | On Site | Dec 01 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e6d954c474121999d9758?utm_campaign=1051&utm_source=git)** | El Centro, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e743bfa28370be26a4b74?utm_campaign=1051&utm_source=git)** | Lake Forest, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e6c774c474121999d967f?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e731c4c474121999d9958?utm_campaign=1051&utm_source=git)** | Adelanto, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e66ec4c474121999d9225?utm_campaign=1051&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e6c6e4c474121999d9677?utm_campaign=1051&utm_source=git)** | Antelope, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e709fef4b48533d13fe12?utm_campaign=1051&utm_source=git)** | Hacienda Heights, CA | On Site | Dec 01 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e743bfa28370be26a4b74?utm_campaign=1051&utm_source=git)** | Lake Forest, CA | On Site | Dec 01 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e759a4c474121999d9add?utm_campaign=1051&utm_source=git)** | San Gabriel, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e74864c474121999d9a36?utm_campaign=1051&utm_source=git)** | North Highlands, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e71a5ef4b48533d13feba?utm_campaign=1051&utm_source=git)** | Yorba Linda, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e73d1fa28370be26a4b24?utm_campaign=1051&utm_source=git)** | Upland, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e676b4c474121999d9282?utm_campaign=1051&utm_source=git)** | Cupertino, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e6ffaef4b48533d13fdb1?utm_campaign=1051&utm_source=git)** | Diamond Bar, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e6728fa28370be26a444f?utm_campaign=1051&utm_source=git)** | West Sacramento, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e6b2afa28370be26a47ac?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e6d954c474121999d9758?utm_campaign=1051&utm_source=git)** | El Centro, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e709fef4b48533d13fe12?utm_campaign=1051&utm_source=git)** | Hacienda Heights, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e66ec4c474121999d9225?utm_campaign=1051&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e731c4c474121999d9958?utm_campaign=1051&utm_source=git)** | Adelanto, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e6c774c474121999d967f?utm_campaign=1051&utm_source=git)** | Campbell, CA | On Site | Dec 01 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e6c6e4c474121999d9677?utm_campaign=1051&utm_source=git)** | Antelope, CA | On Site | Dec 01 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e6d414c474121999d9718?utm_campaign=1051&utm_source=git)** | Baldwin Park, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e72ba4c474121999d9931?utm_campaign=1051&utm_source=git)** | Chino Hills, CA | On Site | Dec 01 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/692e690aef4b48533d13face?utm_campaign=1051&utm_source=git)** | Wildomar, CA | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
