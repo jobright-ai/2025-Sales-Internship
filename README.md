@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PHI Air Medical](https://www.phiairmedical.com)** | **[Intern, Business Development and Marketing](https://jobright.ai/jobs/info/69320525d0010831497be487?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 04 |
 | **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/6932005a4c474121999f57ed?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 04 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/6931ff87fa28370be26c06b9?utm_campaign=1051&utm_source=git)** | Peoria, AZ | On Site | Dec 04 |
 | ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/6931ff42fa28370be26c065b?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Dec 04 |
@@ -77,12 +78,25 @@ For a complete list, click the following sortable link below:
 | **[VertoTech](vertotech.us)** | **[Analyst Internship Global Sales & Trading](https://jobright.ai/jobs/info/6931f1c8fa28370be26bf941?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 04 |
 | **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/6931f088fa28370be26bf7fd?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Dec 04 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Oklahoma](https://jobright.ai/jobs/info/68c1edd263b706703e1103f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Dec 04 |
+| **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/693203fed0010831497be342?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Dec 04 |
+| **[NewDay USA](https://newdayusa.com/)** | **[Account Executive or Credit Analyst!](https://jobright.ai/jobs/info/693203614c474121999f5b3e?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Dec 04 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6931e4cbd0010831497bcace?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Dec 04 |
-| **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/693200e34c474121999f5886?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Dec 04 |
-| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/6932013c4c474121999f58e5?utm_campaign=1051&utm_source=git)** | East Honolulu, HI | On Site | Dec 04 |
+| **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/693201fd4c474121999f599c?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Dec 04 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/6932054a4c474121999f5d81?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Dec 04 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/693202244c474121999f59c9?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 04 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/693200e34c474121999f5886?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Dec 04 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/693204fb4c474121999f5d3f?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Dec 04 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/693204b2fa28370be26c0c44?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Dec 04 |
+| **[Schneider Electric](https://www.se.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/693201e24c474121999f597c?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Dec 04 |
+| **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/6932013c4c474121999f58e5?utm_campaign=1051&utm_source=git)** | East Honolulu, HI | On Site | Dec 04 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/693201d9fa28370be26c08fc?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Dec 04 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/6932022bfa28370be26c0967?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Dec 04 |
+| ↳ | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/693201cefa28370be26c08ed?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Dec 04 |
 | **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/693200514c474121999f57e1?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 04 |
+| **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Graduate](https://jobright.ai/jobs/info/6932023a4c474121999f59de?utm_campaign=1051&utm_source=git)** | Folsom, CA | On Site | Dec 04 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Clayton Homes Summer Intern - Lumberton, NC](https://jobright.ai/jobs/info/6931dc60fa28370be26bec23?utm_campaign=1051&utm_source=git)** | Lumberton, NC | On Site | Dec 04 |
 | **[Intel Corporation](http://www.intel.com)** | **[Sales and Marketing - Intern, Graduate](https://jobright.ai/jobs/info/6931fb20fa28370be26c01d5?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Dec 04 |
+| **[Uponor](https://www.uponor.com)** | **[Sales Training Intern](https://jobright.ai/jobs/info/6931d93ffa28370be26bea16?utm_campaign=1051&utm_source=git)** | Apple Valley, Minnesota, United States | Hybrid | Dec 04 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - New York](https://jobright.ai/jobs/info/68c1ef4e4d652f044775bdec?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Indianapolis](https://jobright.ai/jobs/info/68c1ee5063b706703e11047f?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Dec 04 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6931ce97fa28370be26be3d3?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 04 |
@@ -90,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/6931fca4d0010831497bdd75?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 04 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Clayton Homes Summer Intern - Sanford, NC](https://jobright.ai/jobs/info/6931cd5cfa28370be26be318?utm_campaign=1051&utm_source=git)** | Sanford, NC | On Site | Dec 04 |
 | ↳ | **[Clayton Homes Summer Intern - Athens, GA](https://jobright.ai/jobs/info/6931cd29fa28370be26be2f3?utm_campaign=1051&utm_source=git)** | Athens, GA | On Site | Dec 04 |
+| **[MLM Transport](www.mlmtrans.com)** | **[Sales & Operations Internship - Hattiesburg](https://jobright.ai/jobs/info/6932042f4c474121999f5c39?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Dec 04 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Partnership Intern](https://jobright.ai/jobs/info/6931c436d0010831497bb9b9?utm_campaign=1051&utm_source=git)** | Milwaukee, WI, US | Hybrid | Dec 04 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Crossland Homes Summer Intern - Candler, NC](https://jobright.ai/jobs/info/6931e4294c474121999f40d2?utm_campaign=1051&utm_source=git)** | Candler, NC | On Site | Dec 04 |
 | ↳ | **[Clayton Homes Summer Intern - Clinton, NC](https://jobright.ai/jobs/info/6931eff54c474121999f492e?utm_campaign=1051&utm_source=git)** | Clinton, NC | On Site | Dec 04 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Salt Lake City](https://jobright.ai/jobs/info/68c1f1c433864f172f9bbe89?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Dec 04 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Baltimore](https://jobright.ai/jobs/info/68c1f28133864f172f9bbfa4?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 04 |
 | ↳ | **[Summer Jr. Executive Sales Intern - San Diego](https://jobright.ai/jobs/info/68f30aaf76a51a4307bca4ec?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Dec 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68b5150bf4e41a61efd8d9c8?utm_campaign=1051&utm_source=git)** | Conyers, GA | On Site | Dec 04 |
-| **[Henkel](http://www.henkel.com)** | **[North America Sales and Business Support Intern – Summer 2026](https://jobright.ai/jobs/info/68cd1a4fb2a74e1837ed26cb?utm_campaign=1051&utm_source=git)** | Bridgewater, NJ | Remote | Dec 04 |
-| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[Retail Management Internship](https://jobright.ai/jobs/info/68c2b86b63829b0a8a4fc3f9?utm_campaign=1051&utm_source=git)** | Scarborough, ME | On Site | Dec 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Parkland](https://jobright.ai/jobs/info/68ddda2ca125e75c422af60f?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Dec 04 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68c03044702aa35207aab25d?utm_campaign=1051&utm_source=git)** | Ruthton, MN | On Site | Dec 04 |
-| **[Mars](https://www.mars.com)** | **[Summer 2026 Mars Wrigley Sales Internship – Newark, New Jersey](https://jobright.ai/jobs/info/68f948af6de2db04dc3e7c45?utm_campaign=1051&utm_source=git)** | Newark, NJ | Hybrid | Dec 04 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - New Mexico](https://jobright.ai/jobs/info/68ccda1f5954791a1d6ffd49?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Dec 04 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Customer Service Sales Internship](https://jobright.ai/jobs/info/68f98c2ca628d10664e8dc25?utm_campaign=1051&utm_source=git)** | Dubuque, IA | Hybrid | Dec 04 |
-| **[DRB Homes](http://danryanbuilders.com)** | **[Intern](https://jobright.ai/jobs/info/68dd5746a125e75c422a9d11?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Richmond](https://jobright.ai/jobs/info/68c1eb694d652f044775ba5e?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Dec 04 |
-| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Spring 2026](https://jobright.ai/jobs/info/691ae7a8bcdbf3560c9db9dd?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Dec 04 |
-| **[Scoular](http://www.scoular.com/)** | **[Commodity Merchandising Intern - Summer 2026](https://jobright.ai/jobs/info/68d09a02846f0b04af688d57?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Dec 04 |
-| **[Lotus Sales](www.lotussales.co)** | **[2026 Summer Sales Intern - Housing Provided + Paid](https://jobright.ai/jobs/info/6931d5d84c474121999f3755?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 04 |
-| **[Central Bank](https://www.centralbank.net/)** | **[Retail Banking Intern - Summer 2026](https://jobright.ai/jobs/info/6914ea029c388539cbdee809?utm_campaign=1051&utm_source=git)** | Lees Summit, MO | On Site | Dec 04 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/6931bede4c474121999f2c29?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
