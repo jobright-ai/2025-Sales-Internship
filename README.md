@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f5f131d96e48465769?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 06 |
+| **[Dioun Health](diounhealth.com)** | **[Private Equity Sales Intern - Commission Based](https://jobright.ai/jobs/info/6934856fa0dde7020e2f5ae8?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 06 |
+| **[NetworkX.ai](https://www.networkx.ai)** | **[Sales Intern](https://jobright.ai/jobs/info/69347550f131d96e4846ac10?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 06 |
+| **[Insight](https://www.insight.com)** | **[Client Operations Intern](https://jobright.ai/jobs/info/6917f639bcdbf3560c9cd0e5?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 06 |
+| **[Structonix](structonix.us)** | **[2026 Summer Graduate/PhD Intern – Inside Sales Engineering (R14693)](https://jobright.ai/jobs/info/69346e3aa0dde7020e2f56bc?utm_campaign=1051&utm_source=git)** | Irvine, CA | Remote | Dec 06 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Burien](https://jobright.ai/jobs/info/68ddda1244d32141e0bfb325?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f5f131d96e48465769?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 06 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/691d3a827481340785ed50da?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/6933e1e1f131d96e48468006?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | **[Danfoss](https://www.danfoss.com)** | **[Ignite Technical Sales-Intern](https://jobright.ai/jobs/info/69184da2bcdbf3560c9d1489?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Dec 06 |
@@ -91,7 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Stamford](https://jobright.ai/jobs/info/68c1ece04d652f044775bbb0?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Dec 06 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Pittsburgh](https://jobright.ai/jobs/info/68c1ee1a33864f172f9bba55?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
 | **[Siemens](https://www.siemens.com)** | **[Smart Building Sales Internship (part-time) ~ Miami](https://jobright.ai/jobs/info/6917feb6bcdbf3560c9cd784?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Dec 06 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ceb1852e62f007e92f5?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Bremerton](https://jobright.ai/jobs/info/68ddda7b44d32141e0bfb3c5?utm_campaign=1051&utm_source=git)** | Port Orchard, WA | On Site | Dec 06 |
+| **[Cargill](https://www.cargill.com/home)** | **[Grain Origination Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2e42063829b0a8a4fdb5a?utm_campaign=1051&utm_source=git)** | Lafayette, IN | On Site | Dec 06 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Atlanta](https://jobright.ai/jobs/info/68c1eed14d652f044775bd6d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03bc5f758fe1f97e4b682?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Dec 06 |
 | **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd964044d32141e0bf8989?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 06 |
@@ -121,8 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68df2e08fe896042b0b77892?utm_campaign=1051&utm_source=git)** | Mobile, AL | On Site | Dec 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern (Fairfield Commons)](https://jobright.ai/jobs/info/68fcd066e04ac838fb5ace94?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Dec 06 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68c1edf963b706703e110423?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03db91852e62f007e9441?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Dec 06 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 06 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 06 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Kansas City District)](https://jobright.ai/jobs/info/68f1efe5e6870116b1f5ebe6?utm_campaign=1051&utm_source=git)** | Lenexa, KS | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Sales Internship - Downtown Seattle](https://jobright.ai/jobs/info/6933ccd7f131d96e484675e0?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales Support [Chicago, IL/Boston, MA]](https://jobright.ai/jobs/info/691ad5df15b415636718b17d?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 06 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69345eb3a0dde7020e2f53e8?utm_campaign=1051&utm_source=git)** | Fort Walton Beach, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69345d88a0dde7020e2f534e?utm_campaign=1051&utm_source=git)** | Minneola, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69345e6ea0dde7020e2f53b4?utm_campaign=1051&utm_source=git)** | Palm Valley, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69345e23a0dde7020e2f5378?utm_campaign=1051&utm_source=git)** | San Carlos Park, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69346174a0dde7020e2f546c?utm_campaign=1051&utm_source=git)** | Bayshore Gardens, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69345e23a0dde7020e2f5378?utm_campaign=1051&utm_source=git)** | San Carlos Park, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69345f49764507023d1bcdc2?utm_campaign=1051&utm_source=git)** | Gibsonton, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69345dfba0dde7020e2f5369?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69346238a0dde7020e2f548d?utm_campaign=1051&utm_source=git)** | New Port Richey, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69345d9da0dde7020e2f5352?utm_campaign=1051&utm_source=git)** | Viera West, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69345e83764507023d1bcd99?utm_campaign=1051&utm_source=git)** | Maitland, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693460da764507023d1bce56?utm_campaign=1051&utm_source=git)** | Glenvar Heights, FL | On Site | Dec 06 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/6912ebded1047e3565d00568?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Dec 06 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfea28f758fe1f97e47c42?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Dec 06 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c77b99ec3563b0cdc0b?utm_campaign=1051&utm_source=git)** | Lima, OH | On Site | Dec 06 |
-| **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL Sales/Creative Services Intern - 2026 Summer](https://jobright.ai/jobs/info/68fc39964129dd33cd139efe?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69346238a0dde7020e2f548d?utm_campaign=1051&utm_source=git)** | New Port Richey, FL | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
