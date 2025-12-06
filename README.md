@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Remote Sales Intern (Summer 2026) - Central FL](https://jobright.ai/jobs/info/691acccf45fb6f5ead8ade50?utm_campaign=1051&utm_source=git)** | Columbia, SC | Remote | Dec 06 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Sales - Part Time](https://jobright.ai/jobs/info/691a9b3715b4156367189478?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Dec 06 |
+| **[Intuit](https://www.intuit.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69176d49370fde633d07fe0c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 06 |
+| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern - MV](https://jobright.ai/jobs/info/6917f03145fb6f5ead8a00ac?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Dec 06 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Client Management Intern](https://jobright.ai/jobs/info/6932733d764507023d1aeb19?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Dec 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cd3b8fe23def7af55b7186?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 06 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6933fa68f131d96e48468b3e?utm_campaign=1051&utm_source=git)** | Jasmine Estates, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6933f938f131d96e48468ad9?utm_campaign=1051&utm_source=git)** | Lutz, FL | On Site | Dec 06 |
@@ -84,29 +89,29 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6933e98da0dde7020e2f2fa4?utm_campaign=1051&utm_source=git)** | Palmetto Bay, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340fc7f131d96e4846942a?utm_campaign=1051&utm_source=git)** | Citrus Park, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693415de764507023d1bbe4f?utm_campaign=1051&utm_source=git)** | Eustis, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340f8ff131d96e48469420?utm_campaign=1051&utm_source=git)** | Westchase, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340e10a0dde7020e2f3f43?utm_campaign=1051&utm_source=git)** | Golf, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340cb3a0dde7020e2f3ef2?utm_campaign=1051&utm_source=git)** | Jacksonville Beach, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340f8ff131d96e48469420?utm_campaign=1051&utm_source=git)** | Westchase, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69341359a0dde7020e2f409b?utm_campaign=1051&utm_source=git)** | The Crossings, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693414b9764507023d1bbe0d?utm_campaign=1051&utm_source=git)** | Tarpon Springs, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340cb3a0dde7020e2f3ef2?utm_campaign=1051&utm_source=git)** | Jacksonville Beach, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340eaea0dde7020e2f3f68?utm_campaign=1051&utm_source=git)** | Bloomingdale, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340d3cf131d96e48469385?utm_campaign=1051&utm_source=git)** | Bartow, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693410fba0dde7020e2f400d?utm_campaign=1051&utm_source=git)** | Tavares, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693413a2f131d96e48469539?utm_campaign=1051&utm_source=git)** | Bayonet Point, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934120a764507023d1bbd48?utm_campaign=1051&utm_source=git)** | South Bradenton, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693410fba0dde7020e2f400d?utm_campaign=1051&utm_source=git)** | Tavares, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693414cba0dde7020e2f4132?utm_campaign=1051&utm_source=git)** | Immokalee, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340eaea0dde7020e2f3f68?utm_campaign=1051&utm_source=git)** | Bloomingdale, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69341123f131d96e48469464?utm_campaign=1051&utm_source=git)** | Key West, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340fdd764507023d1bbcfb?utm_campaign=1051&utm_source=git)** | Lynn Haven, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693413eda0dde7020e2f40d2?utm_campaign=1051&utm_source=git)** | Liberty Triangle, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340f9df131d96e48469423?utm_campaign=1051&utm_source=git)** | Bellview, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69341652764507023d1bbe69?utm_campaign=1051&utm_source=git)** | Zephyrhills, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69341391a0dde7020e2f40b6?utm_campaign=1051&utm_source=git)** | Wekiwa Springs, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934163d764507023d1bbe65?utm_campaign=1051&utm_source=git)** | Leisure City, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69341259a0dde7020e2f4042?utm_campaign=1051&utm_source=git)** | Port Saint John, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693412b4a0dde7020e2f4055?utm_campaign=1051&utm_source=git)** | Palm City, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934163d764507023d1bbe65?utm_campaign=1051&utm_source=git)** | Leisure City, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934119f764507023d1bbd3c?utm_campaign=1051&utm_source=git)** | Brent, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934133ff131d96e4846950a?utm_campaign=1051&utm_source=git)** | Nocatee, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69341391a0dde7020e2f40b6?utm_campaign=1051&utm_source=git)** | Wekiwa Springs, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934139ca0dde7020e2f40b9?utm_campaign=1051&utm_source=git)** | Wright, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934133ff131d96e4846950a?utm_campaign=1051&utm_source=git)** | Nocatee, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934119f764507023d1bbd3c?utm_campaign=1051&utm_source=git)** | Brent, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69340f32f131d96e48469411?utm_campaign=1051&utm_source=git)** | Palm River-Clair Mel, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6933e7dba0dde7020e2f2f2b?utm_campaign=1051&utm_source=git)** | Fish Hawk, FL | On Site | Dec 06 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Amherst, NY - Summer 2026](https://jobright.ai/jobs/info/6933e6d7a0dde7020e2f2eed?utm_campaign=1051&utm_source=git)** | Amherst, NY | On Site | Dec 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cynuria](https://www.cynuriaconsulting.com/)** | **[Business Development and Fundraising intern](https://jobright.ai/jobs/info/6933899b764507023d1b69bf?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Crane Company](http://www.craneco.com/)** | **[Business Development & Strategy Intern](https://jobright.ai/jobs/info/6933a7e0a0dde7020e2f033e?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | Hybrid | Dec 05 |
 | **[PEAC Solutions](http://www.peacsolutions.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f1ef7cf462172a5a7de223?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Dec 05 |
-| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Sponsorship & Sales](https://jobright.ai/jobs/info/6933ae64a0dde7020e2f0793?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern - Spring](https://jobright.ai/jobs/info/6933a533764507023d1b7a06?utm_campaign=1051&utm_source=git)** | Kennesaw, GA | On Site | Dec 05 |
-| ↳ | **[Vehicle Acquisition Internship - Summer 2026](https://jobright.ai/jobs/info/6933a6d5764507023d1b7af2?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Dec 05 |
-| **[Nucor Corporation](http://www.nucor.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/6933a42a764507023d1b794d?utm_campaign=1051&utm_source=git)** | Florence, SC | On Site | Dec 05 |
-| **[Rite Soccer](http://www.ritesoccer.com)** | **[Monetization Strategy Intern](https://jobright.ai/jobs/info/6933a13da0dde7020e2efb4c?utm_campaign=1051&utm_source=git)** | Boston, MA | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
