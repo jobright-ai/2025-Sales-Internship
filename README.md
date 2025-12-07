@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/69354c84764507023d1bfffa?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Dec 07 |
+| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/69353903a0dde7020e2f7ee5?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 07 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Sales Intern Business Graduate – Summer 2026](https://jobright.ai/jobs/info/69352c78764507023d1bf5df?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Dec 06 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Antioch](https://jobright.ai/jobs/info/6934e575764507023d1be2ff?utm_campaign=1051&utm_source=git)** | Antioch, CA | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6934e4c0a0dde7020e2f684b?utm_campaign=1051&utm_source=git)** | Edison, NJ | On Site | Dec 06 |
@@ -131,30 +133,28 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934abd2f131d96e4846b6ac?utm_campaign=1051&utm_source=git)** | Hilo, HI | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa25a0dde7020e2f617f?utm_campaign=1051&utm_source=git)** | Fernandina Beach, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934abb1f131d96e4846b6a2?utm_campaign=1051&utm_source=git)** | Hobe Sound, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934acaef131d96e4846b6e3?utm_campaign=1051&utm_source=git)** | Kapolei, HI | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa03a0dde7020e2f6174?utm_campaign=1051&utm_source=git)** | Iona, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934abd9f131d96e4846b6af?utm_campaign=1051&utm_source=git)** | Ankeny, IA | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa65764507023d1bdb6b?utm_campaign=1051&utm_source=git)** | Makaha, HI | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934acaef131d96e4846b6e3?utm_campaign=1051&utm_source=git)** | Kapolei, HI | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934abadf131d96e4846b6a0?utm_campaign=1051&utm_source=git)** | Iowa City, IA | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa16a0dde7020e2f617a?utm_campaign=1051&utm_source=git)** | Asbury Lake, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934a99fa0dde7020e2f615e?utm_campaign=1051&utm_source=git)** | Yulee, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934a8cf764507023d1bdb06?utm_campaign=1051&utm_source=git)** | Forest City, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934ab64f131d96e4846b694?utm_campaign=1051&utm_source=git)** | Gladeview, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa69764507023d1bdb6c?utm_campaign=1051&utm_source=git)** | Southchase, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa0da0dde7020e2f6177?utm_campaign=1051&utm_source=git)** | Kihei, HI | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934ac0af131d96e4846b6b4?utm_campaign=1051&utm_source=git)** | Waimea, HI | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa08a0dde7020e2f6175?utm_campaign=1051&utm_source=git)** | Ojus, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934acdef131d96e4846b6fa?utm_campaign=1051&utm_source=git)** | Kaneohe Base, HI | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934a8cf764507023d1bdb06?utm_campaign=1051&utm_source=git)** | Forest City, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa0da0dde7020e2f6177?utm_campaign=1051&utm_source=git)** | Kihei, HI | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934ac0af131d96e4846b6b4?utm_campaign=1051&utm_source=git)** | Waimea, HI | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934a9cf764507023d1bdb36?utm_campaign=1051&utm_source=git)** | Palmetto, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa9a764507023d1bdb82?utm_campaign=1051&utm_source=git)** | West Lealman, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934acdaf131d96e4846b6f9?utm_campaign=1051&utm_source=git)** | Jensen Beach, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934acc1f131d96e4846b6e8?utm_campaign=1051&utm_source=git)** | Sunset, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa1aa0dde7020e2f617d?utm_campaign=1051&utm_source=git)** | Orange City, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934a9c7a0dde7020e2f6169?utm_campaign=1051&utm_source=git)** | Kaiminani, HI | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa9a764507023d1bdb82?utm_campaign=1051&utm_source=git)** | West Lealman, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa6d764507023d1bdb6d?utm_campaign=1051&utm_source=git)** | Thonotosassa, FL | On Site | Dec 06 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa61764507023d1bdb67?utm_campaign=1051&utm_source=git)** | Holly Hill, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934a8df764507023d1bdb0a?utm_campaign=1051&utm_source=git)** | Wimauma, FL | On Site | Dec 06 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934a9b0a0dde7020e2f6162?utm_campaign=1051&utm_source=git)** | Destin, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934ab82f131d96e4846b69b?utm_campaign=1051&utm_source=git)** | South Daytona, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa61764507023d1bdb67?utm_campaign=1051&utm_source=git)** | Holly Hill, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934aa6d764507023d1bdb6d?utm_campaign=1051&utm_source=git)** | Thonotosassa, FL | On Site | Dec 06 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6934ab38f131d96e4846b690?utm_campaign=1051&utm_source=git)** | Three Lakes, FL | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
