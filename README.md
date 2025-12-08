@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Champion](https://www.championmgt.com)** | **[Account Service Intern](https://jobright.ai/jobs/info/69366825f131d96e4847155c?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 07 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/6936642e764507023d1c31a9?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 07 |
+| **[Augmented Training Systems](http://augmentedtrainingsystems.com/)** | **[VR Sales Development Intern](https://jobright.ai/jobs/info/69365a47764507023d1c2e27?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 07 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Palatka](https://jobright.ai/jobs/info/693640d4764507023d1c2238?utm_campaign=1051&utm_source=git)** | Palatka, FL | On Site | Dec 07 |
 | ↳ | **[Summer Sales Internship Fairfield](https://jobright.ai/jobs/info/69363f9ba0dde7020e2fa5d3?utm_campaign=1051&utm_source=git)** | Fairfield, CA | On Site | Dec 07 |
 | ↳ | **[Summer Sales Internship Cleveland](https://jobright.ai/jobs/info/69363f78f131d96e484702b3?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Dec 07 |
@@ -72,11 +75,12 @@ For a complete list, click the following sortable link below:
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Business Development Research Internship / Spring 2026](https://jobright.ai/jobs/info/6935dd21764507023d1c1357?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 07 |
 | **[LvlUp Ventures](https://www.lvlup.vc/)** | **[VC Intern - Winter/Spring 2026](https://jobright.ai/jobs/info/6935d598f131d96e4846f236?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 07 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[B2B SaaS Sales - Remote Internship](https://jobright.ai/jobs/info/6935d4d0764507023d1c1244?utm_campaign=1051&utm_source=git)** | Canada | Remote | Dec 07 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Entry Level Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6935b8d8764507023d1c0f74?utm_campaign=1051&utm_source=git)** | Columbus, OH | Remote | Dec 07 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6935afb0764507023d1c0e69?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Dec 07 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6935ad9ca0dde7020e2f9335?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 07 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6935ad43a0dde7020e2f931b?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Dec 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23849f758fe1f97e59af4?utm_campaign=1051&utm_source=git)** | Visalia, CA | On Site | Dec 07 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1d939b99ec3563b0d82eb?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Dec 07 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23849f758fe1f97e59af4?utm_campaign=1051&utm_source=git)** | Visalia, CA | On Site | Dec 07 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232c11852e62f007f70e5?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232b1b99ec3563b0db8e6?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Dec 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dbbef758fe1f97e5610d?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Dec 07 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6935a615f131d96e4846ec4a?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Dec 07 |
@@ -126,8 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Sales/Operations Internship - Raleigh, NC](https://jobright.ai/jobs/info/68a9204f758f2e4ac3ff77c5?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Dec 07 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1db831852e62f007f3a8e?utm_campaign=1051&utm_source=git)** | Portage, MI | On Site | Dec 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23283f758fe1f97e59685?utm_campaign=1051&utm_source=git)** | Rapid City, SD | On Site | Dec 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e2328e1852e62f007f70aa?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Dec 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e236b11852e62f007f728c?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e2333a1852e62f007f716c?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Dec 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfea7b1852e62f007e5885?utm_campaign=1051&utm_source=git)** | Douglasville, GA | On Site | Dec 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dfe9791852e62f007e573a?utm_campaign=1051&utm_source=git)** | Liberal, KS | On Site | Dec 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e233491852e62f007f717f?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Dec 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e232de1852e62f007f7101?utm_campaign=1051&utm_source=git)** | Grand Junction, CO | On Site | Dec 07 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2023 Summer Intern - Sales](https://jobright.ai/jobs/info/67c7908b684906ab34c54a32?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Dec 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e237b91852e62f007f74e3?utm_campaign=1051&utm_source=git)** | Littleton, CO | On Site | Dec 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc7a1852e62f007f3d0b?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
