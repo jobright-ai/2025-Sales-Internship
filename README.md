@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc241852e62f007f3c0c?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Dec 08 |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Intern - Retail](https://jobright.ai/jobs/info/692f9729fa28370be26abd49?utm_campaign=1051&utm_source=git)** | Ontario, Canada | Remote | Dec 08 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68ccfc70d11b445e0bee572e?utm_campaign=1051&utm_source=git)** | New Town, ND | Hybrid | Dec 08 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Hudson Valley)](https://jobright.ai/jobs/info/68c7cc9a5c38e536d41a6f9c?utm_campaign=1051&utm_source=git)** | Danbury, CT | On Site | Dec 08 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/6936c354a0dde7020e2fd0bb?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 08 |
+| **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/67a7505562c8951a8e6d862f?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 08 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Part-Time Business Development & Partnership Intern](https://jobright.ai/jobs/info/6936b9fca0dde7020e2fcf12?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Dec 08 |
 | ↳ | **[Part-Time Business Development & Partnership Intern](https://jobright.ai/jobs/info/6936b37f44eb324fb785d0c4?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | Hybrid | Dec 08 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring 2026 - Planning & Allocation Intern](https://jobright.ai/jobs/info/693695daa0dde7020e2fc784?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e233411852e62f007f7175?utm_campaign=1051&utm_source=git)** | Grand Island, NE | On Site | Dec 07 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03c2db99ec3563b0cdb8e?utm_campaign=1051&utm_source=git)** | Fargo, ND | On Site | Dec 07 |
 | **[Guaranty Bank](https://www.gbankmo.com/)** | **[Retail Intern - Summer 2026](https://jobright.ai/jobs/info/68fc0a5793c49825ab109106?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Dec 07 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e08ff7f758fe1f97e4e6f6?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Dec 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23430f758fe1f97e5981e?utm_campaign=1051&utm_source=git)** | Temecula, CA | On Site | Dec 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e23bb21852e62f007f76cc?utm_campaign=1051&utm_source=git)** | Pueblo, CO | On Site | Dec 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e237621852e62f007f741a?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Dec 07 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68e1dc811852e62f007f3d18?utm_campaign=1051&utm_source=git)** | DeKalb, IL | On Site | Dec 07 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e24157f758fe1f97e59e4f?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
