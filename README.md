@@ -57,8 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937f065aabec14a727cf6fe?utm_campaign=1051&utm_source=git)** | Cockeysville, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937f044b95c305f206d3fdc?utm_campaign=1051&utm_source=git)** | Ballenger Creek, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937f024b95c305f206d3f97?utm_campaign=1051&utm_source=git)** | Fort Meade, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937eedab95c305f206d3e09?utm_campaign=1051&utm_source=git)** | Perry Hall, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937ecd2b95c305f206d3ca5?utm_campaign=1051&utm_source=git)** | Joppatowne, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937e991a0dde7020e309e13?utm_campaign=1051&utm_source=git)** | Linganore, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937e6f91c1c2161c13faa35?utm_campaign=1051&utm_source=git)** | Marlton, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937e65b1c1c2161c13fa8d0?utm_campaign=1051&utm_source=git)** | Ellicott City, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937e55ba0dde7020e308cc3?utm_campaign=1051&utm_source=git)** | Ocean Pines, MD | On Site | Dec 09 |
+| **[PNC](http://www.pnc.com)** | **[Retail Banking Summer Intern Program - Organizational Financial Wellness](https://jobright.ai/jobs/info/6937e37d1c1c2161c13fa309?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 09 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937e3551c1c2161c13fa2fd?utm_campaign=1051&utm_source=git)** | Glenn Dale, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937df9d1c1c2161c13fa1b7?utm_campaign=1051&utm_source=git)** | Lake Shore, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937dd3daabec14a727cd949?utm_campaign=1051&utm_source=git)** | Towson, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937dc7aaabec14a727cd904?utm_campaign=1051&utm_source=git)** | Montgomery Village, MD | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937d990a0dde7020e308570?utm_campaign=1051&utm_source=git)** | Potomac, MD | On Site | Dec 09 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937f016b95c305f206d3f7c?utm_campaign=1051&utm_source=git)** | Bel Air South, MD | On Site | Dec 08 |
 | **[Intrepid Asia](https://www.intrepid.asia)** | **[Livestream Store Admin Intern](https://jobright.ai/jobs/info/6937d361aabec14a727cd6bd?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 08 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937eef3b95c305f206d3e30?utm_campaign=1051&utm_source=git)** | Chillum, MD | On Site | Dec 08 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937efaea0dde7020e30a376?utm_campaign=1051&utm_source=git)** | Severna Park, MD | On Site | Dec 08 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937ef68b95c305f206d3e85?utm_campaign=1051&utm_source=git)** | Reisterstown, MD | On Site | Dec 08 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937f000a0dde7020e30a3a3?utm_campaign=1051&utm_source=git)** | Linthicum, MD | On Site | Dec 08 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Strategic Partnerships Internship](https://jobright.ai/jobs/info/6937cdc2aabec14a727cd51c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 08 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/6937e781a0dde7020e309487?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 08 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/6937a5c2aabec14a727ca543?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 08 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Dec 08 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69379e051c1c2161c13f6558?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Dec 08 |
@@ -84,13 +105,13 @@ For a complete list, click the following sortable link below:
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/6937926a1c1c2161c13f5e32?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/6937bcfcaabec14a727ccc4f?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Remote | Dec 08 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6937c0d7aabec14a727ccd8f?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Dec 08 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6937bcffa0dde7020e307944?utm_campaign=1051&utm_source=git)** | Memphis, TN | Remote | Dec 08 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6937c148a0dde7020e307ace?utm_campaign=1051&utm_source=git)** | Columbia, SC | Remote | Dec 08 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/6937bcffa0dde7020e307944?utm_campaign=1051&utm_source=git)** | Memphis, TN | Remote | Dec 08 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6937c7e6aabec14a727cd01c?utm_campaign=1051&utm_source=git)** | Bozeman, MT | Remote | Dec 08 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6937c0d91c1c2161c13f9536?utm_campaign=1051&utm_source=git)** | Oxford, MS | Remote | Dec 08 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/6937bcd2aabec14a727ccc35?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Dec 08 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6937c218aabec14a727cce0a?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Dec 08 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6937bf0aaabec14a727ccceb?utm_campaign=1051&utm_source=git)** | Lexington, KY | Remote | Dec 08 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6937bcd2aabec14a727ccc35?utm_campaign=1051&utm_source=git)** | Dallas, TX | Remote | Dec 08 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6937bc15a0dde7020e30790d?utm_campaign=1051&utm_source=git)** | Columbia, MO | Remote | Dec 08 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6937c23faabec14a727cce0d?utm_campaign=1051&utm_source=git)** | Laramie, WY | Remote | Dec 08 |
 | **[Paychex](https://www.paychex.com/)** | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/693791ebaabec14a727c96a2?utm_campaign=1051&utm_source=git)** | North Reading, MA | Remote | Dec 08 |
@@ -125,36 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bc391c1c2161c13f93ce?utm_campaign=1051&utm_source=git)** | Prairieville, LA | On Site | Dec 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bd0ca0dde7020e307947?utm_campaign=1051&utm_source=git)** | Biddeford, ME | On Site | Dec 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937beb2aabec14a727ccccc?utm_campaign=1051&utm_source=git)** | Waldorf, MD | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c0b3aabec14a727ccd84?utm_campaign=1051&utm_source=git)** | LaPlace, LA | On Site | Dec 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c6291c1c2161c13f9729?utm_campaign=1051&utm_source=git)** | Terrytown, LA | On Site | Dec 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937b8e6a0dde7020e3075e8?utm_campaign=1051&utm_source=git)** | Timberlane, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937b784a0dde7020e30727a?utm_campaign=1051&utm_source=git)** | Nicholasville, KY | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937d3f4aabec14a727cd6e8?utm_campaign=1051&utm_source=git)** | Bangor, ME | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c2e71c1c2161c13f95f9?utm_campaign=1051&utm_source=git)** | Shenandoah, LA | On Site | Dec 08 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c0b3aabec14a727ccd84?utm_campaign=1051&utm_source=git)** | LaPlace, LA | On Site | Dec 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bd0d1c1c2161c13f9406?utm_campaign=1051&utm_source=git)** | Standish, ME | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c635aabec14a727ccf87?utm_campaign=1051&utm_source=git)** | Frankfort, KY | On Site | Dec 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c4731c1c2161c13f9694?utm_campaign=1051&utm_source=git)** | Bardstown, KY | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bfe8aabec14a727ccd3c?utm_campaign=1051&utm_source=git)** | Oakbrook, KY | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bdb2a0dde7020e30797d?utm_campaign=1051&utm_source=git)** | Marrero, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937ba58a0dde7020e30788b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c21ca0dde7020e307b0f?utm_campaign=1051&utm_source=git)** | Minden, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bd421c1c2161c13f9415?utm_campaign=1051&utm_source=git)** | Westbrook, ME | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937ba6ba0dde7020e307891?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c4a4aabec14a727cceda?utm_campaign=1051&utm_source=git)** | Gretna, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c2a7aabec14a727cce3b?utm_campaign=1051&utm_source=git)** | Gorham, ME | On Site | Dec 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c2e3a0dde7020e307b46?utm_campaign=1051&utm_source=git)** | Youngsville, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937b6cfa0dde7020e307116?utm_campaign=1051&utm_source=git)** | Erlanger, KY | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c7d5aabec14a727cd015?utm_campaign=1051&utm_source=git)** | Bayou Blue, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c50faabec14a727ccf08?utm_campaign=1051&utm_source=git)** | Abbeville, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c0b8a0dde7020e307a98?utm_campaign=1051&utm_source=git)** | River Ridge, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c0c9aabec14a727ccd8b?utm_campaign=1051&utm_source=git)** | Elizabethtown, KY | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c0921c1c2161c13f951f?utm_campaign=1051&utm_source=git)** | Claiborne, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c4851c1c2161c13f969f?utm_campaign=1051&utm_source=git)** | Bogalusa, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937d0c11c1c2161c13f9d56?utm_campaign=1051&utm_source=git)** | Mount Washington, KY | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bb5aa0dde7020e3078d8?utm_campaign=1051&utm_source=git)** | Carencro, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bae21c1c2161c13f91e6?utm_campaign=1051&utm_source=git)** | Waterville, ME | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bc19aabec14a727ccbef?utm_campaign=1051&utm_source=git)** | Fort Campbell North, KY | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bf351c1c2161c13f94a6?utm_campaign=1051&utm_source=git)** | Gonzales, LA | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937b6fea0dde7020e307177?utm_campaign=1051&utm_source=git)** | Kennebunk, ME | On Site | Dec 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937ba6ca0dde7020e307892?utm_campaign=1051&utm_source=git)** | Gardere, LA | On Site | Dec 08 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c21ca0dde7020e307b0f?utm_campaign=1051&utm_source=git)** | Minden, LA | On Site | Dec 08 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937b784a0dde7020e30727a?utm_campaign=1051&utm_source=git)** | Nicholasville, KY | On Site | Dec 08 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bdb2a0dde7020e30797d?utm_campaign=1051&utm_source=git)** | Marrero, LA | On Site | Dec 08 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937bfe8aabec14a727ccd3c?utm_campaign=1051&utm_source=git)** | Oakbrook, KY | On Site | Dec 08 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937c635aabec14a727ccf87?utm_campaign=1051&utm_source=git)** | Frankfort, KY | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
