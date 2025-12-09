@@ -57,12 +57,31 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693898dfa0dde7020e312dd8?utm_campaign=1051&utm_source=git)** | DeWitt Charter Township, MI | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693897e5a0dde7020e312c42?utm_campaign=1051&utm_source=git)** | Livonia, MI | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693897bda0dde7020e312c00?utm_campaign=1051&utm_source=git)** | Marblehead, MA | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6938968ea0dde7020e3129d7?utm_campaign=1051&utm_source=git)** | Holyoke, MA | On Site | Dec 09 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6938960ba0dde7020e3128cb?utm_campaign=1051&utm_source=git)** | Abington, MA | On Site | Dec 09 |
+| **[STMicroelectronics](https://www.st.com)** | **[Inside Sales Representative Intern](https://jobright.ai/jobs/info/69388fbeb95c305f206dbe04?utm_campaign=1051&utm_source=git)** | Coppell, TX | Hybrid | Dec 09 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/69388a79aabec14a727d6cb0?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Dec 09 |
+| **[The Advisory Investment Bank](theadvisoryib.com)** | **[Business Development Investment Banking Internship](https://jobright.ai/jobs/info/693889f9aabec14a727d6c5c?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 09 |
+| **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2026 - PLT](https://jobright.ai/jobs/info/6920cf63a49a885af9a3f7fc?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Dec 09 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Sales Operations](https://jobright.ai/jobs/info/69388508b95c305f206db6ad?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Dec 09 |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Sales Development Intern (Hybrid)](https://jobright.ai/jobs/info/692502a4c0cefa13343e5747?utm_campaign=1051&utm_source=git)** | Arlington, VA | Hybrid | Dec 09 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69389939a0dde7020e312e37?utm_campaign=1051&utm_source=git)** | Danvers, MA | On Site | Dec 09 |
 | **[Nilawar](https://www.linkedin.com/company/104896158)** | **[Creator Partnerships Manager](https://jobright.ai/jobs/info/693879ddaabec14a727d612a?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 09 |
+| **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Affiliate Internship](https://jobright.ai/jobs/info/69389635a0dde7020e312932?utm_campaign=1051&utm_source=git)** | La Jolla Shores, CA | Hybrid | Dec 09 |
+| **[MANE](https://www.mane.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/69389398aabec14a727d742d?utm_campaign=1051&utm_source=git)** | Wayne, NJ | On Site | Dec 09 |
+| **[Summit Credit Union](https://www.summitcreditunion.com/)** | **[Summer 2026 Branch Sales & Services Internship](https://jobright.ai/jobs/info/693890b2aabec14a727d70e9?utm_campaign=1051&utm_source=git)** | Cottage Grove, WI | On Site | Dec 09 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/69386f46a0dde7020e3107af?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 09 |
 | **[Cashably](https://cashably.com)** | **[Partnership and Marketing Intern](https://jobright.ai/jobs/info/69386a37aabec14a727d4ee9?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 09 |
 | **[MANE](https://www.mane.com/)** | **[Purchasing Intern - Summer 2026](https://jobright.ai/jobs/info/6938687eaabec14a727d49c9?utm_campaign=1051&utm_source=git)** | Wayne, NJ, US | On Site | Dec 09 |
+| **[Encompass Solutions, Inc.](https://www.encompass-inc.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6938891da0dde7020e311b85?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Dec 09 |
+| **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Operations Internship](https://jobright.ai/jobs/info/69388b4ca0dde7020e311dd5?utm_campaign=1051&utm_source=git)** | Saint Paul, MN, United States | On Site | Dec 09 |
+| **[RaceTrac](http://www.racetrac.com/)** | **[Real Estate Intern (Summer 2026)](https://jobright.ai/jobs/info/691b7a9422a2cb4b9bd12bd7?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6900326ae04ac838fb5c028f?utm_campaign=1051&utm_source=git)** | Petersburg, VA | On Site | Dec 09 |
+| **[HiFi Travel](https://hifi-travel.com/)** | **[Summer Business Development Intern](https://jobright.ai/jobs/info/69389891b95c305f206dc9ac?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 09 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69384f6bb95c305f206d764c?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Sales Intern - Summer](https://jobright.ai/jobs/info/69387c91b95c305f206db14f?utm_campaign=1051&utm_source=git)** | Centennial, CO | On Site | Dec 09 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/693878a4b95c305f206dae28?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | Hybrid | Dec 09 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Internship](https://jobright.ai/jobs/info/693870ebaabec14a727d5a60?utm_campaign=1051&utm_source=git)** | Appleton-Oshkosh Area | On Site | Dec 09 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e381dff758fe1f97e5ebca?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Dec 09 |
@@ -88,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382bcb99ec3563b0e0d76?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Dec 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/69350019a0dde7020e2f7058?utm_campaign=1051&utm_source=git)** | Midlothian, VA | On Site | Dec 09 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933b8b0a0dde7020e2f0fdb?utm_campaign=1051&utm_source=git)** | Charlottesville, VA | On Site | Dec 09 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6938383faabec14a727d1ee8?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 09 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37ea8b99ec3563b0e0bd7?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Dec 09 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6931748f4c474121999efb61?utm_campaign=1051&utm_source=git)** | Hampton, NJ | On Site | Dec 09 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e282f91852e62f007f7f6f?utm_campaign=1051&utm_source=git)** | Onalaska, WI | On Site | Dec 09 |
@@ -115,15 +133,14 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e233cff758fe1f97e59789?utm_campaign=1051&utm_source=git)** | Rancho Cucamonga, CA | On Site | Dec 09 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Long Island)](https://jobright.ai/jobs/info/68c7cc5df42a830e1c7e82a2?utm_campaign=1051&utm_source=git)** | West Hempstead, NY | On Site | Dec 09 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e282cb1852e62f007f7f50?utm_campaign=1051&utm_source=git)** | Orange Park, FL | On Site | Dec 09 |
-| **[IDEMIA Public Security](https://na.idemia.com/)** | **[Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/69382681aabec14a727d194b?utm_campaign=1051&utm_source=git)** | Reston, VA | Hybrid | Dec 09 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e282f11852e62f007f7f69?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 09 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e282f11852e62f007f7f69?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 09 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Charleston](https://jobright.ai/jobs/info/68ffeb1ae0c73b3a111a0744?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Dec 09 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/6938464aa0dde7020e30d285?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 09 |
-| ↳ | **[Commercial Intern](https://jobright.ai/jobs/info/69384806aabec14a727d255d?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 09 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Commercial Intern](https://jobright.ai/jobs/info/69384806aabec14a727d255d?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 09 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ff90180ab3b222462ac017?utm_campaign=1051&utm_source=git)** | Farmington, NM | On Site | Dec 09 |
 | **[Paychex](https://www.paychex.com/)** | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/6938252eb95c305f206d6622?utm_campaign=1051&utm_source=git)** | Piscataway, NJ | Remote | Dec 09 |
-| ↳ | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/693824a7b95c305f206d65e0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Dec 09 |
 | ↳ | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/693758d81c1c2161c13f317e?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Dec 09 |
+| ↳ | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/693824a7b95c305f206d65e0?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Remote | Dec 09 |
+| ↳ | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/69375641a0dde7020e3016f7?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | Hybrid | Dec 09 |
 | **[Brighthouse Financial](https://www.brighthousefinancial.com)** | **[Internal Sales Associate - Spring 2026 (Charlotte, NC (Hybrid) or Remote)](https://jobright.ai/jobs/info/6933f361a0dde7020e2f3310?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Dec 09 |
 | **[Paychex](https://www.paychex.com/)** | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/693755baa0dde7020e301580?utm_campaign=1051&utm_source=git)** | Hauppauge, NY | Remote | Dec 09 |
 | ↳ | **[Sales Intern- Summer 2026](https://jobright.ai/jobs/info/693759e3aabec14a727c6be7?utm_campaign=1051&utm_source=git)** | Culver City, CA | Remote | Dec 09 |
@@ -133,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/68e42b291852e62f0080263f?utm_campaign=1051&utm_source=git)** | Trumbull, CT | On Site | Dec 09 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Technical Sales Engineer Intern (MPSNow)](https://jobright.ai/jobs/info/68e43a60f758fe1f97e65c54?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 09 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Corporate Development](https://jobright.ai/jobs/info/691bebf4bcdbf3560c9e3f88?utm_campaign=1051&utm_source=git)** | South San Francisco, CA | On Site | Dec 09 |
-| **[Orbient 24](orbient24.us)** | **[Business Revenue Operations Intern](https://jobright.ai/jobs/info/69383005a0dde7020e30c965?utm_campaign=1051&utm_source=git)** | Hackensack, NJ | Remote | Dec 09 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca2cfdaf1431824c96c8c?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 09 |
 | **[Xinnor](https://xinnor.io/)** | **[SDR Intern](https://jobright.ai/jobs/info/69380ac1b95c305f206d4a63?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 09 |
 | **[GlobalFoundries](https://gf.com/)** | **[Sales Operations Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/691bd94422a2cb4b9bd16b50?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 09 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Green Boy Group](https://www.greenboy.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69380268aabec14a727cfb6b?utm_campaign=1051&utm_source=git)** | LA Metro Area | On Site | Dec 09 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Elite Horizon Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/68fffb45e0c73b3a111a12e7?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 09 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937f065aabec14a727cf6fe?utm_campaign=1051&utm_source=git)** | Cockeysville, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937f044b95c305f206d3fdc?utm_campaign=1051&utm_source=git)** | Ballenger Creek, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937f024b95c305f206d3f97?utm_campaign=1051&utm_source=git)** | Fort Meade, MD | On Site | Dec 09 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Agency Partnerships Intern](https://jobright.ai/jobs/info/6938210ba0dde7020e30c4f4?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 09 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937eedab95c305f206d3e09?utm_campaign=1051&utm_source=git)** | Perry Hall, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937ecd2b95c305f206d3ca5?utm_campaign=1051&utm_source=git)** | Joppatowne, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937e991a0dde7020e309e13?utm_campaign=1051&utm_source=git)** | Linganore, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937e6f91c1c2161c13faa35?utm_campaign=1051&utm_source=git)** | Marlton, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937e65b1c1c2161c13fa8d0?utm_campaign=1051&utm_source=git)** | Ellicott City, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937e55ba0dde7020e308cc3?utm_campaign=1051&utm_source=git)** | Ocean Pines, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937e3551c1c2161c13fa2fd?utm_campaign=1051&utm_source=git)** | Glenn Dale, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69380bfeaabec14a727cfd2b?utm_campaign=1051&utm_source=git)** | White Marsh Station, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69380e18aabec14a727cfdd7?utm_campaign=1051&utm_source=git)** | Randallstown, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937df9d1c1c2161c13fa1b7?utm_campaign=1051&utm_source=git)** | Lake Shore, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937dd3daabec14a727cd949?utm_campaign=1051&utm_source=git)** | Towson, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937dc7aaabec14a727cd904?utm_campaign=1051&utm_source=git)** | Montgomery Village, MD | On Site | Dec 09 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6937d990a0dde7020e308570?utm_campaign=1051&utm_source=git)** | Potomac, MD | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
