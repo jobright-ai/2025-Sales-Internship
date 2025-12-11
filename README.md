@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Comcast](https://corporate.comcast.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6939e48148a8ce22990dddd2?utm_campaign=1051&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Dec 10 |
 | **[Floy GmbH](https://www.floy.com/)** | **[Working Student / Intern (m/f/d) – Business Development / Sales & Expansion - Poland](https://jobright.ai/jobs/info/6939e40356b68f3dc4e73823?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Leasing / Property Management Intern](https://jobright.ai/jobs/info/6939df16ac80bb5492bc5c50?utm_campaign=1051&utm_source=git)** | Sheridan, CO | On Site | Dec 10 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6939dd4556b68f3dc4e733f4?utm_campaign=1051&utm_source=git)** | Northfield, MN | On Site | Dec 10 |
@@ -68,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[DHL eCommerce](http://dhl.com/ecommerce-solutions)** | **[Sales Intern](https://jobright.ai/jobs/info/691f9b18a49a885af9a3257c?utm_campaign=1051&utm_source=git)** | Mableton, GA | On Site | Dec 10 |
 | **[Powell](http://www.powellind.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6939c81dac80bb5492bc4beb?utm_campaign=1051&utm_source=git)** | 7232 Airport Blvd - Dock C, Houston, TX, 77061, US | On Site | Dec 10 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Sales Intern](https://jobright.ai/jobs/info/6939e78dac80bb5492bc61da?utm_campaign=1051&utm_source=git)** | New York, NY (55th St) | On Site | Dec 10 |
+| **[Continental](https://www.continental.com)** | **[Intern - Sales, Summer 2026 - Truck Tire](https://jobright.ai/jobs/info/6920c76c00c9ee50eaec7e7a?utm_campaign=1051&utm_source=git)** | Fort Mill, SC | On Site | Dec 10 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/6939e64eac80bb5492bc6145?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Dec 10 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Business Insurance Sales Internship](https://jobright.ai/jobs/info/6939e68fac80bb5492bc6166?utm_campaign=1051&utm_source=git)** | Aliso Viejo - Polaris | On Site | Dec 10 |
 | **[Integrated Cooling Solutions](https://integratedcooling.com)** | **[Sales Engineer Intern](https://jobright.ai/jobs/info/6939bfa0ac80bb5492bc4654?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Dec 10 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e0c21a49a885af9a241b0?utm_campaign=1051&utm_source=git)** | Embrun, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e02fb09cc522e87734d2e?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Dec 10 |
 | **[Raymond James Ltd.](https://www.raymondjames.ca/)** | **[Advisor Internship Program (AIP) (Victoria/Kelowna)](https://jobright.ai/jobs/info/691dc1e061dc50590a649e81?utm_campaign=1051&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Dec 10 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691ddade61dc50590a64afb2?utm_campaign=1051&utm_source=git)** | Spruce Grove, Alberta, Canada | On Site | Dec 10 |
-| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691dc064ad5a517034796027?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 10 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691dc064ad5a517034796027?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 10 |
+| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691ddade61dc50590a64afb2?utm_campaign=1051&utm_source=git)** | Spruce Grove, Alberta, Canada | On Site | Dec 10 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691db6b3748c4e1301ec7e18?utm_campaign=1051&utm_source=git)** | St Albert, Alberta, Canada | On Site | Dec 10 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e0a85a49a885af9a24025?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691dcbb6748c4e1301ec8d44?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Dec 10 |
@@ -146,10 +146,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6939c83856b68f3dc4e726c1?utm_campaign=1051&utm_source=git)** | Bruce, MI | On Site | Dec 10 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6939cd0cac80bb5492bc4f32?utm_campaign=1051&utm_source=git)** | Long Lake, MI | On Site | Dec 10 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6939ce4056b68f3dc4e72a88?utm_campaign=1051&utm_source=git)** | Berlin Charter Township, MI | On Site | Dec 10 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6939c1f856b68f3dc4e72324?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Dec 10 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6939cf6356b68f3dc4e72b54?utm_campaign=1051&utm_source=git)** | Port Huron Charter Township, MI | On Site | Dec 10 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6939af3248a8ce22990da8a3?utm_campaign=1051&utm_source=git)** | Flat Rock, MI | On Site | Dec 10 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6939c1f856b68f3dc4e72324?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Dec 10 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6939b6e348a8ce22990db6ea?utm_campaign=1051&utm_source=git)** | Alpena, MI | On Site | Dec 10 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6939cf6356b68f3dc4e72b54?utm_campaign=1051&utm_source=git)** | Port Huron Charter Township, MI | On Site | Dec 10 |
 | **[Insight](https://www.insight.com)** | **[Account Executive Intern](https://jobright.ai/jobs/info/691d8ef1bcdbf3560c9f1b70?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 10 |
 | **[Grainger](https://www.grainger.com)** | **[Government Sales Intern - Rutgers](https://jobright.ai/jobs/info/68acf69dd627244576e4a38f?utm_campaign=1051&utm_source=git)** | South Plainfield, NJ | On Site | Dec 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c4bf758fe1f97e5e91b?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Dec 10 |
