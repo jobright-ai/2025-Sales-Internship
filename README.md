@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern](https://jobright.ai/jobs/info/693b5924d4054a2bc0255197?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Dec 11 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/693b55bf5f2c001987ed5f40?utm_campaign=1051&utm_source=git)** | Catlettsburg, Kentucky | On Site | Dec 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/693b5598b309e37800871970?utm_campaign=1051&utm_source=git)** | Findlay, Ohio | On Site | Dec 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/693b5440b309e37800871687?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Dec 11 |
@@ -64,17 +65,21 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/693b4bb7d4054a2bc0253a75?utm_campaign=1051&utm_source=git)** | Detroit, Michigan | On Site | Dec 11 |
 | ↳ | **[Associate Commercial Sourcing Advisor (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/693b496fb309e3780086fe75?utm_campaign=1051&utm_source=git)** | Canton, Ohio | On Site | Dec 11 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/693b44ca5f2c001987ed4053?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 11 |
-| ↳ | **[Client Advisor Intern](https://jobright.ai/jobs/info/693b43905f2c001987ed3f39?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Dec 11 |
 | **[Summit Credit Union](https://www.summitcreditunion.com/)** | **[Summer 2026 Branch Sales & Services Internship](https://jobright.ai/jobs/info/693890b2aabec14a727d70e9?utm_campaign=1051&utm_source=git)** | Cottage Grove, WI | On Site | Dec 11 |
 | **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Central Development Intern](https://jobright.ai/jobs/info/693b55edd4054a2bc0255011?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Dec 11 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-op or Intern](https://jobright.ai/jobs/info/693b563cd4054a2bc0255041?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Dec 11 |
+| **[Climatec, LLC](http://www.climatec.com)** | **[Intern](https://jobright.ai/jobs/info/693b5a15d4054a2bc025523d?utm_campaign=1051&utm_source=git)** | Bloomfield, NJ | On Site | Dec 11 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Sales Intern](https://jobright.ai/jobs/info/693b26075f2c001987ed2491?utm_campaign=1051&utm_source=git)** | South Carolina, Columbia | On Site | Dec 11 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/693b521bb309e37800871171?utm_campaign=1051&utm_source=git)** | Williamsburg, VA | On Site | Dec 11 |
 | **[UMB Bank](https://www.umb.com)** | **[Commercial Banking Intern](https://jobright.ai/jobs/info/693b42d4d4054a2bc0252d9f?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 11 |
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Sales Reporting & Visualization Intern](https://jobright.ai/jobs/info/693b2450b309e3780086ddf8?utm_campaign=1051&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 11 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Intern](https://jobright.ai/jobs/info/693b23bad4054a2bc0251313?utm_campaign=1051&utm_source=git)** | San Diego - Towne Centre | Hybrid | Dec 11 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5333b309e378008713a0?utm_campaign=1051&utm_source=git)** | Greece, NY | On Site | Dec 11 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5a3a5f2c001987ed6261?utm_campaign=1051&utm_source=git)** | Oyster Bay, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5badb309e37800871e80?utm_campaign=1051&utm_source=git)** | Cheektowaga, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5333b309e378008713a0?utm_campaign=1051&utm_source=git)** | Greece, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5437d4054a2bc0254d35?utm_campaign=1051&utm_source=git)** | Ramapo, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5964b309e37800871ce1?utm_campaign=1051&utm_source=git)** | North Hempstead, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5bdfb309e37800871eac?utm_campaign=1051&utm_source=git)** | Colonie, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5175d4054a2bc02547bb?utm_campaign=1051&utm_source=git)** | White Plains, NY | On Site | Dec 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Sales Operations: Spring Co-Op Internship Opportunities](https://jobright.ai/jobs/info/693b4498d4054a2bc0252f3b?utm_campaign=1051&utm_source=git)** | Canada, Ontario, Toronto | Hybrid | Dec 11 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/693b4456d4054a2bc0252f06?utm_campaign=1051&utm_source=git)** | Canada | Remote | Dec 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691de0aead5a51703479770e?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 11 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e0f7a3f782d2f1afb05cf?utm_campaign=1051&utm_source=git)** | Carleton Place, Ontario, Canada | On Site | Dec 11 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e11fd3f782d2f1afb0846?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Dec 11 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690267e1ff462851fefe2bb0?utm_campaign=1051&utm_source=git)** | Newark, OH | On Site | Dec 11 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690257ed98707b2b0fe6e734?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Dec 11 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Resource Recovery Internship UT Surplus Reuse Store (Thursday)](https://jobright.ai/jobs/info/693ad9895f2c001987ece35a?utm_campaign=1051&utm_source=git)** | AUSTIN, TX | On Site | Dec 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6934ecba764507023d1be493?utm_campaign=1051&utm_source=git)** | Helena, MT | On Site | Dec 11 |
-| **[Ecolab](http://www.ecolab.com)** | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/691f35043f782d2f1afb9283?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
