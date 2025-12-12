@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bdf5f49a7695fbd02d4d2?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Dec 12 |
+| **[Vanillakart](https://vanillakart.com/)** | **[Business development and sales intern](https://jobright.ai/jobs/info/693bcf7a49a7695fbd02b599?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Auros](https://auros.global/)** | **[Ventures Intern](https://jobright.ai/jobs/info/693ba67450bbaf76504f1325?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Dec 11 |
 | ↳ | **[Ventures Intern](https://jobright.ai/jobs/info/693b9fa150bbaf76504f0ae3?utm_campaign=1051&utm_source=git)** | New York | On Site | Dec 11 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Sales Intern](https://jobright.ai/jobs/info/693bd8924911ef04095efb65?utm_campaign=1051&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 11 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b8d255f2c001987ed7b85?utm_campaign=1051&utm_source=git)** | Kiryas Joel, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b8cfcd4054a2bc0256a7a?utm_campaign=1051&utm_source=git)** | Palm Tree, NY | On Site | Dec 11 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Calumet City](https://jobright.ai/jobs/info/693b8c3cd4054a2bc02569f7?utm_campaign=1051&utm_source=git)** | Calumet City, IL | On Site | Dec 11 |
@@ -77,27 +80,28 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ba44a49a7695fbd02989f?utm_campaign=1051&utm_source=git)** | Wallkill, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ba03849a7695fbd02940f?utm_campaign=1051&utm_source=git)** | Irondequoit, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bc0434911ef04095eed43?utm_campaign=1051&utm_source=git)** | Port Chester, NY | On Site | Dec 11 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bb98a4911ef04095ee980?utm_campaign=1051&utm_source=git)** | Clifton Park, NY | On Site | Dec 11 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bb50a49a7695fbd02a1bd?utm_campaign=1051&utm_source=git)** | Valley Stream, NY | On Site | Dec 11 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ba31c49a7695fbd02971e?utm_campaign=1051&utm_source=git)** | Orangetown, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bb97b4911ef04095ee974?utm_campaign=1051&utm_source=git)** | Rotterdam, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bb50a49a7695fbd02a1bd?utm_campaign=1051&utm_source=git)** | Valley Stream, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bc10a4911ef04095eed8f?utm_campaign=1051&utm_source=git)** | Guilderland, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ba31c49a7695fbd02971e?utm_campaign=1051&utm_source=git)** | Orangetown, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bb98a4911ef04095ee980?utm_campaign=1051&utm_source=git)** | Clifton Park, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bba4550bbaf76504f1f07?utm_campaign=1051&utm_source=git)** | Eastchester, NY | On Site | Dec 11 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bb4e149a7695fbd02a16d?utm_campaign=1051&utm_source=git)** | Yorktown, NY | On Site | Dec 11 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bb6b049a7695fbd02a36a?utm_campaign=1051&utm_source=git)** | Clarence, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ba4c849a7695fbd029918?utm_campaign=1051&utm_source=git)** | Utica, NY | On Site | Dec 11 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bbad149a7695fbd02a797?utm_campaign=1051&utm_source=git)** | Cortlandt, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bb6b049a7695fbd02a36a?utm_campaign=1051&utm_source=git)** | Clarence, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bb4e149a7695fbd02a16d?utm_campaign=1051&utm_source=git)** | Yorktown, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bbade49a7695fbd02a79b?utm_campaign=1051&utm_source=git)** | Perinton, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693bbad149a7695fbd02a797?utm_campaign=1051&utm_source=git)** | Cortlandt, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b98315f2c001987ed905b?utm_campaign=1051&utm_source=git)** | East Glenville, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ba5f049a7695fbd029a82?utm_campaign=1051&utm_source=git)** | Riverhead, NY | On Site | Dec 11 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Davis](https://jobright.ai/jobs/info/693bb9374911ef04095ee90b?utm_campaign=1051&utm_source=git)** | Davis, CA | On Site | Dec 11 |
-| ↳ | **[Summer Sales Internship Pasco](https://jobright.ai/jobs/info/693ba50d50bbaf76504f1185?utm_campaign=1051&utm_source=git)** | Pasco, WA | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship Chambersburg](https://jobright.ai/jobs/info/693b9007d4054a2bc0256ec8?utm_campaign=1051&utm_source=git)** | Chambersburg, PA | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship Pasco](https://jobright.ai/jobs/info/693ba50d50bbaf76504f1185?utm_campaign=1051&utm_source=git)** | Pasco, WA | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship Oakland Park](https://jobright.ai/jobs/info/693bbab34911ef04095ee9fa?utm_campaign=1051&utm_source=git)** | Oakland Park, FL | On Site | Dec 11 |
 | **[CRH](http://crh.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/693b7066b309e3780087293b?utm_campaign=1051&utm_source=git)** | Wilsonville, OR | On Site | Dec 11 |
 | **[Saya Agency](https://www.saya-agency.com)** | **[Sales Representative Intern — Advertising Agency Support Role (Part-Time, Remote, US Only)](https://jobright.ai/jobs/info/693b6de25f2c001987ed6d2d?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Gray Media](http://www.gray.tv)** | **[GRAY MEDIA SALES INTERN WINTER/SPRING '26 - WDBJ](https://jobright.ai/jobs/info/693b9602d4054a2bc0257b18?utm_campaign=1051&utm_source=git)** | Roanoke, VA | On Site | Dec 11 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/693b91655f2c001987ed829d?utm_campaign=1051&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Dec 11 |
+| **[Cincinnati Reds](https://reds.mlb.com/)** | **[Game Day Sales Internship](https://jobright.ai/jobs/info/693bdf3e50bbaf76504f4c43?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 11 |
 | **[TRG](https://trg.agency)** | **[Audio-Video Investment Intern (Winter 2026)](https://jobright.ai/jobs/info/693b8d5eb309e37800873775?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 11 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Sales Intern](https://jobright.ai/jobs/info/693bb29050bbaf76504f18e5?utm_campaign=1051&utm_source=git)** | Farmington Hills, Michigan | Hybrid | Dec 11 |
 | **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Commercial Lines Underwriting Intern](https://jobright.ai/jobs/info/693b62095f2c001987ed6820?utm_campaign=1051&utm_source=git)** | Bedford, NH | On Site | Dec 11 |
@@ -131,14 +135,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5badb309e37800871e80?utm_campaign=1051&utm_source=git)** | Cheektowaga, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b610f5f2c001987ed66da?utm_campaign=1051&utm_source=git)** | Smithtown, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b61965f2c001987ed6784?utm_campaign=1051&utm_source=git)** | Greenburgh, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5333b309e378008713a0?utm_campaign=1051&utm_source=git)** | Greece, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b636ed4054a2bc025587e?utm_campaign=1051&utm_source=git)** | New Rochelle, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5f55b309e378008720c5?utm_campaign=1051&utm_source=git)** | Schenectady, NY | On Site | Dec 11 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5333b309e378008713a0?utm_campaign=1051&utm_source=git)** | Greece, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5437d4054a2bc0254d35?utm_campaign=1051&utm_source=git)** | Ramapo, NY | On Site | Dec 11 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5964b309e37800871ce1?utm_campaign=1051&utm_source=git)** | North Hempstead, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b6139b309e3780087228e?utm_campaign=1051&utm_source=git)** | Clarkstown, NY | On Site | Dec 11 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5175d4054a2bc02547bb?utm_campaign=1051&utm_source=git)** | White Plains, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5964b309e37800871ce1?utm_campaign=1051&utm_source=git)** | North Hempstead, NY | On Site | Dec 11 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5bdfb309e37800871eac?utm_campaign=1051&utm_source=git)** | Colonie, NY | On Site | Dec 11 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b5175d4054a2bc02547bb?utm_campaign=1051&utm_source=git)** | White Plains, NY | On Site | Dec 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Sales Operations: Spring Co-Op Internship Opportunities](https://jobright.ai/jobs/info/693b4498d4054a2bc0252f3b?utm_campaign=1051&utm_source=git)** | Canada, Ontario, Toronto | Hybrid | Dec 11 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/693b4456d4054a2bc0252f06?utm_campaign=1051&utm_source=git)** | Canada | Remote | Dec 11 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693b40b1d4054a2bc0252bbc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Partnership (Activations), HBCU Pathways Internship](https://jobright.ai/jobs/info/693b39bcd4054a2bc0252656?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
 | ↳ | **[Global Partnership (Sales), HBCU Pathways Internship](https://jobright.ai/jobs/info/693b49375f2c001987ed44c6?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Dec 11 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/693b3a3ab309e3780086f231?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Dec 11 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Resource Recovery Internship - UT Surplus Reuse Store (Saturday)](https://jobright.ai/jobs/info/693b1375b309e3780086d028?utm_campaign=1051&utm_source=git)** | AUSTIN, TX | On Site | Dec 11 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690256ae98707b2b0fe6e5fc?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 11 |
-| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Milwaukee Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/693af82f5f2c001987ecf14e?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Dec 11 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Procter & Gamble - Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68d01380846f0b04af68753d?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
