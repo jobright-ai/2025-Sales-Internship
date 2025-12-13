@@ -57,6 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d366249a7695fbd03e893?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d366149a7695fbd03e892?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d361150bbaf7650505f87?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d355250bbaf7650505f61?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d30d050bbaf7650505a93?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d2fd549a7695fbd03e34e?utm_campaign=1051&utm_source=git)** | Lowell, MA | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d2f19aa598a08c3edf9a5?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d2dd049a7695fbd03e2ce?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d2cffaa598a08c3edf550?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d2cb950bbaf7650504bec?utm_campaign=1051&utm_source=git)** | Metairie, LA | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d2c78aa598a08c3edeff0?utm_campaign=1051&utm_source=git)** | Oxford, MS | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d2c5550bbaf7650504978?utm_campaign=1051&utm_source=git)** | Lake Charles, LA | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d2b9649a7695fbd03e02b?utm_campaign=1051&utm_source=git)** | Brownsville, TX | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d2a6350bbaf7650504937?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d2a1249a7695fbd03d5ee?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d297649a7695fbd03d4c6?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Dec 13 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693d290549a7695fbd03d4b5?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Dec 13 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 366](https://jobright.ai/jobs/info/693d16ac49a7695fbd03c320?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Dec 12 |
 | **[PlayBiig](https://www.linkedin.com/company/108321577)** | **[Client Acquisition Intern](https://jobright.ai/jobs/info/693d14fa50bbaf7650503a2d?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Dec 12 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/693732f71c1c2161c13f1641?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | Dec 12 |
@@ -74,8 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693cdbe350bbaf765050046a?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Dec 12 |
 | **[Vienna Beef](http://viennabeef.com)** | **[Sales Intern](https://jobright.ai/jobs/info/693cdba8aa598a08c3eda331?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 12 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693cdb7baa598a08c3eda31d?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Dec 12 |
-| **[S&P Global](https://www.spglobal.com)** | **[Commercial & CX Commodity Summer Intern - (Early Careers)](https://jobright.ai/jobs/info/693cdb5949a7695fbd038bc8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 12 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693cdb0b49a7695fbd038ba8?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Dec 12 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693cdb0b49a7695fbd038ba8?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Dec 12 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693cdaf5aa598a08c3eda2e5?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Dec 12 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693cdaf350bbaf7650500412?utm_campaign=1051&utm_source=git)** | Hollywood, FL | On Site | Dec 12 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693cdadaaa598a08c3eda2da?utm_campaign=1051&utm_source=git)** | Decatur, IL | On Site | Dec 12 |
@@ -119,10 +135,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693cd17249a7695fbd0387d5?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 12 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693cd15a49a7695fbd0387d2?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Dec 12 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship St. Petersburg](https://jobright.ai/jobs/info/693cef0949a7695fbd039804?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Dec 12 |
-| ↳ | **[Summer Sales Internship Pearland](https://jobright.ai/jobs/info/693cee7449a7695fbd0397cf?utm_campaign=1051&utm_source=git)** | Pearland, TX | On Site | Dec 12 |
 | ↳ | **[Summer Sales Internship North Miami](https://jobright.ai/jobs/info/693cf159aa598a08c3edb05c?utm_campaign=1051&utm_source=git)** | North Miami, FL | On Site | Dec 12 |
+| ↳ | **[Summer Sales Internship Pearland](https://jobright.ai/jobs/info/693cee7449a7695fbd0397cf?utm_campaign=1051&utm_source=git)** | Pearland, TX | On Site | Dec 12 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/693cf288aa598a08c3edba3f?utm_campaign=1051&utm_source=git)** | Pomona, CA | On Site | Dec 12 |
 | **[Leepfrog Technologies](https://www.leepfrog.com/)** | **[Client Success Intern](https://jobright.ai/jobs/info/693cc6d2aa598a08c3ed98e7?utm_campaign=1051&utm_source=git)** | Coralville,IA,US | On Site | Dec 12 |
+| **[S&P Global](https://www.spglobal.com)** | **[Commercial & CX Commodity Summer Intern - (Early Careers)](https://jobright.ai/jobs/info/693cc09950bbaf76504ff72f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 12 |
 | **[Valmark Financial Group](http://valmarkfg.com)** | **[Insurance Operations Internship](https://jobright.ai/jobs/info/6938f060b95c305f206e3021?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Dec 12 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/693cbfddaa598a08c3ed94c1?utm_campaign=1051&utm_source=git)** | De Forest, WI | On Site | Dec 12 |
 | **[PCI Pharma Services](http://www.pciservices.com)** | **[Sales Intern](https://jobright.ai/jobs/info/693cbfa650bbaf76504ff6a3?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Dec 12 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Indigenous Student Internship, Northwestern Ontario](https://jobright.ai/jobs/info/693c9814aa598a08c3ed80d2?utm_campaign=1051&utm_source=git)** | Fort Frances, Ontario, Canada | Hybrid | Dec 12 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative (Summer 2026 - Honolulu)](https://jobright.ai/jobs/info/6851cf38fe2edaf8853c0af3?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Dec 12 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693c979650bbaf76504fde20?utm_campaign=1051&utm_source=git)** | Mesa, AZ | On Site | Dec 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Sales Operations Summer Intern](https://jobright.ai/jobs/info/693c973d50bbaf76504fdc65?utm_campaign=1051&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - Banking Advisor Student Intern, Saskatchewan](https://jobright.ai/jobs/info/693c9637aa598a08c3ed76a1?utm_campaign=1051&utm_source=git)** | Melfort, Saskatchewan, Canada | Hybrid | Dec 12 |
-| ↳ | **[2026 Summer - Banking Advisor Student Intern, Northwestern Ontario](https://jobright.ai/jobs/info/693c95bfaa598a08c3ed748d?utm_campaign=1051&utm_source=git)** | Greater Sudbury, Ontario, Canada | Hybrid | Dec 12 |
-| **[Rolls-Royce](http://www.rolls-royce.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/693c9571aa598a08c3ed72d5?utm_campaign=1051&utm_source=git)** | Aiken | On Site | Dec 12 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693c956050bbaf76504fd2af?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Dec 12 |
-| **[Rolls-Royce](http://www.rolls-royce.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/693c9535aa598a08c3ed71a1?utm_campaign=1051&utm_source=git)** | Aiken | On Site | Dec 12 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693c946050bbaf76504fcd4a?utm_campaign=1051&utm_source=git)** | Chula Vista, CA | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/693c941750bbaf76504fcc45?utm_campaign=1051&utm_source=git)** | Delta, British Columbia, Canada | On Site | Dec 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Podcast Pre/Post Sale Operations Intern](https://jobright.ai/jobs/info/693c936750bbaf76504fc949?utm_campaign=1051&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693c924750bbaf76504fc616?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - Banking Advisor Student Intern, Manitoba](https://jobright.ai/jobs/info/693c91d550bbaf76504fc5d7?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Dec 12 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Client Development Intern - Fragrance & Beauty (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/693c918daa598a08c3ed63e6?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Dec 12 |
-| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/693c908f49a7695fbd034c30?utm_campaign=1051&utm_source=git)** | Springfield, IL | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Indigenous Student Internship, Saskatchewan](https://jobright.ai/jobs/info/693c8feeaa598a08c3ed62fe?utm_campaign=1051&utm_source=git)** | Regina, Saskatchewan, Canada | Hybrid | Dec 12 |
-| ↳ | **[Summer 2026 Student - Indigenous Student Internship, South Western Ontario](https://jobright.ai/jobs/info/693c8fd649a7695fbd034baf?utm_campaign=1051&utm_source=git)** | WINDSOR, Ontario, Canada | Hybrid | Dec 12 |
-| ↳ | **[Summer 2026 Student - Indigenous Student Internship, Saskatchewan](https://jobright.ai/jobs/info/693c8fd350bbaf76504fc54b?utm_campaign=1051&utm_source=git)** | YORKTON, Saskatchewan, Canada | Hybrid | Dec 12 |
-| ↳ | **[Summer 2026 Student - Indigenous Student Internship, South Western Ontario](https://jobright.ai/jobs/info/693c8f2aaa598a08c3ed6258?utm_campaign=1051&utm_source=git)** | OAKVILLE, Ontario, Canada | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
