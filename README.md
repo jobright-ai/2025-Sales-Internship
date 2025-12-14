@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citi](https://www.citi.com)** | **[Banking - Capital Markets, Summer Associate, New York (North America – 2026)](https://jobright.ai/jobs/info/6917c06cbcdbf3560c9cb049?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 14 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Buying Intern](https://jobright.ai/jobs/info/69157c52286ccf0a1512eb52?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
+| **[Brookfield](https://bam.brookfield.com)** | **[Intern, Global Client Group](https://jobright.ai/jobs/info/68e05e2af758fe1f97e4cbb4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 14 |
+| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Charlotte, Summer 2026](https://jobright.ai/jobs/info/69054f59ff462851feffc9a6?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Dec 14 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Northern Michigan)](https://jobright.ai/jobs/info/68b0b5f713563e782a9f8ba5?utm_campaign=1051&utm_source=git)** | Flushing, MI | On Site | Dec 14 |
+| ↳ | **[2026 Management and Sales Intern - Louisville](https://jobright.ai/jobs/info/68ce4ab1fb49c96ca6e9e8ea?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Dec 14 |
+| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/68cdb865e23def7af55be95a?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Dec 14 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Fresh Food Category Manager Intern](https://jobright.ai/jobs/info/68e914670930fe0bc46221e7?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Dec 14 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68af63541f0a2a568a06134a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 14 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[7-Ventures and Emerging Brands Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Dec 14 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Green Bay)](https://jobright.ai/jobs/info/68b0afe7b47fb001d6894a8f?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Dec 14 |
@@ -131,7 +139,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Global Wealth Management, Internal Sales Analyst](https://jobright.ai/jobs/info/6933efaef131d96e48468740?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 13 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[W3 Intern - Summer 2026](https://jobright.ai/jobs/info/693094504c474121999e638a?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Dec 13 |
 | **[Alta Marketing](https://www.sellalta.com)** | **[Door to Door Sales and Marketing Internship](https://jobright.ai/jobs/info/693da7d550bbaf765050a552?utm_campaign=1051&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 13 |
-| **[H15DEN](https://h15den.com)** | **[Business Development Micro Internship](https://jobright.ai/jobs/info/693da02450bbaf765050a43f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 13 |
 | **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, AVP - Banking Intern (4 Months, Vancouver-BC)](https://jobright.ai/jobs/info/693d9aee50bbaf7650508c56?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 13 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ad9763502c0aded6b04c?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Dec 13 |
 | **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, AVP - Banking Intern (4 Months, Calgary-AB)](https://jobright.ai/jobs/info/693d97dd49a7695fbd04129a?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Dec 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b5c4ff462851fefedc7d?utm_campaign=1051&utm_source=git)** | Anaheim, CA | On Site | Dec 13 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Las Vegas, NV](https://jobright.ai/jobs/info/6903931d63502c0aded69fd5?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 13 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Sourcing Intern](https://jobright.ai/jobs/info/6920c2393f782d2f1afcb1c0?utm_campaign=1051&utm_source=git)** | Sycamore, IL | On Site | Dec 13 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b9ceff462851fefedf36?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Dec 13 |
-| **[Leepfrog Technologies](https://www.leepfrog.com/)** | **[Client Success Intern](https://jobright.ai/jobs/info/693d888250bbaf76505087eb?utm_campaign=1051&utm_source=git)** | Coralville, IA | On Site | Dec 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e86d3e09580a2fe57f788f?utm_campaign=1051&utm_source=git)** | Natchitoches, LA | On Site | Dec 13 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903a7b6ff462851fefed238?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Dec 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e86d7cc72beb74cb31e8b7?utm_campaign=1051&utm_source=git)** | Longview, TX | On Site | Dec 13 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aa9363502c0aded6ae45?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 13 |
-| **[Solenis](http://solenis.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/6930b44f4c474121999e7b43?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
