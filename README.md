@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/693df4c8aa598a08c3ee65de?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Investor Services, Summer Internship/Co-op (4-16 months)](https://jobright.ai/jobs/info/693ddf9750bbaf765050c5cf?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 13 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Business Internship -Talent Pool](https://jobright.ai/jobs/info/693dd74d50bbaf765050c462?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Dec 13 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693dd2b9aa598a08c3ee5767?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 13 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Leader Trainee Intern](https://jobright.ai/jobs/info/693d7fa550bbaf7650508626?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211f253f782d2f1afcf61a?utm_campaign=1051&utm_source=git)** | West Chester, PA | On Site | Dec 13 |
 | ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e87232cc49a84b7e106417?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, AVP - Banking Intern (4 Months, Calgary-AB)](https://jobright.ai/jobs/info/693d7e8e49a7695fbd040e04?utm_campaign=1051&utm_source=git)** | CALGARY, Alberta, Canada | Hybrid | Dec 13 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68af4b512daaba398441cedf?utm_campaign=1051&utm_source=git)** | Pflugerville, TX | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, AVP - Banking Intern (4 Months, Calgary-AB)](https://jobright.ai/jobs/info/693d7e64aa598a08c3ee24b7?utm_campaign=1051&utm_source=git)** | CALGARY, Alberta, Canada | Hybrid | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69211b8a3f782d2f1afcf381?utm_campaign=1051&utm_source=git)** | Lansdale, PA | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, AVP - Banking Intern (4 Months, Vancouver-BC)](https://jobright.ai/jobs/info/693d7db050bbaf76505085c1?utm_campaign=1051&utm_source=git)** | VANCOUVER, British Columbia, Canada | Hybrid | Dec 13 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6920f88f3f782d2f1afcda0b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b15663502c0aded6b342?utm_campaign=1051&utm_source=git)** | Ontario, CA | On Site | Dec 13 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b030d64a22104aa91c66?utm_campaign=1051&utm_source=git)** | Marietta, GA | On Site | Dec 13 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6933bb7bf131d96e4846695a?utm_campaign=1051&utm_source=git)** | Poplar Bluff, MO | On Site | Dec 13 |
-| **[Cable One/Sparklight Careers](https://ir.cableone.net)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
