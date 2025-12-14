@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Outlier AI](http://outlier.ai/)** | **[Business Development Intern (Remote)](https://jobright.ai/jobs/info/693e833850bbaf7650513610?utm_campaign=1051&utm_source=git)** | Memphis, TN | Remote | Dec 14 |
+| ↳ | **[Business Development Intern (Remote)](https://jobright.ai/jobs/info/693e825e50bbaf76505135f2?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Dec 14 |
+| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Corporate Partnerships Game Day Intern](https://jobright.ai/jobs/info/692f2703fa28370be26a7c65?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 14 |
 | **[Fusion100](http://Fusion100co.com)** | **[Apparel Sales and Marketing Intern](https://jobright.ai/jobs/info/693e5058aa598a08c3eeac8a?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Dec 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Revenue Management](https://jobright.ai/jobs/info/693e2e61aa598a08c3ee8993?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Dec 13 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Muskegon](https://jobright.ai/jobs/info/693e2e41aa598a08c3ee898a?utm_campaign=1051&utm_source=git)** | Muskegon, MI | On Site | Dec 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355e06f131d96e4846e1e4?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Dec 13 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a589f131d96e484655f7?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Dec 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Dec 13 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903becad64a22104aa926aa?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Dec 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/6933c14d764507023d1b91a1?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Dec 13 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68e8cf5501c6482bd8777960?utm_campaign=1051&utm_source=git)** | Warner Robins, GA | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
