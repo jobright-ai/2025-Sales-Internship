@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fusion100](http://Fusion100co.com)** | **[Apparel Sales and Marketing Intern](https://jobright.ai/jobs/info/693e5058aa598a08c3eeac8a?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Dec 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Revenue Management](https://jobright.ai/jobs/info/693e2e61aa598a08c3ee8993?utm_campaign=1051&utm_source=git)** | Miami, FL | Hybrid | Dec 13 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Muskegon](https://jobright.ai/jobs/info/693e2e41aa598a08c3ee898a?utm_campaign=1051&utm_source=git)** | Muskegon, MI | On Site | Dec 13 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693e251449a7695fbd046d80?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903becad64a22104aa926aa?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/6933c14d764507023d1b91a1?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Dec 13 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68e8cf5501c6482bd8777960?utm_campaign=1051&utm_source=git)** | Warner Robins, GA | On Site | Dec 13 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Wallula, WA](https://jobright.ai/jobs/info/68b7d90aa10b650604b61644?utm_campaign=1051&utm_source=git)** | Touchet, WA | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
