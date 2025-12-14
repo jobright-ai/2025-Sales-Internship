@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[Business Development Micro-Internship](https://jobright.ai/jobs/info/693f028d49a7695fbd04f7ee?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 14 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/693ee18caa598a08c3eef6b9?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/693edacc50bbaf76505159cd?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 14 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/68cd70c3b2a74e1837ed6ffa?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Dec 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/693df4c8aa598a08c3ee65de?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Investor Services, Summer Internship/Co-op (4-16 months)](https://jobright.ai/jobs/info/693ddf9750bbaf765050c5cf?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 13 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Business Internship -Talent Pool](https://jobright.ai/jobs/info/693dd74d50bbaf765050c462?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Dec 13 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693dd2b9aa598a08c3ee5767?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
