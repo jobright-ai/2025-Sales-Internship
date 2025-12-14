@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/693f28c250bbaf7650519275?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Dec 14 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/693f26fbaa598a08c3ef2e8a?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
+| **[Toledo Walleye](https://www.toledowalleye.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/693f169049a7695fbd04fa13?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Dec 14 |
 | **[H15DEN](https://h15den.com)** | **[Business Development Micro-Internship](https://jobright.ai/jobs/info/693f028d49a7695fbd04f7ee?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 14 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/693ee18caa598a08c3eef6b9?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/693edacc50bbaf76505159cd?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 14 |
@@ -104,16 +107,13 @@ For a complete list, click the following sortable link below:
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Global Client Group](https://jobright.ai/jobs/info/68e05e2af758fe1f97e4cbb4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 14 |
 | **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Charlotte, Summer 2026](https://jobright.ai/jobs/info/69054f59ff462851feffc9a6?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Dec 14 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Northern Michigan)](https://jobright.ai/jobs/info/68b0b5f713563e782a9f8ba5?utm_campaign=1051&utm_source=git)** | Flushing, MI | On Site | Dec 14 |
-| ↳ | **[2026 Management and Sales Intern - Louisville](https://jobright.ai/jobs/info/68ce4ab1fb49c96ca6e9e8ea?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Dec 14 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/68cdb865e23def7af55be95a?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Dec 14 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Fresh Food Category Manager Intern](https://jobright.ai/jobs/info/68e914670930fe0bc46221e7?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Dec 14 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68af63541f0a2a568a06134a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 14 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[7-Ventures and Emerging Brands Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Dec 14 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Green Bay)](https://jobright.ai/jobs/info/68b0afe7b47fb001d6894a8f?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Dec 14 |
-| ↳ | **[2026 Management and Sales Summer Internship (Western Michigan)](https://jobright.ai/jobs/info/68b0a882b47fb001d68943de?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Dec 14 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Merchandising Center Store Intern](https://jobright.ai/jobs/info/69350b6ba0dde7020e2f72de?utm_campaign=1051&utm_source=git)** | Carlisle, PA | On Site | Dec 14 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/68cdb8061ad6b16f0289e308?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 14 |
-| ↳ | **[2026 Management and Sales Summer Internship (Madison)](https://jobright.ai/jobs/info/68b0b4172d46f6396cae7d67?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Dec 14 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Madison)](https://jobright.ai/jobs/info/68b0b4172d46f6396cae7d67?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Dec 14 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Supply Clerk Intern](https://jobright.ai/jobs/info/6921c8d53f782d2f1afd3d68?utm_campaign=1051&utm_source=git)** | CS-Bryan Area | On Site | Dec 14 |
 | **[MathWorks](http://www.mathworks.com)** | **[Inside Sales Summer Intern](https://jobright.ai/jobs/info/69052cb2122e8474c78d70e9?utm_campaign=1051&utm_source=git)** | Natick, MA | Hybrid | Dec 14 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e85ceb09580a2fe57f6d34?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 14 |
