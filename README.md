@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68af63541f0a2a568a06134a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 14 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[7-Ventures and Emerging Brands Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Dec 14 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Green Bay)](https://jobright.ai/jobs/info/68b0afe7b47fb001d6894a8f?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Dec 14 |
+| ↳ | **[2026 Management and Sales Summer Internship (Western Michigan)](https://jobright.ai/jobs/info/68b0a882b47fb001d68943de?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Dec 14 |
+| **[The GIANT Company](https://giantfoodstores.com)** | **[Merchandising Center Store Intern](https://jobright.ai/jobs/info/69350b6ba0dde7020e2f72de?utm_campaign=1051&utm_source=git)** | Carlisle, PA | On Site | Dec 14 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/68cdb8061ad6b16f0289e308?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 14 |
+| ↳ | **[2026 Management and Sales Summer Internship (Madison)](https://jobright.ai/jobs/info/68b0b4172d46f6396cae7d67?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Dec 14 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Supply Clerk Intern](https://jobright.ai/jobs/info/6921c8d53f782d2f1afd3d68?utm_campaign=1051&utm_source=git)** | CS-Bryan Area | On Site | Dec 14 |
+| **[MathWorks](http://www.mathworks.com)** | **[Inside Sales Summer Intern](https://jobright.ai/jobs/info/69052cb2122e8474c78d70e9?utm_campaign=1051&utm_source=git)** | Natick, MA | Hybrid | Dec 14 |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e85ceb09580a2fe57f6d34?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 14 |
 | **[Outlier AI](http://outlier.ai/)** | **[Business Development Intern (Remote)](https://jobright.ai/jobs/info/693e833850bbaf7650513610?utm_campaign=1051&utm_source=git)** | Memphis, TN | Remote | Dec 14 |
 | ↳ | **[Business Development Intern (Remote)](https://jobright.ai/jobs/info/693e825e50bbaf76505135f2?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Dec 14 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Corporate Partnerships Game Day Intern](https://jobright.ai/jobs/info/692f2703fa28370be26a7c65?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 14 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/68e86d7cc72beb74cb31e8b7?utm_campaign=1051&utm_source=git)** | Longview, TX | On Site | Dec 13 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aa9363502c0aded6ae45?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 13 |
 | **[Solenis](http://solenis.com/)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/6930b44f4c474121999e7b43?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Dec 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68eca40d1eecd439f43fc67e?utm_campaign=1051&utm_source=git)** | Auburn, AL | On Site | Dec 13 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - Knoxville, TN](https://jobright.ai/jobs/info/6903942563502c0aded6a067?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Dec 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6921226400c9ee50eaecc023?utm_campaign=1051&utm_source=git)** | Springfield, PA | On Site | Dec 13 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693d8515aa598a08c3ee25ac?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Dec 13 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ad2963502c0aded6b00a?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Dec 13 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903acc6d64a22104aa919bd?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Dec 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - Wolcott, CT](https://jobright.ai/jobs/info/6933ef97f131d96e484686d3?utm_campaign=1051&utm_source=git)** | Waterbury, CT | On Site | Dec 13 |
-| ↳ | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355e06f131d96e4846e1e4?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Dec 13 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a589f131d96e484655f7?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Dec 13 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68ccae00128dc347fd9282e0?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
