@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/693ee18caa598a08c3eef6b9?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/693edacc50bbaf76505159cd?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 14 |
 | **[Lincoln International](http://www.lincolninternational.com)** | **[2026 Summer Associate Intern, M&A](https://jobright.ai/jobs/info/68cd70c3b2a74e1837ed6ffa?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Dec 14 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Alliance Analyst Intern](https://jobright.ai/jobs/info/691d4478bcdbf3560c9ef16d?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Investor Services, Summer Internship/Co-op (4-16 months)](https://jobright.ai/jobs/info/693ddf9750bbaf765050c5cf?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 13 |
 | **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Business Internship -Talent Pool](https://jobright.ai/jobs/info/693dd74d50bbaf765050c462?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Dec 13 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693dd2b9aa598a08c3ee5767?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 13 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693dd26150bbaf765050b411?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
