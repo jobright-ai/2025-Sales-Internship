@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Excellence Elite Intern (Summer 2026)](https://jobright.ai/jobs/info/693fb394aa598a08c3ef81c9?utm_campaign=1051&utm_source=git)** | USA - Austin, TX | On Site | Dec 14 |
 | **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Intern](https://jobright.ai/jobs/info/693fa017aa598a08c3ef79bf?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 14 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Loves Park](https://jobright.ai/jobs/info/693f828749a7695fbd053aaf?utm_campaign=1051&utm_source=git)** | Loves Park, IL | On Site | Dec 14 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693f8250aa598a08c3ef5575?utm_campaign=1051&utm_source=git)** | Fishkill, NY | On Site | Dec 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e85ceb09580a2fe57f6d34?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 14 |
 | **[Outlier AI](http://outlier.ai/)** | **[Business Development Intern (Remote)](https://jobright.ai/jobs/info/693e833850bbaf7650513610?utm_campaign=1051&utm_source=git)** | Memphis, TN | Remote | Dec 14 |
 | ↳ | **[Business Development Intern (Remote)](https://jobright.ai/jobs/info/693e825e50bbaf76505135f2?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Dec 14 |
-| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Corporate Partnerships Game Day Intern](https://jobright.ai/jobs/info/692f2703fa28370be26a7c65?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
