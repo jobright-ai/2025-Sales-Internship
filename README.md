@@ -57,11 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fd26c49a7695fbd058776?utm_campaign=1051&utm_source=git)** | Olean, NY | On Site | Dec 15 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[National Sales Internship](https://jobright.ai/jobs/info/6923f8e638cd5478a8d58439?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Dec 15 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Excellence Elite Intern (Summer 2026)](https://jobright.ai/jobs/info/693fee0450bbaf7650520bdc?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 15 |
+| **[City of Mountain View](http://mountainview.gov/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/693fec63aa598a08c3efa86e?utm_campaign=1051&utm_source=git)** | Mountain View, CA | Hybrid | Dec 15 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fe02750bbaf76505209e0?utm_campaign=1051&utm_source=git)** | Malone, NY | On Site | Dec 15 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fda3050bbaf76505208e7?utm_campaign=1051&utm_source=git)** | Schodack, NY | On Site | Dec 15 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fd99250bbaf76505208dc?utm_campaign=1051&utm_source=git)** | Mamakating, NY | On Site | Dec 15 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fd26c49a7695fbd058776?utm_campaign=1051&utm_source=git)** | Olean, NY | On Site | Dec 15 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fd19449a7695fbd05873c?utm_campaign=1051&utm_source=git)** | Gloversville, NY | On Site | Dec 15 |
 | **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[2026 Summer Toyota Financial Services (TFS) Internship](https://jobright.ai/jobs/info/69105588183be660d2678347?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Dec 15 |
 | **[Stratasys](http://www.stratasys.com)** | **[Intern - Go-to-Market Channel Sales](https://jobright.ai/jobs/info/693fcf2c50bbaf7650520657?utm_campaign=1051&utm_source=git)** | Minnetonka, MN | On Site | Dec 15 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fc7aeaa598a08c3ef8961?utm_campaign=1051&utm_source=git)** | Dryden, NY | On Site | Dec 15 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fdb6349a7695fbd0589fd?utm_campaign=1051&utm_source=git)** | Dunkirk, NY | On Site | Dec 14 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fdc92aa598a08c3efa637?utm_campaign=1051&utm_source=git)** | Wawarsing, NY | On Site | Dec 14 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fdbb350bbaf7650520918?utm_campaign=1051&utm_source=git)** | Cornwall, NY | On Site | Dec 14 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693fdfd5aa598a08c3efa6c1?utm_campaign=1051&utm_source=git)** | North Castle, NY | On Site | Dec 14 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Excellence Elite Intern (Summer 2026)](https://jobright.ai/jobs/info/693fb394aa598a08c3ef81c9?utm_campaign=1051&utm_source=git)** | USA - Austin, TX | On Site | Dec 14 |
 | **[RagaAI Inc](http://www.raga.ai)** | **[AI Product & Customer Success Intern](https://jobright.ai/jobs/info/693fa017aa598a08c3ef79bf?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 14 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Loves Park](https://jobright.ai/jobs/info/693f828749a7695fbd053aaf?utm_campaign=1051&utm_source=git)** | Loves Park, IL | On Site | Dec 14 |
@@ -104,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Spark Interactive](https://www.sparkinteractive.com)** | **[Sales Development Apprentice / Intern Paid](https://jobright.ai/jobs/info/693f67da49a7695fbd05323e?utm_campaign=1051&utm_source=git)** | Santa Barbara, CA | Hybrid | Dec 14 |
 | **[Altius](https://www.altius.so)** | **[Sales Development Intern (20% Commission)](https://jobright.ai/jobs/info/693f44bcaa598a08c3ef3163?utm_campaign=1051&utm_source=git)** | Triangle Area | Remote | Dec 14 |
 | **[Invictus Property Advisors](https://www.invictusnyc.com)** | **[Commercial Real Estate Internship - Investment Sales](https://jobright.ai/jobs/info/693f34fdaa598a08c3ef3025?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 14 |
-| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/693f28c250bbaf7650519275?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Dec 14 |
 | **[Toledo Walleye](https://www.toledowalleye.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/693f169049a7695fbd04fa13?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Dec 14 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/693ee18caa598a08c3eef6b9?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/693edacc50bbaf76505159cd?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 14 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Banking - Capital Markets, Summer Associate, New York (North America – 2026)](https://jobright.ai/jobs/info/6917c06cbcdbf3560c9cb049?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 14 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Buying Intern](https://jobright.ai/jobs/info/69157c52286ccf0a1512eb52?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Global Client Group](https://jobright.ai/jobs/info/68e05e2af758fe1f97e4cbb4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 14 |
-| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Charlotte, Summer 2026](https://jobright.ai/jobs/info/69054f59ff462851feffc9a6?utm_campaign=1051&utm_source=git)** | Charlotte Metro | On Site | Dec 14 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Northern Michigan)](https://jobright.ai/jobs/info/68b0b5f713563e782a9f8ba5?utm_campaign=1051&utm_source=git)** | Flushing, MI | On Site | Dec 14 |
-| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/68cdb865e23def7af55be95a?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Dec 14 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Fresh Food Category Manager Intern](https://jobright.ai/jobs/info/68e914670930fe0bc46221e7?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Dec 14 |
-| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68af63541f0a2a568a06134a?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 14 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[7-Ventures and Emerging Brands Intern](https://jobright.ai/jobs/info/68e9175c0930fe0bc4622378?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Dec 14 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Green Bay)](https://jobright.ai/jobs/info/68b0afe7b47fb001d6894a8f?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Dec 14 |
-| **[The GIANT Company](https://giantfoodstores.com)** | **[Merchandising Center Store Intern](https://jobright.ai/jobs/info/69350b6ba0dde7020e2f72de?utm_campaign=1051&utm_source=git)** | Carlisle, PA | On Site | Dec 14 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Internship (Madison)](https://jobright.ai/jobs/info/68b0b4172d46f6396cae7d67?utm_campaign=1051&utm_source=git)** | Madison, WI | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
