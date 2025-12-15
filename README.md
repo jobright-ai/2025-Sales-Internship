@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/691c949b22a2cb4b9bd1b7a7?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Dec 15 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d6463?utm_campaign=1051&utm_source=git)** | Denver, CO | Hybrid | Dec 15 |
+| **[PSI Groups](http://psigroups.net)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/691c9fe7ff70244984168f83?utm_campaign=1051&utm_source=git)** | Alabama, United States | Remote | Dec 15 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Intern - St. Louis](https://jobright.ai/jobs/info/6922dbd4c0cefa13343d9b2b?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Dec 15 |
+| ↳ | **[2026 Management and Sales Intern - Lexington](https://jobright.ai/jobs/info/68b1ffecbc187f64e1bd89d3?utm_campaign=1051&utm_source=git)** | Lexington, KY | On Site | Dec 15 |
+| ↳ | **[2026 Management and Sales Intern - Tri-State](https://jobright.ai/jobs/info/68b1fb7ff4e41a61efd81570?utm_campaign=1051&utm_source=git)** | Evansville, IN | On Site | Dec 15 |
+| ↳ | **[2026 Management and Sales Intern - Fort Wayne](https://jobright.ai/jobs/info/68b201511ade4306aa633b3c?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Dec 15 |
+| **[BioMatrix Infusion Pharmacy](http://www.biomatrixsprx.com)** | **[Infusion Sales Intern](https://jobright.ai/jobs/info/69377ef2aabec14a727c8a72?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Dec 15 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/693ff88049a7695fbd058e9b?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 15 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[National Sales Internship](https://jobright.ai/jobs/info/6923f8e638cd5478a8d58439?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Dec 15 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Sales Excellence Elite Intern (Summer 2026)](https://jobright.ai/jobs/info/693fee0450bbaf7650520bdc?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 15 |
 | **[City of Mountain View](http://mountainview.gov/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/693fec63aa598a08c3efa86e?utm_campaign=1051&utm_source=git)** | Mountain View, CA | Hybrid | Dec 15 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ecbd9aa598a08c3eef479?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Dec 14 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ecb72aa598a08c3eef453?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Dec 14 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ecb18aa598a08c3eef423?utm_campaign=1051&utm_source=git)** | Warwick, RI | On Site | Dec 14 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ecb13aa598a08c3eef422?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Dec 14 |
-| **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/6923db967795cd460c839b30?utm_campaign=1051&utm_source=git)** | Creve Coeur, MO | Hybrid | Dec 14 |
-| **[David Yurman](http://www.davidyurman.com)** | **[CRM Intern](https://jobright.ai/jobs/info/68e96aa10930fe0bc46257ae?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 14 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ec71449a7695fbd04da6b?utm_campaign=1051&utm_source=git)** | Morgantown, WV | On Site | Dec 14 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/693ec46daa598a08c3eef3a0?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Dec 14 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68e96eb9f195760c354a9144?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
-| **[Citi](https://www.citi.com)** | **[Banking - Capital Markets, Summer Associate, New York (North America – 2026)](https://jobright.ai/jobs/info/6917c06cbcdbf3560c9cb049?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 14 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Buying Intern](https://jobright.ai/jobs/info/69157c52286ccf0a1512eb52?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
-| **[Brookfield](https://bam.brookfield.com)** | **[Intern, Global Client Group](https://jobright.ai/jobs/info/68e05e2af758fe1f97e4cbb4?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
