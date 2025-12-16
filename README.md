@@ -57,19 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Zscaler](https://www.zscaler.com)** | **[Program Manager Intern, Sales](https://jobright.ai/jobs/info/6941b4a5bdcf884a5add7377?utm_campaign=1051&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 16 |
+| **[Signify Health](https://www.signifyhealth.com)** | **[Retail Store Management Internship - Raleigh/Durham](https://jobright.ai/jobs/info/6941d1d5bdcf884a5add86ce?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Dec 16 |
+| **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Retail Operations Intern 2026](https://jobright.ai/jobs/info/6941cfe814ee092a69ffe3df?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Dec 16 |
+| **[Crane Company](http://www.craneco.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6941c84550bbaf76505394f9?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Dec 16 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern - Sales and Ticketing](https://jobright.ai/jobs/info/69419dd750bbaf7650536fda?utm_campaign=1051&utm_source=git)** | Citi Field – Queens, New York | On Site | Dec 16 |
+| **[Zscaler](https://www.zscaler.com)** | **[Program Manager Intern, Sales](https://jobright.ai/jobs/info/6941b4a5bdcf884a5add7377?utm_campaign=1051&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 16 |
+| **[Starteryou](https://starteryou.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/6941cc8050bbaf7650539784?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 16 |
+| **[Corcoran Icon Properties](https://corcoranicon.com)** | **[Commercial Real Estate Brokerage Internship](https://jobright.ai/jobs/info/6941cddd14ee092a69ffe290?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Dec 16 |
 | **[Heffernan Insurance Brokers](https://www.heffins.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/691fab5c09cc522e877445da?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | Hybrid | Dec 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df3c70fe896042b0b780b5?utm_campaign=1051&utm_source=git)** | Paducah, KY | On Site | Dec 16 |
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68fb766e93c49825ab10334f?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Dec 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68de4d8544d32141e0bff447?utm_campaign=1051&utm_source=git)** | Des Peres, MO | On Site | Dec 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddeca444d32141e0bfbe62?utm_campaign=1051&utm_source=git)** | Wausau, WI | On Site | Dec 16 |
+| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Retail Category Management Intern](https://jobright.ai/jobs/info/6941cd9f14ee092a69ffe26c?utm_campaign=1051&utm_source=git)** | Buffalo,NY,US | On Site | Dec 16 |
+| **[Wohlsen Construction Company](http://wohlsenconstruction.com)** | **[JOIN OUR TEAMProposal & Business Development Services Intern](https://jobright.ai/jobs/info/6941c45850bbaf7650539240?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Dec 16 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddeca444d32141e0bfbe62?utm_campaign=1051&utm_source=git)** | Wausau, WI | On Site | Dec 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68d6abd045853d0e39cc8ea5?utm_campaign=1051&utm_source=git)** | Broomfield, CO | On Site | Dec 16 |
 | **[Crane Company](http://www.craneco.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69419f8250bbaf7650537329?utm_campaign=1051&utm_source=git)** | The Woodlands, Texas | On Site | Dec 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68de644509bda65a4b62a5c4?utm_campaign=1051&utm_source=git)** | Bridgeport, WV | On Site | Dec 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddf85509bda65a4b62569c?utm_campaign=1051&utm_source=git)** | Boardman, OH | On Site | Dec 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68daf19107c157682e56fdb3?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Dec 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68de4d56a125e75c422b379e?utm_campaign=1051&utm_source=git)** | Niles, OH | On Site | Dec 16 |
+| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Retail Category Management Intern](https://jobright.ai/jobs/info/6941c78f14ee092a69ffdeb6?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Dec 16 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68de4d56a125e75c422b379e?utm_campaign=1051&utm_source=git)** | Niles, OH | On Site | Dec 16 |
 | **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Virtual Sales Position - Internship or Full-time](https://jobright.ai/jobs/info/69307541ef4b48533d14bc27?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68de461f09bda65a4b628b16?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 16 |
 | **[Acrisure](http://acrisure.com)** | **[Personal Lines Insurance Intern](https://jobright.ai/jobs/info/69419aa750bbaf76505369af?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 16 |
@@ -128,8 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/691980f715b4156367185e2f?utm_campaign=1051&utm_source=git)** | Twin Falls, ID | Hybrid | Dec 16 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/68cdb5abe23def7af55be69e?utm_campaign=1051&utm_source=git)** | Twin Cities Area | On Site | Dec 16 |
 | **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/691961ab45fb6f5ead8a86f7?utm_campaign=1051&utm_source=git)** | Sacramento, CA | Hybrid | Dec 16 |
-| **[Henkel](http://www.henkel.com)** | **[Commercial Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68cd9e8be23def7af55bce41?utm_campaign=1051&utm_source=git)** | Stamford, CT | Hybrid | Dec 16 |
-| **[Ecolab](http://www.ecolab.com)** | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/691975b845fb6f5ead8a8b1e?utm_campaign=1051&utm_source=git)** | Madison, WI | Hybrid | Dec 16 |
+| ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/691975b845fb6f5ead8a8b1e?utm_campaign=1051&utm_source=git)** | Madison, WI | Hybrid | Dec 16 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/6924793f38cd5478a8d5ab0f?utm_campaign=1051&utm_source=git)** | Corvallis, OR | Hybrid | Dec 16 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/69193ad0bcdbf3560c9d4702?utm_campaign=1051&utm_source=git)** | Wichita, KS | Hybrid | Dec 16 |
 | ↳ | **[Food, Beverage, Dairy Plant Sanitation - Technical Sales Intern](https://jobright.ai/jobs/info/6917f224bcdbf3560c9ccd9b?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Inland Empire (Ontario) Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6924dee0c0cefa13343e304a?utm_campaign=1051&utm_source=git)** | Rancho Cucamonga, CA | On Site | Dec 16 |
 | **[Amazon](https://amazon.com)** | **[2026 MBA Business Developer Intern, Ads Strategic Business Development (SBD)](https://jobright.ai/jobs/info/69253f0b27bf2f41a2c3d9fc?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b54f3ff4e41a61efd8f56f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
-| **[GlobalFoundries](https://gf.com/)** | **[Sales Account Manager Intern, Electrical Engineering & Business (Summer 2026)](https://jobright.ai/jobs/info/6933e4aca0dde7020e2f2c5f?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 16 |
-| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Las Vegas Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6924ca1d38cd5478a8d5dd17?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Monetization Strategy and Operations Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/693b8cb65f2c001987ed7afb?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Dec 16 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694116c950bbaf765053138d?utm_campaign=1051&utm_source=git)** | Dobbs Ferry, NY | On Site | Dec 16 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69412c2150bbaf7650532e26?utm_campaign=1051&utm_source=git)** | Red Hook, NY | On Site | Dec 15 |
-| **[CoreVista Strategies](corevistastrategies.us)** | **[Healthcare Sales Intern – Paid Internship](https://jobright.ai/jobs/info/6940f2a7aa598a08c3f0a42c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Dec 15 |
-| **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/6940ea6a49a7695fbd068218?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
