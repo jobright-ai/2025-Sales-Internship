@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zscaler](https://www.zscaler.com)** | **[Program Manager Intern, Sales](https://jobright.ai/jobs/info/6941b4a5bdcf884a5add7377?utm_campaign=1051&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 16 |
+| **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern - Sales and Ticketing](https://jobright.ai/jobs/info/69419dd750bbaf7650536fda?utm_campaign=1051&utm_source=git)** | Citi Field – Queens, New York | On Site | Dec 16 |
+| **[Heffernan Insurance Brokers](https://www.heffins.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/691fab5c09cc522e877445da?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | Hybrid | Dec 16 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df3c70fe896042b0b780b5?utm_campaign=1051&utm_source=git)** | Paducah, KY | On Site | Dec 16 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68fb766e93c49825ab10334f?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68de4d8544d32141e0bff447?utm_campaign=1051&utm_source=git)** | Des Peres, MO | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddeca444d32141e0bfbe62?utm_campaign=1051&utm_source=git)** | Wausau, WI | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68d6abd045853d0e39cc8ea5?utm_campaign=1051&utm_source=git)** | Broomfield, CO | On Site | Dec 16 |
+| **[Crane Company](http://www.craneco.com/)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/69419f8250bbaf7650537329?utm_campaign=1051&utm_source=git)** | The Woodlands, Texas | On Site | Dec 16 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68de644509bda65a4b62a5c4?utm_campaign=1051&utm_source=git)** | Bridgeport, WV | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddf85509bda65a4b62569c?utm_campaign=1051&utm_source=git)** | Boardman, OH | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68daf19107c157682e56fdb3?utm_campaign=1051&utm_source=git)** | Duluth, MN | On Site | Dec 16 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68de4d56a125e75c422b379e?utm_campaign=1051&utm_source=git)** | Niles, OH | On Site | Dec 16 |
+| **[Globe Life American Income Division: Surace Smith & Partners Organization](https://ssbendurehartwig.com)** | **[Virtual Sales Position - Internship or Full-time](https://jobright.ai/jobs/info/69307541ef4b48533d14bc27?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales & Management Intern](https://jobright.ai/jobs/info/68de461f09bda65a4b628b16?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 16 |
 | **[Acrisure](http://acrisure.com)** | **[Personal Lines Insurance Intern](https://jobright.ai/jobs/info/69419aa750bbaf76505369af?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68de3e9d44d32141e0bfea12?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Dec 16 |
@@ -70,16 +84,21 @@ For a complete list, click the following sortable link below:
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddee9d09bda65a4b624b2b?utm_campaign=1051&utm_source=git)** | Lufkin, TX | On Site | Dec 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dd9b87ddc10244dd681c21?utm_campaign=1051&utm_source=git)** | Mishawaka, IN | On Site | Dec 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dda514ddc10244dd6828de?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Dec 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68daf2370dffed6f83d2b1b4?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Dec 16 |
+| **[Endeavor Ukraine](https://endeavor.org/ukraine/)** | **[Capital Intern, Endeavor Catalyst (Undergraduate, Summer 2026)](https://jobright.ai/jobs/info/6941b58e50bbaf7650538a5f?utm_campaign=1051&utm_source=git)** | Utica-Rome Area | Hybrid | Dec 16 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68daf2370dffed6f83d2b1b4?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Dec 16 |
 | **[Wohlsen Construction Company](http://wohlsenconstruction.com)** | **[Proposal & Business Development Services Intern](https://jobright.ai/jobs/info/69418e7a14ee092a69ffab43?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Dec 16 |
+| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Development & Strategy Intern](https://jobright.ai/jobs/info/6933a7e0a0dde7020e2f033e?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | Hybrid | Dec 16 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Summer 2026](https://jobright.ai/jobs/info/6924fec8ec574f4265bba4a9?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 16 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddea3fa125e75c422afd36?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Dec 16 |
 | **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Indigenous Student Internship, Greater Toronto Region](https://jobright.ai/jobs/info/694188da14ee092a69ffa8e8?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 16 |
 | **[Perseus Group, Constellation Software](https://csiperseus.com/)** | **[M&A Intern - Research/Business Development](https://jobright.ai/jobs/info/691dfdc609cc522e877348c5?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 16 |
 | **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Indigenous Student Internship, Greater Toronto Region](https://jobright.ai/jobs/info/6941845814ee092a69ffa679?utm_campaign=1051&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 16 |
 | **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69316f5afa28370be26ba06b?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Dec 16 |
+| **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913e6aed1047e3565d06f88?utm_campaign=1051&utm_source=git)** | Kansas City | On Site | Dec 16 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/6908847ad046ab6061ccb4a8?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 16 |
 | **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Banking Advisor Student Intern, Greater Toronto Region](https://jobright.ai/jobs/info/694180ef14ee092a69ffa4d1?utm_campaign=1051&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Dec 16 |
-| ↳ | **[Summer 2026 Student - Client Advisor Student Intern, Greater Toronto Region](https://jobright.ai/jobs/info/69417e86bdcf884a5add4299?utm_campaign=1051&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 16 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Intern](https://jobright.ai/jobs/info/69419fe350bbaf765053739a?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Dec 16 |
+| **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Client Advisor Student Intern, Greater Toronto Region](https://jobright.ai/jobs/info/69417e86bdcf884a5add4299?utm_campaign=1051&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 16 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Sales Intern, Seed Soil & Crop Health](https://jobright.ai/jobs/info/690c0699221b890c277faaea?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Dec 16 |
 | ↳ | **[Sales Intern, Seed Soil & Crop Health](https://jobright.ai/jobs/info/690bbc1c221b890c277f776f?utm_campaign=1051&utm_source=git)** | Illinois Grove, IA | On Site | Dec 16 |
 | **[Avayda Pest Control](https://avayda.ca/)** | **[Summer Sales Intern 2026](https://jobright.ai/jobs/info/69419606bdcf884a5add4c8c?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 16 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69412c2150bbaf7650532e26?utm_campaign=1051&utm_source=git)** | Red Hook, NY | On Site | Dec 15 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Healthcare Sales Intern – Paid Internship](https://jobright.ai/jobs/info/6940f2a7aa598a08c3f0a42c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Dec 15 |
 | **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/6940ea6a49a7695fbd068218?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 15 |
-| **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 15 |
-| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6940e07baa598a08c3f0821b?utm_campaign=1051&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 15 |
-| **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Anderson](https://jobright.ai/jobs/info/6940dac750bbaf765052e359?utm_campaign=1051&utm_source=git)** | Anderson, IN | On Site | Dec 15 |
-| **[SolarWinds](http://www.solarwinds.com)** | **[Revenue Operations Internship](https://jobright.ai/jobs/info/6940d54e49a7695fbd065dbb?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | Dec 15 |
-| ↳ | **[Federal Sales & Operations Internship](https://jobright.ai/jobs/info/6940d3b2aa598a08c3f07a6a?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Dec 15 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor/Client Advisor Intern](https://jobright.ai/jobs/info/6941123650bbaf76505312c2?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Dec 15 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6940d34c49a7695fbd065d0f?utm_campaign=1051&utm_source=git)** | Sleepy Hollow, NY | On Site | Dec 15 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6940d2d2aa598a08c3f077d6?utm_campaign=1051&utm_source=git)** | Pomfret, NY | On Site | Dec 15 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6940d213aa598a08c3f07591?utm_campaign=1051&utm_source=git)** | Ulster, NY | On Site | Dec 15 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6940d17b49a7695fbd06579b?utm_campaign=1051&utm_source=git)** | Chili, NY | On Site | Dec 15 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6940cf2950bbaf765052d5c2?utm_campaign=1051&utm_source=git)** | Putnam Valley, NY | On Site | Dec 15 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6940ce6450bbaf765052d37a?utm_campaign=1051&utm_source=git)** | Suffern, NY | On Site | Dec 15 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6940cd5aaa598a08c3f06890?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 15 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6940cbb4aa598a08c3f06586?utm_campaign=1051&utm_source=git)** | Bath, NY | On Site | Dec 15 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6940cb2f50bbaf765052cddc?utm_campaign=1051&utm_source=git)** | Endicott, NY | On Site | Dec 15 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Sales Operations](https://jobright.ai/jobs/info/6940cace50bbaf765052ccff?utm_campaign=1051&utm_source=git)** | Hickory, NC | On Site | Dec 15 |
-| **[Philip Morris International](https://www.pmi.com)** | **[Inkompass Head Office - Commercial Intern](https://jobright.ai/jobs/info/6940ca68aa598a08c3f062ac?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 15 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Ecommerce Sales](https://jobright.ai/jobs/info/6940c9daaa598a08c3f06113?utm_campaign=1051&utm_source=git)** | Avon, OH | On Site | Dec 15 |
-| **[Philip Morris International](https://www.pmi.com)** | **[Inkompass Field Sales Intern - Calgary](https://jobright.ai/jobs/info/6940c9acaa598a08c3f06090?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
