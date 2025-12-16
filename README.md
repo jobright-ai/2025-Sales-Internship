@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b54f3ff4e41a61efd8f56f?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
+| **[GlobalFoundries](https://gf.com/)** | **[Sales Account Manager Intern, Electrical Engineering & Business (Summer 2026)](https://jobright.ai/jobs/info/6933e4aca0dde7020e2f2c5f?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Monetization Strategy and Operations Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/693b8cb65f2c001987ed7afb?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Dec 16 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694116c950bbaf765053138d?utm_campaign=1051&utm_source=git)** | Dobbs Ferry, NY | On Site | Dec 16 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69412c2150bbaf7650532e26?utm_campaign=1051&utm_source=git)** | Red Hook, NY | On Site | Dec 15 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Healthcare Sales Intern – Paid Internship](https://jobright.ai/jobs/info/6940f2a7aa598a08c3f0a42c?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Dec 15 |
 | **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/6940ea6a49a7695fbd068218?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 15 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 15 |
@@ -124,6 +128,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8f325ab4977c2e955de5?utm_campaign=1051&utm_source=git)** | Cape Girardeau, MO | On Site | Dec 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8ead6be63b6ec99715b6?utm_campaign=1051&utm_source=git)** | Sioux City, IA | On Site | Dec 15 |
 | **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913d50a1465e02904e97f66?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Dec 15 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Multi-Market Partnerships Summer Intern](https://jobright.ai/jobs/info/694080a749a7695fbd060684?utm_campaign=1051&utm_source=git)** | New York, NY (55th St) | On Site | Dec 15 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6940802d50bbaf7650528552?utm_campaign=1051&utm_source=git)** | Glens Falls, NY | On Site | Dec 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8ef16be63b6ec99715f7?utm_campaign=1051&utm_source=git)** | Piqua, OH | On Site | Dec 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df40ef6be63b6ec996e00a?utm_campaign=1051&utm_source=git)** | Idaho Falls, ID | On Site | Dec 15 |
@@ -131,7 +136,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Service Offering Automation Intern](https://jobright.ai/jobs/info/692f94d4ef4b48533d14708f?utm_campaign=1051&utm_source=git)** | New Jersey, United States | Hybrid | Dec 15 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Sales Services Admin Intern - Summer 2026](https://jobright.ai/jobs/info/69407d07aa598a08c3f01be3?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Dec 15 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69407cc6aa598a08c3f01b5c?utm_campaign=1051&utm_source=git)** | Shawangunk, NY | On Site | Dec 15 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Multi-Market Partnerships Summer Intern](https://jobright.ai/jobs/info/69407bb650bbaf7650527cdf?utm_campaign=1051&utm_source=git)** | New York, NY (55th St) | On Site | Dec 15 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8d43fe896042b0b7c147?utm_campaign=1051&utm_source=git)** | Scottsbluff, NE | On Site | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/6940793c50bbaf7650527986?utm_campaign=1051&utm_source=git)** | REMOTE, Milpitas, CA, 95035, US | Remote | Dec 15 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Presales Business Manager Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/694078a249a7695fbd05f84f?utm_campaign=1051&utm_source=git)** | Allen, TX | Hybrid | Dec 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df90095ab4977c2e955f14?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Dec 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df905c5ab4977c2e955f93?utm_campaign=1051&utm_source=git)** | Victoria, TX | On Site | Dec 15 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8ebf5ab4977c2e955cec?utm_campaign=1051&utm_source=git)** | Sedalia, MO | On Site | Dec 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df911c5ab4977c2e9560bf?utm_campaign=1051&utm_source=git)** | Altoona, PA | On Site | Dec 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df90bd5ab4977c2e956032?utm_campaign=1051&utm_source=git)** | Ridgeland, MS | On Site | Dec 15 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df8e585ab4977c2e955c29?utm_campaign=1051&utm_source=git)** | Kokomo, IN | On Site | Dec 15 |
-| **[Scent Beauty, Inc.](https://scentbeauty.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/69406da3aa598a08c3f00c60?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
