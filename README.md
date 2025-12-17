@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Giorgio Armani](http://www.armani.com)** | **[Intern, E-Commerce](https://jobright.ai/jobs/info/6942708e14ee092a6900ad92?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Doculingo](www.doculingo.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69425b25bdcf884a5ade3f18?utm_campaign=1051&utm_source=git)** | Triangle Area | Remote | Dec 16 |
 | **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Part Time Merchandise Intern](https://jobright.ai/jobs/info/69424b07bdcf884a5ade3355?utm_campaign=1051&utm_source=git)** | Greenville, SC | On Site | Dec 16 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6942671314ee092a6900a8b5?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Dec 16 |
 | **[Collection XIIX, Ltd.](http://www.collection18.com)** | **[Sales Intern (Winter/Spring)](https://jobright.ai/jobs/info/6942576b50bbaf7650544ec2?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Dec 16 |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[Sales Development Internship](https://jobright.ai/jobs/info/694251ad14ee092a69009971?utm_campaign=1051&utm_source=git)** | Sarasota, FL | Remote | Dec 16 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Retail Merchandising and Product Development Intern: Summer](https://jobright.ai/jobs/info/69424e0814ee092a6900976b?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Dec 16 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[McElroy Manufacturing, Inc.](http://www.mcelroy.com)** | **[International Business Development Intern](https://jobright.ai/jobs/info/6941f96fbdcf884a5addb64f?utm_campaign=1051&utm_source=git)** | Tulsa, OK | Hybrid | Dec 16 |
 | **[Signify Health](https://www.signifyhealth.com)** | **[Retail Store Management Internship - Raleigh/Durham](https://jobright.ai/jobs/info/6941d1d5bdcf884a5add86ce?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Dec 16 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941fcec14ee092a69001c35?utm_campaign=1051&utm_source=git)** | New Square, NY | On Site | Dec 16 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941f81550bbaf765053cbbb?utm_campaign=1051&utm_source=git)** | Hickory, NC | On Site | Dec 16 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941f0de14ee092a69000d4e?utm_campaign=1051&utm_source=git)** | Mandan, ND | On Site | Dec 16 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941f81550bbaf765053cbbb?utm_campaign=1051&utm_source=git)** | Hickory, NC | On Site | Dec 16 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941eef4bdcf884a5addaa2c?utm_campaign=1051&utm_source=git)** | Kannapolis, NC | On Site | Dec 16 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941f9e4bdcf884a5addb694?utm_campaign=1051&utm_source=git)** | Chapel Hill, NC | On Site | Dec 16 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Retail Operations Intern 2026](https://jobright.ai/jobs/info/6941cfe814ee092a69ffe3df?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Dec 16 |
@@ -122,10 +124,11 @@ For a complete list, click the following sortable link below:
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern - Sales and Ticketing](https://jobright.ai/jobs/info/69419dd750bbaf7650536fda?utm_campaign=1051&utm_source=git)** | Citi Field – Queens, New York | On Site | Dec 16 |
 | **[Legends Global](http://legends.net)** | **[Ohio State Athletics- 2026 Retail Internship](https://jobright.ai/jobs/info/6941e56214ee092a69fffb03?utm_campaign=1051&utm_source=git)** | Ohio, IN | On Site | Dec 16 |
 | **[Illumio](http://www.illumio.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/69184fc9bcdbf3560c9d159a?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941efc5bdcf884a5addab75?utm_campaign=1051&utm_source=git)** | Gastonia, NC | On Site | Dec 16 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69426a1b14ee092a6900aa10?utm_campaign=1051&utm_source=git)** | Watervliet, NY | On Site | Dec 16 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941efc5bdcf884a5addab75?utm_campaign=1051&utm_source=git)** | Gastonia, NC | On Site | Dec 16 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941f26814ee092a69000fd9?utm_campaign=1051&utm_source=git)** | Wilson, NC | On Site | Dec 16 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941f61914ee092a6900153e?utm_campaign=1051&utm_source=git)** | Chenango, NY | On Site | Dec 16 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941f1fe50bbaf765053c246?utm_campaign=1051&utm_source=git)** | Oneida, NY | On Site | Dec 16 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941f61914ee092a6900153e?utm_campaign=1051&utm_source=git)** | Chenango, NY | On Site | Dec 16 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941f0c150bbaf765053c034?utm_campaign=1051&utm_source=git)** | Geneseo, NY | On Site | Dec 16 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941e288bdcf884a5add98d3?utm_campaign=1051&utm_source=git)** | Catskill, NY | On Site | Dec 16 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6941e196bdcf884a5add97b5?utm_campaign=1051&utm_source=git)** | Chestnut Ridge, NY | On Site | Dec 16 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Front Runner Sports](https://www.frsportsmgmt.com)** | **[Partnership Coordinator Intern](https://jobright.ai/jobs/info/6942279cbdcf884a5addf3ac?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 16 |
 | **[Everus](http://www.mducsg.com/)** | **[Corporate Development Intern - Summer 2026](https://jobright.ai/jobs/info/6941f5a614ee092a69001497?utm_campaign=1051&utm_source=git)** | Boulder, CO, USA | On Site | Dec 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df3c70fe896042b0b780b5?utm_campaign=1051&utm_source=git)** | Paducah, KY | On Site | Dec 16 |
-| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68fb766e93c49825ab10334f?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Dec 16 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68de4d8544d32141e0bff447?utm_campaign=1051&utm_source=git)** | Des Peres, MO | On Site | Dec 16 |
+| ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/68fb766e93c49825ab10334f?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Dec 16 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Retail Category Management Intern](https://jobright.ai/jobs/info/6941cd9f14ee092a69ffe26c?utm_campaign=1051&utm_source=git)** | Buffalo,NY,US | On Site | Dec 16 |
-| **[Wohlsen Construction Company](http://wohlsenconstruction.com)** | **[JOIN OUR TEAMProposal & Business Development Services Intern](https://jobright.ai/jobs/info/6941ce90bdcf884a5add8407?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Dec 16 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddeca444d32141e0bfbe62?utm_campaign=1051&utm_source=git)** | Wausau, WI | On Site | Dec 16 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68d6abd045853d0e39cc8ea5?utm_campaign=1051&utm_source=git)** | Broomfield, CO | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
