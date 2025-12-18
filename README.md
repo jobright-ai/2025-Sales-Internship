@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Danfoss](https://www.danfoss.com)** | **[Ignite Technical Sales-Intern](https://jobright.ai/jobs/info/6943b0c694730b739876d8fc?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Dec 17 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Client Outreach Specialist (Intern)](https://jobright.ai/jobs/info/6943a7e9dd382f5f5669c18f?utm_campaign=1051&utm_source=git)** | Canada | Remote | Dec 17 |
+| **[Hydrite](http://www.hydrite.com)** | **[Food Business Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68fab5b9b2c86843bf21152a?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Hybrid | Dec 17 |
+| **[Greystar](https://www.stoneridgemp.com)** | **[Construction Intern](https://jobright.ai/jobs/info/6943a44094730b739876cde0?utm_campaign=1051&utm_source=git)** | Taunton, MA | Hybrid | Dec 17 |
 | **[EST Media](https://www.easternstandardtimes.com)** | **[International Sales & Marketing interns](https://jobright.ai/jobs/info/694390b750bbaf7650559832?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 17 |
 | **[H15DEN](https://h15den.com)** | **[Business Development (Micro Internship)](https://jobright.ai/jobs/info/69438734dd382f5f56699734?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 17 |
 | **[Nestlé](https://www.nestle.com)** | **[2026 Nestle USA Sales Internship Program](https://jobright.ai/jobs/info/6943847294730b739876a170?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Dec 17 |
@@ -69,7 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6943814b50bbaf7650557505?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Remote | Dec 17 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6943812450bbaf76505574e5?utm_campaign=1051&utm_source=git)** | Omaha, NE | Remote | Dec 17 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6943804add382f5f56698f77?utm_campaign=1051&utm_source=git)** | Richmond, VA | Remote | Dec 17 |
-| ↳ | **[College Intern](https://jobright.ai/jobs/info/6943800050bbaf76505573a6?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Dec 17 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2025 Business Development Associate Internship](https://jobright.ai/jobs/info/6943803250bbaf76505573d9?utm_campaign=1051&utm_source=git)** | Any Location / Remote | Remote | Dec 17 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/6943800050bbaf76505573a6?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Dec 17 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69437f9250bbaf765055734a?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Remote | Dec 17 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69437f7bdd382f5f56698f2e?utm_campaign=1051&utm_source=git)** | Villanova, PA | Remote | Dec 17 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69437f0d50bbaf76505572c2?utm_campaign=1051&utm_source=git)** | Tulsa, OK | Remote | Dec 17 |
@@ -80,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Societe Generale](https://www.societegenerale.com)** | **[2026 Sales and Trading Intern](https://jobright.ai/jobs/info/69437d2b94730b7398769b20?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Dec 17 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69437c8150bbaf76505570a0?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | Remote | Dec 17 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/69437c4650bbaf765055707d?utm_campaign=1051&utm_source=git)** | Mobile, AL | Remote | Dec 17 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2025 Business Development Associate Internship](https://jobright.ai/jobs/info/69437c2450bbaf765055705d?utm_campaign=1051&utm_source=git)** | Any Location / Remote | Remote | Dec 17 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694379b894730b7398769830?utm_campaign=1051&utm_source=git)** | St Helens, OR | On Site | Dec 17 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694379b194730b7398769826?utm_campaign=1051&utm_source=git)** | Woonsocket, RI | On Site | Dec 17 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6943795f94730b73987697e0?utm_campaign=1051&utm_source=git)** | Cranston, RI | On Site | Dec 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Los Altos](https://jobright.ai/jobs/info/6943736850bbaf765055646f?utm_campaign=1051&utm_source=git)** | Los Altos, CA | On Site | Dec 17 |
 | **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/6943736350bbaf7650556462?utm_campaign=1051&utm_source=git)** | Columbus, OH | Remote | Dec 17 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6943734650bbaf7650556431?utm_campaign=1051&utm_source=git)** | The Dalles, OR | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69437340dd382f5f5669851f?utm_campaign=1051&utm_source=git)** | Barrington, IL | On Site | Dec 17 |
-| **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Mount Pleasant](https://jobright.ai/jobs/info/69437340dd382f5f56698522?utm_campaign=1051&utm_source=git)** | Mount Pleasant, WI | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6943733550bbaf7650556418?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship North Las Vegas](https://jobright.ai/jobs/info/6943730b50bbaf76505563d4?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
