@@ -57,7 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6943795f94730b73987697e0?utm_campaign=1051&utm_source=git)** | Cranston, RI | On Site | Dec 17 |
+| **[EST Media](https://www.easternstandardtimes.com)** | **[International Sales & Marketing interns](https://jobright.ai/jobs/info/694390b750bbaf7650559832?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 17 |
+| **[H15DEN](https://h15den.com)** | **[Business Development (Micro Internship)](https://jobright.ai/jobs/info/69438734dd382f5f56699734?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 17 |
+| **[Nestlé](https://www.nestle.com)** | **[2026 Nestle USA Sales Internship Program](https://jobright.ai/jobs/info/6943847294730b739876a170?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Dec 17 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2025 Business Development Associate Internship](https://jobright.ai/jobs/info/694383d2dd382f5f5669925b?utm_campaign=1051&utm_source=git)** | USA VA Falls Church | Hybrid | Dec 17 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/694382e594730b739876a095?utm_campaign=1051&utm_source=git)** | South Bend, IN | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/694382de94730b739876a091?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Remote | Dec 17 |
+| **[Seattle Kraken](https://www.nhl.com/kraken)** | **[Corporate Partnership Intern](https://jobright.ai/jobs/info/6943823e94730b739876a040?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Dec 17 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/6943820794730b739876a027?utm_campaign=1051&utm_source=git)** | St Louis, MO | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/694381b1dd382f5f56699012?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/6943814b50bbaf7650557505?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/6943812450bbaf76505574e5?utm_campaign=1051&utm_source=git)** | Omaha, NE | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/6943804add382f5f56698f77?utm_campaign=1051&utm_source=git)** | Richmond, VA | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/6943800050bbaf76505573a6?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69437f9250bbaf765055734a?utm_campaign=1051&utm_source=git)** | Knoxville, TN | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69437f7bdd382f5f56698f2e?utm_campaign=1051&utm_source=git)** | Villanova, PA | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69437f0d50bbaf76505572c2?utm_campaign=1051&utm_source=git)** | Tulsa, OK | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69437e1950bbaf76505571f3?utm_campaign=1051&utm_source=git)** | Lansing, MI | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69437ddbdd382f5f56698e1a?utm_campaign=1051&utm_source=git)** | Annapolis, MD | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69437d9edd382f5f56698def?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69437d45dd382f5f56698db1?utm_campaign=1051&utm_source=git)** | Boise, ID | Remote | Dec 17 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[2026 Sales and Trading Intern](https://jobright.ai/jobs/info/69437d2b94730b7398769b20?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Dec 17 |
+| **[PSI Groups](http://psigroups.net)** | **[College Intern](https://jobright.ai/jobs/info/69437c8150bbaf76505570a0?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | Remote | Dec 17 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/69437c4650bbaf765055707d?utm_campaign=1051&utm_source=git)** | Mobile, AL | Remote | Dec 17 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2025 Business Development Associate Internship](https://jobright.ai/jobs/info/69437c2450bbaf765055705d?utm_campaign=1051&utm_source=git)** | Any Location / Remote | Remote | Dec 17 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694379b894730b7398769830?utm_campaign=1051&utm_source=git)** | St Helens, OR | On Site | Dec 17 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694379b194730b7398769826?utm_campaign=1051&utm_source=git)** | Woonsocket, RI | On Site | Dec 17 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6943795f94730b73987697e0?utm_campaign=1051&utm_source=git)** | Cranston, RI | On Site | Dec 17 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694378c194730b7398769763?utm_campaign=1051&utm_source=git)** | Canby, OR | On Site | Dec 17 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694378a1dd382f5f56698903?utm_campaign=1051&utm_source=git)** | La Grande, OR | On Site | Dec 17 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69437887dd382f5f566988ed?utm_campaign=1051&utm_source=git)** | West Warwick, RI | On Site | Dec 17 |
@@ -131,30 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Mount Pleasant](https://jobright.ai/jobs/info/69437340dd382f5f56698522?utm_campaign=1051&utm_source=git)** | Mount Pleasant, WI | On Site | Dec 17 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6943733550bbaf7650556418?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Dec 17 |
 | ↳ | **[Summer Sales Internship North Las Vegas](https://jobright.ai/jobs/info/6943730b50bbaf76505563d4?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship O'Fallon](https://jobright.ai/jobs/info/694372ff50bbaf76505563c6?utm_campaign=1051&utm_source=git)** | O'Fallon, MO | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship Denver](https://jobright.ai/jobs/info/694372ff50bbaf76505563c7?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship La Habra](https://jobright.ai/jobs/info/694372fb50bbaf76505563c0?utm_campaign=1051&utm_source=git)** | La Habra, CA | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship Liberty](https://jobright.ai/jobs/info/694372ef50bbaf76505563af?utm_campaign=1051&utm_source=git)** | Liberty, MO | On Site | Dec 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694372ce50bbaf7650556376?utm_campaign=1051&utm_source=git)** | Happy Valley, OR | On Site | Dec 17 |
-| **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Bloomington](https://jobright.ai/jobs/info/694372bf50bbaf765055635e?utm_campaign=1051&utm_source=git)** | Bloomington, IN | On Site | Dec 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6943729d50bbaf765055632b?utm_campaign=1051&utm_source=git)** | Hillsboro, OR | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6943729bdd382f5f5669840a?utm_campaign=1051&utm_source=git)** | Roseburg, OR | On Site | Dec 17 |
-| **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Auburn](https://jobright.ai/jobs/info/6943729750bbaf7650556318?utm_campaign=1051&utm_source=git)** | Auburn, IN | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship Lake Elsinore](https://jobright.ai/jobs/info/6943727b50bbaf76505562d8?utm_campaign=1051&utm_source=git)** | Lake Elsinore, CA | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship Everett](https://jobright.ai/jobs/info/6943726c50bbaf76505562c9?utm_campaign=1051&utm_source=git)** | Everett, WA | On Site | Dec 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6943725150bbaf76505562a6?utm_campaign=1051&utm_source=git)** | Burrillville, RI | On Site | Dec 17 |
-| **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Concord](https://jobright.ai/jobs/info/6943724b50bbaf76505562a4?utm_campaign=1051&utm_source=git)** | Concord, NC | On Site | Dec 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6943723850bbaf765055627d?utm_campaign=1051&utm_source=git)** | Monmouth, OR | On Site | Dec 17 |
-| **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Farragut](https://jobright.ai/jobs/info/6943722e50bbaf7650556272?utm_campaign=1051&utm_source=git)** | Farragut, TN | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship Brentwood](https://jobright.ai/jobs/info/6943721c50bbaf765055625f?utm_campaign=1051&utm_source=git)** | Brentwood, CA | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6943721050bbaf7650556252?utm_campaign=1051&utm_source=git)** | Miramar, FL | On Site | Dec 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69437202dd382f5f566982e5?utm_campaign=1051&utm_source=git)** | Lincoln City, OR | On Site | Dec 17 |
-| **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Palm Springs](https://jobright.ai/jobs/info/694371e950bbaf765055621a?utm_campaign=1051&utm_source=git)** | Palm Springs, FL | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship Shoreview](https://jobright.ai/jobs/info/694371da50bbaf7650556201?utm_campaign=1051&utm_source=git)** | Shoreview, MN | On Site | Dec 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694371c350bbaf76505561e2?utm_campaign=1051&utm_source=git)** | Rockcreek, OR | On Site | Dec 17 |
-| **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Deltona](https://jobright.ai/jobs/info/694371c350bbaf76505561e5?utm_campaign=1051&utm_source=git)** | Deltona, FL | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship Davenport](https://jobright.ai/jobs/info/694371bd50bbaf76505561d8?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Dec 17 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6943718750bbaf7650556196?utm_campaign=1051&utm_source=git)** | Tigard, OR | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69437182dd382f5f56698224?utm_campaign=1051&utm_source=git)** | Central Falls, RI | On Site | Dec 17 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6943717e50bbaf765055617d?utm_campaign=1051&utm_source=git)** | Pendleton, OR | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
