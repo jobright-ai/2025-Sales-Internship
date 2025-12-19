@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/6944fa2b50bbaf7650570d55?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Dec 18 |
+| **[ADP](http://www.adp.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6944ec0994730b73987834ba?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Dec 18 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944d823a7227b3ece667ae0?utm_campaign=1051&utm_source=git)** | Odessa, TX | On Site | Dec 18 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944d812a7227b3ece667adb?utm_campaign=1051&utm_source=git)** | Northlake, TX | On Site | Dec 18 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944d7f2a7227b3ece667ad4?utm_campaign=1051&utm_source=git)** | Fulshear, TX | On Site | Dec 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944ce7f50bbaf765056e155?utm_campaign=1051&utm_source=git)** | Del Rio, TX | On Site | Dec 18 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944ce6350bbaf765056e148?utm_campaign=1051&utm_source=git)** | Gatesville, TX | On Site | Dec 18 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944ce6250bbaf765056e147?utm_campaign=1051&utm_source=git)** | Fort Bliss, TX | On Site | Dec 18 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944ce3f94730b7398780e0b?utm_campaign=1051&utm_source=git)** | Kerrville, TX | On Site | Dec 18 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944ce3f94730b7398780e0d?utm_campaign=1051&utm_source=git)** | West Odessa, TX | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
