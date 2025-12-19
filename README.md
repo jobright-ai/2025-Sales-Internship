@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/69119187183be660d267c8af?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 19 |
+| ↳ | **[Summer 2026 Intern - Americas Division (MBA)](https://jobright.ai/jobs/info/693166e1fa28370be26b8b67?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69451e6463141d188454a803?utm_campaign=1051&utm_source=git)** | Roy, UT | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69451e3dd1953b5d11be1800?utm_campaign=1051&utm_source=git)** | St George, UT | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69451de9d1953b5d11be1784?utm_campaign=1051&utm_source=git)** | Eagle Mountain, UT | On Site | Dec 19 |
@@ -74,7 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69451a1763141d188454a29a?utm_campaign=1051&utm_source=git)** | Logan, UT | On Site | Dec 19 |
 | **[MINT](https://mint.ai)** | **[Partnerships, Events & Customer Success Intern](https://jobright.ai/jobs/info/694518cfd1953b5d11be10a3?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Dec 19 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6945189cd1953b5d11be105e?utm_campaign=1051&utm_source=git)** | Heber City, UT | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6945182f9516540735372d0e?utm_campaign=1051&utm_source=git)** | Cedar City, UT | On Site | Dec 19 |
+| **[Jordan's Furniture](http://www.jordans.com/)** | **[Retail Sales Summer Internship](https://jobright.ai/jobs/info/694536be63141d188454bbc5?utm_campaign=1051&utm_source=git)** | Avon, MA | Hybrid | Dec 19 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6945182f9516540735372d0e?utm_campaign=1051&utm_source=git)** | Cedar City, UT | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6945177b63141d1884549eb7?utm_campaign=1051&utm_source=git)** | Midvale, UT | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6945175563141d1884549e6a?utm_campaign=1051&utm_source=git)** | Stansbury Park, UT | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6945172e9516540735372b7a?utm_campaign=1051&utm_source=git)** | South Burlington, VT | On Site | Dec 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944d3a194730b7398781095?utm_campaign=1051&utm_source=git)** | Bryan, TX | On Site | Dec 18 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944d38650bbaf765056e3a4?utm_campaign=1051&utm_source=git)** | Little Elm, TX | On Site | Dec 18 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944d38494730b7398781088?utm_campaign=1051&utm_source=git)** | Amarillo, TX | On Site | Dec 18 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944d36850bbaf765056e39d?utm_campaign=1051&utm_source=git)** | Weslaco, TX | On Site | Dec 18 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944d33b50bbaf765056e390?utm_campaign=1051&utm_source=git)** | Kingsville, TX | On Site | Dec 18 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944d32194730b739878105f?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
