@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Andersons, Inc.](http://www.andersonsinc.com)** | **[eCommerce Digital Design & Sales Support Intern (Summer 2026)](https://jobright.ai/jobs/info/6944b0c450bbaf765056c88c?utm_campaign=1051&utm_source=git)** | Maumee, OH | On Site | Dec 18 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Business Development Intern](https://jobright.ai/jobs/info/6944ab06a7227b3ece665760?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 18 |
 | **[Zeptor Inc.](https://www.zeptor.ai)** | **[Business Development Intern](https://jobright.ai/jobs/info/6944a50c50bbaf765056bed2?utm_campaign=1051&utm_source=git)** | San Francisco Bay Area | On Site | Dec 18 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6944993a50bbaf765056a239?utm_campaign=1051&utm_source=git)** | Washington - Pullman | On Site | Dec 18 |
@@ -102,7 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader FT 6569](https://jobright.ai/jobs/info/69446f1794730b739877985e?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Dec 18 |
 | **[Cortif Technologies](https://cortif.ai/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69446dec50bbaf7650566a5e?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Dec 18 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69446dc3dd382f5f566a8e18?utm_campaign=1051&utm_source=git)** | Hartsville, TN | On Site | Dec 18 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69446c9450bbaf7650566987?utm_campaign=1051&utm_source=git)** | Bartlett, TN | On Site | Dec 18 |
+| **[Ross & Yerger Insurance, Inc.](http://www.rossandyerger.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/69446da1dd382f5f566a8dfb?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Dec 18 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69446c9450bbaf7650566987?utm_campaign=1051&utm_source=git)** | Bartlett, TN | On Site | Dec 18 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69446c7094730b739877950f?utm_campaign=1051&utm_source=git)** | Collierville, TN | On Site | Dec 18 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Pricing and Profitability Intern (2026 Summer Internship)](https://jobright.ai/jobs/info/69446c28dd382f5f566a8ceb?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 18 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69446c2894730b73987794e0?utm_campaign=1051&utm_source=git)** | La Vergne, TN | On Site | Dec 18 |
@@ -119,14 +121,12 @@ For a complete list, click the following sortable link below:
 | **[Versana](https://versana.io)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/694468dc94730b73987791ac?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694468a394730b739877916f?utm_campaign=1051&utm_source=git)** | Gallatin, TN | On Site | Dec 18 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/6944685850bbaf76505665aa?utm_campaign=1051&utm_source=git)** | Dyersburg, TN | On Site | Dec 18 |
-| **[H15DEN](https://h15den.com)** | **[Business Development (Micro Internship - 4 weeks)](https://jobright.ai/jobs/info/694463f2dd382f5f566a7f0d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
 | **[Newt Global](https://newtglobal.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/694462c650bbaf7650565fd4?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Dec 18 |
 | **[Cortif Technologies](https://cortif.ai/)** | **[Product Sales Intern](https://jobright.ai/jobs/info/69445eac94730b7398778731?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Dec 18 |
 | **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) -Richland, WA (Starting Summer 2026)](https://jobright.ai/jobs/info/69447bed94730b739877b866?utm_campaign=1051&utm_source=git)** | 2941 Queensgate Dr, Richland,WA 99352-9101 | Hybrid | Dec 18 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Commercial Sales](https://jobright.ai/jobs/info/69445bb950bbaf76505658e2?utm_campaign=1051&utm_source=git)** | HOUSTON, Texas, United States | On Site | Dec 18 |
 | **[Altria](http://www.altria.com)** | **[Undergraduate Internship Sales - West](https://jobright.ai/jobs/info/68b8b59bea901c0d269f8e9e?utm_campaign=1051&utm_source=git)** | United States | On Site | Dec 18 |
-| **[Ross & Yerger Insurance, Inc.](http://www.rossandyerger.com/)** | **[Sales Internship](https://jobright.ai/jobs/info/694455a050bbaf76505652fa?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Dec 18 |
-| **[Altria](http://www.altria.com)** | **[Undergraduate Internship Sales - Mid-West](https://jobright.ai/jobs/info/68cd8cb1e23def7af55bba47?utm_campaign=1051&utm_source=git)** | United States | On Site | Dec 18 |
+| ↳ | **[Undergraduate Internship Sales - Mid-West](https://jobright.ai/jobs/info/68cd8cb1e23def7af55bba47?utm_campaign=1051&utm_source=git)** | United States | On Site | Dec 18 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern Commercial Sales](https://jobright.ai/jobs/info/6944540394730b7398777d13?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 18 |
 | **[SLRIS](https://www.slris.com/)** | **[AI & SaaS Business Development Intern](https://jobright.ai/jobs/info/69444f9c50bbaf7650564df5?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 18 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69444e3594730b73987778d5?utm_campaign=1051&utm_source=git)** | Highland Heights, OH | On Site | Dec 18 |
@@ -137,7 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Sales Internship](https://jobright.ai/jobs/info/6944442194730b7398775af3?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Remote | Dec 18 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Sales Intern](https://jobright.ai/jobs/info/694442fe94730b7398775a33?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Dec 18 |
 | **[LEARFIELD](http://learfield.com)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/69446353dd382f5f566a7ddc?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Dec 18 |
-| ↳ | **[NIL Intern](https://jobright.ai/jobs/info/6944645294730b7398778ccd?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Dec 18 |
+| ↳ | **[NIL Intern](https://jobright.ai/jobs/info/6944667c94730b7398778e6c?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Dec 18 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/69445fe150bbaf7650565ccc?utm_campaign=1051&utm_source=git)** | Prussia, IA | On Site | Dec 18 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Allocations Internship (Summer 2026)](https://jobright.ai/jobs/info/69443a8494730b73987755e0?utm_campaign=1051&utm_source=git)** | Kearney, NE | On Site | Dec 18 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Pricing and Profitability Intern (2026 Summer Internship)](https://jobright.ai/jobs/info/69443a0c94730b7398775593?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 18 |
