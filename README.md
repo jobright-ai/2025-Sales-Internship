@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Spy Museum](https://spymuseum.org)** | **[Retail Buying Intern](https://jobright.ai/jobs/info/6946d3ef63141d1884568a35?utm_campaign=1051&utm_source=git)** | Washington, DC, US | On Site | Dec 20 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Retail Category Management Intern](https://jobright.ai/jobs/info/6946beae7d506e3808f21ce1?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f1801def766b3f0fd0ec78?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Dec 20 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f17fc0ef766b3f0fd0ec2c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 20 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d449deffc1276de3fd9600?utm_campaign=1051&utm_source=git)** | Tampa, FL | Remote | Dec 20 |
 | **[Hotchkiss Insurance](https://hotchkissinsurance.com/)** | **[Insurance Sales Internship](https://jobright.ai/jobs/info/68d593a11f7fb2169ab11b33?utm_campaign=1051&utm_source=git)** | Carrollton, TX | On Site | Dec 20 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44dfa8c62e63bc7fe8027?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Dec 20 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/69438f5a50bbaf76505595f2?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Dec 20 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Sales Internship - Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/69327fd5a0dde7020e2e761d?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 20 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/69047bf063502c0aded7350f?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Dec 20 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/690c46e2d046ab6061cec1d5?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 20 |
