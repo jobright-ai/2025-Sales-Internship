@@ -57,6 +57,42 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466f8b7d506e3808f1ddb2?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466f6b7d506e3808f1dda9?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466f497d506e3808f1dda0?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466f3e7d506e3808f1dd9d?utm_campaign=1051&utm_source=git)** | Richmond, VA | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466ed57d506e3808f1dd86?utm_campaign=1051&utm_source=git)** | Fort Smith, AR | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e7663141d18845636d0?utm_campaign=1051&utm_source=git)** | Sterling Heights, MI | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e447d506e3808f1dd5d?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e3163141d18845636bb?utm_campaign=1051&utm_source=git)** | High Point, NC | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e217d506e3808f1dd55?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e1263141d18845636b3?utm_campaign=1051&utm_source=git)** | Chapel Hill, NC | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e0463141d18845636ae?utm_campaign=1051&utm_source=git)** | Cary, NC | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466dd77d506e3808f1dd41?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466dcd7d506e3808f1dd3f?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466da67d506e3808f1dd35?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466d90d1953b5d11bfa5f8?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466d807d506e3808f1dd2d?utm_campaign=1051&utm_source=git)** | Wake Forest, NC | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466d7ad1953b5d11bfa5f2?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466d6863141d1884563687?utm_campaign=1051&utm_source=git)** | Paterson, NJ | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466d6563141d1884563686?utm_campaign=1051&utm_source=git)** | Warren, MI | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466d577d506e3808f1dd1f?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466d2663141d1884563676?utm_campaign=1051&utm_source=git)** | Arlington, VA | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466c6cd1953b5d11bfa579?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466c68d1953b5d11bfa576?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466c0dd1953b5d11bfa545?utm_campaign=1051&utm_source=git)** | Islip, NY | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466c0763141d1884563629?utm_campaign=1051&utm_source=git)** | Jonesboro, AR | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466ba8d1953b5d11bfa51a?utm_campaign=1051&utm_source=git)** | Yonkers, NY | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466b7dd1953b5d11bfa50e?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6946608dd1953b5d11bf82e2?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69465fa7d1953b5d11bf8242?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69465ed863141d1884561229?utm_campaign=1051&utm_source=git)** | Rogers, AR | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69465ebfd1953b5d11bf8208?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69465eabd1953b5d11bf8202?utm_campaign=1051&utm_source=git)** | Virginia Beach, VA | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69465dcfd1953b5d11bf81cc?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69465d9163141d1884561191?utm_campaign=1051&utm_source=git)** | Lynchburg, VA | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69465d6a63141d188456117b?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 20 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69465b7d7d506e3808f1b76e?utm_campaign=1051&utm_source=git)** | Fayetteville, NC | On Site | Dec 20 |
 | **[RREAF Holdings](https://rreaf.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/694652ca63141d188456094e?utm_campaign=1051&utm_source=git)** | RREAF Holdings - Dallas, TX 75201 | On Site | Dec 19 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Commercial Intern](https://jobright.ai/jobs/info/6946489c7d506e3808f1a66c?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 19 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462b3f7d506e3808f194cf?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Dec 19 |
@@ -121,40 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Maple Heights](https://jobright.ai/jobs/info/694620d47d506e3808f17367?utm_campaign=1051&utm_source=git)** | Maple Heights, OH | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Burien](https://jobright.ai/jobs/info/694620ced1953b5d11bf3d2f?utm_campaign=1051&utm_source=git)** | Burien, WA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Queens](https://jobright.ai/jobs/info/694620c7d1953b5d11bf3d2b?utm_campaign=1051&utm_source=git)** | Queens, NY | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Simpsonville](https://jobright.ai/jobs/info/694620bc7d506e3808f17354?utm_campaign=1051&utm_source=git)** | Simpsonville, SC | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Pinehurst](https://jobright.ai/jobs/info/694620b8d1953b5d11bf3d23?utm_campaign=1051&utm_source=git)** | Pinehurst, NC | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Riverbank](https://jobright.ai/jobs/info/694620b4d1953b5d11bf3d22?utm_campaign=1051&utm_source=git)** | Riverbank, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Fontana](https://jobright.ai/jobs/info/694620b47d506e3808f1734f?utm_campaign=1051&utm_source=git)** | Fontana, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Norco](https://jobright.ai/jobs/info/694620a37d506e3808f17345?utm_campaign=1051&utm_source=git)** | Norco, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Belton](https://jobright.ai/jobs/info/694620a07d506e3808f17342?utm_campaign=1051&utm_source=git)** | Belton, TX | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Half Moon Bay](https://jobright.ai/jobs/info/69462097d1953b5d11bf3d13?utm_campaign=1051&utm_source=git)** | Half Moon Bay, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Brea](https://jobright.ai/jobs/info/69462092d1953b5d11bf3d10?utm_campaign=1051&utm_source=git)** | Brea, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Walker](https://jobright.ai/jobs/info/694620927d506e3808f1733b?utm_campaign=1051&utm_source=git)** | Walker, MI | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Monessen](https://jobright.ai/jobs/info/69462092d1953b5d11bf3d11?utm_campaign=1051&utm_source=git)** | Monessen, PA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Bismarck](https://jobright.ai/jobs/info/6946208e7d506e3808f17338?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Ann Arbor](https://jobright.ai/jobs/info/69462085d1953b5d11bf3d04?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Morristown](https://jobright.ai/jobs/info/694620727d506e3808f17327?utm_campaign=1051&utm_source=git)** | Morristown, TN | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Winter Garden](https://jobright.ai/jobs/info/6946205ad1953b5d11bf3ce2?utm_campaign=1051&utm_source=git)** | Winter Garden, FL | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Gloucester](https://jobright.ai/jobs/info/69462055d1953b5d11bf3cde?utm_campaign=1051&utm_source=git)** | Gloucester, MA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Valdosta](https://jobright.ai/jobs/info/694620547d506e3808f17316?utm_campaign=1051&utm_source=git)** | Valdosta, GA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship American Fork](https://jobright.ai/jobs/info/69462052d1953b5d11bf3cda?utm_campaign=1051&utm_source=git)** | American Fork, UT | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694620377d506e3808f17303?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship College Station](https://jobright.ai/jobs/info/6946202dd1953b5d11bf3cc3?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69462026d1953b5d11bf3cbe?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Hampton](https://jobright.ai/jobs/info/69462012d1953b5d11bf3cb3?utm_campaign=1051&utm_source=git)** | Hampton, VA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Prairie Village](https://jobright.ai/jobs/info/694620037d506e3808f172e5?utm_campaign=1051&utm_source=git)** | Prairie Village, KS | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69461fe1d1953b5d11bf3c8d?utm_campaign=1051&utm_source=git)** | Modesto, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69461fde7d506e3808f172cc?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69461fd57d506e3808f172c6?utm_campaign=1051&utm_source=git)** | Jurupa Valley, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Racine](https://jobright.ai/jobs/info/69461fd2d1953b5d11bf3c84?utm_campaign=1051&utm_source=git)** | Racine, WI | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Culver City](https://jobright.ai/jobs/info/69461fc37d506e3808f172b5?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Hesperia](https://jobright.ai/jobs/info/69461fb87d506e3808f172af?utm_campaign=1051&utm_source=git)** | Hesperia, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Danville](https://jobright.ai/jobs/info/69461f9f7d506e3808f172a5?utm_campaign=1051&utm_source=git)** | Danville, VA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Homewood](https://jobright.ai/jobs/info/69461f97d1953b5d11bf3c5b?utm_campaign=1051&utm_source=git)** | Homewood, AL | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Longmont](https://jobright.ai/jobs/info/69461f93d1953b5d11bf3c59?utm_campaign=1051&utm_source=git)** | Longmont, CO | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69461f8fd1953b5d11bf3c55?utm_campaign=1051&utm_source=git)** | Milwaukee, WI | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Huntington Beach](https://jobright.ai/jobs/info/69461f88d1953b5d11bf3c51?utm_campaign=1051&utm_source=git)** | Huntington Beach, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Calexico](https://jobright.ai/jobs/info/69461f887d506e3808f1729d?utm_campaign=1051&utm_source=git)** | Calexico, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Los Angeles](https://jobright.ai/jobs/info/69461f867d506e3808f1729c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Rochester Hills](https://jobright.ai/jobs/info/69461f79d1953b5d11bf3c47?utm_campaign=1051&utm_source=git)** | Rochester Hills, MI | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
