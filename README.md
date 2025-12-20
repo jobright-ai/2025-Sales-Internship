@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FASHINNOVATION](https://fashinnovation.nyc/)** | **[Business Operations & Growth Intern (Fashion & Tech)](https://jobright.ai/jobs/info/6946f97363141d188456ab3f?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | Remote | Dec 20 |
+| **[Oldcastle Infrastructure](https://oldcastleinfrastructure.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6946f6c1d1953b5d11c0173f?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Dec 20 |
 | **[International Spy Museum](https://spymuseum.org)** | **[Retail Buying Intern](https://jobright.ai/jobs/info/6946d3ef63141d1884568a35?utm_campaign=1051&utm_source=git)** | Washington, DC, US | On Site | Dec 20 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Retail Category Management Intern](https://jobright.ai/jobs/info/6946beae7d506e3808f21ce1?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f1801def766b3f0fd0ec78?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Dec 20 |
@@ -97,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Hotchkiss Insurance](https://hotchkissinsurance.com/)** | **[Insurance Sales Internship](https://jobright.ai/jobs/info/68d593a11f7fb2169ab11b33?utm_campaign=1051&utm_source=git)** | Carrollton, TX | On Site | Dec 20 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44dfa8c62e63bc7fe8027?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Dec 20 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Sales Internship - Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/69327fd5a0dde7020e2e761d?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 20 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/69047bf063502c0aded7350f?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Dec 20 |
-| ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/690c46e2d046ab6061cec1d5?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 20 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/690c46e2d046ab6061cec1d5?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 20 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/68f5f6cb9a63986de757bb3c?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Dec 20 |
 | ↳ | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6933d0f4764507023d1b9cbd?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | On Site | Dec 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/6933d0d6764507023d1b9c69?utm_campaign=1051&utm_source=git)** | Gainesville, GA | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462aee63141d188455d30a?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Dec 19 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462aea63141d188455d309?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Dec 19 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462ace63141d188455d2fe?utm_campaign=1051&utm_source=git)** | Lancaster, CA | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462abbd1953b5d11bf497a?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
