@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d42d42ffc1276de3fd7e96?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 20 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/691ab48abcdbf3560c9d9d20?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Dec 20 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/68db8445e19b9e63ba20cefc?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | Dec 20 |
+| **[Echo Global Logistics](https://www.echo.com)** | **[Client Sales Intern - Detroit](https://jobright.ai/jobs/info/68ce2deab2a74e1837ee00d4?utm_campaign=1051&utm_source=git)** | Troy, MI | Hybrid | Dec 20 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466f8b7d506e3808f1ddb2?utm_campaign=1051&utm_source=git)** | Syracuse, NY | On Site | Dec 20 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466f6b7d506e3808f1dda9?utm_campaign=1051&utm_source=git)** | Alexandria, VA | On Site | Dec 20 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466f497d506e3808f1dda0?utm_campaign=1051&utm_source=git)** | Fayetteville, AR | On Site | Dec 20 |
@@ -128,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship South Pasadena](https://jobright.ai/jobs/info/694621b97d506e3808f173d1?utm_campaign=1051&utm_source=git)** | South Pasadena, CA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Cerritos](https://jobright.ai/jobs/info/694621b2d1953b5d11bf3dad?utm_campaign=1051&utm_source=git)** | Cerritos, CA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Paradise](https://jobright.ai/jobs/info/694621add1953b5d11bf3da7?utm_campaign=1051&utm_source=git)** | Paradise, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Lewes](https://jobright.ai/jobs/info/6946219ed1953b5d11bf3d9c?utm_campaign=1051&utm_source=git)** | Lewes, DE | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Collinsville](https://jobright.ai/jobs/info/6946219ed1953b5d11bf3d9b?utm_campaign=1051&utm_source=git)** | Collinsville, IL | On Site | Dec 19 |
+| ↳ | **[Summer Sales Internship Lewes](https://jobright.ai/jobs/info/6946219ed1953b5d11bf3d9c?utm_campaign=1051&utm_source=git)** | Lewes, DE | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Clinton](https://jobright.ai/jobs/info/6946219c7d506e3808f173c6?utm_campaign=1051&utm_source=git)** | Clinton, IA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Zion](https://jobright.ai/jobs/info/6946219ad1953b5d11bf3d98?utm_campaign=1051&utm_source=git)** | Zion, IL | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Cookeville](https://jobright.ai/jobs/info/694621997d506e3808f173c4?utm_campaign=1051&utm_source=git)** | Cookeville, TN | On Site | Dec 19 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Algonquin](https://jobright.ai/jobs/info/69462163d1953b5d11bf3d7c?utm_campaign=1051&utm_source=git)** | Algonquin, IL | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694621617d506e3808f173a0?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship El Mirage](https://jobright.ai/jobs/info/69462152d1953b5d11bf3d76?utm_campaign=1051&utm_source=git)** | El Mirage, AZ | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Loveland](https://jobright.ai/jobs/info/6946214dd1953b5d11bf3d73?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6946214dd1953b5d11bf3d71?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Dec 19 |
+| ↳ | **[Summer Sales Internship Loveland](https://jobright.ai/jobs/info/6946214dd1953b5d11bf3d73?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Butler](https://jobright.ai/jobs/info/69462149d1953b5d11bf3d6f?utm_campaign=1051&utm_source=git)** | Butler, PA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Raleigh](https://jobright.ai/jobs/info/6946213ed1953b5d11bf3d69?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Mount Pleasant](https://jobright.ai/jobs/info/694621247d506e3808f17386?utm_campaign=1051&utm_source=git)** | Mount Pleasant, SC | On Site | Dec 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694620ebd1953b5d11bf3d40?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694620e6d1953b5d11bf3d3d?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Lemoore](https://jobright.ai/jobs/info/694620dfd1953b5d11bf3d38?utm_campaign=1051&utm_source=git)** | Lemoore, CA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694620dbd1953b5d11bf3d36?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Maple Heights](https://jobright.ai/jobs/info/694620d47d506e3808f17367?utm_campaign=1051&utm_source=git)** | Maple Heights, OH | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Burien](https://jobright.ai/jobs/info/694620ced1953b5d11bf3d2f?utm_campaign=1051&utm_source=git)** | Burien, WA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Queens](https://jobright.ai/jobs/info/694620c7d1953b5d11bf3d2b?utm_campaign=1051&utm_source=git)** | Queens, NY | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
