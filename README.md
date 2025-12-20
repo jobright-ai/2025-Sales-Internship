@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RREAF Holdings](https://rreaf.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/694652ca63141d188456094e?utm_campaign=1051&utm_source=git)** | RREAF Holdings - Dallas, TX 75201 | On Site | Dec 19 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Commercial Intern](https://jobright.ai/jobs/info/6946489c7d506e3808f1a66c?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 19 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462b3f7d506e3808f194cf?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Dec 19 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462aee63141d188455d30a?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Dec 19 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462aea63141d188455d309?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Dec 19 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Algonquin](https://jobright.ai/jobs/info/69462163d1953b5d11bf3d7c?utm_campaign=1051&utm_source=git)** | Algonquin, IL | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694621617d506e3808f173a0?utm_campaign=1051&utm_source=git)** | Lakewood, CO | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship El Mirage](https://jobright.ai/jobs/info/69462152d1953b5d11bf3d76?utm_campaign=1051&utm_source=git)** | El Mirage, AZ | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6946214dd1953b5d11bf3d71?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Loveland](https://jobright.ai/jobs/info/6946214dd1953b5d11bf3d73?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Dec 19 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6946214dd1953b5d11bf3d71?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Butler](https://jobright.ai/jobs/info/69462149d1953b5d11bf3d6f?utm_campaign=1051&utm_source=git)** | Butler, PA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Raleigh](https://jobright.ai/jobs/info/6946213ed1953b5d11bf3d69?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Mount Pleasant](https://jobright.ai/jobs/info/694621247d506e3808f17386?utm_campaign=1051&utm_source=git)** | Mount Pleasant, SC | On Site | Dec 19 |
@@ -126,9 +128,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Norco](https://jobright.ai/jobs/info/694620a37d506e3808f17345?utm_campaign=1051&utm_source=git)** | Norco, CA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Belton](https://jobright.ai/jobs/info/694620a07d506e3808f17342?utm_campaign=1051&utm_source=git)** | Belton, TX | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Half Moon Bay](https://jobright.ai/jobs/info/69462097d1953b5d11bf3d13?utm_campaign=1051&utm_source=git)** | Half Moon Bay, CA | On Site | Dec 19 |
+| ↳ | **[Summer Sales Internship Brea](https://jobright.ai/jobs/info/69462092d1953b5d11bf3d10?utm_campaign=1051&utm_source=git)** | Brea, CA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Walker](https://jobright.ai/jobs/info/694620927d506e3808f1733b?utm_campaign=1051&utm_source=git)** | Walker, MI | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Monessen](https://jobright.ai/jobs/info/69462092d1953b5d11bf3d11?utm_campaign=1051&utm_source=git)** | Monessen, PA | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Brea](https://jobright.ai/jobs/info/69462092d1953b5d11bf3d10?utm_campaign=1051&utm_source=git)** | Brea, CA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Bismarck](https://jobright.ai/jobs/info/6946208e7d506e3808f17338?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Ann Arbor](https://jobright.ai/jobs/info/69462085d1953b5d11bf3d04?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Morristown](https://jobright.ai/jobs/info/694620727d506e3808f17327?utm_campaign=1051&utm_source=git)** | Morristown, TN | On Site | Dec 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Calexico](https://jobright.ai/jobs/info/69461f887d506e3808f1729d?utm_campaign=1051&utm_source=git)** | Calexico, CA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Los Angeles](https://jobright.ai/jobs/info/69461f867d506e3808f1729c?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 19 |
 | ↳ | **[Summer Sales Internship Rochester Hills](https://jobright.ai/jobs/info/69461f79d1953b5d11bf3c47?utm_campaign=1051&utm_source=git)** | Rochester Hills, MI | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69461f77d1953b5d11bf3c43?utm_campaign=1051&utm_source=git)** | Elgin, IL | On Site | Dec 19 |
-| ↳ | **[Summer Sales Internship Kirkland](https://jobright.ai/jobs/info/69461f747d506e3808f17293?utm_campaign=1051&utm_source=git)** | Kirkland, WA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
