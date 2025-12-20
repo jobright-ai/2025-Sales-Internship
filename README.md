@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Retail Category Management Intern](https://jobright.ai/jobs/info/6946beae7d506e3808f21ce1?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Dec 20 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f1801def766b3f0fd0ec78?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Dec 20 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f17fc0ef766b3f0fd0ec2c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 20 |
+| **[Hotchkiss Insurance](https://hotchkissinsurance.com/)** | **[Insurance Sales Internship](https://jobright.ai/jobs/info/68d593051f7fb2169ab11903?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 20 |
+| **[Patterson-Kelley](http://harscopk.com)** | **[Inside Sales Intern](https://jobright.ai/jobs/info/6946b5007d506e3808f21803?utm_campaign=1051&utm_source=git)** | Brentwood, MO | Hybrid | Dec 20 |
+| **[PRIDE Seeds](http://www.prideseeds.com)** | **[Sales Agronomist Intern (Zone 11 & 12 Quebec)](https://jobright.ai/jobs/info/6946a9667d506e3808f20e16?utm_campaign=1051&utm_source=git)** | Québec, Quebec, Canada | Remote | Dec 20 |
+| **[Varonis](http://www.varonis.com)** | **[Sales Intern](https://jobright.ai/jobs/info/690d0cb54a1b456627b1d079?utm_campaign=1051&utm_source=git)** | Morrisville, NC | On Site | Dec 20 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f18644ef766b3f0fd0f197?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Dec 20 |
+| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Inhouse Sales Engineer Intern](https://jobright.ai/jobs/info/68d58db839247e3c807ec8f2?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
+| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Strategic Partnership Sales & Marketing Intern](https://jobright.ai/jobs/info/68f05cd999530851ee6ecbfb?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Dec 20 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Buying Intern - Summer 2026](https://jobright.ai/jobs/info/689b87dd79a9f96662530eb6?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f18099ef766b3f0fd0ecec?utm_campaign=1051&utm_source=git)** | St Paul, MN | On Site | Dec 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - US Client Management, Account Analyst](https://jobright.ai/jobs/info/68b5dfb8f4e41a61efd91672?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f18660e6870116b1f5a19f?utm_campaign=1051&utm_source=git)** | Woodbury, MN | On Site | Dec 20 |
@@ -97,7 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Business Development Intern Summer 2026](https://jobright.ai/jobs/info/68d623a4ebcef82ef5cf67eb?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Dec 20 |
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (SD)](https://jobright.ai/jobs/info/68f085d2eb273a32d97691e4?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Twin Cities)](https://jobright.ai/jobs/info/68b799a6f4e41a61efd9a737?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | Dec 20 |
-| ↳ | **[Management and Sales Intern - Savannah](https://jobright.ai/jobs/info/68f483de9a63986de7575f09?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Dec 20 |
+| **[Bunzl Distribution NA](http://www.bunzldistribution.com/)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68b79a9a1ade4306aa64c913?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Savannah](https://jobright.ai/jobs/info/68f483de9a63986de7575f09?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Dec 20 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d42d42ffc1276de3fd7e96?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/691ab48abcdbf3560c9d9d20?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Dec 20 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/68db8445e19b9e63ba20cefc?utm_campaign=1051&utm_source=git)** | Cromwell, CT | On Site | Dec 20 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462aea63141d188455d309?utm_campaign=1051&utm_source=git)** | College Station, TX | On Site | Dec 19 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462ace63141d188455d2fe?utm_campaign=1051&utm_source=git)** | Lancaster, CA | On Site | Dec 19 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462abbd1953b5d11bf497a?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462a057d506e3808f19132?utm_campaign=1051&utm_source=git)** | Frisco, TX | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/694629b5d1953b5d11bf43a0?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/694629a07d506e3808f18b76?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6946297dd1953b5d11bf438e?utm_campaign=1051&utm_source=git)** | Fremont, CA | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6946295ed1953b5d11bf437b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/694629557d506e3808f187a7?utm_campaign=1051&utm_source=git)** | South Fulton, GA | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462937d1953b5d11bf436a?utm_campaign=1051&utm_source=git)** | Fort Worth, TX | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6946290fd1953b5d11bf435d?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69462900d1953b5d11bf4354?utm_campaign=1051&utm_source=git)** | Santa Ana, CA | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/694628f9d1953b5d11bf434f?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/694628c663141d188455d235?utm_campaign=1051&utm_source=git)** | Naperville, IL | On Site | Dec 19 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6946286363141d188455d200?utm_campaign=1051&utm_source=git)** | Cape Coral, FL | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
