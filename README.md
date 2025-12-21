@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Community Group Reservations Sales Intern](https://jobright.ai/jobs/info/692e59e7fa28370be26a3cd5?utm_campaign=1051&utm_source=git)** | NL-Hub | On Site | Dec 21 |
+| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6947b53b7d506e3808f303d9?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Dec 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6947b1b8d1953b5d11c0cf97?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | Dec 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6947b17f7d506e3808f2ffd9?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Dec 21 |
+| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6947adcd63141d18845762d9?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 21 |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6947adca7d506e3808f2fd96?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | Dec 21 |
+| **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6947ace663141d18845762ac?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 21 |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Technical Sales Engineer Intern](https://jobright.ai/jobs/info/6947a79163141d1884575e1e?utm_campaign=1051&utm_source=git)** | US-NV-North Las Vegas | On Site | Dec 20 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69479c4e7d506e3808f2ec2c?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 20 |
 | **[Suvorov Business Consulting](https://www.suvorov.biz)** | **[Capital Markets Associate](https://jobright.ai/jobs/info/694780e4d1953b5d11c09101?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Albany](https://jobright.ai/jobs/info/69476f44d1953b5d11c0833f?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Dec 20 |
@@ -120,16 +128,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Wilmette](https://jobright.ai/jobs/info/69476eb97d506e3808f2b4ea?utm_campaign=1051&utm_source=git)** | Wilmette, IL | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69476eb8d1953b5d11c08306?utm_campaign=1051&utm_source=git)** | Brockton, MA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Nashville](https://jobright.ai/jobs/info/69476eb57d506e3808f2b4e8?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Battle Creek](https://jobright.ai/jobs/info/69476eb4d1953b5d11c08305?utm_campaign=1051&utm_source=git)** | Battle Creek, MI | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Chico](https://jobright.ai/jobs/info/69476eb4d1953b5d11c08304?utm_campaign=1051&utm_source=git)** | Chico, CA | On Site | Dec 20 |
+| ↳ | **[Summer Sales Internship Battle Creek](https://jobright.ai/jobs/info/69476eb4d1953b5d11c08305?utm_campaign=1051&utm_source=git)** | Battle Creek, MI | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Marietta](https://jobright.ai/jobs/info/69476eb163141d18845716f7?utm_campaign=1051&utm_source=git)** | Marietta, OH | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship San Carlos](https://jobright.ai/jobs/info/69476eb17d506e3808f2b4e7?utm_campaign=1051&utm_source=git)** | San Carlos, CA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Vernal](https://jobright.ai/jobs/info/69476eb0d1953b5d11c08302?utm_campaign=1051&utm_source=git)** | Vernal, UT | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69476eaad1953b5d11c08301?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69476eaa63141d18845716f4?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Port Chester](https://jobright.ai/jobs/info/69476ea863141d18845716f3?utm_campaign=1051&utm_source=git)** | Port Chester, NY | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Schenectady](https://jobright.ai/jobs/info/69476ea77d506e3808f2b4e5?utm_campaign=1051&utm_source=git)** | Schenectady, NY | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Taunton](https://jobright.ai/jobs/info/69476ea77d506e3808f2b4e4?utm_campaign=1051&utm_source=git)** | Taunton, MA | On Site | Dec 20 |
+| ↳ | **[Summer Sales Internship Schenectady](https://jobright.ai/jobs/info/69476ea77d506e3808f2b4e5?utm_campaign=1051&utm_source=git)** | Schenectady, NY | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Middletown](https://jobright.ai/jobs/info/69476ea5d1953b5d11c08300?utm_campaign=1051&utm_source=git)** | Middletown, NY | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship South San Francisco](https://jobright.ai/jobs/info/69476ea37d506e3808f2b4e3?utm_campaign=1051&utm_source=git)** | South San Francisco, CA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Kingsville](https://jobright.ai/jobs/info/69476ea063141d18845716f1?utm_campaign=1051&utm_source=git)** | Kingsville, TX | On Site | Dec 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Santa Clara](https://jobright.ai/jobs/info/69476e887d506e3808f2b4dc?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Lakeland](https://jobright.ai/jobs/info/69476e8763141d18845716e9?utm_campaign=1051&utm_source=git)** | Lakeland, FL | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Shelbyville](https://jobright.ai/jobs/info/69476e8763141d18845716e8?utm_campaign=1051&utm_source=git)** | Shelbyville, TN | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Kingsport](https://jobright.ai/jobs/info/69476e84d1953b5d11c082f6?utm_campaign=1051&utm_source=git)** | Kingsport, TN | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69476e81d1953b5d11c082f5?utm_campaign=1051&utm_source=git)** | Oakland, CA | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Elko](https://jobright.ai/jobs/info/69476e7f63141d18845716e6?utm_campaign=1051&utm_source=git)** | Elko, NV | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Fountain Valley](https://jobright.ai/jobs/info/69476e7ed1953b5d11c082f4?utm_campaign=1051&utm_source=git)** | Fountain Valley, CA | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69476e7c7d506e3808f2b4d8?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Wilson](https://jobright.ai/jobs/info/69476e7b63141d18845716e4?utm_campaign=1051&utm_source=git)** | Wilson, NC | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Scottsbluff](https://jobright.ai/jobs/info/69476e7a63141d18845716e3?utm_campaign=1051&utm_source=git)** | Scottsbluff, NE | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Norfolk](https://jobright.ai/jobs/info/69476e7ad1953b5d11c082f3?utm_campaign=1051&utm_source=git)** | Norfolk, NE | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
