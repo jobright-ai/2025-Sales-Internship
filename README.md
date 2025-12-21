@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship- Sales Analyst](https://jobright.ai/jobs/info/6948591d7d506e3808f392dd?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Dec 21 |
+| **[Octaura](https://www.octaura.com)** | **[Intern, Sales GTM](https://jobright.ai/jobs/info/69484f2463141d188457f831?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Dec 21 |
 | **[Bridgecross, LLC](https://bridgecrossllc.com)** | **[Business Development Intern (DoD SkillBridge Program)](https://jobright.ai/jobs/info/69484e9363141d188457f7c6?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Dec 21 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Dec 21 |
 | **[SRND AI](srnd.ai)** | **[(Unpaid) Sales And Marketing Intern](https://jobright.ai/jobs/info/6948369463141d188457ed17?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 21 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/694822f97d506e3808f36435?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 21 |
 | **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913ef881465e02904e98b36?utm_campaign=1051&utm_source=git)** | St Charles | On Site | Dec 21 |
-| **[Blackmont Consulting](https://www.blackmontconsulting.com/)** | **[Business Development Intern (Only students)](https://jobright.ai/jobs/info/694811a37d506e3808f35ee3?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 21 |
 | **[School Outfitters](http://schooloutfitters.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69480d3163141d188457c36a?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 21 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6948069063141d188457c2ad?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Dec 21 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6948064e63141d188457c29b?utm_campaign=1051&utm_source=git)** | Joplin, MO | On Site | Dec 21 |
@@ -103,10 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68b52b711ade4306aa640a77?utm_campaign=1051&utm_source=git)** | Lawrenceville, GA | On Site | Dec 21 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/692b03474c474121999cd148?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Dec 21 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68c63e01db52c07d28845dbd?utm_campaign=1051&utm_source=git)** | Tysons Corner, VA | On Site | Dec 21 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Toledo)](https://jobright.ai/jobs/info/68bb3b648043103d4f226ebe?utm_campaign=1051&utm_source=git)** | Toledo, OH | On Site | Dec 21 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68f13e8ef462172a5a7d4f32?utm_campaign=1051&utm_source=git)** | Battle Creek, NE | Hybrid | Dec 21 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Columbus)](https://jobright.ai/jobs/info/68bb38575f3832749186d5c7?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 21 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d6fc8043103d4f21adcf?utm_campaign=1051&utm_source=git)** | Magnolia, MN | On Site | Dec 21 |
+| ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d6fc8043103d4f21adcf?utm_campaign=1051&utm_source=git)** | Magnolia, MN | On Site | Dec 21 |
 | ↳ | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/68f1384fe6870116b1f54f43?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Development Intern - Summer 2026 - Dallas Regional Office](https://jobright.ai/jobs/info/689cd4d6faa4e875e826ae9e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 21 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales Intern (Summer 2026) - San Jose, CA](https://jobright.ai/jobs/info/690e70dad046ab6061cfdaa8?utm_campaign=1051&utm_source=git)** | Shelton, CT | On Site | Dec 21 |
@@ -116,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5505f38327491861473?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Dec 21 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Assistant Buyer Intern - Los Angeles](https://jobright.ai/jobs/info/689e87cafaa4e875e827d79a?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 21 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9dc5c6105227d11898692?utm_campaign=1051&utm_source=git)** | Worthing, SD | On Site | Dec 21 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - East Coast Florida](https://jobright.ai/jobs/info/6940fd0649a7695fbd068970?utm_campaign=1051&utm_source=git)** | Daytona Beach, FL | On Site | Dec 21 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Business Markets](https://jobright.ai/jobs/info/6947e2837d506e3808f330b3?utm_campaign=1051&utm_source=git)** | Nipawin, Saskatchewan, Canada | On Site | Dec 21 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Energy Sales Intern](https://jobright.ai/jobs/info/68b9dc3b6105227d1189867a?utm_campaign=1051&utm_source=git)** | Mitchell, SD | On Site | Dec 21 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6ffa445853d0e39ccbcef?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Dec 21 |
@@ -124,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager, Commercial Financial Services, Intern- EN](https://jobright.ai/jobs/info/692c36c24c474121999cfce2?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 21 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68cee5d8fb49c96ca6ea4272?utm_campaign=1051&utm_source=git)** | Yuma, CO | On Site | Dec 21 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca3750f61c922772a750f1?utm_campaign=1051&utm_source=git)** | Ethan, SD | On Site | Dec 21 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern - South Florida](https://jobright.ai/jobs/info/6922b4617795cd460c836b46?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 21 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fde1894705799a2ef640?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 21 |
 | **[PRIDE Seeds](http://www.prideseeds.com)** | **[Sales Agronomist Intern (Zone 62 Manitoba)](https://jobright.ai/jobs/info/6947fdefd1953b5d11c125b8?utm_campaign=1051&utm_source=git)** | Manitoba, Canada | Remote | Dec 21 |
 | **[Würth Industry USA](http://www.wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d5941639247e3c807ed19b?utm_campaign=1051&utm_source=git)** | Greenwood, FL | Hybrid | Dec 21 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Cabot](https://jobright.ai/jobs/info/69476f1ed1953b5d11c08325?utm_campaign=1051&utm_source=git)** | Cabot, AR | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Attleboro](https://jobright.ai/jobs/info/69476f1d7d506e3808f2b512?utm_campaign=1051&utm_source=git)** | Attleboro, MA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Independence](https://jobright.ai/jobs/info/69476f1ad1953b5d11c08323?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Dec 20 |
+| ↳ | **[Summer Sales Internship Rochester](https://jobright.ai/jobs/info/69476f197d506e3808f2b510?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Dec 20 |
+| ↳ | **[Summer Sales Internship Eagan](https://jobright.ai/jobs/info/69476f1763141d1884571716?utm_campaign=1051&utm_source=git)** | Eagan, MN | On Site | Dec 20 |
+| ↳ | **[Summer Sales Internship Chesapeake](https://jobright.ai/jobs/info/69476f15d1953b5d11c08321?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
