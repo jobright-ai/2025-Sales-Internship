@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bridgecross, LLC](https://bridgecrossllc.com)** | **[Business Development Intern (DoD SkillBridge Program)](https://jobright.ai/jobs/info/69484e9363141d188457f7c6?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Dec 21 |
+| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Dec 21 |
+| **[SRND AI](srnd.ai)** | **[(Unpaid) Sales And Marketing Intern](https://jobright.ai/jobs/info/6948369463141d188457ed17?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 21 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/694822f97d506e3808f36435?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 21 |
 | **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913ef881465e02904e98b36?utm_campaign=1051&utm_source=git)** | St Charles | On Site | Dec 21 |
 | **[Blackmont Consulting](https://www.blackmontconsulting.com/)** | **[Business Development Intern (Only students)](https://jobright.ai/jobs/info/694811a37d506e3808f35ee3?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Cabot](https://jobright.ai/jobs/info/69476f1ed1953b5d11c08325?utm_campaign=1051&utm_source=git)** | Cabot, AR | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Attleboro](https://jobright.ai/jobs/info/69476f1d7d506e3808f2b512?utm_campaign=1051&utm_source=git)** | Attleboro, MA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Independence](https://jobright.ai/jobs/info/69476f1ad1953b5d11c08323?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Rochester](https://jobright.ai/jobs/info/69476f197d506e3808f2b510?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Eagan](https://jobright.ai/jobs/info/69476f1763141d1884571716?utm_campaign=1051&utm_source=git)** | Eagan, MN | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Chesapeake](https://jobright.ai/jobs/info/69476f15d1953b5d11c08321?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
