@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern – Client Management Account Analyst, Toronto](https://jobright.ai/jobs/info/691dd43e61dc50590a64aa4f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
+| **[H15DEN](https://h15den.com)** | **[Business Development - Micro Internship (4 weeks)](https://jobright.ai/jobs/info/694741357d506e3808f28b81?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 20 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Crop Insurance Intern](https://jobright.ai/jobs/info/6947092e7d506e3808f254e3?utm_campaign=1051&utm_source=git)** | West Des Moines, IA | On Site | Dec 20 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Spring Retail Management Internship, Streets of West Chester](https://jobright.ai/jobs/info/6947083963141d188456b386?utm_campaign=1051&utm_source=git)** | Store 1805-Streets of Westchester-ANN-West Chester, OH 45069 | Hybrid | Dec 20 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69470759d1953b5d11c02219?utm_campaign=1051&utm_source=git)** | Fishers, IN | On Site | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e7663141d18845636d0?utm_campaign=1051&utm_source=git)** | Sterling Heights, MI | On Site | Dec 20 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e447d506e3808f1dd5d?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Dec 20 |
 | ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e3163141d18845636bb?utm_campaign=1051&utm_source=git)** | High Point, NC | On Site | Dec 20 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e217d506e3808f1dd55?utm_campaign=1051&utm_source=git)** | Elizabeth, NJ | On Site | Dec 20 |
-| ↳ | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/69466e1263141d18845636b3?utm_campaign=1051&utm_source=git)** | Chapel Hill, NC | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
