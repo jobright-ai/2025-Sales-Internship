@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suvorov Business Consulting](https://www.suvorov.biz)** | **[Capital Markets Associate](https://jobright.ai/jobs/info/694780e4d1953b5d11c09101?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Albany](https://jobright.ai/jobs/info/69476f44d1953b5d11c0833f?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Menifee](https://jobright.ai/jobs/info/69476f3cd1953b5d11c0833a?utm_campaign=1051&utm_source=git)** | Menifee, CA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Asheboro](https://jobright.ai/jobs/info/69476f3563141d1884571727?utm_campaign=1051&utm_source=git)** | Asheboro, NC | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Scottsbluff](https://jobright.ai/jobs/info/69476e7a63141d18845716e3?utm_campaign=1051&utm_source=git)** | Scottsbluff, NE | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Norfolk](https://jobright.ai/jobs/info/69476e7ad1953b5d11c082f3?utm_campaign=1051&utm_source=git)** | Norfolk, NE | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Roanoke Rapids](https://jobright.ai/jobs/info/69476e777d506e3808f2b4d6?utm_campaign=1051&utm_source=git)** | Roanoke Rapids, NC | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Danbury](https://jobright.ai/jobs/info/69476e76d1953b5d11c082f2?utm_campaign=1051&utm_source=git)** | Danbury, CT | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
