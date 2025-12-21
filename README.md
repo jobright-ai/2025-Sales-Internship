@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/694822f97d506e3808f36435?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 21 |
+| **[Senior Benefit Services: SBS](https://www.sbsteam.net/)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6913ef881465e02904e98b36?utm_campaign=1051&utm_source=git)** | St Charles | On Site | Dec 21 |
 | **[Blackmont Consulting](https://www.blackmontconsulting.com/)** | **[Business Development Intern (Only students)](https://jobright.ai/jobs/info/694811a37d506e3808f35ee3?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 21 |
 | **[School Outfitters](http://schooloutfitters.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69480d3163141d188457c36a?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 21 |
 | **[Lotus Sales](www.lotussales.co)** | **[Paid Summer Sales Internship - No Experience + Training](https://jobright.ai/jobs/info/6948069063141d188457c2ad?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Dec 21 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68b8f3a2ea901c0d269fafda?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Dec 21 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/690eea6bd046ab6061d020f0?utm_campaign=1051&utm_source=git)** | Boise, ID | Hybrid | Dec 21 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44b02ffc1276de3fd9766?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | Remote | Dec 21 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[2026 Summer Graduate/PhD Intern – Inside Sales Engineering (R14693)](https://jobright.ai/jobs/info/6947ef6163141d188457b61b?utm_campaign=1051&utm_source=git)** | Irvine, CA | Remote | Dec 21 |
 | **[Paycom](http://www.paycom.com)** | **[Client Success Manager Intern - Skillbridge](https://jobright.ai/jobs/info/68f2efa69a63986de756d552?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Dec 21 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d49ce1ffc1276de3fdc860?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Remote | Dec 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68d746a6f9dbe42bf62c0e51?utm_campaign=1051&utm_source=git)** | Suffolk, VA | On Site | Dec 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Rochester](https://jobright.ai/jobs/info/69476f197d506e3808f2b510?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Eagan](https://jobright.ai/jobs/info/69476f1763141d1884571716?utm_campaign=1051&utm_source=git)** | Eagan, MN | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Chesapeake](https://jobright.ai/jobs/info/69476f15d1953b5d11c08321?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Jacksonville](https://jobright.ai/jobs/info/69476f12d1953b5d11c08320?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
