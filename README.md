@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/69479c4e7d506e3808f2ec2c?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 20 |
 | **[Suvorov Business Consulting](https://www.suvorov.biz)** | **[Capital Markets Associate](https://jobright.ai/jobs/info/694780e4d1953b5d11c09101?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Albany](https://jobright.ai/jobs/info/69476f44d1953b5d11c0833f?utm_campaign=1051&utm_source=git)** | Albany, NY | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Menifee](https://jobright.ai/jobs/info/69476f3cd1953b5d11c0833a?utm_campaign=1051&utm_source=git)** | Menifee, CA | On Site | Dec 20 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Newark](https://jobright.ai/jobs/info/69476f0163141d188457170f?utm_campaign=1051&utm_source=git)** | Newark, NJ | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69476f007d506e3808f2b504?utm_campaign=1051&utm_source=git)** | Waco, TX | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Wellington](https://jobright.ai/jobs/info/69476efed1953b5d11c0831b?utm_campaign=1051&utm_source=git)** | Wellington, FL | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Ilion](https://jobright.ai/jobs/info/69476efc7d506e3808f2b503?utm_campaign=1051&utm_source=git)** | Ilion, NY | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69476efc63141d188457170d?utm_campaign=1051&utm_source=git)** | Spokane, WA | On Site | Dec 20 |
+| ↳ | **[Summer Sales Internship Ilion](https://jobright.ai/jobs/info/69476efc7d506e3808f2b503?utm_campaign=1051&utm_source=git)** | Ilion, NY | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Rocklin](https://jobright.ai/jobs/info/69476ef863141d188457170c?utm_campaign=1051&utm_source=git)** | Rocklin, CA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Slidell](https://jobright.ai/jobs/info/69476ef7d1953b5d11c08318?utm_campaign=1051&utm_source=git)** | Slidell, LA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Miami Lakes](https://jobright.ai/jobs/info/69476ef47d506e3808f2b500?utm_campaign=1051&utm_source=git)** | Miami Lakes, FL | On Site | Dec 20 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Marietta](https://jobright.ai/jobs/info/69476eb163141d18845716f7?utm_campaign=1051&utm_source=git)** | Marietta, OH | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship San Carlos](https://jobright.ai/jobs/info/69476eb17d506e3808f2b4e7?utm_campaign=1051&utm_source=git)** | San Carlos, CA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Vernal](https://jobright.ai/jobs/info/69476eb0d1953b5d11c08302?utm_campaign=1051&utm_source=git)** | Vernal, UT | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69476eaa63141d18845716f4?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69476eaad1953b5d11c08301?utm_campaign=1051&utm_source=git)** | Glendale, CA | On Site | Dec 20 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/69476eaa63141d18845716f4?utm_campaign=1051&utm_source=git)** | Riverside, CA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Port Chester](https://jobright.ai/jobs/info/69476ea863141d18845716f3?utm_campaign=1051&utm_source=git)** | Port Chester, NY | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Schenectady](https://jobright.ai/jobs/info/69476ea77d506e3808f2b4e5?utm_campaign=1051&utm_source=git)** | Schenectady, NY | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Taunton](https://jobright.ai/jobs/info/69476ea77d506e3808f2b4e4?utm_campaign=1051&utm_source=git)** | Taunton, MA | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Wilson](https://jobright.ai/jobs/info/69476e7b63141d18845716e4?utm_campaign=1051&utm_source=git)** | Wilson, NC | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Scottsbluff](https://jobright.ai/jobs/info/69476e7a63141d18845716e3?utm_campaign=1051&utm_source=git)** | Scottsbluff, NE | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Norfolk](https://jobright.ai/jobs/info/69476e7ad1953b5d11c082f3?utm_campaign=1051&utm_source=git)** | Norfolk, NE | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Roanoke Rapids](https://jobright.ai/jobs/info/69476e777d506e3808f2b4d6?utm_campaign=1051&utm_source=git)** | Roanoke Rapids, NC | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
