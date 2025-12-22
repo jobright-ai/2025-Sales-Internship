@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arch Re](http://archrefac.com)** | **[Property Facultative Underwriting Summer Intern](https://jobright.ai/jobs/info/68ce66de846f0b04af67976b?utm_campaign=1051&utm_source=git)** | Farmington, CT | Hybrid | Dec 22 |
+| **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/689e6981faa4e875e827bfe6?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Dec 22 |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5fc8043103d4f21ace6?utm_campaign=1051&utm_source=git)** | Wausa, NE | On Site | Dec 22 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Intern - Buying or Planning - New York](https://jobright.ai/jobs/info/689e879c83d13d1f5b6bd61e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 22 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6933ac88764507023d1b8113?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Dec 22 |
+| **[Copart](http://www.copart.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68fdc7410ab3b222462a46ae?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/692d5fa466796e3028f94726?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Individual Retirement Sales Desk](https://jobright.ai/jobs/info/693f94a949a7695fbd0540ad?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 22 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Mid-OH)](https://jobright.ai/jobs/info/68c64f22db52c07d2884707f?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Dec 22 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d705f3d3fe025a3015e285?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 22 |
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d8894705799a2ef985?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 22 |
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d70292894705799a2efc55?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 22 |
@@ -86,8 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Community Outreach Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/6948e8da63141d188458954d?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Dec 21 |
 | ↳ | **[Business Development Intern（Bilingual in Chinese）](https://jobright.ai/jobs/info/6948de87d1953b5d11c1f32d?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Dec 21 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/693732f71c1c2161c13f1641?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | Dec 21 |
-| **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud Business Development Intern- United States](https://jobright.ai/jobs/info/6948c8fcd1953b5d11c1cc24?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 21 |
-| ↳ | **[Tencent Cloud Business Development Intern- United States](https://jobright.ai/jobs/info/6948c85563141d188458671a?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Dec 21 |
+| **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud Business Development Intern- United States](https://jobright.ai/jobs/info/6948c85563141d188458671a?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Dec 21 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship](https://jobright.ai/jobs/info/6948bbdfd1953b5d11c1c1be?utm_campaign=1051&utm_source=git)** | Sugar Land, TX | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Opelika](https://jobright.ai/jobs/info/6948bbd9d1953b5d11c1c1bd?utm_campaign=1051&utm_source=git)** | Opelika, AL | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Troy](https://jobright.ai/jobs/info/6948bbd2d1953b5d11c1c1bb?utm_campaign=1051&utm_source=git)** | Troy, NY | On Site | Dec 21 |
@@ -123,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Fairfield](https://jobright.ai/jobs/info/6948baef7d506e3808f3ed0b?utm_campaign=1051&utm_source=git)** | Fairfield, OH | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Rancho Cucamonga](https://jobright.ai/jobs/info/6948bae47d506e3808f3ed09?utm_campaign=1051&utm_source=git)** | Rancho Cucamonga, CA | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Camas](https://jobright.ai/jobs/info/6948badbd1953b5d11c1c18c?utm_campaign=1051&utm_source=git)** | Camas, WA | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship Ramsey](https://jobright.ai/jobs/info/6948bad6d1953b5d11c1c18b?utm_campaign=1051&utm_source=git)** | Ramsey, MN | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Garfield](https://jobright.ai/jobs/info/6948bad67d506e3808f3ed07?utm_campaign=1051&utm_source=git)** | Garfield, NJ | On Site | Dec 21 |
+| ↳ | **[Summer Sales Internship Ramsey](https://jobright.ai/jobs/info/6948bad6d1953b5d11c1c18b?utm_campaign=1051&utm_source=git)** | Ramsey, MN | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Los Banos](https://jobright.ai/jobs/info/6948bacfd1953b5d11c1c18a?utm_campaign=1051&utm_source=git)** | Los Banos, CA | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6948bace7d506e3808f3ed04?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Holland](https://jobright.ai/jobs/info/6948bacc63141d1884585cd9?utm_campaign=1051&utm_source=git)** | Holland, MI | On Site | Dec 21 |
@@ -146,15 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Wheat Ridge](https://jobright.ai/jobs/info/6948baa0d1953b5d11c1c181?utm_campaign=1051&utm_source=git)** | Wheat Ridge, CO | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Huntley](https://jobright.ai/jobs/info/6948ba9d7d506e3808f3ecf6?utm_campaign=1051&utm_source=git)** | Huntley, IL | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Lancaster](https://jobright.ai/jobs/info/6948ba9c63141d1884585ccd?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship Richardson](https://jobright.ai/jobs/info/6948ba9763141d1884585ccb?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Sahuarita](https://jobright.ai/jobs/info/6948ba9763141d1884585cca?utm_campaign=1051&utm_source=git)** | Sahuarita, AZ | On Site | Dec 21 |
+| ↳ | **[Summer Sales Internship Richardson](https://jobright.ai/jobs/info/6948ba9763141d1884585ccb?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Temecula](https://jobright.ai/jobs/info/6948ba967d506e3808f3ecf5?utm_campaign=1051&utm_source=git)** | Temecula, CA | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6948ba93d1953b5d11c1c17e?utm_campaign=1051&utm_source=git)** | Green Bay, WI | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6948ba9063141d1884585cc7?utm_campaign=1051&utm_source=git)** | Dearborn, MI | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship Blaine](https://jobright.ai/jobs/info/6948ba8cd1953b5d11c1c17c?utm_campaign=1051&utm_source=git)** | Blaine, MN | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship Apopka](https://jobright.ai/jobs/info/6948ba8b7d506e3808f3ecf3?utm_campaign=1051&utm_source=git)** | Apopka, FL | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship Lancaster](https://jobright.ai/jobs/info/6948ba87d1953b5d11c1c17a?utm_campaign=1051&utm_source=git)** | Lancaster, OH | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship Shakopee](https://jobright.ai/jobs/info/6948ba81d1953b5d11c1c179?utm_campaign=1051&utm_source=git)** | Shakopee, MN | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship Coral Gables](https://jobright.ai/jobs/info/6948ba7c63141d1884585cc6?utm_campaign=1051&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/6948ba7863141d1884585cc5?utm_campaign=1051&utm_source=git)** | Montgomery, AL | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
