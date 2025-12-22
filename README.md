@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xinnor](https://xinnor.io/)** | **[SDR Intern](https://jobright.ai/jobs/info/69486e3e63141d1884581dc7?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship- Sales Analyst](https://jobright.ai/jobs/info/6948591d7d506e3808f392dd?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Dec 21 |
 | **[Octaura](https://www.octaura.com)** | **[Intern, Sales GTM](https://jobright.ai/jobs/info/69484f2463141d188457f831?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Dec 21 |
 | **[Bridgecross, LLC](https://bridgecrossllc.com)** | **[Business Development Intern (DoD SkillBridge Program)](https://jobright.ai/jobs/info/69484e9363141d188457f7c6?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Dec 21 |
@@ -123,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68cee5d8fb49c96ca6ea4272?utm_campaign=1051&utm_source=git)** | Yuma, CO | On Site | Dec 21 |
 | ↳ | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca3750f61c922772a750f1?utm_campaign=1051&utm_source=git)** | Ethan, SD | On Site | Dec 21 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d6fde1894705799a2ef640?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 21 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Columbus)](https://jobright.ai/jobs/info/694870fd63141d1884581dca?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Dec 21 |
 | **[PRIDE Seeds](http://www.prideseeds.com)** | **[Sales Agronomist Intern (Zone 62 Manitoba)](https://jobright.ai/jobs/info/6947fdefd1953b5d11c125b8?utm_campaign=1051&utm_source=git)** | Manitoba, Canada | Remote | Dec 21 |
 | **[Würth Industry USA](http://www.wurthindustry.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/68d5941639247e3c807ed19b?utm_campaign=1051&utm_source=git)** | Greenwood, FL | Hybrid | Dec 21 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d7067cd3fe025a3015e352?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Dec 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Attleboro](https://jobright.ai/jobs/info/69476f1d7d506e3808f2b512?utm_campaign=1051&utm_source=git)** | Attleboro, MA | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Independence](https://jobright.ai/jobs/info/69476f1ad1953b5d11c08323?utm_campaign=1051&utm_source=git)** | Independence, MO | On Site | Dec 20 |
 | ↳ | **[Summer Sales Internship Rochester](https://jobright.ai/jobs/info/69476f197d506e3808f2b510?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Eagan](https://jobright.ai/jobs/info/69476f1763141d1884571716?utm_campaign=1051&utm_source=git)** | Eagan, MN | On Site | Dec 20 |
-| ↳ | **[Summer Sales Internship Chesapeake](https://jobright.ai/jobs/info/69476f15d1953b5d11c08321?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
