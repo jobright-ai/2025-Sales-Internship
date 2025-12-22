@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Sales, Strategy & Planning Internship](https://jobright.ai/jobs/info/694964e663141d188459009a?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Dec 22 |
+| **[CAS](http://www.cas.org)** | **[CAS 2026 Sales Revenue Operations Summer Intern](https://jobright.ai/jobs/info/6921164a3f782d2f1afcf14c?utm_campaign=1051&utm_source=git)** | Columbus, OH | Hybrid | Dec 22 |
+| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Sales Intern , Summer 2026 - Houston, TX](https://jobright.ai/jobs/info/694963067d506e3808f48c5f?utm_campaign=1051&utm_source=git)** | Houston, TX | Hybrid | Dec 22 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Supply Chain Wholesale Internship](https://jobright.ai/jobs/info/69495fa7d1953b5d11c264e6?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Dec 22 |
 | **[Arch Re](http://archrefac.com)** | **[Property Facultative Underwriting Summer Intern](https://jobright.ai/jobs/info/68ce66de846f0b04af67976b?utm_campaign=1051&utm_source=git)** | Farmington, CT | Hybrid | Dec 22 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Customer Sales and Service Intern](https://jobright.ai/jobs/info/689e6981faa4e875e827bfe6?utm_campaign=1051&utm_source=git)** | Lithia Springs, GA | On Site | Dec 22 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68b9d5fc8043103d4f21ace6?utm_campaign=1051&utm_source=git)** | Wausa, NE | On Site | Dec 22 |
@@ -64,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6933ac88764507023d1b8113?utm_campaign=1051&utm_source=git)** | Wayne, PA | On Site | Dec 22 |
 | **[Copart](http://www.copart.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68fdc7410ab3b222462a46ae?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/692d5fa466796e3028f94726?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Dec 22 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Individual Retirement Sales Desk](https://jobright.ai/jobs/info/693f94a949a7695fbd0540ad?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 22 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer Internship 2026 (Mid-OH)](https://jobright.ai/jobs/info/68c64f22db52c07d2884707f?utm_campaign=1051&utm_source=git)** | Canton, OH | On Site | Dec 22 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d705f3d3fe025a3015e285?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 22 |
 | ↳ | **[Intern - Real Estate - Industry Exploration Associate](https://jobright.ai/jobs/info/68d700d8894705799a2ef985?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Wheat Ridge](https://jobright.ai/jobs/info/6948baa0d1953b5d11c1c181?utm_campaign=1051&utm_source=git)** | Wheat Ridge, CO | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Huntley](https://jobright.ai/jobs/info/6948ba9d7d506e3808f3ecf6?utm_campaign=1051&utm_source=git)** | Huntley, IL | On Site | Dec 21 |
 | ↳ | **[Summer Sales Internship Lancaster](https://jobright.ai/jobs/info/6948ba9c63141d1884585ccd?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship Sahuarita](https://jobright.ai/jobs/info/6948ba9763141d1884585cca?utm_campaign=1051&utm_source=git)** | Sahuarita, AZ | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship Richardson](https://jobright.ai/jobs/info/6948ba9763141d1884585ccb?utm_campaign=1051&utm_source=git)** | Richardson, TX | On Site | Dec 21 |
-| ↳ | **[Summer Sales Internship Temecula](https://jobright.ai/jobs/info/6948ba967d506e3808f3ecf5?utm_campaign=1051&utm_source=git)** | Temecula, CA | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
