@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a64c3187e565c6bfa5d56?utm_campaign=1051&utm_source=git)** | Shorewood, WI | On Site | Dec 23 |
+| **[SPX Technologies](https://www.spx.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/69197cd445fb6f5ead8a8e2f?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Dec 23 |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[CRM Intern (Spring 2026)](https://jobright.ai/jobs/info/692dc265fa28370be269e429?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 23 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a66113019f50a4fe57d4a?utm_campaign=1051&utm_source=git)** | Sturgeon Bay, WI | On Site | Dec 23 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a65cc3019f50a4fe57cd9?utm_campaign=1051&utm_source=git)** | Cody, WY | On Site | Dec 23 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a65b2187e565c6bfa5e56?utm_campaign=1051&utm_source=git)** | Marinette, WI | On Site | Dec 23 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a64c3187e565c6bfa5d56?utm_campaign=1051&utm_source=git)** | Shorewood, WI | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a64bf31c12007d3b916d6?utm_campaign=1051&utm_source=git)** | Sheridan, WY | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a648e187e565c6bfa5d20?utm_campaign=1051&utm_source=git)** | Sussex, WI | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a6489187e565c6bfa5d1c?utm_campaign=1051&utm_source=git)** | New Richmond, WI | On Site | Dec 23 |
@@ -78,7 +83,21 @@ For a complete list, click the following sortable link below:
 | **[CREDX Ventures](https://credx.ventures)** | **[Investor Relations Associate (Unpaid Internship)](https://jobright.ai/jobs/info/694a5a3631c12007d3b912e6?utm_campaign=1051&utm_source=git)** | Canada | Remote | Dec 23 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a4dc7187e565c6bfa54ac?utm_campaign=1051&utm_source=git)** | Platteville, WI | On Site | Dec 23 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Associate Portfolio Executive - Starting in Summer 2026](https://jobright.ai/jobs/info/694a4dc1187e565c6bfa54aa?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a63ee3019f50a4fe57bc9?utm_campaign=1051&utm_source=git)** | Chippewa Falls, WI | On Site | Dec 22 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a677e187e565c6bfa6177?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a67f9187e565c6bfa6249?utm_campaign=1051&utm_source=git)** | Brown Deer, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a666a187e565c6bfa5fa4?utm_campaign=1051&utm_source=git)** | Fond du Lac, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a677f187e565c6bfa617e?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a65ae31c12007d3b917f5?utm_campaign=1051&utm_source=git)** | Green River, WY | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a66ef3019f50a4fe57ed2?utm_campaign=1051&utm_source=git)** | Baraboo, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a694631c12007d3b91e65?utm_campaign=1051&utm_source=git)** | Two Rivers, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a66dc3019f50a4fe57ead?utm_campaign=1051&utm_source=git)** | Ashwaubenon, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a683f31c12007d3b91c5f?utm_campaign=1051&utm_source=git)** | Gillette, WY | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a6814187e565c6bfa6287?utm_campaign=1051&utm_source=git)** | Racine, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a67b331c12007d3b91b76?utm_campaign=1051&utm_source=git)** | Neenah, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a65d63019f50a4fe57cf1?utm_campaign=1051&utm_source=git)** | West Allis, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a66f1187e565c6bfa608f?utm_campaign=1051&utm_source=git)** | Wisconsin Rapids, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a6730187e565c6bfa60fb?utm_campaign=1051&utm_source=git)** | Cedarburg, WI | On Site | Dec 22 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a63ee3019f50a4fe57bc9?utm_campaign=1051&utm_source=git)** | Chippewa Falls, WI | On Site | Dec 22 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a657031c12007d3b9179c?utm_campaign=1051&utm_source=git)** | Suamico, WI | On Site | Dec 22 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern](https://jobright.ai/jobs/info/694a53df187e565c6bfa5772?utm_campaign=1051&utm_source=git)** | Belen, NM | On Site | Dec 22 |
 | **[Safe Life Home Health Care](https://www.safelifehomehealth.com)** | **[Client Relations & Business Development Intern](https://jobright.ai/jobs/info/694a325763141d188459f255?utm_campaign=1051&utm_source=git)** | Lombard, IL | On Site | Dec 22 |
@@ -131,30 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a07567d506e3808f52c15?utm_campaign=1051&utm_source=git)** | New Berlin, WI | On Site | Dec 22 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a072f63141d1884599e2f?utm_campaign=1051&utm_source=git)** | Appleton, WI | On Site | Dec 22 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a06fd63141d1884599d92?utm_campaign=1051&utm_source=git)** | Menomonee Falls, WI | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a067a63141d1884599c3c?utm_campaign=1051&utm_source=git)** | Menasha, WI | On Site | Dec 22 |
+| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694a06c863141d1884599d03?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 22 |
+| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a067a63141d1884599c3c?utm_campaign=1051&utm_source=git)** | Menasha, WI | On Site | Dec 22 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a06727d506e3808f52976?utm_campaign=1051&utm_source=git)** | Wauwatosa, WI | On Site | Dec 22 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a061963141d1884599b3f?utm_campaign=1051&utm_source=git)** | Weirton, WV | On Site | Dec 22 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a061863141d1884599b3d?utm_campaign=1051&utm_source=git)** | Mill Creek, WA | On Site | Dec 22 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Alameda](https://jobright.ai/jobs/info/694a29b37d506e3808f56964?utm_campaign=1051&utm_source=git)** | Alameda, CA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Maple Valley](https://jobright.ai/jobs/info/694a225bc6f0e2546cef2ca2?utm_campaign=1051&utm_source=git)** | Maple Valley, WA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Oxnard](https://jobright.ai/jobs/info/694a29347d506e3808f566cb?utm_campaign=1051&utm_source=git)** | Oxnard, CA | On Site | Dec 22 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694a2314c6f0e2546cef2cf7?utm_campaign=1051&utm_source=git)** | San Mateo, CA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Bell Gardens](https://jobright.ai/jobs/info/694a2a7163141d188459da41?utm_campaign=1051&utm_source=git)** | Bell Gardens, CA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Duarte](https://jobright.ai/jobs/info/694a28537d506e3808f56348?utm_campaign=1051&utm_source=git)** | Duarte, CA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Lomita](https://jobright.ai/jobs/info/694a23e3c6f0e2546cef2d65?utm_campaign=1051&utm_source=git)** | Lomita, CA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Pico Rivera](https://jobright.ai/jobs/info/694a14a5c6f0e2546cef1636?utm_campaign=1051&utm_source=git)** | Pico Rivera, CA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship West New York](https://jobright.ai/jobs/info/694a1c1c7d506e3808f55796?utm_campaign=1051&utm_source=git)** | West New York, NJ | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship South Portland](https://jobright.ai/jobs/info/694a1ebb7d506e3808f559cf?utm_campaign=1051&utm_source=git)** | South Portland, ME | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Goldsboro](https://jobright.ai/jobs/info/694a1a9d7d506e3808f55639?utm_campaign=1051&utm_source=git)** | Goldsboro, NC | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694a1ef063141d188459cf0c?utm_campaign=1051&utm_source=git)** | Grand Rapids, MI | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694a1c8b7d506e3808f557fc?utm_campaign=1051&utm_source=git)** | Rochester, MN | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Granbury](https://jobright.ai/jobs/info/694a19ddc6f0e2546cef225b?utm_campaign=1051&utm_source=git)** | Granbury, TX | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Goleta](https://jobright.ai/jobs/info/694a1a5cc6f0e2546cef2391?utm_campaign=1051&utm_source=git)** | Goleta, CA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Oak Lawn](https://jobright.ai/jobs/info/694a1cc063141d188459cd00?utm_campaign=1051&utm_source=git)** | Oak Lawn, IL | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Aberdeen](https://jobright.ai/jobs/info/694a190ac6f0e2546cef2058?utm_campaign=1051&utm_source=git)** | Aberdeen, WA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Gaithersburg](https://jobright.ai/jobs/info/694a21d87d506e3808f55c24?utm_campaign=1051&utm_source=git)** | Gaithersburg, MD | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694a1a1363141d188459cac8?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Mercer Island](https://jobright.ai/jobs/info/694a1ccc7d506e3808f55833?utm_campaign=1051&utm_source=git)** | Mercer Island, WA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship Gardner](https://jobright.ai/jobs/info/694a1d5f7d506e3808f558ad?utm_campaign=1051&utm_source=git)** | Gardner, MA | On Site | Dec 22 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694a1bca7d506e3808f55741?utm_campaign=1051&utm_source=git)** | Sunnyvale, CA | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
