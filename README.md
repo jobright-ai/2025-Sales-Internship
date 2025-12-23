@@ -57,8 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/694af03a1224705e900209ef?utm_campaign=1051&utm_source=git)** | Appleton, WI | Hybrid | Dec 23 |
+| **[Ritchie Bros.](http://www.rbauction.com)** | **[Sales Intern](https://jobright.ai/jobs/info/694aefc967a69734cac6060c?utm_campaign=1051&utm_source=git)** | 9500 Glenlyon Parkway, Burnaby, BC, V5J 0C6, CA | Hybrid | Dec 23 |
+| **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Sales Operations (f/m/d)](https://jobright.ai/jobs/info/694ae9371224705e90020600?utm_campaign=1051&utm_source=git)** | New York, United States | On Site | Dec 23 |
+| **[Kalmbach Feeds Inc](https://www.kalmbachfeeds.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/694ade253019f50a4fe5f39a?utm_campaign=1051&utm_source=git)** | Upper Sandusky, OH, US | On Site | Dec 23 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f2f8049a65fd3458582560?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Dec 23 |
+| **[Mitsubishi Motors North America, Inc.](https://www.mitsubishicars.com/)** | **[Aftersales Intern](https://jobright.ai/jobs/info/694adc191224705e9002013d?utm_campaign=1051&utm_source=git)** | Franklin, TN | Hybrid | Dec 23 |
+| **[Strategic Resources, Inc. (SRI)](http://sri-hq.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/694ad91a67a69734cac5fc92?utm_campaign=1051&utm_source=git)** | US | On Site | Dec 23 |
+| **[People's Voice](www.PeoplesVoice.media)** | **[Business Development Executive Intern ( Sales )](https://jobright.ai/jobs/info/694ad87967a69734cac5fc61?utm_campaign=1051&utm_source=git)** | North Miami Beach, FL | Hybrid | Dec 23 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f2fe7276a51a4307bc9d00?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Dec 23 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/694ad7e667a69734cac5fc24?utm_campaign=1051&utm_source=git)** | Kansas City, MO | Hybrid | Dec 23 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/694ad3d03019f50a4fe5f030?utm_campaign=1051&utm_source=git)** | New Jersey, United States | On Site | Dec 23 |
 | **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Private Equity Business Development Internship (AI-Augmented / SignalMate Trained)](https://jobright.ai/jobs/info/68cb7412efdec76df36bce59?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 23 |
+| **[ATPCO](http://www.atpco.net)** | **[Business Development & Industry Relations Intern](https://jobright.ai/jobs/info/694aefa53019f50a4fe5fb6d?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Dec 23 |
 | **[Strategic Resources, Inc. (SRI)](http://sri-hq.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/694acf3c1224705e9001f67c?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 23 |
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern - Business Development](https://jobright.ai/jobs/info/694acee967a69734cac5f41f?utm_campaign=1051&utm_source=git)** | United States-New Jersey-Piscataway | On Site | Dec 23 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/694acd203019f50a4fe5e408?utm_campaign=1051&utm_source=git)** | Ontario, Canada | On Site | Dec 23 |
@@ -67,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/694acc951224705e9001ecda?utm_campaign=1051&utm_source=git)** | Charleston, SC | Hybrid | Dec 23 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/694acc1167a69734cac5eaf8?utm_campaign=1051&utm_source=git)** | Michigan, United States | On Site | Dec 23 |
 | ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/694ac9421224705e9001e162?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | Dec 23 |
-| **[Mitsubishi Motors North America, Inc.](https://www.mitsubishicars.com/)** | **[Aftersales Intern](https://jobright.ai/jobs/info/694ac70f67a69734cac5dc71?utm_campaign=1051&utm_source=git)** | Franklin, TN | Hybrid | Dec 23 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/694ac60b3019f50a4fe5d1c4?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 23 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/694ac4ff67a69734cac5dbaa?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 23 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Community Branch Internship Program - Greater Boston](https://jobright.ai/jobs/info/694ac43367a69734cac5db4a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 23 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a637531c12007d3b915ae?utm_campaign=1051&utm_source=git)** | Beloit, WI | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a634e31c12007d3b915a1?utm_campaign=1051&utm_source=git)** | De Forest, WI | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a6313187e565c6bfa5ca6?utm_campaign=1051&utm_source=git)** | Port Washington, WI | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a630d31c12007d3b91597?utm_campaign=1051&utm_source=git)** | Holmen, WI | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a62953019f50a4fe57b85?utm_campaign=1051&utm_source=git)** | Sheboygan, WI | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a62233019f50a4fe57b5d?utm_campaign=1051&utm_source=git)** | Beaver Dam, WI | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a621f3019f50a4fe57b5a?utm_campaign=1051&utm_source=git)** | Waupun, WI | On Site | Dec 23 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/694a5efe31c12007d3b914d4?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 23 |
-| **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a5eda3019f50a4fe57a5d?utm_campaign=1051&utm_source=git)** | Hobart, IN | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a5d2031c12007d3b91405?utm_campaign=1051&utm_source=git)** | Fort Atkinson, WI | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a5bb7187e565c6bfa5a65?utm_campaign=1051&utm_source=git)** | Cheyenne, WY | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/694a5b5f3019f50a4fe578fa?utm_campaign=1051&utm_source=git)** | Little Chute, WI | On Site | Dec 23 |
-| **[CREDX Ventures](https://credx.ventures)** | **[Investor Relations Associate (Unpaid Internship)](https://jobright.ai/jobs/info/694a5a3631c12007d3b912e6?utm_campaign=1051&utm_source=git)** | Canada | Remote | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
