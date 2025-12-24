@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TradePronto](https://www.tradepronto.com)** | **[Internship - User/Web Behavior analytics - Unpaid, Stock Bonus](https://jobright.ai/jobs/info/694c5a135d7312113470d2f8?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 24 |
+| **[D.C. United](http://dcunited.com)** | **[Intern, Corporate Partnerships](https://jobright.ai/jobs/info/694c50d15d7312113470bace?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Dec 24 |
+| **[Allegiant](https://www.allegiantair.com/)** | **[Buy on Board Intern (Summer 2026)](https://jobright.ai/jobs/info/694c5001d64ebf28d821e14f?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 24 |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/694c4e5a5d7312113470b5be?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 24 |
+| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694c4da41a572a617dde7efe?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 24 |
+| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Commercial Revenue](https://jobright.ai/jobs/info/694c46141a572a617dde7a79?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[SmartSolve](https://www.smartsolve.com/)** | **[Sales Development Representative Intern - SSI](https://jobright.ai/jobs/info/694c59b51a572a617dde9d38?utm_campaign=1051&utm_source=git)** | Bowling Green, OH | On Site | Dec 24 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group](https://jobright.ai/jobs/info/68f94d4bcadb2e5a06a639e8?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Dec 24 |
 | **[Cross Creek Nursery & Landscaping](http://www.crosscreeknursery.com)** | **[Plant Production & Garden Center Summer Internship](https://jobright.ai/jobs/info/694c39785d7312113470a9cf?utm_campaign=1051&utm_source=git)** | North Chesterfield, Virginia, United States | On Site | Dec 24 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - Client Advisor Student Intern](https://jobright.ai/jobs/info/694c38471a572a617dde7296?utm_campaign=1051&utm_source=git)** | OLIVER, British Columbia, Canada | On Site | Dec 24 |
@@ -138,23 +145,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship Tarpon Springs](https://jobright.ai/jobs/info/694b74265d731211346ff92f?utm_campaign=1051&utm_source=git)** | Tarpon Springs, FL | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694b7387d64ebf28d82125e5?utm_campaign=1051&utm_source=git)** | Joliet, IL | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship Orland Park](https://jobright.ai/jobs/info/694b71085d731211346ff7c7?utm_campaign=1051&utm_source=git)** | Orland Park, IL | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship Saint Helens](https://jobright.ai/jobs/info/694b70ba5d731211346ff7a9?utm_campaign=1051&utm_source=git)** | Longview, WA | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship Mesquite](https://jobright.ai/jobs/info/694b67165d731211346ff306?utm_campaign=1051&utm_source=git)** | Mesquite, TX | On Site | Dec 23 |
+| ↳ | **[Summer Sales Internship Saint Helens](https://jobright.ai/jobs/info/694b70ba5d731211346ff7a9?utm_campaign=1051&utm_source=git)** | Longview, WA | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship Colleyville](https://jobright.ai/jobs/info/694b74761a572a617dddcc63?utm_campaign=1051&utm_source=git)** | Colleyville, TX | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship Petersburg](https://jobright.ai/jobs/info/694b6fa91a572a617dddc3b5?utm_campaign=1051&utm_source=git)** | Petersburg, VA | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship El Monte](https://jobright.ai/jobs/info/694b70d8d64ebf28d82124bb?utm_campaign=1051&utm_source=git)** | El Monte, CA | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship Chino Hills](https://jobright.ai/jobs/info/694b6dc85d731211346ff655?utm_campaign=1051&utm_source=git)** | Chino Hills, CA | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship Harriman](https://jobright.ai/jobs/info/694b72cd5d731211346ff894?utm_campaign=1051&utm_source=git)** | Harriman, TN | On Site | Dec 23 |
+| ↳ | **[Summer Sales Internship Chino Hills](https://jobright.ai/jobs/info/694b6dc85d731211346ff655?utm_campaign=1051&utm_source=git)** | Chino Hills, CA | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship Lansing](https://jobright.ai/jobs/info/694b67b3d64ebf28d821205c?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship Thomasville](https://jobright.ai/jobs/info/694b76ab1a572a617dddd1b1?utm_campaign=1051&utm_source=git)** | Thomasville, NC | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship Dodge City](https://jobright.ai/jobs/info/694b72311a572a617dddc73e?utm_campaign=1051&utm_source=git)** | Dodge City, KS | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship Mansfield](https://jobright.ai/jobs/info/694b79231a572a617dddd6ec?utm_campaign=1051&utm_source=git)** | Mansfield, OH | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship Horn Lake](https://jobright.ai/jobs/info/694b694fd64ebf28d8212155?utm_campaign=1051&utm_source=git)** | Horn Lake, MS | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694b708fd64ebf28d821249f?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship Bowie](https://jobright.ai/jobs/info/694b6f291a572a617dddc39a?utm_campaign=1051&utm_source=git)** | Bowie, MD | On Site | Dec 23 |
+| ↳ | **[Summer Sales Internship Dodge City](https://jobright.ai/jobs/info/694b72311a572a617dddc73e?utm_campaign=1051&utm_source=git)** | Dodge City, KS | On Site | Dec 23 |
 | ↳ | **[Summer Sales Internship Miami Gardens](https://jobright.ai/jobs/info/694b7593d64ebf28d82126c2?utm_campaign=1051&utm_source=git)** | Miami Gardens, FL | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship Avon Lake](https://jobright.ai/jobs/info/694b77a51a572a617dddd41c?utm_campaign=1051&utm_source=git)** | Avon Lake, OH | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship Crown Point](https://jobright.ai/jobs/info/694b691ad64ebf28d821212f?utm_campaign=1051&utm_source=git)** | Crown Point, IN | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694b78611a572a617dddd56f?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Dec 23 |
-| ↳ | **[Summer Sales Internship West Melbourne](https://jobright.ai/jobs/info/694b70bfd64ebf28d82124af?utm_campaign=1051&utm_source=git)** | West Melbourne, FL | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
