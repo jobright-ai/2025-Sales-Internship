@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket Lab](https://rocketlabcorp.com)** | **[Business Development Intern Summer 2026](https://jobright.ai/jobs/info/694b448c4b53a1551f950e14?utm_campaign=1051&utm_source=git)** | Long Beach, CA | On Site | Dec 23 |
+| **[G&G Independent Insurance](https://www.gg-insurance.com/)** | **[Sales Intern \- Little Rock](https://jobright.ai/jobs/info/694b43323019f50a4fe65fae?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas, United States | On Site | Dec 23 |
+| **[Delaware North](http://www.delawarenorth.com/)** | **[Retail Management Internship, Target Field](https://jobright.ai/jobs/info/694b3a814b53a1551f94f0e7?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 | **[Mosaic Life Care](https://www.mymlc.com/)** | **[Retail Services Associate Intern](https://jobright.ai/jobs/info/694b28b84b53a1551f94e911?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Dec 23 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Underwriting Intern](https://jobright.ai/jobs/info/694b282b3019f50a4fe63ac2?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI | Hybrid | Dec 23 |
 | ↳ | **[Underwriting Intern](https://jobright.ai/jobs/info/694b20101224705e900245da?utm_campaign=1051&utm_source=git)** | Metairie, LA | Hybrid | Dec 23 |
@@ -88,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[ATPCO](http://www.atpco.net)** | **[Strategic Partnership Intern](https://jobright.ai/jobs/info/694b012067a69734cac61359?utm_campaign=1051&utm_source=git)** | 2340 Dulles Corner Blvd, Herndon, VA 20171, USA | Remote | Dec 23 |
 | **[Kalmbach Feeds Inc](https://www.kalmbachfeeds.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/694ade253019f50a4fe5f39a?utm_campaign=1051&utm_source=git)** | Upper Sandusky, OH, US | On Site | Dec 23 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Sales Intern (Paid)](https://jobright.ai/jobs/info/68f2f8049a65fd3458582560?utm_campaign=1051&utm_source=git)** | Hattiesburg, MS | On Site | Dec 23 |
-| **[Mitsubishi Motors North America, Inc.](https://www.mitsubishicars.com/)** | **[Aftersales Intern](https://jobright.ai/jobs/info/694adc191224705e9002013d?utm_campaign=1051&utm_source=git)** | Franklin, TN | Hybrid | Dec 23 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative, Internship Program](https://jobright.ai/jobs/info/694afc0867a69734cac60f4e?utm_campaign=1051&utm_source=git)** | Oshkosh, WI | Hybrid | Dec 23 |
 | **[Strategic Resources, Inc. (SRI)](http://sri-hq.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/694ad91a67a69734cac5fc92?utm_campaign=1051&utm_source=git)** | US | On Site | Dec 23 |
 | **[The SCAN Foundation](http://www.thescanfoundation.org/)** | **[Graduate Intern, Impact Investing](https://jobright.ai/jobs/info/694af6b51224705e90020e25?utm_campaign=1051&utm_source=git)** | Home Office - Massachusetts | Remote | Dec 23 |
@@ -107,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/694acc951224705e9001ecda?utm_campaign=1051&utm_source=git)** | Charleston, SC | Hybrid | Dec 23 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/694acc1167a69734cac5eaf8?utm_campaign=1051&utm_source=git)** | Michigan, United States | On Site | Dec 23 |
 | ↳ | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/694ac9421224705e9001e162?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | On Site | Dec 23 |
+| **[Mitsubishi Motors North America, Inc.](https://www.mitsubishicars.com/)** | **[Aftersales Intern](https://jobright.ai/jobs/info/694ac70f67a69734cac5dc71?utm_campaign=1051&utm_source=git)** | Franklin, TN | Hybrid | Dec 23 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Sales Intern](https://jobright.ai/jobs/info/694ac60b3019f50a4fe5d1c4?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 23 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/694ac4ff67a69734cac5dbaa?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 23 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Community Branch Internship Program - Greater Boston](https://jobright.ai/jobs/info/694ac43367a69734cac5db4a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/692db96d66796e3028f95d45?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | ↳ | **[Summer 2026 Management and Sales Intern - Sarasota](https://jobright.ai/jobs/info/6940f9edaa598a08c3f0a813?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Dec 23 |
 | **[Regency Centers](http://www.regencycenters.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/691ff0fd09cc522e87746c46?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
-| **[Centric Brands](https://centricbrands.com)** | **[Sales Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e7408fa28370be26a4b4a?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Genesis](https://www.genesis.com)** | **[Intern, Genesis Sales Operations Analyst](https://jobright.ai/jobs/info/692de2d766796e3028f96f32?utm_campaign=1051&utm_source=git)** | Fountain Valley, CA | On Site | Dec 23 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Development Intern](https://jobright.ai/jobs/info/692e38a3fa28370be26a2726?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
