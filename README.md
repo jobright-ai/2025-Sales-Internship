@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Spy Museum](https://spymuseum.org)** | **[Retail Buying Intern](https://jobright.ai/jobs/info/694ce7c8f5bef51c96eaaa10?utm_campaign=1051&utm_source=git)** | Indiana, United States | On Site | Dec 24 |
+| **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/694cddd8d4a7df7a06721c88?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/694cc0bdf5bef51c96ea8603?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Dec 24 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Philadelphia](https://jobright.ai/jobs/info/694cb2bfd4a7df7a0671f1bd?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694cb29ad4a7df7a0671f18a?utm_campaign=1051&utm_source=git)** | San Angelo, TX | On Site | Dec 24 |
@@ -81,13 +83,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694cb17ff5bef51c96ea74c7?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Lawrence](https://jobright.ai/jobs/info/694cb170d4a7df7a0671f01a?utm_campaign=1051&utm_source=git)** | Lawrence, MA | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Roswell](https://jobright.ai/jobs/info/694cb156d4a7df7a0671eff3?utm_campaign=1051&utm_source=git)** | Roswell, GA | On Site | Dec 24 |
-| ↳ | **[Summer Sales Internship Providence](https://jobright.ai/jobs/info/694cb144f5bef51c96ea747e?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Ankeny](https://jobright.ai/jobs/info/694cb14429655e4dd656d1fa?utm_campaign=1051&utm_source=git)** | Ankeny, IA | On Site | Dec 24 |
+| ↳ | **[Summer Sales Internship Providence](https://jobright.ai/jobs/info/694cb144f5bef51c96ea747e?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship East Providence](https://jobright.ai/jobs/info/694cb132d4a7df7a0671efbe?utm_campaign=1051&utm_source=git)** | East Providence, RI | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Elkhart](https://jobright.ai/jobs/info/694cb12d29655e4dd656d1d8?utm_campaign=1051&utm_source=git)** | Elkhart, IN | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Bluefield](https://jobright.ai/jobs/info/694cb12bd4a7df7a0671efb2?utm_campaign=1051&utm_source=git)** | Bluefield, WV | On Site | Dec 24 |
-| ↳ | **[Summer Sales Internship La Mesa](https://jobright.ai/jobs/info/694cb127f5bef51c96ea744c?utm_campaign=1051&utm_source=git)** | La Mesa, CA | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694cb12729655e4dd656d1cf?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Dec 24 |
+| ↳ | **[Summer Sales Internship La Mesa](https://jobright.ai/jobs/info/694cb127f5bef51c96ea744c?utm_campaign=1051&utm_source=git)** | La Mesa, CA | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Ashland](https://jobright.ai/jobs/info/694cb11ed4a7df7a0671efa6?utm_campaign=1051&utm_source=git)** | Ashland, KY | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Novato](https://jobright.ai/jobs/info/694cb10ad4a7df7a0671ef97?utm_campaign=1051&utm_source=git)** | Novato, CA | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Hollister](https://jobright.ai/jobs/info/694cb0e7f5bef51c96ea7400?utm_campaign=1051&utm_source=git)** | Hollister, CA | On Site | Dec 24 |
@@ -133,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[D.C. United](http://dcunited.com)** | **[Intern, Corporate Partnerships](https://jobright.ai/jobs/info/694c50d15d7312113470bace?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Dec 24 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Buy on Board Intern (Summer 2026)](https://jobright.ai/jobs/info/694c5001d64ebf28d821e14f?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 24 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/694c4e5a5d7312113470b5be?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 24 |
-| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694c4da41a572a617dde7efe?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 24 |
+| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694c4bdbd64ebf28d821deec?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Commercial Revenue](https://jobright.ai/jobs/info/694c46141a572a617dde7a79?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[SmartSolve](https://www.smartsolve.com/)** | **[Sales Development Representative Intern - SSI](https://jobright.ai/jobs/info/694c59b51a572a617dde9d38?utm_campaign=1051&utm_source=git)** | Bowling Green, OH | On Site | Dec 24 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group](https://jobright.ai/jobs/info/68f94d4bcadb2e5a06a639e8?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Dec 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kendall Electric](https://www.kendallelectric.com)** | **[Sales Intern - Summer 2026 - Kendall Electric](https://jobright.ai/jobs/info/68f6477976a51a4307bd8f14?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 24 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Demand Planning Analyst Intern - Bachelor's Degree](https://jobright.ai/jobs/info/69126748d1047e3565cfc3dd?utm_campaign=1051&utm_source=git)** | Santa Clara, CA | On Site | Dec 24 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Development Intern](https://jobright.ai/jobs/info/6912698ac98948514c47b833?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Dec 24 |
-| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Mortgage Sales](https://jobright.ai/jobs/info/694befa85d731211347071a3?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Dec 24 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Development Intern](https://jobright.ai/jobs/info/6912477cd1047e3565cfadec?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
