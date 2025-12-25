@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/694cc0bdf5bef51c96ea8603?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Dec 24 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Philadelphia](https://jobright.ai/jobs/info/694cb2bfd4a7df7a0671f1bd?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694cb29ad4a7df7a0671f18a?utm_campaign=1051&utm_source=git)** | San Angelo, TX | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694cb27dd4a7df7a0671f169?utm_campaign=1051&utm_source=git)** | San Bernardino, CA | On Site | Dec 24 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship East Providence](https://jobright.ai/jobs/info/694cb132d4a7df7a0671efbe?utm_campaign=1051&utm_source=git)** | East Providence, RI | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Elkhart](https://jobright.ai/jobs/info/694cb12d29655e4dd656d1d8?utm_campaign=1051&utm_source=git)** | Elkhart, IN | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Bluefield](https://jobright.ai/jobs/info/694cb12bd4a7df7a0671efb2?utm_campaign=1051&utm_source=git)** | Bluefield, WV | On Site | Dec 24 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694cb12729655e4dd656d1cf?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship La Mesa](https://jobright.ai/jobs/info/694cb127f5bef51c96ea744c?utm_campaign=1051&utm_source=git)** | La Mesa, CA | On Site | Dec 24 |
+| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694cb12729655e4dd656d1cf?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Ashland](https://jobright.ai/jobs/info/694cb11ed4a7df7a0671efa6?utm_campaign=1051&utm_source=git)** | Ashland, KY | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Novato](https://jobright.ai/jobs/info/694cb10ad4a7df7a0671ef97?utm_campaign=1051&utm_source=git)** | Novato, CA | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship Hollister](https://jobright.ai/jobs/info/694cb0e7f5bef51c96ea7400?utm_campaign=1051&utm_source=git)** | Hollister, CA | On Site | Dec 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Development Intern](https://jobright.ai/jobs/info/6912698ac98948514c47b833?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Dec 24 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Mortgage Sales](https://jobright.ai/jobs/info/694befa85d731211347071a3?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Dec 24 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Development Intern](https://jobright.ai/jobs/info/6912477cd1047e3565cfadec?utm_campaign=1051&utm_source=git)** | Fort Washington, PA | On Site | Dec 24 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern - Forestar](https://jobright.ai/jobs/info/692f8b72fa28370be26ab5cb?utm_campaign=1051&utm_source=git)** | Brentwood, TN | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
