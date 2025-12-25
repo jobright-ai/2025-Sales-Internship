@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Sales Intern Summer 2026](https://jobright.ai/jobs/info/68bf84f38e65e77df55bb0e2?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 25 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2026 Summer Internship Program: Sales](https://jobright.ai/jobs/info/68bf25508e65e77df55b7574?utm_campaign=1051&utm_source=git)** | Boise, ID | On Site | Dec 25 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693061e94c474121999e5171?utm_campaign=1051&utm_source=git)** | Wilmington, NC | On Site | Dec 25 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Residential Sales Team Intern](https://jobright.ai/jobs/info/68dbb60797329f2f7731c6f1?utm_campaign=1051&utm_source=git)** | Hennepin County, MN | Hybrid | Dec 25 |
+| **[Arity](http://www.arity.com)** | **[Arity - Customer Success Implementation Engineer Intern - Arity](https://jobright.ai/jobs/info/68c8ddabf9c6ff7aedf13718?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 25 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Sales & Partnerships Internship - Summer 2026](https://jobright.ai/jobs/info/69210b8f00c9ee50eaecb1de?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Community Manager Intern](https://jobright.ai/jobs/info/694cf4e3d4a7df7a06722990?utm_campaign=1051&utm_source=git)** | Tulsa Metropolitan Area | On Site | Dec 25 |
 | **[International Spy Museum](https://spymuseum.org)** | **[Retail Buying Intern](https://jobright.ai/jobs/info/694ce7c8f5bef51c96eaaa10?utm_campaign=1051&utm_source=git)** | Indiana, United States | On Site | Dec 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Development Intern](https://jobright.ai/jobs/info/69124b43d1047e3565cfb040?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer Internship: Warranty Business](https://jobright.ai/jobs/info/692f9d70fa28370be26ac17c?utm_campaign=1051&utm_source=git)** | Denton, TX | On Site | Dec 24 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Land Development Intern](https://jobright.ai/jobs/info/69125eecd1047e3565cfbe06?utm_campaign=1051&utm_source=git)** | Reston, VA | On Site | Dec 24 |
-| ↳ | **[2026 Internship Program: Land Development Intern](https://jobright.ai/jobs/info/69126666ea9ab01b82bf245b?utm_campaign=1051&utm_source=git)** | Grapevine, TX | On Site | Dec 24 |
-| **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/692fa68cef4b48533d147c91?utm_campaign=1051&utm_source=git)** | Evansville, IN | Hybrid | Dec 24 |
-| **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer Internship: Sales Administration - Marketing](https://jobright.ai/jobs/info/692fd125fa28370be26adaf9?utm_campaign=1051&utm_source=git)** | Denton, TX | On Site | Dec 24 |
-| **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/692fad56ef4b48533d14813d?utm_campaign=1051&utm_source=git)** | Louisville, KY | Hybrid | Dec 24 |
-| **[Kendall Electric](https://www.kendallelectric.com)** | **[Sales Intern - Summer 2026 - Kendall Electric](https://jobright.ai/jobs/info/68f6477976a51a4307bd8f14?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
