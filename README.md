@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/694f003bce13cd10565743bb?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 26 |
+| **[Kubby](https://www.kubby.io)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/694efb81ce13cd10565742b4?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
+| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694ef358ce13cd1056572e77?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 26 |
+| **[Reimagined Parking](https://reimaginedparking.com/)** | **[Parking Customer Success Agent - Laredo International Airport](https://jobright.ai/jobs/info/694ef058a2668b7f54522bc0?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Dec 26 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Strategic Partnerships Internship](https://jobright.ai/jobs/info/694ee4c3a2668b7f54522790?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[W3 Intern - Summer 2026](https://jobright.ai/jobs/info/693094504c474121999e638a?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Dec 26 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Americas Client Group](https://jobright.ai/jobs/info/694ed2dca2668b7f54521de6?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Dec 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/691553306f36db06ef04dbba?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 26 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69152f8a9c388539cbdf14c6?utm_campaign=1051&utm_source=git)** | Jupiter, FL | On Site | Dec 26 |
 | **[Medpace](http://www.medpace.com)** | **[Vendor Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ddaca3a125e75c422ae0f4?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 26 |
-| **[Everest](https://www.everestglobal.com/)** | **[2026 Claims Internship Program](https://jobright.ai/jobs/info/6915bbf06f36db06ef050b92?utm_campaign=1051&utm_source=git)** | Warren, NJ | Hybrid | Dec 26 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/693a7f560652687940eaa8fc?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Dec 26 |
-| ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69156077286ccf0a1512dbe5?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Dec 26 |
-| ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/693166f63b6d6f265f4e7b57?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
