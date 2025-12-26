@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Consumer Banking](https://jobright.ai/jobs/info/694e4f48d4a7df7a06731d29?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 26 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Dec 25 |
 | **[H15DEN](https://h15den.com)** | **[Business Development Research - Micro Internship](https://jobright.ai/jobs/info/694dec7729655e4dd657ba91?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 25 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's Summer Internship, Store Management - Palo Alto, CA](https://jobright.ai/jobs/info/694db1d8f5bef51c96eb3b24?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Dec 25 |
@@ -122,20 +123,20 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[SaaS Sales Internship- Summer 2026](https://jobright.ai/jobs/info/68bf3f685c5d5f14f46d546f?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Dec 25 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69309db94c474121999e6aae?utm_campaign=1051&utm_source=git)** | Wallingford, CT | On Site | Dec 25 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Houston Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69137c9fd1047e3565d03838?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 25 |
-| ↳ | **[Manhattan Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69137b91e344172248f718ce?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Dec 25 |
 | ↳ | **[Phoenix Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691373581465e02904e94bf5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 25 |
+| ↳ | **[Manhattan Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69137b91e344172248f718ce?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Dec 25 |
 | ↳ | **[Austin Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6913754d1465e02904e94cc2?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 25 |
-| ↳ | **[Dallas Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69138182d1047e3565d03ad8?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
-| ↳ | **[Los Angeles Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69139025d1047e3565d041bc?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
 | ↳ | **[Nashville Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6913722d1465e02904e94b55?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Dec 25 |
 | ↳ | **[Miami Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6913747b1465e02904e94c68?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 25 |
+| ↳ | **[Dallas Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69138182d1047e3565d03ad8?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
+| ↳ | **[Los Angeles Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69139025d1047e3565d041bc?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[W3 Intern - Summer 2026](https://jobright.ai/jobs/info/6930bf0d4c474121999e85fd?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Dec 25 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[San Antonio Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69137b89d1047e3565d03792?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Dec 25 |
 | ↳ | **[Orange County (Irvine) Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691376efe344172248f71644?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Dec 25 |
 | ↳ | **[Encino Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69137a74e344172248f71829?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
 | ↳ | **[New Jersey Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69138a6a1465e02904e9569a?utm_campaign=1051&utm_source=git)** | Saddle Brook, NJ | On Site | Dec 25 |
-| ↳ | **[Palo Alto Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6913750d1465e02904e94cad?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Dec 25 |
 | ↳ | **[Washington, D.C. Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6913780ce344172248f716b2?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Dec 25 |
+| ↳ | **[Palo Alto Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6913750d1465e02904e94cad?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Dec 25 |
 | ↳ | **[Vancouver Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6918329745fb6f5ead8a2b88?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 25 |
 | ↳ | **[South Bay (El Segundo) Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69138118e344172248f71aad?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Dec 25 |
 | ↳ | **[Fort Lauderdale Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691377c9e344172248f71699?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 25 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Harvey Media](www.harveymediallc.com)** | **[Community Manager Intern](https://jobright.ai/jobs/info/694cf4e3d4a7df7a06722990?utm_campaign=1051&utm_source=git)** | Tulsa Metropolitan Area | On Site | Dec 25 |
 | **[International Spy Museum](https://spymuseum.org)** | **[Retail Buying Intern](https://jobright.ai/jobs/info/694ce7c8f5bef51c96eaaa10?utm_campaign=1051&utm_source=git)** | Indiana, United States | On Site | Dec 24 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/694cddd8d4a7df7a06721c88?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Dec 24 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Business Development Intern (Summer)](https://jobright.ai/jobs/info/694a0ba77d506e3808f536a7?utm_campaign=1051&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/694cc0bdf5bef51c96ea8603?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Dec 24 |
-| **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Philadelphia](https://jobright.ai/jobs/info/694cb2bfd4a7df7a0671f1bd?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694cb29ad4a7df7a0671f18a?utm_campaign=1051&utm_source=git)** | San Angelo, TX | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
