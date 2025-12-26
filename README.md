@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Dec 25 |
 | **[H15DEN](https://h15den.com)** | **[Business Development Research - Micro Internship](https://jobright.ai/jobs/info/694dec7729655e4dd657ba91?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 25 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's Summer Internship, Store Management - Palo Alto, CA](https://jobright.ai/jobs/info/694db1d8f5bef51c96eb3b24?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Dec 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/694dc6a6d4a7df7a0672be11?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 25 |
@@ -123,11 +124,11 @@ For a complete list, click the following sortable link below:
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Houston Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69137c9fd1047e3565d03838?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 25 |
 | ↳ | **[Manhattan Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69137b91e344172248f718ce?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Dec 25 |
 | ↳ | **[Phoenix Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691373581465e02904e94bf5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 25 |
-| ↳ | **[Dallas Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69138182d1047e3565d03ad8?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
-| ↳ | **[Los Angeles Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69139025d1047e3565d041bc?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
-| ↳ | **[Austin Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6913754d1465e02904e94cc2?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 25 |
 | ↳ | **[Miami Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6913747b1465e02904e94c68?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 25 |
+| ↳ | **[Los Angeles Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69139025d1047e3565d041bc?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
 | ↳ | **[Nashville Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6913722d1465e02904e94b55?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Dec 25 |
+| ↳ | **[Dallas Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69138182d1047e3565d03ad8?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
+| ↳ | **[Austin Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6913754d1465e02904e94cc2?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 25 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[W3 Intern - Summer 2026](https://jobright.ai/jobs/info/6930bf0d4c474121999e85fd?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Dec 25 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[San Antonio Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69137b89d1047e3565d03792?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Dec 25 |
 | ↳ | **[Orange County (Irvine) Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691376efe344172248f71644?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Dec 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/694cc0bdf5bef51c96ea8603?utm_campaign=1051&utm_source=git)** | Chesapeake, VA | On Site | Dec 24 |
 | **[Grit Marketing](https://www.gritmarketing.net)** | **[Summer Sales Internship Philadelphia](https://jobright.ai/jobs/info/694cb2bfd4a7df7a0671f1bd?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Dec 24 |
 | ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694cb29ad4a7df7a0671f18a?utm_campaign=1051&utm_source=git)** | San Angelo, TX | On Site | Dec 24 |
-| ↳ | **[Summer Sales Internship](https://jobright.ai/jobs/info/694cb27dd4a7df7a0671f169?utm_campaign=1051&utm_source=git)** | San Bernardino, CA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
