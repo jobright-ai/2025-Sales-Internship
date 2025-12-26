@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Sales Operations](https://jobright.ai/jobs/info/694ebaef29655e4dd6584961?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/694eba5729655e4dd6584949?utm_campaign=1051&utm_source=git)** | Guelph, Ontario, Canada | On Site | Dec 26 |
+| **[Finley Living](www.finleyliving.co)** | **[Private Equity Sales Intern](https://jobright.ai/jobs/info/694eaf78a2668b7f5451fcb8?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Dec 26 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/694e9f8ba2668b7f5451fa8e?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Dec 26 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/694e9a1bce13cd105656f429?utm_campaign=1051&utm_source=git)** | Redlands, CA | On Site | Dec 26 |
 | **[SWBC](https://www.swbc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd8beea125e75c422ac0aa?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Dec 26 |
@@ -137,7 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Spring 2026](https://jobright.ai/jobs/info/691ae7a8bcdbf3560c9db9dd?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Dec 26 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - GM Envolve OnStar Sales and Operations](https://jobright.ai/jobs/info/68cee4ac846f0b04af67d994?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Dec 26 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69340f21764507023d1bbc63?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/693171eb4c474121999ef496?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Dec 26 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69155849286ccf0a1512d835?utm_campaign=1051&utm_source=git)** | Warrenville, IL | On Site | Dec 26 |
+| ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/693171eb4c474121999ef496?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Dec 26 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Sales](https://jobright.ai/jobs/info/68c2498633864f172f9beab2?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Dec 26 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Corporate Development (Acquisitions)](https://jobright.ai/jobs/info/68f90e8da628d10664e88a04?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6915590d6f36db06ef04e0c9?utm_campaign=1051&utm_source=git)** | Tukwila, WA | On Site | Dec 26 |
@@ -146,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69152f8a9c388539cbdf14c6?utm_campaign=1051&utm_source=git)** | Jupiter, FL | On Site | Dec 26 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[GTM / Sales Ops Intern](https://jobright.ai/jobs/info/694e89a6a2668b7f5451f1dd?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Medpace](http://www.medpace.com)** | **[Vendor Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ddaca3a125e75c422ae0f4?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 26 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6915582b286ccf0a1512d824?utm_campaign=1051&utm_source=git)** | Warrenville, IL | On Site | Dec 26 |
 | **[Everest](https://www.everestglobal.com/)** | **[2026 Claims Internship Program](https://jobright.ai/jobs/info/6915bbf06f36db06ef050b92?utm_campaign=1051&utm_source=git)** | Warren, NJ | Hybrid | Dec 26 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/693a7f560652687940eaa8fc?utm_campaign=1051&utm_source=git)** | Springfield, MA | On Site | Dec 26 |
 | ↳ | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69156077286ccf0a1512dbe5?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Dec 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69156143286ccf0a1512dc3c?utm_campaign=1051&utm_source=git)** | Easton Center, MA | On Site | Dec 26 |
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69155228286ccf0a1512d497?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Dec 26 |
 | **[Ferrara](https://www.ferrara.com)** | **[Sales Internship Program - Summer 2026](https://jobright.ai/jobs/info/691ae1a015b415636718b8a7?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69316d1bfa28370be26b9aa9?utm_campaign=1051&utm_source=git)** | Tukwila, WA | On Site | Dec 26 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Consumer Banking](https://jobright.ai/jobs/info/694e4f48d4a7df7a06731d29?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 26 |
-| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring Admission/Museum Store Intern (Onsite)](https://jobright.ai/jobs/info/68dd7a55a125e75c422aaf2f?utm_campaign=1051&utm_source=git)** | Little Rock, Arkansas | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
