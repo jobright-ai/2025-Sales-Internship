@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/69505223a2668b7f54534c8d?utm_campaign=1051&utm_source=git)** | Indianola, IA | On Site | Dec 27 |
+| **[PROJXON](www.projxon.com)** | **[Business Development Specialist Intern](https://jobright.ai/jobs/info/69504caf29655e4dd65992c3?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Dec 27 |
+| **[Unstuck Engine](https://primeclass.ai)** | **[Strategic Partnerships Intern.](https://jobright.ai/jobs/info/69504c7ba2668b7f54534c38?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - US Client Management, Account Analyst](https://jobright.ai/jobs/info/68b5dfb8f4e41a61efd91672?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Dec 27 |
 | ↳ | **[2026 Summer Intern - Global Wealth Management, Strategic Accounts](https://jobright.ai/jobs/info/693fc73baa598a08c3ef8928?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | ↳ | **[2026 Summer Intern - Latin America Client Management, Account Analyst](https://jobright.ai/jobs/info/69502c0429655e4dd6596f40?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Dec 27 |
 | ↳ | **[Student Housing Operations Intern - Ames, IA](https://jobright.ai/jobs/info/6932fc52764507023d1b1768?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Dec 27 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693301b5764507023d1b1999?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Dec 27 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Chico, CA](https://jobright.ai/jobs/info/6932f6f3f131d96e4845ee65?utm_campaign=1051&utm_source=git)** | Chico, CA | On Site | Dec 27 |
-| ↳ | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 27 |
-| **[Nucor Corporation](http://www.nucor.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/6933a42a764507023d1b794d?utm_campaign=1051&utm_source=git)** | Florence, SC | Hybrid | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
