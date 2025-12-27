@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Trading Associate](https://jobright.ai/jobs/info/69500c20a2668b7f54530abd?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Dec 27 |
 | **[Arvento A](arventoa.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/694ff6caa2668b7f5453094c?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 27 |
 | **[Insight](https://www.insight.com)** | **[Client Executive Intern](https://jobright.ai/jobs/info/6918331d15b415636717fa83?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 27 |
 | **[Handy Banjo](http://www.handybanjo.com)** | **[Cold Outreach Intern](https://jobright.ai/jobs/info/694fe7bece13cd105657fed8?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6932f17a764507023d1b1376?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 27 |
 | ↳ | **[Student Housing Operations Intern - Sunderland, MA](https://jobright.ai/jobs/info/6932fcc2f131d96e4845f04b?utm_campaign=1051&utm_source=git)** | Sunderland, MA | On Site | Dec 27 |
 | ↳ | **[Student Housing Operations Intern - Edwardsville, IL](https://jobright.ai/jobs/info/6933001c764507023d1b18fa?utm_campaign=1051&utm_source=git)** | Edwardsville, IL | On Site | Dec 27 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Sales & Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/691709eb370fde633d07c8ad?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Dec 27 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Leader Trainee Intern](https://jobright.ai/jobs/info/6932f709764507023d1b15a6?utm_campaign=1051&utm_source=git)** | Windsor, NY | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
