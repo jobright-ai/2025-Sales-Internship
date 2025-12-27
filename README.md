@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[Business Development & Research - Micro Internship](https://jobright.ai/jobs/info/694f4258ce13cd1056577040?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Shorwoom Operations Internship](https://jobright.ai/jobs/info/694f2842a2668b7f545250f1?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/694f27f3ce13cd1056574b23?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Dec 26 |
 | **[Mosaic Life Care](https://www.mymlc.com/)** | **[Retail Services Associate Intern](https://jobright.ai/jobs/info/694b28b84b53a1551f94e911?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Dec 26 |
+| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f408ca2668b7f5452766b?utm_campaign=1051&utm_source=git)** | Urbandale,IA,US | On Site | Dec 26 |
+| ↳ | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f3e1bce13cd1056576ea9?utm_campaign=1051&utm_source=git)** | Cottage Grove,MN,US | On Site | Dec 26 |
+| **[Overview Energy](https://overviewenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/694f4d99ce13cd10565776f1?utm_campaign=1051&utm_source=git)** | Ashburn, VA | On Site | Dec 26 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/694f003bce13cd10565743bb?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 26 |
 | **[Kubby](https://www.kubby.io)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/694efb81ce13cd10565742b4?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694ef3a129655e4dd658771a?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 26 |
@@ -136,11 +140,10 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Charlotte](https://jobright.ai/jobs/info/69324806f131d96e4845a8f1?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Dec 26 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6931e4cbd0010831497bcace?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Dec 26 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[After Sales and Client Services Intern (2025 Semester 1) - Generation H](https://jobright.ai/jobs/info/692f5a64fa28370be26a9227?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 26 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69154ce26f36db06ef04d837?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Dec 26 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[Retail Management Internship](https://jobright.ai/jobs/info/68c2b86b63829b0a8a4fc3f9?utm_campaign=1051&utm_source=git)** | Scarborough, ME | On Site | Dec 26 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Southeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/691576899c388539cbdf3d53?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Dec 26 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/6931a7e7d0010831497bae1a?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Dec 26 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6915696d9c388539cbdf3501?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Dec 26 |
+| **[PHI Air Medical](https://www.phiairmedical.com)** | **[Intern, Business Development and Marketing](https://jobright.ai/jobs/info/694f504dce13cd1056577758?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 26 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Salt Lake City](https://jobright.ai/jobs/info/693250f8a0dde7020e2e5977?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Hybrid | Dec 26 |
 | ↳ | **[Outside Sales Intern- Columbus, OH](https://jobright.ai/jobs/info/693247e3a0dde7020e2e523b?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Dec 26 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/691550e96f36db06ef04da71?utm_campaign=1051&utm_source=git)** | Peoria, AZ | On Site | Dec 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/693171eb4c474121999ef496?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Dec 26 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Sales](https://jobright.ai/jobs/info/68c2498633864f172f9beab2?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Dec 26 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Corporate Development (Acquisitions)](https://jobright.ai/jobs/info/68f90e8da628d10664e88a04?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6915590d6f36db06ef04e0c9?utm_campaign=1051&utm_source=git)** | Tukwila, WA | On Site | Dec 26 |
-| **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Minneapolis](https://jobright.ai/jobs/info/69324b94764507023d1acc05?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Dec 26 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/691553306f36db06ef04dbba?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
