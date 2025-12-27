@@ -57,6 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arvento A](arventoa.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/694ff6caa2668b7f5453094c?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 27 |
+| **[Insight](https://www.insight.com)** | **[Client Executive Intern](https://jobright.ai/jobs/info/6918331d15b415636717fa83?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 27 |
+| **[Handy Banjo](http://www.handybanjo.com)** | **[Cold Outreach Intern](https://jobright.ai/jobs/info/694fe7bece13cd105657fed8?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
+| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group](https://jobright.ai/jobs/info/68f94d4bcadb2e5a06a639e8?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Dec 27 |
+| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Application Sales Engineering Intern](https://jobright.ai/jobs/info/6948f8b17d506e3808f4318f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 27 |
+| **[SBA Communications](http://www.sbasite.com)** | **[Intern - Asset Development](https://jobright.ai/jobs/info/68fb8eb14129dd33cd132beb?utm_campaign=1051&utm_source=git)** | Hillsborough County, FL | On Site | Dec 27 |
+| **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Summer 2026](https://jobright.ai/jobs/info/69337e72a0dde7020e2ee913?utm_campaign=1051&utm_source=git)** | Eagan, MN | On Site | Dec 27 |
+| **[GAF](http://www.gaf.com/)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/68f93f2b6de2db04dc3e7436?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | On Site | Dec 27 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Tampa](https://jobright.ai/jobs/info/68c1ed8a4d652f044775bc30?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Dec 27 |
+| **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933741af131d96e4846382b?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 27 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - New Orleans](https://jobright.ai/jobs/info/68c1ec044d652f044775baee?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Dec 27 |
+| ↳ | **[Summer Jr. Executive Sales Intern - New Jersey](https://jobright.ai/jobs/info/68c1eae34d652f044775b9d3?utm_campaign=1051&utm_source=git)** | Jersey City, NJ | On Site | Dec 27 |
+| **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Sales Analyst Intern](https://jobright.ai/jobs/info/68dd8b48ddc10244dd680876?utm_campaign=1051&utm_source=git)** | Lakeville, MA | Hybrid | Dec 27 |
+| **[CJ ENM America](https://www.kconusa.com/home/)** | **[Intern, Sponsorship & Sales](https://jobright.ai/jobs/info/6933ae64a0dde7020e2f0793?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
+| **[PEAC Solutions](http://www.peacsolutions.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/68f1ef7cf462172a5a7de223?utm_campaign=1051&utm_source=git)** | Jacksonville, FL | On Site | Dec 27 |
+| **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933406a764507023d1b3744?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Dec 27 |
+| ↳ | **[Technology Lifecycle Services Renewals Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69334e25f131d96e48461a9e?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 27 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Miami](https://jobright.ai/jobs/info/68c1edb363b706703e1103d7?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 27 |
+| **[IBM](http://www.ibm.com)** | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69334748764507023d1b3ae3?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - St. Louis](https://jobright.ai/jobs/info/68c1f1a663b706703e1108b9?utm_campaign=1051&utm_source=git)** | Clayton, MO | Hybrid | Dec 27 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Los Angeles](https://jobright.ai/jobs/info/68c1f08233864f172f9bbcc9?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 27 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Minneapolis](https://jobright.ai/jobs/info/68c1ee7f63b706703e1104b9?utm_campaign=1051&utm_source=git)** | Edina, MN | On Site | Dec 27 |
@@ -113,6 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6932eeed764507023d1b124d?utm_campaign=1051&utm_source=git)** | Hillsboro, OR | On Site | Dec 27 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Seattle](https://jobright.ai/jobs/info/69338c0ca0dde7020e2ef0e9?utm_campaign=1051&utm_source=git)** | Seattle, WA | Hybrid | Dec 27 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Laramie, WY](https://jobright.ai/jobs/info/6933095ea0dde7020e2ea0e7?utm_campaign=1051&utm_source=git)** | Laramie, WY | On Site | Dec 27 |
+| **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693370fba0dde7020e2ee0cd?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Dec 27 |
+| ↳ | **[Digital Seller Intern– Entry Level Sales Program 2026](https://jobright.ai/jobs/info/6933719fa0dde7020e2ee144?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 27 |
+| ↳ | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69333a5ca0dde7020e2eb9c9?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69168fd8286ccf0a1513772d?utm_campaign=1051&utm_source=git)** | Passaic County, NJ | Hybrid | Dec 27 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/691666929c388539cbdfac93?utm_campaign=1051&utm_source=git)** | Baton Rouge, LA | On Site | Dec 27 |
 | **[TowneBank](https://www.townebank.com/)** | **[Towne Insurance Summer Internship](https://jobright.ai/jobs/info/6933b07ef131d96e48465f47?utm_campaign=1051&utm_source=git)** | Glen Allen, VA | On Site | Dec 27 |
@@ -135,26 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Housing Operations Intern - Edwardsville, IL](https://jobright.ai/jobs/info/6933001c764507023d1b18fa?utm_campaign=1051&utm_source=git)** | Edwardsville, IL | On Site | Dec 27 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Sales & Business Development Internship - Summer 2026](https://jobright.ai/jobs/info/691709eb370fde633d07c8ad?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Dec 27 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Leader Trainee Intern](https://jobright.ai/jobs/info/6932f709764507023d1b15a6?utm_campaign=1051&utm_source=git)** | Windsor, NY | On Site | Dec 27 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Starkville, MS](https://jobright.ai/jobs/info/6932fbad764507023d1b1717?utm_campaign=1051&utm_source=git)** | Starkville, MS | On Site | Dec 27 |
-| **[Reckitt](https://www.reckitt.com)** | **[2026 Undergrad Commercial Summer Internship: Sales, E-Commerce, & Marketing - Parsippany, NJ](https://jobright.ai/jobs/info/691a3c8c45fb6f5ead8ab3fd?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | On Site | Dec 27 |
-| **[Nucor Corporation](http://www.nucor.com)** | **[Sales Development Internship (Summer 2026)](https://jobright.ai/jobs/info/6932f4e3a0dde7020e2e9983?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 27 |
-| **[ADP](http://www.adp.com)** | **[Spring '26 Internship - Augusta](https://jobright.ai/jobs/info/68dfaed25ab4977c2e956dfc?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Dec 27 |
-| **[Camping World](https://investor.campingworld.com)** | **[Loyalty Operations Intern](https://jobright.ai/jobs/info/693e4d1849a7695fbd04922e?utm_campaign=1051&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 27 |
-| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f9da6a2668b7f5452c0e7?utm_campaign=1051&utm_source=git)** | Cottage Grove, MN | On Site | Dec 27 |
-| ↳ | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f9ceace13cd105657b917?utm_campaign=1051&utm_source=git)** | Urbandale, IA | On Site | Dec 27 |
-| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Intern](https://jobright.ai/jobs/info/694f99c4a2668b7f5452be59?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
-| **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6908c0d54a1b456627af8d0c?utm_campaign=1051&utm_source=git)** | New York, US, New York | Hybrid | Dec 27 |
-| **[Algeco GmbH](https://www.algeco.de)** | **[Werkstudent Sales Support / CRM (m/w/d) – bundesweit / remote](https://jobright.ai/jobs/info/69201b813f782d2f1afc2e9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
-| **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Business Development & Strategy](https://jobright.ai/jobs/info/69045aaaff462851feff4cdc?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
-| **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Shorwoom Operations Internship](https://jobright.ai/jobs/info/694f2842a2668b7f545250f1?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
-| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/694f27f3ce13cd1056574b23?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Dec 26 |
-| **[Mosaic Life Care](https://www.mymlc.com/)** | **[Retail Services Associate Intern](https://jobright.ai/jobs/info/694b28b84b53a1551f94e911?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Dec 26 |
-| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f408ca2668b7f5452766b?utm_campaign=1051&utm_source=git)** | Urbandale,IA,US | On Site | Dec 26 |
-| ↳ | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f3e1bce13cd1056576ea9?utm_campaign=1051&utm_source=git)** | Cottage Grove,MN,US | On Site | Dec 26 |
-| **[Overview Energy](https://overviewenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/694f4d99ce13cd10565776f1?utm_campaign=1051&utm_source=git)** | Ashburn, VA | On Site | Dec 26 |
-| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/694f003bce13cd10565743bb?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 26 |
-| **[Kubby](https://www.kubby.io)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/694efb81ce13cd10565742b4?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694ef3a129655e4dd658771a?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 26 |
-| **[Reimagined Parking](https://reimaginedparking.com/)** | **[Parking Customer Success Agent - Laredo International Airport](https://jobright.ai/jobs/info/694ef058a2668b7f54522bc0?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Dec 26 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[W3 Intern - Summer 2026](https://jobright.ai/jobs/info/693094504c474121999e638a?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
