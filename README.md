@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Shorwoom Operations Internship](https://jobright.ai/jobs/info/694f2842a2668b7f545250f1?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
+| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/694f27f3ce13cd1056574b23?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Dec 26 |
+| **[Mosaic Life Care](https://www.mymlc.com/)** | **[Retail Services Associate Intern](https://jobright.ai/jobs/info/694b28b84b53a1551f94e911?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Dec 26 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/694f003bce13cd10565743bb?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 26 |
 | **[Kubby](https://www.kubby.io)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/694efb81ce13cd10565742b4?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694ef358ce13cd1056572e77?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 26 |
+| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694ef3a129655e4dd658771a?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 26 |
 | **[Reimagined Parking](https://reimaginedparking.com/)** | **[Parking Customer Success Agent - Laredo International Airport](https://jobright.ai/jobs/info/694ef058a2668b7f54522bc0?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Dec 26 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Strategic Partnerships Internship](https://jobright.ai/jobs/info/694ee4c3a2668b7f54522790?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[W3 Intern - Summer 2026](https://jobright.ai/jobs/info/693094504c474121999e638a?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Dec 26 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Sales Operations](https://jobright.ai/jobs/info/694ecda029655e4dd6586761?utm_campaign=1051&utm_source=git)** | Louisville, KY | Remote | Dec 26 |
 | ↳ | **[Summer Internship, Sales Operations](https://jobright.ai/jobs/info/694ebaef29655e4dd6584961?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/694eba5729655e4dd6584949?utm_campaign=1051&utm_source=git)** | Guelph, Ontario, Canada | On Site | Dec 26 |
-| **[Finley Living](www.finleyliving.co)** | **[Private Equity Sales Intern](https://jobright.ai/jobs/info/694eaf78a2668b7f5451fcb8?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Dec 26 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/694e9f8ba2668b7f5451fa8e?utm_campaign=1051&utm_source=git)** | Monroe City, MO | On Site | Dec 26 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/694e9a1bce13cd105656f429?utm_campaign=1051&utm_source=git)** | Redlands, CA | On Site | Dec 26 |
 | **[SWBC](https://www.swbc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd8beea125e75c422ac0aa?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Pacific West- Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/6915590d6f36db06ef04e0c9?utm_campaign=1051&utm_source=git)** | Tukwila, WA | On Site | Dec 26 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Outside Sales Intern- Minneapolis](https://jobright.ai/jobs/info/69324b94764507023d1acc05?utm_campaign=1051&utm_source=git)** | United States | Hybrid | Dec 26 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/691553306f36db06ef04dbba?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 26 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Sales Internship](https://jobright.ai/jobs/info/69152f8a9c388539cbdf14c6?utm_campaign=1051&utm_source=git)** | Jupiter, FL | On Site | Dec 26 |
-| **[Medpace](http://www.medpace.com)** | **[Vendor Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ddaca3a125e75c422ae0f4?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
