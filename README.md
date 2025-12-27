@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - US Client Management, Account Analyst](https://jobright.ai/jobs/info/68b5dfb8f4e41a61efd91672?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Dec 27 |
+| ↳ | **[2026 Summer Intern - Global Wealth Management, Strategic Accounts](https://jobright.ai/jobs/info/693fc73baa598a08c3ef8928?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 27 |
+| ↳ | **[2026 Summer Intern - Latin America Client Management, Account Analyst](https://jobright.ai/jobs/info/69502c0429655e4dd6596f40?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 27 |
+| **[EPL Group Inc.](https://eplgroup.co)** | **[M&A Internship (Remote)](https://jobright.ai/jobs/info/69502aacce13cd1056582055?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Trading Associate](https://jobright.ai/jobs/info/69500c20a2668b7f54530abd?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Dec 27 |
 | **[Arvento A](arventoa.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/694ff6caa2668b7f5453094c?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Chico, CA](https://jobright.ai/jobs/info/6932f6f3f131d96e4845ee65?utm_campaign=1051&utm_source=git)** | Chico, CA | On Site | Dec 27 |
 | ↳ | **[Student Housing Operations Intern - Ann Arbor, MI](https://jobright.ai/jobs/info/6932f323764507023d1b1423?utm_campaign=1051&utm_source=git)** | Ann Arbor, MI | On Site | Dec 27 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/6933a42a764507023d1b794d?utm_campaign=1051&utm_source=git)** | Florence, SC | Hybrid | Dec 27 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Normal, IL](https://jobright.ai/jobs/info/6932fe20764507023d1b1807?utm_campaign=1051&utm_source=git)** | Normal, IL | On Site | Dec 27 |
-| ↳ | **[Student Housing Operations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/6932f17a764507023d1b1376?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Dec 27 |
-| ↳ | **[Student Housing Operations Intern - Sunderland, MA](https://jobright.ai/jobs/info/6932fcc2f131d96e4845f04b?utm_campaign=1051&utm_source=git)** | Sunderland, MA | On Site | Dec 27 |
-| ↳ | **[Student Housing Operations Intern - Edwardsville, IL](https://jobright.ai/jobs/info/6933001c764507023d1b18fa?utm_campaign=1051&utm_source=git)** | Edwardsville, IL | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
