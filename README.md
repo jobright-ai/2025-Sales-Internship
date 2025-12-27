@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f9da6a2668b7f5452c0e7?utm_campaign=1051&utm_source=git)** | Cottage Grove, MN | On Site | Dec 27 |
+| ↳ | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f9ceace13cd105657b917?utm_campaign=1051&utm_source=git)** | Urbandale, IA | On Site | Dec 27 |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Intern](https://jobright.ai/jobs/info/694f99c4a2668b7f5452be59?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
+| **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6908c0d54a1b456627af8d0c?utm_campaign=1051&utm_source=git)** | New York, US, New York | Hybrid | Dec 27 |
+| **[Algeco GmbH](https://www.algeco.de)** | **[Werkstudent Sales Support / CRM (m/w/d) – bundesweit / remote](https://jobright.ai/jobs/info/69201b813f782d2f1afc2e9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
 | **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Business Development & Strategy](https://jobright.ai/jobs/info/69045aaaff462851feff4cdc?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
-| **[H15DEN](https://h15den.com)** | **[Business Development & Research - Micro Internship](https://jobright.ai/jobs/info/694f4258ce13cd1056577040?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Shorwoom Operations Internship](https://jobright.ai/jobs/info/694f2842a2668b7f545250f1?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/694f27f3ce13cd1056574b23?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Dec 26 |
 | **[Mosaic Life Care](https://www.mymlc.com/)** | **[Retail Services Associate Intern](https://jobright.ai/jobs/info/694b28b84b53a1551f94e911?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Dec 26 |
@@ -67,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Overview Energy](https://overviewenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/694f4d99ce13cd10565776f1?utm_campaign=1051&utm_source=git)** | Ashburn, VA | On Site | Dec 26 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/694f003bce13cd10565743bb?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 26 |
 | **[Kubby](https://www.kubby.io)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/694efb81ce13cd10565742b4?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694ef358ce13cd1056572e77?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 26 |
+| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/694ef3a129655e4dd658771a?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 26 |
 | **[Reimagined Parking](https://reimaginedparking.com/)** | **[Parking Customer Success Agent - Laredo International Airport](https://jobright.ai/jobs/info/694ef058a2668b7f54522bc0?utm_campaign=1051&utm_source=git)** | Laredo, TX | On Site | Dec 26 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Strategic Partnerships Internship](https://jobright.ai/jobs/info/694ee4c3a2668b7f54522790?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[W3 Intern - Summer 2026](https://jobright.ai/jobs/info/693094504c474121999e638a?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Dec 26 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69155d7c6f36db06ef04e2ec?utm_campaign=1051&utm_source=git)** | Burlington, MA | On Site | Dec 26 |
 | ↳ | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/693a7fa70652687940eaa9c5?utm_campaign=1051&utm_source=git)** | Hoffman Estates, IL | On Site | Dec 26 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Sales Support Operations Intern - Spring 2026](https://jobright.ai/jobs/info/691ae7a8bcdbf3560c9db9dd?utm_campaign=1051&utm_source=git)** | Green Bay, WI | Hybrid | Dec 26 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - GM Envolve OnStar Sales and Operations](https://jobright.ai/jobs/info/68cee4ac846f0b04af67d994?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Dec 26 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[Corporate Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69340f21764507023d1bbc63?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69155849286ccf0a1512d835?utm_campaign=1051&utm_source=git)** | Warrenville, IL | On Site | Dec 26 |
-| ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/693171eb4c474121999ef496?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Dec 26 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Sales](https://jobright.ai/jobs/info/68c2498633864f172f9beab2?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
