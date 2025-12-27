@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Business Development & Strategy](https://jobright.ai/jobs/info/69045aaaff462851feff4cdc?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
 | **[H15DEN](https://h15den.com)** | **[Business Development & Research - Micro Internship](https://jobright.ai/jobs/info/694f4258ce13cd1056577040?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Shorwoom Operations Internship](https://jobright.ai/jobs/info/694f2842a2668b7f545250f1?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/694f27f3ce13cd1056574b23?utm_campaign=1051&utm_source=git)** | NYC Metro Area | On Site | Dec 26 |
 | **[Mosaic Life Care](https://www.mymlc.com/)** | **[Retail Services Associate Intern](https://jobright.ai/jobs/info/694b28b84b53a1551f94e911?utm_campaign=1051&utm_source=git)** | St Joseph, MO | On Site | Dec 26 |
-| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f3e1bce13cd1056576ea9?utm_campaign=1051&utm_source=git)** | Cottage Grove,MN,US | On Site | Dec 26 |
-| ↳ | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f408ca2668b7f5452766b?utm_campaign=1051&utm_source=git)** | Urbandale,IA,US | On Site | Dec 26 |
+| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f408ca2668b7f5452766b?utm_campaign=1051&utm_source=git)** | Urbandale,IA,US | On Site | Dec 26 |
+| ↳ | **[Industrial Sales Intern](https://jobright.ai/jobs/info/694f3e1bce13cd1056576ea9?utm_campaign=1051&utm_source=git)** | Cottage Grove,MN,US | On Site | Dec 26 |
 | **[Overview Energy](https://overviewenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/694f4d99ce13cd10565776f1?utm_campaign=1051&utm_source=git)** | Ashburn, VA | On Site | Dec 26 |
 | **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/694f003bce13cd10565743bb?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Dec 26 |
 | **[Kubby](https://www.kubby.io)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/694efb81ce13cd10565742b4?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Midwest - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69155849286ccf0a1512d835?utm_campaign=1051&utm_source=git)** | Warrenville, IL | On Site | Dec 26 |
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/693171eb4c474121999ef496?utm_campaign=1051&utm_source=git)** | Somerville, MA | On Site | Dec 26 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Sales](https://jobright.ai/jobs/info/68c2498633864f172f9beab2?utm_campaign=1051&utm_source=git)** | Warren, MI | Hybrid | Dec 26 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Corporate Development (Acquisitions)](https://jobright.ai/jobs/info/68f90e8da628d10664e88a04?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
