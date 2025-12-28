@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H15DEN](https://h15den.com)** | **[Business Development & Research Micro-Internship](https://jobright.ai/jobs/info/69509c48a2668b7f545389c1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 27 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Associate Intern](https://jobright.ai/jobs/info/69509a4829655e4dd659cc94?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/69508bc7a2668b7f54537297?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 27 |
 | **[Garment Valet](https://www.garmentvalet.com)** | **[Business Development & Social Media Intern](https://jobright.ai/jobs/info/695065f3a2668b7f54535394?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 27 |
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/69505223a2668b7f54534c8d?utm_campaign=1051&utm_source=git)** | Indianola, IA | On Site | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Reno Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691624086f36db06ef053367?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Dec 27 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Murfreesboro, TN](https://jobright.ai/jobs/info/6932fa56764507023d1b16a9?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Dec 27 |
 | ↳ | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Dec 27 |
-| ↳ | **[Student Housing Operations Intern - Ames, IA](https://jobright.ai/jobs/info/6932fc52764507023d1b1768?utm_campaign=1051&utm_source=git)** | Ames, IA | On Site | Dec 27 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693301b5764507023d1b1999?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
