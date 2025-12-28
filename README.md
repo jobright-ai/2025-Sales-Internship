@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/69519b3d29655e4dd65a8f5b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 28 |
+| **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/695198caa2668b7f545431e8?utm_campaign=1051&utm_source=git)** | Hamlin, IA | On Site | Dec 28 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69519273a2668b7f54543116?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Dec 28 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69519267a2668b7f54543111?utm_campaign=1051&utm_source=git)** | KC Metro Area | On Site | Dec 28 |
+| **[AIRE](https://growwithaire.com/)** | **[Biz Ops Intern](https://jobright.ai/jobs/info/69518ee929655e4dd65a7504?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Dec 28 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Associate](https://jobright.ai/jobs/info/69518c4729655e4dd65a74ec?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 28 |
 | **[DiaMedical USA](https://www.diamedicalusa.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69518ad3a2668b7f545430a1?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI 48334 | On Site | Dec 28 |
 | **[Finley Living](www.finleyliving.co)** | **[Private Equity Sales Intern](https://jobright.ai/jobs/info/69518562a2668b7f54542e50?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Dec 28 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Trading Associate](https://jobright.ai/jobs/info/695155f329655e4dd65a5143?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern (Elmwood Shopping Center)](https://jobright.ai/jobs/info/68de903444d32141e0c00baf?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Dec 28 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern - MV](https://jobright.ai/jobs/info/6917f03145fb6f5ead8a00ac?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Dec 28 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Operations (Multiple Locations: CA, NY, TN)](https://jobright.ai/jobs/info/6945aa6663141d18845537cb?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Dec 28 |
-| ↳ | **[Universal Music Group 2026 Summer Internship: Ecommerce, Merchandise & Retail Opportunities: (Multiple Locations: CA, NY, TN, PA)](https://jobright.ai/jobs/info/6945aca6d1953b5d11bea989?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 28 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Dec 28 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/6950dbfea2668b7f5453be8b?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Dec 27 |
-| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/69508bc7a2668b7f54537297?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 27 |
-| **[Garment Valet](https://www.garmentvalet.com)** | **[Business Development & Social Media Intern](https://jobright.ai/jobs/info/695065f3a2668b7f54535394?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 27 |
-| **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/69505223a2668b7f54534c8d?utm_campaign=1051&utm_source=git)** | Indianola, IA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
