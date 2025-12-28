@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Operations (Multiple Locations: CA, NY, TN)](https://jobright.ai/jobs/info/6945aa6663141d18845537cb?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Dec 28 |
+| ↳ | **[Universal Music Group 2026 Summer Internship: Ecommerce, Merchandise & Retail Opportunities: (Multiple Locations: CA, NY, TN, PA)](https://jobright.ai/jobs/info/6945aca6d1953b5d11bea989?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 28 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Dec 28 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/6950dbfea2668b7f5453be8b?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Dec 27 |
 | **[H15DEN](https://h15den.com)** | **[Business Development & Research Micro-Internship](https://jobright.ai/jobs/info/69509c48a2668b7f545389c1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 27 |
 | **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/69508bc7a2668b7f54537297?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 27 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69320b7dfa28370be26c1317?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Dec 27 |
 | **[Arvento A](arventoa.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/694ff6caa2668b7f5453094c?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 27 |
 | **[Insight](https://www.insight.com)** | **[Client Executive Intern](https://jobright.ai/jobs/info/6918331d15b415636717fa83?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 27 |
-| **[Handy Banjo](http://www.handybanjo.com)** | **[Cold Outreach Intern](https://jobright.ai/jobs/info/694fe7bece13cd105657fed8?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group](https://jobright.ai/jobs/info/68f94d4bcadb2e5a06a639e8?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Dec 27 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Intern - Asset Development](https://jobright.ai/jobs/info/68fb8eb14129dd33cd132beb?utm_campaign=1051&utm_source=git)** | Hillsborough County, FL | On Site | Dec 27 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Summer 2026](https://jobright.ai/jobs/info/69337e72a0dde7020e2ee913?utm_campaign=1051&utm_source=git)** | Eagan, MN | On Site | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Management and Sales Internship - San Antonio](https://jobright.ai/jobs/info/68c4ccd17279451d6a037c94?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Dec 27 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Fort Collins, CO](https://jobright.ai/jobs/info/6933029fa0dde7020e2e9e0c?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Dec 27 |
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6950b8fece13cd105658a6a1?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Dec 27 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Baltimore, MD](https://jobright.ai/jobs/info/6932ff9da0dde7020e2e9d09?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 27 |
-| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Reno Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691624086f36db06ef053367?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
