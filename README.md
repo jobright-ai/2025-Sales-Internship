@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Trading Associate](https://jobright.ai/jobs/info/695155f329655e4dd65a5143?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6951500fa2668b7f54540bb8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 28 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Finance & Business Intern](https://jobright.ai/jobs/info/69514c2aa2668b7f54540b5b?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Remote | Dec 28 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Playbook365 Sales Intern](https://jobright.ai/jobs/info/69513dd7ce13cd1056590243?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Fairbanks](https://jobright.ai/jobs/info/68ddd9da09bda65a4b62479f?utm_campaign=1051&utm_source=git)** | Fairbanks, AK | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933cbebf131d96e48467243?utm_campaign=1051&utm_source=git)** | Florence, AL | On Site | Dec 28 |
@@ -97,11 +97,11 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Sales Internship - Tacoma](https://jobright.ai/jobs/info/69344703764507023d1bc91b?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Dec 28 |
 | **[Cargill](https://www.cargill.com/home)** | **[Commodity Trading Internship Summer 2026 - Multiple U.S. Locations](https://jobright.ai/jobs/info/68d7664f7a37c712687cbbf4?utm_campaign=1051&utm_source=git)** | Olathe, KS | Hybrid | Dec 28 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - New Orleans, LA](https://jobright.ai/jobs/info/68e8a24cc72beb74cb320c1b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68b501ad1ade4306aa63ef01?utm_campaign=1051&utm_source=git)** | Fayetteville, GA | On Site | Dec 28 |
-| ↳ | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Pasco](https://jobright.ai/jobs/info/6933e8fe764507023d1baa39?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Dec 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Pasco](https://jobright.ai/jobs/info/6933e8fe764507023d1baa39?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Seattle International Airport](https://jobright.ai/jobs/info/6933dd8e764507023d1ba3df?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern - Charlotte North](https://jobright.ai/jobs/info/693cecbbaa598a08c3edacd3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Olympia](https://jobright.ai/jobs/info/693402c4764507023d1bb57e?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Dec 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68b51fbc1ade4306aa64042f?utm_campaign=1051&utm_source=git)** | Fayetteville, GA | On Site | Dec 28 |
+| ↳ | **[Summer 2026 Management Trainee Sales Internship - Olympia](https://jobright.ai/jobs/info/693402c4764507023d1bb57e?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bremerton](https://jobright.ai/jobs/info/68ddda7b44d32141e0bfb3c5?utm_campaign=1051&utm_source=git)** | Port Orchard, WA | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f5f131d96e48465769?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 28 |
 | ↳ | **[Spring 2026 Management Trainee Sales Internship - Downtown Seattle](https://jobright.ai/jobs/info/6933ccd7f131d96e484675e0?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
@@ -111,6 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bothell](https://jobright.ai/jobs/info/68ddda07ddc10244dd6841c8?utm_campaign=1051&utm_source=git)** | Bothell, WA | On Site | Dec 28 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/694672347d506e3808f1df61?utm_campaign=1051&utm_source=git)** | Orange, CA | On Site | Dec 28 |
 | **[WGAL 8 TV](https://www.wgal.com)** | **[WGAL Sales/Creative Services Intern - 2026 Summer](https://jobright.ai/jobs/info/68fc39964129dd33cd139efe?utm_campaign=1051&utm_source=git)** | Lancaster, PA | On Site | Dec 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Kennewick](https://jobright.ai/jobs/info/68ddda34a125e75c422af617?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Dec 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Fall 2026)](https://jobright.ai/jobs/info/68defc2ea125e75c422b8d28?utm_campaign=1051&utm_source=git)** | Findlay, OH | On Site | Dec 28 |
 | **[Cargill](https://www.cargill.com/home)** | **[Grain Origination Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c8feab983e6768bc554eeb?utm_campaign=1051&utm_source=git)** | Olathe, KS | Hybrid | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68b51357f4e41a61efd8d4f2?utm_campaign=1051&utm_source=git)** | Morrow, GA | On Site | Dec 28 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Sales Operations](https://jobright.ai/jobs/info/691ab53315b415636718a0be?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Dec 28 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e08a38f758fe1f97e4e18d?utm_campaign=1051&utm_source=git)** | Ocala, FL | On Site | Dec 28 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern (Franchise)](https://jobright.ai/jobs/info/6934420a764507023d1bc7d0?utm_campaign=1051&utm_source=git)** | Manhattan, NY | On Site | Dec 28 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dd9b87ddc10244dd681c21?utm_campaign=1051&utm_source=git)** | Mishawaka, IN | On Site | Dec 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1d939b99ec3563b0d82eb?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Dec 28 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1d939b99ec3563b0d82eb?utm_campaign=1051&utm_source=git)** | Lincoln, NE | On Site | Dec 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68dd9b87ddc10244dd681c21?utm_campaign=1051&utm_source=git)** | Mishawaka, IN | On Site | Dec 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68df40db6be63b6ec996dfbc?utm_campaign=1051&utm_source=git)** | Fort Wayne, IN | On Site | Dec 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03bc5f758fe1f97e4b682?utm_campaign=1051&utm_source=git)** | Taylor, MI | On Site | Dec 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68ddea3fa125e75c422afd36?utm_campaign=1051&utm_source=git)** | Memphis, TN | On Site | Dec 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/69505223a2668b7f54534c8d?utm_campaign=1051&utm_source=git)** | Indianola, IA | On Site | Dec 27 |
 | **[PROJXON](www.projxon.com)** | **[Business Development Specialist Intern](https://jobright.ai/jobs/info/69504caf29655e4dd65992c3?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Dec 27 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Strategic Partnerships Intern.](https://jobright.ai/jobs/info/69504c7ba2668b7f54534c38?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
-| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - US Client Management, Account Analyst](https://jobright.ai/jobs/info/68b5dfb8f4e41a61efd91672?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
