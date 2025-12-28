@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DiaMedical USA](https://www.diamedicalusa.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69518ad3a2668b7f545430a1?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI 48334 | On Site | Dec 28 |
+| **[Finley Living](www.finleyliving.co)** | **[Private Equity Sales Intern](https://jobright.ai/jobs/info/69518562a2668b7f54542e50?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Dec 28 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Trading Associate](https://jobright.ai/jobs/info/695155f329655e4dd65a5143?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6951500fa2668b7f54540bb8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 28 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Playbook365 Sales Intern](https://jobright.ai/jobs/info/69513dd7ce13cd1056590243?utm_campaign=1051&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
@@ -69,7 +71,8 @@ For a complete list, click the following sortable link below:
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Sales Intern - Cincinnati Summer 2026](https://jobright.ai/jobs/info/68c3317b5001f8077bf61f28?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 28 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Rochester](https://jobright.ai/jobs/info/68c1f00c63b706703e110680?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 28 |
+| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd964044d32141e0bf8989?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 28 |
+| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Atlanta](https://jobright.ai/jobs/info/68c1eed14d652f044775bd6d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68c1edf963b706703e110423?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Stamford](https://jobright.ai/jobs/info/68c1ece04d652f044775bbb0?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Dec 28 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Pittsburgh](https://jobright.ai/jobs/info/68c1ee1a33864f172f9bba55?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Providence](https://jobright.ai/jobs/info/68c1f02c33864f172f9bbc6d?utm_campaign=1051&utm_source=git)** | Providence, RI | Hybrid | Dec 28 |
 | **[Intuit](https://www.intuit.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69176d49370fde633d07fe0c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
-| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd9750a125e75c422acefd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68df2d0b6be63b6ec996cd76?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Dec 28 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/6913432ce344172248f703fe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/69508bc7a2668b7f54537297?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 27 |
 | **[Garment Valet](https://www.garmentvalet.com)** | **[Business Development & Social Media Intern](https://jobright.ai/jobs/info/695065f3a2668b7f54535394?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 27 |
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/69505223a2668b7f54534c8d?utm_campaign=1051&utm_source=git)** | Indianola, IA | On Site | Dec 27 |
-| **[PROJXON](www.projxon.com)** | **[Business Development Specialist Intern](https://jobright.ai/jobs/info/69504caf29655e4dd65992c3?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Dec 27 |
-| **[Unstuck Engine](https://primeclass.ai)** | **[Strategic Partnerships Intern.](https://jobright.ai/jobs/info/69504c7ba2668b7f54534c38?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
