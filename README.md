@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Garment Valet](https://www.garmentvalet.com)** | **[Business Development & Social Media Intern](https://jobright.ai/jobs/info/695065f3a2668b7f54535394?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 27 |
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/69505223a2668b7f54534c8d?utm_campaign=1051&utm_source=git)** | Indianola, IA | On Site | Dec 27 |
 | **[PROJXON](www.projxon.com)** | **[Business Development Specialist Intern](https://jobright.ai/jobs/info/69504caf29655e4dd65992c3?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Dec 27 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Strategic Partnerships Intern.](https://jobright.ai/jobs/info/69504c7ba2668b7f54534c38?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Insight](https://www.insight.com)** | **[Client Executive Intern](https://jobright.ai/jobs/info/6918331d15b415636717fa83?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 27 |
 | **[Handy Banjo](http://www.handybanjo.com)** | **[Cold Outreach Intern](https://jobright.ai/jobs/info/694fe7bece13cd105657fed8?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Global Wealth Management, Private Client Group](https://jobright.ai/jobs/info/68f94d4bcadb2e5a06a639e8?utm_campaign=1051&utm_source=git)** | Newport Beach, CA | On Site | Dec 27 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Application Sales Engineering Intern](https://jobright.ai/jobs/info/6948f8b17d506e3808f4318f?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 27 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Intern - Asset Development](https://jobright.ai/jobs/info/68fb8eb14129dd33cd132beb?utm_campaign=1051&utm_source=git)** | Hillsborough County, FL | On Site | Dec 27 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Summer 2026](https://jobright.ai/jobs/info/69337e72a0dde7020e2ee913?utm_campaign=1051&utm_source=git)** | Eagan, MN | On Site | Dec 27 |
 | **[GAF](http://www.gaf.com/)** | **[Sales Enablement Intern](https://jobright.ai/jobs/info/68f93f2b6de2db04dc3e7436?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | On Site | Dec 27 |
