@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/694a04ed7d506e3808f5241f?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Dec 27 |
 | ↳ | **[2026 Management and Sales Internship - San Antonio](https://jobright.ai/jobs/info/68c4ccd17279451d6a037c94?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Dec 27 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Fort Collins, CO](https://jobright.ai/jobs/info/6933029fa0dde7020e2e9e0c?utm_campaign=1051&utm_source=git)** | Fort Collins, CO | On Site | Dec 27 |
-| ↳ | **[Student Housing Operations Intern - Baltimore, MD](https://jobright.ai/jobs/info/6932ff9da0dde7020e2e9d09?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 27 |
+| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6950b8fece13cd105658a6a1?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Dec 27 |
+| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Baltimore, MD](https://jobright.ai/jobs/info/6932ff9da0dde7020e2e9d09?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 27 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Reno Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691624086f36db06ef053367?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Dec 27 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Murfreesboro, TN](https://jobright.ai/jobs/info/6932fa56764507023d1b16a9?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Dec 27 |
-| ↳ | **[Student Housing Operations Intern - Muncie, IN](https://jobright.ai/jobs/info/693302bbf131d96e4845f2b5?utm_campaign=1051&utm_source=git)** | Muncie, IN | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
