@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN STORE 349](https://jobright.ai/jobs/info/6950dbfea2668b7f5453be8b?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Dec 27 |
 | **[H15DEN](https://h15den.com)** | **[Business Development & Research Micro-Internship](https://jobright.ai/jobs/info/69509c48a2668b7f545389c1?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 27 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Associate Intern](https://jobright.ai/jobs/info/69509a4829655e4dd659cc94?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/69508bc7a2668b7f54537297?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 27 |
 | **[Garment Valet](https://www.garmentvalet.com)** | **[Business Development & Social Media Intern](https://jobright.ai/jobs/info/695065f3a2668b7f54535394?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 27 |
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/69505223a2668b7f54534c8d?utm_campaign=1051&utm_source=git)** | Indianola, IA | On Site | Dec 27 |
@@ -122,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[ChampionX](https://www.championx.com)** | **[Commercial Sales Intern](https://jobright.ai/jobs/info/69364cdca0dde7020e2fac0f?utm_campaign=1051&utm_source=git)** | Midland, TX | On Site | Dec 27 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Sales and Service](https://jobright.ai/jobs/info/69168ebe9c388539cbdfca9d?utm_campaign=1051&utm_source=git)** | Harrison, NJ | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Subscription and Annuity Representative Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69335a00f131d96e484625cb?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 27 |
+| ↳ | **[Brand Technical Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/693d1dfaaa598a08c3eddce6?utm_campaign=1051&utm_source=git)** | Research Park, CA | On Site | Dec 27 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Intern, Commercial Financial Services](https://jobright.ai/jobs/info/691840e315b4156367180813?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 27 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Corporate Partnerships](https://jobright.ai/jobs/info/69169012286ccf0a15137744?utm_campaign=1051&utm_source=git)** | Harrison, NJ | On Site | Dec 27 |
 | **[Greystone](https://www.greystone.com)** | **[Summer 2026: Agency Lending Internship](https://jobright.ai/jobs/info/69164006286ccf0a15133c57?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6950b8fece13cd105658a6a1?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Dec 27 |
 | **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Baltimore, MD](https://jobright.ai/jobs/info/6932ff9da0dde7020e2e9d09?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 27 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Reno Commercial Real Estate Investment Sales Intern - Summer 2026](https://jobright.ai/jobs/info/691624086f36db06ef053367?utm_campaign=1051&utm_source=git)** | Reno, NV | On Site | Dec 27 |
-| **[Trinity Property Consultants](https://www.trinity-pm.com)** | **[Student Housing Operations Intern - Murfreesboro, TN](https://jobright.ai/jobs/info/6932fa56764507023d1b16a9?utm_campaign=1051&utm_source=git)** | Murfreesboro, TN | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
