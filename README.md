@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ultimate Team Products](https://utproducts.com)** | **[UTP Sports Business Internship](https://jobright.ai/jobs/info/69508bc7a2668b7f54537297?utm_campaign=1051&utm_source=git)** | Panama City Beach, FL | On Site | Dec 27 |
 | **[Garment Valet](https://www.garmentvalet.com)** | **[Business Development & Social Media Intern](https://jobright.ai/jobs/info/695065f3a2668b7f54535394?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 27 |
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/69505223a2668b7f54534c8d?utm_campaign=1051&utm_source=git)** | Indianola, IA | On Site | Dec 27 |
 | **[PROJXON](www.projxon.com)** | **[Business Development Specialist Intern](https://jobright.ai/jobs/info/69504caf29655e4dd65992c3?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Remote | Dec 27 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Brand Sales Specialist Intern – Entry Level Sales Program 2026](https://jobright.ai/jobs/info/69335913f131d96e484624e6?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Phoenix](https://jobright.ai/jobs/info/68c1efd163b706703e110630?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Vehicle Acquisition Internship - Summer 2026](https://jobright.ai/jobs/info/6933a6d5764507023d1b7af2?utm_campaign=1051&utm_source=git)** | St Louis, MO | Hybrid | Dec 27 |
-| **[Regional Finance (Regional Management Corp.)](https://www.regionalfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/693367a3a0dde7020e2ed8b7?utm_campaign=1051&utm_source=git)** | Leesburg, VA | On Site | Dec 27 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Denver](https://jobright.ai/jobs/info/68c1f07033864f172f9bbcb5?utm_campaign=1051&utm_source=git)** | Denver, CO | On Site | Dec 27 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Sales Intern (Texas) - Summer '26](https://jobright.ai/jobs/info/68c23d9433864f172f9be2c7?utm_campaign=1051&utm_source=git)** | Texas, United States | On Site | Dec 27 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Long Island](https://jobright.ai/jobs/info/68c1efde63b706703e110642?utm_campaign=1051&utm_source=git)** | Melville, NY | On Site | Dec 27 |
