@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kirin](kirin.com)** | **[MBA Search Fund Intern](https://jobright.ai/jobs/info/6951e76fce13cd1056596d99?utm_campaign=1051&utm_source=git)** | Provo, UT | Remote | Dec 28 |
+| ↳ | **[MBA Search Fund Intern](https://jobright.ai/jobs/info/6951e726a2668b7f54547675?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Dec 28 |
+| ↳ | **[MBA Search Fund Intern](https://jobright.ai/jobs/info/6951e71329655e4dd65ab91c?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Dec 28 |
+| ↳ | **[MBA Search Fund Intern](https://jobright.ai/jobs/info/6951e3bda2668b7f54547508?utm_campaign=1051&utm_source=git)** | New York, NY | Remote | Dec 28 |
 | **[QuantiPackAI](https://quantipack.ai)** | **[Business Development & Customer Acquisition Intern (Unpaid, Remote)](https://jobright.ai/jobs/info/6951d77fa2668b7f545470e6?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Heartland Co-op](http://heartlandcoop.com)** | **[Sales Intern - Feed](https://jobright.ai/jobs/info/6951d2f0ce13cd105659640b?utm_campaign=1051&utm_source=git)** | Region 8 - Prairie City-040 - Prairie City, IA 50228 | On Site | Dec 28 |
 | **[Dynamic Gurus](dynamicmarketinggurus.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6951b266a2668b7f54545021?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Dec 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales & Management Intern](https://jobright.ai/jobs/info/69497caa7d506e3808f4999f?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e237621852e62f007f741a?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Dec 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ca71852e62f007e9271?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Dec 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc38f758fe1f97e56224?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Dec 28 |
-| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68daf1c30dffed6f83d2b082?utm_campaign=1051&utm_source=git)** | Maple Grove, MN | On Site | Dec 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693bc56b4911ef04095ef0b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 28 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6949455563141d188458e57a?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
