@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henry Schein](http://www.henryschein.com)** | **[Medical Field Sales Summer Intern - Charlotte, NC](https://jobright.ai/jobs/info/6952a1605bb7de448ef5b336?utm_campaign=1051&utm_source=git)** | North Carolina, United States - Remote | Remote | Dec 29 |
+| **[Techfy](https://www.techfy.io/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69529e55f1f8465b79e9e9c0?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Remote | Dec 29 |
+| **[StartHub](http://starthub.academy/)** | **[Startup Partnerships/Acquisitions Intern](https://jobright.ai/jobs/info/695294b0f1f8465b79e9e6d6?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 29 |
+| **[Blackmont Consulting](https://www.blackmontconsulting.com/)** | **[Business Development Intern (Students only )](https://jobright.ai/jobs/info/695294895bb7de448ef5af63?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 29 |
+| **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68dc6a7eddc10244dd6752de?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | On Site | Dec 29 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Account Manager Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952862c5bb7de448ef5ab1f?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 29 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring Internship 2026 - Planning & Allocation](https://jobright.ai/jobs/info/693695daa0dde7020e2fc784?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Commercial Banking Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69528014f1f8465b79e9d9d8?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Dec 29 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Business Development Research Internship / Spring 2026](https://jobright.ai/jobs/info/6935e952764507023d1c14cc?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Sales Internship - Bellevue](https://jobright.ai/jobs/info/6933e1e1f131d96e48468006?utm_campaign=1051&utm_source=git)** | Bellevue, WA | On Site | Dec 28 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Winterhaven, FL](https://jobright.ai/jobs/info/691d3a827481340785ed50da?utm_campaign=1051&utm_source=git)** | Winter Haven, FL | On Site | Dec 28 |
 | **[Cargill](https://www.cargill.com/home)** | **[Grain Origination Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68c2e4d863829b0a8a4fdbd3?utm_campaign=1051&utm_source=git)** | West Memphis, AR | Hybrid | Dec 28 |
-| **[FactSet](http://www.factset.com)** | **[Client Solutions Internship - Chicago, Summer 2026](https://jobright.ai/jobs/info/68df1a616be63b6ec996bc2d?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 28 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Pittsburgh](https://jobright.ai/jobs/info/68c1ee1a33864f172f9bba55?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Providence](https://jobright.ai/jobs/info/68c1f02c33864f172f9bbc6d?utm_campaign=1051&utm_source=git)** | Providence, RI | Hybrid | Dec 28 |
-| **[Intuit](https://www.intuit.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69176d49370fde633d07fe0c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68df2d0b6be63b6ec996cd76?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Dec 28 |
-| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
