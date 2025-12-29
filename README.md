@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QuantiPackAI](https://quantipack.ai)** | **[Business Development & Customer Acquisition Intern (Unpaid, Remote)](https://jobright.ai/jobs/info/6951d77fa2668b7f545470e6?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 28 |
+| **[Heartland Co-op](http://heartlandcoop.com)** | **[Sales Intern - Feed](https://jobright.ai/jobs/info/6951d2f0ce13cd105659640b?utm_campaign=1051&utm_source=git)** | Region 8 - Prairie City-040 - Prairie City, IA 50228 | On Site | Dec 28 |
 | **[Dynamic Gurus](dynamicmarketinggurus.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6951b266a2668b7f54545021?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Dec 28 |
 | **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6951b10fce13cd1056594765?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Dec 28 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/69519b3d29655e4dd65a8f5b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 28 |
@@ -79,8 +81,7 @@ For a complete list, click the following sortable link below:
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Sales Intern - Cincinnati Summer 2026](https://jobright.ai/jobs/info/68c3317b5001f8077bf61f28?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 28 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Rochester](https://jobright.ai/jobs/info/68c1f00c63b706703e110680?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 28 |
-| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd964044d32141e0bf8989?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 28 |
-| **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 28 |
+| ↳ | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Atlanta](https://jobright.ai/jobs/info/68c1eed14d652f044775bd6d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68c1edf963b706703e110423?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Stamford](https://jobright.ai/jobs/info/68c1ece04d652f044775bbb0?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Dec 28 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Pittsburgh](https://jobright.ai/jobs/info/68c1ee1a33864f172f9bba55?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Providence](https://jobright.ai/jobs/info/68c1f02c33864f172f9bbc6d?utm_campaign=1051&utm_source=git)** | Providence, RI | Hybrid | Dec 28 |
 | **[Intuit](https://www.intuit.com)** | **[Sales Development Intern](https://jobright.ai/jobs/info/69176d49370fde633d07fe0c?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
+| **[Insight](https://www.insight.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68dd9750a125e75c422acefd?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68df2d0b6be63b6ec996cd76?utm_campaign=1051&utm_source=git)** | Panama City, FL | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8bde44d32141e0bf7eda?utm_campaign=1051&utm_source=git)** | Jackson, MS | On Site | Dec 28 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Capacity Portfolio Representative - Summer 2026](https://jobright.ai/jobs/info/6913432ce344172248f703fe?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
@@ -107,11 +109,11 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Sales Internship - Tacoma](https://jobright.ai/jobs/info/69344703764507023d1bc91b?utm_campaign=1051&utm_source=git)** | Tacoma, WA | On Site | Dec 28 |
 | **[Cargill](https://www.cargill.com/home)** | **[Commodity Trading Internship Summer 2026 - Multiple U.S. Locations](https://jobright.ai/jobs/info/68d7664f7a37c712687cbbf4?utm_campaign=1051&utm_source=git)** | Olathe, KS | Hybrid | Dec 28 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Pharmaceutical Sales Intern - New Orleans, LA](https://jobright.ai/jobs/info/68e8a24cc72beb74cb320c1b?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Pasco](https://jobright.ai/jobs/info/6933e8fe764507023d1baa39?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Dec 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68b501ad1ade4306aa63ef01?utm_campaign=1051&utm_source=git)** | Fayetteville, GA | On Site | Dec 28 |
+| ↳ | **[Summer 2026 Truck Rental Sales Account Specialist Internship - Pasco](https://jobright.ai/jobs/info/6933e8fe764507023d1baa39?utm_campaign=1051&utm_source=git)** | Kennewick, WA | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Seattle International Airport](https://jobright.ai/jobs/info/6933dd8e764507023d1ba3df?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Sales Intern - Charlotte North](https://jobright.ai/jobs/info/693cecbbaa598a08c3edacd3?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern- Spring](https://jobright.ai/jobs/info/68b51fbc1ade4306aa64042f?utm_campaign=1051&utm_source=git)** | Fayetteville, GA | On Site | Dec 28 |
-| ↳ | **[Summer 2026 Management Trainee Sales Internship - Olympia](https://jobright.ai/jobs/info/693402c4764507023d1bb57e?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Dec 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Olympia](https://jobright.ai/jobs/info/693402c4764507023d1bb57e?utm_campaign=1051&utm_source=git)** | Lacey, WA | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Management Trainee Sales Internship - Bremerton](https://jobright.ai/jobs/info/68ddda7b44d32141e0bfb3c5?utm_campaign=1051&utm_source=git)** | Port Orchard, WA | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a5f5f131d96e48465769?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Dec 28 |
 | ↳ | **[Spring 2026 Management Trainee Sales Internship - Downtown Seattle](https://jobright.ai/jobs/info/6933ccd7f131d96e484675e0?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68daf1c30dffed6f83d2b082?utm_campaign=1051&utm_source=git)** | Maple Grove, MN | On Site | Dec 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693bc56b4911ef04095ef0b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 28 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6949455563141d188458e57a?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Dec 28 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Client Management Intern](https://jobright.ai/jobs/info/6932733d764507023d1aeb19?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Dec 28 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6943a33650bbaf765055a239?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
