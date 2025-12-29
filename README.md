@@ -57,16 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hi Tech Packaging, Inc.](https://www.hitechpackaging.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6952d8e95bb7de448ef5ea6e?utm_campaign=1051&utm_source=git)** | Stratford, CT | On Site | Dec 29 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Direct Investing Business Management Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952d8cc5bb7de448ef5ea49?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[Vision Technologies](https://www.visiontechnologies.com/)** | **[Channel Development Internship](https://jobright.ai/jobs/info/6952d8bd5bb7de448ef5ea3b?utm_campaign=1051&utm_source=git)** | US-MD-Glen Burnie | Hybrid | Dec 29 |
+| **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6952d8a6f1f8465b79ea21d7?utm_campaign=1051&utm_source=git)** | Beaverton, OR | On Site | Dec 29 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Direct Investing Journey Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952d429f1f8465b79ea1cd0?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[Vision Technologies](https://www.visiontechnologies.com/)** | **[Channel Development Internship](https://jobright.ai/jobs/info/6952d00af1f8465b79ea19ad?utm_campaign=1051&utm_source=git)** | Glen Burnie, MD | Hybrid | Dec 29 |
+| **[TD](https://www.td.com)** | **[Direct Investing National Sales & Client Education Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952cc975bb7de448ef5e06f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Sales Intern - Summer 2026](https://jobright.ai/jobs/info/6945b8bb63141d18845547d8?utm_campaign=1051&utm_source=git)** | Mooresville, NC | On Site | Dec 29 |
+| **[TD](https://www.td.com)** | **[Direct Investing Journey Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952c296935649778e208910?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Sales Intern](https://jobright.ai/jobs/info/6952dabe5bb7de448ef5eca0?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Dec 29 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Student Sales Development Program](https://jobright.ai/jobs/info/6952b8bbf1f8465b79ea0e04?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Dec 29 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Community Banker Internship](https://jobright.ai/jobs/info/6952b5875bb7de448ef5d318?utm_campaign=1051&utm_source=git)** | Russellville, AR | On Site | Dec 29 |
 | ↳ | **[Community Banker Internship](https://jobright.ai/jobs/info/6952b506f1f8465b79ea0852?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Direct Investing National Sales & Client Education Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952b377935649778e207af2?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | ↳ | **[Direct Investing Business Management Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952b34d935649778e207abd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[DUBnSUB: Dubbing Studio, Voice-Over, Audio Description & Subtitling Services Agency](http://dubnsub.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6952b2e7f1f8465b79ea038e?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 29 |
-| **[TD](https://www.td.com)** | **[Direct Investing Journey Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952a52d5bb7de448ef5b43a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
+| **[TD](https://www.td.com)** | **[Direct Investing Business Management Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952ce89f1f8465b79ea1860?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| ↳ | **[Direct Investing Journey Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952a52d5bb7de448ef5b43a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Medical Field Sales Summer Intern - Charlotte, NC](https://jobright.ai/jobs/info/6952a1605bb7de448ef5b336?utm_campaign=1051&utm_source=git)** | North Carolina, United States - Remote | Remote | Dec 29 |
-| **[Techfy](https://www.techfy.io/)** | **[Business Development Intern](https://jobright.ai/jobs/info/69529e55f1f8465b79e9e9c0?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | Remote | Dec 29 |
-| **[StartHub](http://starthub.academy/)** | **[Startup Partnerships/Acquisitions Intern](https://jobright.ai/jobs/info/695294b0f1f8465b79e9e6d6?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 29 |
 | **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68dc6a7eddc10244dd6752de?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Account Manager Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952862c5bb7de448ef5ab1f?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 29 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring Internship 2026 - Planning & Allocation](https://jobright.ai/jobs/info/693695daa0dde7020e2fc784?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 29 |
@@ -78,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Guaranty Bank](https://www.gbankmo.com/)** | **[Retail Intern - Summer 2026](https://jobright.ai/jobs/info/68fc0a5793c49825ab109106?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Dec 29 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2023 Summer Intern - Sales](https://jobright.ai/jobs/info/67c7908b684906ab34c54a32?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Dec 29 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Sales/Operations Internship - Raleigh, NC](https://jobright.ai/jobs/info/68a9204f758f2e4ac3ff77c5?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
+| **[Patterson-Kelley](http://harscopk.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6952c23bf1f8465b79ea1290?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Dec 29 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Store Operations - Summer 2026](https://jobright.ai/jobs/info/68fccbc1e04ac838fb5acc21?utm_campaign=1051&utm_source=git)** | Mattoon, IL | On Site | Dec 29 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Sales Intern - Future Opportunity](https://jobright.ai/jobs/info/690f08d944146d3b6ec597b7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | **[Johns Manville](http://www.jm.com/)** | **[Sales Internship- Roofing Systems](https://jobright.ai/jobs/info/694a246063141d188459d4cc?utm_campaign=1051&utm_source=git)** | Mountain Home, TX | Hybrid | Dec 29 |
@@ -96,10 +106,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Sales Intern](https://jobright.ai/jobs/info/6918811045fb6f5ead8a5a56?utm_campaign=1051&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Dec 29 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Dec 29 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c417c214bb275ce0190e90?utm_campaign=1051&utm_source=git)** | Miles City, MT | On Site | Dec 29 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c417d114bb275ce0190e9d?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Dec 29 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c41ab0e471ef3ce16d3ac2?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Dec 29 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68c47c23e471ef3ce16d6ac2?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Dec 29 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41d0be396b25cb5c6592c?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Dec 29 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Metro New York)](https://jobright.ai/jobs/info/68c6754e7d0db4114273aa07?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 29 |
+| ↳ | **[2026 Management and Sales Internship (Metro New York)](https://jobright.ai/jobs/info/68c6754e7d0db4114273aa07?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | ↳ | **[Management and Sales Summer 2026 Internship (Oklahoma City District)](https://jobright.ai/jobs/info/6942fb36dd382f5f5668f21c?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Dec 29 |
 | ↳ | **[2026 Management & Sales Intern - East Texas](https://jobright.ai/jobs/info/68f4843d76a51a4307bd1f82?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Dec 29 |
 | ↳ | **[2026 Management and Sales Intern - Valley District](https://jobright.ai/jobs/info/68cf1d2a846f0b04af67f634?utm_campaign=1051&utm_source=git)** | Mission, TX | On Site | Dec 29 |
@@ -114,7 +124,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Real Estate Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695243a35bb7de448ef56c82?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Group Support Associate Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695243415bb7de448ef56b3a?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 29 |
 | ↳ | **[Account Manager Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69524299935649778e200e6c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 29 |
-| ↳ | **[2026 Summer Internship Program - Consumer Banking](https://jobright.ai/jobs/info/69524276f1f8465b79e9972d?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 29 |
 | ↳ | **[Affinity Market Group Sales Enablement Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/69524248f1f8465b79e9970f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Group Support Associate Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695231cb239491102de0f089?utm_campaign=1051&utm_source=git)** | Calgary, Alberta | On Site | Dec 28 |
 | ↳ | **[Account Manager Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69523192f1f8465b79e993a0?utm_campaign=1051&utm_source=git)** | Calgary, Alberta | On Site | Dec 28 |
@@ -135,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/695198caa2668b7f545431e8?utm_campaign=1051&utm_source=git)** | Hamlin, IA | On Site | Dec 28 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69519273a2668b7f54543116?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Dec 28 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69519267a2668b7f54543111?utm_campaign=1051&utm_source=git)** | KC Metro Area | On Site | Dec 28 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Trading Associate](https://jobright.ai/jobs/info/69518c4729655e4dd65a74ec?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 28 |
 | **[DiaMedical USA](https://www.diamedicalusa.com)** | **[Paid Sales Intern](https://jobright.ai/jobs/info/69518ad3a2668b7f545430a1?utm_campaign=1051&utm_source=git)** | Farmington Hills, MI 48334 | On Site | Dec 28 |
 | **[Finley Living](www.finleyliving.co)** | **[Private Equity Sales Intern](https://jobright.ai/jobs/info/69518562a2668b7f54542e50?utm_campaign=1051&utm_source=git)** | Florida, United States | Remote | Dec 28 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6951500fa2668b7f54540bb8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Sales Intern - Cincinnati Summer 2026](https://jobright.ai/jobs/info/68c3317b5001f8077bf61f28?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Dec 28 |
 | **[Paycom](http://www.paycom.com)** | **[Summer Jr. Executive Sales Intern - Rochester](https://jobright.ai/jobs/info/68c1f00c63b706703e110680?utm_campaign=1051&utm_source=git)** | Rochester, NY | On Site | Dec 28 |
 | ↳ | **[Summer Jr. Executive Sales Intern - Kansas City](https://jobright.ai/jobs/info/68c1ef5363b706703e110576?utm_campaign=1051&utm_source=git)** | Kansas City, MO | On Site | Dec 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Las Vegas](https://jobright.ai/jobs/info/68c1efe763b706703e11064a?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | On Site | Dec 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Atlanta](https://jobright.ai/jobs/info/68c1eed14d652f044775bd6d?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Seattle](https://jobright.ai/jobs/info/68c1edf963b706703e110423?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
-| ↳ | **[Summer Jr. Executive Sales Intern - Stamford](https://jobright.ai/jobs/info/68c1ece04d652f044775bbb0?utm_campaign=1051&utm_source=git)** | Stamford, CT | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Sales Internship - Auburn](https://jobright.ai/jobs/info/68ddda2bd624072d9ab04dd1?utm_campaign=1051&utm_source=git)** | Auburn, WA | On Site | Dec 28 |
-| ↳ | **[Spring 2026 Management Trainee Sales Internship - Anchorage](https://jobright.ai/jobs/info/68ddd9c1a125e75c422af518?utm_campaign=1051&utm_source=git)** | Anchorage, AK | On Site | Dec 28 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Intern](https://jobright.ai/jobs/info/6917d3c2bcdbf3560c9cbbce?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68dd8acca125e75c422abdfd?utm_campaign=1051&utm_source=git)** | Rainbow City, AL | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
