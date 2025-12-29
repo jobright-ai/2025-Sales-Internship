@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dynamic Gurus](dynamicmarketinggurus.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6951b266a2668b7f54545021?utm_campaign=1051&utm_source=git)** | Greater Houston | On Site | Dec 28 |
+| **[Nonsense Solutions](nonsense-solutions.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6951b10fce13cd1056594765?utm_campaign=1051&utm_source=git)** | Greater Orlando | On Site | Dec 28 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/69519b3d29655e4dd65a8f5b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 28 |
 | **[AGRILAND FS](https://agrilandfs.com)** | **[Sales Internship Agronomy](https://jobright.ai/jobs/info/695198caa2668b7f545431e8?utm_campaign=1051&utm_source=git)** | Hamlin, IA | On Site | Dec 28 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69519273a2668b7f54543116?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Dec 28 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e237621852e62f007f741a?utm_campaign=1051&utm_source=git)** | Colorado Springs, CO | On Site | Dec 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e03ca71852e62f007e9271?utm_campaign=1051&utm_source=git)** | Novi, MI | On Site | Dec 28 |
 | ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68e1dc38f758fe1f97e56224?utm_campaign=1051&utm_source=git)** | Loveland, CO | On Site | Dec 28 |
+| ↳ | **[Sales and Management Intern](https://jobright.ai/jobs/info/68daf1c30dffed6f83d2b082?utm_campaign=1051&utm_source=git)** | Maple Grove, MN | On Site | Dec 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Partner Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693bc56b4911ef04095ef0b4?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 28 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6949455563141d188458e57a?utm_campaign=1051&utm_source=git)** | Lafayette, LA | On Site | Dec 28 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Client Management Intern](https://jobright.ai/jobs/info/6932733d764507023d1aeb19?utm_campaign=1051&utm_source=git)** | Raleigh, NC | Hybrid | Dec 28 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/6943a33650bbaf765055a239?utm_campaign=1051&utm_source=git)** | The Woodlands, TX | On Site | Dec 28 |
-| ↳ | **[Sales and Management Intern (Elmwood Shopping Center)](https://jobright.ai/jobs/info/68de903444d32141e0c00baf?utm_campaign=1051&utm_source=git)** | New Orleans, LA | On Site | Dec 28 |
-| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern - MV](https://jobright.ai/jobs/info/6917f03145fb6f5ead8a00ac?utm_campaign=1051&utm_source=git)** | Mountain View, CA | On Site | Dec 28 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Corporate Opportunities: Operations (Multiple Locations: CA, NY, TN)](https://jobright.ai/jobs/info/6945aa6663141d18845537cb?utm_campaign=1051&utm_source=git)** | Santa Monica, CA | Hybrid | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
