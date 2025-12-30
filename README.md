@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saproh Private Limited](www.saproh.com)** | **[Internship - Sales Executive](https://jobright.ai/jobs/info/695428f9f1f8465b79eb4cc0?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
+| **[Globe Life American Income Division: Surace Smith & Partners](https://globelifessps.com/)** | **[Virtual Sales (Full time or Internship) Position](https://jobright.ai/jobs/info/6876b823ae2f413e4a5b2d1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
+| **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Loan Servicing Internship - Greensboro, NC](https://jobright.ai/jobs/info/6945f4f17d506e3808f1322a?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Dec 30 |
+| ↳ | **[Business Development Internship](https://jobright.ai/jobs/info/6945fa877d506e3808f13e37?utm_campaign=1051&utm_source=git)** | Maryville, TN | On Site | Dec 30 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer Truck Rental Account Specialist Internship - Fall River, MA](https://jobright.ai/jobs/info/695423bef1f8465b79eb48df?utm_campaign=1051&utm_source=git)** | Fall River/Dartmouth/New Bedford/North Attleboro/Taunton | On Site | Dec 30 |
+| **[CAPTRUST](https://www.captrust.com)** | **[Summer Wealth Management Intern - Boston, MA](https://jobright.ai/jobs/info/6954193ff1f8465b79eb449a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 30 |
+| **[The Higher Ed Plug](www.thehigheredplug.com)** | **[Booking Agent  / Commission Sales / Social Media Intern](https://jobright.ai/jobs/info/69540ec35bb7de448ef70a3f?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Store Operations Internship Central Region](https://jobright.ai/jobs/info/69540d055bb7de448ef709ad?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 30 |
 | **[Pennrose](https://www.pennrose.com/)** | **[Development Internship (Graduate)](https://jobright.ai/jobs/info/69540b00f1f8465b79eb3ffb?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
 | **[Southwestern Family of Companies](http://southwestern.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69540ae65bb7de448ef7091a?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 30 |
@@ -66,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6954014df1f8465b79eb22d4?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 30 |
 | **[Cedar Rapids Bank & Trust](https://crbt.com)** | **[Retail Intern - Summer 2026](https://jobright.ai/jobs/info/693de8a050bbaf765050c6b1?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 30 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Talent Pool / International Ops Internship - Erasmus+](https://jobright.ai/jobs/info/6953f8855bb7de448ef6e8ff?utm_campaign=1051&utm_source=git)** | Malaga, WA | On Site | Dec 30 |
+| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Trading Associate Intern](https://jobright.ai/jobs/info/695412bbaa05c26e7aae91c3?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[Aspen Fiber Networks](https://aspenfibernetworks.com/)** | **[Sales Development Intern (PART TIME)](https://jobright.ai/jobs/info/69540bf3f1f8465b79eb405c?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 30 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Supplier Ops & Sales Support Intern](https://jobright.ai/jobs/info/6953e72d5bb7de448ef6e507?utm_campaign=1051&utm_source=git)** | Cottage Grove, MN | On Site | Dec 30 |
 | ↳ | **[Supplier Ops & Sale Support Intern](https://jobright.ai/jobs/info/6953e3a1f1f8465b79eb1b72?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Dec 30 |
@@ -89,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e38d8c1852e62f007fcb21?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 30 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[2026 Internship - Underwriting Business Development](https://jobright.ai/jobs/info/691adb9615b415636718b514?utm_campaign=1051&utm_source=git)** | Lansing, MI | On Site | Dec 30 |
 | **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6953d029f1f8465b79eb1137?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Dec 30 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Sales Support Intern , Summer 2026 - Fremont, CA](https://jobright.ai/jobs/info/695348e3f1f8465b79ea9376?utm_campaign=1051&utm_source=git)** | Fremont, CA | Hybrid | Dec 30 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37fef1852e62f007fc447?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Dec 30 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Enterprise Leads - Summer Internship 2026](https://jobright.ai/jobs/info/6933b4b1764507023d1b87d7?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Dec 30 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37f0b1852e62f007fc3a6?utm_campaign=1051&utm_source=git)** | Riverview, FL | On Site | Dec 30 |
@@ -139,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[North American Customer Operations (NACO) Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695378fef1f8465b79eac4f8?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
 | ↳ | **[Financial Planning Delivery Excellence Intern / Co-Op (WINTER 2026) Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695378aaf1f8465b79eac4b4?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[TD Asset Management National Sales Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69537832f1f8465b79eac446?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Internship - Retail Analyst](https://jobright.ai/jobs/info/69540f1bf1f8465b79eb40b0?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[CSharpCorner](http://www.c-sharpcorner.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/695350daf1f8465b79ea98e8?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 29 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6953503ef1f8465b79ea98c2?utm_campaign=1051&utm_source=git)** | Strathmore, Alberta, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[North American Customer Operations (NACO) Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695344c0f1f8465b79ea90d0?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Community Banker Internship](https://jobright.ai/jobs/info/695338b9935649778e20fe28?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Dec 29 |
 | ↳ | **[Community Banker Internship](https://jobright.ai/jobs/info/6953331df1f8465b79ea83c5?utm_campaign=1051&utm_source=git)** | Russellville, AR | On Site | Dec 29 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Supplier Ops & Sales Support Intern](https://jobright.ai/jobs/info/69532e89f1f8465b79ea8088?utm_campaign=1051&utm_source=git)** | Cottage Grove,MN,US | On Site | Dec 29 |
-| ↳ | **[Industrial Sales/Account Manager Intern](https://jobright.ai/jobs/info/69532b8bf1f8465b79ea7dd0?utm_campaign=1051&utm_source=git)** | Cedar Rapids,IA,US | On Site | Dec 29 |
-| **[Henry Schein](http://www.henryschein.com)** | **[Medical Field Sales Summer Intern - Charlotte, NC](https://jobright.ai/jobs/info/69532b585bb7de448ef645d7?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Dec 29 |
-| **[Cortif Technologies](https://cortif.ai/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69532586935649778e20ef08?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Dec 29 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6953236b5bb7de448ef64185?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 29 |
-| **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6908c0d54a1b456627af8d0c?utm_campaign=1051&utm_source=git)** | New York, US, New York | Hybrid | Dec 29 |
-| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Management Intern (Perry, OK - Summer 2026)](https://jobright.ai/jobs/info/694a0856c6f0e2546ceef647?utm_campaign=1051&utm_source=git)** | Perry, OK | On Site | Dec 29 |
-| **[Cortif Technologies](https://cortif.ai/)** | **[Product Sales Intern](https://jobright.ai/jobs/info/69531cd55bb7de448ef62597?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Dec 29 |
-| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Account Management Intern](https://jobright.ai/jobs/info/69531be0935649778e20d214?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
