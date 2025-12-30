@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern](https://jobright.ai/jobs/info/694a53df187e565c6bfa5772?utm_campaign=1051&utm_source=git)** | Belen, NM | On Site | Dec 29 |
+| **[Greystar](https://www.stoneridgemp.com)** | **[Construction Intern](https://jobright.ai/jobs/info/69537b485bb7de448ef68f4e?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 29 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[North American Customer Operations (NACO) Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695378fef1f8465b79eac4f8?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
+| ↳ | **[Financial Planning Delivery Excellence Intern / Co-Op (WINTER 2026) Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695378aaf1f8465b79eac4b4?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| ↳ | **[TD Asset Management National Sales Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69537832f1f8465b79eac446?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Internship - Retail Analyst](https://jobright.ai/jobs/info/69535fb3f1f8465b79eabc32?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[CSharpCorner](http://www.c-sharpcorner.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/695350daf1f8465b79ea98e8?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 29 |
 | **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6953503ef1f8465b79ea98c2?utm_campaign=1051&utm_source=git)** | Strathmore, Alberta, Canada | On Site | Dec 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c417d114bb275ce0190e9d?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Dec 29 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c41ab0e471ef3ce16d3ac2?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Dec 29 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68c47c23e471ef3ce16d6ac2?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Dec 29 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41d0be396b25cb5c6592c?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Dec 29 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Metro New York)](https://jobright.ai/jobs/info/68c6754e7d0db4114273aa07?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 29 |
-| ↳ | **[Management and Sales Summer 2026 Internship (Oklahoma City District)](https://jobright.ai/jobs/info/6942fb36dd382f5f5668f21c?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Dec 29 |
-| ↳ | **[2026 Management & Sales Intern - East Texas](https://jobright.ai/jobs/info/68f4843d76a51a4307bd1f82?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Dec 29 |
-| ↳ | **[2026 Management and Sales Intern - Valley District](https://jobright.ai/jobs/info/68cf1d2a846f0b04af67f634?utm_campaign=1051&utm_source=git)** | Mission, TX | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
