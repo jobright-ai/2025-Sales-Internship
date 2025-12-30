@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Internship - Retail Analyst](https://jobright.ai/jobs/info/69535fb3f1f8465b79eabc32?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[CSharpCorner](http://www.c-sharpcorner.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/695350daf1f8465b79ea98e8?utm_campaign=1051&utm_source=git)** | New York, United States | Remote | Dec 29 |
+| **[RBC](https://www.rbc.com)** | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6953503ef1f8465b79ea98c2?utm_campaign=1051&utm_source=git)** | Strathmore, Alberta, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[North American Customer Operations (NACO) Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695344c0f1f8465b79ea90d0?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Men's Wholesale Sales Intern](https://jobright.ai/jobs/info/69534407935649778e210615?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management National Sales Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69534080935649778e21046a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -88,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/6952f60d5bb7de448ef61823?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 29 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6952f5fe935649778e20c3ea?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Dec 29 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6952f36a5bb7de448ef60f73?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Dec 29 |
-| **[Waveroom](https://www.linkedin.com/company/90502788)** | **[Business Development Representative Internship](https://jobright.ai/jobs/info/6952f266f1f8465b79ea4691?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Remote | Dec 29 |
 | **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6952ed5f5bb7de448ef6082a?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Dec 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Engagement Advisory [Newtown Square, PA]](https://jobright.ai/jobs/info/6952ec70f1f8465b79ea40ff?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | On Site | Dec 29 |
 | ↳ | **[SAP iXp Intern - Customer Engagement Advisory [Newtown Square, PA]](https://jobright.ai/jobs/info/6952eb015bb7de448ef605d2?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 29 |
@@ -114,7 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Direct Investing Business Management Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952b34d935649778e207abd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[DUBnSUB: Dubbing Studio, Voice-Over, Audio Description & Subtitling Services Agency](http://dubnsub.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6952b2e7f1f8465b79ea038e?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 29 |
 | **[TD](https://www.td.com)** | **[Direct Investing Business Management Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952ce89f1f8465b79ea1860?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Direct Investing Journey Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952a52d5bb7de448ef5b43a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
+| **[Algeco GmbH](https://www.algeco.de)** | **[Werkstudent Sales Support / CRM (m/w/d) – bundesweit / remote](https://jobright.ai/jobs/info/69201b813f782d2f1afc2e9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 29 |
+| **[TD](https://www.td.com)** | **[Direct Investing Journey Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952a52d5bb7de448ef5b43a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Medical Field Sales Summer Intern - Charlotte, NC](https://jobright.ai/jobs/info/6952a1605bb7de448ef5b336?utm_campaign=1051&utm_source=git)** | North Carolina, United States - Remote | Remote | Dec 29 |
 | **[Oxford Global Resources](https://www.oxfordcorp.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68dc6a7eddc10244dd6752de?utm_campaign=1051&utm_source=git)** | Palm Beach Gardens, FL | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Account Manager Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952862c5bb7de448ef5ab1f?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 29 |
@@ -127,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Guaranty Bank](https://www.gbankmo.com/)** | **[Retail Intern - Summer 2026](https://jobright.ai/jobs/info/68fc0a5793c49825ab109106?utm_campaign=1051&utm_source=git)** | Springfield, MO | On Site | Dec 29 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2023 Summer Intern - Sales](https://jobright.ai/jobs/info/67c7908b684906ab34c54a32?utm_campaign=1051&utm_source=git)** | Walnut Creek, CA | On Site | Dec 29 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Sales/Operations Internship - Raleigh, NC](https://jobright.ai/jobs/info/68a9204f758f2e4ac3ff77c5?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
-| **[Patterson-Kelley](http://harscopk.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/6952c23bf1f8465b79ea1290?utm_campaign=1051&utm_source=git)** | Bennettsville, SC | On Site | Dec 29 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Store Operations - Summer 2026](https://jobright.ai/jobs/info/68fccbc1e04ac838fb5acc21?utm_campaign=1051&utm_source=git)** | Mattoon, IL | On Site | Dec 29 |
 | **[Lenox Advisors](http://lenoxadvisors.com)** | **[Sales Intern - Future Opportunity](https://jobright.ai/jobs/info/690f08d944146d3b6ec597b7?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 29 |
 | **[Johns Manville](http://www.jm.com/)** | **[Sales Internship- Roofing Systems](https://jobright.ai/jobs/info/694a246063141d188459d4cc?utm_campaign=1051&utm_source=git)** | Mountain Home, TX | Hybrid | Dec 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management and Sales Summer 2026 Internship (Oklahoma City District)](https://jobright.ai/jobs/info/6942fb36dd382f5f5668f21c?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | On Site | Dec 29 |
 | ↳ | **[2026 Management & Sales Intern - East Texas](https://jobright.ai/jobs/info/68f4843d76a51a4307bd1f82?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Dec 29 |
 | ↳ | **[2026 Management and Sales Intern - Valley District](https://jobright.ai/jobs/info/68cf1d2a846f0b04af67f634?utm_campaign=1051&utm_source=git)** | Mission, TX | On Site | Dec 29 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68ca511406a34016008c697f?utm_campaign=1051&utm_source=git)** | Dixon, NE | On Site | Dec 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68cecf37dbd9fb154ede2fa4?utm_campaign=1051&utm_source=git)** | Dickinson, ND | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
