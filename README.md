@@ -57,7 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e04b99ec3563b0e0b78?utm_campaign=1051&utm_source=git)** | Riverview, FL | On Site | Dec 30 |
+| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Supplier Ops & Sales Support Intern](https://jobright.ai/jobs/info/6953e72d5bb7de448ef6e507?utm_campaign=1051&utm_source=git)** | Cottage Grove, MN | On Site | Dec 30 |
+| ↳ | **[Supplier Ops & Sale Support Intern](https://jobright.ai/jobs/info/6953e3a1f1f8465b79eb1b72?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Dec 30 |
+| ↳ | **[Industrial Sales/Account Manager Intern](https://jobright.ai/jobs/info/6953e1a4f1f8465b79eb1a6a?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 30 |
+| ↳ | **[Supplier Ops & Sales Support Intern](https://jobright.ai/jobs/info/6953dfa8aa05c26e7aae6923?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 30 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37cb5f758fe1f97e5e966?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Dec 30 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382b8b99ec3563b0e0d6d?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Dec 30 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37efb1852e62f007fc39f?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Dec 30 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e931852e62f007fc353?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Dec 30 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37ddef758fe1f97e5ea3d?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Dec 30 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68ec9be0c26b9574506f4df2?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Dec 30 |
+| **[InComm Payments](https://www.incomm.com/)** | **[Account Management Intern](https://jobright.ai/jobs/info/69378294aabec14a727c8cf3?utm_campaign=1051&utm_source=git)** | Georgia, United States | On Site | Dec 30 |
+| **[SharpStakes](https://www.sharpstakes.ca)** | **[Sales & Business Development Intern](https://jobright.ai/jobs/info/6953d9405bb7de448ef6df6c?utm_campaign=1051&utm_source=git)** | Missouri, United States | On Site | Dec 30 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382f1f758fe1f97e5ee00?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Dec 30 |
+| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e04b99ec3563b0e0b78?utm_campaign=1051&utm_source=git)** | Riverview, FL | On Site | Dec 30 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d3bf758fe1f97e5e9db?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Dec 30 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c4ff758fe1f97e5e923?utm_campaign=1051&utm_source=git)** | Myrtle Beach, SC | On Site | Dec 30 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Sales Channel Intern](https://jobright.ai/jobs/info/69374bbf1c1c2161c13f27f6?utm_campaign=1051&utm_source=git)** | Plymouth, MN | On Site | Dec 30 |
@@ -71,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Enterprise Leads - Summer Internship 2026](https://jobright.ai/jobs/info/6933b4b1764507023d1b87d7?utm_campaign=1051&utm_source=git)** | McKinney, TX | On Site | Dec 30 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37f0b1852e62f007fc3a6?utm_campaign=1051&utm_source=git)** | Riverview, FL | On Site | Dec 30 |
 | **[Etched](https://www.etched.com)** | **[GTM Intern](https://jobright.ai/jobs/info/69379b661c1c2161c13f63e4?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
-| **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[E-Commerce Intern , Summer 2026 - Rock Hill, SC](https://jobright.ai/jobs/info/6953cba0aa05c26e7aae5df1?utm_campaign=1051&utm_source=git)** | Rock Hill, NY | Hybrid | Dec 30 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corrugated Business Associate (Sales) Marshfield, WI](https://jobright.ai/jobs/info/691d47ff0b7dff7341501de1?utm_campaign=1051&utm_source=git)** | Marshfield, WI | On Site | Dec 30 |
 | **[Henkel](http://www.henkel.com)** | **[E-commerce Management Intern, Hair Pros – Summer 2026](https://jobright.ai/jobs/info/693e508850bbaf7650510e29?utm_campaign=1051&utm_source=git)** | Culver City, CA | On Site | Dec 30 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/6933c015764507023d1b8e3f?utm_campaign=1051&utm_source=git)** | North Charleston, SC | On Site | Dec 30 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Planning Delivery Excellence Intern / Co-Op (WINTER 2026) Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695304d1935649778e20cacd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Sales and Management Intern](https://jobright.ai/jobs/info/69530335935649778e20ca13?utm_campaign=1051&utm_source=git)** | Tallahassee, FL | On Site | Dec 29 |
 | **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Leasing - Los Angeles](https://jobright.ai/jobs/info/6944d3b450bbaf765056e3b3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 29 |
-| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Partnerships & Fundraising Intern](https://jobright.ai/jobs/info/6952fe03f1f8465b79ea51f7?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[Financial Planning Delivery Excellence Intern / Co-Op (WINTER 2026) Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952fce95bb7de448ef61b3a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/6952f60d5bb7de448ef61823?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 29 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6952f5fe935649778e20c3ea?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Dec 29 |
-| ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6952f36a5bb7de448ef60f73?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Dec 29 |
-| **[Regional Finance](https://www.regionalfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6952ed5f5bb7de448ef6082a?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Dec 29 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Engagement Advisory [Newtown Square, PA]](https://jobright.ai/jobs/info/6952ec70f1f8465b79ea40ff?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | On Site | Dec 29 |
-| ↳ | **[SAP iXp Intern - Customer Engagement Advisory [Newtown Square, PA]](https://jobright.ai/jobs/info/6952eb015bb7de448ef605d2?utm_campaign=1051&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 29 |
-| **[EDF power solutions North America](http://www.edf-re.com)** | **[Business Development Intern [Remote]](https://jobright.ai/jobs/info/6952e494f1f8465b79ea2ec4?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 29 |
-| **[MoLo Solutions](https://shipmolo.com/)** | **[Intern, Carrier Sales](https://jobright.ai/jobs/info/6913a567d1047e3565d04c2a?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Dec 29 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Engagement Advisory [Newtown Square, PA]](https://jobright.ai/jobs/info/6952dbe25bb7de448ef5edbf?utm_campaign=1051&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Dec 29 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Direct Investing National Sales & Client Education Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952db28935649778e20993f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
