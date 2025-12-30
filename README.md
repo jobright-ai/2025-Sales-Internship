@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Supplier Ops & Sales Support Intern](https://jobright.ai/jobs/info/69532e89f1f8465b79ea8088?utm_campaign=1051&utm_source=git)** | Cottage Grove,MN,US | On Site | Dec 29 |
+| ↳ | **[Industrial Sales/Account Manager Intern](https://jobright.ai/jobs/info/69532b8bf1f8465b79ea7dd0?utm_campaign=1051&utm_source=git)** | Cedar Rapids,IA,US | On Site | Dec 29 |
+| **[Henry Schein](http://www.henryschein.com)** | **[Medical Field Sales Summer Intern - Charlotte, NC](https://jobright.ai/jobs/info/69532b585bb7de448ef645d7?utm_campaign=1051&utm_source=git)** | North Carolina, United States | On Site | Dec 29 |
+| **[Cortif Technologies](https://cortif.ai/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69532586935649778e20ef08?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Dec 29 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6953236b5bb7de448ef64185?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 29 |
+| **[Celonis](https://www.celonis.com)** | **[Business Development Representative Intern](https://jobright.ai/jobs/info/6908c0d54a1b456627af8d0c?utm_campaign=1051&utm_source=git)** | New York, US, New York | Hybrid | Dec 29 |
+| **[Cortif Technologies](https://cortif.ai/)** | **[Product Sales Intern](https://jobright.ai/jobs/info/69531cd55bb7de448ef62597?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Dec 29 |
+| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Account Management Intern](https://jobright.ai/jobs/info/69531be0935649778e20d214?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 29 |
+| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Intern - Golf Retail, Whistling Straits](https://jobright.ai/jobs/info/6953146e935649778e20cf4d?utm_campaign=1051&utm_source=git)** | Kohler, WI | On Site | Dec 29 |
 | **[Cogensus](https://www.cogensus.com)** | **[Sales Development Representative (SDR) Intern for Senior Living & Home Health](https://jobright.ai/jobs/info/69530ff6f1f8465b79ea58f8?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 29 |
 | **[TD](https://www.td.com)** | **[North American Customer Operations (NACO) Intern/Co-op  (SUMMER 2026)](https://jobright.ai/jobs/info/69530af9f1f8465b79ea5777?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | On Site | Dec 29 |
 | ↳ | **[TD Asset Management National Sales Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6953062e935649778e20cb3b?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
@@ -65,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Leasing - Los Angeles](https://jobright.ai/jobs/info/6944d3b450bbaf765056e3b3?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 29 |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[Partnerships & Fundraising Intern](https://jobright.ai/jobs/info/6952fe03f1f8465b79ea51f7?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Financial Planning Delivery Excellence Intern / Co-Op (WINTER 2026) Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952fce95bb7de448ef61b3a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
-| **[H15DEN](https://h15den.com)** | **[Business Development & Research (Micro-Internship)](https://jobright.ai/jobs/info/6952fbe95bb7de448ef61a91?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | Remote | Dec 29 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/6952f60d5bb7de448ef61823?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Dec 29 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6952f5fe935649778e20c3ea?utm_campaign=1051&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Dec 29 |
 | ↳ | **[Banking Advisor Intern](https://jobright.ai/jobs/info/6952f36a5bb7de448ef60f73?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Dec 29 |
@@ -89,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Student Sales Development Program](https://jobright.ai/jobs/info/6952b8bbf1f8465b79ea0e04?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | On Site | Dec 29 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Community Banker Internship](https://jobright.ai/jobs/info/6952b5875bb7de448ef5d318?utm_campaign=1051&utm_source=git)** | Russellville, AR | On Site | Dec 29 |
 | ↳ | **[Community Banker Internship](https://jobright.ai/jobs/info/6952b506f1f8465b79ea0852?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Dec 29 |
-| **[BMO](http://www.bmo.com)** | **[Personal Banking Associate, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69530cea5bb7de448ef6207d?utm_campaign=1051&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 29 |
-| ↳ | **[Personal Banking Associate, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69530cde5bb7de448ef6207b?utm_campaign=1051&utm_source=git)** | Vancouver, BC, CAN | On Site | Dec 29 |
+| **[BMO](http://www.bmo.com)** | **[Personal Banking Associate, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69530cde5bb7de448ef6207b?utm_campaign=1051&utm_source=git)** | Vancouver, BC, CAN | On Site | Dec 29 |
+| ↳ | **[Personal Banking Associate, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69530cea5bb7de448ef6207d?utm_campaign=1051&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Direct Investing National Sales & Client Education Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952b377935649778e207af2?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | ↳ | **[Direct Investing Business Management Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952b34d935649778e207abd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[DUBnSUB: Dubbing Studio, Voice-Over, Audio Description & Subtitling Services Agency](http://dubnsub.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6952b2e7f1f8465b79ea038e?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 29 |
@@ -127,6 +135,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Sales Intern](https://jobright.ai/jobs/info/6918811045fb6f5ead8a5a56?utm_campaign=1051&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Dec 29 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Dec 29 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c417c214bb275ce0190e90?utm_campaign=1051&utm_source=git)** | Miles City, MT | On Site | Dec 29 |
+| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c417d114bb275ce0190e9d?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Dec 29 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c41ab0e471ef3ce16d3ac2?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Dec 29 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68c47c23e471ef3ce16d6ac2?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Dec 29 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41d0be396b25cb5c6592c?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Dec 29 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Affinity Market Group Sales Enablement Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/69524248f1f8465b79e9970f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Group Support Associate Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695231cb239491102de0f089?utm_campaign=1051&utm_source=git)** | Calgary, Alberta | On Site | Dec 28 |
 | ↳ | **[Account Manager Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69523192f1f8465b79e993a0?utm_campaign=1051&utm_source=git)** | Calgary, Alberta | On Site | Dec 28 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Affinity Market Group Sales Enablement Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/695223ae29655e4dd65af2d4?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
-| ↳ | **[Enterprise Real Estate Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695222fda2668b7f5454b0dd?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
-| **[TD](https://www.td.com)** | **[Affinity Market Group Sales Enablement Intern/Co-op (SUMMER 2026) - Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis](https://jobright.ai/jobs/info/6952160129655e4dd65aeee5?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Business Account Intern](https://jobright.ai/jobs/info/69521422ce13cd105659a28b?utm_campaign=1051&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
-| ↳ | **[Account Management Analyst Intern](https://jobright.ai/jobs/info/695213fcce13cd105659a282?utm_campaign=1051&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
-| **[TD](https://www.td.com)** | **[Enterprise Real Estate Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69521380ce13cd105659a264?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
-| **[Kirin](kirin.com)** | **[MBA Search Fund Intern](https://jobright.ai/jobs/info/6951e76fce13cd1056596d99?utm_campaign=1051&utm_source=git)** | Provo, UT | Remote | Dec 28 |
-| ↳ | **[MBA Search Fund Intern](https://jobright.ai/jobs/info/6951e726a2668b7f54547675?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | Remote | Dec 28 |
-| ↳ | **[MBA Search Fund Intern](https://jobright.ai/jobs/info/6951e71329655e4dd65ab91c?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
