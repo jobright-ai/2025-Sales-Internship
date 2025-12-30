@@ -57,6 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abby Care](https://www.joinwellspring.com)** | **[Part-Time Business Development & Partnership Intern](https://jobright.ai/jobs/info/6936b9fca0dde7020e2fcf12?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 30 |
+| **[Transwestern](https://transwestern.com)** | **[Brokerage Summer Intern - San Francisco](https://jobright.ai/jobs/info/69373043a0dde7020e2ffbfb?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) - East St Louis, MO (Starting Summer 2026)](https://jobright.ai/jobs/info/6924deafc0cefa13343e2ff5?utm_campaign=1051&utm_source=git)** | Fairview Heights, IL | On Site | Dec 30 |
+| ↳ | **[Store Executive Intern (Store Leadership Intern) - El Paso, TX (Starting Summer 2026)](https://jobright.ai/jobs/info/68e96a0f0930fe0bc4625716?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Dec 30 |
+| **[Transwestern](https://transwestern.com)** | **[Brokerage Summer Intern - DC](https://jobright.ai/jobs/info/69372964aabec14a727c48ff?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Dec 30 |
+| ↳ | **[Brokerage Summer Intern - Austin](https://jobright.ai/jobs/info/69373464aabec14a727c5093?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 30 |
+| ↳ | **[Brokerage Summer Intern - Dallas](https://jobright.ai/jobs/info/693731eeaabec14a727c4ecf?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 30 |
+| ↳ | **[Brokerage Summer Intern - Phoenix](https://jobright.ai/jobs/info/69372167a0dde7020e2ff3c5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 30 |
+| ↳ | **[Brokerage Summer Intern - Chicago](https://jobright.ai/jobs/info/69372ee5aabec14a727c4cce?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
+| ↳ | **[Brokerage Summer Intern - Miami](https://jobright.ai/jobs/info/69372ff7a0dde7020e2ffbc4?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 30 |
+| ↳ | **[Brokerage Summer Intern - Atlanta](https://jobright.ai/jobs/info/69372a50aabec14a727c499f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
+| ↳ | **[Brokerage Summer Intern - Denver](https://jobright.ai/jobs/info/69372168a0dde7020e2ff3c6?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Dec 30 |
+| ↳ | **[Brokerage Summer Intern - Houston](https://jobright.ai/jobs/info/6937304da0dde7020e2ffc07?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 30 |
+| ↳ | **[Brokerage Summer Intern - Los Angeles](https://jobright.ai/jobs/info/6937482e1c1c2161c13f25df?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
+| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) – Albuquerque, New Mexico (Starting Summer 2026)](https://jobright.ai/jobs/info/68dffc311852e62f007e62a3?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Dec 30 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/6937926a1c1c2161c13f5e32?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 30 |
+| **[NiCE](http://nice.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/6936dffba0dde7020e2fd93d?utm_campaign=1051&utm_source=git)** | Sandy, UT | Hybrid | Dec 30 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Skillbridge Intern](https://jobright.ai/jobs/info/694a53df187e565c6bfa5772?utm_campaign=1051&utm_source=git)** | Belen, NM | On Site | Dec 29 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Construction Intern](https://jobright.ai/jobs/info/69537b485bb7de448ef68f4e?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[North American Customer Operations (NACO) Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695378fef1f8465b79eac4f8?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
@@ -70,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[TD Asset Management National Sales Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69534080935649778e21046a?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Fusion100](http://Fusion100co.com)** | **[Business Development & Sales Intern](https://jobright.ai/jobs/info/69533eaa935649778e21032d?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
 | **[Daxko](https://www.daxko.com/)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69533b01f1f8465b79ea8a85?utm_campaign=1051&utm_source=git)** | Birmingham, AL | Remote | Dec 29 |
-| **[MassMutual](https://www.massmutual.com/)** | **[Intern, Sales Desk-Disability, Internal & Sales Technology](https://jobright.ai/jobs/info/695339fcf1f8465b79ea89a1?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Dec 29 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Community Banker Internship](https://jobright.ai/jobs/info/695338b9935649778e20fe28?utm_campaign=1051&utm_source=git)** | Conway, AR | On Site | Dec 29 |
 | ↳ | **[Community Banker Internship](https://jobright.ai/jobs/info/6953331df1f8465b79ea83c5?utm_campaign=1051&utm_source=git)** | Russellville, AR | On Site | Dec 29 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Supplier Ops & Sales Support Intern](https://jobright.ai/jobs/info/69532e89f1f8465b79ea8088?utm_campaign=1051&utm_source=git)** | Cottage Grove,MN,US | On Site | Dec 29 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Purchasing Intern](https://jobright.ai/jobs/info/68cc196516d00d2beeb19c84?utm_campaign=1051&utm_source=git)** | Louisville, KY | On Site | Dec 29 |
 | ↳ | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68d00c6ffb49c96ca6eada73?utm_campaign=1051&utm_source=git)** | Sarasota, FL | On Site | Dec 29 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68e04d08f758fe1f97e4c254?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Dec 29 |
-| ↳ | **[2026 Management and Sales Internship (Northern Connecticut)](https://jobright.ai/jobs/info/68c47c3de396b25cb5c68892?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Dec 29 |
-| **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Investor Relations & Business Development](https://jobright.ai/jobs/info/6918cc5945fb6f5ead8a6c99?utm_campaign=1051&utm_source=git)** | Nashville, TN | Hybrid | Dec 29 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - Texarkana](https://jobright.ai/jobs/info/68c47a89e396b25cb5c686ee?utm_campaign=1051&utm_source=git)** | Bossier City, LA | On Site | Dec 29 |
-| ↳ | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68e04bc7b99ec3563b0ce5aa?utm_campaign=1051&utm_source=git)** | Knoxville, TN | On Site | Dec 29 |
-| **[PEAK6](https://www.peak6.com)** | **[Trading Internship for Women+](https://jobright.ai/jobs/info/6919a9afbcdbf3560c9d6e95?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c41886e396b25cb5c657c1?utm_campaign=1051&utm_source=git)** | Elgin, ND | On Site | Dec 29 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Intern - El Paso, TX](https://jobright.ai/jobs/info/68c47f5114bb275ce019416d?utm_campaign=1051&utm_source=git)** | El Paso, TX | On Site | Dec 29 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Agronomy Sales Intern](https://jobright.ai/jobs/info/68c41d8ae396b25cb5c65978?utm_campaign=1051&utm_source=git)** | Lynden, WA | On Site | Dec 29 |
-| ↳ | **[Energy Sales Intern](https://jobright.ai/jobs/info/68fbc3494129dd33cd1346f2?utm_campaign=1051&utm_source=git)** | Dorchester, NE | On Site | Dec 29 |
-| **[Trench Group](https://trench-group.com/)** | **[Factory Sales Intern (12 Month Contract)](https://jobright.ai/jobs/info/6919c9b145fb6f5ead8aa643?utm_campaign=1051&utm_source=git)** | Pickering, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Technical Sales Intern](https://jobright.ai/jobs/info/6918811045fb6f5ead8a5a56?utm_campaign=1051&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Dec 29 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Mid Kansas District)](https://jobright.ai/jobs/info/68e047e71852e62f007e9ae7?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Dec 29 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Sales Intern](https://jobright.ai/jobs/info/68c417c214bb275ce0190e90?utm_campaign=1051&utm_source=git)** | Miles City, MT | On Site | Dec 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c417d114bb275ce0190e9d?utm_campaign=1051&utm_source=git)** | Fort Benton, MT | On Site | Dec 29 |
-| ↳ | **[Sales Intern](https://jobright.ai/jobs/info/68c41ab0e471ef3ce16d3ac2?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Dec 29 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/68c47c23e471ef3ce16d6ac2?utm_campaign=1051&utm_source=git)** | Champaign, IL | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
