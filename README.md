@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6954a9af5bb7de448ef79d5c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 30 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Development Intern](https://jobright.ai/jobs/info/692e43bf4c474121999d7bd9?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Dec 30 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Premium Seating and Partnerships Intern / Full-Time / Mobile Arena](https://jobright.ai/jobs/info/69547e2b5bb7de448ef773e3?utm_campaign=1051&utm_source=git)** | US-AL-Mobile | On Site | Dec 30 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Development Specialist Intern](https://jobright.ai/jobs/info/692e5b07ef4b48533d13f22f?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Business Development Intern - Career Opportunity - Amazing Company](https://jobright.ai/jobs/info/695437885bb7de448ef7200d?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Dec 30 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/695436995bb7de448ef71f6b?utm_campaign=1051&utm_source=git)** | Canada | Remote | Dec 30 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/6954358bf1f8465b79eb55e9?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
+| **[China Telecom Americas](http://www.ctamericas.com/)** | **[Strategic Accounts Intern](https://jobright.ai/jobs/info/6954a8975bb7de448ef79bb3?utm_campaign=1051&utm_source=git)** | Virginia Headquarters, Herndon, VA, US | On Site | Dec 30 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer Financial Representative Internship - Greater Chicago](https://jobright.ai/jobs/info/69543108aa05c26e7aaea2cb?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Dec 30 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Sales Operations Analyst](https://jobright.ai/jobs/info/6954483f5bb7de448ef74350?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Dec 30 |
 | **[Saproh Private Limited](www.saproh.com)** | **[Internship - Sales Executive](https://jobright.ai/jobs/info/695428f9f1f8465b79eb4cc0?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6954014df1f8465b79eb22d4?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 30 |
 | **[Cedar Rapids Bank & Trust](https://crbt.com)** | **[Retail Intern - Summer 2026](https://jobright.ai/jobs/info/693de8a050bbaf765050c6b1?utm_campaign=1051&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 30 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Talent Pool / International Ops Internship - Erasmus+](https://jobright.ai/jobs/info/6953f8855bb7de448ef6e8ff?utm_campaign=1051&utm_source=git)** | Malaga, WA | On Site | Dec 30 |
-| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Trading Associate Intern](https://jobright.ai/jobs/info/695412bbaa05c26e7aae91c3?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[Aspen Fiber Networks](https://aspenfibernetworks.com/)** | **[Sales Development Intern (PART TIME)](https://jobright.ai/jobs/info/69540bf3f1f8465b79eb405c?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 30 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Supplier Ops & Sales Support Intern](https://jobright.ai/jobs/info/6953e72d5bb7de448ef6e507?utm_campaign=1051&utm_source=git)** | Cottage Grove, MN | On Site | Dec 30 |
 | ↳ | **[Supplier Ops & Sale Support Intern](https://jobright.ai/jobs/info/6953e3a1f1f8465b79eb1b72?utm_campaign=1051&utm_source=git)** | Davenport, IA | On Site | Dec 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brokerage Summer Intern - Miami](https://jobright.ai/jobs/info/69372ff7a0dde7020e2ffbc4?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 30 |
 | ↳ | **[Brokerage Summer Intern - Atlanta](https://jobright.ai/jobs/info/69372a50aabec14a727c499f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
 | ↳ | **[Brokerage Summer Intern - Denver](https://jobright.ai/jobs/info/69372168a0dde7020e2ff3c6?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Dec 30 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Inside Sales - Vancouver office](https://jobright.ai/jobs/info/693790bb1c1c2161c13f5cea?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
