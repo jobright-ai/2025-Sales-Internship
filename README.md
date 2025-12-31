@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6954d221f1f8465b79ec0402?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Dec 30 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/6954ca56f1f8465b79ebfecf?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954ba41aa05c26e7aaf45f0?utm_campaign=1051&utm_source=git)** | Portland, Maine, USA | Hybrid | Dec 30 |
+| **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954ba225bb7de448ef7c194?utm_campaign=1051&utm_source=git)** | Portland, Maine, USA | Hybrid | Dec 30 |
 | **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6954a9af5bb7de448ef79d5c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 30 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Development Intern](https://jobright.ai/jobs/info/692e43bf4c474121999d7bd9?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Dec 30 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Premium Seating and Partnerships Intern / Full-Time / Mobile Arena](https://jobright.ai/jobs/info/69547e2b5bb7de448ef773e3?utm_campaign=1051&utm_source=git)** | US-AL-Mobile | On Site | Dec 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brokerage Summer Intern - Dallas](https://jobright.ai/jobs/info/693731eeaabec14a727c4ecf?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 30 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (New Jersey Coastal)](https://jobright.ai/jobs/info/68c7cc7f5c38e536d41a6f8b?utm_campaign=1051&utm_source=git)** | Mays Landing, NJ | On Site | Dec 30 |
 | **[Transwestern](https://transwestern.com)** | **[Brokerage Summer Intern - Phoenix](https://jobright.ai/jobs/info/69372167a0dde7020e2ff3c5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 30 |
-| ↳ | **[Brokerage Summer Intern - Chicago](https://jobright.ai/jobs/info/69372ee5aabec14a727c4cce?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
-| ↳ | **[Brokerage Summer Intern - Miami](https://jobright.ai/jobs/info/69372ff7a0dde7020e2ffbc4?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Dec 30 |
-| ↳ | **[Brokerage Summer Intern - Atlanta](https://jobright.ai/jobs/info/69372a50aabec14a727c499f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
-| ↳ | **[Brokerage Summer Intern - Denver](https://jobright.ai/jobs/info/69372168a0dde7020e2ff3c6?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
