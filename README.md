@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Development Intern](https://jobright.ai/jobs/info/692e43bf4c474121999d7bd9?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Dec 30 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Premium Seating and Partnerships Intern / Full-Time / Mobile Arena](https://jobright.ai/jobs/info/69547e2b5bb7de448ef773e3?utm_campaign=1051&utm_source=git)** | US-AL-Mobile | On Site | Dec 30 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Development Specialist Intern](https://jobright.ai/jobs/info/692e5b07ef4b48533d13f22f?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
 | ↳ | **[Comcast Business Development Intern](https://jobright.ai/jobs/info/692e38a3fa28370be26a2726?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 30 |
@@ -77,13 +78,14 @@ For a complete list, click the following sortable link below:
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Sales & Showroom Operations Internship](https://jobright.ai/jobs/info/69543a4caa05c26e7aaea6ef?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | On Site | Dec 30 |
 | **[OES Global, Inc.](https://oesglobalinc.com)** | **[Business Development Intern - Career Opportunity - Amazing Company](https://jobright.ai/jobs/info/695437885bb7de448ef7200d?utm_campaign=1051&utm_source=git)** | Pompano Beach, FL | On Site | Dec 30 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Finance Club Partner (Student Leadership Program)](https://jobright.ai/jobs/info/695436995bb7de448ef71f6b?utm_campaign=1051&utm_source=git)** | Canada | Remote | Dec 30 |
-| **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/695433eaf1f8465b79eb5519?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
+| **[insightsoftware](https://www.insightsoftware.com)** | **[Business Development Associate (Intern to Hire)](https://jobright.ai/jobs/info/6954358bf1f8465b79eb55e9?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Summer Financial Representative Internship - Greater Chicago](https://jobright.ai/jobs/info/69543108aa05c26e7aaea2cb?utm_campaign=1051&utm_source=git)** | Greater Chicago Area | On Site | Dec 30 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Sales Operations Analyst](https://jobright.ai/jobs/info/6954483f5bb7de448ef74350?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Dec 30 |
 | **[Saproh Private Limited](www.saproh.com)** | **[Internship - Sales Executive](https://jobright.ai/jobs/info/695428f9f1f8465b79eb4cc0?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Loan Servicing Internship - Greensboro, NC](https://jobright.ai/jobs/info/6945f4f17d506e3808f1322a?utm_campaign=1051&utm_source=git)** | Greensboro, NC | On Site | Dec 30 |
 | ↳ | **[Business Development Internship](https://jobright.ai/jobs/info/6945fa877d506e3808f13e37?utm_campaign=1051&utm_source=git)** | Maryville, TN | On Site | Dec 30 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer Truck Rental Account Specialist Internship - Fall River, MA](https://jobright.ai/jobs/info/695423bef1f8465b79eb48df?utm_campaign=1051&utm_source=git)** | Fall River/Dartmouth/New Bedford/North Attleboro/Taunton | On Site | Dec 30 |
+| **[Globe Life American Income Division: Surace Smith & Partners](https://globelifessps.com/)** | **[Virtual Sales (Full time or Internship) Position](https://jobright.ai/jobs/info/6876b823ae2f413e4a5b2d1c?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Summer Wealth Management Intern - Boston, MA](https://jobright.ai/jobs/info/6954193ff1f8465b79eb449a?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Dec 30 |
 | **[The Higher Ed Plug](www.thehigheredplug.com)** | **[Booking Agent  / Commission Sales / Social Media Intern](https://jobright.ai/jobs/info/69540ec35bb7de448ef70a3f?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Store Operations Internship Central Region](https://jobright.ai/jobs/info/69540d055bb7de448ef709ad?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brokerage Summer Intern - Atlanta](https://jobright.ai/jobs/info/69372a50aabec14a727c499f?utm_campaign=1051&utm_source=git)** | Atlanta, GA | On Site | Dec 30 |
 | ↳ | **[Brokerage Summer Intern - Denver](https://jobright.ai/jobs/info/69372168a0dde7020e2ff3c6?utm_campaign=1051&utm_source=git)** | Greenwood Village, CO | On Site | Dec 30 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Inside Sales - Vancouver office](https://jobright.ai/jobs/info/693790bb1c1c2161c13f5cea?utm_campaign=1051&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 30 |
-| ↳ | **[Summer Intern 2026 - Inside Sales - Calgary office](https://jobright.ai/jobs/info/693791c9aabec14a727c9684?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 30 |
-| **[Transwestern](https://transwestern.com)** | **[Brokerage Summer Intern - Houston](https://jobright.ai/jobs/info/6937304da0dde7020e2ffc07?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
