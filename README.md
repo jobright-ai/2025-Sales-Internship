@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Supply Summer Internship / Bentonville, AR, USA](https://jobright.ai/jobs/info/6954db76f1f8465b79ec0752?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Dec 31 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/6954d8b0463e8c6081333e04?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Dec 31 |
+| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954d770f1f8465b79ec06d3?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Dec 30 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6954d221f1f8465b79ec0402?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Dec 30 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/6954ca56f1f8465b79ebfecf?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954ba41aa05c26e7aaf45f0?utm_campaign=1051&utm_source=git)** | Portland, Maine, USA | Hybrid | Dec 30 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Pricing](https://jobright.ai/jobs/info/69546bb25bb7de448ef7595b?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Dec 30 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69546b11f1f8465b79eb9050?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69546944f1f8465b79eb8f4c?utm_campaign=1051&utm_source=git)** | Des Plaines, IL | Hybrid | Dec 30 |
-| **[GMMB](http://gmmb.com)** | **[Assistant Account Executive - Political Cycle 2026](https://jobright.ai/jobs/info/69546276aa05c26e7aaedaf8?utm_campaign=1051&utm_source=git)** | Washington, DC | Hybrid | Dec 30 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Purchasing Summer Internship](https://jobright.ai/jobs/info/69546018aa05c26e7aaed993?utm_campaign=1051&utm_source=git)** | Lake Forest, IL | On Site | Dec 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - Fall River, MA](https://jobright.ai/jobs/info/69545bceaa05c26e7aaed84d?utm_campaign=1051&utm_source=git)** | Fall River, MA | On Site | Dec 30 |
 | **[DISH TV](https://www.dish.com)** | **[Sales Lead Enablement Intern](https://jobright.ai/jobs/info/6954441d5bb7de448ef73efd?utm_campaign=1051&utm_source=git)** | Englewood, CO | On Site | Dec 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Transwestern](https://transwestern.com)** | **[Brokerage Summer Intern - DC](https://jobright.ai/jobs/info/69372964aabec14a727c48ff?utm_campaign=1051&utm_source=git)** | Washington, DC | On Site | Dec 30 |
 | ↳ | **[Brokerage Summer Intern - Austin](https://jobright.ai/jobs/info/69373464aabec14a727c5093?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Dec 30 |
 | ↳ | **[Brokerage Summer Intern - Dallas](https://jobright.ai/jobs/info/693731eeaabec14a727c4ecf?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Dec 30 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (New Jersey Coastal)](https://jobright.ai/jobs/info/68c7cc7f5c38e536d41a6f8b?utm_campaign=1051&utm_source=git)** | Mays Landing, NJ | On Site | Dec 30 |
-| **[Transwestern](https://transwestern.com)** | **[Brokerage Summer Intern - Phoenix](https://jobright.ai/jobs/info/69372167a0dde7020e2ff3c5?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
