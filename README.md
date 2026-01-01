@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shamrock Trading Corporation](https://www.shamrocktradingcorp.com/)** | **[Carrier Sales Intern - Ryan Transportation](https://jobright.ai/jobs/info/692657ead47de4798ecd695a?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jan 01 |
+| **[Textron](http://textron.com)** | **[2026 Internship - Sales Operations (SDP)](https://jobright.ai/jobs/info/69563b6aaa05c26e7ab06e52?utm_campaign=1051&utm_source=git)** | Wichita, KS | On Site | Jan 01 |
+| ↳ | **[2026 Internship - Sales Operations (Able - Mesa, AZ)](https://jobright.ai/jobs/info/69563a69f1f8465b79ed2264?utm_campaign=1051&utm_source=git)** | Mesa, AZ | On Site | Jan 01 |
+| **[Shamrock Trading Corporation](https://www.shamrocktradingcorp.com/)** | **[Sales Development Intern - Ryan Transportation](https://jobright.ai/jobs/info/6925ff7527bf2f41a2c42363?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jan 01 |
+| **[PCL Construction](http://www.pcl.com)** | **[Business Development Student](https://jobright.ai/jobs/info/695639d8f1f8465b79ed2211?utm_campaign=1051&utm_source=git)** | Oakville, Ontario, Canada | On Site | Jan 01 |
+| **[Shamrock Trading Corporation](https://www.shamrocktradingcorp.com/)** | **[Shamrock Sales Intern - RTS Financial](https://jobright.ai/jobs/info/69341809f131d96e48469677?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jan 01 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Community Banking and Commercial Lending](https://jobright.ai/jobs/info/6956334d9f1b381eb26f678e?utm_campaign=1051&utm_source=git)** | Rockford, IL | On Site | Jan 01 |
+| **[BLUSOURCE](http://www.bluschoolsupplies.com)** | **[Summer 2026 Sales Internship- Sales Development Representative](https://jobright.ai/jobs/info/69562e1cf1f8465b79ed1d50?utm_campaign=1051&utm_source=git)** | BLUSOURCE - GUTHRIE, OK 73044 | On Site | Jan 01 |
 | **[Boardwalk Investments Group](https://www.boardwalkinvest.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/695625b0f1f8465b79ed184c?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Dec 31 |
 | **[CNH](http://www.cnhindustrial.com)** | **[New Holland Sales Operations Summer Intern](https://jobright.ai/jobs/info/69561bcbf1f8465b79ed0e6f?utm_campaign=1051&utm_source=git)** | New Holland, PA | On Site | Dec 31 |
 | **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/6955f9eeaa05c26e7ab0339f?utm_campaign=1051&utm_source=git)** | Noblesville, IN | On Site | Dec 31 |
@@ -105,9 +113,9 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/69389efba0dde7020e313883?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Dec 31 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Sales, Gastroenterology](https://jobright.ai/jobs/info/691bb55c22a2cb4b9bd1536e?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | Hybrid | Dec 31 |
 | **[Ashoka](http://www.ashoka.org)** | **[Volunteer Business and Partnership Intern for Research and Analysis on Investment Impacts of Social Entrepreneurs with Ashoka Global](https://jobright.ai/jobs/info/69396bef48a8ce22990d766f?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 31 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/69386f46a0dde7020e3107af?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e38139f758fe1f97e5ea7c?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Dec 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f2aef9c6ff7aedf15335?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Dec 31 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6938a07baabec14a727d88ce?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37ea8b99ec3563b0e0bd7?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Dec 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f07a95f5211cd2cebb76?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Dec 31 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/69389c75a0dde7020e3133bb?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
@@ -127,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Metro New Jersey)](https://jobright.ai/jobs/info/68c76fda7d0db4114273c15e?utm_campaign=1051&utm_source=git)** | Warren, NJ | On Site | Dec 31 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Spring 2026](https://jobright.ai/jobs/info/6938dc84aabec14a727dca58?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Dec 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e387c6f758fe1f97e5f06f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 31 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c89b99ec3563b0e0a8b?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Dec 31 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37cb4b99ec3563b0e0a9b?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Dec 31 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c89b99ec3563b0e0a8b?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Dec 31 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382bcb99ec3563b0e0d76?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Dec 31 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e381dff758fe1f97e5ebca?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Dec 31 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Manager Intern - South Jordan, UT](https://jobright.ai/jobs/info/6938a31eb95c305f206ddd9d?utm_campaign=1051&utm_source=git)** | South Jordan, UT | Hybrid | Dec 31 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship, Store Management - Minneapolis, MN](https://jobright.ai/jobs/info/6954f4cc9f1b381eb26e6ede?utm_campaign=1051&utm_source=git)** | Bloomington, MN | On Site | Dec 31 |
 | ↳ | **[Macy's Summer Internship, Store Management - Palo Alto, CA](https://jobright.ai/jobs/info/6954f4729f1b381eb26e6ecf?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Dec 31 |
 | ↳ | **[Macy's 2026 Summer Internship, Store Management - Philadelphia, PA](https://jobright.ai/jobs/info/6954f468f1f8465b79ec292a?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 31 |
-| ↳ | **[Macy's 2026 Summer Internship, Store Management - Garden City, NY](https://jobright.ai/jobs/info/6954f4149f1b381eb26e6ebd?utm_campaign=1051&utm_source=git)** | Garden City, NY | On Site | Dec 31 |
-| ↳ | **[Macy's Summer Internship, Store Management - Honolulu, HI](https://jobright.ai/jobs/info/6954f1b2aa05c26e7aaf6c59?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Dec 31 |
-| **[Reckitt](https://www.reckitt.com)** | **[2026 Supply Summer Internship / Bentonville, AR, USA](https://jobright.ai/jobs/info/6954db76f1f8465b79ec0752?utm_campaign=1051&utm_source=git)** | Bentonville, AR | On Site | Dec 31 |
-| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern - Chattanooga, TN](https://jobright.ai/jobs/info/6954d8b0463e8c6081333e04?utm_campaign=1051&utm_source=git)** | Chattanooga, TN | On Site | Dec 31 |
-| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954d770f1f8465b79ec06d3?utm_campaign=1051&utm_source=git)** | Portland, ME | On Site | Dec 30 |
-| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Men's Wholesale Sales Intern](https://jobright.ai/jobs/info/6954f534aa05c26e7aaf767f?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
-| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6954d221f1f8465b79ec0402?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Dec 30 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/6954ca56f1f8465b79ebfecf?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
