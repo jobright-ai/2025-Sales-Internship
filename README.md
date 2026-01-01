@@ -57,11 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Banking - New York](https://jobright.ai/jobs/info/6955e3fc9f1b381eb26f1847?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 31 |
+| **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/6955f9eeaa05c26e7ab0339f?utm_campaign=1051&utm_source=git)** | Noblesville, IN | On Site | Dec 31 |
+| ↳ | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/6955f9de9f1b381eb26f3026?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Dec 31 |
+| ↳ | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/6955f9749f1b381eb26f2fe8?utm_campaign=1051&utm_source=git)** | Westfield, IN | On Site | Dec 31 |
+| ↳ | **[Retail Management Intern (Cleveland)- Summer 2026](https://jobright.ai/jobs/info/6955f8f29f1b381eb26f2f92?utm_campaign=1051&utm_source=git)** | Alliance, OH | On Site | Dec 31 |
+| ↳ | **[Retail Management Intern (Kalamazoo)- Summer 2026](https://jobright.ai/jobs/info/6955f8e6f1f8465b79ece760?utm_campaign=1051&utm_source=git)** | Plainwell, MI | On Site | Dec 31 |
+| ↳ | **[Retail Management Intern (SW Detroit)- Summer 2026](https://jobright.ai/jobs/info/6955f8c9aa05c26e7ab032ef?utm_campaign=1051&utm_source=git)** | Belleville, MI | On Site | Dec 31 |
+| ↳ | **[Retail Management Intern (NE Detroit)- Summer 2026](https://jobright.ai/jobs/info/6955f869aa05c26e7ab032c0?utm_campaign=1051&utm_source=git)** | Roseville, MI | On Site | Dec 31 |
+| ↳ | **[Retail Management Intern (NE Detroit)- Summer 2026](https://jobright.ai/jobs/info/6955f854aa05c26e7ab032b0?utm_campaign=1051&utm_source=git)** | Auburn Hills, MI | On Site | Dec 31 |
+| ↳ | **[Retail Management Intern (SW Detroit)- Summer 2026](https://jobright.ai/jobs/info/6955f689f1f8465b79ece5e3?utm_campaign=1051&utm_source=git)** | Commerce, MI | On Site | Dec 31 |
+| **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Banking - SF, CHI](https://jobright.ai/jobs/info/6955f134f1f8465b79ecdfce?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
+| ↳ | **[2027 Summer Internship - Global Banking - SF, CHI](https://jobright.ai/jobs/info/6955f030f1f8465b79ecddd1?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
+| ↳ | **[2027 Summer Internship - Global Banking - New York](https://jobright.ai/jobs/info/6955e3fc9f1b381eb26f1847?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Growth & partnership internship](https://jobright.ai/jobs/info/6955dcdaaa05c26e7ab0122e?utm_campaign=1051&utm_source=git)** | Brooklyn, NY | Hybrid | Dec 31 |
+| **[UBS](https://www.ubs.com)** | **[2027 Summer Internship - Global Markets - Sales and Trading - NY](https://jobright.ai/jobs/info/6955f865f1f8465b79ece711?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Technical Intern - Central Sales and Service Team](https://jobright.ai/jobs/info/6955d395aa05c26e7ab00454?utm_campaign=1051&utm_source=git)** | Springfield, NJ, US | Hybrid | Dec 31 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6955d160aa05c26e7ab0008f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Dec 31 |
 | **[Sahiyo](https://sahiyo.org/)** | **[Fundraising & Auction Internship](https://jobright.ai/jobs/info/6955cf5e9f1b381eb26ef98c?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 31 |
+| **[Simmons Bank](https://www.simmonsbank.com/)** | **[Private Banking Internship](https://jobright.ai/jobs/info/6955f232aa05c26e7ab02f06?utm_campaign=1051&utm_source=git)** | Grapevine, TX | On Site | Dec 31 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Inside Sales Internships](https://jobright.ai/jobs/info/6955b28b9f1b381eb26eef4a?utm_campaign=1051&utm_source=git)** | Redlands, CA | On Site | Dec 31 |
 | **[Novalyft Media](novalyftmedia.us)** | **[Trading Associate](https://jobright.ai/jobs/info/6955d175f1f8465b79ecb454?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Intern - Asheville](https://jobright.ai/jobs/info/695596dcf1f8465b79ec8d95?utm_campaign=1051&utm_source=git)** | Asheville, NC | On Site | Dec 31 |
@@ -90,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/69389efba0dde7020e313883?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Dec 31 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Sales, Gastroenterology](https://jobright.ai/jobs/info/691bb55c22a2cb4b9bd1536e?utm_campaign=1051&utm_source=git)** | Parsippany, NJ | Hybrid | Dec 31 |
 | **[Ashoka](http://www.ashoka.org)** | **[Volunteer Business and Partnership Intern for Research and Analysis on Investment Impacts of Social Entrepreneurs with Ashoka Global](https://jobright.ai/jobs/info/69396bef48a8ce22990d766f?utm_campaign=1051&utm_source=git)** | United States | Remote | Dec 31 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/69386f46a0dde7020e3107af?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e38139f758fe1f97e5ea7c?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Dec 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f2aef9c6ff7aedf15335?utm_campaign=1051&utm_source=git)** | Billings, MT | On Site | Dec 31 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Purchasing Intern (Year-Round)](https://jobright.ai/jobs/info/6938a07baabec14a727d88ce?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37ea8b99ec3563b0e0bd7?utm_campaign=1051&utm_source=git)** | Orlando, FL | On Site | Dec 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f07a95f5211cd2cebb76?utm_campaign=1051&utm_source=git)** | Minot, ND | On Site | Dec 31 |
 | **[IBM](http://www.ibm.com)** | **[Intern 2026: IBM Quantum Sales and Operations](https://jobright.ai/jobs/info/69389c75a0dde7020e3133bb?utm_campaign=1051&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/6954ca56f1f8465b79ebfecf?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
 | **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954ba41aa05c26e7aaf45f0?utm_campaign=1051&utm_source=git)** | Portland, Maine, USA | Hybrid | Dec 30 |
 | **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954ba225bb7de448ef7c194?utm_campaign=1051&utm_source=git)** | Portland, Maine, USA | Hybrid | Dec 30 |
-| **[RBC](https://www.rbc.com)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/6954a9af5bb7de448ef79d5c?utm_campaign=1051&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 30 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Financial Planning Delivery Excellence Intern / Co-Op (WINTER 2026) Inviting Applicants who identify as First Nation (Status and Non-Status) Inuit, and Métis Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6955e82cf1f8465b79ecd36d?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 30 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Development Intern](https://jobright.ai/jobs/info/692e43bf4c474121999d7bd9?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Dec 30 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Premium Seating and Partnerships Intern / Full-Time / Mobile Arena](https://jobright.ai/jobs/info/69547e2b5bb7de448ef773e3?utm_campaign=1051&utm_source=git)** | US-AL-Mobile | On Site | Dec 30 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Development Specialist Intern](https://jobright.ai/jobs/info/692e5b07ef4b48533d13f22f?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
-| ↳ | **[Comcast Business Development Intern](https://jobright.ai/jobs/info/692e38a3fa28370be26a2726?utm_campaign=1051&utm_source=git)** | Baltimore, MD | On Site | Dec 30 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Premium Seating and Partnerships Intern / Full-Time / Mobile Arena](https://jobright.ai/jobs/info/6954769aaa05c26e7aaee54b?utm_campaign=1051&utm_source=git)** | Mobile Arena | On Site | Dec 30 |
-| **[Preserve Shady Rest Country Club](preserveshadyrest.org)** | **[Donor Giving & Development Internship](https://jobright.ai/jobs/info/6954765c5bb7de448ef76350?utm_campaign=1051&utm_source=git)** | Scotch Plains, NJ | Hybrid | Dec 30 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69547469f1f8465b79ebadac?utm_campaign=1051&utm_source=git)** | Naperville, IL | Hybrid | Dec 30 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Sales Intern](https://jobright.ai/jobs/info/692e49264c474121999d80b6?utm_campaign=1051&utm_source=git)** | South Boston, VA | On Site | Dec 30 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Pricing](https://jobright.ai/jobs/info/69546bb25bb7de448ef7595b?utm_campaign=1051&utm_source=git)** | West Palm Beach, FL | On Site | Dec 30 |
-| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69546b11f1f8465b79eb9050?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69546944f1f8465b79eb8f4c?utm_campaign=1051&utm_source=git)** | Des Plaines, IL | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
