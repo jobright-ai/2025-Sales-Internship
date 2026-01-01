@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boardwalk Investments Group](https://www.boardwalkinvest.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/695625b0f1f8465b79ed184c?utm_campaign=1051&utm_source=git)** | Costa Mesa, CA | On Site | Dec 31 |
+| **[CNH](http://www.cnhindustrial.com)** | **[New Holland Sales Operations Summer Intern](https://jobright.ai/jobs/info/69561bcbf1f8465b79ed0e6f?utm_campaign=1051&utm_source=git)** | New Holland, PA | On Site | Dec 31 |
 | **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/6955f9eeaa05c26e7ab0339f?utm_campaign=1051&utm_source=git)** | Noblesville, IN | On Site | Dec 31 |
 | ↳ | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/6955f9de9f1b381eb26f3026?utm_campaign=1051&utm_source=git)** | Greater Indianapolis | On Site | Dec 31 |
 | ↳ | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/6955f9749f1b381eb26f2fe8?utm_campaign=1051&utm_source=git)** | Westfield, IN | On Site | Dec 31 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Internship (Metro New Jersey)](https://jobright.ai/jobs/info/68c76fda7d0db4114273c15e?utm_campaign=1051&utm_source=git)** | Warren, NJ | On Site | Dec 31 |
 | **[CaptiveAire Systems](http://captiveaire.com)** | **[Technical Sales Intern- Spring 2026](https://jobright.ai/jobs/info/6938dc84aabec14a727dca58?utm_campaign=1051&utm_source=git)** | Nashville, TN | On Site | Dec 31 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e387c6f758fe1f97e5f06f?utm_campaign=1051&utm_source=git)** | Troy, MI | On Site | Dec 31 |
-| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37cb4b99ec3563b0e0a9b?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Dec 31 |
 | ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c89b99ec3563b0e0a8b?utm_campaign=1051&utm_source=git)** | Pleasanton, CA | On Site | Dec 31 |
+| ↳ | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37cb4b99ec3563b0e0a9b?utm_campaign=1051&utm_source=git)** | Savannah, GA | On Site | Dec 31 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e382bcb99ec3563b0e0d76?utm_campaign=1051&utm_source=git)** | Mission Viejo, CA | On Site | Dec 31 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e381dff758fe1f97e5ebca?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Dec 31 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Account Manager Intern - South Jordan, UT](https://jobright.ai/jobs/info/6938a31eb95c305f206ddd9d?utm_campaign=1051&utm_source=git)** | South Jordan, UT | Hybrid | Dec 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Men's Wholesale Sales Intern](https://jobright.ai/jobs/info/6954f534aa05c26e7aaf767f?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Dec 30 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6954d221f1f8465b79ec0402?utm_campaign=1051&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Dec 30 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Customer Account Specialist - Summer 2026](https://jobright.ai/jobs/info/6954ca56f1f8465b79ebfecf?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Dec 30 |
-| **[Unum](http://www.unum.com)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954ba41aa05c26e7aaf45f0?utm_campaign=1051&utm_source=git)** | Portland, Maine, USA | Hybrid | Dec 30 |
-| **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Unum Scholar Intern- Portland, ME](https://jobright.ai/jobs/info/6954ba225bb7de448ef7c194?utm_campaign=1051&utm_source=git)** | Portland, Maine, USA | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
