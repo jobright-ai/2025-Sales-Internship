@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Technical Business Case Intern (Hybrid)](https://jobright.ai/jobs/info/69581994aa05c26e7ab1fcdc?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Jan 02 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6958172d9f1b381eb270fc26?utm_campaign=1051&utm_source=git)** | Neenah, Wisconsin | Hybrid | Jan 02 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/695804d49f1b381eb270f684?utm_campaign=1051&utm_source=git)** | Joliet, IL | Hybrid | Jan 02 |
 | **[Morningside Medical Equipment](http://www.morningsidemedicalequipment.com)** | **[Spring Semester Medical Equipment Sales Internship](https://jobright.ai/jobs/info/6958022eaa05c26e7ab1f47b?utm_campaign=1051&utm_source=git)** | Columbia, MD | On Site | Jan 02 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Merchandise Control Internship / Las Vegas, NV](https://jobright.ai/jobs/info/6957fb9d9f1b381eb270f3a0?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV 89081 | On Site | Jan 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Sales Reporting & Visualization Intern](https://jobright.ai/jobs/info/693b2450b309e3780086ddf8?utm_campaign=1051&utm_source=git)** | Miami-FTL Area | Hybrid | Jan 02 |
 | **[PIM Brands](https://pimbrands.com)** | **[Sales Planning Intern](https://jobright.ai/jobs/info/68ec8fea1eecd439f43f9f24?utm_campaign=1051&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 02 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Buyer/Planner Intern](https://jobright.ai/jobs/info/693b14535f2c001987ed186e?utm_campaign=1051&utm_source=git)** | Ripon, WI | Hybrid | Jan 02 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e5660a49a885af9a27c7f?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 02 |
-| **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/6905dcdf63502c0aded7eb87?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
