@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[English from A to Z](https://www.englishfromatoz.com)** | **[Spring 2026 Sales Intern](https://jobright.ai/jobs/info/6957246b9f1b381eb27041e3?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Box Office Sales Intern 2026](https://jobright.ai/jobs/info/6956dcf09f1b381eb27012cf?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jan 01 |
 | **[Southwestern Advantage – Arizona Campus Division](https://www.linkedin.com/in/sandra-perez1/)** | **[Entrepreneurial Sales & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/6956d89eaa05c26e7ab0fef9?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Jan 01 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6956d03aaa05c26e7ab0fbf8?utm_campaign=1051&utm_source=git)** | Aurora, IL | Hybrid | Jan 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Sales Data Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68ffe8bee0c73b3a111a0473?utm_campaign=1051&utm_source=git)** | New Stanton, PA | Hybrid | Jan 01 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Sales/Customer Success](https://jobright.ai/jobs/info/68e58dd0ae2b894b1d710ef8?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Jan 01 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Sales, GTA Toronto, ON](https://jobright.ai/jobs/info/691c82a8bcdbf3560c9e79f3?utm_campaign=1051&utm_source=git)** | Greater Montreal Metropolitan Area | Hybrid | Jan 01 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Sales Learning & Enablement](https://jobright.ai/jobs/info/6939cf8748a8ce22990dd144?utm_campaign=1051&utm_source=git)** | Detroit, MI | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
