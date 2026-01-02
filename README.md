@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers- CIB Markets](https://jobright.ai/jobs/info/695757f29f1b381eb2706d0c?utm_campaign=1051&utm_source=git)** | NEW YORK, NY | On Site | Jan 01 |
-| ↳ | **[2027 Summer Internship, Early Careers – CIB Commercial Real Estate](https://jobright.ai/jobs/info/695757ebf1f8465b79ee239f?utm_campaign=1051&utm_source=git)** | 110832-NY-30 Hudson Yards, New York | On Site | Jan 01 |
-| ↳ | **[2027 Summer Internship, Early Careers- CIB Markets](https://jobright.ai/jobs/info/695757c7f1f8465b79ee2394?utm_campaign=1051&utm_source=git)** | CHARLOTTE, NC | On Site | Jan 01 |
-| ↳ | **[2027 Summer Internship, Early Careers- CIB Markets](https://jobright.ai/jobs/info/6957577faa05c26e7ab16d1c?utm_campaign=1051&utm_source=git)** | HOUSTON, TX | On Site | Jan 01 |
-| ↳ | **[2027 Summer Internship, Early Careers – CIB Commercial Real Estate](https://jobright.ai/jobs/info/695757629f1b381eb2706cd7?utm_campaign=1051&utm_source=git)** | CHICAGO, IL | On Site | Jan 01 |
+| **[Matriosh](Matriosh.com)** | **[Founder Office Intern](https://jobright.ai/jobs/info/69576e75aa05c26e7ab174fb?utm_campaign=1051&utm_source=git)** | Wilmington, DE | Hybrid | Jan 01 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers – CIB Commercial Real Estate](https://jobright.ai/jobs/info/695757629f1b381eb2706cd7?utm_campaign=1051&utm_source=git)** | CHICAGO, IL | On Site | Jan 01 |
 | ↳ | **[2027 Summer Internship, Early Careers – CIB Commercial Real Estate](https://jobright.ai/jobs/info/69575759aa05c26e7ab16d11?utm_campaign=1051&utm_source=git)** | 192492-TX-DALLAS CENTRAL | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers – CIB Commercial Real Estate](https://jobright.ai/jobs/info/695757ebf1f8465b79ee239f?utm_campaign=1051&utm_source=git)** | 110832-NY-30 Hudson Yards, New York | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers- CIB Markets](https://jobright.ai/jobs/info/6957577faa05c26e7ab16d1c?utm_campaign=1051&utm_source=git)** | HOUSTON, TX | On Site | Jan 01 |
+| **[Stravyn Hill](https://www.linkedin.com/company/108148379)** | **[Business Development Intern](https://jobright.ai/jobs/info/69576791f1f8465b79ee2801?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 01 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers- CIB Markets](https://jobright.ai/jobs/info/695757f29f1b381eb2706d0c?utm_campaign=1051&utm_source=git)** | NEW YORK, NY | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers- CIB Markets](https://jobright.ai/jobs/info/695757c7f1f8465b79ee2394?utm_campaign=1051&utm_source=git)** | CHARLOTTE, NC | On Site | Jan 01 |
 | **[English from A to Z](https://www.englishfromatoz.com)** | **[Spring 2026 Sales Intern](https://jobright.ai/jobs/info/6957246b9f1b381eb27041e3?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Box Office Sales Intern 2026](https://jobright.ai/jobs/info/6956dcf09f1b381eb27012cf?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jan 01 |
 | **[Southwestern Advantage – Arizona Campus Division](https://www.linkedin.com/in/sandra-perez1/)** | **[Entrepreneurial Sales & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/6956d89eaa05c26e7ab0fef9?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Jan 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TeamViewer](https://www.teamviewer.com)** | **[Sales & Data Internship - Onsite in Clearwater, FL](https://jobright.ai/jobs/info/69397734ac80bb5492bbfb04?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Jan 01 |
 | **[Applied Fluid Power](https://www.appliedfluidpower.com)** | **[Sales Intern](https://jobright.ai/jobs/info/69021a1998707b2b0fe6c7c9?utm_campaign=1051&utm_source=git)** | St Louis, MO | On Site | Jan 01 |
 | **[TeamViewer](https://www.teamviewer.com)** | **[Customer Success Internship (Onsite in Clearwater, FL)](https://jobright.ai/jobs/info/693976f9ac80bb5492bbfad0?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Jan 01 |
-| **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship – Commercial Real Estate, Cambridge (Summer 2026)](https://jobright.ai/jobs/info/693a3af2ac80bb5492bcbf86?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Jan 01 |
-| **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Seattle - June 2026 start)](https://jobright.ai/jobs/info/69017e45d5259a1b3cff561b?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
