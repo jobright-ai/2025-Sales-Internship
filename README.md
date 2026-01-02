@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Equipment Corporation](http://www.crown.com)** | **[Student Co-op or Intern](https://jobright.ai/jobs/info/69583cce9f1b381eb2712912?utm_campaign=1051&utm_source=git)** | Goodyear, AZ | On Site | Jan 02 |
+| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Commercial Intern (Sales Team)](https://jobright.ai/jobs/info/69583ad29f1b381eb27122c6?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
+| **[Goosehead Insurance](https://www.goosehead.com)** | **[DoD SkillBridge Program, Corporate Sales Account Executive](https://jobright.ai/jobs/info/69583a029f1b381eb2712094?utm_campaign=1051&utm_source=git)** | Nashville Metro | Hybrid | Jan 02 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern, Middle & Large Business Underwriting – Inland Marine](https://jobright.ai/jobs/info/69583368f1f8465b79eec9d8?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
+| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship - Retail Operations](https://jobright.ai/jobs/info/69582d67f1f8465b79eec113?utm_campaign=1051&utm_source=git)** | Englewood Cliffs, NJ | On Site | Jan 02 |
+| **[Great Lakes Cheese](http://www.greatlakescheese.com)** | **[Sales Operations Intern](https://jobright.ai/jobs/info/69582d139f1b381eb2710b90?utm_campaign=1051&utm_source=git)** | Hiram, OH | On Site | Jan 02 |
+| **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (SW Detroit)- Summer 2026](https://jobright.ai/jobs/info/695828d8f1f8465b79eebe3c?utm_campaign=1051&utm_source=git)** | Howell, MI | On Site | Jan 02 |
+| **[General Dynamics Mission Systems–Canada](https://gdmissionsystems.ca/)** | **[Co-op May 2026 - Subcontracts Commercial Services - 4-Months](https://jobright.ai/jobs/info/69582833aa05c26e7ab2072c?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 02 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Technical Business Case Intern (Hybrid)](https://jobright.ai/jobs/info/69581994aa05c26e7ab1fcdc?utm_campaign=1051&utm_source=git)** | Clearwater, FL | Hybrid | Jan 02 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/6958172d9f1b381eb270fc26?utm_campaign=1051&utm_source=git)** | Neenah, Wisconsin | Hybrid | Jan 02 |
 | **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/695804d49f1b381eb270f684?utm_campaign=1051&utm_source=git)** | Joliet, IL | Hybrid | Jan 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - East Hartford, Connecticut](https://jobright.ai/jobs/info/68e58969ae2b894b1d710c19?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Jan 02 |
 | ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68c8f23395f5211cd2cebf65?utm_campaign=1051&utm_source=git)** | Bozeman, MT | On Site | Jan 02 |
 | **[ADP](http://www.adp.com)** | **[Summer Sales Intern- Spring 2027 Grads!](https://jobright.ai/jobs/info/694f6b19ce13cd105657a423?utm_campaign=1051&utm_source=git)** | Fairport, NY | Remote | Jan 02 |
-| ↳ | **[Summer Sales Intern- Spring 2027 Grads!](https://jobright.ai/jobs/info/694d848cd4a7df7a06728bf8?utm_campaign=1051&utm_source=git)** | Tucson, AZ | Remote | Jan 02 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693af040d4054a2bc024dca2?utm_campaign=1051&utm_source=git)** | Portland, OR | Hybrid | Jan 02 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Sales/Services Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9ca6758f2e4ac3006fe1?utm_campaign=1051&utm_source=git)** | Ohio, United States | On Site | Jan 02 |
-| ↳ | **[Technical Sales Internship (Summer 2026)](https://jobright.ai/jobs/info/68cf4206846f0b04af67ff97?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 02 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Missouri District)](https://jobright.ai/jobs/info/68f48faf76a51a4307bd2209?utm_campaign=1051&utm_source=git)** | Columbia, MO | On Site | Jan 02 |
-| **[JM&A Group](https://www.jmagroup.com/)** | **[Sales Reporting & Visualization Intern](https://jobright.ai/jobs/info/693b2450b309e3780086ddf8?utm_campaign=1051&utm_source=git)** | Miami-FTL Area | Hybrid | Jan 02 |
-| **[PIM Brands](https://pimbrands.com)** | **[Sales Planning Intern](https://jobright.ai/jobs/info/68ec8fea1eecd439f43f9f24?utm_campaign=1051&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 02 |
-| **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Buyer/Planner Intern](https://jobright.ai/jobs/info/693b14535f2c001987ed186e?utm_campaign=1051&utm_source=git)** | Ripon, WI | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
