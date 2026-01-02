@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/695804d49f1b381eb270f684?utm_campaign=1051&utm_source=git)** | Joliet, IL | Hybrid | Jan 02 |
+| **[Morningside Medical Equipment](http://www.morningsidemedicalequipment.com)** | **[Spring Semester Medical Equipment Sales Internship](https://jobright.ai/jobs/info/6958022eaa05c26e7ab1f47b?utm_campaign=1051&utm_source=git)** | Columbia, MD | On Site | Jan 02 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Merchandise Control Internship / Las Vegas, NV](https://jobright.ai/jobs/info/6957fb9d9f1b381eb270f3a0?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV 89081 | On Site | Jan 02 |
+| ↳ | **[Distribution Merchandise Control Internship / Phoenix, AZ](https://jobright.ai/jobs/info/6957fa879f1b381eb270f32b?utm_campaign=1051&utm_source=git)** | Phoenix, AZ 85043 | On Site | Jan 02 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Graduate Trading Trainee](https://jobright.ai/jobs/info/6957f8e5f1f8465b79ee9535?utm_campaign=1051&utm_source=git)** | Illinois, United States | On Site | Jan 02 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[College Financial Representative Summer Internship- 2026 & 2027 Grads Only](https://jobright.ai/jobs/info/6957eb83f1f8465b79ee8b04?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | Hybrid | Jan 02 |
 | **[ATPCO](http://www.atpco.net)** | **[Strategic Partnership Intern](https://jobright.ai/jobs/info/693307c6f131d96e4845f4b7?utm_campaign=1051&utm_source=git)** | Herndon, VA | Remote | Jan 02 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Materials Sales Intern](https://jobright.ai/jobs/info/6957e6d4f1f8465b79ee89c7?utm_campaign=1051&utm_source=git)** | Jamesville, NY | On Site | Jan 02 |
 | **[ATPCO](http://www.atpco.net)** | **[Business Development & Industry Relations Intern](https://jobright.ai/jobs/info/69330d64764507023d1b1ddb?utm_campaign=1051&utm_source=git)** | Herndon, VA | Remote | Jan 02 |
@@ -135,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Varda Space Industries](http://varda.com)** | **[Business Development SkillBridge Intern ( Summer 2026)](https://jobright.ai/jobs/info/6921417000c9ee50eaecd213?utm_campaign=1051&utm_source=git)** | El Segundo, CA | On Site | Jan 02 |
 | **[Ecolab](http://www.ecolab.com)** | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/691f276d09cc522e8773de20?utm_campaign=1051&utm_source=git)** | Mobile, AL | Hybrid | Jan 02 |
 | ↳ | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/691f35043f782d2f1afb9283?utm_campaign=1051&utm_source=git)** | Tuscaloosa, AL | Hybrid | Jan 02 |
+| **[InfraSingularity](https://infrasingularity.com)** | **[Business Development Intern- Web3](https://jobright.ai/jobs/info/69580007f1f8465b79eeaab0?utm_campaign=1051&utm_source=git)** | Hollywood, FL | On Site | Jan 02 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Management and Sales Summer 2026 Internship (Arkansas District)](https://jobright.ai/jobs/info/68e600d51852e62f008172d9?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Jan 02 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693ae1f85f2c001987ece570?utm_campaign=1051&utm_source=git)** | San Antonio, TX | Hybrid | Jan 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - East Hartford, Connecticut](https://jobright.ai/jobs/info/68e58969ae2b894b1d710c19?utm_campaign=1051&utm_source=git)** | East Hartford, CT | On Site | Jan 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Buyer/Planner Intern](https://jobright.ai/jobs/info/693b14535f2c001987ed186e?utm_campaign=1051&utm_source=git)** | Ripon, WI | Hybrid | Jan 02 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e5660a49a885af9a27c7f?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 02 |
 | **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/6905dcdf63502c0aded7eb87?utm_campaign=1051&utm_source=git)** | Irving, TX | Hybrid | Jan 02 |
-| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/691abb73bcdbf3560c9da0c7?utm_campaign=1051&utm_source=git)** | Geneva, IL | On Site | Jan 02 |
-| **[SPX Technologies](https://www.spx.com)** | **[Sales Development Program](https://jobright.ai/jobs/info/6919677345fb6f5ead8a8812?utm_campaign=1051&utm_source=git)** | Overland Park, KS | On Site | Jan 02 |
-| **[Target](https://www.target.com)** | **[Store Executive Intern (Store Leadership Intern) –South Sacramento, California (Starting Summer 2026)](https://jobright.ai/jobs/info/68da05586df7b8311bb0ba3c?utm_campaign=1051&utm_source=git)** | Sacramento, CA | On Site | Jan 02 |
-| **[Precision Castparts](http://precast.com)** | **[Sales Intern (Co-Op)](https://jobright.ai/jobs/info/690249a5ff462851fefe18b2?utm_campaign=1051&utm_source=git)** | Rialto, CA | On Site | Jan 02 |
-| **[Gartner](http://www.gartner.com)** | **[North America Summer 2026 Sales Internship](https://jobright.ai/jobs/info/68e8821f09580a2fe57f86ba?utm_campaign=1051&utm_source=git)** | Fort Myers, FL | Hybrid | Jan 02 |
-| **[Pentair](http://www.pentair.com)** | **[Sales Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68ca5c6b5f9f0336447dc938?utm_campaign=1051&utm_source=git)** | Golden Valley, MN | On Site | Jan 02 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Customer Success Special Projects Intern - OVIP](https://jobright.ai/jobs/info/691e4bb2a49a885af9a275f0?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
