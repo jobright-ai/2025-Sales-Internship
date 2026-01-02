@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 Summer Internship, Early Careers- CIB Markets](https://jobright.ai/jobs/info/695757f29f1b381eb2706d0c?utm_campaign=1051&utm_source=git)** | NEW YORK, NY | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers – CIB Commercial Real Estate](https://jobright.ai/jobs/info/695757ebf1f8465b79ee239f?utm_campaign=1051&utm_source=git)** | 110832-NY-30 Hudson Yards, New York | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers- CIB Markets](https://jobright.ai/jobs/info/695757c7f1f8465b79ee2394?utm_campaign=1051&utm_source=git)** | CHARLOTTE, NC | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers- CIB Markets](https://jobright.ai/jobs/info/6957577faa05c26e7ab16d1c?utm_campaign=1051&utm_source=git)** | HOUSTON, TX | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers – CIB Commercial Real Estate](https://jobright.ai/jobs/info/695757629f1b381eb2706cd7?utm_campaign=1051&utm_source=git)** | CHICAGO, IL | On Site | Jan 01 |
+| ↳ | **[2027 Summer Internship, Early Careers – CIB Commercial Real Estate](https://jobright.ai/jobs/info/69575759aa05c26e7ab16d11?utm_campaign=1051&utm_source=git)** | 192492-TX-DALLAS CENTRAL | On Site | Jan 01 |
 | **[English from A to Z](https://www.englishfromatoz.com)** | **[Spring 2026 Sales Intern](https://jobright.ai/jobs/info/6957246b9f1b381eb27041e3?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Box Office Sales Intern 2026](https://jobright.ai/jobs/info/6956dcf09f1b381eb27012cf?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jan 01 |
 | **[Southwestern Advantage – Arizona Campus Division](https://www.linkedin.com/in/sandra-perez1/)** | **[Entrepreneurial Sales & Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/6956d89eaa05c26e7ab0fef9?utm_campaign=1051&utm_source=git)** | Tempe, AZ | On Site | Jan 01 |
@@ -64,9 +70,9 @@ For a complete list, click the following sortable link below:
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative Intern Sales - USA](https://jobright.ai/jobs/info/692fe169fa28370be26ae035?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 01 |
 | **[HeyGen](https://www.heygen.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/6956cea0f1f8465b79edb0cd?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 01 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Retail Operations Intern 2026](https://jobright.ai/jobs/info/6956ce859f1b381eb26ff91f?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jan 01 |
-| **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative Intern - USA](https://jobright.ai/jobs/info/692feea54c474121999e3418?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Jan 01 |
+| **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/69372954a0dde7020e2ff70c?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 01 |
+| ↳ | **[Sales Development Representative Intern - USA](https://jobright.ai/jobs/info/692feea54c474121999e3418?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Remote | Jan 01 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Business Development Research Internship / Spring 2026](https://jobright.ai/jobs/info/6935e952764507023d1c14cc?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 01 |
-| **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/693727eaa0dde7020e2ff65a?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 01 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Account Management Intern](https://jobright.ai/jobs/info/69531be0935649778e20d214?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 01 |
 | **[Amo Realty](https://amorealty.com/)** | **[Realtor intern](https://jobright.ai/jobs/info/6956b51a9f1b381eb26ff248?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | Remote | Jan 01 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6956b10cf1f8465b79eda88e?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 01 |
@@ -108,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e02fb09cc522e87734d2e?utm_campaign=1051&utm_source=git)** | Richmond, British Columbia, Canada | On Site | Jan 01 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691ddf2d748c4e1301ec9a3f?utm_campaign=1051&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691deca561dc50590a64bca1?utm_campaign=1051&utm_source=git)** | Milton, Ontario, Canada | On Site | Jan 01 |
-| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e0a85a49a885af9a24025?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e03cca49a885af9a23b2b?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 01 |
+| ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e0a85a49a885af9a24025?utm_campaign=1051&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 01 |
 | ↳ | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691db6b3748c4e1301ec7e18?utm_campaign=1051&utm_source=git)** | St Albert, Alberta, Canada | On Site | Jan 01 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c4bf758fe1f97e5e91b?utm_campaign=1051&utm_source=git)** | Schaumburg, IL | On Site | Jan 01 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Sales Experience & Analytics](https://jobright.ai/jobs/info/693a8e19ed39e94c66590b7b?utm_campaign=1051&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TeamViewer](https://www.teamviewer.com)** | **[Customer Success Internship (Onsite in Clearwater, FL)](https://jobright.ai/jobs/info/693976f9ac80bb5492bbfad0?utm_campaign=1051&utm_source=git)** | Clearwater, FL | On Site | Jan 01 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship – Commercial Real Estate, Cambridge (Summer 2026)](https://jobright.ai/jobs/info/693a3af2ac80bb5492bcbf86?utm_campaign=1051&utm_source=git)** | Cambridge, MA | On Site | Jan 01 |
 | **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Seattle - June 2026 start)](https://jobright.ai/jobs/info/69017e45d5259a1b3cff561b?utm_campaign=1051&utm_source=git)** | Seattle, WA | On Site | Jan 01 |
-| **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship – Commercial Real Estate Leasing, Boulder (Summer 2026)](https://jobright.ai/jobs/info/693a3da2ac80bb5492bcc14d?utm_campaign=1051&utm_source=git)** | Boulder, CO | On Site | Jan 01 |
-| ↳ | **[Internship – Commercial Real Estate Leasing, San Diego (Summer 2026)](https://jobright.ai/jobs/info/693a3f0a48a8ce22990e3e68?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
-| **[Kimball International](https://www.kimballinternational.com)** | **[Sales Intern- Jasper, IN](https://jobright.ai/jobs/info/693a252648a8ce22990e1fc8?utm_campaign=1051&utm_source=git)** | Jasper, IN | On Site | Jan 01 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Sales Data Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68ffe8bee0c73b3a111a0473?utm_campaign=1051&utm_source=git)** | New Stanton, PA | Hybrid | Jan 01 |
-| **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Sales/Customer Success](https://jobright.ai/jobs/info/68e58dd0ae2b894b1d710ef8?utm_campaign=1051&utm_source=git)** | Austin, TX | Hybrid | Jan 01 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Sales, GTA Toronto, ON](https://jobright.ai/jobs/info/691c82a8bcdbf3560c9e79f3?utm_campaign=1051&utm_source=git)** | Greater Montreal Metropolitan Area | Hybrid | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
