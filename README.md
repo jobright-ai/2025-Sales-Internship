@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader - INT – 6586](https://jobright.ai/jobs/info/695970dcaa05c26e7ab332a8?utm_campaign=1051&utm_source=git)** | Southwest Harbor, ME | On Site | Jan 03 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[New Grad Business Associate](https://jobright.ai/jobs/info/69594f519f1b381eb2722f7f?utm_campaign=1051&utm_source=git)** | San Francisco, CA | On Site | Jan 03 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Sales Intern – Summer 2026 ( Business Graduates)](https://jobright.ai/jobs/info/69594efe9f1b381eb2722f76?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 03 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Commercial Intern](https://jobright.ai/jobs/info/695931449f1b381eb2720f3c?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Jan 03 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355b8aa0dde7020e2f883a?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Jan 03 |
 | ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69354a75f131d96e4846dd44?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Jan 03 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/693c361650bbaf76504f7d57?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Sales Engineer II (OEM)](https://jobright.ai/jobs/info/693f820050bbaf765051b985?utm_campaign=1051&utm_source=git)** | Bethlehem, PA | On Site | Jan 03 |
 | **[Confluent](https://confluent.io)** | **[Partner Sales Operations Skillbridge Intern](https://jobright.ai/jobs/info/691f769909cc522e87741885?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 03 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Kroger Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68e83ce909580a2fe57f5bcf?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jan 03 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/691f7a9b3f782d2f1afbcb48?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 03 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/693bc42a49a7695fbd02af4e?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Jan 03 |
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69316fcafa28370be26ba1a1?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Jan 03 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Materials Sales Representative Intern](https://jobright.ai/jobs/info/693f8d7250bbaf765051be2f?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 03 |
-| **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Indigenous Student Internship, Northwestern Ontario](https://jobright.ai/jobs/info/693c9814aa598a08c3ed80d2?utm_campaign=1051&utm_source=git)** | Thunder Bay, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer - Banking Advisor Student Intern, Saskatchewan](https://jobright.ai/jobs/info/693c9637aa598a08c3ed76a1?utm_campaign=1051&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 03 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - Banking Advisor Student Intern, Saskatchewan](https://jobright.ai/jobs/info/693c9637aa598a08c3ed76a1?utm_campaign=1051&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 03 |
+| ↳ | **[Summer 2026 Student - Indigenous Student Internship, Northwestern Ontario](https://jobright.ai/jobs/info/693c9814aa598a08c3ed80d2?utm_campaign=1051&utm_source=git)** | Thunder Bay, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[Summer 2026 Student - Indigenous Student Internship, Saskatchewan](https://jobright.ai/jobs/info/693c8feeaa598a08c3ed62fe?utm_campaign=1051&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - Banking Advisor Student Intern, Manitoba](https://jobright.ai/jobs/info/693c91d550bbaf76504fc5d7?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 03 |
 | ↳ | **[Summer 2026 Student - Indigenous Student Internship, Manitoba](https://jobright.ai/jobs/info/693c9b9150bbaf76504fe438?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 03 |
