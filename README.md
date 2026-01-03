@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/695878729f1b381eb271635d?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Jan 02 |
+| **[Hefty Seed Company](http://heftyseed.com)** | **[Agronomy Intern - Seasonal](https://jobright.ai/jobs/info/695876b69f1b381eb271621b?utm_campaign=1051&utm_source=git)** | FREEMAN,SD,US | On Site | Jan 02 |
+| **[Aptive Environmental](http://goaptive.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/695861d09f1b381eb2713f74?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 02 |
 | **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (Cleveland)- Summer 2026](https://jobright.ai/jobs/info/695873e5f1f8465b79ef15f8?utm_campaign=1051&utm_source=git)** | Boardman, OH | On Site | Jan 02 |
 | **[Missouri River Energy Services](https://www.mrenergy.com/)** | **[Intern - Market Operations and Settlements](https://jobright.ai/jobs/info/695872aaf1f8465b79ef1510?utm_campaign=1051&utm_source=git)** | Sioux Falls, SD, US | On Site | Jan 02 |
 | **[Ecolab](http://www.ecolab.com)** | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/6958725baa05c26e7ab25d4b?utm_campaign=1051&utm_source=git)** | Covington, LA | Hybrid | Jan 02 |
@@ -67,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/695869849f1b381eb2714bcd?utm_campaign=1051&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 02 |
 | ↳ | **[Engineering Technical Sales Internship](https://jobright.ai/jobs/info/695869649f1b381eb2714bc7?utm_campaign=1051&utm_source=git)** | Blacksburg, VA | Hybrid | Jan 02 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Client Success Intern - Programmatic](https://jobright.ai/jobs/info/695867d8f1f8465b79ef06ae?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
-| **[Aptive Environmental](http://goaptive.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/695861d09f1b381eb2713f74?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 02 |
 | **[Swiss Finance](https://www.swissfinance.com/)** | **[Investment Banking Intern (Institutional Sales)](https://jobright.ai/jobs/info/69585ceaf1f8465b79eef387?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 02 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Corporate Sales Operations Intern (Immediate Opening)](https://jobright.ai/jobs/info/6958899cf1f8465b79ef20cb?utm_campaign=1051&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Jan 02 |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Sales and Marketing Internship – Financial Advising Development Program](https://jobright.ai/jobs/info/695859cd9f1b381eb2713cec?utm_campaign=1051&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Jan 02 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Client Success Intern - CRM](https://jobright.ai/jobs/info/695855839f1b381eb2713adf?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[AiTmed](https://aitmed.com)** | **[Sales And Marketing Representative Intern](https://jobright.ai/jobs/info/6958515ef1f8465b79eeeeed?utm_campaign=1051&utm_source=git)** | Irvine, CA | On Site | Jan 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Scottsdale - June 2026 start)](https://jobright.ai/jobs/info/69017d65d5259a1b3cff5583?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 02 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Engagement - Portfolio Solutions Group – Graduate-Level Internship](https://jobright.ai/jobs/info/68cd83061ad6b16f0289ab69?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68fc610893c49825ab10c872?utm_campaign=1051&utm_source=git)** | Smyrna, DE | On Site | Jan 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/6933ba9af131d96e48466710?utm_campaign=1051&utm_source=git)** | Monroe, LA | On Site | Jan 02 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Tech Sales Engineering Intern (Summer 2026) - Reading, PA](https://jobright.ai/jobs/info/6891211b4c7e851b90acc51f?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Jan 02 |
-| **[Veritiv](https://www.veritiv.com)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/68ccb864128dc347fd9288c9?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
