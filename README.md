@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stravyn Hill](https://www.linkedin.com/company/108148379)** | **[Business Development Intern](https://jobright.ai/jobs/info/6958b69eaa05c26e7ab28f3f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, Intuit Customer Success](https://jobright.ai/jobs/info/6958ac449f1b381eb2717c24?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Jan 02 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer- Client Advisor Student Intern](https://jobright.ai/jobs/info/6958a213f1f8465b79ef2b90?utm_campaign=1051&utm_source=git)** | White Rock, British Columbia, Canada | On Site | Jan 02 |
+| ↳ | **[2026 Summer- Client Advisor Student Intern](https://jobright.ai/jobs/info/6958bd47f1f8465b79ef55da?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 02 |
+| ↳ | **[2026 Summer- Client Advisor Student Intern](https://jobright.ai/jobs/info/6958b6f6aa05c26e7ab290c6?utm_campaign=1051&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | Jan 02 |
+| ↳ | **[2026 Summer- Client Advisor Student Intern](https://jobright.ai/jobs/info/6958b55aaa05c26e7ab28cc0?utm_campaign=1051&utm_source=git)** | Saanich, British Columbia, Canada | On Site | Jan 02 |
 | **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/695878729f1b381eb271635d?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Jan 02 |
 | **[Hefty Seed Company](http://heftyseed.com)** | **[Agronomy Intern - Seasonal](https://jobright.ai/jobs/info/695876b69f1b381eb271621b?utm_campaign=1051&utm_source=git)** | FREEMAN,SD,US | On Site | Jan 02 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/695861d09f1b381eb2713f74?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Portland - June 2026 start)](https://jobright.ai/jobs/info/69017d01d5259a1b3cff5530?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 02 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern](https://jobright.ai/jobs/info/693b5924d4054a2bc0255197?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 02 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6902567898707b2b0fe6e5ce?utm_campaign=1051&utm_source=git)** | Dublin, OH | On Site | Jan 02 |
-| **[Tarkett](https://www.tarkett-group.com/en/)** | **[Sales Intern](https://jobright.ai/jobs/info/693aea21b309e3780086a442?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
-| **[Arbor Homes](https://yourarborhome.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68c9bad4a0c52d598ea3a7ad?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 02 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 02 |
-| **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Scottsdale - June 2026 start)](https://jobright.ai/jobs/info/69017d65d5259a1b3cff5583?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
