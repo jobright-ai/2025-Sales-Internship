@@ -57,10 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Summer Internship Program- Tucson, AZ](https://jobright.ai/jobs/info/695900cbf1f8465b79ef9616?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jan 03 |
+| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- DC, Investment Sales](https://jobright.ai/jobs/info/693c85e2aa598a08c3ed5c56?utm_campaign=1051&utm_source=git)** | Chevy Chase, MD | On Site | Jan 03 |
+| ↳ | **[2026 Summer Intern- Scottsdale, Investment Sales](https://jobright.ai/jobs/info/693c8b3b50bbaf76504fc208?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 03 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/6903d36963502c0aded6cecf?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Jan 03 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/691f814ca49a885af9a30fc6?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Jan 03 |
+| **[Genus PLC](http://www.genusplc.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/693cbfddaa598a08c3ed94c1?utm_campaign=1051&utm_source=git)** | De Forest, WI | Remote | Jan 03 |
+| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/693bc42a49a7695fbd02af4e?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Jan 03 |
+| ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69316fcafa28370be26ba1a1?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Jan 03 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Materials Sales Representative Intern](https://jobright.ai/jobs/info/693f8d7250bbaf765051be2f?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 03 |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68ea167ecdf8d94b293a5066?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 03 |
+| **[Xylem](https://heimplanet.com/)** | **[Sales Engineering Intern](https://jobright.ai/jobs/info/694cc883f5bef51c96ea97cf?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Merchandise Control Internship / Woburn, MA](https://jobright.ai/jobs/info/6958cfdb9f1b381eb271b3d9?utm_campaign=1051&utm_source=git)** | Woburn, MA | On Site | Jan 03 |
 | ↳ | **[Distribution Merchandise Control Internship / Phoenix, AZ](https://jobright.ai/jobs/info/6958cf04f1f8465b79ef67fc?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
 | ↳ | **[Distribution Merchandise Control Internship / Las Vegas, NV](https://jobright.ai/jobs/info/6958ce33aa05c26e7ab2b0f8?utm_campaign=1051&utm_source=git)** | North Las Vegas, NV | On Site | Jan 03 |
-| **[Stravyn Hill](https://www.linkedin.com/company/108148379)** | **[Business Development Intern](https://jobright.ai/jobs/info/6958b69eaa05c26e7ab28f3f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 02 |
+| **[Hefty Seed Company](http://heftyseed.com)** | **[Agronomy Intern - Seasonal](https://jobright.ai/jobs/info/6958e8529f1b381eb271d2b9?utm_campaign=1051&utm_source=git)** | Freeman, SD | On Site | Jan 02 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, Intuit Customer Success](https://jobright.ai/jobs/info/6958ac449f1b381eb2717c24?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Jan 02 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer- Client Advisor Student Intern](https://jobright.ai/jobs/info/6958a213f1f8465b79ef2b90?utm_campaign=1051&utm_source=git)** | White Rock, British Columbia, Canada | On Site | Jan 02 |
 | ↳ | **[2026 Summer- Client Advisor Student Intern](https://jobright.ai/jobs/info/6958bd47f1f8465b79ef55da?utm_campaign=1051&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Jan 02 |
@@ -113,16 +124,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6957e5a2f1f8465b79ee8981?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | ↳ | **[2027 CIB Markets - Summer Internship, Early Careers](https://jobright.ai/jobs/info/6957e55c9f1b381eb270d2da?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | ↳ | **[2027 CIB Markets - Summer Internship, Early Careers](https://jobright.ai/jobs/info/6957e4fbf1f8465b79ee8937?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 02 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6957e47c9f1b381eb270d296?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
-| ↳ | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/6957e424aa05c26e7ab1d254?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Technical Business Case Intern (Hybrid)](https://jobright.ai/jobs/info/6957e189f1f8465b79ee8837?utm_campaign=1051&utm_source=git)** | Clearwater, Florida | Hybrid | Jan 02 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2027 CIB Markets- Summer Internship, Early Careers (California)](https://jobright.ai/jobs/info/6957e118aa05c26e7ab1d175?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 02 |
-| ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6957e0f6aa05c26e7ab1d168?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
 | ↳ | **[2027 Summer Internship, Early Careers - CIB Commercial Real Estate](https://jobright.ai/jobs/info/6957dff4aa05c26e7ab1d12b?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 02 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Commercial Intern](https://jobright.ai/jobs/info/6957dce9f1f8465b79ee876c?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship / Co-op - Summer 2026](https://jobright.ai/jobs/info/691e0f7a3f782d2f1afb05cf?utm_campaign=1051&utm_source=git)** | Carleton Place, Ontario, Canada | On Site | Jan 02 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Purchases Internship](https://jobright.ai/jobs/info/68a7a6bb33dd7158bbca893c?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/6957d5aff1f8465b79ee850a?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Jan 02 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690256ae98707b2b0fe6e5fc?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 02 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690257ed98707b2b0fe6e734?utm_campaign=1051&utm_source=git)** | Kenosha, WI | On Site | Jan 02 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Purchases Internship](https://jobright.ai/jobs/info/68a98a216acf96396f728550?utm_campaign=1051&utm_source=git)** | Mason, OH | On Site | Jan 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ecolab](http://www.ecolab.com)** | **[Paper & Pulp Engineering Technical Sales Intern](https://jobright.ai/jobs/info/691f3a063f782d2f1afb9523?utm_campaign=1051&utm_source=git)** | Lewiston, ME | Hybrid | Jan 02 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690255dcff462851fefe2052?utm_campaign=1051&utm_source=git)** | Lehighton, PA | On Site | Jan 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6934ecba764507023d1be493?utm_campaign=1051&utm_source=git)** | Helena, MT | On Site | Jan 02 |
-| ↳ | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f40ea0dde7020e2f357f?utm_campaign=1051&utm_source=git)** | Grand Island, NE | On Site | Jan 02 |
-| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6902562198707b2b0fe6e58a?utm_campaign=1051&utm_source=git)** | Aurora, CO | On Site | Jan 02 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6902677a98707b2b0fe6ef8e?utm_campaign=1051&utm_source=git)** | Waukesha, WI | On Site | Jan 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Sales Management Trainee Intern](https://jobright.ai/jobs/info/68ec91bf1eecd439f43fa579?utm_campaign=1051&utm_source=git)** | Casper, WY | On Site | Jan 02 |
-| **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Portland - June 2026 start)](https://jobright.ai/jobs/info/69017d01d5259a1b3cff5530?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 02 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern](https://jobright.ai/jobs/info/693b5924d4054a2bc0255197?utm_campaign=1051&utm_source=git)** | San Diego, CA | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
