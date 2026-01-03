@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, Intuit Customer Success](https://jobright.ai/jobs/info/6958ac449f1b381eb2717c24?utm_campaign=1051&utm_source=git)** | San Diego, CA | Remote | Jan 02 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer- Client Advisor Student Intern](https://jobright.ai/jobs/info/6958a213f1f8465b79ef2b90?utm_campaign=1051&utm_source=git)** | White Rock, British Columbia, Canada | On Site | Jan 02 |
 | **[Meijer](https://www.meijer.com/)** | **[Retail Management Intern (North Indy)- Summer 2026](https://jobright.ai/jobs/info/695878729f1b381eb271635d?utm_campaign=1051&utm_source=git)** | Carmel, IN | On Site | Jan 02 |
 | **[Hefty Seed Company](http://heftyseed.com)** | **[Agronomy Intern - Seasonal](https://jobright.ai/jobs/info/695876b69f1b381eb271621b?utm_campaign=1051&utm_source=git)** | FREEMAN,SD,US | On Site | Jan 02 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/695861d09f1b381eb2713f74?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arbor Homes](https://yourarborhome.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/68c9bad4a0c52d598ea3a7ad?utm_campaign=1051&utm_source=git)** | Indianapolis, IN | On Site | Jan 02 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/68c9cc8e95f5211cd2cf4719?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 02 |
 | **[Brighton Jones](http://brightonjones.com)** | **[Private Wealth Management Summer Internship (Scottsdale - June 2026 start)](https://jobright.ai/jobs/info/69017d65d5259a1b3cff5583?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 02 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Client Engagement - Portfolio Solutions Group – Graduate-Level Internship](https://jobright.ai/jobs/info/68cd83061ad6b16f0289ab69?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 02 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Sales Intern](https://jobright.ai/jobs/info/68fc610893c49825ab10c872?utm_campaign=1051&utm_source=git)** | Smyrna, DE | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
