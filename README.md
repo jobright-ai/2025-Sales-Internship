@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Merchandise Internship (Free Housing)](https://jobright.ai/jobs/info/695ac64b9f1b381eb2734681?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Jan 04 |
 | **[ServiceAgent](https://www.fsagent.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/695ab27d9f1b381eb2733d46?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 04 |
-| **[Kalico Group llc.](https://kalicogroupllc.com)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/695aafb49f1b381eb2733d2d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 04 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/695aaebbaa05c26e7ab435d7?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 04 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Retail Category Management Intern](https://jobright.ai/jobs/info/695a971a9f1b381eb2732076?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Jan 04 |
 | **[Brixenta](brixenta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/695aa043f1f8465b79f0eb56?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Jan 04 |
@@ -137,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693d8515aa598a08c3ee25ac?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Jan 04 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a589f131d96e484655f7?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Jan 04 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Market Access Intern](https://jobright.ai/jobs/info/6920f17300c9ee50eaec9b28?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69355063764507023d1c00f4?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Jan 04 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern - Field](https://jobright.ai/jobs/info/693d7a4850bbaf76505084f6?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Jan 04 |
 | **[Cable One/Sparklight Careers](https://ir.cableone.net)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 04 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693d7fa550bbaf7650508626?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/69053720122e8474c78d7977?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
 | **[Office Hours](http://www.officehours.com/)** | **[Summer 2026 Client Solutions Intern, San Francisco](https://jobright.ai/jobs/info/6959d28ff1f8465b79f03441?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 03 |
 | ↳ | **[Summer 2026 Client Solutions Intern, New York](https://jobright.ai/jobs/info/6959d2609f1b381eb272822a?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
-| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6959cc1aaa05c26e7ab37aa7?utm_campaign=1051&utm_source=git)** | Oxford, OH | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
