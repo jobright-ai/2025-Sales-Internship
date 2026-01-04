@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b30fd64a22104aa91e5e?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/69025728ff462851fefe217a?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aab1d64a22104aa91845?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b9d0d64a22104aa92273?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903bb9d63502c0aded6bab6?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b9d0d64a22104aa92273?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690252b300a1816c41e9ce51?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690257cf00a1816c41e9d1e9?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6902553300a1816c41e9d00d?utm_campaign=1051&utm_source=git)** | Union Grove, WI | On Site | Jan 03 |
