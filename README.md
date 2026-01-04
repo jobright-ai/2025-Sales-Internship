@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brixenta](brixenta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/695aa043f1f8465b79f0eb56?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Jan 04 |
+| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Retail Category Management Intern](https://jobright.ai/jobs/info/695a971a9f1b381eb2732076?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Jan 04 |
+| **[Global Guardian](https://www.globalguardian.com)** | **[Account Representative - Intern](https://jobright.ai/jobs/info/695a9330aa05c26e7ab41977?utm_campaign=1051&utm_source=git)** | McLean, VA | On Site | Jan 04 |
+| **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Trading Associate](https://jobright.ai/jobs/info/695a92d59f1b381eb2732011?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 04 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 04 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Retail Loan Operations Intern](https://jobright.ai/jobs/info/695a76d69f1b381eb2731a75?utm_campaign=1051&utm_source=git)** | North Liberty, IA | On Site | Jan 04 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903ad9763502c0aded6b04c?utm_campaign=1051&utm_source=git)** | Chandler, AZ | On Site | Jan 04 |
@@ -125,6 +129,8 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Investor Services, Summer Internship/Co-op (4-16 months)](https://jobright.ai/jobs/info/6958b022aa05c26e7ab2821f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f8d0764507023d1bb277?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Jan 04 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903a7b6ff462851fefed238?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jan 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693d8515aa598a08c3ee25ac?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Jan 04 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a589f131d96e484655f7?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Jan 04 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Market Access Intern](https://jobright.ai/jobs/info/6920f17300c9ee50eaec9b28?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 04 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern - Field](https://jobright.ai/jobs/info/693d7a4850bbaf76505084f6?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Jan 04 |
 | **[Cable One/Sparklight Careers](https://ir.cableone.net)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 04 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/69053720122e8474c78d7977?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
 | **[Office Hours](http://www.officehours.com/)** | **[Summer 2026 Client Solutions Intern, San Francisco](https://jobright.ai/jobs/info/6959d28ff1f8465b79f03441?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 03 |
 | ↳ | **[Summer 2026 Client Solutions Intern, New York](https://jobright.ai/jobs/info/6959d2609f1b381eb272822a?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
-| **[Philanthropic Studios](https://www.youtube.com/@Philanthropic.Studios)** | **[Business Development Intern](https://jobright.ai/jobs/info/6959cde6f1f8465b79f032e5?utm_campaign=1051&utm_source=git)** | Utah, United States | Hybrid | Jan 03 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6959cc1aaa05c26e7ab37aa7?utm_campaign=1051&utm_source=git)** | Oxford, OH | On Site | Jan 03 |
 | **[Algeco GmbH](https://www.algeco.de)** | **[Werkstudent Sales Support / CRM (m/w/d) – bundesweit / remote](https://jobright.ai/jobs/info/69201b813f782d2f1afc2e9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 03 |
+| **[Philanthropic Studios](https://www.youtube.com/@Philanthropic.Studios)** | **[Business Development Intern](https://jobright.ai/jobs/info/695a9bb2f1f8465b79f0d2d4?utm_campaign=1051&utm_source=git)** | Lehi, UT | Hybrid | Jan 03 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Sales Summer Intern 2026](https://jobright.ai/jobs/info/69599c859f1b381eb2725c8d?utm_campaign=1051&utm_source=git)** | Melbourne, FL | Hybrid | Jan 03 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69599b66f1f8465b79f00ebc?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/695999389f1b381eb2725c5b?utm_campaign=1051&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69599922aa05c26e7ab3579a?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6959990b9f1b381eb2725c56?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/695998e49f1b381eb2725c50?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/695998959f1b381eb2725c47?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6959880c9f1b381eb2725a8c?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 03 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader – Uniforms FT – 6577](https://jobright.ai/jobs/info/69597d8daa05c26e7ab339a8?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
