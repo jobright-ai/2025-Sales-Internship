@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP Marketing](https://www.hpros.com/)** | **[Sales Summer Intern 2026](https://jobright.ai/jobs/info/69599c859f1b381eb2725c8d?utm_campaign=1051&utm_source=git)** | Melbourne, FL | Hybrid | Jan 03 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69599b66f1f8465b79f00ebc?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 03 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/695999389f1b381eb2725c5b?utm_campaign=1051&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Jan 03 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69599922aa05c26e7ab3579a?utm_campaign=1051&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 03 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6959990b9f1b381eb2725c56?utm_campaign=1051&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 03 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/695998e49f1b381eb2725c50?utm_campaign=1051&utm_source=git)** | Waterloo, Ontario, Canada | On Site | Jan 03 |
+| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/695998959f1b381eb2725c47?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Jan 03 |
+| **[TransPerfect Connect](http://www.transperfectconnect.com/)** | **[Sales Intern](https://jobright.ai/jobs/info/69599200aa05c26e7ab356e1?utm_campaign=1051&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Jan 03 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/6959880c9f1b381eb2725a8c?utm_campaign=1051&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 03 |
 | **[Crest Vale](crestvale.us)** | **[Trading Associate](https://jobright.ai/jobs/info/6959846ff1f8465b79f00062?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader – Uniforms FT – 6577](https://jobright.ai/jobs/info/69597d8daa05c26e7ab339a8?utm_campaign=1051&utm_source=git)** | Honolulu, HI | On Site | Jan 03 |
@@ -110,15 +118,16 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Sales Account Specialist Intern](https://jobright.ai/jobs/info/69355b8aa0dde7020e2f883a?utm_campaign=1051&utm_source=git)** | Missoula, MT | On Site | Jan 03 |
 | ↳ | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69354a75f131d96e4846dd44?utm_campaign=1051&utm_source=git)** | Tyler, TX | On Site | Jan 03 |
 | **[Linde Gas & Equipment](https://www.lindedirect.com)** | **[Sales Internship](https://jobright.ai/jobs/info/693c361650bbaf76504f7d57?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Sales Engineer II (OEM)](https://jobright.ai/jobs/info/6959915aaa05c26e7ab356bd?utm_campaign=1051&utm_source=git)** | Bethlehem, PA | On Site | Jan 03 |
 | **[Confluent](https://confluent.io)** | **[Partner Sales Operations Skillbridge Intern](https://jobright.ai/jobs/info/691f769909cc522e87741885?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 03 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Kroger Sales Intern - Summer 2026](https://jobright.ai/jobs/info/68e83ce909580a2fe57f5bcf?utm_campaign=1051&utm_source=git)** | Cincinnati, OH | On Site | Jan 03 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Outside Sales Specialist Intern](https://jobright.ai/jobs/info/691f7a9b3f782d2f1afbcb48?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Rental](https://jobright.ai/jobs/info/691f817809cc522e877423a5?utm_campaign=1051&utm_source=git)** | Chester, VA | On Site | Jan 03 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b30fd64a22104aa91e5e?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/69025728ff462851fefe217a?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Jan 03 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b9d0d64a22104aa92273?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 03 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903bb9d63502c0aded6bab6?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aab1d64a22104aa91845?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903bb9d63502c0aded6bab6?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b9d0d64a22104aa92273?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690252b300a1816c41e9ce51?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690257cf00a1816c41e9d1e9?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6902553300a1816c41e9d00d?utm_campaign=1051&utm_source=git)** | Union Grove, WI | On Site | Jan 03 |
@@ -145,16 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/693bc42a49a7695fbd02af4e?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Jan 03 |
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69316fcafa28370be26ba1a1?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Jan 03 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Materials Sales Representative Intern](https://jobright.ai/jobs/info/693f8d7250bbaf765051be2f?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 03 |
-| **[RBC](https://www.rbc.com)** | **[Summer 2026 Student - Indigenous Student Internship, Northwestern Ontario](https://jobright.ai/jobs/info/693c9814aa598a08c3ed80d2?utm_campaign=1051&utm_source=git)** | Thunder Bay, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer - Banking Advisor Student Intern, Saskatchewan](https://jobright.ai/jobs/info/693c9637aa598a08c3ed76a1?utm_campaign=1051&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 03 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - Banking Advisor Student Intern, Saskatchewan](https://jobright.ai/jobs/info/693c9637aa598a08c3ed76a1?utm_campaign=1051&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 03 |
+| ↳ | **[Summer 2026 Student - Indigenous Student Internship, Northwestern Ontario](https://jobright.ai/jobs/info/693c9814aa598a08c3ed80d2?utm_campaign=1051&utm_source=git)** | Thunder Bay, Ontario, Canada | On Site | Jan 03 |
 | ↳ | **[Summer 2026 Student - Indigenous Student Internship, Saskatchewan](https://jobright.ai/jobs/info/693c8feeaa598a08c3ed62fe?utm_campaign=1051&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer - Banking Advisor Student Intern, Manitoba](https://jobright.ai/jobs/info/693c91d550bbaf76504fc5d7?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 03 |
-| ↳ | **[Summer 2026 Student - Indigenous Student Internship, Manitoba](https://jobright.ai/jobs/info/693c9b9150bbaf76504fe438?utm_campaign=1051&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer - Regional Banking Student Intern, South Western Ontario](https://jobright.ai/jobs/info/693c43b749a7695fbd030a40?utm_campaign=1051&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[Summer 2026 Student - Indigenous Student Internship, South Western Ontario](https://jobright.ai/jobs/info/693c9da550bbaf76504fe61c?utm_campaign=1051&utm_source=git)** | Woodstock, Ontario, Canada | On Site | Jan 03 |
-| **[ADP](http://www.adp.com)** | **[Sales Intern](https://jobright.ai/jobs/info/693a5b8d48a8ce22990e68f6?utm_campaign=1051&utm_source=git)** | Allentown, PA | On Site | Jan 03 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - Banking Advisor Student Intern, Northwestern Ontario](https://jobright.ai/jobs/info/693c95bfaa598a08c3ed748d?utm_campaign=1051&utm_source=git)** | Greater Sudbury, Ontario, Canada | Hybrid | Jan 03 |
-| **[S&P Global](https://www.spglobal.com)** | **[Commercial & CX Commodity Summer Intern - (Early Careers)](https://jobright.ai/jobs/info/693cd96c49a7695fbd038b04?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 03 |
-| ↳ | **[Commercial & CX Commodity Summer Intern - (Early Careers)](https://jobright.ai/jobs/info/693cdb5949a7695fbd038bc8?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 03 |
-| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68ea167ecdf8d94b293a5066?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
