@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Brixenta](brixenta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/695aa043f1f8465b79f0eb56?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Jan 04 |
+| **[ServiceAgent](https://www.fsagent.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/695ab27d9f1b381eb2733d46?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 04 |
+| **[Kalico Group llc.](https://kalicogroupllc.com)** | **[Real Estate Development Intern](https://jobright.ai/jobs/info/695aafb49f1b381eb2733d2d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 04 |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/695aaebbaa05c26e7ab435d7?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 04 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Retail Category Management Intern](https://jobright.ai/jobs/info/695a971a9f1b381eb2732076?utm_campaign=1051&utm_source=git)** | Buffalo, NY | On Site | Jan 04 |
+| **[Brixenta](brixenta.us)** | **[Sales Internship](https://jobright.ai/jobs/info/695aa043f1f8465b79f0eb56?utm_campaign=1051&utm_source=git)** | Maryland Heights, MO | On Site | Jan 04 |
 | **[Global Guardian](https://www.globalguardian.com)** | **[Account Representative - Intern](https://jobright.ai/jobs/info/695a9330aa05c26e7ab41977?utm_campaign=1051&utm_source=git)** | McLean, VA | On Site | Jan 04 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Trading Associate](https://jobright.ai/jobs/info/695a92d59f1b381eb2732011?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 04 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 04 |
@@ -127,7 +130,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Truck Rental Account Specialist Internship - Wolcott, CT](https://jobright.ai/jobs/info/6933ef97f131d96e484686d3?utm_campaign=1051&utm_source=git)** | Waterbury, CT | On Site | Jan 04 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68e8cf5501c6482bd8777960?utm_campaign=1051&utm_source=git)** | Warner Robins, GA | On Site | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Investor Services, Summer Internship/Co-op (4-16 months)](https://jobright.ai/jobs/info/6958b022aa05c26e7ab2821f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f8d0764507023d1bb277?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Jan 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6904df0eff462851feff836a?utm_campaign=1051&utm_source=git)** | Dothan, AL | On Site | Jan 04 |
+| ↳ | **[Summer Truck Rental Account Specialist Internship - East Granby, Connecticut](https://jobright.ai/jobs/info/6933f865764507023d1bb0f9?utm_campaign=1051&utm_source=git)** | Windsor, CT | On Site | Jan 04 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f8d0764507023d1bb277?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Jan 04 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903a7b6ff462851fefed238?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693d8515aa598a08c3ee25ac?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Jan 04 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a589f131d96e484655f7?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Jan 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Office Hours](http://www.officehours.com/)** | **[Summer 2026 Client Solutions Intern, San Francisco](https://jobright.ai/jobs/info/6959d28ff1f8465b79f03441?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 03 |
 | ↳ | **[Summer 2026 Client Solutions Intern, New York](https://jobright.ai/jobs/info/6959d2609f1b381eb272822a?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6959cc1aaa05c26e7ab37aa7?utm_campaign=1051&utm_source=git)** | Oxford, OH | On Site | Jan 03 |
-| **[Algeco GmbH](https://www.algeco.de)** | **[Werkstudent Sales Support / CRM (m/w/d) – bundesweit / remote](https://jobright.ai/jobs/info/69201b813f782d2f1afc2e9f?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 03 |
-| **[Philanthropic Studios](https://www.youtube.com/@Philanthropic.Studios)** | **[Business Development Intern](https://jobright.ai/jobs/info/695a9bb2f1f8465b79f0d2d4?utm_campaign=1051&utm_source=git)** | Lehi, UT | Hybrid | Jan 03 |
-| **[HP Marketing](https://www.hpros.com/)** | **[Sales Summer Intern 2026](https://jobright.ai/jobs/info/69599c859f1b381eb2725c8d?utm_campaign=1051&utm_source=git)** | Melbourne, FL | Hybrid | Jan 03 |
-| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/69599b66f1f8465b79f00ebc?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 03 |
-| ↳ | **[2026 Summer Sales Intern - Vantage](https://jobright.ai/jobs/info/695999389f1b381eb2725c5b?utm_campaign=1051&utm_source=git)** | Newmarket, Ontario, Canada | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
