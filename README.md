@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cable One/Sparklight Careers](https://ir.cableone.net)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 04 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693d7fa550bbaf7650508626?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 04 |
+| **[DP World](https://www.dpworld.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/68ccf5145954791a1d7019dd?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 04 |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e85033cc49a84b7e104f97?utm_campaign=1051&utm_source=git)** | Rosemont, IL | On Site | Jan 04 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/694392e294730b739876c32d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 04 |
+| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68edc51881fdd1626d39f369?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 04 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Materials Sales Representative Intern](https://jobright.ai/jobs/info/6920f4a8a49a885af9a41305?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jan 04 |
+| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e8547cc72beb74cb31d998?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 04 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68e8574a09580a2fe57f6a55?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 04 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68e855ba09580a2fe57f6929?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 04 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Sales Strategy & Operations Manager](https://jobright.ai/jobs/info/68e88e64c72beb74cb320111?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 04 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/69053720122e8474c78d7977?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Operatoins Intern](https://jobright.ai/jobs/info/6959f2bcaa05c26e7ab3a36f?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Jan 03 |
 | **[Office Hours](http://www.officehours.com/)** | **[Summer 2026 Client Solutions Intern, San Francisco](https://jobright.ai/jobs/info/6959d28ff1f8465b79f03441?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 03 |
 | ↳ | **[Summer 2026 Client Solutions Intern, New York](https://jobright.ai/jobs/info/6959d2609f1b381eb272822a?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
@@ -129,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern - Rental](https://jobright.ai/jobs/info/691f817809cc522e877423a5?utm_campaign=1051&utm_source=git)** | Chester, VA | On Site | Jan 03 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b30fd64a22104aa91e5e?utm_campaign=1051&utm_source=git)** | Hayward, CA | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/69025728ff462851fefe217a?utm_campaign=1051&utm_source=git)** | Glenview, IL | On Site | Jan 03 |
-| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aab1d64a22104aa91845?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903bb9d63502c0aded6bab6?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
+| ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903aab1d64a22104aa91845?utm_campaign=1051&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903b9d0d64a22104aa92273?utm_campaign=1051&utm_source=git)** | Duluth, GA | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690252b300a1816c41e9ce51?utm_campaign=1051&utm_source=git)** | Youngstown, OH | On Site | Jan 03 |
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/690257cf00a1816c41e9d1e9?utm_campaign=1051&utm_source=git)** | Dallas, TX | On Site | Jan 03 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/69340ba1f131d96e484692d7?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Non Alcs Category Manager Intern](https://jobright.ai/jobs/info/691f4ad23f782d2f1afba002?utm_campaign=1051&utm_source=git)** | Irving, TX | On Site | Jan 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693513adf131d96e4846ccb3?utm_campaign=1051&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693c29c049a7695fbd0301b0?utm_campaign=1051&utm_source=git)** | Charlotte, NC | Hybrid | Jan 03 |
-| **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae6914d627244576e53b61?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 03 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management & Sales Summer Internship Program- Tucson, AZ](https://jobright.ai/jobs/info/695900cbf1f8465b79ef9616?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jan 03 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- DC, Investment Sales](https://jobright.ai/jobs/info/693c85e2aa598a08c3ed5c56?utm_campaign=1051&utm_source=git)** | Chevy Chase, MD | On Site | Jan 03 |
-| ↳ | **[2026 Summer Intern- Scottsdale, Investment Sales](https://jobright.ai/jobs/info/693c8b3b50bbaf76504fc208?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 03 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Sales Development Representative](https://jobright.ai/jobs/info/693cd462aa598a08c3eda027?utm_campaign=1051&utm_source=git)** | Wilmington, MA | Remote | Jan 03 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Sales](https://jobright.ai/jobs/info/6903d36963502c0aded6cecf?utm_campaign=1051&utm_source=git)** | Oakland, CA | Hybrid | Jan 03 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Materials Sales Representative Intern](https://jobright.ai/jobs/info/69042fccd64a22104aa97e70?utm_campaign=1051&utm_source=git)** | Tucson, AZ | On Site | Jan 03 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Customer Success Manager Intern](https://jobright.ai/jobs/info/691f814ca49a885af9a30fc6?utm_campaign=1051&utm_source=git)** | San Diego, CA | Hybrid | Jan 03 |
-| **[Genus PLC](http://www.genusplc.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/693cbfddaa598a08c3ed94c1?utm_campaign=1051&utm_source=git)** | De Forest, WI | Remote | Jan 03 |
-| **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/693bc42a49a7695fbd02af4e?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Jan 03 |
-| ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69316fcafa28370be26ba1a1?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
