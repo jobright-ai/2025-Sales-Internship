@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Operatoins Intern](https://jobright.ai/jobs/info/6959f2bcaa05c26e7ab3a36f?utm_campaign=1051&utm_source=git)** | Virginia, United States | Remote | Jan 03 |
 | **[Office Hours](http://www.officehours.com/)** | **[Summer 2026 Client Solutions Intern, San Francisco](https://jobright.ai/jobs/info/6959d28ff1f8465b79f03441?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 03 |
 | ↳ | **[Summer 2026 Client Solutions Intern, New York](https://jobright.ai/jobs/info/6959d2609f1b381eb272822a?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
 | **[Philanthropic Studios](https://www.youtube.com/@Philanthropic.Studios)** | **[Business Development Intern](https://jobright.ai/jobs/info/6959cde6f1f8465b79f032e5?utm_campaign=1051&utm_source=git)** | Utah, United States | Hybrid | Jan 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genus PLC](http://www.genusplc.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/693cbfddaa598a08c3ed94c1?utm_campaign=1051&utm_source=git)** | De Forest, WI | Remote | Jan 03 |
 | **[Comparion Insurance Agency](https://www.comparioninsurance.com)** | **[Part-Time Sales Internship - Academic Year 2025/26](https://jobright.ai/jobs/info/693bc42a49a7695fbd02af4e?utm_campaign=1051&utm_source=git)** | Middlebury, CT | On Site | Jan 03 |
 | ↳ | **[Northeast - Sales Internship (Comparion) - Summer 2026](https://jobright.ai/jobs/info/69316fcafa28370be26ba1a1?utm_campaign=1051&utm_source=git)** | Marlborough, MA | On Site | Jan 03 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Materials Sales Representative Intern](https://jobright.ai/jobs/info/693f8d7250bbaf765051be2f?utm_campaign=1051&utm_source=git)** | Salt Lake City, UT | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
