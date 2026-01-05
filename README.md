@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Sales Intern - Ground Support Equipment](https://jobright.ai/jobs/info/695b84319f1b381eb273e7bd?utm_campaign=1051&utm_source=git)** | Cartersville, GA | On Site | Jan 05 |
+| **[PCL Construction](http://www.pcl.com)** | **[Business Development Student](https://jobright.ai/jobs/info/695b7fbc9f1b381eb273e3f1?utm_campaign=1051&utm_source=git)** | Oakville, Ontario, Canada | On Site | Jan 05 |
+| **[Textron](http://textron.com)** | **[2026 Sales Intern - Ground Support Equipment](https://jobright.ai/jobs/info/695b7f61aa05c26e7ab4cea3?utm_campaign=1051&utm_source=git)** | Cartersville, GA | On Site | Jan 05 |
+| ↳ | **[2026 Sales Intern - E-Z-GO](https://jobright.ai/jobs/info/695b7e8caa05c26e7ab4cd1f?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Sales Intern - E-Z-GO](https://jobright.ai/jobs/info/695b7ca5aa05c26e7ab4ca48?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
+| **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Sales Intern - Summer 2026 - Norcross, GA](https://jobright.ai/jobs/info/695b7996f1f8465b79f181c7?utm_campaign=1051&utm_source=git)** | Norcross, GA | On Site | Jan 05 |
+| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Sales Intern - Ground Support Equipment](https://jobright.ai/jobs/info/695b78d6aa05c26e7ab4c97b?utm_campaign=1051&utm_source=git)** | Cartersville, GA | On Site | Jan 05 |
+| ↳ | **[2026 Sales Intern - E-Z-GO](https://jobright.ai/jobs/info/695b783b9f1b381eb273d38e?utm_campaign=1051&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
+| **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[2026 Summer Toyota Financial Services (TFS) Internship](https://jobright.ai/jobs/info/69105588183be660d2678347?utm_campaign=1051&utm_source=git)** | Plano, TX | On Site | Jan 05 |
+| **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Sales Intern - Summer 2026 - Pittsburgh, PA](https://jobright.ai/jobs/info/695b7787aa05c26e7ab4c90b?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jan 05 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/695b67589f1b381eb273ca7f?utm_campaign=1051&utm_source=git)** | Oakville, Ontario, Canada | On Site | Jan 04 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Intern, Sales Desk-Disability, Internal & Sales Technology](https://jobright.ai/jobs/info/695b6314aa05c26e7ab4bc23?utm_campaign=1051&utm_source=git)** | Hartford, CT | On Site | Jan 04 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/693732f71c1c2161c13f1641?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | Jan 04 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693d8515aa598a08c3ee25ac?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Jan 04 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933a589f131d96e484655f7?utm_campaign=1051&utm_source=git)** | Columbus, GA | On Site | Jan 04 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Market Access Intern](https://jobright.ai/jobs/info/6920f17300c9ee50eaec9b28?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Internship - Sales Management Trainee](https://jobright.ai/jobs/info/69355063764507023d1c00f4?utm_campaign=1051&utm_source=git)** | Little Rock, AR | On Site | Jan 04 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern - Field](https://jobright.ai/jobs/info/693d7a4850bbaf76505084f6?utm_campaign=1051&utm_source=git)** | Lansing, MI | Hybrid | Jan 04 |
-| **[Cable One/Sparklight Careers](https://ir.cableone.net)** | **[Business Development Summer Intern](https://jobright.ai/jobs/info/690d8a25221b890c27807751?utm_campaign=1051&utm_source=git)** | Phoenix, AZ | On Site | Jan 04 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Area Leader Trainee Intern](https://jobright.ai/jobs/info/693d7fa550bbaf7650508626?utm_campaign=1051&utm_source=git)** | Chicago, IL | Hybrid | Jan 04 |
-| **[DP World](https://www.dpworld.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/68ccf5145954791a1d7019dd?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 04 |
-| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e85033cc49a84b7e104f97?utm_campaign=1051&utm_source=git)** | Rosemont, IL | On Site | Jan 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/694392e294730b739876c32d?utm_campaign=1051&utm_source=git)** | Los Angeles, CA | On Site | Jan 04 |
-| **[Qualtrics](http://www.qualtrics.com)** | **[Sales Development Representative Intern](https://jobright.ai/jobs/info/68edc51881fdd1626d39f369?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 04 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern](https://jobright.ai/jobs/info/6941089e49a7695fbd069038?utm_campaign=1051&utm_source=git)** | Peoria, IL | On Site | Jan 04 |
-| ↳ | **[2026 Management and Sales Internship -Austin](https://jobright.ai/jobs/info/69561bf3aa05c26e7ab05bf0?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
