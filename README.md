@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veteran Home Buyer Solutions, LLC](https://weareveteranhomebuyers.com/)** | **[Home Buyer Specialist - SkillBridge Internship / Active Duty Military ONLY](https://jobright.ai/jobs/info/695b3a2daa05c26e7ab4918b?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 04 |
+| **[Crest Vale](crestvale.us)** | **[Trading Associate](https://jobright.ai/jobs/info/695b39a79f1b381eb2739860?utm_campaign=1051&utm_source=git)** | Chicago, IL | Remote | Jan 04 |
+| **[Veteran Home Buyer Solutions, LLC](https://weareveteranhomebuyers.com/)** | **[Home Buyer Specialist SkillBridge Internship - UP TO $10,000 Sign on bonus / ACTIVE DUTY ONLY](https://jobright.ai/jobs/info/695b391d9f1b381eb2739849?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 04 |
 | **[Bizly](http://www.bizly.com)** | **[Business Development Internship](https://jobright.ai/jobs/info/695b22e8f1f8465b79f13bd2?utm_campaign=1051&utm_source=git)** | Palo Alto, CA | On Site | Jan 04 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/695b22e19f1b381eb2738d21?utm_campaign=1051&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Jan 04 |
 | **[RIGOL TECHNOLOGIES](http://rigol.com)** | **[RIGOL North America Intern](https://jobright.ai/jobs/info/6937f924aabec14a727cf9eb?utm_campaign=1051&utm_source=git)** | Portland, OR | On Site | Jan 04 |
@@ -134,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Truck Rental Account Specialist Internship - Wolcott, CT](https://jobright.ai/jobs/info/6933ef97f131d96e484686d3?utm_campaign=1051&utm_source=git)** | Waterbury, CT | On Site | Jan 04 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68e8cf5501c6482bd8777960?utm_campaign=1051&utm_source=git)** | Warner Robins, GA | On Site | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Investor Services, Summer Internship/Co-op (4-16 months)](https://jobright.ai/jobs/info/6958b022aa05c26e7ab2821f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6904df0eff462851feff836a?utm_campaign=1051&utm_source=git)** | Dothan, AL | On Site | Jan 04 |
-| ↳ | **[Summer Truck Rental Account Specialist Internship - East Granby, Connecticut](https://jobright.ai/jobs/info/6933f865764507023d1bb0f9?utm_campaign=1051&utm_source=git)** | Windsor, CT | On Site | Jan 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - East Granby, Connecticut](https://jobright.ai/jobs/info/6933f865764507023d1bb0f9?utm_campaign=1051&utm_source=git)** | Windsor, CT | On Site | Jan 04 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6904df0eff462851feff836a?utm_campaign=1051&utm_source=git)** | Dothan, AL | On Site | Jan 04 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f8d0764507023d1bb277?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Jan 04 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903a7b6ff462851fefed238?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693d8515aa598a08c3ee25ac?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Jan 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/695a75d19f1b381eb27319df?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 04 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Materials Sales Representative Intern](https://jobright.ai/jobs/info/6920f4a8a49a885af9a41305?utm_campaign=1051&utm_source=git)** | Vancouver, WA | On Site | Jan 04 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e8547cc72beb74cb31d998?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 04 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68e8574a09580a2fe57f6a55?utm_campaign=1051&utm_source=git)** | Boston, MA | On Site | Jan 04 |
-| **[MathWorks](http://www.mathworks.com)** | **[Inside Sales Summer Intern](https://jobright.ai/jobs/info/695822e99f1b381eb27103ae?utm_campaign=1051&utm_source=git)** | Natick, MA | Hybrid | Jan 04 |
-| **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/68e855ba09580a2fe57f6929?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
