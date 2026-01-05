@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/695afdf89f1b381eb27367a6?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 04 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Merchandise Internship (Free Housing)](https://jobright.ai/jobs/info/695ac64b9f1b381eb2734681?utm_campaign=1051&utm_source=git)** | Bismarck, ND | On Site | Jan 04 |
 | **[ServiceAgent](https://www.fsagent.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/695ab27d9f1b381eb2733d46?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 04 |
 | **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/695aaebbaa05c26e7ab435d7?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Sales Strategy & Operations Manager](https://jobright.ai/jobs/info/68e88e64c72beb74cb320111?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 04 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[ETF Sales Internship: Summer 2026](https://jobright.ai/jobs/info/69053720122e8474c78d7977?utm_campaign=1051&utm_source=git)** | Greater Philadelphia | On Site | Jan 04 |
 | **[Office Hours](http://www.officehours.com/)** | **[Summer 2026 Client Solutions Intern, San Francisco](https://jobright.ai/jobs/info/6959d28ff1f8465b79f03441?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 03 |
-| ↳ | **[Summer 2026 Client Solutions Intern, New York](https://jobright.ai/jobs/info/6959d2609f1b381eb272822a?utm_campaign=1051&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
