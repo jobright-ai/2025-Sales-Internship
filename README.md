@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Truck Rental Account Specialist Internship - Wolcott, CT](https://jobright.ai/jobs/info/6933ef97f131d96e484686d3?utm_campaign=1051&utm_source=git)** | Waterbury, CT | On Site | Jan 04 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/68e8cf5501c6482bd8777960?utm_campaign=1051&utm_source=git)** | Warner Robins, GA | On Site | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Investor Services, Summer Internship/Co-op (4-16 months)](https://jobright.ai/jobs/info/6958b022aa05c26e7ab2821f?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6904df0eff462851feff836a?utm_campaign=1051&utm_source=git)** | Dothan, AL | On Site | Jan 04 |
-| ↳ | **[Summer Truck Rental Account Specialist Internship - East Granby, Connecticut](https://jobright.ai/jobs/info/6933f865764507023d1bb0f9?utm_campaign=1051&utm_source=git)** | Windsor, CT | On Site | Jan 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer Truck Rental Account Specialist Internship - East Granby, Connecticut](https://jobright.ai/jobs/info/6933f865764507023d1bb0f9?utm_campaign=1051&utm_source=git)** | Windsor, CT | On Site | Jan 04 |
+| ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6904df0eff462851feff836a?utm_campaign=1051&utm_source=git)** | Dothan, AL | On Site | Jan 04 |
 | ↳ | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/6933f8d0764507023d1bb277?utm_campaign=1051&utm_source=git)** | Albany, GA | On Site | Jan 04 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6903a7b6ff462851fefed238?utm_campaign=1051&utm_source=git)** | Boca Raton, FL | On Site | Jan 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Sales Management Trainee Intern](https://jobright.ai/jobs/info/693d8515aa598a08c3ee25ac?utm_campaign=1051&utm_source=git)** | Macon, GA | On Site | Jan 04 |
