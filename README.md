@@ -129,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601e3ba112b402660ed55d?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jan 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601e1ea112b402660ed532?utm_campaign=1051&utm_source=git)** | Lincoln, MI | On Site | Jan 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601e1ba112b402660ed52b?utm_campaign=1051&utm_source=git)** | View Park–Windsor Hills, CA | On Site | Jan 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601e17a1bbea1d9a7aecef?utm_campaign=1051&utm_source=git)** | Cheektowaga, NY | On Site | Jan 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601e17a112b402660ed525?utm_campaign=1051&utm_source=git)** | East Glenville, NY | On Site | Jan 08 |
+| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601e17a1bbea1d9a7aecef?utm_campaign=1051&utm_source=git)** | Cheektowaga, NY | On Site | Jan 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601e07a112b402660ed50e?utm_campaign=1051&utm_source=git)** | Columbia, SC | On Site | Jan 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601dffa112b402660ed506?utm_campaign=1051&utm_source=git)** | Huntsville, AL | On Site | Jan 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601dcda112b402660ed4c8?utm_campaign=1051&utm_source=git)** | Dayton, OH | On Site | Jan 08 |
