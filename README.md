@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Price Industries](https://www.priceindustries.com)** | **[Intern - Purchasing - Summer 2026](https://jobright.ai/jobs/info/696027cda1bbea1d9a7af9b6?utm_campaign=1051&utm_source=git)** | Suwanee, GA | On Site | Jan 08 |
 | **[Lotus Sales](www.lotussales.co)** | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/696026377ebc25398eb6170e?utm_campaign=1051&utm_source=git)** | Providence, RI | On Site | Jan 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69602560a1bbea1d9a7af663?utm_campaign=1051&utm_source=git)** | Bakersfield, CA | On Site | Jan 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/696025277ebc25398eb6157d?utm_campaign=1051&utm_source=git)** | South San Francisco, CA | On Site | Jan 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601b67a112b402660ed1d9?utm_campaign=1051&utm_source=git)** | Security-Widefield, CO | On Site | Jan 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601b3fa1bbea1d9a7ae969?utm_campaign=1051&utm_source=git)** | Henderson, NV | On Site | Jan 08 |
 | ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601b36a112b402660ed1a2?utm_campaign=1051&utm_source=git)** | Eugene, OR | On Site | Jan 08 |
-| ↳ | **[Summer Sales Internship - Make $7,000 - $20,000+ (Training Provided)](https://jobright.ai/jobs/info/69601b16a112b402660ed174?utm_campaign=1051&utm_source=git)** | Rockville, MD | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
