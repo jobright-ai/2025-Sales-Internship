@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vyntravo](vyntravo.us)** | **[Graduate Trading Trainee](https://jobright.ai/jobs/info/6962840ea112b4026610eec7?utm_campaign=1051&utm_source=git)** | Illinois, United States | On Site | Jan 10 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[ATS Sales & Eng Intern](https://jobright.ai/jobs/info/696275b625e18715077f4b0c?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - New England & Capital District,](https://jobright.ai/jobs/info/696270752cbf4e44756c645b?utm_campaign=1051&utm_source=git)** | South Windsor, CT | On Site | Jan 10 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/69626a8625e18715077f480a?utm_campaign=1051&utm_source=git)** | Pooler, GA | On Site | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f17d3ff462172a5a7d9239?utm_campaign=1051&utm_source=git)** | Hudson, WI | On Site | Jan 10 |
@@ -102,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d62ccaebcef82ef5cf73e3?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 10 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4a191ffc1276de3fdca9c?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
 | **[Paycom](http://www.paycom.com)** | **[Client Success Intern](https://jobright.ai/jobs/info/68cd1b16b2a74e1837ed2877?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 10 |
+| **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/6959d5eff1f8465b79f03569?utm_campaign=1051&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6954a530aa05c26e7aaf1d03?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Jan 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/692003db09cc522e877474d2?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Jan 10 |
 | **[Corsair](http://www.corsair.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/6945987f63141d1884552507?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 10 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Internship (Stores) / Brea, CA  - Summer 2026](https://jobright.ai/jobs/info/696210d72cbf4e44756c0891?utm_campaign=1051&utm_source=git)** | Brea, CA | On Site | Jan 10 |
 | ↳ | **[Retail Management Internship (Stores) / Scottsdale, AZ - Summer 2026](https://jobright.ai/jobs/info/696210c92cbf4e44756c0882?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 10 |
 | **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Business Development & Strategy](https://jobright.ai/jobs/info/69045aaaff462851feff4cdc?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 10 |
-| **[Vyntravo](vyntravo.us)** | **[New Graduates Business Operations](https://jobright.ai/jobs/info/696209b9a112b4026610747e?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Thousand Oaks, CA - Summer 2026](https://jobright.ai/jobs/info/6962099ba112b40266107475?utm_campaign=1051&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 10 |
 | ↳ | **[Retail Management Internship (Stores) / Menifee, CA - Summer 2026](https://jobright.ai/jobs/info/696207112cbf4e44756c0164?utm_campaign=1051&utm_source=git)** | Menifee, CA | On Site | Jan 10 |
 | **[Communication Service for the Deaf (CSD)](https://www.csd.org/)** | **[Business Development - Internship](https://jobright.ai/jobs/info/6962223da112b40266108c11?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Jan 09 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Goodyear, AZ - Summer 2026](https://jobright.ai/jobs/info/6961ff0ea112b402661070b5?utm_campaign=1051&utm_source=git)** | Goodyear, AZ 85338 | On Site | Jan 09 |
 | ↳ | **[Retail Management Internship (Stores) / Scottsdale, AZ - Summer 2026](https://jobright.ai/jobs/info/6961fee9a112b402661070a2?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ 85258 | On Site | Jan 09 |
 | ↳ | **[Retail Management Internship (Stores) / Tucson, AZ - Summer 2026](https://jobright.ai/jobs/info/6961fee3a112b402661070a1?utm_campaign=1051&utm_source=git)** | Tucson, AZ 85704 | On Site | Jan 09 |
-| ↳ | **[Retail Management Internship (Stores) / Phoenix, AZ - Summer 2026](https://jobright.ai/jobs/info/6961fea2e7ed9a5731bab3a1?utm_campaign=1051&utm_source=git)** | Phoenix, AZ 85032 | On Site | Jan 09 |
-| ↳ | **[Retail Management Internship (Stores) / Chandler, AZ - Summer 2026](https://jobright.ai/jobs/info/6961fe9af3f4cd132506e67a?utm_campaign=1051&utm_source=git)** | Chandler, AZ 85248 | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
