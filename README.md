@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Nutech Summer Intern](https://jobright.ai/jobs/info/69617808f3f4cd1325067129?utm_campaign=1051&utm_source=git)** | Iowa, United States | On Site | Jan 09 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Systems Customer Success Intern - Summer 2026](https://jobright.ai/jobs/info/696177a9f3f4cd13250670b9?utm_campaign=1051&utm_source=git)** | Longmont, United States | On Site | Jan 09 |
 | **[The Theofilis Group (TTG)](theofilisgroup.com)** | **[Private Equity Intern](https://jobright.ai/jobs/info/696176c2e7ed9a5731ba3e62?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 09 |
 | **[Jack Victor Limited](https://www.jackvictor.com/)** | **[Internship, New York Showroom](https://jobright.ai/jobs/info/69617667e7ed9a5731ba3ddd?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 09 |
@@ -100,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Xpand](www.LTPXpand.com)** | **[Intern, M&A](https://jobright.ai/jobs/info/696141a2f3f4cd1325063bc9?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Jan 09 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69613c54f3f4cd13250636d5?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 - Corporate Development](https://jobright.ai/jobs/info/6961396ca112b402660fc105?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 09 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Nutech Summer Intern](https://jobright.ai/jobs/info/6961304be7ed9a5731b9f839?utm_campaign=1051&utm_source=git)** | Iowa, United States | On Site | Jan 09 |
 | **[Insight FS](https://www.insightfs.com)** | **[Growmark Energy Intern Insight FS](https://jobright.ai/jobs/info/6961710ea112b402660ff41c?utm_campaign=1051&utm_source=git)** | Jefferson, WI | On Site | Jan 09 |
 | **[First South Farm Credit](https://www.firstsouthfarmcredit.com/)** | **[Loan Officer Intern - Summer 2026-4200](https://jobright.ai/jobs/info/6961566ca112b402660fd988?utm_campaign=1051&utm_source=git)** | Ridgeland, MS | On Site | Jan 09 |
 | **[RBC](https://www.rbc.com)** | **[Relationship Manager Business Markets Intern](https://jobright.ai/jobs/info/69615186f3f4cd1325064a81?utm_campaign=1051&utm_source=git)** | Edmundston, New Brunswick, Canada | On Site | Jan 09 |
