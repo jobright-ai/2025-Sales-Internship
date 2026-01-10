@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mitsubishi Chemical Advanced Materials](https://www.mcam.com/)** | **[Inside Sales Internship (Mitsubishi Chemical Advanced Materials)](https://jobright.ai/jobs/info/6962af242cbf4e44756c9132?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Jan 10 |
+| **[The Theofilis Group (TTG)](theofilisgroup.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6962ad7625e18715077f75b6?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 10 |
+| **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/6962a62d25e18715077f707a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
+| **[Make-A-Wish Georgia](http://www.georgia.wish.org)** | **[Intern, Corporate Development (Spring)](https://jobright.ai/jobs/info/6962a5fc25e18715077f7054?utm_campaign=1051&utm_source=git)** | Atlanta Metro | Hybrid | Jan 10 |
+| **[Dream Education Consulting](www.dreameducationconsulting.com)** | **[Business Development & Growth Intern (Remote)](https://jobright.ai/jobs/info/696299fb25e18715077f6aea?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 10 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Sales Internship](https://jobright.ai/jobs/info/6962996025e18715077f6aab?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Jan 10 |
 | **[Vyntravo](vyntravo.us)** | **[Graduate Trading Trainee](https://jobright.ai/jobs/info/6962840ea112b4026610eec7?utm_campaign=1051&utm_source=git)** | Illinois, United States | On Site | Jan 10 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[ATS Sales & Eng Intern](https://jobright.ai/jobs/info/696275b625e18715077f4b0c?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - New England & Capital District,](https://jobright.ai/jobs/info/696270752cbf4e44756c645b?utm_campaign=1051&utm_source=git)** | South Windsor, CT | On Site | Jan 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Internship (Stores) / Brea, CA  - Summer 2026](https://jobright.ai/jobs/info/696210d72cbf4e44756c0891?utm_campaign=1051&utm_source=git)** | Brea, CA | On Site | Jan 10 |
 | ↳ | **[Retail Management Internship (Stores) / Scottsdale, AZ - Summer 2026](https://jobright.ai/jobs/info/696210c92cbf4e44756c0882?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ | On Site | Jan 10 |
 | **[bedrock](https://www.bookbedrock.com/)** | **[Internship 2026 Business Development & Strategy](https://jobright.ai/jobs/info/69045aaaff462851feff4cdc?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Hybrid | Jan 10 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Thousand Oaks, CA - Summer 2026](https://jobright.ai/jobs/info/6962099ba112b40266107475?utm_campaign=1051&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 10 |
-| ↳ | **[Retail Management Internship (Stores) / Menifee, CA - Summer 2026](https://jobright.ai/jobs/info/696207112cbf4e44756c0164?utm_campaign=1051&utm_source=git)** | Menifee, CA | On Site | Jan 10 |
-| **[Communication Service for the Deaf (CSD)](https://www.csd.org/)** | **[Business Development - Internship](https://jobright.ai/jobs/info/6962223da112b40266108c11?utm_campaign=1051&utm_source=git)** | Austin, TX | Remote | Jan 09 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Management Internship (Stores) / Goodyear, AZ - Summer 2026](https://jobright.ai/jobs/info/6961ff0ea112b402661070b5?utm_campaign=1051&utm_source=git)** | Goodyear, AZ 85338 | On Site | Jan 09 |
-| ↳ | **[Retail Management Internship (Stores) / Scottsdale, AZ - Summer 2026](https://jobright.ai/jobs/info/6961fee9a112b402661070a2?utm_campaign=1051&utm_source=git)** | Scottsdale, AZ 85258 | On Site | Jan 09 |
-| ↳ | **[Retail Management Internship (Stores) / Tucson, AZ - Summer 2026](https://jobright.ai/jobs/info/6961fee3a112b402661070a1?utm_campaign=1051&utm_source=git)** | Tucson, AZ 85704 | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
