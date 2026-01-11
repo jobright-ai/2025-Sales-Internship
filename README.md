@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fini](https://www.usefini.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6963c539a112b4026611d396?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 11 |
+| **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6963c31625e1871507804cd8?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jan 11 |
+| **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative Summer Internship (2026 & 2027 Graduates)](https://jobright.ai/jobs/info/6963bef0a112b4026611cf77?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 11 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Trading Associate](https://jobright.ai/jobs/info/6963bd9d25e1871507804a01?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 11 |
+| **[Vyntravo](vyntravo.us)** | **[Entry Level Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6963bcc8a112b4026611cd4e?utm_campaign=1051&utm_source=git)** | Columbus, OH | On Site | Jan 11 |
+| **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f18660e6870116b1f5a19f?utm_campaign=1051&utm_source=git)** | Woodbury, MN | On Site | Jan 11 |
 | **[PRIDE Seeds](http://www.prideseeds.com)** | **[Sales Agronomist Intern (Zone 11 & 12 Quebec)](https://jobright.ai/jobs/info/6946a9667d506e3808f20e16?utm_campaign=1051&utm_source=git)** | Québec, Quebec, Canada | On Site | Jan 11 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[ATS Sales & Eng Intern](https://jobright.ai/jobs/info/694716ec63141d188456d328?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Jan 11 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f18644ef766b3f0fd0f197?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Jan 11 |
@@ -130,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[TD Insurance Private Client Advice Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6962b07ea112b4026610fe88?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | On Site | Jan 10 |
 | **[Mitsubishi Chemical Advanced Materials](https://www.mcam.com/)** | **[Inside Sales Internship (Mitsubishi Chemical Advanced Materials)](https://jobright.ai/jobs/info/6962af242cbf4e44756c9132?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Jan 10 |
 | **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/6962a62d25e18715077f707a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
-| **[Make-A-Wish Georgia](http://www.georgia.wish.org)** | **[Intern, Corporate Development (Spring)](https://jobright.ai/jobs/info/6962a5fc25e18715077f7054?utm_campaign=1051&utm_source=git)** | Atlanta Metro | Hybrid | Jan 10 |
 | **[Dream Education Consulting](www.dreameducationconsulting.com)** | **[Business Development & Growth Intern (Remote)](https://jobright.ai/jobs/info/696299fb25e18715077f6aea?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 10 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Sales Internship](https://jobright.ai/jobs/info/6962996025e18715077f6aab?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Jan 10 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[ATS Sales & Eng Intern](https://jobright.ai/jobs/info/696275b625e18715077f4b0c?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed363e0db92422580bc4f?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Jan 10 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d5ecb12116ff37ee091476?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 10 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Sales Intern](https://jobright.ai/jobs/info/6945d129951654073537fcca?utm_campaign=1051&utm_source=git)** | Galesburg, MI | On Site | Jan 10 |
-| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Proposal Intern](https://jobright.ai/jobs/info/6945da91d1953b5d11beecc4?utm_campaign=1051&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
-| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d44dfa8c62e63bc7fe8027?utm_campaign=1051&utm_source=git)** | Austin, TX | On Site | Jan 10 |
-| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4a6a28c62e63bc7feb407?utm_campaign=1051&utm_source=git)** | Raleigh, NC | On Site | Jan 10 |
-| ↳ | **[Sales Internship Program](https://jobright.ai/jobs/info/68d459848c62e63bc7fe863f?utm_campaign=1051&utm_source=git)** | Lake Mary, FL | On Site | Jan 10 |
-| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d449deffc1276de3fd9600?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
