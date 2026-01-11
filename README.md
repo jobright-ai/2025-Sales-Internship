@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Management and Sales Summer Intern (Twin Cities)](https://jobright.ai/jobs/info/694a178c63141d188459c44a?utm_campaign=1051&utm_source=git)** | Burnsville, MN | On Site | Jan 11 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern - Summer 2026](https://jobright.ai/jobs/info/692f72cafa28370be26aa337?utm_campaign=1051&utm_source=git)** | Simi Valley, CA | On Site | Jan 11 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Business Development Sales Intern](https://jobright.ai/jobs/info/69637b5d2cbf4e44756d3360?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 11 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Customer Value Strategy](https://jobright.ai/jobs/info/690ecfe544146d3b6ec58005?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 11 |
+| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Construction Sales Internship Program](https://jobright.ai/jobs/info/69637895a112b40266119cce?utm_campaign=1051&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 11 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Sales Development Internship (Nationwide - Summer '26)](https://jobright.ai/jobs/info/691ab48abcdbf3560c9d9d20?utm_campaign=1051&utm_source=git)** | Davidson, NC | On Site | Jan 11 |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Part-Time Open Innovation Intern (Summer 2026)](https://jobright.ai/jobs/info/696374222cbf4e44756d318c?utm_campaign=1051&utm_source=git)** | La Jolla, CA | Hybrid | Jan 11 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Global Procurement Intern](https://jobright.ai/jobs/info/695c761a5e4962051b599469?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Jan 11 |
 | **[ABARTA Coca-Cola Beverages, LLC](https://abartacocacola.com/)** | **[Intern - Account Manager](https://jobright.ai/jobs/info/6963591ca112b402661174ab?utm_campaign=1051&utm_source=git)** | Pittston, PA | On Site | Jan 11 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[TD Insurance Private Client Advice Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69634a88a112b40266116db7?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
-| **[ABARTA Coca-Cola Beverages, LLC](https://abartacocacola.com/)** | **[Intern - Commercial Sales](https://jobright.ai/jobs/info/69636d36a112b402661194fc?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
+| **[ABARTA Coca-Cola Beverages, LLC](https://abartacocacola.com/)** | **[Intern - Key Acct. Sm/Lg Store](https://jobright.ai/jobs/info/696385d32cbf4e44756d34f9?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
+| ↳ | **[Intern - Commercial Sales](https://jobright.ai/jobs/info/69636d36a112b402661194fc?utm_campaign=1051&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jan 10 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Inside Sales Internship](https://jobright.ai/jobs/info/6962f18625e18715077fb037?utm_campaign=1051&utm_source=git)** | Redlands, CA | On Site | Jan 10 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6962e7cb25e18715077f9850?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d4a191ffc1276de3fdca9c?utm_campaign=1051&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
 | **[Paycom](http://www.paycom.com)** | **[Client Success Intern](https://jobright.ai/jobs/info/68cd1b16b2a74e1837ed2877?utm_campaign=1051&utm_source=git)** | Oklahoma City, OK | Remote | Jan 10 |
 | **[CN](http://www.cn.ca)** | **[Intern, Sales & Marketing - Indigenous- EN](https://jobright.ai/jobs/info/6959d5eff1f8465b79f03569?utm_campaign=1051&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Homebuilding - Sales](https://jobright.ai/jobs/info/6954a530aa05c26e7aaf1d03?utm_campaign=1051&utm_source=git)** | Charleston, SC | On Site | Jan 10 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/692003db09cc522e877474d2?utm_campaign=1051&utm_source=git)** | Bonita Springs, FL | On Site | Jan 10 |
-| **[Corsair](http://www.corsair.com)** | **[Partnership Operations Intern](https://jobright.ai/jobs/info/6945987f63141d1884552507?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 10 |
-| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Strategic Partnership Sales & Marketing Intern](https://jobright.ai/jobs/info/68f05cd999530851ee6ecbfb?utm_campaign=1051&utm_source=git)** | Omaha, NE | On Site | Jan 10 |
-| **[Victaulic](https://www.victaulic.com)** | **[2026 Sales Internship Program (All Locations)](https://jobright.ai/jobs/info/691e3b1909cc522e87737e73?utm_campaign=1051&utm_source=git)** | Pennsylvania, United States | Hybrid | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - Alabama](https://jobright.ai/jobs/info/6945f039d1953b5d11befb87?utm_campaign=1051&utm_source=git)** | Birmingham, AL | On Site | Jan 10 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer 2026 Management and Sales Intern](https://jobright.ai/jobs/info/68d4492bffc1276de3fd9505?utm_campaign=1051&utm_source=git)** | Norfolk, VA | On Site | Jan 10 |
-| **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Sales Administrative Assistant Intern – Summer 2026 (Cleveland, OH)](https://jobright.ai/jobs/info/6945cfe8951654073537f693?utm_campaign=1051&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
