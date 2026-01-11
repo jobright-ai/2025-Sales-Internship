@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD Securities](https://www.tdsecurities.com)** | **[TD Insurance Private Client Advice Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69634a88a112b40266116db7?utm_campaign=1051&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jan 10 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Inside Sales Internship](https://jobright.ai/jobs/info/6962f18625e18715077fb037?utm_campaign=1051&utm_source=git)** | Redlands, CA | On Site | Jan 10 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6962e7cb25e18715077f9850?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (MSP)](https://jobright.ai/jobs/info/68f08578eb273a32d97691b8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
 | **[S&P Global](https://www.spglobal.com)** | **[Market Intelligence Sales Associate Internship](https://jobright.ai/jobs/info/6945bf6c951654073537dc2d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - Commercial Real Estate](https://jobright.ai/jobs/info/6945eeb67d506e3808f12fd7?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
-| ↳ | **[Intern - Commercial Banking - NY - Healthcare](https://jobright.ai/jobs/info/6945ebe87d506e3808f12e7d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
