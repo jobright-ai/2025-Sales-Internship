@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great Lakes Wine & Spirits](http://www.GLWAS.com)** | **[2026 Multi-Channel Sales Internship Program](https://jobright.ai/jobs/info/69640cad2cbf4e44756db94c?utm_campaign=1051&utm_source=git)** | Highland Park, MI | On Site | Jan 11 |
+| **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Ticket Sales & Operations Internship](https://jobright.ai/jobs/info/6964040e2cbf4e44756d9e81?utm_campaign=1051&utm_source=git)** | Pearl, MS | On Site | Jan 11 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Box Office Sales Intern 2026](https://jobright.ai/jobs/info/6963ff32a112b402661204b7?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jan 11 |
 | ↳ | **[Retail Operations Intern 2026](https://jobright.ai/jobs/info/6963fe2fa112b402661203d9?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jan 11 |
 | **[Dynareon](dynareon.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6963f0f32cbf4e44756d941d?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Global Accounts Pricing Intern (IMMEDIATE START - 40 HRS Week JAN-APR)](https://jobright.ai/jobs/info/6960729f7ebc25398eb66910?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Hybrid | Jan 10 |
 | **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d450538c62e63bc7fe8317?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 10 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Store Operations](https://jobright.ai/jobs/info/694604137d506e3808f15499?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Jan 10 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed30bd078b81ad160fbbd?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Jan 10 |
-| ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed363e0db92422580bc4f?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
