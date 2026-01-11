@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6963d88e2cbf4e44756d8f18?utm_campaign=1051&utm_source=git)** | Houston, TX | On Site | Jan 11 |
 | **[Fini](https://www.usefini.com)** | **[Customer Success Intern](https://jobright.ai/jobs/info/6963c539a112b4026611d396?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 11 |
 | **[Hadron Energy, Inc.](https://www.hadronenergy.com/)** | **[Business Development Intern](https://jobright.ai/jobs/info/6963c31625e1871507804cd8?utm_campaign=1051&utm_source=git)** | NYC Metro Area | Hybrid | Jan 11 |
 | **[Northwestern Mutual - The South Florida Group](http://southfloridagroup.nm.com/ )** | **[College Financial Representative Summer Internship (2026 & 2027 Graduates)](https://jobright.ai/jobs/info/6963bef0a112b4026611cf77?utm_campaign=1051&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 11 |
@@ -143,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/69626a8625e18715077f480a?utm_campaign=1051&utm_source=git)** | Pooler, GA | On Site | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f17d3ff462172a5a7d9239?utm_campaign=1051&utm_source=git)** | Hudson, WI | On Site | Jan 10 |
 | **[Samsara](http://www.samsara.com)** | **[Account Development Representative Intern](https://jobright.ai/jobs/info/68ae3950758f2e4ac3012265?utm_campaign=1051&utm_source=git)** | Atlanta, GA | Hybrid | Jan 10 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Land Intern](https://jobright.ai/jobs/info/68ccdadcd11b445e0bee31ba?utm_campaign=1051&utm_source=git)** | Mount Laurel, NJ | On Site | Jan 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[2026 Summer Intern - Inbound Sales Representative](https://jobright.ai/jobs/info/6946046e63141d188455aed7?utm_campaign=1051&utm_source=git)** | Allen, TX | On Site | Jan 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Sales Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece28d078b81ad160f8ff?utm_campaign=1051&utm_source=git)** | Albuquerque, NM | On Site | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f1801def766b3f0fd0ec78?utm_campaign=1051&utm_source=git)** | Eau Claire, WI | On Site | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Store Operations](https://jobright.ai/jobs/info/694604137d506e3808f15499?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Jan 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed30bd078b81ad160fbbd?utm_campaign=1051&utm_source=git)** | Westborough, MA | On Site | Jan 10 |
 | ↳ | **[Land Acquisition Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed363e0db92422580bc4f?utm_campaign=1051&utm_source=git)** | Trevose, PA | On Site | Jan 10 |
-| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Sales Internship Program](https://jobright.ai/jobs/info/68d5ecb12116ff37ee091476?utm_campaign=1051&utm_source=git)** | Alpharetta, GA | On Site | Jan 10 |
-| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Rental Sales Intern](https://jobright.ai/jobs/info/6945d129951654073537fcca?utm_campaign=1051&utm_source=git)** | Galesburg, MI | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
