@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jan 10 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Inside Sales Internship](https://jobright.ai/jobs/info/6962f18625e18715077fb037?utm_campaign=1051&utm_source=git)** | Redlands, CA | On Site | Jan 10 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6962e7cb25e18715077f9850?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 10 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6962e4f62cbf4e44756cb30b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 10 |
@@ -93,12 +94,10 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Sales Clerk Leader FT 6598](https://jobright.ai/jobs/info/6962b3dd2cbf4e44756c9394?utm_campaign=1051&utm_source=git)** | Kodiak, AK | On Site | Jan 10 |
 | **[TD](https://www.td.com)** | **[TD Insurance Private Client Advice Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6962b07ea112b4026610fe88?utm_campaign=1051&utm_source=git)** | Toronto, Ontario | On Site | Jan 10 |
 | **[Mitsubishi Chemical Advanced Materials](https://www.mcam.com/)** | **[Inside Sales Internship (Mitsubishi Chemical Advanced Materials)](https://jobright.ai/jobs/info/6962af242cbf4e44756c9132?utm_campaign=1051&utm_source=git)** | Reading, PA | On Site | Jan 10 |
-| **[The Theofilis Group (TTG)](theofilisgroup.com)** | **[Sales Intern](https://jobright.ai/jobs/info/6962ad7625e18715077f75b6?utm_campaign=1051&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Hilti North America](http://www.hilti.com)** | **[Sales Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/6962a62d25e18715077f707a?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
 | **[Make-A-Wish Georgia](http://www.georgia.wish.org)** | **[Intern, Corporate Development (Spring)](https://jobright.ai/jobs/info/6962a5fc25e18715077f7054?utm_campaign=1051&utm_source=git)** | Atlanta Metro | Hybrid | Jan 10 |
 | **[Dream Education Consulting](www.dreameducationconsulting.com)** | **[Business Development & Growth Intern (Remote)](https://jobright.ai/jobs/info/696299fb25e18715077f6aea?utm_campaign=1051&utm_source=git)** | Miami, FL | Remote | Jan 10 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Sales Internship](https://jobright.ai/jobs/info/6962996025e18715077f6aab?utm_campaign=1051&utm_source=git)** | Minnesota, United States | On Site | Jan 10 |
-| **[Vyntravo](vyntravo.us)** | **[Graduate Trading Trainee](https://jobright.ai/jobs/info/6962840ea112b4026610eec7?utm_campaign=1051&utm_source=git)** | Illinois, United States | On Site | Jan 10 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[ATS Sales & Eng Intern](https://jobright.ai/jobs/info/696275b625e18715077f4b0c?utm_campaign=1051&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - New England & Capital District,](https://jobright.ai/jobs/info/696270752cbf4e44756c645b?utm_campaign=1051&utm_source=git)** | South Windsor, CT | On Site | Jan 10 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Spring Retail Management Internship](https://jobright.ai/jobs/info/69626a8625e18715077f480a?utm_campaign=1051&utm_source=git)** | Pooler, GA | On Site | Jan 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (MSP)](https://jobright.ai/jobs/info/68f08578eb273a32d97691b8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
 | **[S&P Global](https://www.spglobal.com)** | **[Market Intelligence Sales Associate Internship](https://jobright.ai/jobs/info/6945bf6c951654073537dc2d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - Commercial Real Estate](https://jobright.ai/jobs/info/6945eeb67d506e3808f12fd7?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
+| ↳ | **[Intern - Commercial Banking - NY - Healthcare](https://jobright.ai/jobs/info/6945ebe87d506e3808f12e7d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
