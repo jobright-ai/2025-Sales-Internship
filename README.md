@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Inside Sales Internship](https://jobright.ai/jobs/info/6962f18625e18715077fb037?utm_campaign=1051&utm_source=git)** | Redlands, CA | On Site | Jan 10 |
+| **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6962e7cb25e18715077f9850?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 10 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6962e4f62cbf4e44756cb30b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 10 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/693732f71c1c2161c13f1641?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | Jan 10 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6962c7f425e18715077f9475?utm_campaign=1051&utm_source=git)** | Triad Area | Remote | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Sales Intern (MSP)](https://jobright.ai/jobs/info/68f08578eb273a32d97691b8?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
 | **[S&P Global](https://www.spglobal.com)** | **[Market Intelligence Sales Associate Internship](https://jobright.ai/jobs/info/6945bf6c951654073537dc2d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - Commercial Real Estate](https://jobright.ai/jobs/info/6945eeb67d506e3808f12fd7?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
-| ↳ | **[Intern - Commercial Banking - NY - Healthcare](https://jobright.ai/jobs/info/6945ebe87d506e3808f12e7d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 10 |
-| ↳ | **[Intern - Commercial Banking - Professional and Executive](https://jobright.ai/jobs/info/6945ee8c7d506e3808f12fbc?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
