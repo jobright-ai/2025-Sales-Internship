@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6962e4f62cbf4e44756cb30b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 10 |
+| **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/693732f71c1c2161c13f1641?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | Jan 10 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6962c7f425e18715077f9475?utm_campaign=1051&utm_source=git)** | Triad Area | Remote | Jan 10 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6962c72f25e18715077f9433?utm_campaign=1051&utm_source=git)** | Athens, GA | Remote | Jan 10 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6962c70b2cbf4e44756caf19?utm_campaign=1051&utm_source=git)** | Pensacola Metro | Remote | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - Commercial Real Estate](https://jobright.ai/jobs/info/6945eeb67d506e3808f12fd7?utm_campaign=1051&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | ↳ | **[Intern - Commercial Banking - NY - Healthcare](https://jobright.ai/jobs/info/6945ebe87d506e3808f12e7d?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | ↳ | **[Intern - Commercial Banking - Professional and Executive](https://jobright.ai/jobs/info/6945ee8c7d506e3808f12fbc?utm_campaign=1051&utm_source=git)** | St. Petersburg, FL | On Site | Jan 10 |
-| ↳ | **[Intern - Commercial Banking - Jericho](https://jobright.ai/jobs/info/6945ec3a63141d18845587ae?utm_campaign=1051&utm_source=git)** | Jericho, NY | On Site | Jan 10 |
-| ↳ | **[Intern - Commercial Banking - West Florida](https://jobright.ai/jobs/info/6945ec657d506e3808f12ed2?utm_campaign=1051&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
