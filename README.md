@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantage Marketing Canada](vantagemarketingcanada.com)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69643134a112b402661226a3?utm_campaign=1051&utm_source=git)** | London, Ontario, Canada | On Site | Jan 11 |
+| ↳ | **[Summer Sales Internship - Summer 2026](https://jobright.ai/jobs/info/6964309425e187150780a190?utm_campaign=1051&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 11 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/69642a9525e187150780a103?utm_campaign=1051&utm_source=git)** | Dallas, TX | Hybrid | Jan 11 |
+| **[SKVL Organic World Inc](www.MoreA2.com)** | **[Business Development Intern](https://jobright.ai/jobs/info/696426f12cbf4e44756dbe3d?utm_campaign=1051&utm_source=git)** | Coventry, RI | Hybrid | Jan 11 |
+| **[Southwestern Advantage](http://southwesternadvantage.com/)** | **[Summer Sales Intern](https://jobright.ai/jobs/info/6964267e2cbf4e44756dbdfb?utm_campaign=1051&utm_source=git)** | Kansas City, KS | Hybrid | Jan 11 |
 | **[Great Lakes Wine & Spirits](http://www.GLWAS.com)** | **[2026 Multi-Channel Sales Internship Program](https://jobright.ai/jobs/info/69640cad2cbf4e44756db94c?utm_campaign=1051&utm_source=git)** | Highland Park, MI | On Site | Jan 11 |
 | **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Ticket Sales & Operations Internship](https://jobright.ai/jobs/info/6964040e2cbf4e44756d9e81?utm_campaign=1051&utm_source=git)** | Pearl, MS | On Site | Jan 11 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Box Office Sales Intern 2026](https://jobright.ai/jobs/info/6963ff32a112b402661204b7?utm_campaign=1051&utm_source=git)** | Kalamazoo, MI | On Site | Jan 11 |
@@ -106,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Partner Management Intern](https://jobright.ai/jobs/info/69630fff25e18715077fbeda?utm_campaign=1051&utm_source=git)** | Waltham, MA | Hybrid | Jan 10 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Inside Sales Internship](https://jobright.ai/jobs/info/6962f18625e18715077fb037?utm_campaign=1051&utm_source=git)** | Redlands, CA | On Site | Jan 10 |
 | **[Starbeam](www.starbeam.org)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6962e7cb25e18715077f9850?utm_campaign=1051&utm_source=git)** | San Francisco, CA | Remote | Jan 10 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Sales Intern – Summer 2026](https://jobright.ai/jobs/info/6962e4f62cbf4e44756cb30b?utm_campaign=1051&utm_source=git)** | Miami, FL | On Site | Jan 10 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Sales Development Representative (SDR) Intern](https://jobright.ai/jobs/info/693732f71c1c2161c13f1641?utm_campaign=1051&utm_source=git)** | Austin, Texas | On Site | Jan 10 |
 | **[PSI Groups](http://psigroups.net)** | **[Sales Intern](https://jobright.ai/jobs/info/6962c7f425e18715077f9475?utm_campaign=1051&utm_source=git)** | Triad Area | Remote | Jan 10 |
 | ↳ | **[Sales Intern](https://jobright.ai/jobs/info/6962c72f25e18715077f9433?utm_campaign=1051&utm_source=git)** | Athens, GA | Remote | Jan 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Outside Sales Internship - Summer 2026](https://jobright.ai/jobs/info/68f17fc0ef766b3f0fd0ec2c?utm_campaign=1051&utm_source=git)** | Minneapolis, MN | On Site | Jan 10 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Inhouse Sales Engineer Intern](https://jobright.ai/jobs/info/695fc65fa1bbea1d9a7a8689?utm_campaign=1051&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Banking - Westchester/Hudson Valley NY](https://jobright.ai/jobs/info/6945f3e9d1953b5d11befd25?utm_campaign=1051&utm_source=git)** | White Plains, NY | On Site | Jan 10 |
-| **[Giorgio Armani](http://www.armani.com)** | **[Intern - Retail Operations, Giorgio Armani](https://jobright.ai/jobs/info/695217b6a2668b7f5454aeaf?utm_campaign=1051&utm_source=git)** | New York, NY | On Site | Jan 10 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Global Accounts Pricing Intern (IMMEDIATE START - 40 HRS Week JAN-APR)](https://jobright.ai/jobs/info/6960729f7ebc25398eb66910?utm_campaign=1051&utm_source=git)** | North Carolina, United States | Hybrid | Jan 10 |
-| **[Starlight Homes](https://www.starlighthomes.com)** | **[New Home Sales Internship Program](https://jobright.ai/jobs/info/68d450538c62e63bc7fe8317?utm_campaign=1051&utm_source=git)** | San Antonio, TX | On Site | Jan 10 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Store Operations](https://jobright.ai/jobs/info/694604137d506e3808f15499?utm_campaign=1051&utm_source=git)** | Winston-Salem, NC | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
